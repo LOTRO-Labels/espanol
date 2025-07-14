@@ -1,0 +1,341 @@
+{
+  "id": 620760869,
+  "txt": [
+    {
+      "id": "0x5fd0101",
+      "en": "Halbarad has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38cbe61",
+      "en": "'Halbarad, all of Trestlebridge is indebted to you and your companions.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf50de61",
+      "en": "'These Orcs... they are unlike any I've fought before!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38cbe62",
+      "en": "'I only hope you can forgive my behaviour towards you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf50de62",
+      "en": "'How shall we stand against such creatures as these?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf50de63",
+      "en": "'Are their numbers without limit?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae0aa1",
+      "en": "'Think nothing of it. It was my honour to aid you in this fight.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae0aa2",
+      "en": "'I must leave you now though and return to Esteldín.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae0aa3",
+      "en": "'My companions, though, shall remain behind, in the event more trouble arises.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae0aa4",
+      "en": "'I must have one final word with them, then leave!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c877f1",
+      "en": "Slay the Orc-warchief.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9ee8df",
+      "en": "travel_exit (info)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'We have done well this day! I am indebted to you as well for your aid, as I fear the battle would have turned against the Free Peoples had you not been here.\\n\\n'I must leave now, and I hope it is not too much to ask of you to stay behind. I would ask that you ensure that Trestlebridge remains safe through the night, then return to me in Esteldín.\\n\\n'This was a great victory, my friend, a great victory indeed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'I'll take you back to Nellie's house.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'The Orcs are nearly upon the town. Come with me quickly, we must convince Miss Boskins of the threat that is nearly upon her!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have failed to protect Trestlebridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have defended Trestlebridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf830c01",
+      "en": "'Follow me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf830c02",
+      "en": "'Mayor Boskins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf830c03",
+      "en": "'Nellie Boskins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1b3541",
+      "en": "'Mayor Boskins, look! One of the guards approaches!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d7c721",
+      "en": "'Who's there? What is going on?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have travelled with Halbarad to Trestlebridge to aid in its defence against Orcs of the Ongbúrz tribe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bd061",
+      "en": "'Miss Boskins, I am Halbarad of Esteldín. I come with a dire warning.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bd062",
+      "en": "'Orcs of a kind unknown to you are about to attack your town!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bd063",
+      "en": "'We have come to lend you what aid we can in the battle ahead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bd064",
+      "en": "'But Miss Boskins....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bd065",
+      "en": "'Come, we must follow, the battle is upon us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bd066",
+      "en": "'To the bridge!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa869574",
+      "en": "'Smash 'em! Kill 'em! Destroy these maggots!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Halbarad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Defend Trestlebridge, and ensure that Halbarad and Nellie survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7684dd1",
+      "en": "Nellie Boskins has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Halbarad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Kill all the invading Orcs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Speak with Nellie Boskins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0410f1",
+      "en": "'They are of the Ongbúrz tribe... and more will be upon us soon!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0410f2",
+      "en": "'Do not give up hope! We shall yet stand this day!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0410f3",
+      "en": "'I think the end is in sight, Miss Boskins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0410f4",
+      "en": "'It is the war-chief! Our enemy is upon us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Aid Halbarad in the defence of Trestlebridge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Halbarad stands on the Trestlebridge, near Nellie Boskins.\\n\\nAlongside Halbarad and the people of Trestlebridge, you have defended the town against the Ongbúrz Orcs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "You have defeated the Orcs! Nellie Boskins would like to thank you for your help in the defence of Trestlebridge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad6aa21",
+      "en": "'Quickly, I must have a word with you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2afd881",
+      "en": "'Mayor Boskins, Orcs of a kind I've never seen before approach!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb077ed1",
+      "en": "'Ah, I see. So I refuse your call to council, and now this new Orc-threat appears?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb077ed2",
+      "en": "'I think we know how to deal with Orcs... without your help.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb077ed3",
+      "en": "'Why don't you return to your home. We will deal with this Orc-threat.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb077ed4",
+      "en": "'Come! Perhaps it is another attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c30823",
+      "en": "'Men! To me! We must defend Trestlebridge!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb077ed5",
+      "en": "'Perhaps your words were true, Halbarad. Come now, to the bridge!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40f6701",
+      "en": "'The Orcs are upon us! To the bridge, quickly!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40f6702",
+      "en": "'We have done it! Trestlebridge is free from the Orcs...at least for a little while. I know that soon enough they will attack us anew. However with your help, or others like you, we can counter the challenges ahead!\\n\\n'Yet, those are concerns for another day! Our victory gives me hope that Trestlebridge will be as it once was, full of life and people! And your bravery here will not soon be forgotten!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf0bd21",
+      "en": "'Huzzah! Trestlebridge is saved!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2efa83e",
+      "en": "travel_exit (desc)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Defence of Trestlebridge",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

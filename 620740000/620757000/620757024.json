@@ -1,0 +1,521 @@
+{
+  "id": 620757024,
+  "txt": [
+    {
+      "id": "0x434c8a5",
+      "en": "Spirit of Vengeance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe65fc14",
+      "en": "Support",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa38aa82",
+      "en": "EliteMaster",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5044c45",
+      "en": "Immune",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ac479e",
+      "en": "Unsummon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbb001e",
+      "en": "Induction",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6abfef2",
+      "en": "Protector",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5966ab4",
+      "en": "Rooted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc84dc4",
+      "en": "Advanced",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5afc51",
+      "en": "Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5afc52",
+      "en": "Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a71",
+      "en": "Stage 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5afc53",
+      "en": "Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6bf5435",
+      "en": "Intermediate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a72",
+      "en": "Stage 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5afc54",
+      "en": "Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab7c3b4",
+      "en": "AI Skill Disabled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a73",
+      "en": "Stage 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5afc55",
+      "en": "Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a74",
+      "en": "Stage 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf0476d",
+      "en": "Within 60 Meters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a75",
+      "en": "Stage 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2803f4",
+      "en": "Claimed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a76",
+      "en": "Stage 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a77",
+      "en": "Stage 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a78",
+      "en": "Stage 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabc54e4",
+      "en": "Stunned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a79",
+      "en": "Stage 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x556cf95",
+      "en": "Novice",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c30a5",
+      "en": "Elite",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fd9ef2",
+      "en": "AggroCount12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9ac85",
+      "en": "SimpleDisguise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbeb30c8",
+      "en": "LowHealth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x556937c",
+      "en": "Normal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65a4ed5",
+      "en": "ElaborateDisguise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cb88b4",
+      "en": "Feared",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b7a90c",
+      "en": "Dreadful",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f2b8f7",
+      "en": "Threatening",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a88dc4",
+      "en": "Target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d09a4",
+      "en": "First",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf0456d",
+      "en": "Within 80 Meters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa633bef",
+      "en": "SoloDuo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f39614",
+      "en": "Specialist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dbd1d3",
+      "en": "RangedDPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bae04",
+      "en": "Directed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d02f14",
+      "en": "MordorLieutenant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9fe034",
+      "en": "Assigned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe48e575",
+      "en": "Signature",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcefac78",
+      "en": "HighHealth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56c4",
+      "en": "Pet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1eb037e",
+      "en": "KnockedDown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e19e48",
+      "en": "CriticalHealth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a1b431",
+      "en": "PetSkill1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a1b432",
+      "en": "PetSkill2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac776c4",
+      "en": "Support",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a1b433",
+      "en": "PetSkill3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c99ccb",
+      "en": "Berserk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5884db4",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a1b434",
+      "en": "PetSkill4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fd3ec8",
+      "en": "AggroCount48",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb83f414",
+      "en": "Stealthed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8efa5f8",
+      "en": "GoodHealth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf04b6d",
+      "en": "Within 20 Meters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba7a534",
+      "en": "Attacked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cda515",
+      "en": "Vulnerable",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4889ec2",
+      "en": "Archer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4eb8d9",
+      "en": "Heavy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x520",
+      "en": "MonsterPlayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1eb394",
+      "en": "KnockedOut",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd270c95",
+      "en": "BreaksOnVitalChange",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbf90d4",
+      "en": "AntiExploit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf04a6d",
+      "en": "Within 10 Meters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a90b4",
+      "en": "Dazed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2b9c63",
+      "en": "MeleeDPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2fd3e3",
+      "en": "AggroCount3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a84b",
+      "en": "Tank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8555ee5",
+      "en": "PerfectDisguise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a740",
+      "en": "Stage 10",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6abfd24",
+      "en": "Protected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2fd3e6",
+      "en": "AggroCount6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4953",
+      "en": "DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a0b855",
+      "en": "WithinMeleeRange",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf0496d",
+      "en": "Within 40 Meters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fd3ee4",
+      "en": "AggroCount24",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca76015",
+      "en": "Response",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58d20b4",
+      "en": "Rezzed",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

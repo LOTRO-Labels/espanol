@@ -1,0 +1,257 @@
+{
+  "id": 621007840,
+  "txt": [
+    {
+      "id": "0xb011873",
+      "en": "You should examine the rust spot found at the gates of Erebor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'Why is it, then, that I cannot stop thinking of the riddle of the dragon-bones you told me of, in the Long Lake? And now you tell me this Karazgar appeared holding a dragon's tooth.\\n\\n'Although dragons play no small part in the history of the Dale-lands, we know remarkably little about the beasts. The dwarves, however... they have long memories, and I know that dragons figure largely into their own histories. I think you should make your way to Erebor, [placeholder], and learn what you can about dragon's bones and teeth, and what this man-of-rust might be after.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011876",
+      "en": "You should speak with Víglund, the guard at the gates of Erebor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011879",
+      "en": "You should speak with Lore-masters Rúni, Spall, Fróthi, Mágsal, and Belgur in Erebor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011850",
+      "en": "Víglund the guard can be found at the gates of Erebor.\\n\\nYou should tell Víglund your conclusion about the axe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568921",
+      "en": "You tell Víglund that the axe is the work of Karazgar and what little else you know.\\n\\n'Never heard that name. I know I would remember it if I had! This Karazgar would be from Mordor, or I'm a wren's egg - and so are those Stout-axes. Perhaps they know something of this mysterious figure.\\n\\n'Why don't you speak to Órug and learn what you may?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011853",
+      "en": "Górsim can be found in Erebor.\\n\\nYou should speak with Górsim about viewing the teeth of the dragon Scatha.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e9",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568951",
+      "en": "'Ah, Víglund sent you, did he?'\\n\\nYou tell what you have learned of Karazgar.\\n\\n'Ah, the Weeping Warrior, yes. That he is called. One of the Gúrzyul I never set eyes on, but tales of his wicked deeds are told by the Stout-axes. A cruel assassin, a spy, and a tamer of beasts. He enslaved dragons for the Dark Lord, it is said.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568924",
+      "en": "'What? What is it, [placeholder]? Can you not see that I am taking a well-deserved rest?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011856",
+      "en": "You should continue assisting the Dwarves of Erebor.\\n\\n<rgb=#FF0000>The Trail of Rust quest arc will continue after completing the Under The Mountain quest arc which begins with Órug in Erebor.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011859",
+      "en": "You should examine the axe embedded in the statue at the gates of Erebor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f1",
+      "en": "Examine the axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d165",
+      "en": "The dwarves have a long history with dragons. You may be able to learn something of the riddle of the dragon bones and Karazgar from the lore-masters of the Lonely Mountain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56812",
+      "en": "'You there, hold. Do you know anything about this, this - mischief?'\\n\\nVíglund gestures at the axe lodged in the statue.\\n\\n'No? If that is the doing of those Stout-axes, then King Thorin shall hear a piece of my mind, and then some! He may trust them, but I do not. Take a look at it for yourself. I am right, am I not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d3",
+      "en": "While I am no expert in dragons, I know some who are.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f4",
+      "en": "Examine the rust spot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c5",
+      "en": "Talk to Rúni",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c6",
+      "en": "Talk to Spall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b30",
+      "en": "You notice some dwarves gathered around a statue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c7",
+      "en": "Talk to Fróthi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b60",
+      "en": "Víglund believes the Stout-axes might be involved",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01101",
+      "en": "Víglund and the crowd stand before the gates of Erebor, in the northern end of the Dale-lands.\\n\\nYou should talk to Víglund about the dwarves gathered around the statue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c8",
+      "en": "Talk to Mágsal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b32",
+      "en": "The old axe is lodged thoroughly in the stone. Is that a... rust spot beside it?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568930",
+      "en": "'Smaug? Why yes, of course. It is common knowledge the cunning worm seized this very mountain from the dwarves and made it his lair for many long years.\\n\\n'What fewer know is from whence Smaug the Golden came. The answer, of course, is the North, where the great dragons dwelled. Why he came south, I cannot say, but it is written that his hatred of the dwarves runs old and deep, ever since discovering five young worms slain, and wrongly blaming Durin's Folk.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c9",
+      "en": "Talk to Belgur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f8",
+      "en": "Talk to Víglund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568931",
+      "en": "'Dragons? Hrm! Dragons... well then, have you ever heard the name of Hrímil Frost-heart? Aye, one of the eldest and most feared of her kind, mother of many cold-drakes who have filled the world with terror.\\n\\n'One of these Stout-axes told me another tale, claiming that Hrímil had somehow been captured by Sauron and was held in Barad-dûr! I cannot quite decide whether to believe the fellow, but all the same, I find myself wondering if the old cold-drake was crushed beneath Barad-dûr when it fell.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568932",
+      "en": "'I shall speak of Scatha the Worm, which is of great interest to me, and, indeed, touches in many ways on the lives of all of us who have come to dwell here under the mountain.\\n\\n'It was long ago and far to the north, in the Grey Mountains, that Durin's Folk disturbed the slumber of the great dragons, Scatha among them. Many dwarves and their friends paid for that mistake with their lives, and a few dragons as well - but not Scatha. Swift and cunning was he, and fled that place to trouble the world above.\\n\\n'Nor did trouble end with his death, for Men fought with dwarves over Scatha's hoard. And though the greater portion of it was stolen from us, all we ever had of the treasure was a string of Scatha's teeth! They are kept, even now, here in the Lonely Mountain.\\n\\n'If you wished to see them, you might ask Górsim, keeper of the vaults.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b35",
+      "en": "This axe was the work of Karazgar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568933",
+      "en": "'Fingar, the wingless worm, lay hidden in the Grey Mountains long, long after the other great dragons were fled or slain. From hidden places he watched the Dwarf-kingdoms rise and grow in wealth. And so, too, grew his greed until at last he came forth from hiding and laid waste to the dwarf-holds, claiming their coin and craft for his hoard.\\n\\n'That is an old telling, and little else is known... although I have also heard that greed was Fingar's undoing, and through it he became a captive of Sauron, in Mordor.\\n\\n'Then, if the Stout-axes are to be believed, he was fought and slain shortly after Mordor fell. Bah, what nonsense! I believe it not.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568934",
+      "en": "'The Stout-axes have filled my ears with tales of Thostír, a fire-drake whom they say escaped the Abyss of Mordath upon the plain of Gorgoroth. I have done some reading of old texts, and I believe this Thostír may just be the dragon who laid waste to Dwarf-kingdoms in the eastern mountains, in times of old. Of course, we may never know for certain.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50213",
+      "en": "Talk to Víglund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568907",
+      "en": "'A tamer of dragons, this Karazgar? Why, that reminds me of an old tale. It is said that Smaug's grudge against Durin's folk began when he woke, far in the North, to a dead worm's head, with an axe left in it - much like what we see before us.\\n\\n'Could that have been this Weeping Warrior? These servants of Sauron are deathless, are they not?\\n\\n'But what is it he wants with old dragon bones? Bah! I am no expert in dragons, but there are dwarves in Erebor who are. Why don't you speak to Rúni, Spall, Fróthi, Mágsal, and Belgur? They are counted among our most learned lore-masters.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Erebor is in the northern end of the Dale-lands.\\n\\nYou should travel to Erebor to speak with the dwarves there.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029a2",
+      "en": "Talk to Órug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d2",
+      "en": "Talk to Víglund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d5",
+      "en": "Talk to Górsim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d7",
+      "en": "<rgb=#FF0000>Complete the Under The Mountain quest arc to continue</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa24",
+      "en": "Concerning Dragons",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d8",
+      "en": "Travel to the gates of Erebor",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

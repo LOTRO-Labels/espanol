@@ -1,0 +1,407 @@
+{
+  "id": 620959058,
+  "txt": [
+    {
+      "id": "0x6a50293",
+      "en": "DNT obj4 desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "DNT obv 4 event desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "<rgb=#FF0000>Baranor has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c51",
+      "en": "'There's a taste of battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c52",
+      "en": "'Pace yourself, Dagor. We're in for more than a taste.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Baranor stands on the bridge before Arnach's keep.\\n\\nThe Haradrim are likely to attack soon. Talk to Baranor now.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "<rgb=#FF0000>Dagor has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x888c782",
+      "en": "'Dagor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x888c783",
+      "en": "'Come back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c01",
+      "en": "'Ha ha! Now this, this is battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'My arms are weary and sore, [placeholder]. I am not a young man! Let us retire and regroup.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "DNT quest desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "DNT Success Text",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Talk to Baranor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c61",
+      "en": "'Now men. The enemy draws nigh!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c62",
+      "en": "'Lord Forlong left us here to keep guard, while he rode off to fight. Now we must fight ourselves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c63",
+      "en": "'Fight well. For Forlong!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "DNT obj4 success text",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Baranor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c64",
+      "en": "'For Forlong!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50256",
+      "en": "<rgb=#FF0000>Indir must not be defeated</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c65",
+      "en": "'Where are they already? Is that them, there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "DNT obj6 success text",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "<rgb=#FF0000>Baranor must not be defeated</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1b4",
+      "en": "Baranor and his men brace themselves against the oncoming Haradrim assault.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "<rgb=#FF0000>Dagor must not be defeated</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730885",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd73089",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c71",
+      "en": "'Look, they  have fallen back! They are routed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c72",
+      "en": "'Where are you going?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c73",
+      "en": "'But we had just begun. After them! We'll dog them to their dying breaths. Raaaah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730889",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c74",
+      "en": "'Dagor, you fool.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "'The Southrons will be upon us any moment. I dearly hope we are prepared. I am heartened that you are here with us, [placeholder], at the very least.\\n\\nNow I must address the men.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c21",
+      "en": "'Have you heard any horn blows, [placeholder]? And see, they come in staggered groups.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c22",
+      "en": "'That would be my battle plan at work, Indir.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c23",
+      "en": "'Watch - and learn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'Oh, Dagor! What good can come of this folly? My heart cries, none, none at all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'What madness is this? Running off into the night! Perhaps I was wrong... perhaps it is better he remained here in Arnach. Had he gone with Lord Forlong and behaved thus on the true field of battle... just think of the disgrace!\\n\\n'But I am rattled and winded from the combat. Let us retire, set the townsfolk at ease, and tend to the wounded. Then, without delaying overlong, we should set out in search of Dagor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "DNT obj 3 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c31",
+      "en": "'Remember men, if we die, we die with honour and glory!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c32",
+      "en": "'But let us not die, if we can. Remember there are poor souls behind these walls.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "<rgb=#FF0000>Indir has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c33",
+      "en": "'Their lives are more dear than glory, by far.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "DNT obj 6 event desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b0",
+      "en": "Baranor stands on the bridge before Arnach's keep.\\n\\nDefend the keep with Baranor and his men.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7308a4",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "DNT obj4 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c91",
+      "en": "'I still say we should be out there - on the field of battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "DNT obj 5 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c92",
+      "en": "'That's the town, not a field of battle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "DNT obj 6 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "DNT obj 7 event desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c93",
+      "en": "'And we've been over this. The bridge is our best position of defence.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "DNT obj 8 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "DNT obj9 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Baranor stands on the bridge before Arnach's keep.\\n\\nThe Haradrim assault has be deflected. Baranor waits to talk with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "DNT obj 7 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c41",
+      "en": "'It is done. They are repelled... Would that this were a happier hour in their defeat.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd888c42",
+      "en": "'[placeholder], Indir. Come speak with me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Defence of Arnach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Defend Arnach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "DNT obj3 desc override",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

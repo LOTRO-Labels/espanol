@@ -1,0 +1,377 @@
+{
+  "id": 621019079,
+  "txt": [
+    {
+      "id": "0xa8e1194",
+      "en": "He hands you a small pouch. Now you should continue to Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'I love hearing stories, yes I do, and I love telling them too! When I am old enough, I will learn the truth of these legends, and if they are false I will let everyone know. But I hope they are true, yes, yes, I do! I will tell you one of these stories, but which one? The Maiden of the Gladden? Or Marhairu Winter-hair of the Horse-folk? Perhaps the tale of Old Mad Ubb? Nay, that one is too frightening.\\n\\n'I've got it! Have you heard tell of the Hole-dwellers? They were a small people, shy and tricksy, and it is said they dwelt in holes beneath the ground. Nay, not like dwarves! These folk were smaller than dwarves, it is said, and they would vanish at the first approach! My mother says that she heard fairy stories about the Hole-dwellers when she was a little girl, but none of them have been seen in hundreds and hundreds of years, if not longer! She heard that folk used to leave food and trinkets for them on the river-banks, and that sometimes when they went back to check... the gifts would be gone!\\n\\n'I wonder where the Hole-dwellers went? I think perhaps they perfected the art of hiding, and now no one can find them. I'd wager they're still somewhere in the vales, just waiting for a child smart and clever enough to see them! I hope that's me, yes, yes I do!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Talk to Gandalf inside the Beorninghús",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'Did you enjoy the peaceful respite of hearing my people's myths and legends, [placeholder]? I am pleased the Bear-folk came to our aid during the recent battle, for if they had not and my people were slain, these traditions would surely vanish with us!\\n\\n'Thank you for helping with the hunt, my friend. I look forward to seeing you again, and hearing your own stories of the wider world, as you listened to ours. Farewell, and good fortune to you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e29",
+      "en": "Bring the flanks to Veremund by the cooking fires in Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'I gave you two purposes, [placeholder]: to bring back the collected tolls from Vegbár, and to aid my neighbours at the Woodmen village of Hultvís. Have you done this?'\\n\\nYou give Grimbeorn the pouch of money, and he weighs it in his hand.\\n\\n'We keep safe the road through the mountains and across the Old Ford, and in return for that safety we ask these coins from those who pass. It is a reasonable price, but this pouch feels light in my hand. Are there so few travellers in the vales today, even with the end of the war? Hmmph. War is never truly ended, is it?\\n\\n'The Wizard is inside the lodge, peering at the book he brought. Speak to him. Perhaps he is ready to leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Gultheg is at Vegbár, the watch-fort west of the Old Ford in the Wolf-denes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1199",
+      "en": "You have arrived at the village of Hultvís. Adalfon nods in greeting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'The days have been dark along the Anduin these past few months, and not just for my people. Orcs, goblins, and trolls have long harried the people of the Vales, but their attacks became more frequent of late. We turned them away, my kin and the Woodmen both, and by so doing we each became more friendly with the other. \\qGood fences make for good neighbours,\\q my sire used to say, but to that I now add, \\qand so does shared hardship.\\q\\n\\n'You stay at the Beorninghús because I allow it, [placeholder], and that means you should do as I say, when I say it. And now I wish for you to go to Hultvís, the village of the Woodmen on the eastern side of Woodsedge, and lend them whatever assistance you are able. They face danger in the Vales of the Anduin, but they are not as hardy as my people and will need your aid.\\n\\n'Hmm! On your way to Hultvís, stop by the fort of Vegbár and obtain the collected tolls from Gultheg there. Return it to me when you have finished with the folk at Hultvís, and I will count your obligation met.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'Ah, [placeholder], there you are. I have been studying the Black Book, but it resists my attempts to dissolve its mysteries. A Wizard does not become frustrated, but I do not deny that my patience is tested. Perhaps I could use some air, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Talk to Adalfon at the entrance to Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'What brings you to Vegbár, stranger? From this fort my people keep watch on travel and trade across the river and over the mountains. Dwarves and Men find easy passage, as long as they pay the toll. Orcs and wargs are given no such choice, and are turned away with sword and claw, unless they be slain where they stand!'\\n\\nYou explain that Grimbeorn sent you to Vegbár to gather the tolls that have been recently collected, and Gultheg studies your face with suspicion.\\n\\n'I was supposed to return to the Beorninghús yesterday, it is true, but a raiding-party of goblins demanded my attention and I was delayed. How do I know you can be trusted, and have truly been sent by my chieftain? Perhaps you are a common bandit, and plan to rob us of the coins we have collected!'\\n\\nGultheg glares at you for a moment, and then relents.\\n\\n'The war is done, even if the fighting is fresh in my mind and there are still foes about. I will trust that you have come from Grimbeorn with this request, but if I learn that you are a bandit you will regret this deception. But you will not regret it for long, do you understand me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Grimbeorn has another task for you. He wants you to check on the Woodmen, his neighbours to the south, and aid them with their difficulties.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'Hultvís is a village of the Woodmen located on the eastern side of Woodsedge. That is where you plan to go next, is it not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Defeat Orcs in Woodsedge ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'Welcome to Hultvís, village of the Woodmen. My people have endured much with the passage of time, but no matter the trouble that comes we persist and stand strong. When Orcs burned the walls, we rebuilt them. When wargs stalked our streets, we drove them away. So it has always been, and that was the way of life in Hultvís.\\n\\n'But in recent weeks something changed. I know not what it was, and neither do the elders of the village, but the Orcs and goblins of the Misty Mountains poured from their holes in numbers we had not seen for a hundred years. The fighting was more fierce than any I had ever seen, and my people and the Bear-folk alike suffered tremendous losses. Grimbeorn and a number of his people finally saw victory at the Old Ford, but none knew if a second attack might be coming. Only when a great Eagle appeared in the southern skies and spoke of the war's ending did we dare hope that the worst was behind us.\\n\\n'The fighting may be done, but we need to rebuild our town and restock our larders. If you seek out and defeat Orc stragglers, and gather flanks from the forest-harts in Woodsedge for our cook Veremund, you will have helped us and we will remember it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Collect flanks from forest-harts in Woodsedge ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Talk to Gelfrida in Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Adalfon asked you to help the village of Hultvís recover and rebuild following the recent battle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Talk to Eurik in Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Talk to Mavi in Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'Are you willing to hunt the wild harts for the village of Hultvís? I am glad to hear it, but you will accomplish little if you stay here talking.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "You hunted wild harts for the Woodmen of Hultvís, and now Veremund waits by the fires in the village for the meat you obtained.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Veremund by the cooking fires in Hultvís",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'You are not one of our hunters, but you have found choice cuts to exceed many of their finest takings! Is this the luck of a beginner, or have you hunted prey in far-off lands, and the harts of Woodsedge just the latest? Well done, my friend! You are welcome in Hultvís, for there is much that needs doing. Ask around and you will find no shortage of tasks, I am sure.\\n\\n'But it is the tradition of our hunters not to depart immediately upon returning from a successful hunt, and I do not ask you to do otherwise! I will salt and prepare these steaks, and while I do you should speak to the men and women of the village and listen to their stories. One such as you must have heard many tales from wandering in distant lands, but I assure you that ours are unique! Legend hangs heavily upon every tree and rock in these vales, and whispers tell that even creatures out of myth can be found among the mists.\\n\\n'There is a magic about the Vales of Anduin, [placeholder]. Listen to the tales of my people and I challenge you to say otherwise!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'Veremund is by the cooking fires in Hultvís. Bring him the flanks and know you have the thanks of all the village.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Townsfolk throughout Hultvís will speak to you of the legends that have been passed down among the Woodmen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'Legends and stories? Aye, we here in Hultvís have our fair share of the things. I myself have seen enough to believe most of what they say about the lands hereabout, and if you spend some time here I do not doubt you will too!\\n\\n'Have you heard tell of the Maiden that walks the marshland? Her hair is golden, they say, threaded with yellow flowers, and she walks among the pools of Gladden singing songs of sorrow. Even when I was a young girl I heard the stories of her, and strayed further from my home than I ought in hopes of seeing her, but it was for nothing. I convinced myself that the Horse-folk that lived in these lands long ago, from whom came the first stories of the Maiden, must have mistaken the light on the water for her golden hair, the breath of the wind for the sound of her song. I gave up seeking her, and then I was a woman grown, with a family to look after, and I left tales of the Maiden to my childhood.\\n\\n'But there is magic in the vales, stranger. One afternoon while I sought wildflowers along the river-bank, I was caught out of doors too late. The sun went down, and as the last of the light faded, I saw her standing among the gladdens. Still as a statue she was, but as I sought to look at her closely a great drowsiness fell upon me. I blinked my eyes to clear away the fog, but then she was gone. I searched among the pools until it was too dark to see, at which point I had to return to Hultvís. It would not have been safe to remain in the bog, for then as now there are sometimes monsters about. I have not seen her again, but it lightens my heart to know the Maiden of the Gladden is out there somewhere, singing.\\n\\n'That is how I know the tales of her are true. Perhaps there is truth in the other tales of my people, as well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'For how long have my people lived by the side of the wood? Long years indeed, for true deeds have vanished into the haze of memory, taking on the feel of legend or myth. Doubt not that even the most fantastical of these tales must hold some truth within its marrow! Or do you count yourself brave enough to search for Vagári, the ghostly wanderer of the Gladden? Marhairu of the Horse-folk did, and he was forever changed.\\n\\n'Long ago, the Horse-folk of Rhovanion knew the hardship of war, and they came to the Vales of Anduin in desperate need. The Woodmen that lived in the vales at that time gave them food and shelter, and in return the Horse-folk raised no king and demanded no fealty. Instead they lived as neighbours with the Woodmen, building a fortress of stone and timber on an island south of the Old Ford. This redoubt they named Avabárg, and it housed the Horse-folk for several generations, but they were never comfortable within its confines and they desired a home more to their liking.\\n\\n'While the Horse-folk remained in the vales, the Woodmen told them of Vagári, a spectral figure that stalked among the fens by the light of the moon. The sight of him filled my people with dread, and they fled in terror, but the Horse-folk were bold, and their blood ran hot. Marhairu, son of the chief, went in search of Vagári. He was not seen for a year and a day, and when he finally returned his hair was stricken white. He was clad in pale garments instead of his armour, and there was a darkness in his eye that had not been there before.\\n\\n'He claimed to have met the Wanderer and followed him for a time, but whenever he tried to speak to him, the spectral figure faded from view, only to reappear further ahead in the mist. His memory failed in the recounting of what befell him, and he spoke with confusion of an empty dwarf-hold and a sorrowful song. Until the end of his days, Marhairu insisted that he followed the Wanderer for only a short time; he could not explain his long disappearance. The Horse-folk, believing he had been ensorcelled, named him \\qWinter-hair\\q and shunned him as a source of ill fortune. He dwelt in a hut on the edge of the Gladden and lived to be an old man, but one day his hut was found empty, and no one can say what happened to him.\\n\\n'Listen to the warning of Marhairu Winter-hair, [placeholder]! If you encounter Vagári the Wanderer among the mists, turn and flee, before it is too late for you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Gultheg at Vegbár",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "'Welcome back, [placeholder]. Did you have success with the two purposes I asked of you?'\\n\\nYou give Grimbeorn the pouch of money, and he weighs it in his hand.\\n\\n'We keep safe the road through the mountains and across the Old Ford, and in return for that safety we ask these coins from those who pass. It is a reasonable price, but this pouch feels light in my hand. Are there so few travellers in the vales today, even with the end of the war? Hmmph. War is never truly ended, is it?\\n\\n'The Wizard is inside the lodge, peering at the book he brought. Speak to him. Perhaps he is ready to leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56843",
+      "en": "'The Wizard is inside the lodge, peering at the book he brought. Speak to him. Perhaps he is ready to leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'Hullo there, friend! I have not seen you around Hultvís before. You look to be younger than I am; I am nearly a woman grown. Nearly! What? You say you are not a child, but a hobbit instead? I have never heard of a hobbit before. Tell me about yourself and from where you hail, or I'll see you brought out of town and left in the woods!'\\n\\nYou briefly tell Mavi about the river-folk that are your people.\\n\\n'I love hearing stories, yes I do, and I love telling them too! You say you live in a burrow in the ground? That is very like the tales I have heard of the Hole-dwellers that once lived in the vales! They were a small people, even smaller than you, I'd say, and they were shy and tricksy. They would vanish at the first approach! Imagine being able to move around without being seen or heard, but even more stealthy than that! Now that is what it would have been like for the Hole-dwellers.\\n\\n'My mother says that she heard fairy stories about the Hole-dwellers when she was a little girl, but none of them have been seen in hundreds and hundreds of years, if not longer! She heard that folk used to leave food and trinkets for them on the river-banks, and that sometimes when they went back to check... the gifts would be gone! Do you know what? If you were just a little smaller, I would almost think you might be related to one of the Hole-dwellers! But these days they are just a myth, and you are flesh-and-blood, so I suppose that is not possible. Oh well.\\n\\n'I wonder where they went? I think perhaps they perfected the art of hiding, and now no one can find them. I'd wager they're still somewhere in the vales, just waiting for a child smart and clever enough to see them! I hope that's me, yes, yes I do!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Find the entrance to the village of Hultvís, on the eastern side of Woodsedge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'Hultvís is a village of the Woodmen located on the eastern side of Woodsedge. That is where you plan to go next, is it not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Veremund is by the cooking fires of Hultvís, waiting for you to return from speaking with the people of the village.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'Welcome to Hultvís, village of the Woodmen. My people have endured much with the passage of time, but no matter the trouble that comes we persist and stand strong. When Orcs burned the walls, we rebuilt them. When wargs stalked our streets, we drove them away. So it has always been, and that was the way of life in Hultvís.\\n\\n'But in recent weeks something changed. I know not what it was, and neither do the elders of the village, but the Orcs and goblins of the Misty Mountains poured from their holes in numbers we had not seen for a hundred years. The fighting was more fierce than any I had ever seen, and my people and yours suffered tremendous losses. Grimbeorn and your warriors finally saw victory at the Old Ford, but none knew if a second attack might be coming. Only when a great Eagle appeared in the southern skies and spoke of the war's ending did we dare hope that the worst was behind us.\\n\\n'The fighting may be done, but we need to rebuild our town and restock our larders. If you seek out and defeat Orc stragglers, and gather flanks from the forest-harts in Woodsedge for our cook Veremund, you will have helped us and we will remember it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'The fighting may be done, but we need to rebuild our town and restock our larders. If you seek out and defeat Orc stragglers, and gather flanks from the forest-harts in Woodsedge for our cook Veremund, you will have helped us and we will remember it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Grimbeorn is at the Beorninghús, waiting for you to return with the collected tolls from Vegbár.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Gandalf is inside the Beorninghús, studying the Black Book of Mordor within Grimbeorn's lodge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "'There is a magic about the Vales of Anduin, [placeholder]. Listen to the tales of my people here in Hultvís and see if you can say otherwise!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'Hullo there, friend! I have not seen you around Hultvís before. You look to be younger than I am; I am nearly a woman grown. Nearly! What? You say you are not a child, but a hobbit instead? I have never heard of a hobbit before. Tell me about yourself and from where you hail, or I'll see you brought out of town and left in the woods!'\\n\\nYou briefly tell Mavi about the Shire and some of the hobbits that live there.\\n\\n'I love hearing stories, yes I do, and I love telling them too! You say you live in a burrow in the ground? That is very like the tales I have heard of the Hole-dwellers that once lived in the vales! They were a small people, even smaller than you, I'd say, and they were shy and tricksy. They would vanish at the first approach! Imagine being able to move around without being seen or heard, but even more stealthy than that! Now that is what it would have been like for the Hole-dwellers.\\n\\n'My mother says that she heard fairy stories about the Hole-dwellers when she was a little girl, but none of them have been seen in hundreds and hundreds of years, if not longer! She heard that folk used to leave food and trinkets for them on the river-banks, and that sometimes when they went back to check... the gifts would be gone! Do you know what? If you were just a little smaller, I would almost think you might be related to one of the Hole-dwellers! But these days they are just a myth, and you are flesh-and-blood, so I suppose that is not possible. Oh well.\\n\\n'I wonder where they went? Have you heard anything about them in your own land? What did you call it? The Shire? I think perhaps they perfected the art of hiding, and now no one can find them. I'd wager they're still somewhere in the vales, just waiting for a child smart and clever enough to see them! I hope that's me, yes, yes I do!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'The days have been dark along the Anduin these past few months, and not just for our people. Orcs, goblins, and trolls have long harried the people of the Vales, but their attacks became more frequent of late. We turned them away, our kin and the Woodmen both, and by so doing we each became more friendly with the other. \\qGood fences make for good neighbours,\\q my sire used to say, but to that I now add, \\qand so does shared hardship.\\q\\n\\n'I have had another thought, [placeholder]. I wish for you to go to Hultvís, the village of the Woodmen on the eastern side of Woodsedge, and lend them whatever assistance you are able. They face danger in the Vales of the Anduin, but they are not as hardy as our people and will need your aid.\\n\\n'Hmm! On your way to Hultvís, stop by the fort of Vegbár and obtain the collected tolls from Gultheg there. He was to return to the Beorninghús yestereve and has not. Bring the tolls to me after you have finished with the folk at Hultvís.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'I have asked for you to go to Hultvís, the village of the Woodmen on the eastern side of Woodsedge, and lend them whatever assistance you are able. They face danger in the Vales of the Anduin, but they are not as hardy as my people and will need your aid. On your way to Hultvís, stop by the fort of Vegbár and obtain the collected tolls from Gultheg there. Return it to me when you have finished with the folk at Hultvís, and I will count your obligation met.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'Thank you for helping with the hunt, my friend. I look forward to seeing you again, and hearing your own stories of the wider world, as you listened to ours. Farewell, and good fortune to you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'I have asked for you to go to Hultvís, the village of the Woodmen on the eastern side of Woodsedge, and lend them whatever assistance you are able. They face danger in the Vales of the Anduin, but they are not as hardy as our people and will need your aid. On your way to Hultvís, stop by the fort of Vegbár and obtain the collected tolls from Gultheg there. Return it to me when you have finished with the folk at Hultvís.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'Welcome to Vegbár, [placeholder]! It has been a long time since last you came to the watch-fort! From here we keep watch on travel and trade across the river and over the mountains. Dwarves and Men find easy passage, as long as they pay the toll. Orcs and wargs are given no such choice, and are turned away with sword and claw, unless they be slain where they stand! That has always been our way, has it not?'\\n\\nYou explain that Grimbeorn sent you to Vegbár to gather the tolls that have been recently collected, and to aid the Woodmen of Hultvís before bringing them back to him.\\n\\n'Of course, cousin, of course! I was supposed to return to the Beorninghús yesterday, but a raiding-party of goblins demanded my attention and I was delayed. Here is a pouch containing the coins we have collected during the last week. Aye, it is light. The war has made for fewer travellers of late. Or perhaps the war makes for late travellers, if you understand me.\\n\\n'Safe journey, [placeholder]. I will return to the Beorninghús in a day or so. I wish to ensure that the survivors of the goblin raiding-party do not come back.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "Hultvís is on the eastern side of Woodsedge, in the Vales of Anduin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "You should return to the Beorninghús with the delivery Grimbeorn requested",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b0",
+      "en": "Adalfon has greeted you at the entrance to the village of Hultvís.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ec0",
+      "en": "Bring the collected tolls to Grimbeorn at the Beorninghús",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "Defeated Orcs in Woodsedge ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "Collected forest-hart flanks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 10.3: Good Fences",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

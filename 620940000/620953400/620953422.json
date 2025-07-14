@@ -1,0 +1,389 @@
+{
+  "id": 620953422,
+  "txt": [
+    {
+      "id": "0x6a50293",
+      "en": "Talk to Langhár in the southern bogs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea4b0",
+      "en": "'Hmmm...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "Langhár's battle goes ill!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea4b1",
+      "en": "'I choose my allies well, and reward those I choose doubly-so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Travel with Langhár to the southern bogs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea4b2",
+      "en": "'In his heart Ofolmóth holds the hatred of both bear and Man.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea4b3",
+      "en": "'The flame of those hatreds burns brightly, and it makes him strong.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ae4",
+      "en": "Fight alongside Langhár as you make your way to the ruins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Talk to Ofolmóth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea4b4",
+      "en": "'Strong enough to slay your kin?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea4b5",
+      "en": "'Then I will leave you to complete your task with a few of my warriors.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "You have come with Langhár to the southern bogs in search of Ofolmóth. She waits to speak with you before continuing to the ruins where your kinsman was seen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "You have found Ofolmóth, and he wonders if you have come to join him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "#-1:[placeholder]'Ofolmóth was last seen among the ruins just ahead. Let us go forward with caution, my #-1:{sister[f]|brother}.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have come with your sister Langhár to the southern bogs of the Lone-lands on a sad mission: to put an end to the evils done by your kinsman Ofolmóth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'Your expression gives me your answer, [placeholder]. I thought as much. It was a vain hope that you would cherish the memory of our people and the blood of Beorn. Instead you side with those unworthy of you.\\n\\n'I thought I could make you strong, [placeholder]. I failed in that, and I am sorry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "#-1:[placeholder]'Are you ready, [placeholder]? Ofolmóth will not come with us, but we cannot let him go, for he is a danger to the innocent folk of Middle-earth. I do not know much about these dwarves, but I can tell that this Skorgrím corrupts any who come into contact with him!\\n\\n'I will handle Ofolmóth if you can deal with these dwarves, my #-1:{sister[f]|brother}!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'I know what we came here to do, but even so I found myself not wanting to hurt Ofolmóth. He felt no such restriction, and his claws cut deep.'\\n\\nLanghár winces at the pain of her injury.\\n\\n'I do not know much about Skorgrím, but what little I have learned is troubling. It is clear to me that he swayed our former kinsman in some way, preying upon his sensibilities.\\n\\n'We have done as Grimbeorn asked, and ended the threat Ofolmóth posed to innocent folk. That must be enough for today. Perhaps tomorrow we will do something about Skorgrím Dourhand, for his danger remains.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'Let us return to Ost Guruth. I am hurt, but I can walk.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08edb8",
+      "en": "Follow Langhár to the ruins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6af7",
+      "en": "Defeat Skorgrím's dwarves while your sister keeps Ofolmóth's attention",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Test",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Defeat Ofolmóth for his crimes against innocent folk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Langhár in the ruins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343491",
+      "en": "'Langhár. [placeholder]. Have you come to join me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343492",
+      "en": "'You were my kin. Leave this place and I will not harm you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343493",
+      "en": "'We are of Beorn's line. The laws of Men cannot bind us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5faa5f0",
+      "en": "'Beorn would not allow this! Grimbeorn himself disavows you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "You have found Ofolmóth, but he is no longer your kin. He is now your enemy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343494",
+      "en": "'Then it is as I thought: he has grown weak in his old age.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5faa5f1",
+      "en": "'Who has given you these ideas, Ofolmóth?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343495",
+      "en": "'We are stronger than the other peoples. They live at our say-so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5faa5f2",
+      "en": "'Dwarves?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343496",
+      "en": "'These ideas are my own. They come from within!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5faa5f3",
+      "en": "'You are unworthy of our line, Ofolmóth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343497",
+      "en": "'Strength seeks strength. I have sought out worthy allies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5faa5f4",
+      "en": "'Aaaaah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343498",
+      "en": "'Beorn aided the dwarves of Thorin's company, though they were beneath him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "Ofolmóth has told you his intentions. He will not abide  by the laws of Men.\\n\\nLanghár wishes to speak with you before the fighting begins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb343499",
+      "en": "'The dwarves I have met wield more power than that sad lot.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa51",
+      "en": "'All right, [placeholder]. Let us find our kinsman and end this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa52",
+      "en": "'Hold, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa53",
+      "en": "'There are more here than just bog-lurkers, but what?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa54",
+      "en": "'Dwarves! They attack us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa55",
+      "en": "'Who are these dwarves, and why did they attack us?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa56",
+      "en": "'Just a little further now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa57",
+      "en": "'Ofolmóth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Ofolmóth has grievously injured Langhár, and must be defeated.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa58",
+      "en": "'We cannot do that, Ofolmóth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5faa59",
+      "en": "'You have slain innocent folk!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Langhár has been grievously injured, but she is alive.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e48",
+      "en": "Langhár has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Survive your encounter with Ofolmóth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e55",
+      "en": "Langhár has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed90",
+      "en": "Help Langhár in her battle with Ofolmóth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Talk to Langhár in the ruins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34349f0",
+      "en": "'Yes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34349f1",
+      "en": "'You see? You are weak, Langhár, and you have paid for that weakness!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34349f2",
+      "en": "'You will join her in death, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Hatred of Bear and Man",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

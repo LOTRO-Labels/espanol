@@ -1,0 +1,1091 @@
+{
+  "id": 620757415,
+  "txt": [
+    {
+      "id": "0x77972a3",
+      "en": "Change text colours",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x653fff5",
+      "en": "Capture Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e32555",
+      "en": "The room '[placeholder]' is not valid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x938fcce",
+      "en": "\\[[placeholder]\\]\\[[placeholder]\\] [placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1919744",
+      "en": "You cannot /joinchannel [placeholder], since it is already a command to talk on a chat channel. To turn on/off this chat channel, right-click on the chat window tab and use the Change Filters submenu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4ef75",
+      "en": "[placeholder]_[placeholder]_[placeholder].txt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59e9e14",
+      "en": "Your connexion with the Chat server has been lost.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6100a8f",
+      "en": "???",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2a7ce8",
+      "en": "Room # [placeholder] is not valid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29d33d9",
+      "en": "[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbac4c5",
+      "en": "No longer logging chat tab [placeholder] to file [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1513613",
+      "en": "You're not currently in any User Channels.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x573c22",
+      "en": "### End of Chat Log: [placeholder] [placeholder] ###",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x660c563",
+      "en": "You left room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6c6e0d",
+      "en": "Quit IM",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x158913f",
+      "en": "Your friends:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc62b64",
+      "en": "World broadcast: '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45dbd34",
+      "en": "[placeholder] tells [placeholder], '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81792c5",
+      "en": "[placeholder] is not a valid name.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x811efd4",
+      "en": "You can't /retell until you've used /tell first.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca3e874",
+      "en": "<Select:IID:[placeholder]>[placeholder]<\\\\Select> shouts, '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d15cc",
+      "en": "\\[To [placeholder]\\] '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a17e05",
+      "en": "You must specify a message to send to [placeholder]!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x917f625",
+      "en": "You must provide the name of a friend to remove!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c0fcb4",
+      "en": "Enter a name for the tab:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x723785",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644d1a5",
+      "en": "The chat server is temporarily unavailable.  Please try again shortly.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaacd285",
+      "en": "<Select:IID:[placeholder]>[placeholder]<\\\\Select> [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x611d75",
+      "en": "You must provide the name of a friend to add!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0924ce",
+      "en": "You are now AFK with the message, [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5efbcf5",
+      "en": "Tab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dcf75e",
+      "en": "You are now anonymous.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39c0529",
+      "en": "You say, '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6577433",
+      "en": "Your friends list is empty.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c524ce",
+      "en": "You have been gagged. All further attempts to communicate will not be heard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5a9ae4",
+      "en": "You sent a message to room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e819d4",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7da5d66",
+      "en": "You cannot add yourself to your friends list!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca95506",
+      "en": "You are not role playing.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b040b7",
+      "en": "Stop Logging [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a99a08",
+      "en": "Entered the (UserChat [placeholder]) channel.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd26c27",
+      "en": "<Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a70dec",
+      "en": "Left the [placeholder] channel.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c8e94",
+      "en": "\\[To Raid\\] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc89cc",
+      "en": "Someone has to /tell you before you can /reply.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaef6d17",
+      "en": "Start Logging [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe74ea10",
+      "en": "\\[To Group\\] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x167895",
+      "en": "You must provide the name of a person to ignore!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63c924c",
+      "en": "\\[[placeholder]\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4383525",
+      "en": "Cannot log chat: cannot open chat log file",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda22fc4",
+      "en": "Incorrect password '[placeholder]' for room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcf7596",
+      "en": "You are no longer anonymous.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68d1525",
+      "en": "The chat tab name is invalid!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc077cfc",
+      "en": "Entered the [placeholder] channel.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcff174",
+      "en": "You cannot emote while incapacitated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4068445",
+      "en": "User chat is currently unavailable.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33c0074",
+      "en": "[placeholder] is not in your friends list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6eb76",
+      "en": "You are no longer role playing.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8b619c",
+      "en": "Your friends list is full.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e6f672",
+      "en": "\\[[placeholder]\\] You must provide a valid recipient name. Your message will not be received.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59365d4",
+      "en": "[placeholder][placeholder][placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3daf62",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe072302",
+      "en": "Current types: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9afb829",
+      "en": "[placeholder] [placeholder] [placeholder] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5821257",
+      "en": "Stop Logging",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c0064",
+      "en": "\\[To Kinship\\] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd93b0c5",
+      "en": "Generic IMs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf878795",
+      "en": "Output for tab [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81524be",
+      "en": "You are now looking for a fellowship.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4181a44",
+      "en": "[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf771d3",
+      "en": "You joined room '[placeholder]' (UserChat[placeholder]). Number of members: [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd523e83",
+      "en": "[placeholder] has been added to your friends list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2aee95",
+      "en": "ChatLog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf4808c",
+      "en": "You are not in room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43cedee",
+      "en": "Are you sure you want to report [placeholder] for harassment? Note: This will also add the player to your ignore list.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7576895",
+      "en": "Delete this tab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc524c96",
+      "en": "Your gag has been removed. You can now communicate normally.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcca955e",
+      "en": "You are role playing.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fc5962",
+      "en": "\\[Unknown Channel\\]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x389e923",
+      "en": "Friends",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f5d084",
+      "en": "Tutorial Hints are now disabled.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e5e23e",
+      "en": "Are you sure you want to report [placeholder] as a spammer? Note: This will also add the player to your ignore list.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf31eef",
+      "en": "You have been marked as being AFK due to inactivity.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3aee694",
+      "en": "You can't create the room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff08ea3",
+      "en": "[placeholder] has been removed from your friends list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0069a0",
+      "en": "\\[To Tribe\\] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2760ea6",
+      "en": "You are not anonymous.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc6d017",
+      "en": "You cannot upgrade stacked traceries. Unstack them and try again.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c23024",
+      "en": "[placeholder] ([placeholder])\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x756bc0",
+      "en": "\\[Tribe\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c043d4",
+      "en": "You cannot /leavechannel [placeholder], since it is not a user chat channel. To leave it, right-click on the chat window tab and uncheck the corresponding checkbox in the Change Filters submenu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad74a23",
+      "en": "You tell <Select:IID:[placeholder]>[placeholder]<\\\\Select>, '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb006ebe",
+      "en": "You are now role playing.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebe4334",
+      "en": "uc[placeholder]: <NOT CONNECTED>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18e5f35",
+      "en": "[placeholder] is unavailable.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d20d84",
+      "en": "\\[Fellowship\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46071e9",
+      "en": "[placeholder] (Anonymous)\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19264d3",
+      "en": "You cannot speak to monster players.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2880b94",
+      "en": "You cannot speak while incapacitated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe899dc7",
+      "en": "Chat Logging",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbca09cc",
+      "en": "<Select:IID:[placeholder]>[placeholder]<\\\\Select> tells you, '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee4f4",
+      "en": "uc[placeholder]: '[placeholder]'[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x924c16",
+      "en": "You are no longer AFK.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17a3eb5",
+      "en": "More Emotes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x755fc95",
+      "en": "Create new tab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aaeac2",
+      "en": "Current User Channels:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf0cf39",
+      "en": "The chat tab name cannot be empty!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f7c6d9",
+      "en": "[placeholder] [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2cf919",
+      "en": "\\[[placeholder]\\]  <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62760ee",
+      "en": "You are anonymous.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56a564e",
+      "en": "User chat is not allowed in the current session.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfff9c5",
+      "en": "Logging chat tab [placeholder] to file [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1524b46",
+      "en": "You are no longer looking for a fellowship.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa92ace7",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25dcb7f",
+      "en": "Other people in your area:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32c7d37",
+      "en": "LFF",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a6b823",
+      "en": "[placeholder] has been removed from your ignore list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc47e765",
+      "en": "The session name is invalid!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x337efe3",
+      "en": "Change filters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x471b694",
+      "en": "Tutorial Hints are now enabled.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7747093",
+      "en": "You cannot speak to regular players.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73462ee",
+      "en": "[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9354fb4",
+      "en": "Your connexion with the Chat server has been reestablished.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5582e33",
+      "en": "[placeholder] has been added to your ignore list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28ce766",
+      "en": "You cannot add yourself to your ignore list!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebca3b9",
+      "en": "<Select:IID:[placeholder]>[placeholder]<\\\\Select> says, '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x682c22",
+      "en": "### Chat Log: [placeholder] [placeholder] ###",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b095f8",
+      "en": "Left the (UserChat [placeholder]) channel.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4215797",
+      "en": "[placeholder]: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10538e5",
+      "en": "Your friend, [placeholder], has gone offline.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2aaa94",
+      "en": "You are already in [placeholder] rooms, which is the maximum allowed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea68129",
+      "en": "The session name cannot be empty!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43d716f",
+      "en": "People you are ignoring:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0f4f30",
+      "en": "\\[[placeholder]\\] [placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e65b3",
+      "en": "[placeholder] is already in your friends list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9461d7",
+      "en": "LFG",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x770405",
+      "en": "Rename tab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1e0b35",
+      "en": "Filters for tab [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93d1e8d",
+      "en": "Enable IM",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcdf3b5",
+      "en": "You must provide the name of a friend to remove!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3e83d5",
+      "en": "IMs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1785864",
+      "en": "You are not ignoring anyone.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bc1cf4",
+      "en": "[[placeholder]][[placeholder]]: <Select:IID:[placeholder]>[placeholder]<\\\\Select> says, [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84a2934",
+      "en": "\\[To Officer\\] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf238b9e",
+      "en": "Output type: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x659f645",
+      "en": "Capturing chat tab [placeholder] to file [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6267c04",
+      "en": "\\[Officer\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3d2e04",
+      "en": "Who do you want to start an IM session with?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3166cc",
+      "en": "Your ignore list is full.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa29afc5",
+      "en": "Your friend, [placeholder], has come online.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dc4764",
+      "en": "You are not allowed to specify a password for this User Channel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdda4cb2",
+      "en": "\\[[placeholder]:[placeholder]:[placeholder]\\]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x780711e",
+      "en": "Start IM Session...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78f3ace",
+      "en": "Too many user channel requests! You must wait a while before your next request.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15b0782",
+      "en": "There was an error communicating to the chat server. Please try again shortly.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f7615",
+      "en": "Emotes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x859a842",
+      "en": "### Chat Capture: [placeholder] [placeholder] ###",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61313dc",
+      "en": "You are not in a [placeholder] Channel.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x360eae4",
+      "en": "You didn't join room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46a54e7",
+      "en": "Cannot join room '[placeholder]': Password ([placeholder]) length is [placeholder], maximum allowed is [placeholder] characters.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cdc307",
+      "en": "Start Logging",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x190e13",
+      "en": "That person already exists in your ignore list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc055554",
+      "en": "You shout, '[placeholder]'\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d27a4",
+      "en": "Tutorial Hints have been reset.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8df00",
+      "en": "\\[Group\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8597ac9",
+      "en": "[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a3e744",
+      "en": "\\[To Fellowship\\] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66b746f",
+      "en": "; Password = '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6522024",
+      "en": "That person is not in your ignore list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c215f5",
+      "en": "Output Channel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb891524",
+      "en": "[placeholder] is ignoring you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2832ae7",
+      "en": "Cannot join room '[placeholder]': Name length is [placeholder], maximum allowed is [placeholder] characters.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2c5c6e",
+      "en": "Switch To",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7548d0c",
+      "en": "You are already in room '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x888b842",
+      "en": "### End of Chat Capture: [placeholder] [placeholder] ###",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac8421c",
+      "en": "Channel name cannot be empty. A valid chat channel name must be specified.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e07564",
+      "en": "\\[Kinship\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2c3be2",
+      "en": "\\[[placeholder]\\] [placeholder] is either offline or does not exist.  Your message will not be received.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51f6054",
+      "en": "\\[Raid\\] <Select:IID:[placeholder]>[placeholder]<\\\\Select>: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bbdd94",
+      "en": "\\@#\\$%&*!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9c24e4",
+      "en": "[placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

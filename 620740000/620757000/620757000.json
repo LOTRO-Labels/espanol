@@ -1,0 +1,3809 @@
+{
+  "id": 620757000,
+  "txt": [
+    {
+      "id": "0xf2d8d55",
+      "en": "Udûn Allegiance Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8285964",
+      "en": "Failed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcce6023",
+      "en": "Gap of Rohan: Heathfells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x448f7e8",
+      "en": "Minas Tirith (After Battle)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x405fda2",
+      "en": "Pelennor (After Battle)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe812657",
+      "en": "Hoarhallow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5eda255",
+      "en": "Legendary Angmar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5371f7",
+      "en": "Moria: The Great Delving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c2d5f3",
+      "en": "Ashes and Stars",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa35037",
+      "en": "Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb63244",
+      "en": "Crown of Hamât",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3dc4",
+      "en": "Defeat #1:[placeholder] #1:{Player[1]|Players}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x379d2b7",
+      "en": "Dunland: Trum Dreng",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c89745",
+      "en": "Imlad Morgul: The Reclamation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5a78c2",
+      "en": "The Secret Stone Returns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b14457",
+      "en": "[placeholder]\\nBestow: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8c91d",
+      "en": "Carn Dûm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb64945",
+      "en": "Use Emote [placeholder] ([placeholder]/#1:[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcdf8fbe",
+      "en": "Player is ready to turn in quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x299e23",
+      "en": "Vales of Anduin: Gladden Fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbd8ab4",
+      "en": "[placeholder] and [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96b2c54",
+      "en": "Western Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7d95d5",
+      "en": "Legendary Mirkwood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0b4702",
+      "en": "Crafting Guild: Jeweller",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa982a8e",
+      "en": "FIXME: Bring Items to #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac514ce",
+      "en": "The Ballad of Bingo Boffin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x598f5d8",
+      "en": " - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb44f94",
+      "en": "Imlad Morgul: Continued Threats",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd1",
+      "en": "Epic - Vol. III, Book 1: Oath of the Rangers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd2",
+      "en": "Epic - Vol. III, Book 2: Ride of the Grey Company",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75c9b53",
+      "en": "The Road to Erebor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd3",
+      "en": "Epic - Vol. III, Book 3: Echoes of the Dead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd4",
+      "en": "Epic - Vol. III, Book 4: Rise of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x462f7d5",
+      "en": "[placeholder]\\nAdvance: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8e7d8e",
+      "en": "FIXME: Identify the advanceable item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd5",
+      "en": "Epic - Vol. III, Book 5: The Prince of Rohan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd6",
+      "en": "Epic - Vol. III, Book 6: Mists of Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa04a55",
+      "en": "Moria: Foundations of Stone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3c4c2",
+      "en": "Ikorbân Valley: Urash Dâr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3dc132",
+      "en": "Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70b971e",
+      "en": "Dwarf-holds: Ered Mithrin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f47fa2",
+      "en": "Dunland: Starkmoor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd7",
+      "en": "Epic - Vol. III, Book 7: A Fellowship Endangered",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95da244",
+      "en": "You must select one of the quest rewards\\nbefore you can finish this quest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8064ac4",
+      "en": "Eorlsmead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd8",
+      "en": "Epic - Vol. III, Book 8: Into the Riddermark",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8875bd9",
+      "en": "Epic - Vol. III, Book 9: The Third Marshal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc94e2e",
+      "en": "Ikorbân Valley: Khûd Zagin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee67d2",
+      "en": "Rune-keeper",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54f42f",
+      "en": "Solo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb597e64",
+      "en": "Umbar Baharbêl: Upper Ward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x499ee2",
+      "en": "Bree-land: Eastern Bree-fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9ff773",
+      "en": "Wailing Hills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x119a013",
+      "en": "The Dead Marshes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96fec3e",
+      "en": "Western Gondor: Lamedon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31dcf92",
+      "en": "Mordor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc68add2",
+      "en": "Craft Events - Scholar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd283dbc",
+      "en": "Central Gondor: Dor-en-Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf0c190",
+      "en": "FIXME: Clear Camp around someone with role [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a0e515",
+      "en": "Epic - Vol. III, Prologue: Messages from Lórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a3613b",
+      "en": "Of the Eglain and the Red-maid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9304a9",
+      "en": "Mordor: Talath Úrui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c07f05",
+      "en": "Gundabad: Reclaiming the Mountain-hold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda56213",
+      "en": "The Shield Isles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76aab4e",
+      "en": "Wrath and Ruin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7332a02",
+      "en": "Craft Events - Woodworker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25ae8e",
+      "en": "Are you sure you want to abandon?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x505c492",
+      "en": "Azanulbizar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdaefc79",
+      "en": "Find #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x733a9d8",
+      "en": "Raid: The Abyss of Mordath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf12ea56",
+      "en": "Osgiliath: Eastern Wharf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f2bde",
+      "en": "Execute #1:{the[!n]} recipe #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bc3f5c",
+      "en": "Midsummer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41cc04e",
+      "en": "Wells of Langflood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9105862",
+      "en": "Craft Events - Forester",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f66ac5",
+      "en": "FIXME: Complete the [placeholder] quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25fa772",
+      "en": "Angmar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21a1052",
+      "en": "The Shield Isles: Zamarzîr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3172264",
+      "en": "Thinglad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e33f73",
+      "en": "Legendary Angmar: Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf700e15",
+      "en": "FIXME: Reforge the advanceable item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21371f0",
+      "en": "Group",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa33e8de",
+      "en": "Captain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee01423",
+      "en": "Epic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb48ef89",
+      "en": "Found #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c3c275",
+      "en": "The Lay of Rust and Rime",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcd4993",
+      "en": "FIXME: Defeat #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x250c195",
+      "en": "Use Targeted Emote [placeholder] ([placeholder]/#1:[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x236718c",
+      "en": "Caverns of Thrumfall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e76c52",
+      "en": "[placeholder] or [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f1b9e5",
+      "en": "Epic - Vol. III, Interlude: The Grey Company",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9ef4b2",
+      "en": "Osgiliath: Court of Isildur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40472a4",
+      "en": "Swanfleet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94da523",
+      "en": "Dagorlad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34cb948",
+      "en": "Dunland: Pren Gwydh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf08d4",
+      "en": "Herbalism",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8e4505",
+      "en": "Blood of Azog: Further Studies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8e7345",
+      "en": "Imlad Morgul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd09cba5",
+      "en": "Gundabad: Deepscrave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75faf5e",
+      "en": "Eryn Lasgalen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa69f3b5",
+      "en": "[placeholder] does not have the quest but would be at an earlier quest in this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2e08ce",
+      "en": "Use #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x374d7dc",
+      "en": "The Shield Isles: Jeb Khâtel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2c173e",
+      "en": "Human",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a3c84",
+      "en": "Eastfold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2406e4",
+      "en": "The Shield Isles: Bakhjâd",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d44c1",
+      "en": "Imlad Morgul: Circle of Wrath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d44c2",
+      "en": "Imlad Morgul: Circle of Sorrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31f72f5",
+      "en": "Mordor: Scourges of Gorgoroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d44c3",
+      "en": "Imlad Morgul: Circle of Madness",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d44c4",
+      "en": "Imlad Morgul: Circle of Despair",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16d26a5",
+      "en": "Rushgore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d44c5",
+      "en": "Imlad Morgul: Circle of Death",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20ce283",
+      "en": "Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35c9bf3",
+      "en": "Wildermore: Whitshaws",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed9d200",
+      "en": "Before the Shadow, Prologue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x502eb3",
+      "en": "Brown Lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed9d201",
+      "en": "Before the Shadow, Book 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc49eb84",
+      "en": "You no longer have the [placeholder] quest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed9d202",
+      "en": "Before the Shadow, Book 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14f6fa3",
+      "en": "Elderslade: The War of Three Peaks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72ec98e",
+      "en": "Left #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed9d203",
+      "en": "Before the Shadow, Book 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf31dcb1",
+      "en": "Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5314c",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f597e4",
+      "en": "Test",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2711c4",
+      "en": "Before the Shadow, Afterword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff0bd39",
+      "en": "Umbar-môkh: Dil-irmíz, the Berths",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8fb0e5",
+      "en": "Yondershire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6d437b",
+      "en": "Find ([placeholder]/[placeholder]) [placeholder] at [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b02545",
+      "en": "Moria: The Dimrill Dale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd443c4",
+      "en": "Without Being Defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e57eae",
+      "en": "Garth Agarwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x440932c",
+      "en": "Normal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a80643",
+      "en": "King's Gondor: The Havens of Belfalas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x921a8d7",
+      "en": "Blood of Azog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffbe54",
+      "en": "Midsummer: Gathering Guests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc080d5",
+      "en": "Umbar-môkh: Kamrabezûr, the Vaults",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60cc18e",
+      "en": "Vales of Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93a8255",
+      "en": "Epic - Vol. I, Epilogue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e8a449",
+      "en": "Player is working on the quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd474aeb",
+      "en": "Talk to #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f62d15",
+      "en": "Lhingris Allegiance Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0f8fd4",
+      "en": "FIXME: Have Skill Result [placeholder] Applied ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f2b3c4",
+      "en": "Bard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5c2554",
+      "en": "Use #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff26958",
+      "en": "Enedwaith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bed16e",
+      "en": "Mission",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcdccfb4",
+      "en": "Bounder's Bounty",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1df01a4",
+      "en": "FIXME: Use [placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87d53de",
+      "en": "Umbar Baharbêl: Sail-haven",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf27724e",
+      "en": "Mission",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64a1a27",
+      "en": "FIXME: Begin the [placeholder] quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d2130",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa52c374",
+      "en": "Grimwood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c8f790",
+      "en": "Small Group",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac406c2",
+      "en": "Central Gondor: Pelargir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0fec5",
+      "en": "Stout-axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbddd922",
+      "en": "Mariner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe377083",
+      "en": "Bree-land: Southern Bree-fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72dded8",
+      "en": "Crafting Guild: Metalsmith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b0e7a2",
+      "en": "Mission: Kharum-ubnâr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd16dbc",
+      "en": "Forochel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef64528",
+      "en": "The North Wold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1e2c7",
+      "en": "Waiting to enter session play.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe50974e",
+      "en": "The Shield Isles: Shedax Khîn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd45f93",
+      "en": "The Wastes: The Slag-hills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60f025c",
+      "en": "East Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x348e192",
+      "en": "Craft Events - Jeweller",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56f31b4",
+      "en": "Wildwood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8540f1e",
+      "en": "Wildwood: Woodcutter's Brotherhood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcfb774",
+      "en": "Kill a Monster Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf61ecae",
+      "en": "(Quest [placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b2575",
+      "en": "Return to Carn Dûm: Aiding the Fight",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x295061e",
+      "en": "Far Anórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4530cd3",
+      "en": "Stonedeans",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c3bde",
+      "en": "Used #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45aef44",
+      "en": "Midsummer: The Banquet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74922b3",
+      "en": "Broadacres",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe02acd5",
+      "en": "\\nQuest Chain: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd326154",
+      "en": "[placeholder] has completed an earlier quest in this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97cb2a4",
+      "en": "FIXME: Have Skill Result [placeholder] Used ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42ff875",
+      "en": "Vales of Anduin: Woodsedge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9fb5b8",
+      "en": "Eastern Gondor: Lossarnach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15564d3",
+      "en": "Wildermore: High Knolls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1587b8e",
+      "en": "[placeholder] has completed all the objectives on a later quest in this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3301e",
+      "en": "FIXME: Defeat #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8005dd",
+      "en": "Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7dc278c",
+      "en": "FIXME: Level the advanceable item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a2c134",
+      "en": "The Dungeons of Naerband",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5909134",
+      "en": "Escort #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd472774",
+      "en": "Use #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25c7c55",
+      "en": "Allegiance: The Order of the Eagle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fedfce",
+      "en": "Find [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2dfd34",
+      "en": "[placeholder] has already completed shared Quest \\q[placeholder]\\q.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe54c593",
+      "en": "You've earned [placeholder] LOTRO Points.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb9c7e5",
+      "en": "Player is eligible for the quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x699b6db",
+      "en": "Moria: Nud-melek",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9864a1e",
+      "en": "Defeat ([placeholder]/#1:[placeholder]) #1:{Player[1]|Players}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ffe63c",
+      "en": "Ikorbân Valley: Ambarûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ca2ebc",
+      "en": "Central Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9600a5",
+      "en": "The Cape of Umbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5b942",
+      "en": "Crafting Guild: Woodworker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da36ac",
+      "en": "Farmers Faire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71eabd3",
+      "en": "Mission: Further Adventures",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc961879",
+      "en": "Umbar Baharbêl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b6743",
+      "en": "Bree-land: Northern Bree-fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3193d5",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2972f32",
+      "en": "Craft Events - Farmer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x955674e",
+      "en": "Mordor: Udûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ffcfb",
+      "en": "Kill ([placeholder]/[placeholder]) [placeholder] at [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf416673",
+      "en": "Eaves of Fangorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e34cf9",
+      "en": "Thaurisgar, the Vile Apothecary",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2b663",
+      "en": "Ettenmoors",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x929414e",
+      "en": "Execute #1:{the[!n]} recipe #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf4faec",
+      "en": "Imlad Morgul: Cirith Ungol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2aedf77",
+      "en": "Dunland: Dunbog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b54f23",
+      "en": "Misty Mountains",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23404c4",
+      "en": "FIXME: Finish Before Time Expires",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x956b155",
+      "en": "Advance: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2aa7bd2",
+      "en": "Old Anórien: Pelennor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceaf7b2",
+      "en": "Isengard: Nan Curunír",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14e2614",
+      "en": "FIXME: Do Not Get Detected by [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x517c4d5",
+      "en": "[placeholder] is further along in the quest chain but is ineligible for the next quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2125e0c",
+      "en": "Mounted Combat Tutorial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21bbff4",
+      "en": "Your Quest Log has been updated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fd9e1e",
+      "en": "<rgb=#8181F7>[placeholder]</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f49565",
+      "en": "Elderslade: March on Gundabad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b14393",
+      "en": "Tales of the Kindred",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee77a4b",
+      "en": "Task",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdae6883",
+      "en": "Dunland: Bonevales",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ca82f7",
+      "en": "After Battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ae37f0",
+      "en": "[placeholder] [placeholder]\\nQuest: [placeholder][placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54f1f4",
+      "en": "Raid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb888c55",
+      "en": "King's Gondor: Ringló Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf572659",
+      "en": "[placeholder] is on the same quest as you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24a6230",
+      "en": "Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd1",
+      "en": "Epic - Vol. II, Book 1: The Walls of Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd2",
+      "en": "Epic - Vol. II, Book 2: Echoes in the Dark",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa912dde",
+      "en": "Are you sure you want to abandon quest: [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd3",
+      "en": "Epic - Vol. II, Book 3: The Lord of Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35765bb",
+      "en": "Osgiliath: Shrak Mauruk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd4",
+      "en": "Epic - Vol. II, Book 4: Fire and Water",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x385f024",
+      "en": "Bree-land: Archet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd5",
+      "en": "Epic - Vol. II, Book 5: Drums in the Deep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe565a18",
+      "en": "Old Anórien: Minas Tirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53b0f3",
+      "en": "Epic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd6",
+      "en": "Epic - Vol. II, Book 6: The Shadowy Abyss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd7",
+      "en": "Epic - Vol. II, Book 7: Leaves of Lórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4524bee",
+      "en": "King's Gondor: Upper Lebennin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6ff674",
+      "en": "FIXME: Find a role [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd8",
+      "en": "Epic - Vol. II, Book 8: Scourge of Khazad-dûm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91439f5",
+      "en": "Restoring the North",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9875bd9",
+      "en": "Epic - Vol. II, Book 9: Fortress of the Nazgûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x517eb94",
+      "en": "Defeated #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3cade2",
+      "en": "Brawler",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x165579",
+      "en": "Umbar-môkh: Tâkhdar, the Cellars",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e3ee33",
+      "en": "The Wastes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb8590",
+      "en": "Epic - Vol. I, Book 10: The City of the Kings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1f1f5e",
+      "en": "Tol Ascarnen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb8591",
+      "en": "Epic - Vol. I, Book 11: Prisoner of the Free Peoples",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb8592",
+      "en": "Epic - Vol. I, Book 12: The Ashen Wastes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb8593",
+      "en": "Epic - Vol. I, Book 13: Doom of the Last-king",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb8594",
+      "en": "Epic - Vol. I, Book 14: The Ring-forges of Eregion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe90544",
+      "en": "[placeholder] has completed this quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1e1d12",
+      "en": "Tales of the Shadows of Angmar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb8595",
+      "en": "Epic - Vol. I, Book 15: Daughter of Strife",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f83254",
+      "en": "FIXME: Have [placeholder] Applied ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50c2264",
+      "en": "[placeholder] would like to Share Quest \\q[placeholder]\\q with you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x710c5d4",
+      "en": "Bree-land: Buckland",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x844afc2",
+      "en": "Old Anórien: Talath Anor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x572ec60",
+      "en": "Epic Battles - Defence of Rohan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fdc90e",
+      "en": "Ered Luin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8a1495",
+      "en": "[placeholder] has completed this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5b1c80",
+      "en": "Small Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4e5ae3",
+      "en": "Wildermore: Writhendowns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3779c05",
+      "en": "Introduction",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x656663",
+      "en": "Vales of Anduin: Beorning-lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x199e1f9",
+      "en": "[placeholder] is on an later quest in this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf88e563",
+      "en": "Umbar-môkh: Ilmabiri, the Wells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x787b3d4",
+      "en": "Crafting Advancement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf61054c",
+      "en": "The Anvil of Winterstith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x400d6e4",
+      "en": "Bree-land",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebd2434",
+      "en": "Vales of Anduin: Laerlad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b01815",
+      "en": "[placeholder]\\nComplete: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66b064",
+      "en": "FIXME: Do Not Lose Your Channeling State",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2875bd1",
+      "en": "Epic - Vol. V, Book 1: A Time of Celebration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb297874",
+      "en": "Talk to #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51e4bbc",
+      "en": "Minstrel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e45b84",
+      "en": "Kingstead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87e8f94",
+      "en": "Quest Time Expired:\\n[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc9c753",
+      "en": "Ikorbân Valley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb497de",
+      "en": "[placeholder] is on the same quest and has completed all objectives.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x108cab5",
+      "en": "\\[[placeholder]\\] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7aea335",
+      "en": "Dwarf-holds: Remnants of the Grey Realm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea0b1e",
+      "en": "Dunland: Carreglyn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3653472",
+      "en": "Crafting Guild: Tailor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa129634",
+      "en": "Wildermore: Balewood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf19f4b8",
+      "en": "Osgiliath (After Battle)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf643fc7",
+      "en": "Wells of Langflood: Misthallow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cf619d",
+      "en": "Collect #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7076a03",
+      "en": "Find #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbbd982",
+      "en": "[placeholder]\\nor\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc389619",
+      "en": "[placeholder] is on an earlier quest in this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7cd1f4",
+      "en": "[placeholder] currently has a shared quest from another player.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4d75f",
+      "en": "[placeholder]\\n\\n<rgb=#FF0000>This quest is in the [placeholder] category: You are currently underway on or have completed [placeholder] / [placeholder] quests in this category today.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5409efe",
+      "en": "Champion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf59fef6",
+      "en": "Undef: FIXME! ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x715f9c4",
+      "en": "Craft Events",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44f2996",
+      "en": "Elf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6225b72",
+      "en": "Discovering the Descendant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1226285",
+      "en": "Moria Central Halls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d6be05",
+      "en": "Ettenmoors Cultivation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3aa3705",
+      "en": "Instance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc637530",
+      "en": "Gundabad: Clovengap",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bb6394",
+      "en": "Umbar Baharbêl: Fleet-fast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba24815",
+      "en": "Mission: War of Three Peaks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb8712",
+      "en": "Lore-master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe03b51",
+      "en": "Gundabad Allegiance Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbde8345",
+      "en": "Repeatable",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3639a54",
+      "en": "Legendary Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeeac9e3",
+      "en": "The Wastes: The Noman-lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ba2434",
+      "en": "Mission: Crown of Hamât",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x286506c",
+      "en": "Mordor: Imlad Morgul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc616d05",
+      "en": "Legendary Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf286cc6",
+      "en": "Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0e25a7",
+      "en": "Woe of the Willow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89a85e5",
+      "en": "Epic - Vol. I, Prologue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf223078",
+      "en": "Skirmish Assaults",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ebe53",
+      "en": "Wells of Langflood: The Floodfells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57125e",
+      "en": "Collected #1:{ [P]| [p]| the } #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa714565",
+      "en": "Bree-land: Staddle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef53d54",
+      "en": "If you abandon this quest while inside an instance you will be removed from the instance. Are you sure you want to abandon quest: [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b651f3",
+      "en": "Great Barrows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3395ed7",
+      "en": "Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bb9ad3",
+      "en": "Moria: The Water-works",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb49f035",
+      "en": "Dor Amarth Allegiance Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x522e51e",
+      "en": "Are you sure you want to abandon quest: [placeholder]? (You will be logged out if you say yes).\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba07c7",
+      "en": "Legendary Angmar: Great Barrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d5ece",
+      "en": "FIXME: Bring Items to #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f9ecc9",
+      "en": "Moria: Durin's Way",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56ed357",
+      "en": "You are too low level to receive the [placeholder] quest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c61f45",
+      "en": "Sarch Vorn, the Black Grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33cfb64",
+      "en": "Mission: Wildwood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f35ee8",
+      "en": "Strongholds of the North",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ef9a23",
+      "en": "Outer Gondor: Anfalas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x639fa05",
+      "en": "Western Gondor: Blackroot Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa85ffb3",
+      "en": "Far Anórien: Beacon Hills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4987534",
+      "en": "[placeholder] has shared Quest \\q[placeholder]\\q underway.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b0f61",
+      "en": "Tales of the Mines of Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8776bb5",
+      "en": "King's Gondor: Blackroot Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a898c",
+      "en": "Harvest Festival",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bce2f5",
+      "en": "The Black Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf47a668",
+      "en": "Imlad Morgul: Thuringwath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e67075",
+      "en": "TBD Return to Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x663dc6e",
+      "en": "Far Anórien: Taur Drúadan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9abb44",
+      "en": "[placeholder] has declined shared Quest \\q[placeholder]\\q.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12da04e",
+      "en": "Kill ([placeholder]/#1:[placeholder]) Monster #1:{Player[1]|Players}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b9c725",
+      "en": "[placeholder] (Completed)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20e6bf8",
+      "en": "King's Gondor: Lossarnach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x294664",
+      "en": "Used #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3f917e",
+      "en": "Eregion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c11e32",
+      "en": "Hunter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb206d25",
+      "en": "Agarnaith Allegiance Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53701f4",
+      "en": "FIXME: Escort someone with role [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21dbcf3",
+      "en": "Mordor: Lhingris",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e6b8b5",
+      "en": "Vales of Anduin: Duskenvale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63d75f1",
+      "en": "Elderslade: The War Effort",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9293035",
+      "en": "[placeholder] is ineligible for this quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeac4863",
+      "en": "Edoras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f20e5",
+      "en": "The Battle of Pelennor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a2d83e",
+      "en": "Found #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc22f5",
+      "en": "The Angle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ada81e",
+      "en": "Old Anórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c26130",
+      "en": "FIXME: Equip the advanceable item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9837ba5",
+      "en": "In Their Absence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e8aa4",
+      "en": "Gundabad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92eecc4",
+      "en": "If you abandon the instance quest you will be removed from the instance. Are you sure you want to abandon quest: [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3cdad5",
+      "en": "Hytbold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb355705",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45b5b4e",
+      "en": "North Ithilien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae977b3",
+      "en": "Western Gondor: Belfalas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae183",
+      "en": "North Downs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96c4854",
+      "en": "Eastern Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbed5db5",
+      "en": "Limlight Gorge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b1b96e",
+      "en": "Western Gondor: Tarlang's Crown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2b0828",
+      "en": "Imlad Morgul: Rath Dúath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73c4019",
+      "en": "[placeholder] (Retry)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e888e4",
+      "en": "Shared",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20de664",
+      "en": "Legendary Angmar: Helegrod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8057c3e",
+      "en": "Defeat #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62a67c",
+      "en": "Spring Festival",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83e0c0e",
+      "en": "Find Landmarks in [placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb851",
+      "en": "Epic - Vol. I, Book 1: Stirrings in the Darkness",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94e7695",
+      "en": "Talath Úrui Allegiance Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb852",
+      "en": "Epic - Vol. I, Book 2: The Red Maid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69e8392",
+      "en": "Craft Events - Prospector",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb853",
+      "en": "Epic - Vol. I, Book 3: The Council of the North",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb854",
+      "en": "Epic - Vol. I, Book 4: Chasing Shadows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb855",
+      "en": "Epic - Vol. I, Book 5: The Last Refuge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb856",
+      "en": "Epic - Vol. I, Book 6: Fires in the North",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb857",
+      "en": "Epic - Vol. I, Book 7: The Hidden Hope",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x312024",
+      "en": "Player has completed the quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb858",
+      "en": "Epic - Vol. I, Book 8: The Scourge of the North",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcbb859",
+      "en": "Epic - Vol. I, Book 9: The Shores of Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1790ef0",
+      "en": "Level Up",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfef4204",
+      "en": "Completed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75d4074",
+      "en": "Mission: Gundabad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7289d9",
+      "en": "Minas Tirith (After Battle)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53fd565",
+      "en": "Allegiance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc67b5b3",
+      "en": "Moria: The Flaming Deeps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f6e9f2",
+      "en": "Mission: Umbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44f59b2",
+      "en": "Barad Gúlaran",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x227c58e",
+      "en": "Ikorbân Valley Bounty",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1efa0c4",
+      "en": "Your Quest Log has been updated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8be3e43",
+      "en": "Umbar-môkh: Khabârkhad, the Crypts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe64b93",
+      "en": "Sutcrofts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f87f92",
+      "en": "Craft Events - Tailor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e3ce4e",
+      "en": "Warden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe34ca3",
+      "en": "Gundabad: Pit of Stonejaws",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc34908",
+      "en": "Gundabad: Câr Bronach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa310338",
+      "en": "Mordor: Dor Amarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc5dae",
+      "en": "Guardian",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x408c5f4",
+      "en": "Defeat #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd333595",
+      "en": "The Lost Ring-lore of Eregion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef681de",
+      "en": "FIXME: Complete ([placeholder]/[placeholder]) [placeholder] quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cc6cc3",
+      "en": "Trollshaws",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x968e47e",
+      "en": "Central Gondor: Lower Lebennin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a1fdde",
+      "en": "Eastern Gondor: South Ithilien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe41004e",
+      "en": "Collect #1:{ [P]| [p]| the } #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5f8fd4",
+      "en": "Umbar Baharbêl: Lower Ward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16f1b84",
+      "en": "Helegrod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c2dcab",
+      "en": "Moria: Zelem-melek",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0fced4",
+      "en": "Merit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9457fe4",
+      "en": "The Wastes: Dagorlad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65bcae2",
+      "en": "Allegiance: The Ledger-keepers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8116964",
+      "en": "Rise of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1466864",
+      "en": "Allegiance: Hobbits of the Company",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x847e224",
+      "en": "You have not yet completed this deed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5a64c5",
+      "en": "Shire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf59f6cd",
+      "en": "Shades in the Swamp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd86bc09",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e5d9fe",
+      "en": "FIXME: Using [placeholder], collect #1:{ [P]| [p]| the } #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cb030e",
+      "en": "King's Gondor: Lamedon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfd5792",
+      "en": "Erebor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd481f7f",
+      "en": "No information about [placeholder]'s quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb028118",
+      "en": "Craft Events - Weaponsmith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1129584",
+      "en": "Gundabad: Máttugard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc9d42",
+      "en": "Sagroth, Lair of Vermin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4582a32",
+      "en": "Epic Battles - War for Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4c5544",
+      "en": "Find #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeccc35c",
+      "en": "Become Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc608ed4",
+      "en": "FIXME: Get World Event [placeholder] [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d71d75",
+      "en": "Mordor: Stockpiles of Gorgoroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c752f5",
+      "en": "The Rangers' Offensive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x261b46f",
+      "en": "The Depths of Mâkhda Khorbo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6cfdc1",
+      "en": "Allegiance: The Zhélruka Clan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef61716",
+      "en": "Allegiance: The Court of Lothlórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbd9b94",
+      "en": "[placeholder] not [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98e724b",
+      "en": "Find [placeholder] at [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90645f5",
+      "en": "[placeholder] does not have this quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x636c934",
+      "en": "[placeholder] has accepted shared Quest \\q[placeholder]\\q.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8a3de4",
+      "en": "Westfold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd76e86e",
+      "en": "Fangorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc8d8d4",
+      "en": "FIXME: Deconstruct an advanceable item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7216ab8",
+      "en": "Mordor: Agarnaith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9178167",
+      "en": "Delving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe5a25e",
+      "en": "Lothlórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x569b528",
+      "en": "Crafting Guild: Weaponsmith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6537c3",
+      "en": "Moria: Redhorn Lodes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe810ac4",
+      "en": "Without Being Dismounted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x792b3f9",
+      "en": "Osgiliath: Armoury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd1994",
+      "en": "Fornost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc97dab5",
+      "en": "Vales of Anduin: Gladdenmere",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe552c13",
+      "en": "Umbar Baharbêl: Tor-gardens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x469807c",
+      "en": "Spring Festival",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8ed2d1",
+      "en": "\\nExplored Landmarks:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d7fbfe",
+      "en": "Mission: Ikorbân Valley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1980a65",
+      "en": "Osgiliath: Palace of Eldacar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cd8f1",
+      "en": "Blood of Azog: The Battle of Azanulbizar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86346de",
+      "en": "Eastern Gondor: Upper Lebennin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e52a2e",
+      "en": "Mission: Before the Shadow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5f4d18",
+      "en": "Ram Dúath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85d196e",
+      "en": "Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb12c300",
+      "en": "Isendeep Mine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66efe4",
+      "en": "Mordor Besieged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94b4b8e",
+      "en": "King's Gondor: Lower Lebennin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbe1e35",
+      "en": "The Black Book of Mordor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf919c04",
+      "en": "[placeholder] has this quest underway",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbe1e36",
+      "en": "The Legacy of Durin and the Trials of the Dwarves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c88655",
+      "en": "[placeholder] is further along in the quest chain but does not have the next quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbe1e37",
+      "en": "The Song of Waves and Wind",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5a3284",
+      "en": "Scout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x955128e",
+      "en": "Outer Gondor: Pinnath Gelin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd02b82e",
+      "en": "Gundabad: Gloomingtarn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa73c44",
+      "en": "Dunland: Gravenwood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c61f55",
+      "en": "The Fortunes of Umbar Baharbêl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd1",
+      "en": "Epic - Vol. IV, Book 1: The Road to Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x616e676",
+      "en": "Allegiance: Durin's Folk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x170032",
+      "en": "Erebor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd2",
+      "en": "Epic - Vol. IV, Book 2: The Dawnless Day",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd3",
+      "en": "Epic - Vol. IV, Book 3: Voices of the Past",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd4",
+      "en": "Epic - Vol. IV, Book 4: Siege of the White City",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bdc9cd",
+      "en": "Grothum",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd5",
+      "en": "Epic - Vol. IV, Book 5: The Ride of the Rohirrim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd6",
+      "en": "Epic - Vol. IV, Book 6: The Battle of the Pelennor Fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b8f635",
+      "en": "Inn League",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7121403",
+      "en": "Gundabad: Welkin-lofts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd7",
+      "en": "Epic - Vol. IV, Book 7: The Trap",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd8",
+      "en": "Epic - Vol. IV, Book 8: The Black Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c79abc",
+      "en": "King's Gondor: Dor-en-Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7875bd9",
+      "en": "Epic - Vol. IV, Book 9: The Ring of Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d12c84",
+      "en": "The Wold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51a6025",
+      "en": "FIXME: Advance the advanceable item until it needs to be reforged.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a6aec2",
+      "en": "Umbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe163f6e",
+      "en": "Amdân Dammul, the Bloody Threshold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3cfb0de",
+      "en": "Cardolan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa14b172",
+      "en": "Moria Lower Deeps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f593db",
+      "en": "Task",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bb0b35",
+      "en": "West Rohan Resource Instances",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54de9b",
+      "en": "Task",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1084625",
+      "en": "Player is not eligible for the quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3604644",
+      "en": "FIXME: Slot a runic on the advanceable item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b39278",
+      "en": "Eastern Gondor: Osgiliath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccb6398",
+      "en": "Craft Events - Metalsmith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3d8138",
+      "en": "Osgiliath: Court of Anárion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b453b2",
+      "en": "Crafting Guild: Scholar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f5b494",
+      "en": "The Rift of Nûrz Ghâshu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd62e05",
+      "en": "Central Gondor: Ringló Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7effe8c",
+      "en": "Festival",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f97c58",
+      "en": "Urugarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc010724",
+      "en": "For completing the [placeholder] quest, you have earned [placeholder] experience points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10d5643",
+      "en": "Lone-lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e99a45",
+      "en": "Complete: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd56566e",
+      "en": "Shakalush, the Stair Battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x751e2e1",
+      "en": "Dwarf-holds: Reclaiming the Grey",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7cada2",
+      "en": "Burglar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6ef2d4",
+      "en": "[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12dbef7",
+      "en": "Beorning",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61e4643",
+      "en": "Dungeons of Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0f9b7e",
+      "en": "Use #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x117a602",
+      "en": "Allegiance: The Kingdom of Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2451b25",
+      "en": "[placeholder] is ineligible for this quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4dd528",
+      "en": "Skirmish",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ef99d9",
+      "en": "Anniversary Event",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb966e35",
+      "en": "Legendary Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed8d167",
+      "en": "Housing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1267134",
+      "en": "Throne of the Dread Terror",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b55075",
+      "en": "Return to Carn Dûm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7188ef1",
+      "en": "Return to Carn Dûm: The Battle for Angmar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88b4205",
+      "en": "Vales of Anduin: Protectors of the Wilderfolk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8774024",
+      "en": "Roving Threats",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ee3e5",
+      "en": "Wildermore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f777b5",
+      "en": "Entwash Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf328535",
+      "en": "Gap of Rohan: Isendale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a93335",
+      "en": "Wildermore: Rebuilding",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x774bbed",
+      "en": "FIXME: Using [placeholder], collect #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf2dbcb",
+      "en": "Craft Events - Cook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb24a831",
+      "en": "Umbar-môkh Weekly Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f75a53",
+      "en": "Dungeons of Lothlórien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x297fb15",
+      "en": "Sant Lhoer, the Poison Gardens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba140cd",
+      "en": "Collected #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5def773",
+      "en": "The Dale-lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875bdc0",
+      "en": "Epic - Vol. III, Book 10: Snows of Wildermore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e38fce",
+      "en": "Defeated #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cb3674",
+      "en": "Legendary Angmar: Fornost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875bdc1",
+      "en": "Epic - Vol. III, Book 11: The Golden Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875bdc2",
+      "en": "Epic - Vol. III, Book 12: War in the Westemnet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7daa72",
+      "en": "Moria Upper Levels",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875bdc3",
+      "en": "Epic - Vol. III, Book 13: The Battle of the Hornburg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875bdc4",
+      "en": "Epic - Vol. III, Book 14: The Waters of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a03515",
+      "en": "Epic - Vol. II, Prologue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x139ac05",
+      "en": "Bestow: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29ad664",
+      "en": "Without Swift Travelling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d52cb5",
+      "en": "FIXME: Fung Fu someone with role [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1668765",
+      "en": "Western Gondor: Dol Amroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9dfd02c",
+      "en": "Special",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13589c5",
+      "en": "Complete the [placeholder] session",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0949b5",
+      "en": "Defending the Umbar-môkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x723a5f4",
+      "en": "Dwarf-holds: The Ironfold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfbe794",
+      "en": "The session you are playing has been disabled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf828cde",
+      "en": "[placeholder] has completed all the objectives on an earlier quest in this quest chain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3828ad3",
+      "en": "The Dwarf-holds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8db9b5",
+      "en": "Healing the Ikorbân Valley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9613b53",
+      "en": "Hobnanigans",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d2554e",
+      "en": "Bree-town",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c93184",
+      "en": "River Hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12d74de",
+      "en": "Wildwood: League of the Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6890f07",
+      "en": "Crafting Guild: Cook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd00f7b5",
+      "en": "Gundabad: Depths of the Mountain-hold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58c1dac",
+      "en": "Not eligible for Quest \\q[placeholder]\\q: difficulty too low.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x119b760",
+      "en": "Glimmerdeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef8ed02",
+      "en": "Ikorbân Valley: Imhûlar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a5028c",
+      "en": "Do not fail the [placeholder] session",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x417b899",
+      "en": "Imlad Morgul: Minas Morgul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff5e454",
+      "en": "Completed:\\n[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2d555",
+      "en": "Gwathrenost, the Witch-king's Citadel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e62433",
+      "en": "Norcrofts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4131f74",
+      "en": "New Quest: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe1a704",
+      "en": "The Court of Seregost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9445d5e",
+      "en": "[placeholder]  You will be logged off in [placeholder] seconds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd63744",
+      "en": "Mirkwood",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6d7773",
+      "en": "Moria: Silvertine Lodes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba152d7",
+      "en": "FIXME: Carry [placeholder] to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefabcce",
+      "en": "Find #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5bdfe6",
+      "en": "Frostbluff",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x779672c",
+      "en": "Crafting Guild: Minas Morgul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf452b8c",
+      "en": "Mission: Anniversary Event",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59db25e",
+      "en": "Find #1:{the[!n]} #1:[placeholder] ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8203563",
+      "en": "Dungeons of Dol Guldur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45ad0b4",
+      "en": "Keep #1:{the[!n]} #1:[placeholder] Alive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42bb4a4",
+      "en": "Parth Celebrant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf96f6f7",
+      "en": "Lugazag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc404794",
+      "en": "Moria Hidden Content",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15989c",
+      "en": "FIXME: You must achieve [placeholder] relations with [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11d09b3",
+      "en": "Dungeons of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd498506",
+      "en": "High Elf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f74bf8",
+      "en": "Agoroth, the Narrowdelve",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21e0e7e",
+      "en": "Talk to #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35d0663",
+      "en": "Vales of Anduin: Wolf-denes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc16dc2b",
+      "en": "Kill [placeholder] at [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3a9565",
+      "en": "Bree-land: Combe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4755c44",
+      "en": "New Deed: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87c0645",
+      "en": "Angmar Reborn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2eecdf4",
+      "en": "Hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefafb59",
+      "en": "Avoid #1:{the[!n]} #1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86cbe45",
+      "en": "Elderslade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3803b84",
+      "en": "Your journal for the [placeholder] quest has been updated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24f6e44",
+      "en": "FIXME: Resource Set",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c5fcc7",
+      "en": "Tirith Rhaw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a2d3e3",
+      "en": "Wildermore: Fallows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6a3084",
+      "en": "<li>[placeholder]</li>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57405a4",
+      "en": "[placeholder] is not eligible for shared Quest \\q[placeholder]\\q.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28f5ac4",
+      "en": "Failed: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

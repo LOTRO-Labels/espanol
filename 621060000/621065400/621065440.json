@@ -1,0 +1,221 @@
+{
+  "id": 621065440,
+  "txt": [
+    {
+      "id": "0x9b568b4",
+      "en": "'This pack is much lighter than it was when the thief stole it, and it seems he scattered its contents among the ruins in his eagerness to escape.\\n\\n'Might I trouble you to gather up my lost supplies?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'Thank you for this, my new friend! I am in your debt. Not only that, but I must beg your pardon, for I was so surprised to see you that I did not even ask your name! Pray tell it to me now, and forgive me the oversight. Halflings are never seen in my homeland, and I was taken aback. But I meant no offence, and mean none now.\\n\\n'[placeholder]? It is my honour to make your acquaintance, [placeholder]. You say your companions are nearby? I would join them at their fire, if you think I would be welcome. If not, I will continue on my own, but it has been a long road and I would not turn down a friendly camp-fire, and pleasing conversation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 2, Chapter 2: Boromir, Son of Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'I would join you at your fire, if you think I would be welcome. If not, I will continue on my own, but it has been a long road and I would not turn down a friendly camp-fire and pleasing conversation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'Boromir is my name, and I have come from Minas Tirith by a long road on an urgent errand. The crossing of the river proved treacherous and I was forced to abandon my steed. I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest.\\n\\n'If you catch this thief for me I will be indebted to you, my good Elf.\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": " #-1:[placeholder]'Boromir is my name, and I have come from Minas Tirith by a long road on an urgent errand. The crossing of the river proved treacherous and I was forced to abandon my steed. I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest.\\n\\n'If you catch this thief for me I will be indebted to you, my good... #-1:{woman[f]|fellow}.\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Collect scattered supplies to the west of Boromir's position in Tharbad ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Boromir is my name, and I have come from Minas Tirith by a long road on an urgent errand. The crossing of the river proved treacherous and I was forced to abandon my steed. I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest.\\n\\n'If you catch this thief for me I will be indebted to you, my good [placeholder].\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Return to Meneldir and Egfrith on the northern bank of the Gwathló",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'You must have struck fear into the heart of that thief, my new friend! This pack is much lighter than it was when he stole it, and it seems he scattered its contents among the ruins in his eagerness to escape.\\n\\n'Might I trouble you to gather up my lost supplies?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Talk to Meneldir on the northern bank of the Gwathló",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'Thank you for this, my new friend! I am in your debt. Not only that, but I must beg your pardon, for I was so pleased to encounter a friendly face that I did not even ask your name! Pray tell it to me now, and forgive me the oversight.\\n\\n'[placeholder]? It is my honour to make your acquaintance, [placeholder]. You say your companions are nearby? I would join them at their fire, if you think I would be welcome. If not, I will continue on my own, but it has been a long road and I would not turn down a friendly camp-fire, and pleasing conversation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e00",
+      "en": "Return the stolen pack to Boromir to the north-east",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b7",
+      "en": "You recovered the stolen pack and should return it to Boromir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'Who have you found, [placeholder]? Who comes so to our fire?\\n\\n'I did not expect to see a soldier of the Citadel this far from his homeland.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Boromir has agreed to return with you to meet your companions while he decides his next course.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e04",
+      "en": "Bring the scattered supplies to Boromir at his position in Tharbad to the east",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "The Orc-thief that ran off with Boromir's pack is likely somewhere to the south-west of his position in Tharbad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Meneldir stares at Boromir with suspicion, his eyes narrowed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Boromir is to the east, in Tharbad, taking stock of the situation and planning his next steps.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Boromir is to the north-east, in Tharbad, taking stock of the situation and planning his next steps.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Recover Boromir's pack from the Orc-thief somewhere to the south-west",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "In his haste to escape, the Orc-thief tried to empty the stolen pack of some of its contents, which are now scattered to the west of Boromir's position in Tharbad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d175",
+      "en": "Boromir, Captain of Gondor, has enlisted your aid to help him with the difficulties he encountered in Tharbad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "Collected scattered supplies ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'Boromir is my name, and I have come from Minas Tirith by a long road on an urgent errand. The crossing of the river proved treacherous and I was forced to abandon my steed. I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest.\\n\\n'If you catch this thief for me I will be indebted to you, my good dwarf.\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": " #-1:[placeholder]'Boromir is my name, and I have come from Minas Tirith by a long road on an urgent errand. The crossing of the river proved treacherous and I was forced to abandon my steed. I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest.\\n\\n'If you catch this thief for me I will be indebted to you, my good #-1:{woman[f]|man}.\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a6",
+      "en": "Meneldir leaps to his feet as you and Boromir approach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": " #-1:[placeholder]'Boromir is my name, and I have come from Minas Tirith by a long road on an urgent errand. The crossing of the river proved treacherous and I was forced to abandon my steed. I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest.\\n\\n'If you catch this thief for me I will be indebted to you, my good #-1:{woman[f]|man}.\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'I ran afoul of Orcs among the ruins, as you can see, and one of their cowardly thieves stole my pack. When I have recovered it, I will resume my quest. If you catch this thief for me I will be indebted to you.\\n\\n'I think he ran off to the south-west.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

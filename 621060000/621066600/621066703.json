@@ -1,0 +1,65 @@
+{
+  "id": 621066703,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "'You wish to learn the ways of the Burglar, do you?\\n\\n'It is prudent to study your foe's weaknesses and weigh your own tactics before engaging them. For instance, approaching a foe from Stealth increases the potency of many of your attacks. After all, a moment's forethought could be the difference between victory and defeat!\\n\\n'Prove your mettle to me, and I shall deem you a worthy Burglar. Although it is not the most wily opponent, I would ask that you approach one of the training dummies nearby and strike it with a <rgb=#00ff00>Cunning Attack</rgb>. If your form is improper, it is better that you hone it against a foe that cannot strike back!'\\n\\nHINT:\\n\\nBurglars benefit greatly from <rgb=#ffff00>Critical Strikes</rgb> and <rgb=#ffff00>Devastating Blows</rgb>. Scoring such hits will allow them to use special skills such as <rgb=#00ff00>Double-edged Strike</rgb>. In addition, many Burglar skills benefit from being in <rgb=#ffff00>Stealth</rgb>.\\n\\nTry attacking a <rgb=#ff0000>training dummy</rgb> from <rgb=#ffff00>Stealth</rgb> with <rgb=#ffff00>Cunning Attack</rgb> to inflict even more damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Well done, [placeholder]! As you continue to hone your skill, I have no doubt you will learn even more cunning techniques to tip the scales of battle in your favour.\\n\\n'Now then, I believe you should return to Elladan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'You should strike the training dummy with the most Cunning Attack you can muster. Once you feel confident in your ability, return to me. We must make certain that you are prepared to properly wield a blade!'\\n\\n<rgb=#00ff00>HINT:\\n\\nBurglars benefit greatly from <rgb=#ffff00>Critical Strikes</rgb> and <rgb=#ffff00>Devastating Blows</rgb>. Scoring such hits will allow them to use special skills such as <rgb=#00ff00>Double-edged Strike</rgb>. In addition, many Burglar skills benefit from being in <rgb=#ffff00>Stealth</rgb>.\\n\\nTry attacking a <rgb=#ff0000>training dummy</rgb> from <rgb=#ffff00>Stealth</rgb> with <rgb=#ffff00>Cunning Attack</rgb> to inflict even more damage. </rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Training: Disarming the Competition",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Your trainer wants you to use your new skills to prove that you are ready to face the many dangers that exist in the world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have struck the training dummy with Cunning Attack",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Strike the training dummy with <rgb=#00ff00>Cunning Attack</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Use your <rgb=#00ff00>Cunning Attack</rgb> skill against the nearby training dummy.\\n\\nHINT: Burglars benefit greatly from <rgb=#ffff00>Critical Strikes</rgb> and <rgb=#ffff00>Devastating Blows</rgb>. Scoring such hits will allow them to use special skills such as <rgb=#00ff00>Double-edged Strike</rgb>. In addition, many Burglar skills benefit from being in <rgb=#ffff00>Stealth</rgb>.\\n\\nTry attacking a <rgb=#ff0000>training dummy</rgb> from <rgb=#ffff00>Stealth</rgb> with <rgb=#ffff00>Cunning Attack</rgb> to inflict even more damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to the Burglar Trainer at the Edhelion Watch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Burglar Trainer is at the Edhelion Watch.\\n\\nNow that you have successfully used your Cunning Attack, you should return to your trainer and tell them of your success.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

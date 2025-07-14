@@ -1,0 +1,533 @@
+{
+  "id": 620964084,
+  "txt": [
+    {
+      "id": "0x2f00e21",
+      "en": "Go to the location described by Humfrey's riddle to find Theodore and Haley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Talk to Bingo in Avardin, in Dunland",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'Now you have done it, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'And furthermore, you know I am a Treasure Seeker of some renown. Well, ever since you gave Haley the Rothstone, I have found nothing in the way of treasure at all! It is as if some secret force has cast a shroud over my sight, preventing me from finding even the least valuable trinket or bauble.\\n\\n'Every ruin is picked clean. Every chest or strongbox is empty. There is no gold, there is no silver, there are no gems. The curse of the Rothstone has so damaged my fortunes that I cannot even hope to amass a fortune of any type!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'I should have warned you about this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'You said you met Humfrey Rumming, and he sent you to find me and Haley? Did he tell you that he sold us a number of treasure maps? They cost me a pretty penny, I don't mind telling you, and so far every single one has come up empty! All my hopes rest on the only treasure map I have not yet tried, but those hopes have become as faint as a guttering candle in a drafty room!\\n\\n'Bingo said that you were in Avardin earlier today, and yet Humfrey's riddle sent you right back here? That sounds like very bad luck as well, [placeholder]. I think you too may have become ensnared in the curse of the Rothstone!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Bingo wants to travel to Galtrev, in Pren Gwydh. He will meet you inside the city, east of the centre of town.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'I feel badly about this, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'I suppose it is time to continue our journey. I have written some more pages about our time in Rohan, but I am finding it hard to write about Dunland. Do you think Willem Whisker is doing all right?\\n\\n'Bah! I know I should not dwell on it, [placeholder], but I cannot help it! There is a large settlement to the north-east. It is called Galtrev. Let us go there and see what there is to learn about Dunland. Perhaps if we learn more about it I will not miss Willem Whisker so keenly!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'We need to do something about the Rothstone, [placeholder]. This string of bad luck has become unbearable. We have had such a grievous journey south that I am ready to turn around and head back north! That is how terrible this adventure has become!\\n\\n'Ask Haley! She will confirm everything I have said to you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85981",
+      "en": "'I suppose it is time to continue. Do you… do you think Willem is all right?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Humfrey Rumming is to the east of the town-centre of Galtrev, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'He is nearly finished. I have grown able to tell.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'Look who I have run into, [placeholder]... it's Humfrey Rumming!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85982",
+      "en": "'Look who I have run into! It's Humfrey Rumming!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Bingo has not taken the departure of Willem Whisker very well, but he is trying to continue his journey.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'We should travel north-east to the settlement of Galtrev. It could be I will find something interesting there to write about.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85983",
+      "en": "'Hello there! I was just talking about you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85984",
+      "en": "'We should travel to Galtrev. Maybe there will be something there to write about.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Humfrey Rumming gave you a riddle to solve. It should point to the destination for which Haley Meadowsweet and Theodore Gorse were making.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Haley Meadowsweet in Avardin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'This is lucky fortune indeed, [placeholder]! A short time ago, I encountered a pair of Treasure Seekers, a man and a woman, and the conversation was quite pleasant. Well, it turns out that these two knew about you, [placeholder]. I decided right then and there to give them quite a good deal on a number of treasure maps that had come into my possession.\\n\\n'You would like to find this pair? Well, you are in luck, because I know where they were going! While we were conversing, they told me that you have quite a head for riddles. I find that hard to believe. A master lore-master such as myself cannot be bested at the riddle-game!\\n\\n'I will write down their destination in riddle-form, and if you can solve it, you will find them there! Good luck, [placeholder]. Confine your search to Dunland, and let us see if your good fortune holds!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85985",
+      "en": "'This is lucky fortune indeed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'This Humfrey does seem to be a curious fellow, doesn't he?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85986",
+      "en": "'This Humfrey is a curious fellow.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85987",
+      "en": "'I suppose we solved the riddle… but we were just here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85988",
+      "en": "'Solve my riddle, and you will find your friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'I suppose we solved the riddle, [placeholder]. But we were just here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85989",
+      "en": "'Hello there! It has been a long time, hasn't it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Talk to Theodore Gorse in Avardin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Talk to Theodore Gorse in Avardin... again",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'Solve my riddle, and you will find your friends! They are somewhere in Dunland, but that is the only hint you will get from me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Talk to Theodore Gorse in Avardin... again",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Haley Meadowsweet is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Talk to Theodore Gorse in Avardin... again",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'It has been a long time, [placeholder]! I am glad to see that you found Bingo! I knew he would turn up again.\\n\\n'Our own journey has been fairly uneventful. I think Theodore may be less of a Treasure Seeker than when I took him on as a pupil, if you can believe it!\\n\\n'He will want to tell you about our journey.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Talk to Theodore Gorse in Avardin... again",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'You have seen Haley and Theodore since we parted in the Lone-lands? Oh, that must have been while I was lost in Moria. That was such a long time ago, I had quite forgotten!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Theodore Gorse is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'I have a complaint to lodge with you, [placeholder]! Do you remember that shiny necklace you tried to give me back in Eregion? Well, that was not a fake at all, as I thought it might have been at the time. No! It was a real artifact of the dwarves, and Haley has held onto it ever since we took your leave in Eregion.\\n\\n'And ever since, [placeholder], we have been beset with ill fortune! This southward journey has been a constant cavalcade of catastrophe! And it is all your fault! That shiny necklace, that Rothstone... it bears a curse of ill fortune!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'Theodore will go on for awhile, if you let him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50259",
+      "en": "Talk to Haley Meadowsweet in Avardin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'How do I know? I will tell you how I know. The weather has been terrible! As we made our way south through Eregion, the skies opened up and the downpour was torrential! You have never seen rain like this, [placeholder]. It was cold as ice, and each droplet hit the skin like hail!\\n\\n'Thunder rolled across the sky, booming and crashing, and the wind threatened to pick you up and toss you against trees or stones! We were in that land for several days before you gave Haley the Rothstone, and I did not see any weather like that before. But afterwards? It was nearly constant, except for a few days when it was sunny and nice. But those days were the exception!\\n\\n'Further proof: we had to pick our way across a stream when we entered Enedwaith, and I hurt my ankle sliding down the river-bed. It has only recently started feeling better.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Bingo east of the town-centre of Galtrev, in Pren Gwydh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Humfrey Rumming in Galtrev, in Dunland",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'Hello there, [placeholder]! It has been a long time, hasn't it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'Well hello, [placeholder]! I did not expect to see you in this place!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a0",
+      "en": "'I feel badly about this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a1",
+      "en": "'Ask Haley! She will confirm everything I have said to you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a2",
+      "en": "'He is nearly finished. I have grown able to tell.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a3",
+      "en": "'It rained once or twice. Our luck seems much the same to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a4",
+      "en": "'Our luck has turned sour, and all because of the Rothstone!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a5",
+      "en": "'The more the merrier, that is what I always say!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a6",
+      "en": "'Beware! The Rothstone will ensnare your fortunes too!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859a7",
+      "en": "'We would be glad to journey with you and Bingo for a time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a0",
+      "en": "Haley Meadowsweet is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'It rained once or twice. I haven't noticed that our luck has been any poorer than it ever was, [placeholder].\\n\\n'But if Theodore wants to turn around and head back north, I would not be opposed to travelling with you and Bingo for a spell, if you would have us as companions on your way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'Our luck has turned sour! And it is all because of the Rothstone!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "Bingo is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'The more the merrier, that's what I always say! Theodore and Haley will be more than welcome to journey with us as we head northward. It is about time we started that way, I would say. The Shire is still a long ways off, and it will be nice to have some company on the road.'\\n\\n<rgb=#FF0000>Next week: 'Treasure Lost, Treasure Found' (Recommended Level: 93)</rgb>\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'Beware, my friends! The curse of the Rothstone will ensnare your fortunes as well!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "Theodore is not finished yet!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'We would be glad to journey with you and Bingo for a time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b0",
+      "en": "'I did not expect to see you in this place!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b8",
+      "en": "'Hello there, [placeholder]! I was just talking about you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b1",
+      "en": "'I am glad you found Bingo! I knew he would turn up again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b2",
+      "en": "'You have seen Haley and Theodore since we parted in the Lone-lands?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b3",
+      "en": "'I have a complaint to lodge with you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "Theodore has only just begun!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b4",
+      "en": "'Theodore will go on for awhile, if you let him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "Theodore is still going strong!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b5",
+      "en": "'The weather has been terrible!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "Can it be? Has he finished? No.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b6",
+      "en": "'Now you have done it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "Theodore finally falls silent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b7",
+      "en": "'Ever since you gave Haley the Rothstone, I have found no treasure at all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b8",
+      "en": "'I should have warned you about this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859b9",
+      "en": "'I think the curse of the Rothstone may have you too!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "Humfrey hands you a small parchment with a few sentences scribbled on it",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "Theodore Gorse is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "Theodore Gorse is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "Theodore Gorse is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Theodore Gorse is in the town of Avardin, in Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "A String of Ill Fortune",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

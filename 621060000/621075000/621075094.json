@@ -1,0 +1,221 @@
+{
+  "id": 621075094,
+  "txt": [
+    {
+      "id": "0xb568912",
+      "en": "'[placeholder]! Glad am I to see you, friend. Dingási sent me to check on things up here, but it seems like you have already handled the situation.'\\n\\nYou hand her the journal and explain Maengar's involvement and demise. She flips through the pages, shaking her head.\\n\\n'Handled it, you certainly have! My, my. I thank you for your continued help! Those slabs of soft-stone Maengar was trying to slip in could have led to structural damage at best, and loss of life at worst. You have done a great service to Gondor and the Dwarves of Furukzahar, my friend. I will let Dingási know that the threat to our reputation - ah, and the danger of shoddy stone work, is over.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011872",
+      "en": "After collapsing on one of Imloth Melui's incredibly tall set of stairs, Garaphir was more than willing to point the finger at his employer, the noble, Maengar.\\n\\nYou should look for Maengar at his warehouse in Imloth Melui, and look for proof he was behind the infiltration of shoddy stones.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b14",
+      "en": "Maengar has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568913",
+      "en": "'The note that you found mentions someone named Garaphir, who is moving on to Imloth Melui. The gang you encountered in Aegollant was to report to him once they had finished moving this shipment of stone into our warehouse.\\n\\n'We must find out who is behind this! I recommend you go to Imloth Melui and speak with the Captain of the Guard, Merenir. He may know something of this Garaphir.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568914",
+      "en": "'Garaphir? Yes, I know of him. In fact, I wish his name had come to my attention less lately. He's an awful brute who has no qualms about trying to swindle the good folk of this town.\\n\\n'You should try looking for him in the market. I think I saw him slink that way earlier.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011846",
+      "en": "You should bring the accounts book to Merenir in Imloth Melui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011847",
+      "en": "You managed to find Garaphir in the marketplace, but he fled when you drew near.\\n\\nYou should pursue Garaphir through Imloth Melui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011876",
+      "en": "Merenir has suggested that you look for Garaphir in the market district in Imloth Melui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568918",
+      "en": "'Okay, all right, I'll talk. Oof, my aching side! Bah, why are there so many steps?! This blasted city is too hilly, ouch, huff.\\n\\n'Wait, wait, I said I'll talk. You are wasting your time with me anyhow! I'm just the middle man! You really want Maengar. He paid me to organize the shipment of his stone down to Arnach and the Harlond.\\n\\n'He's at his warehouse, in the western part of the city, but you had best leave him be! He won't go down without a fight, and he has plenty of protection. Now leave me be! I was just doing my job!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e5",
+      "en": "Talk to Merenir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011851",
+      "en": "After a brief chase through Imloth Melui, Garaphir has collapsed on a tall stair-case, panting for breath.\\n\\nYou should talk to Garaphir.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e9",
+      "en": "Interrogate Garaphir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "The crumpled note you found mentioned someone named Garaphir, who Kholnedák thinks can be found in Imloth Melui.\\n\\nShe has recommended that you go to Imloth Melui and speak with the Captain of the Guard, Merenir.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf3",
+      "en": "To Gondor's Garden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011885",
+      "en": "Merenir mentioned that someone had been looking for you while you were dealing with Maengar. You can find Kholnedák in Imloth Melui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d1729",
+      "en": "Shoddy stones have found their way into the stockpiles in Arnach - the work of someone named Garaphir. He must be stopped, lest he continue to taint the dwarves' supply chain and reputation.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d0",
+      "en": "'Dingási sent me to check on things up here, but it seems like you have already handled the situation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c3",
+      "en": "Pick up the accounts book",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595a5",
+      "en": "'We must find out who is behind this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c5",
+      "en": "Return to Merenir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b01",
+      "en": "Maengar has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595a6",
+      "en": "'Yes, I know of him. In fact, I wish his name had come to my attention less lately.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595a8",
+      "en": "'So, Maengar was behind the shoddy stone? That does not surprise me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c8",
+      "en": "Pursue Garaphir through Imloth Melui!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f7",
+      "en": "Talk to Garaphir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595a9",
+      "en": "'Okay, all right, I'll talk. Oof, my aching side!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f9",
+      "en": "Examine Maengar's warehouse for proof",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568934",
+      "en": "'So, Maengar was behind the shoddy stone? That does not surprise me, but I am saddened that someone would try to profit in a way that could cause harm to others. I am sorry that you had to deal with him, but glad that you did.\\n\\n'While you were busy with Maengar, a dwarf named Kholnedák came 'round looking for you. You will find her just over there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011895",
+      "en": "TBD - You managed to find THUG in the marketplace, but he fled when you drew near. \\n\\nYou should pursue THUG through Imloth Melui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b38",
+      "en": "Garaphir sees you and makes a run for it!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d3",
+      "en": "Examine Maengar's warehouse for evidence ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc3bd9b",
+      "en": "'Coming here will be your undoing!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e152",
+      "en": "Talk to Kholnedák",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b10",
+      "en": "Garaphir has collapsed, winded, on the stairs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b12",
+      "en": "You found a journal full of incriminating accounts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011842",
+      "en": "Realizing he was found out, Maengar attacked you to keep his secrets safe. He was no match for you, however, and has been defeated. You should collect his accounts book and bring it to Merenir.\\n\\nThe accounts book is in Maengar's warehouse.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 621046774,
+  "txt": [
+    {
+      "id": "0x9b56889",
+      "en": "There seem to be remnants of a lost expedition scattered throughout the snow-fields.\\n\\nYour mission is to investigate these areas and retrieve any lost equipment.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have been tasked with searching for signs of a dwarf-presence in the snow-fields.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "The mission is complete!\\n\\nSpeak to Ausma for your reward!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Mission: A Lost Expedition",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'Oh good, you’re here, [placeholder].\\n\\n'It's been brought to my attention recently that we weren't the first dwarves to explore the frozen expanses around here. Apparently there was a dwarf expedition into the snow-fields for an unknown purpose many years ago. The dwarves that went on the expedition never returned, so whatever information they may have gleaned has been lost to the drifts of snow.\\n\\n'I beseech you; could you follow in their footsteps and see if you can recover any of their belongings now frozen in ice? Any information may prove useful to our efforts. Just beware of the freezing cold out there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Complete Mission: A Lost Expedition",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8eaf14",
+      "en": "Persistent Cold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Your mission is to find evidence of the dwarf expedition in the snow-fields.\\n\\nSpeak to Ausma to travel to the snow-fields.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ef81a3",
+      "en": "Some monsters in this mission will apply a persistent cold debuff that can only be removed at bonfires found in the mission.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'Well done! This journal should provide insight as to what happened to the dwarves that were here before, and can help us prepare against the cold climate.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

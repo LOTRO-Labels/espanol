@@ -1,0 +1,107 @@
+{
+  "id": 621072887,
+  "txt": [
+    {
+      "id": "0xceb0114",
+      "en": "Lingemil is your trainer in the Ettenmoors. Speak with them and learn about skills in the Ettenmoors.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730885",
+      "en": "'You need to use the skill <rgb=#FFFF00>March!</rgb> before I can assist you further.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "You successfully enabled the skill <rgb=#FFFF00>March!</rgb>. Speak with Lingemil again to learn more.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Lingemil instructed you to speak with them again and learn the skill <rgb=#FFFF00>March!</rgb>. Then, you are to use the skill so that Lengemil can see that you understand how to use the new skill you earned.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "You have learned to strengthen yourself and to move swiftly. Lingemil directed you to a vendor near the gate. Curious. Seek out the vendor Nadar and speak with them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'There is hope for you, yet.'\\n\\nThe spider chitters.\\n\\n'While using <rgb=#FFFF00>March!</rgb>, you can speak with allies and interact with items in the world. However, you cannot use any of your other abilities to fight against the foe while you are marching, so best to be quick to stop marching when it comes time to fight!\\n\\n'Use the skill now, then visit the vendor Nadar near the front gate to learn more.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Speak with Lingemil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Speak with Nadar near the gate of Gramsfoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "Lingemil instructs you to visit the vendor Nadar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'A new recruit? Well then, let's get you outfitted and prepared for battle.'\\n\\nThe Orc seems all too pleased with his position.\\n\\n'Once you start fighting and earning your keep in the Ettenmoors, I'll take commendations in exchange for my goods. You earn commendations for doing the work that no one else wants to do and for slaughtering the Free Folk! Ha!'\\n\\n<rgb=#00FF00>In Monster Play, completing quests and defeating Free People players awards <rgb=#FFFF00>commendations</rgb> and gold. <rgb=#FFFF00>Commendations</rgb> allow the purchase of not only skills, but also potions, food, and other items that provide short-term enhancements or immediate effects for your character.</rgb>\\n\\n'Here, take this. Standard issue goods for all new recruits. Go on now. Open that up and see what I gives you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "The Corruptor wants to assist you in gaining strength so you can better survive, and then send you on to train a skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Purchase and use the skill <rgb=#FFFF00>March!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a6",
+      "en": "You used the skill March!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'To strengthen your resolve, body, and abilities, you must earn skills and corruptions. In order to unlock the power of the corruptions and skills, you must speak with corruptors who will help you to unlock the deeper potency. As you grow in strength, so too will your access to greater and more malevolent corruptions.\\n\\n'When you are prepared, speak with Lingemil. They will teach you more of your abilities, here in the Ettenmoors.'\\n\\n<rgb=#00FF00>Some NPCs in the game world have several available roles. They can bestow quests, open shops, give hints, train skills, and any number of other interactions. When you speak with an NPC that has these additional roles, you will need to select the role you want to use from the context menu that opens when you speak with the NPC.</rgb>\\n\\n<rgb=#00FF00>You have already been rewarded some traits that you can apply to your character. It is recommended that you speak with the corruptor and apply these corruptions to your character now.</rgb>\\n\\n<rgb=#FFFF00>Optional:</rgb><rgb=#00FF00>Speak with the trainer again if you wish to purchase additional skills and traits.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Speak with Lingemil and learn about training skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'All eight legs and yet still no sense. Some spider tells you to spin a web and you just start spinning, hmmm? Well pay attention, and you might just learn something.'\\n\\nThe spider chitters.\\n\\n'Good, speak with me again and purchase the skill <rgb=#FFFF00>March!</rgb>. Then, use the skill to prove that you have learned and know how to enable what you learn.'\\n\\n<rgb=#00FF00>Speak with the trainer again and select <rgb=#FFFF00>train skills</rgb> to purchase the skill <rgb=#FFFF00>March!.</rgb></rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Tutorial: Corruptions, Skills, and Vendors",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

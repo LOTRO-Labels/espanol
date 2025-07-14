@@ -1,0 +1,167 @@
+{
+  "id": 620998477,
+  "txt": [
+    {
+      "id": "0xa5029d9",
+      "en": "<RGB=#FF00FF>Look</rgb> for any sign of the Firehorns at the abyss of Mordath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011844",
+      "en": "The abyss of Mordath can be found to the south-east of the Oath-taker's Horn in Dor Amarth.\\n\\nSpakorth has asked you to patrol the mouth of the abyss amidst the ruins of Barad-dûr, and search for any sign of King Váskmun Greytooth and the Firehorns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e1e6",
+      "en": "Travel to the mouth of the abyss of Mordath in Dor Amarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011848",
+      "en": "Gimli is standing near the mouth of the abyss of Mordath.\\n\\nYou searched the mouth of the abyss, finding no sign of King Váskmun Greytooth or the Firehorns, but Gimli has now arrived at the Mordath. You should speak to him, and learn what he and Spakorth discovered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011853",
+      "en": "Spakorth can be found at the ruins of Díngarth in Dor Amarth.\\n\\nYou and Gimli have escaped the ruins of Barad-dûr after confronting a glamour, and have returned to the ruins of Díngarth to tell Spakorth of what you discovered. You should speak to Spakorth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568922",
+      "en": "'So Váskmun has led them into the Mordath... and into a trap laid by Sauron himself?\\n\\n'The Order of the Eye has sent many of its number into the Black Pits in search of the hidden vault, and now, Váskmun and the Firehorns have travelled there.\\n\\n'Is this the making of a new war for Mordor? Or had Sauron worked to ensure that he did not fall alone? Perhaps it is neither....\\n\\n'Whether it is this day or another, Váskmun and the Firehorns must be freed from their delusions! He leads them down a treacherous path, and I do not think whatever is in that vault shall set all to rights.\\n\\n'But in the meantime, my folk will keep a close watch on the abyss. When the time comes, we hope that you and Gimli will stand with us against whatever evils lurk in the Mordath!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ef9f22",
+      "en": "You have strayed too far from the abyss!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011854",
+      "en": "Gimli can be found at the ruins of Díngarth.\\n\\nYou have returned to the ruins of Díngarth from the dungeons of Barad-dûr after learning that King Váskmun Greytooth and the Firehorns have descended into the Mordath. Spakorth and his folk are free at long last, but the fate of Firehorns is still unwritten. You should speak to Gimli.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568925",
+      "en": "'We have done a good thing for these dwarves, [placeholder].\\n\\n'If they had rescued Váskmun themselves as Zôreth had hoped, I do not believe it would be any different. Perhaps worse, but certainly not better!\\n\\n'It is a sorry fate that Sauron devised for Váskmun, and I refuse to abandon hope that he still might be freed from the Ring's influence. If that day should come, we must honour the dwarves who fell in service of their King. We must honour those whose blood was spilled to ensure the freedom of the Dwarves of Mordor!\\n\\n'Spakorth and those who still call themselves Stout-axes have sworn oaths to keep watch on the lands of Dor Amarth while our friends and allies remain here, and once that is done, I shall escort them to Erebor myself!'\\n\\nGimli bows deeply before you.\\n\\n'You have done me and the Dwarves of Mordor a great honour!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568957",
+      "en": "'So Váskmun has led them into the Mordath... and into a trap laid by Sauron himself?\\n\\n'The Order of the Eye has sent many of its number into the Black Pits in search of the hidden vault, and now, Váskmun and the Firehorns have travelled there.\\n\\n'Is this the making of a new war for Mordor? Or had Sauron worked to ensure that he did not fall alone? Perhaps it is neither....\\n\\n'Whether it is this day or another, Váskmun and the Firehorns must be freed from their delusions. They are still our kin, after all! The King leads them down a treacherous path, and I do not think whatever is in that vault shall set all to rights. I only hope they learn that lesson before it is too late!\\n\\n'But in the meantime, I and the others will keep a close watch on the abyss. I know your adventures have taken you far from the lands of Mordor, [placeholder], but you are a Stout-axe through and through! You were brave beyond measure when you escaped Barad-dûr, and braver still to return to these lands. When the time comes, I hope that you and Gimli will stand with us against whatever evils lurk in the Mordath.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568958",
+      "en": "'I must believe that we have done a good thing, [placeholder].\\n\\n'If the others of your kin had rescued Váskmun themselves as Zôreth had hoped, I do not believe it would be any different. Perhaps worse, but certainly not better!\\n\\n'It is a sorry fate that Sauron devised for King Váskmun, but I refuse to abandon hope that he still might be freed from the Ring's influence. If that day should come, we must honour the dwarves who fell in service of their King and pray that unity may once again be found between the dwarves of Mordor—be they Stout-axe or Firehorn. Even if it does not, we must honour those whose blood was spilled to ensure the freedom of the Stout-axes!\\n\\n'Spakorth and the others of your people who still call themselves Stout-axes have sworn oaths to keep watch on the lands of Dor Amarth until the end of our campaign. Once that is done and Mordor is secured from the forces of the Enemy, I shall escort them to Erebor myself!'\\n\\nGimli bows deeply before you.\\n\\n'You are a testament to the will of your people, [placeholder]. It is an honour to be welcome among the Stout-axes, and it will be my great honour to lead them from these lands in search of a new home!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c2",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c3",
+      "en": "Talk to Gimli at the abyss of Mordath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c5",
+      "en": "Patrol the abyss of Mordath in Dor Amarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b60",
+      "en": "You have come to the abyss of Mordath...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d1791",
+      "en": "Deep in the depths of Barad-dûr, there lies a passage into the Mordath, the Black Pits of Mordor, through which Váskmun Greytooth intends to lead the Firehorns in his quest to reclaim the Dwarf-ring, Manthríf.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b06",
+      "en": "You find no evidence that the Firehorns travelled this way, but you suddenly hear a familiar voice nearby...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b65",
+      "en": "You find no evidence that the Firehorns travelled this way, but you suddenly hear a familiar voice nearby...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568937",
+      "en": "'I brought enough rope for the both of us, [placeholder]. Let's get down there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011868",
+      "en": "Gimli is standing near the mouth of the abyss of Mordath.\\n\\nYou have learned that King Greytooth and the Firehorns have descended into the Abyss of Mordath. You should speak to Gimli and pursue them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d0",
+      "en": "Talk to Gimli at the abyss of Mordath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f5",
+      "en": "'Have you read what I have, [placeholder]?!\\n\\n\\qDevoured\\q? What sort of creatures could have devoured four of the Dwarf-rings? Surely Sauron would have slain them at once for such an offence!'\\n\\nSpakorth reads over Zôreth's notes again.\\n\\n'Ah, yes, the key around the King's neck.... Sauron gave King Váskmun the key, and deceived him into believing that the mithril lockbox was all that stood between him and reclaiming Manthríf for his folk. It was likely never within... and who can say where it might be now?\\n\\n'As Zôreth has written, the Order of the Eye has learned much of the Mordath through their expeditions in the deep dungeons of Barad-dûr. I thought they toiled for the return of the Dark Lord, but this vault she has written of... this is what must have drawn them into Barad-dûr! None but the Gúrzyul—the Deathless—may have ever known of such a vault, and what would be kept guarded and hidden so far beneath the earth?\\n\\n'A great abyss has sunken into the Mordath to the north of Barad-dûr and the Order thinks it an omen that Sauron's secrets are to be laid bare for the most loyal of his servants. If there remains any chance of finding Manthríf, King Váskmun shall lead the Firehorns into the abyss of Mordath.\\n\\n'Patrol the mouth of the abyss and see if King Váskmun and the Firehorns have left any sign of their descent. For my part, I shall study more of Zôreth's research—with Gimli's protection, of course!\\n\\n'Once I have finished, I will send him to meet you at the abyss—and I shall travel far away from this place!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d1",
+      "en": "Talk to Spakorth at the ruins of Díngarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568939",
+      "en": "'This is a mighty big chasm, [placeholder]! Sauron's sorcery must have been holding more than his tower together!\\n\\n'So they have not come this way then? Good! After studying more of Zôreth's notes, Spakorth has learned of a new passage into the dungeons of Barad-dûr. And even better, it is not one of much use to those cultists in the tower!'\\n\\nGimli draws a coil of rope from his belt.\\n\\n'Aye, that's right. We're going down right here!\\n\\n'If Zôreth's notes were correct, there should be a rocky landing about twenty yards down. If they weren't, well... at least we'll find out just how deep this abyss is!'\\n\\nGimli ties the rope around a nearby boulder and tests its strength.\\n\\n'Well, are you coming, [placeholder]? I would hate to go on such an adventure by myself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029a4",
+      "en": "Travel to the mouth of the abyss of Mordath in Dor Amarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d6",
+      "en": "Talk to Gimli at the ruins of Díngarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa1",
+      "en": "Into the Abyss",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

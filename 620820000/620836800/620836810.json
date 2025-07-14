@@ -1,0 +1,65 @@
+{
+  "id": 620836810,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "'Ah, I am glad to see you, friend! I chose the path of the Warden long ago, and perhaps -- if you are willing to listen -- I can help a young one like yourself.\\n\\n'A Warden is a master of sword, spear, shield, and javelin. He is also an excellent study of his enemies and will learn how an enemy can be toppled with the right combination of blows or how to strengthen his own heart for the battles to come. And battles will be plentiful, for a Warden seeks to defend those who cannot defend themselves by drawing the enemy's eye.\\n\\n'Use the skill <rgb=#00ff00>Defensive Strike</rgb> on the training-dummy nearby.'\\n\\nHINT:\\n\\nWardens use combinations of their basic skills such as <rgb=#00ff00>Quick Thrust</rgb> and <rgb=#00ff00>Shield-bash</rgb> to build more powerful <rgb=#ffff00>Gambit</rgb> attacks.  To use your <rgb=#00ff00>Defensive Strike</rgb> skill, attack a <rgb=#ff0000>Training-Dummy</rgb> with your <rgb=#00ff00>Shield-bash</rgb> ability twice.  This should cause your <rgb=#00ff00>Gambit Default</rgb> skill to change into your <rgb=#00ff00>Defensive Strike</rgb> skill.  Use your <rgb=#00ff00>Defensive Strike</rgb> ability to strike a <rgb=#ff0000>Training-Dummy</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Well done, [placeholder]! Make sure you visit a trainer as you advance in your role as a [placeholder]. As you grow, you will find that trainers such as myself have tasks for you, as well as the occasional bit of wisdom. Good luck!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Strike the training-dummy with Defensive Strike and return to me. We must make certain that you are prepared to stand against the dangers of Middle-earth.'\\n\\nHINT:\\n\\nWardens use combinations of their basic skills such as <rgb=#00ff00>Quick Thrust</rgb> and <rgb=#00ff00>Shield-bash</rgb> to build more powerful <rgb=#ffff00>Gambit</rgb> attacks. To use your <rgb=#00ff00>Defensive Strike</rgb> skill, attack a <rgb=#ff0000>Training-Dummy</rgb> with your <rgb=#00ff00>Shield-bash</rgb> ability twice. This should cause your <rgb=#00ff00>Gambit Default</rgb> skill to change into your <rgb=#00ff00>Defensive Strike</rgb> skill. Use your <rgb=#00ff00>Defensive Strike</rgb> ability to strike a <rgb=#ff0000>Training-Dummy</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Intro: Thigh to Neck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Your trainer wants you to use your skills to prove that you are ready to face the many dangers that exist in the world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have struck the training-dummy with Defensive Strike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Strike the training-dummy with Defensive Strike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Use <rgb=#00ff00>Defensive Strike</rgb> on the training-dummy nearby. \\n\\n\\nHINT:\\n\\nWardens use combinations of their basic skills such as <rgb=#00ff00>Quick Thrust</rgb> and <rgb=#00ff00>Shield-bash</rgb> to build more powerful <rgb=#ffff00>Gambit</rgb> attacks. To use your <rgb=#00ff00>Defensive Strike</rgb> skill, attack a <rgb=#ff0000>Training-Dummy</rgb> with your <rgb=#00ff00>Shield-bash</rgb> ability twice. This should cause your <rgb=#00ff00>Gambit Default</rgb> skill to change into your <rgb=#00ff00>Defensive Strike</rgb> skill. Use your <rgb=#00ff00>Defensive Strike</rgb> ability to strike a <rgb=#ff0000>Training-Dummy</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to the Warden Trainer in Archet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Warden Trainer is in Archet, in the training grounds.\\n\\nNow that you have successfully used Defensive Strike, you should return to your trainer and tell him of your success.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

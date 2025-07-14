@@ -1,0 +1,371 @@
+{
+  "id": 621035674,
+  "txt": [
+    {
+      "id": "0xa8e1191",
+      "en": "'I cannot hear you,' Bróin complains, arching an eyebrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "Some familiar dwarves have arrived at Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'Bróin did not follow us upstairs? Where did he go?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'Where is Bróin? Did he go back outside?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Durin has asked you to greet the arriving dwarves on the lower level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'I do not know what to do, my friend. I am consumed by a great sense of... I do not know how best to describe it.'\\n\\n<u>Bróin, Mazog's Executioner</u>\\n<rgb=#FFFF00>Axe-wielding:</rgb> 95\\n<rgb=#FFFF00>Survival:</rgb> 85\\n<rgb=#FFFF00>Hardiness:</rgb> 65\\n<rgb=#FFFF00>Resolve:</rgb> 15\\n\\n'I do not think I am ready for another war, [placeholder]. Yes: I say \\qanother.\\q Make no mistake: the Iron Garrison was at war in the depths of Moria, and it was a war we lost. Not only is that foothold gone, but so too are many of the brave warriors with which it was claimed in the first place. I mourn my father most of all, but Brogur was not the first good dwarf to perish within Moria, nor the last, though he may have been the bravest. He was bolder by far than his son, that much is certain!\\n\\n'Will I regain my courage before we pass through the gates of Gundabad? I survived my encounter with the Watcher in the Water within the Drowned Treasury, after all, and then I was alone, with only the dead for company. No, I was not entirely alone, for it was there I found Zigilburk, with which I kept the beast at bay. But the mithril axe is sealed away, never again to be wielded by anyone. It seemed the right choice then... but what if my courage was sealed away in the darkness with Zigilburk? Will I never find it again?\\n\\n'Please, my friend, I beg you will tell no one of these worries. I bind you to secrecy on this matter. Will you do this? Will you <rgb=#00FF00>agree</rgb> not to tell Prince Durin of my mood or my fears? Please, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'I have just received word that more dwarves have arrived to swell my army's ranks! Go downstairs to greet them, [placeholder]. All are welcome if it is in their hearts to hate Orcs, and I understand that these dwarves hate Orcs more than most!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Dwarves of the Iron Garrison have come to Elderslade to join the great force preparing for the assault on Gundabad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Durin on the upper level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "<rgb=#00FF00>Appraise</rgb> Bósi on the upper level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "More dwarves have come to Elderslade for the assault on Gundabad, and Durin is eager to welcome the new arrivals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Dwarves of the Iron Garrison have come to Elderslade to join the great force preparing for the assault on Gundabad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "<rgb=#00FF00>Appraise</rgb> Bori on the upper level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'I am not surprised to see you here, [placeholder], but it warms my heart all the same. I was at the Lonely Mountain when Durin sent word to his father that he intended to reclaim Gundabad from the Orcs, but I wanted no part of it. I feared to join him. No, not out of cowardice!'\\n\\nBósi frowns unhappily.\\n\\n'I was tasked to secure Khazad-dûm, [placeholder], but the Iron Garrison failed and my cousin Brogur was slain, along with many other good dwarves. How could I hold my head high after that? I feared my presence at Gundabad would bring nothing but ill fortune.\\n\\n'And yet... King Thorin deemed otherwise, and commanded me to join his son. So I am here. May things go otherwise in Gundabad than they did in Moria.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Dwarves of the Iron Garrison have come to Elderslade to join the great force preparing for the assault on Gundabad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Bósi on the upper level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Bori on the upper level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'My father has had a difficult time since the Iron Garrison was defeated in Moria, [placeholder]. I have told him repeatedly not to despair, but he pays me little heed. Did I despair at my imprisonment in Mirkwood, when the sorcerer Gorothúl held me captive within the dungeons of Dol Guldur?'\\n\\nBori gives you a wry smile.\\n\\n'You are right: I did! But it turned out all right in the end, did it not? You saved my skin, and now both Gorothúl and his ally Mazog are slain. My point is this: do not close the book when things seem most drear, for it may be you are not at the end at all, but only the middle! The failure of the Iron Garrison is a tough defeat, but it may be the reclamation of Moria still lies ahead of us, and perhaps Gundabad will be the first step on that road.\\n\\n'It is good to see you again, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Find Bróin somewhere outside, just north of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Bróin just north of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'Hello, [placeholder]. I am here.\\n\\n'My father Brogur would have come to fight alongside Prince Durin, if he could. I am here in his stead, for he will never again leave Khazad-dûm.\\n\\n'I wish things were different.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "<rgb=#00FF00>Appraise</rgb> Bróin outside Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Durin is on the upper level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "<rgb=#00FF00>Agree</rgb> not to tell anyone of Bróin's worries",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'The leaders of the Iron Garrison will be a strong addition to the Gabil'akkâ as we begin our assault on Gundabad, but...\\n\\n'Can I ask you a question, [placeholder]? Do they seem in good spirits, despite the failure of the Iron Garrison to hold Moria? Do they still possess the courage I saw on their faces when they departed the Iron Hills on their expedition? Perhaps you can <rgb=#00FF00>appraise</rgb> them and learn if they possess the stomach for this endeavour.\\n\\n'I will await the results of your observation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'I do not want to disappoint King Thorin or his son. I hope I will not.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Concerned about the dwarves of the Iron Garrison, Durin wants you to <rgb=#00FF00>appraise</rgb> Bósi's mood and skills.\\n\\nBósi has followed you to the upper level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a9",
+      "en": "'That is not good enough. I can wait,' Bróin insists",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Durin on the upper level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'Durin has gathered a mighty force with which to reclaim Gundabad. Will it be enough?'\\n\\n<u>Bósi, Leader of the Iron Garrison</u>\\n<rgb=#FFFF00>Diplomacy:</rgb> 75\\n<rgb=#FFFF00>Sagecraft:</rgb> 85\\n<rgb=#FFFF00>Hardiness:</rgb> 60\\n<rgb=#FFFF00>Resolve:</rgb> 20\\n\\n'It will have to be enough, [placeholder]. It simply must.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Concerned about the dwarves of the Iron Garrison, Durin wants you to <rgb=#00FF00>appraise</rgb> Bori's mood and skills.\\n\\nBori has followed you to the upper level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'What thinks my son of this army Prince Durin has assembled?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "'Please, my friend, I beg you will tell no one of these worries. I bind you to secrecy on this matter. Will you do this? Will you <rgb=#00FF00>agree</rgb> not to tell Prince Durin of my mood or my fears? Please, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "'Yes?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Greet more arriving dwarves on the lower level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Bósi on the lower level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Bori on the lower level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Bróin on the lower level of Annâk-khurfu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Bori is on the upper level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Bróin did not follow his cousin upstairs. Where did he go?\\n\\nBori believes Bróin might be outside, just north of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Bróin is just north of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01141",
+      "en": "Bróin is just north of Annâk-khurfu.\\n\\nBróin has asked that you <rgb=#00FF00>agree</rgb> not to tell Durin about his worries.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'Go downstairs to greet our new arrivals, [placeholder]. All are welcome if it is in their hearts to hate Orcs, and I understand that these dwarves hate Orcs more than most!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'Would you be willing to <rgb=#00FF00>appraise</rgb> the leaders of the Iron Garrison and learn if they possess the stomach for this endeavour?\\n\\n'I will await the results of your observation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56858",
+      "en": "'The Orcs of Gundabad will surely quake before this great army of dwarves!'\\n\\n<u>Bori, Survivor of Dol Guldur</u>\\n<rgb=#FFFF00>Axe-wielding:</rgb> 75\\n<rgb=#FFFF00>Memory:</rgb> 90\\n<rgb=#FFFF00>Hardiness:</rgb> 75\\n<rgb=#FFFF00>Resolve:</rgb> 90\\n\\n'Have you seen my cousin Bróin? I do not think he followed us upstairs.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Durin is on the upper level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'So the leaders of the Iron Garrison are prepared to fight again?'\\n\\nYou tell Durin that Bósi's son Bori is particularly eager to see victory in Gundabad.\\n\\n'I am pleased to hear it, for I too am ready to reclaim the Mountain-home! Indeed, all Longbeards will rejoice to see it done! These new arrivals know a thing or two about war, and this is what I know: it will spell trouble for the Orcs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'Thank you, [placeholder]. You are a good friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "Bróin smiles nervously, and raises his axe in a pleased salute",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "Bróin smiles nervously, and raises his axe in a pleased salute",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1179",
+      "en": "Bróin stands alone, gazing into the distance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "Bósi is on the upper level of Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Concerned about the dwarves of the Iron Garrison, Durin wants you to <rgb=#00FF00>appraise</rgb> Bróin's mood and skills.\\n\\nBróin did not follow his cousin upstairs, and now he stands by himself outside Annâk-khurfu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 3.6: Survivors",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

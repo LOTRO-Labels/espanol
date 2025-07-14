@@ -1,0 +1,773 @@
+{
+  "id": 620756996,
+  "txt": [
+    {
+      "id": "0xa436833",
+      "en": "Watching-stones",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6917417",
+      "en": "Earth-kin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x365c602",
+      "en": "Badger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x744da5",
+      "en": "Woman[U]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3bd2e4",
+      "en": "Giant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x743404c",
+      "en": "Wood Troll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce5eb6e",
+      "en": "Hill-man",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b25ee2",
+      "en": "Salamander",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4978dc",
+      "en": "Troll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a1d055",
+      "en": "Man[U]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3da0be",
+      "en": "Huorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21c93c2",
+      "en": "Warg-rider",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33adec9",
+      "en": "Sickle-fly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda38612",
+      "en": "Crustaceans",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x474def5",
+      "en": "Beorning[B]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda43c25",
+      "en": "Ogre",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3861bfe",
+      "en": "Craban",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7d5334",
+      "en": "River-maid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5069ce7",
+      "en": "Easterling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43cee7c",
+      "en": "Morroval",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x396179e",
+      "en": "Dragon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f4bf82",
+      "en": "Neekerbreeker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd411857",
+      "en": "Dunlending",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee41a3e",
+      "en": "Gaunt Man",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40eabc4",
+      "en": "Lizard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4bdf04",
+      "en": "Wight",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da4463",
+      "en": "Orc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f69f24",
+      "en": "Dwarf Brigand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc058e2",
+      "en": "Bog-lurker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x655aea3",
+      "en": "Nameless",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e70655",
+      "en": "Elemental Force",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a2ab35",
+      "en": "Unique",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a31685",
+      "en": "Dread Turtle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda36922",
+      "en": "Bear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4666602",
+      "en": "Ranger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf211d5",
+      "en": "Corpse-candle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba47db3",
+      "en": "Insect Clouds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da3a06",
+      "en": "Elf[L]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda41e78",
+      "en": "Lynx",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa36e6f7",
+      "en": "Gurtorog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda466d7",
+      "en": "Raug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa396125",
+      "en": "Drake",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0e1375",
+      "en": "Spirit of Nature",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dcac24",
+      "en": "Fell Beast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x157dfde",
+      "en": "Illusion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da3a0b",
+      "en": "Elk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa482125",
+      "en": "Snake",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf29d65",
+      "en": "River Hobbit[O]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cbe483",
+      "en": "Were-creatures",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c33d7e",
+      "en": "Goblin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4beabc4",
+      "en": "Wizard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bc153e",
+      "en": "Spider-demon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a3ede3",
+      "en": "Aurochs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3577b77",
+      "en": "Gorthorog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4c42d",
+      "en": "Worm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9ca2b5",
+      "en": "Hobbit[O]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x893b7a4",
+      "en": "Decayed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da3664",
+      "en": "Bat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62669e4",
+      "en": "Barghest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6162fa7",
+      "en": "Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4a7db",
+      "en": "Uruk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cdeb4",
+      "en": "Snowbeast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86ea024",
+      "en": "Siegecraft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6356c4e",
+      "en": "Earth-kin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa434584",
+      "en": "Hill-man",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3da58e",
+      "en": "Man[U]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda481d7",
+      "en": "Slug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0bb505",
+      "en": "Elf[L]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25d8253",
+      "en": "Snatchers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa466e4e",
+      "en": "Raven",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4c446",
+      "en": "Wolf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96b4e85",
+      "en": "River Hobbit[O]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da3a34",
+      "en": "Ent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2b6395",
+      "en": "Stout-axe[D]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3c69d",
+      "en": "Grim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe595785",
+      "en": "High Elf[L]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3bd054",
+      "en": "Ghost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86a4292",
+      "en": "Critter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda49314",
+      "en": "Toad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b627",
+      "en": "Warg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7697014",
+      "en": "Brigand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa39b2b6",
+      "en": "Dwarf[D]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa21ced",
+      "en": "Kergrim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da44bc",
+      "en": "Owl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda37322",
+      "en": "Boar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79d9775",
+      "en": "Stout-axe[D]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4740f3c",
+      "en": "Rogmul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8627a92",
+      "en": "Crawler",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x166dec8",
+      "en": "Mammoth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64d76fc",
+      "en": "Hendroval",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644184b",
+      "en": "PaleFolk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36dfac4",
+      "en": "Cat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5702265",
+      "en": "Wolverine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc648e53",
+      "en": "Half-orc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3970902",
+      "en": "PLACEHOLDER",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0c8f47",
+      "en": "Beorning[B]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3a9c4e",
+      "en": "Etten",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10fb7a5",
+      "en": "Elf[L]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x333f25",
+      "en": "Dwarf[D]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e4e317",
+      "en": "Cave-claw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x362e275",
+      "en": "Beorning[B]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c61328",
+      "en": "Wraith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7dd51a8",
+      "en": "Sabertooth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f83775",
+      "en": "Stout-axe[D]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63d27f5",
+      "en": "Dark Wose",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcdf1436",
+      "en": "High Elf[L]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bf28b5",
+      "en": "Hobbit[O]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63c1864",
+      "en": "Siegecraft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d32b44",
+      "en": "Hobbit[O]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d150c2",
+      "en": "Darkwater",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da4664",
+      "en": "Rat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x463706c",
+      "en": "Half-troll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa47d277",
+      "en": "Shrew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4849502",
+      "en": "Spider",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3960d5",
+      "en": "Eagle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ebfbee",
+      "en": "Gauradan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc958894",
+      "en": "River Hobbit[O]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb218f25",
+      "en": "Dwarf[D]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3c324",
+      "en": "Goat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc775d07",
+      "en": "Grodbog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa47c155",
+      "en": "Shade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa474043",
+      "en": "Roots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30cc5bd",
+      "en": "Angmarim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x628351d",
+      "en": "Haradrim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86e96cc",
+      "en": "Siegecraft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da4733",
+      "en": "Roc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x426a13c",
+      "en": "Nazgul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38fe545",
+      "en": "High Elf[L]",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

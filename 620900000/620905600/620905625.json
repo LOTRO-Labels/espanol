@@ -1,0 +1,215 @@
+{
+  "id": 620905625,
+  "txt": [
+    {
+      "id": "0x740ef71",
+      "en": "'I am ready for you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Fastred is a fool. [placeholder], I had planned to return to Edoras after this visit to Snowbourn, but now the need to do so is even more urgent.\\n\\n'We have to leave now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x740ef72",
+      "en": "'I yield!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'I saw Éomer emerging from his talk with Reeve Fastred. He did not look happy.\\n\\n'I trained with some of the people of Snowbourn as well. I hope for their sake that Fastred listens to reason and moves them across the Entwash. Their skill with weaponry takes little time to discern and less time to overcome.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 9, Chapter 7: The Coming Tide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Few of the villagers would speak to me, and none wished to spar with me. I consider myself a hopeful Elf, but...'\\n\\nCorudan's raised eyebrow speaks volumes, but he finishes the thought anyway.\\n\\n'Right now this hopeful Elf is hoping they flee before the Orcs arrive. Either way, Snowbourn will be empty. Better to be burned empty than filled with the bodies of the unfortunate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I have never so much as held a blade before. But I will do my best!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have achieved victory, and the villager has improved a great deal!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6ecbe1",
+      "en": "'I will show you how to fight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Train with the people of Snowbourn. I want them to have some basic fighting skills, if Fastred refuses to listen to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'I have received some training in the martial arts, but I have not seen real battle. Perhaps I will surprise you with my natural ability?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have achieved victory, and the member of the militia has improved somewhat!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6ecbe2",
+      "en": "'I yield, I yield! Where did you learn to fight like this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'I saw Éomer emerge from his meeting with Fastred. He did not look happy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'Unlike my neighbours, I have seen battle on the fields of Rohan. I am ready to fight to defend my home. Let us see what you can do, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "You have achieved victory, and the veteran has improved slightly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Villagers, militia, and veterans can be found throughout Snowbourn.\\n\\nÉomer has asked you to train with villagers, militia, and veterans of Snowbourn, in order to prepare them in the event he cannot convince Fastred to move them across the Entwash.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'We have done what we could, [placeholder]. Even sparring with Horn and yourself may not be enough to save these people. None of them desired to train with me at all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Horn and Corudan are in Snowbourn, by the fountain in the centre of town.\\n\\nYou have trained with some of the people of Snowbourn, as have Horn and Corudan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Éomer is in Snowbourn, outside the Mead Hall.\\n\\nThe Third Marshal of the Riddermark has returned from meeting with Reeve Fastred... and he does not look happy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to and train with a Snowbourn villager",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Fight the Snowbourn villager until he desists",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to and train with a member of the Snowbourn militia",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Fight the member of the Snowbourn militia until he desists",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Talk to and train with a Snowbourn veteran",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Fight the Snowbourn veteran until he desists",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Horn in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Talk to Corudan in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Talk to Éomer in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Éomer will speak with Reeve Fastred about moving the people of Snowbourn across the Entwash, but he wants you to help train the people in the event Fastred still refuses.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7da60f1",
+      "en": "'Am I doing this right?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7da60f2",
+      "en": "'I give up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Fastred is young and hot-headed, and thinks death in battle is the most noble of ends. Certainly I cannot gainsay the value of death and glory, but not for his people. Most of the people who live in Snowbourn are not warriors.\\n\\n'While I speak with the Reeve, I would have you spar with some of the people here: villagers, militia, and veterans alike. Horn told me you helped train Elfmar's men, and if Fastred is truly willing to endanger the lives of his people in this way, I want them to have some basic training in battle.\\n\\n'I hope none of them have need of it. But if they do, we will rest easy knowing that we did all that we could for them.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "id": 620804698,
+  "txt": [
+    {
+      "id": "0xd5ac55e",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacd9854",
+      "en": "Turn this on to prevent player retreat during an instance boss fight",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc65e752",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6d1692",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x764459e",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6aee8f4",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffd1a52",
+      "en": "This is a test integer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93a77ee",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4f71",
+      "en": "#-1:[placeholder] The South Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4f72",
+      "en": "#-1:[placeholder] Faelbenn's Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4f73",
+      "en": "#-1:[placeholder] The North Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4f74",
+      "en": "#-1:[placeholder] The Northernmost Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4f75",
+      "en": "#-1:[placeholder] The Stone of Terror is #-1:{vulnerable![1]|secure.}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4f76",
+      "en": "#-1:[placeholder] The Stone of Pain is #-1:{vulnerable![1]|secure.}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd149cc0",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7f1692",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75152a2",
+      "en": "Player [placeholder], of class [placeholder] and race [placeholder], has triggered the event. The player is at level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21951",
+      "en": "Building Selection = Bank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21952",
+      "en": "Building Selection = Docks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f9cfc1",
+      "en": "South Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21953",
+      "en": "Building Selection = Armoury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f9cfc2",
+      "en": "Faelbenn's Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21954",
+      "en": "Building Selection = Main Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f9cfc3",
+      "en": "North Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21955",
+      "en": "Building Selection = Library",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f9cfc4",
+      "en": "Northernmost Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21956",
+      "en": "Building Selection = Mason",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f9cfc5",
+      "en": "Stone of Terror\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21957",
+      "en": "Building Selection = Warehouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f9cfc6",
+      "en": "Stone of Pain\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc21958",
+      "en": "Building Selection = Swan-knight",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccfb2c0",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b4081",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b4082",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b4083",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b4084",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b4085",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57dd062",
+      "en": "Progress [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd701692",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2641e72",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3c7e81",
+      "en": "#-1:[placeholder] The Northern Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3c7e82",
+      "en": "#-1:[placeholder] The Southern Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x530dd61",
+      "en": "Northern Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c1",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x530dd62",
+      "en": "Southern Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c2",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c3",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c4",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c5",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c6",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c7",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c8",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d149c9",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x599dfee",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x898b6a4",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb21",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb22",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb23",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb24",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb25",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb26",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb27",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb28",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccfb29",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6187c94",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbf681",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbf682",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbf683",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbf684",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbf685",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b1",
+      "en": "#-1:[placeholder] The Northern Aughaire Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b2",
+      "en": "#-1:[placeholder] The Centre Aughaire Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b3",
+      "en": "#-1:[placeholder] The Southern Aughaire Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b4",
+      "en": "#-1:[placeholder] The 4th Aughaire Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b5",
+      "en": "#-1:[placeholder] The 5th Aughaire Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dc2bb1",
+      "en": "Equipment Selection = Lockpick",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b6",
+      "en": "#-1:[placeholder] The 6th Aughaire Bulwark is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dc2bb2",
+      "en": "Equipment Selection = Grappling Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd5f2b7",
+      "en": "#-1:[placeholder] The Gate of Aughaire is #-1:{under attack![1]|secure.}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x506e454",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dc2bb3",
+      "en": "Equipment Selection = ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dc2bb4",
+      "en": "Equipment Selection = ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dc2bb5",
+      "en": "Equipment Selection = ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dc2bb6",
+      "en": "Equipment Selection = ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553881",
+      "en": "Northern Aughaire Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553882",
+      "en": "Centre Aughaire Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553883",
+      "en": "Southern Aughaire Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553884",
+      "en": "4th Aughaire Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553885",
+      "en": "5th Aughaire Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553886",
+      "en": "6th Aughaire Bulwark\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6553887",
+      "en": "Gate of Aughaire\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

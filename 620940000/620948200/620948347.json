@@ -1,0 +1,353 @@
+{
+  "id": 620948347,
+  "txt": [
+    {
+      "id": "0xfd8d984",
+      "en": "Primary Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e1f143",
+      "en": "Apply [placeholder]? <rgb=#FF0000>Unbound equipment will permanently bind to account!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc671612",
+      "en": "Word of Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26d6d70",
+      "en": "Drag and drop socketed equipment here to slot, unslot, or replace existing essences.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35c3f95",
+      "en": "Triangle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf28c7ec",
+      "en": "L-[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9d5692",
+      "en": "<rgb=#FF0000>The equipment will permanently bind to character!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3bea79",
+      "en": "Heraldic Tracery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78b470",
+      "en": "Unslot this tracery for Mithril.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99713a4",
+      "en": "Detected multiple instances of a \\qUnique Use\\q essence socketed in equipped items. Those items are being unequipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9eb465",
+      "en": "Essence of War",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x790dc74",
+      "en": "Are you sure you want to replace [placeholder] with [placeholder] on [placeholder]? <rgb=#FF0000>The existing essence will be destroyed and the equipment will permanently bind to account!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3e98c0",
+      "en": "** Translate Me **",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8537f4",
+      "en": "Are you sure you want to replace [placeholder] with [placeholder] on [placeholder]? <rgb=#FF0000>The existing tracery will be destroyed and the equipment will permanently bind to account!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b921d3",
+      "en": "Reclaim traceries from which item?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fb7fe5",
+      "en": "Necklace Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3e98c4",
+      "en": "** Translate Me **",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2e548e",
+      "en": "Are you sure you want to replace [placeholder] with [placeholder] on [placeholder]? <rgb=#FF0000>The existing essence will be destroyed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c7e1e3",
+      "en": "Reclaim essences from which item?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa926eb3",
+      "en": "Basic Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x939a979",
+      "en": "Drag and drop traceries to a slot to socket or replace existing traceries.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d80fe",
+      "en": "Are you sure you want to unlock a socket on #1:{the[!n]} #1:[placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5da0e32",
+      "en": "Are you sure you want to replace [placeholder] with [placeholder] on [placeholder]? <rgb=#FF0000>The existing tracery will be destroyed and the equipment will permanently bind to character!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cebb7c",
+      "en": "[placeholder] ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf25b91e",
+      "en": "Are you sure you want to replace [placeholder] with [placeholder] on [placeholder]? <rgb=#FF0000>The existing tracery will be destroyed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd022862",
+      "en": "<rgb=#FF0000>The equipment will permanently bind to character!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5968f4",
+      "en": "[placeholder] had multiple \\qUnique Use\\q essences socketed. They have been removed and placed in your inventory.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdeb9283",
+      "en": "Apply [placeholder]? <rgb=#FF0000>Unbound equipment will permanently bind to character!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c35493",
+      "en": "Drag and drop essences to a slot to socket or replace existing essences.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa66e060",
+      "en": "Unslot all essences for Mithril.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe77f3be",
+      "en": "Apply",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10b2af5",
+      "en": "Unslot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78ffe6e",
+      "en": "Are you sure you want to add [placeholder] to [placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22b7100",
+      "en": "Runic Enhancement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3502040",
+      "en": "Unslot all traceries for Mithril.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2300e3",
+      "en": "Unslot All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c68ce5",
+      "en": "Socket unlocked on #1:{the[!n]} #1:[placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e9f83",
+      "en": "Apply [placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1928e",
+      "en": "Are you sure you want to remove all essences from [placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4c9f80",
+      "en": "Level up this slot for Mithril.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6068ce5",
+      "en": "Cloak Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaca22a5",
+      "en": "Legendary Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22f72a4",
+      "en": "<rgb=#FF0000>The equipment will permanently bind to account!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccd2e",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc468b15",
+      "en": "Socket Control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe378332",
+      "en": "Are you sure you want to replace [placeholder] with [placeholder] on [placeholder]? <rgb=#FF0000>The existing essence will be destroyed and the equipment will permanently bind to character!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1afc04",
+      "en": "Word of Craft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9733535",
+      "en": "Essences",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76089ac",
+      "en": "Vital Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39a3cf5",
+      "en": "Select Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8933995",
+      "en": "Legendary Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcddefd4",
+      "en": "<rgb=#FF0000>The equipment will permanently bind to account!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x211aaee",
+      "en": "Are you sure you want to remove all traceries from [placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1a5373",
+      "en": "Word of Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1ce6a4",
+      "en": "Choose how many enhancement runes to use.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d4300",
+      "en": "Use [placeholder] to level up [placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x290c740",
+      "en": "Unslot this essence for Mithril.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb24c6b4",
+      "en": "How many levels?\\n [placeholder] Mithril gets you #1:[placeholder] #1:{levels | level[1]}",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

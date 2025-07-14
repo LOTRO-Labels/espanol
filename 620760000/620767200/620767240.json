@@ -1,0 +1,131 @@
+{
+  "id": 620767240,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "You have warned Atli about the spider-queen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Cal Sprigley's farm has been overrun by spiders for no apparent reason, leaving Cal and Holly homeless in Archet.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Them spiders have et my workhands and driven me and Holly out of our home. There's got to be some way to get 'em off our land!\\n\\n'I would think that Atli Spider-bane might know more about spiders than I do. Perhaps you should go speak with him again.\\n\\n'We can't return home until those awful things are gone!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Atli Spider-bane can be found just north of Cal Sprigley.\\n\\nCal Sprigley suggested that you speak with Atli Spider-bane about the spiders at his farm and how to be rid of them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "You search Bali's corpse and find a journal with several pages missing. The journal text reads:\\n\\n'I would not believe it, but the spiders have pushed the cave mouth clear! I have entered the cave, and the spiders reacted to me instantly, as if drawn to me. I am unsure why. I spent my day carefully searching near the entrance only and found several corpses bound into cocoons. These spiders seem to wrap everything up into their cocoons! I will write more tomorrow when I go further into the cave.'\\n\\nPerhaps it would be best to enter the cave to see if you can find the rest of the journal pages before returning to Atli.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The entrance to the cave the hunters blocked off lies in the ruins due east of Archet.\\n\\nAtli told you that he sent his cousin Bali to check the caves, but he has not yet returned. If you find him, he may have the answer to what has disturbed the spiders.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "The missing pages of Bali's journal must be somewhere within the caves. The spiders may have taken the missing pages and webbed them into their cocoons.\\n\\nYou have found Bali's corpse and his journal, but the journal is missing several pages. You need to find the pages before returning to Atli.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Go find Bali quickly before something terrible happens! I sent him to the caves in the ruins due east of here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Good, you have returned! It seems there is much more going on here than I first thought. While you were away, my cousin Bali arrived, and I sent him to search some caves in the ruins outside the east wall of Archet. A few of the hunters had dropped a huge stone in front of the cave, and I wanted him to ensure the stone remained. He has not yet returned, and I am worried.\\n\\n'Now, from what you told me of Sprigley's troubles, the spiders came up through the cellar in his shed. Perhaps seeing the cave blocked off, they tunnelled up through there.\\n\\n'We won't know for certain, though, until you find Bali. Hopefully he'll have some answers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Atli Spider-bane can be found at the north end of Archet.\\n\\nAtli Spider-bane will want to know what you discovered among the pages of Bali's journal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Bali... dead? This is... impossible! And the spiders have pushed the cave open? You must enter the cave and search for the rest of his journal.\\n\\n'We must avenge Bali, and that journal may hold the knowledge that will help us do that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'I cannot believe it. Bali... gone. He must be avenged! And this journal tells me what is behind this: a spider-queen from the Blue Mountains. She and her brood must have followed me from Thorin's Halls.\\n\\n'Know this! Even if I am slain, she will never leave this place... she has found easy prey here. We must destroy her, or Archet shall become a new abode for the queen and her spawn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Them spiders came up through my shed on the far end of the farm, but you should speak with Atli before going there again. He'll know more about what to do, I'm sure.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Have you found the missing pages of Bali's journal?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Atli Spider-bane in Archet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'I don't think I can help you. Atli's cousin must be around that cave somewhere.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Search for Bali",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Find missing journal pages ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Found missing journal pages ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Finding Reason",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Bring the journal and journal pages to Atli Spider-bane",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

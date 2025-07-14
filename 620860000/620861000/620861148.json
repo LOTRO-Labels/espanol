@@ -1,0 +1,83 @@
+{
+  "id": 620861148,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "You have collected fake Forsaken Ale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "The time has run out!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have been tasked with delivering unpleasant things to Inn League Members in need of assistance, something only a terrible [placeholder] would do.\\n\\n<rgb=#FF0000>NOTE: This quest will be removed from your quest log when the current festival ends.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'I've received a different sort of orders from Jónar, the head of this here society. He hates the Inn League so much that he has assigned me a rather different task than my Inn League neighbour there. Shh, he mustn't hear us!\\n\\n'One of our own dwarves, Alrek, is a traitor, and he loves the Inn League more than his own kind! The shameless fellow is at Thrasi's Lodge, waiting for a delivery of Forsaken Ale, with which he'll be completing the Inn League Challenge.\\n\\n'I know what will throw him through a loop. He should be drinking only the best when expecting the worst, and that is Barliman's Best, of course. You should go to The Prancing Pony at once to collect Alrek's desired drink.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Barliman Butterbur can be found at The Prancing Pony in Bree-town.\\n\\nYou should speak with Barliman Butterbur, for he sells Barliman's Best, which shall be brought to Alrek cleverly disguised as Forsaken Ale.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'You're here for the best of the best, are you? This is named after me because the Pony is the best of the best as well, and I warrant you'll never find a better inn.\\n\\n'Where did that Nob get to this time? You must pardon me. I am always so busy, you see. No rest for the weary! I've a business to run!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Alrek is at Thrasi's Lodge in Ered Luin.\\n\\nYou should deliver the fake Forsaken Ale, actually Barliman's Best, to Alrek, for it will confuse him greatly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Have you travelled to The Prancing Pony yet? Your assignment will begin there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Is that the Forsaken Ale? Give that here, my friend. I wish to complete the challenge straight away... but... I cannot bring myself to drink it. I have heard such terrible rumours.\\n\\n'Thank you for bringing it. I may have changed my mind, though. I shall ponder it for a while....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Do you have any Forsaken Ale?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Collect fake Forsaken Ale from the Prancing Pony",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Bring the fake Forsaken Ale to Alrek at Thrasi's Lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "One Drink Too Few",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

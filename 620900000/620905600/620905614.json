@@ -1,0 +1,71 @@
+{
+  "id": 620905614,
+  "txt": [
+    {
+      "id": "0x150d6c3",
+      "en": "<rgb=#FF0000>Completing Aiding the Eastemnet will cancel this quest</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'The Haycliff is a place that I wish we could competely avoid, but the frogs within are too special. The tunnels allow for a slime to grow upon them, and we have found that it has no equal when it comes to treating wounds.\\n\\n'Venture within the Haycliff and return with several of these frogs. They are shy and quick, but can be caught if you are persistent.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'You did not eat any, did you? The slime will help with our freshest batch of wounds, but we will need more soon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Are you ready to go and collect frogs in the Haycliff?'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Haycliff: Frog-slime",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The frogs of the Haycliff have a slime covering their bodies that is a natural antiseptic.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Collected frogs in the Haycliff ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Collect frogs in the Haycliff ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Frogs can be found within the Haycliff.\\n\\nDernstad asked you to venture within the Haycliff and return with several frogs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Dernstan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Dernstan is at Eaworth.\\n\\nDernstan will be happy to start scraping the slime off of the frogs you gathered.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

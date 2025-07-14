@@ -1,0 +1,137 @@
+{
+  "id": 620757814,
+  "txt": [
+    {
+      "id": "0x852590",
+      "en": "'Do you bring news from Minhcam? What did you do with the letter?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Candaith cannot decipher the letters you recovered from Orcs in the Lone-lands, but he knows a Ranger who might.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'The letter you discovered within the Bleakrift is also written in the Black Speech -- we need to know the orders contained within each of these letters. I am not a student of the tongue, but there is one of my kind who is.\\n\\n'Out of Bree, north along the Greenway and east of the road, there is a cabin where Rangers gather. Saeradan often keeps vigil there; he is a friend of mine, and he may know enough of the cruel sigils to make sense of at least some portion of these orders.\\n\\n'Travel to Bree-town. From the West-gate of Bree travel north along the Greenway until you spy the Ranger cabin among the trees east of the road. The cabin is quite near to Thornley's Work Site. Find Saeradan and ask him to translate these orders. May haste speed your errand!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Saeradan is at the Ranger cabin along the Greenway, north of Bree and east of the road, near Thornley's Work Site.\\n\\nCandaith gave you both sets of orders you collected and asked you to show them to the Ranger Saeradan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'What brings you on such a long journey, [placeholder]? Candaith, you say? It is long since I have spoken to him. Let me see these letters he sends. The Black Speech is harsh and cruel, and it pains me some to have need of it. Still, this is why I have made it my study: to have knowledge of it at need.\\n\\n'These letters bring ill tidings, [placeholder]. An Orc of the South-lands, Rigûl by name, has been tasked with learning what has caused a great movement of Orcs out of the North. Rigûl and his fellows call themselves \\qUruk-hai\\q and are using the ruins atop Amon Sûl as a centre for their activities.\\n\\n'Return to Candaith with all haste and warn him. He may be in more terrible danger than he is aware!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Ranger Candaith is at his camp at the foot of Weathertop.\\n\\nSaeradan revealed that Orcs calling themselves Uruk-hai have come north to spy out the land and discover why their northern cousins are moving southward. He asked you to return quickly to Candaith and warn him of the danger.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'You must not delay! Return to Candaith in the Lone-lands! If these Uruk-hai now occupy the ruins atop Amon Sûl, he is in grave danger.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You have made this journey for naught, as you seem to have forgotten these letters of which you speak. If Candaith is troubled, it is likely that time is short. Perhaps you should bring the letters to me so that I may translate them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Make haste! The quickest way to Saeradan's cabin is through the town of Bree. Once you have arrived at the town, follow the Greenway north and look for his cabin east of the road. Thornley's Work Site is very close by.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Dark is the news you bring from Saeradan. We must prepare. If Amon Sûl is threatened, then all of the Lone-lands are in danger.\\n\\n'When you are ready, I have more for you to do... but do not delay over-long. Time is short!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'If the Uruk-hai have taken Amon Sûl, all of the Lone-lands are threatened.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Do you bring news from Saeradan? What did you do with the orders?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Bring the Orc orders to Saeradan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'Saeradan is a good man. He has been of great assistance to me over the years.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'I have studied the letter you found, and I believe it is written in the Black Speech of Mordor. I am not familiar with the Black Speech, but there is a Ranger in the North who is.  His name is Mincham, and he makes his camp is near the Fields of Fornost in the North Downs. It is a long journey but one that will hopefully answer these riddles. I would ask you to speak with him and learn what the letter what the letter has to say.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Return the Orc orders to Candaith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'Orcs are trouble, wherever they may be found.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'From the looks of you, it would seem you have travelled far, [placeholder]. What brings you on such a long journey? Candaith you say? It is long since I have spoken to him. Let me see this letter he sends.\\n\\nLooking over the letter, he grows pale, 'This is ill news. It is written by someone named Rigul, an Orc from the south, who was sent to learn of the threat from the north. His Master has tasked him to discover why the northern Orcs are moving southwards. It appears these new Orcs -- Uruk-hai, they call themselves -- it appears they are using the ruins of Amon Sûl as a centre for their activities.\\n\\n'Return to Candaith with all haste and warn him. He may be in more terrible danger than he is aware!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Lost in Interpretation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'Candaith is a fine Ranger, but he is not as cautious as he needs to be.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'You seem to have made your journey for naught, since you have apparently forgotten to bring this letter you speak of. If Candaith is troubled, it is likely that time is short. Perhaps you should bring the letter to me so that I may translate it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'Dark is the news you bring from Mincham. We must prepare. If Amon-Sul is threatened, then all of the Lone-lands are in danger. I am grateful for your expedience in bringing this to me. When you are ready, however, I have more for you to do...but do not wait too long. Time is short!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

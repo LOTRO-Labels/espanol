@@ -1,0 +1,275 @@
+{
+  "id": 620835902,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'Whence do you come, [placeholder]? From Orthir? That is strange; he usually has little patience for visitors. Perhaps you should start from the beginning....\\n\\n'Singing to the saplings! What a lovely cure--marvellous in its simplicity! If we are to take what the Scholar of the Trees says to heart, more music will have to be made throughout these woods, to replace the natural tunes of beasts and birds that have been silenced by the trampling of so many feet.\\n\\n'The mention that you say Orthir made of the first Malbrethil-tree has given me an idea....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52f00e2",
+      "en": "<rgb=#FF0000>Sing</rgb> to a Malbrethil-sapling (0/4)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Mae govannen. You were sent from Mallendathor? Very well, what assistance do you need?\\n\\n'Ah! The Melbrethil! The first Malbrethil-tree was a gift from those who dwell beyond the Sea. We prize them so because they listen to the harmonies of Middle-earth itself and breathe them out to their surroundings. But you say they are suffering? This is no small matter....\\n\\n'I fear that since our lands have been...visited...by so very many of the friends and allies of Gandalf the Grey and Elrond Halfelven, the forest and its beasts have been quieter--frightened, perhaps. I think that you might remedy this were you to <rgb=#FF0000>sing</rgb> to the saplings. Any song will do. Perhaps hearing of your homeland will strengthen them. When you have sung to them, seek out Sendiel, another warden of the woods, whom I last saw in a clearing in Gelirdor, south-west of the hill of the First Malbrethil.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Songs for the Saplings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "This sapling's trunk looks healthier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "This sapling looks a bit less bedraggled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Speak with Orthir...who should know what to do about the ailing Melbrethil.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "This sapling's leaves seem ragged around the edges",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52f00e6",
+      "en": "<rgb=#FF0000>Sing</rgb> to a Malbrethil-sapling (1/4)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Have you spoken yet with Orthir? If so, I would do as he instructed you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "This sapling's boughs look a bit springier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Orthir can be found a short distance west of Cerin Amroth, near the path.\\n\\nMallendathor wishes you to speak to Orthir, the Scholar of the Trees, to see if he knows what might heal the saplings' malady.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Sendiel will wish to know of the marvelous cure of the Melbrethil!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "This sapling's bark looks very brittle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "This sapling's boughs are noticeably drooping",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Malbrethil-saplings can be found around Cerin Brethil in Taur Hith, to the north-east of Cerin Amroth.\\n\\nOrthir believes that the saplings, deprived of the everyday music of the now-wary forest, might be revived if you were to sing to them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'Raise your voice in song, [placeholder]...only then will the Melbrethil heal.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "This sapling's trunk looks healthier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Sendiel is in Gelirdor, south-west of the Malbrethil-trees, east of Cerin Amroth.\\n\\nOrthir instructed you to tell Sendiel of your success.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'You should let Sendiel know that your song was strong enough to bring life to the Melbrethil.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "This sapling's bark looks very brittle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'I have been told of your efforts, [placeholder]. You have proven yourself a friend to these woods!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "This sapling now seems to be more robust",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c47",
+      "en": "'I doubted your intentions as well as your abilities; I owe you an apology, friend [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c48",
+      "en": "'Work well done, [placeholder]. I hope your voice was sweet!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b4",
+      "en": "This sapling now seems to be more robust",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3688",
+      "en": "This sapling appears to be overly delicate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b5",
+      "en": "This sapling appears to be overly delicate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3689",
+      "en": "This sapling seems ill....",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "The Malbrethil-saplings can be found around Cerin Brethil in Taur Hith, to the north-east of Cerin Amroth.\\n\\nOrthir believes that the saplings, deprived of the everyday music of the now-wary forest, might be revived if you were to sing to them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "The Malbrethil-saplings can be found around Cerin Brethil in Taur Hith, to the north-east of Cerin Amroth.\\n\\nOrthir believes that the saplings, deprived of the everyday music of the now-wary forest, might be revived if you were to sing to them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Orthir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "<rgb=#FF0000>Sing</rgb> to Malbrethil-saplings ([placeholder]/4)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "The Malbrethil-saplings can be found around Cerin Brethil in Taur Hith, to the north-east of Cerin Amroth.\\n\\nOrthir believes that the saplings, deprived of the everyday music of the now-wary forest, might be revived if you were to sing to them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Sendiel in Gelirdor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e11",
+      "en": "<rgb=#FF0000>Sing</rgb> to a Malbrethil-sapling (2/4)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c0",
+      "en": "This sapling now seems to be more robust",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c1",
+      "en": "This sapling appears to be overly delicate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c2",
+      "en": "You are no longer near a sapling to which you should sing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Mallendathor had no knowledge to share regarding the saplings' malady.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e16",
+      "en": "<rgb=#FF0000>Sing</rgb> to a Malbrethil-sapling (3/4)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c3",
+      "en": "This sapling seems ill...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e114",
+      "en": "This sapling's boughs look a bit springier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e115",
+      "en": "This sapling's boughs are noticeably drooping",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'If you are willing to be of further aid, [placeholder], I would ask that you seek out the counsel of Orthir, a Scholar of the Trees who has made the woods of Lothlórien, and especially the majestic trees in and around Cerin Amroth, his particular study. Describe to him the symptoms you found on the Malbrethil saplings and follow his advice. You will find him not far west of here, near the path.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

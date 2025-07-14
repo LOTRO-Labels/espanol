@@ -1,0 +1,101 @@
+{
+  "id": 620857478,
+  "txt": [
+    {
+      "id": "0xaeb8bd4",
+      "en": "Could not find your request in the encounter queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf3963e",
+      "en": "You already have an open invitation to launch an encounter. Do you really want to make a new request? This will cancel the open invitation.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9137575",
+      "en": "Your request was removed from the encounter queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68e13a7",
+      "en": "The encounter is starting up, you will be teleported in shortly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dfcfd4",
+      "en": "Encounter: [placeholder]\\n\\nCurrent position in encounter queue: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc872582",
+      "en": "Invalid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad7f0bf",
+      "en": "Your request is currently at position [placeholder] in the encounter queue.\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55c8c7e",
+      "en": "The server is busy. Would you like to be added to the encounter queue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbadfca5",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1722f5",
+      "en": "There is no request for you in the encounter queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48bd38e",
+      "en": "Your encounter invitation was canceled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ff1ad5",
+      "en": "Stay In Queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9e69e5",
+      "en": "Exit Queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd433734",
+      "en": "Invalid Request.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a501b5",
+      "en": "unknown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x754f63f",
+      "en": "Request details:\\nEncounter: [placeholder]\\nLevel: [placeholder]\\nDifficulty: [placeholder]\\nGroup size: [placeholder]\\nElapsed Time: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

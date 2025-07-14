@@ -1,0 +1,41 @@
+{
+  "id": 620757507,
+  "txt": [
+    {
+      "id": "0x45e5aae",
+      "en": "Are you sure you wish to rename <rgb=#FF0000>[placeholder]</rgb> to <rgb=#FF0000>[placeholder]</rgb>?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84a3c75",
+      "en": "Character rename is not currently available.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b20363",
+      "en": "You have successfully renamed your character to [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x259a1e4",
+      "en": "#1:[placeholder] #1:{dialog[1]|dialogs} pending.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc67e2",
+      "en": "Choose a character to rename:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf377e2",
+      "en": "Select a new name:",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

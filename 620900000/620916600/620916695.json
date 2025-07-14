@@ -1,0 +1,701 @@
+{
+  "id": 620916695,
+  "txt": [
+    {
+      "id": "0xa8e11a2",
+      "en": "The final stone has been placed on Humbald's grave.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'It is done. The fact they are gone seems a little more real now than it did earlier....\\n\\n'I need to go home and sit by a warm fire for a while.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'I think most of the Reeve's family has gathered, and we are about to get started.'\\n\\n'Please, walk with me to the others.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Let us make our way to Thrymm's home in Forlaw.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b4",
+      "en": "The final stone has been placed on Cynegar's grave.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Place the final stone on Humbald's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Every living member of Gárwig's family is in attendance at the funeral, and some of the townsfolk have come to pay their respects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Every living member of Gárwig's family is in attendance at the funeral, and some of the townsfolk have come to pay their respects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50293",
+      "en": "Place the final stone on Cynegar's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "Join Gárwig near the grandson's graves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Speak with Cyneberg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e112",
+      "en": "The funeral has ended...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Leave the funeral with Cyneberg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Pick up the stone for Humbald's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "Every living member of Gárwig's family is in attendance at the funeral, and some of the townsfolk have come to pay their respects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Every living member of Gárwig's family is in attendance at the funeral, and some of the townsfolk have come to pay their respects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "Every living member of Gárwig's family is in attendance at the funeral, and some of the townsfolk have come to pay their respects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "You picked up the stone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Join and watch those gathered for Grimgar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Join and watch those gathered for Gársig",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Join and watch those gathered for Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Place the final stone on Thrymm's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Place the final stone on Gársig's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Place the final stone on Grimgar's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a0",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Walk with Cyneberg to the funeral",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Pick up the stone for Grimgar's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Pick up the stone for Gársig's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Pick up the stone for Thrymm's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8680",
+      "en": "'Rest in peace.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8681",
+      "en": "'Humbald and Grimgar, sons of Gársig and Burghild.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8682",
+      "en": "'They fought alongside their father at Scylfig.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8683",
+      "en": "'They were young, but strong and brave and they died with honour as warriors.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8684",
+      "en": "'They gave their lives to help save those who escaped Scylfig.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8685",
+      "en": "'May they rest in peace.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8686",
+      "en": "'My sons, the twins, Edsig and Gárferth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8687",
+      "en": "'Gársig was my youngest son, and he and I have not always seen eye-to-eye...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8688",
+      "en": "'His heart was always in the right place, and his actions in Scylfig proved that.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Funeral in Forlaw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8689",
+      "en": "'I forgive him for what happened to Cuthbald, but more importantly...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b861",
+      "en": "'Even the sky seems to be mourning today.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b862",
+      "en": "'I am sorry to keep everyone waiting.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b863",
+      "en": "'Let us begin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b864",
+      "en": "'Thank you, Cyneberg. Your help today is most appreciated.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b865",
+      "en": "'The impact of what occurred in Scylfig and Forlaw will take time to sink in.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b866",
+      "en": "'For us to recover from those we lost, will take even longer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8690",
+      "en": "'Today, we lay to rest the last of my sons; Edsig, Gárferth, Gársig and Thrymm.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b867",
+      "en": "'I wish I could offer words of inspiration and hope...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8691",
+      "en": "'And my grandsons, kinsmen to Gársig, Grimgar and Humbald.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b868",
+      "en": "'...but I cannot muster much of either, these days.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8692",
+      "en": "'And finally Cyneberg's father, my cousin and great friend, Cynegar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b869",
+      "en": "'There have been too many reasons for us to gather here of late.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8693",
+      "en": "'My father, Cynegar, was a great leader for Scylfig.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8694",
+      "en": "'He was a wonderful father, and mentor, for me and the people...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8695",
+      "en": "'Cynegar gave his life to help save those who could escape.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8696",
+      "en": "'There is no greater honour for a warrior and leader such as he...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8697",
+      "en": "'Than to die protecting his home and family.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8698",
+      "en": "'We will miss you, my old friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b8699",
+      "en": "'May he rest in peace.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a0",
+      "en": "'Let us speak of my grandsons...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "The final stone has been placed on Thrymm's grave.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a1",
+      "en": "'Let us speak of Grimgar'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a2",
+      "en": "'Let us speak of Gársig...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Many were lost in the battle at Scylfig, but none were more important to the people of Wildermore than their hero Thrymm Red-beard. A funeral is being planned by Gárwig and Cyneberg so that the people of Forlaw can pay their respects and say good-bye to those who lost their lives.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a3",
+      "en": "'Let us finish with Thrymm...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a4",
+      "en": "'I am still in shock that both were taken from me, so suddenly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a5",
+      "en": "'They were both filled with promise, and had much to give back to Forlaw.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a6",
+      "en": "'...But the enemy stole them from us, from me, before they reached their potential.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a7",
+      "en": "'I will have to try hard to find comfort in the fact they died as guardians of Forlaw.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a8",
+      "en": "'And despite the efforts of the enemy, they had an honourable death.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86a9",
+      "en": "'Let us speak of Cynegar...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b0",
+      "en": "'I hope he forgave himself for what happened.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "You picked up the stone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b1",
+      "en": "'I will miss you, my son.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "You picked up the stone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b2",
+      "en": "'Thrymm Red-beard, Champion of Wildermore and greatest warrior of this land.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b3",
+      "en": "'He was more than just our champion, he was a symbol of hope and courage.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Listen to Gárwig speak about Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b4",
+      "en": "'He was and is beloved by the people of Wildermore.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b5",
+      "en": "'And I hoped to someday make him leader of Wildermore, as my successor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Join Gárwig near the twins' graves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b6",
+      "en": "'Thrymm was my nephew, but I saw him as my son, and he looked to me as his father.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b7",
+      "en": "'I cannot be more proud of the man he became, nor more saddened by his passing...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b8",
+      "en": "'I love you Thrymm, and will miss you, forever.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "The final stone has been placed on Grimgar's grave.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b86b9",
+      "en": "'Let us begin with the twins...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "The final stone has been placed on Gársig's grave.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01141",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01143",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5021",
+      "en": "Observe the funeral",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01144",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01145",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01146",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5024",
+      "en": "Join the others at Cynegar's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Listen to Gárwig speak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Listen to Gárwig speak about Cynegar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "You picked up the stone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Pick up the stone for Cynegar's grave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1199",
+      "en": "You picked up the stone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Listen to Gárwig speak of Humbald and Grimgar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Listen to Gárwig speak of Edsig and Gárferth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50259",
+      "en": "Listen to Gárwig speak about Gársig",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01151",
+      "en": "Every living member of Gárwig's family has come to the graveyard today to pay their respects and say good-bye to those they loved.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

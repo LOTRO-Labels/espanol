@@ -1,0 +1,89 @@
+{
+  "id": 620757455,
+  "txt": [
+    {
+      "id": "0xe7964eb",
+      "en": "You must select a blank [placeholder] as the target for copying!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7901e5",
+      "en": "You must wait a few seconds before you can perform another copy.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd20cf5",
+      "en": "You must wait a few seconds before you can save your changes again.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f946c4",
+      "en": "You cannot save your changes to this blank [placeholder], you would be in violation of the capacity limit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x807dfd5",
+      "en": "[placeholder]: '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65c19a5",
+      "en": "You cannot copy a [placeholder] that you are not the original author of!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc51753b",
+      "en": "Book",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5984745",
+      "en": "An Untitled [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac60a05",
+      "en": "The [placeholder] '[placeholder]' can now be copied, right-click on a blank [placeholder] and select [placeholder] to complete the action.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x153f154",
+      "en": "You have successfully copied the contents of the [placeholder] '[placeholder]'!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cdd692",
+      "en": "Letter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71489e4",
+      "en": "You cannot edit the contents of a [placeholder] that you are not the original author of!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5c54c4",
+      "en": "Parchment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9166dc4",
+      "en": "You have successfully updated the contents of the [placeholder] '[placeholder]'!\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

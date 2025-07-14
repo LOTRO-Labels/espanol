@@ -1,0 +1,89 @@
+{
+  "id": 621064422,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "You have failed to deliver the satchel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You were spotted by one of the Chief's Bounders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Postman Mapledore of Gamwich has asked you to deliver a satchel to Tighfield.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e113",
+      "en": "You were spotted by one of Lotho's Bounders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Postman Mapledore can be found in Gamwich, in Yondershire.\\n\\nDeliver the satchel to Postman Hartclover in Tighfield as quickly as possible. Let no nosey hobbits or those surly Bounders interfere with your duty!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5022",
+      "en": "<rgb=#FF0000>Avoid Lotho's Bounders</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "You were spotted by a nosey hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'Hullo, do you have some time to spare today?\\n\\n'If you would lend me a hand, I need to have this satchel of mail delivered to Tighfield as soon as possible. Follow the road south as it bends east and you'll pass through Tighfield. Postman Hartclover ought to be at the Quick Post just past the Elbow's Bend. A fine tavern, indeed, but best enjoyed when not carrying mail for the Quick Post!\\n\\n'When you're ready, the satchel is on the table right over there. For your sake, don't get caught up in chatter with the folk around Tighfield. Rumours are flying right now that there's some surly Bounders about out of Hithershire, but I don't think there's any truth to it.\\n\\n'Oh, and tell Postman Hartclover that I received his note and have spoken to the involved parties about shipping cuts of meat in standard envelopes. It will not happen again.\\n\\n'Do not let me keep you! The Quick Post must carry on!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "<rgb=#FF0000>Avoid nosey hobbits</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Collect the satchel from Postman Mapledore's table",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Carry the satchel to Postman Hartclover in Tighfield",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "<rgb=#FF0000>Avoid the Chief's Bounders</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'The satchel for Tighfield is over there on the table. Let no nosey hobbits interfere with your duty!\\n\\n'Oh, and don't let the satchel get wet. It would be easy enough to have a new one made here in Gamwich, but there's no doubt that the Postmaster would hear about it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Route: Gamwich to Tighfield",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

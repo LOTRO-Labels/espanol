@@ -1,0 +1,23 @@
+{
+  "id": 621043707,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Innate Strength: Precision",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Heavy Attacks grant the buff 'Innate Strength: Precision', increasing the Brawler’s Critical Rating.\\n\\nIf a Heavy Attack is performed while 'Innate Strength: Precision' is still active, the buff is instead advanced to a higher tier, to a maximum of Tier 4.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554671",
+      "en": "Tier 1: Modest Critical Rating Bonus\\nTier 2: Minor Critical Rating Bonus\\nTier 3: Critical Rating Bonus\\nTier 4: Greater Critical Rating Bonus",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

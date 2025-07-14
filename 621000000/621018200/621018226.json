@@ -1,0 +1,461 @@
+{
+  "id": 621018226,
+  "txt": [
+    {
+      "id": "0x9b56881",
+      "en": "'It was a good thought to untie the horses, for now they will not be left defenceless in the face of our enemies. Even a cornered animal might slay an Orc or two.'\\n\\nThenca looks at you sternly.\\n\\n'This seems to me clear, [placeholder]. We cannot hold the Dike any longer, and the men at Helm's Deep are truly cornered themselves, and we with them. The Orcs will see how ferocious we can be! To the fortress, my friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Thenca stands atop Helm's Dike, awaiting your attention.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Cenric accepted the bolts you and Thenca brought to the forward ballista, but he wears a worried expression, and his face is lined with fear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Cenric by the stable at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'What did you say your name was? [placeholder]?\\n\\n'Gamling asked me to bring these bolts to the forward ballista. Will you aid me? Quickly now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Untie horses stabled at Helm's Dike ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Saruman's Orcs have advanced upon the eastern side of Helm's Dike, and you must stand against them with Cenric, Thenca, and Gamling.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Gamling has called for you at the eastern side of Helm's Dike.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Talk to Thenca by the stables near Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'What good will these bolts do for us? I have never seen so many Orcs before in all my life. These bolts cannot slay more than three or four at a time, and that only if our aim is unfailing!\\n\\n'My wife and my daughter shelter in the caves behind the Deep, but for how long can we keep the Orcs at bay?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'We need to get to the other side of the Dike, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Gamling has called for your assistance as he hurries to the far side of the Dike, there to combat Saruman's forces before they can crush the Rohirrim defenders.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "As you hurry between the defensive encampments at Helm's Dike alongside Gamling and other soldiers of Rohan, you have spotted the great war machine with which Saruman's forces hope to destroy the gate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'What can we do? Its iron casing will surely repel any of our weapons, and it will take only minutes to melt through the gate.\\n\\n'We may not be able to destroy this machine, but we can slow the progress of the Orcs that accompany it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf978491",
+      "en": "'Right here, right here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "As the soldiers of Rohan fight the invading Orcs on the western side of the Dike, Gamling has called you to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf978492",
+      "en": "'Our foes are so many, and we are so few!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6af8",
+      "en": "Carry the bolt to the forward ballista",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'Saruman's supply of Orcs is limitless. We have nothing to gain by remaining here.\\n\\n'We must retreat!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf978493",
+      "en": "'I will slay as many Orcs as I can, but it will not be enough!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Gamling has ordered you and the other soldiers of Rohan to fall back from the defence of Helm's Dike.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf978494",
+      "en": "'Aye, that we are, Thenca.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Cenric has stopped by the stables, despite the imminent arrival of Saruman's armies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf978495",
+      "en": "'Gamling needs our help! Follow me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'When the Orcs come through the gate, no man will be long able to stand before them, no matter the strength of his spirit or the depth of his courage. They will pass right by here on their way to the fortress, but some of our bloodthirsty foes will turn their attention upon the horses tied at stable. These good creatures will be helpless!\\n\\n'Help me untie our proud beasts and set them free! At least that way they may be able to fight back against those who come to destroy us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Fight alongside Cenric at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Cenric despairs that the steeds of the Rohirrim stabled at Helm's Dike will be slain by the invading Orcs, and he seeks your help untying the proud creatures so they may fight back against the aggressors.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Follow Gamling to the far side of the Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c380f1",
+      "en": "'If you are a friend to Rohan, you will pick up one of those bolts!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Thenca at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c380f2",
+      "en": "'Follow me, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c380f3",
+      "en": "'And yet it must be, Cenric.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Fight alongside Thenca at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c380f4",
+      "en": "'Are we not men of Rohan?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Gamling on the western side of Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Follow the soldiers of Rohan to the gate in Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Thenca is pleased you took the time to free the horses stabled at Helm's Dike, for the Orcs will soon be upon them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b4941",
+      "en": "Above the din you hear the sound of someone calling for you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d164",
+      "en": "Saruman's forces march toward the fortress of Helm's Deep. Only one barrier stands in the way of Saruman's armies: the rampart of Helm's Dike, built across the trench through which Saruman's forces must pass. If the gate is broken, the green expanse before the wall will be laid bare to Rohan's approaching foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Thenca, one of the Rohirrim defenders of Helm's Dike, has asked for your help carrying bolts to the forward ballista.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccf2f1",
+      "en": "'We must think of some way to stop it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccf2f2",
+      "en": "'To the west side, quickly!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccf2f3",
+      "en": "'Look!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccf2f4",
+      "en": "'Our brothers try to hold the gate!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf77000",
+      "en": "'Fall back! Fall back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ccf2f5",
+      "en": "'That is a deed well-done, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf77001",
+      "en": "'[placeholder]! Take Cenric and go!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf77002",
+      "en": "'I will be right behind you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf77003",
+      "en": "'Watch your step on the rocks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf77004",
+      "en": "'Can it be?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7701",
+      "en": "'Orcs advance on the eastern side! This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7702",
+      "en": "'[placeholder]! To me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "Saruman's Orcs have advanced upon the western side of Helm's Dike, and you must stand against them with Cenric, Thenca, and Gamling.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7703",
+      "en": "'This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7704",
+      "en": "'Hold! Down there! What is that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7705",
+      "en": "'It is some construction of Saruman! A mighty war machine!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7706",
+      "en": "'They will use it to melt the gate!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7707",
+      "en": "'[placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7708",
+      "en": "'We have to fall back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df7709",
+      "en": "'You cannot do that from here, Cenric! There are too many!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff82e91",
+      "en": "'No, Gamling! I must defend my family!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff82e92",
+      "en": "'The gate cannot hold.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff82e93",
+      "en": "'Gamling, what about you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff82e94",
+      "en": "'There is no time to lose!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff82e95",
+      "en": "'[placeholder], wait!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Talk to Thenca atop Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff82e96",
+      "en": "'Follow me, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed91",
+      "en": "Fight alongside Cenric at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "Freed a noble steed of Rohan ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Pick up one of the ballista bolts near Thenca",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Talk to Cenric at the forward ballista",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed95",
+      "en": "Follow Thenca to the west side of the Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Storied Tale: Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

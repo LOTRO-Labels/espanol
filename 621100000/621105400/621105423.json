@@ -1,0 +1,401 @@
+{
+  "id": 621105423,
+  "txt": [
+    {
+      "id": "0xa8e1191",
+      "en": "Defeat the Barkhûshim!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502951",
+      "en": "<rgb=#ff0000>Mizâdi must not falter</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "Defeated All-seeing cultists ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Free Numûru from his bonds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01171",
+      "en": "Set up camp on the hilltop outside of Khud Zagin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Speak with Numûru in the Angar Aragín",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Speak with Razâl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Set plates on the table on the hilltop in Khûd Zagin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1140",
+      "en": "Treated the wounded Subuzûri ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50245",
+      "en": "Ascend the stairs to find the other prisoners",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50246",
+      "en": "Free the first prisoner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01177",
+      "en": "Defeat Ekhamati forces and destroy Ekhamâti tar pots as you move toward the hilltop.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Free the second prisoner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1143",
+      "en": "Set up camp on the hilltop ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50248",
+      "en": "Free the third prisoner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Mizâdi has tracked Bârshud to the fortress of Dun Shûma in Khûd Zagin. The time has come to meet Bârshud in pitched battle and defeat him for good.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Defeat the Barkhûshim ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Speak with Mizâdi on the battlefield outside Dun Shûma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1146",
+      "en": "Set plates on the table ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1149",
+      "en": "Defeated Ekhamâti at Dun Shûma ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1150",
+      "en": "Defeated Barkhûshim ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Go with Razâl up the tower stairs to find Numûru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Speak with Mizâdi on the battlefield outside Dun Shûma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Defeat All-seeing cultists ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377c51",
+      "en": "'Ah, that is better. That should hold for now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377c52",
+      "en": "'The pain is not so bad. I can still fight.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56842",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377c53",
+      "en": "'I will fight with one arm. Thank you friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1157",
+      "en": "Set up barricades ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377c54",
+      "en": "'The pressure helps. The bleeding seems to have stopped. Thank you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'He is wounded. I will get him out of Kûr Anzar, leave it to me. Free those poor souls above us, they need your aid most now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377c55",
+      "en": "'I would not have lasted had you not stopped. Thank you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377c56",
+      "en": "'That's a lot of my blood on my armour. I will make do with less.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "Set up camp on the hilltop ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Set plates on the table ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Speak with Numûru in the Angar Aragín.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50268",
+      "en": "Defeat Ekhamâti at Dun Shûma ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50210",
+      "en": "Destroy Ekhamâti tunnels forming outside Dun Shûma ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "Go with Razâl up the tower stairs to find Numûru.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50212",
+      "en": "Destroy tar pots on the battlefield ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01143",
+      "en": "Free the prisoners.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b92",
+      "en": "Mizâdi has faltered!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50215",
+      "en": "Take the hilltop from Ekhamâti forces",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50271",
+      "en": "Defeat Karâshna Zíri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50218",
+      "en": "Defend the hilltop from Ekhamâti forces until reinforcements arrive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'Now is the time for us to charge into battle and end the threat of Bârshud! Meet me on the hilltop!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50273",
+      "en": "Speak with Mizâdi on the hilltop outside of Dun Shûma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Free Numûru from his bonds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50276",
+      "en": "Set up barricades around the hilltop encampment ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Speak with Razâl in the Angar Aragín.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50279",
+      "en": "Treat the wounded Subuzûri ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb86be31",
+      "en": "'Today we stare down tyranny and fight for the freedom of all Shagâna!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb86be32",
+      "en": "'For Shagâna. For Hamât! And for you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb86be33",
+      "en": "'We must defend the camp!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb86be34",
+      "en": "'Here they come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Ascend the stairs to find the other prisoners.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "Defeat the Barkhûshim within the Angar Aragín.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01104",
+      "en": "Take the hilltop from Ekhamâti forces.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01106",
+      "en": "Defend the hilltop from Ekhamâti forces until reinforcements arrive!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01162",
+      "en": "Speak with Mizâdi in Khûd Zagin on the hilltop outside of Dun Shûma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56874",
+      "en": "'Now that this hilltop has been won in hard-fought battle, we need to make our camp here and fortify it. Can you help set up the tents, tables and barricades we'll need to make this camp safe for everyone?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01165",
+      "en": "Set up barricades around the hilltop encampment.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1131",
+      "en": "Destroyed Ekhamâti tunnels ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Battle for Hamât, Part 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1133",
+      "en": "Destroyed tar pots on the battlefield ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "Treat the wounded on the hilltop.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

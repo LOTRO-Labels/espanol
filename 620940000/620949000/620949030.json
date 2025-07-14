@@ -1,0 +1,359 @@
+{
+  "id": 620949030,
+  "txt": [
+    {
+      "id": "0x6a50294",
+      "en": "Climb the slope and stop the Nazgûl from learning of Aragorn's passage. Rovalang must not be defeated.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73d2b61",
+      "en": "Encounter Skipper Lever",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Time until Nazgûl learns of Aragorn's passage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "Rovalang has been defeated, and you have failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Rovalang must survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "Drugât emerges from the Paths of the Dead, and your mission has failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "You have come to the foothills of the White Mountains in the company of Rovalang, searching for the terrible beast he saw flying above the Blackroot Vale.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "Drugât emerges from the Paths of the Dead, and your mission has failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'Before we proceed, are there any companions on which you can rely? Are we on our own, or do you have a Fellowship near at hand? Speak to me again and tell me which is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Rovalang has asked if you and he are on your own, or if you have a Fellowship near at hand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe11",
+      "en": "'All places belong to my Master.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'Let us leave this place, [placeholder]. The memory of such evil lies heavily upon it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'A cold sensation has gripped my heart, [placeholder]. Do you feel it too? I believe we draw near to the creature I beheld above the mountains!\\n\\n'Before we proceed, are there any companions on which you can rely? Are we on our own, or do you have a Fellowship near at hand? Speak to me again and tell me which is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe12",
+      "en": "'You are the ones who trespass.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'Let us go down from here at once!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You and Rovalang have gone to the foot of the White Mountains in search of the creature he saw.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "If the Nazgûl is able to learn of Aragorn's passage, the Ranger's advantage will be lost. You must defeat the Nazgûl before he can meet with Drugât!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe13",
+      "en": "'I am the Bane of Rhûn; I go where I will.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Rovalang is waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe14",
+      "en": "'Who are you to deny me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe15",
+      "en": "'[placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe16",
+      "en": "'You are known to us! You will not leave this place alive!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x289fe17",
+      "en": "'We will see!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5024",
+      "en": "Talk to Rovalang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a1",
+      "en": "The Nazgûl has not yet learned of Aragorn's passage. Hope remains, for now!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'I have never before been in the presence of such evil, [placeholder]! Let us leave this place, and then we will speak of it... but not before!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "From Drugât, the Nazgûl will learn of Aragorn's passage. You have failed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'Before we proceed, are there any companions on which you can rely? Are we on our own, or do you have a Fellowship near at hand? Speak to me again and tell me which is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "You have struck the Nazgûl a grievous blow: you have kept from it dangerous knowledge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "You must find the Nazgûl and prevent it from learning of Aragorn's passage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8712d1",
+      "en": "'I am glad to hear it! Now let us waste no more daylight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Rovalang must not be defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Time until the Nazgûl learns of Aragorn's passage:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Time until Nazgûl encounters Drugât:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b7",
+      "en": "From Drugât, the Nazgûl will learn of Aragorn's passage. You have failed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "Rovalang has fallen, and you have failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'We should leave this place, and at once!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'Before we proceed, are there any companions on which you can rely? Are we on our own, or do you have a Fellowship near at hand? Speak to me again and tell me which is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'We will speak when we have left this place, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b30a1",
+      "en": "'By the King of Gondor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b30a2",
+      "en": "'What a terrible creature! But worse: do you see what it bears upon its back?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Time until Nazgûl learns of Aragorn's passage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b30a3",
+      "en": "'That is a saddle, or I am a dwarf!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b30a4",
+      "en": "'We must slip around it and find this beast's master.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Defeat the Nazgûl before Drugât emerges from the Paths of the Dead. Rovalang must not be defeated.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Talk to Rovalang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31cd9e1",
+      "en": "'Careful, now....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31cd9e2",
+      "en": "'A little further....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb36e9a1",
+      "en": "'Halt, creature! This is no place for you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31cd9e3",
+      "en": "'We made it! Now we must hurry!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb36e9a2",
+      "en": "'I am Rovalang, a Swan-knight of Dol Amroth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb36e9a3",
+      "en": "'This is [placeholder], a [placeholder] of great fame and tremendous skill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb36e9a4",
+      "en": "'And these are my friends, great heroes of renown!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Shadow in Morthond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Talk to Rovalang and declare your intentions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb36e9a5",
+      "en": "'We will drive you from this land in disgrace and defeat!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15d881",
+      "en": "'Very well, [placeholder]. Let us waste no more daylight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15d882",
+      "en": "'Look! More maddened creatures! It must be the doing of the beast I saw...'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

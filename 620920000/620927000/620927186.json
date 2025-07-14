@@ -1,0 +1,95 @@
+{
+  "id": 620927186,
+  "txt": [
+    {
+      "id": "0xa8e1195",
+      "en": "Enemy wave defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Protect the barricades at the end of the island bridge and stop the enemy from damaging Gamling's ballista.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa34",
+      "en": "Stalactites Over the Bridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d172",
+      "en": "Gamling has fallen back to man the ballista near the centre of the Glittering Caves. He can fire the ballista into the opposite wall to cause stalactites to fall upon the centre bridge. Use the signaling flags near the bridges to indicate to Gamling to drop stalactites on the near, centre, or far end of the bridge.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Full</rgb> Merit Rating.\\n\\n<rgb=#FF0000>Major Point Loss</rgb>\\n- Every 25% health of the ballista\\n\\n<rgb=#FF0000>Moderate Point Loss</rgb>\\n- Barricades destroyed\\n- Signaling flag destroyed\\n\\n<rgb=#FF0000>Minor Point Loss</rgb>\\n- Supply crate destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Defeat waves of enemies ([placeholder]/6)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "Defeated all enemies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "<rgb=#FF0000>The ballista must not be destroyed</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "[placeholder] Barricades Destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Defeat the trolls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "[placeholder] Supplies destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "[placeholder]% Damage to Ballista",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "[placeholder] Signaling flags destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "<rgb=#FF0000>The Signaling Flags must not be destroyed ([placeholder]/3)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a9",
+      "en": "Ballista destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "Troll defeated",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

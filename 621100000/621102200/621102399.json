@@ -1,0 +1,533 @@
+{
+  "id": 621102399,
+  "txt": [
+    {
+      "id": "0x7fc11c2",
+      "en": "lam",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1110",
+      "en": "su",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c3",
+      "en": "le",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1111",
+      "en": "ta",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c4",
+      "en": "li",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1112",
+      "en": "tar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c5",
+      "en": "lu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1113",
+      "en": "tu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c6",
+      "en": "ma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1114",
+      "en": "uda",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c7",
+      "en": "mal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1115",
+      "en": "ugi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c8",
+      "en": "mar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1116",
+      "en": "ukha",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c9",
+      "en": "mu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1117",
+      "en": "ule",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1118",
+      "en": "una",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1119",
+      "en": "unga",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d0",
+      "en": "ira",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d1",
+      "en": "ire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1120",
+      "en": "rug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d2",
+      "en": "ja",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1121",
+      "en": "sa",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d3",
+      "en": "ka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1122",
+      "en": "sha",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d4",
+      "en": "kha",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1123",
+      "en": "she",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d5",
+      "en": "khe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1124",
+      "en": "shen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d6",
+      "en": "khi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1125",
+      "en": "shi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d7",
+      "en": "ki",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d8",
+      "en": "kil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1126",
+      "en": "shu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11d9",
+      "en": "ku",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1127",
+      "en": "shur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1181",
+      "en": "ab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1128",
+      "en": "si",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1182",
+      "en": "adi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1129",
+      "en": "sili",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1183",
+      "en": "agi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1184",
+      "en": "ali",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1185",
+      "en": "alu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1186",
+      "en": "ana",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e0",
+      "en": "gar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1187",
+      "en": "ara",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e1",
+      "en": "gaz",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1188",
+      "en": "ari",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e2",
+      "en": "ge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1189",
+      "en": "ba",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1130",
+      "en": "mun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e3",
+      "en": "gha",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1131",
+      "en": "mur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e4",
+      "en": "gi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1132",
+      "en": "na",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e5",
+      "en": "gu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1133",
+      "en": "nar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e6",
+      "en": "ha",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1134",
+      "en": "nga",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e7",
+      "en": "ika",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1135",
+      "en": "nu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e8",
+      "en": "ina",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1136",
+      "en": "ra",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11e9",
+      "en": "ine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1137",
+      "en": "ran",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1138",
+      "en": "ri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1139",
+      "en": "ru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f0",
+      "en": "bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f1",
+      "en": "be",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f2",
+      "en": "bi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f3",
+      "en": "bu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f4",
+      "en": "da",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f5",
+      "en": "de",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f6",
+      "en": "di",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f7",
+      "en": "du",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f8",
+      "en": "dur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11f9",
+      "en": "ga",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1100",
+      "en": "ure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1101",
+      "en": "uri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1102",
+      "en": "usha",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1103",
+      "en": "za",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1104",
+      "en": "zab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1105",
+      "en": "ze",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1106",
+      "en": "zi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1107",
+      "en": "zil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc1108",
+      "en": "zu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c0",
+      "en": "kur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fc11c1",
+      "en": "la",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

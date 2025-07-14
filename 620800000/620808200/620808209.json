@@ -1,0 +1,365 @@
+{
+  "id": 620808209,
+  "txt": [
+    {
+      "id": "0xcad25a4",
+      "en": "The forces of Angmar rally near the Sorceress of Cowardice!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f86dbb",
+      "en": "The North Bulwark is about to be attacked!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b4471",
+      "en": "'Huzzah! The day is ours!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x905794e",
+      "en": "The Sorceress of Despair has regained her strength!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa421eee",
+      "en": "The Sorceress of Doubt has weakened and is vulnerable to attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f521b2",
+      "en": "A Warlord of Angmar is attacking the North Bulwark!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f86dbb",
+      "en": "Faelbenn's Bulwark is about to be attacked!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'We must hurry, [placeholder]! The Angmarim reinforcements are trying to cross the Rammas Deluon and are rallying near the various stones. Unfortunately we dare not cross the line of the stones, as there are foul Sorceresses supplicating the stones, making them more deadly than we have ever seen.\\n\\n'However, it is not all dark. The sorceresses cannot maintain their state for very long and their resolve will falter. At those moments, you must strike and defeat those sorceresses!\\n\\n'Do not forget though, if we are to maintain our blockade of the Rammas Deluon, our bulwarks must stand, so you must aid in their defence as well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'This was perhaps the greatest blow we have yet dealt to Angmar! It shows that they have become weakened, and it may soon be time for us to deal a final blow to them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'There is no more for us to do here...let us leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x905804e",
+      "en": "The Sorceress of Doubt has regained her strength!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Defeated Angmarim sorceresses ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Time expired",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf86dbb",
+      "en": "The South Bulwark is about to be attacked!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "A bulwark has fallen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "Faelbenn has been defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The Ranger Faelbenn has asked you to help him defeat the Angmarim reinforcements crossing Rammas Deluon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x905774e",
+      "en": "The Sorceress of Cowardice has regained her strength!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcae25a4",
+      "en": "The forces of Angmar rally near the Sorceress of Terror!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa321eee",
+      "en": "The Sorceress of Despair has weakened and is vulnerable to attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f52fb2",
+      "en": "A Warlord of Angmar is attacking the South Bulwark!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0bda51",
+      "en": "'Angmar will move against us soon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca325a4",
+      "en": "The forces of Angmar rally near the Sorceress of Despair!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca79bb2",
+      "en": "'My strength... is returning....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf21eee",
+      "en": "The Sorceress of Pain has weakened and is vulnerable to attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0bda52",
+      "en": "'You must be ready to strike at the Sorceresses when their resolve weakens.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca79bb3",
+      "en": "'My power returns....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0bda53",
+      "en": "'But remember, our bulwarks must not fall, or else all will be lost!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x905764e",
+      "en": "The Sorceress of Terror has regained her strength!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Faelbenn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f526b2",
+      "en": "A Warlord of Angmar is attacking the Northernmost Bulwark!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Defeat Angmarim sorceresses ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Quickly defeat the sorceresses",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Prevent bulwarks from falling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c60a84",
+      "en": "The Northernmost Bulwark has been defended!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Defend Faelbenn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Talk to Faelbenn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd015fd4",
+      "en": "The Sorceress of Cowardice has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd016fd4",
+      "en": "The Sorceress of Terror has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x905754e",
+      "en": "The Sorceress of Pain has regained her strength!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd017fd4",
+      "en": "The Sorceress of Pain has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae21eee",
+      "en": "The Sorceress of Terror has weakened and is vulnerable to attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Receive your orders from Faelbenn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd01bfd4",
+      "en": "The Sorceress of Despair has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Defeat the Angmarim sorceresses and prevent the reinforcements from crossing Rammas Deluon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c67a84",
+      "en": "The North Bulwark has been defended!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cbdcf1",
+      "en": "'Angmarim! Protect me....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcaf25a4",
+      "en": "The forces of Angmar rally near the Sorceress of Pain!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Victory is yours... you should speak again with Faelbenn at once.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca79b8",
+      "en": "'I must... give life to the stones....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cbdcf2",
+      "en": "'I am... in need of aid!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd01cfd4",
+      "en": "The Sorceress of Doubt has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cbdcf3",
+      "en": "'Come Angmarim! Stop them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca425a4",
+      "en": "The forces of Angmar rally near the Sorceress of Doubt!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c69a84",
+      "en": "The South Bulwark has been defended!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f52cb2",
+      "en": "A Warlord of Angmar is attacking Faelbenn's Bulwark!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c6aa84",
+      "en": "Faelbenn's Bulwark has been defended!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f86dbb",
+      "en": "The Northernmost Bulwark is about to be attacked!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad21eee",
+      "en": "The Sorceress of Cowardice has weakened and is vulnerable to attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Battle Before the Rammas Deluon",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

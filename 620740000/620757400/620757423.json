@@ -1,0 +1,4619 @@
+{
+  "id": 620757423,
+  "txt": [
+    {
+      "id": "0xe001f7d",
+      "en": "Gloom: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee8a915",
+      "en": "Requires no more than [placeholder] players in fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24fc349",
+      "en": "Durability [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54f697e",
+      "en": "Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3a8d8",
+      "en": " - ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x313ff42",
+      "en": "This is a monster player!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e86d85",
+      "en": "File: [placeholder] (0x[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97c47ec",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f758b",
+      "en": "Requires: Infamy Rank [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1317d2",
+      "en": "Can be used to repair the following item types:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb96f793",
+      "en": "Advancement Progress:  You are [placeholder]% of the way to your next level.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fe416e",
+      "en": "Duration: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b84d9",
+      "en": "Removes [placeholder] from [placeholder] initially",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e5ade4",
+      "en": "[placeholder]: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ad4f34",
+      "en": "Rot is imminent...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd808c44",
+      "en": "Cost: [placeholder] [placeholder] Per Second",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c53b09",
+      "en": "[placeholder], Rank [placeholder] to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45c74bc",
+      "en": "[placeholder]'s Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7c79ab",
+      "en": "Rank: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5784574",
+      "en": "Lock Status: Unlocked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf08713",
+      "en": "Resistances:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x205cd45",
+      "en": "You must be outside to use this skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedbb215",
+      "en": "Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6fe3779",
+      "en": "Can only be used when hooked.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85165e9",
+      "en": " and [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72534e3",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6ea343",
+      "en": "Barring Passive Skill: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde20ed5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0281b4",
+      "en": "[placeholder] Cost: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43392fc",
+      "en": "Wield #-1:{Effect[1]|Effects}: #-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a1f893",
+      "en": "Barring Passive {Skill|Skills[p]}: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3be7bd",
+      "en": "[placeholder]% break chance on harm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5b0fae",
+      "en": "This item can be used for crafting.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3989b5",
+      "en": "Adds #1:[placeholder] #2:[placeholder] #1:{points|point[1]} every #3:[placeholder] #3:{seconds|second[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5d83a9",
+      "en": "Empty Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76495fe",
+      "en": "[placeholder]:{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f8c245",
+      "en": "Created [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd58c9b2",
+      "en": "[placeholder] [placeholder] [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd522144",
+      "en": "[placeholder]% of your [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f18224",
+      "en": "Bind to Account On Acquire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77954ae",
+      "en": "Pattern: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebaeba4",
+      "en": "Vital Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc70ed94",
+      "en": "<rgb=#00FF00>Unlocked</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e64d92",
+      "en": "Written by [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39a2965",
+      "en": ": [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe440914",
+      "en": "Sets [placeholder] to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa076be3",
+      "en": "You must have less than [placeholder] [placeholder] points to use this skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87375a2",
+      "en": "Attacker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1e2ac5",
+      "en": "Allegiance Level: [placeholder]/[placeholder]\\nCurrent Points: [placeholder]/[placeholder]\\nTotal Points Earned: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30cd995",
+      "en": "\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf08752",
+      "en": " dmg.{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa82764",
+      "en": "Other Account",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d70e9b",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3469953",
+      "en": "Materials: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3d6abe",
+      "en": "This item is broken, and must be repaired before it can be equipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1cdff3",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8ba756",
+      "en": "-[placeholder] Skill Effect Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe75e92",
+      "en": "Your inventory contains more items that it should, you will be unable to pick up additional items until you have removed all items that are currently stored in the hidden overflow area.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x557503",
+      "en": "Effects applied to [placeholder] within [placeholder] metres: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x453f427",
+      "en": "Pending",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33097c4",
+      "en": "You can loot this corpse.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb86003",
+      "en": "Experience Stats:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc52fac3",
+      "en": "This component can be used as an optional ingredient when creating new items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ad1db5",
+      "en": "(AE) ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba06811",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf5d4a4",
+      "en": "Not earned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f826d5",
+      "en": "Current Instance: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ecd2c",
+      "en": "Wielder #-1:{Enhancement[1]|Enhancements}:#-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa42c86c",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab85625",
+      "en": "This house is currently unowned and available for purchase.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12975e4",
+      "en": "Minimum Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cd38ce",
+      "en": "Requires: [placeholder] Standing with [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x587f8c4",
+      "en": "You must slot all of these traits:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x432a424",
+      "en": "Requires [placeholder] work units.\\n\\n You contribute [placeholder] work units per second.\\n\\n Time to complete work: [placeholder]s",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f602e4",
+      "en": "You must not have failed the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb088329",
+      "en": "Killed by [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fe1a14",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8588062",
+      "en": "You must slot at least one of these traits:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d7327e",
+      "en": "<rgb=#666666>Purchased from store</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d343c3",
+      "en": "Shield Stats:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xecb2c3",
+      "en": "required summoner materials.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76af704",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d2eb4",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5eeeec",
+      "en": "Item Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63bb09c",
+      "en": "<rgb=#FF0000>Dread: [placeholder]</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdddfeb5",
+      "en": "This house is currently unowned, however it is not yet available for purchase.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d00285",
+      "en": "Encounter: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a871a4",
+      "en": "Worn on wrist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5a7ec4",
+      "en": "You must not have the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89b44ae",
+      "en": "Human",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4899ac",
+      "en": "Minimum Alignment Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40d6175",
+      "en": "   {{keepspaces}}[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c45662",
+      "en": "Applied Reinforcements:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8de624",
+      "en": "Worn on belt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4381bc3",
+      "en": "[placeholder] Attacks:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f3dac4",
+      "en": "Cost: [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x859b192",
+      "en": "Dye: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c69c8e",
+      "en": "When Morale goes above [placeholder]%,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87eacac",
+      "en": "Minimum item level for reinforcement: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea960cc",
+      "en": "Toggle Skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73c4a39",
+      "en": "Expires if out of combat for [placeholder] {seconds|second[1]}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75c1ba3",
+      "en": "<rgb=#EEEE99>[placeholder] DPS</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1c40d3",
+      "en": "Material Components:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe01b704",
+      "en": "Nothing Selected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9ae4f4",
+      "en": "<rgb=#FF0000>Locked</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9f5b3c",
+      "en": "Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e45f3",
+      "en": "Worn on legs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe97c994",
+      "en": "Fellowship Tradeable\\n(Bind To Character)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x312c320",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4331c0e",
+      "en": "Area-effect shape: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x373982e",
+      "en": "[placeholder]s [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92c33b4",
+      "en": "[placeholder], [placeholder][p]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf8b4a3",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8ff844",
+      "en": "Must use within a neighbourhood in which you or your kinship owns a house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc901e15",
+      "en": "Adjusts [placeholder] [placeholder] away from [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29692fc",
+      "en": "Next Skill: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46f859c",
+      "en": "Your Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9eee5",
+      "en": "<rgb=#EEEE99>Contains [placeholder] {items. | item.[1]}</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee2bafe",
+      "en": "[placeholder] : [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a9a0e4",
+      "en": "Area-effect target limit: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbd0c9b",
+      "en": "Rank: [placeholder] ([placeholder] <rgb=#00FF00>+ [placeholder]</rgb>)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8803194",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75c21c5",
+      "en": "<rgb=#FFFF00>Light of Eärendil: [placeholder]</rgb>\\n<rgb=#FF0000>Shadow of Mordor: [placeholder]</rgb>\\n<rgb=#7F7F7F>Effective Shadow: [placeholder]</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc186d9",
+      "en": "This can only be used at night",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc30d3d4",
+      "en": "Apply to target on critical:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bfa695",
+      "en": "Skill Type: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85f0b57",
+      "en": "Cooldown Remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd92133",
+      "en": "Armour Stats:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6dfa9e5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa476912",
+      "en": "Power: [placeholder] ( of [placeholder] )",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56238d2",
+      "en": "Tier [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45fb4f4",
+      "en": "Requires: [placeholder] traits in [placeholder] line slotted.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25684b2",
+      "en": "You have earned <rgb=#00FF00>[placeholder]</rgb> extra quest slots for being VIP.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c3ed14",
+      "en": "[placeholder], [placeholder][p]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x659a9f4",
+      "en": "Must use within a neighbourhood in which your kinship owns a house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e499bc",
+      "en": "Worn on:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ca3bd3",
+      "en": "User Effects:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe069334",
+      "en": "Power Of Light: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7809965",
+      "en": "[placeholder]: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2618b85",
+      "en": "Removes #1:[placeholder] #2:[placeholder] #1:{points|point[1]} every #3:[placeholder] #3:{seconds|second[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e7b4",
+      "en": "<rgb=#990000>Applied on removal if in combat:</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f936c4",
+      "en": "You must not have completed the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b6f422",
+      "en": "No Encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x632be8c",
+      "en": "Return [placeholder] points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8701d4",
+      "en": "%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa0ba53",
+      "en": "Clears All Gambits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3b2569",
+      "en": "[placeholder]% chance to:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b4c3d4",
+      "en": "Requires a locked proficiency of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7dea6d2",
+      "en": "Applied to master while summoned:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6818ab3",
+      "en": "This component can be used with recipes that create the following item type(s):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x841e9e0",
+      "en": "Available XP: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x319dd83",
+      "en": "Barring Effects:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51f92ae",
+      "en": "\\q[placeholder]\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5b4093",
+      "en": "Applies a title to a legendary weapon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88c8780",
+      "en": "You must be in a Kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x462e92",
+      "en": "<rgb=#666666>Bound to [placeholder]</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c674",
+      "en": "Single Use Recipe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16db389",
+      "en": "[placeholder]) [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb596a33",
+      "en": "Target Effects:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5dbe9c",
+      "en": "When in Position:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46ea2b2",
+      "en": "Owned by: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77133",
+      "en": "Missing a required active effect or item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7512d44",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb22c3",
+      "en": "required summonee materials.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x657b9d4",
+      "en": "Must not be [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdea6103",
+      "en": "This component can only be applied to items of the following type(s):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99f1219",
+      "en": "Fast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9cbbf6",
+      "en": "+[placeholder] Skill Effect Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4968965",
+      "en": "[placeholder] [placeholder] Mount Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea1104c",
+      "en": "Item #-1:{Enhancement[1]|Enhancements}: #-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b3ad12",
+      "en": "Apply to the source:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28faf35",
+      "en": "Barring Emote: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe97edf4",
+      "en": "Restricted Effect:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbff47a4",
+      "en": "<rgb=#ffffff>[placeholder]</rgb> ([placeholder]<rgb=#ff0000>-[placeholder]</rgb>)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf11864c",
+      "en": "Your raw [placeholder] must be at least [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d074dc",
+      "en": "Reinforcement points available: [placeholder] out of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa84ce19",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc69fe75",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb06d94",
+      "en": "Pets",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42d933c",
+      "en": "Channelled Skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73c7ab2",
+      "en": "<rgb=#990000>Starts Warband Manoeuvre</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51f4f4",
+      "en": "Fellowship Tradeable\\n(Bind To Account)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d0c8be",
+      "en": "Must have an alignment level of at least [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c7fa07",
+      "en": "+[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78ca1b4",
+      "en": "Cost: [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x604d149",
+      "en": "This can only be used during the day.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d709ae",
+      "en": "[placeholder],[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96b3b95",
+      "en": "(1 time) On",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1954ca9",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e844",
+      "en": "Requirements For [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f486d4",
+      "en": "Reflect [placeholder] of [placeholder]damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15c8825",
+      "en": "Receive [placeholder] damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8191455",
+      "en": "This skill can be used once every [placeholder] {seconds|second[1]}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89a60",
+      "en": "You must not be in a Kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d576f5",
+      "en": "Upkeep for this house is overdue!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdfaa95",
+      "en": "Immediate\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccdfb02",
+      "en": "any",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41ee7a5",
+      "en": "Socket Type: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c7ec59",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x687f7c5",
+      "en": "   {{keepspaces}}[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde44862",
+      "en": "+[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d4a1be",
+      "en": "[placeholder] adds [placeholder] of amount drained to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x498fd9e",
+      "en": "Can not summon in this area.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4c8765",
+      "en": "Value: [placeholder] {coins|coin[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea8a840",
+      "en": "Requires: [placeholder] ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3273acc",
+      "en": "Maximum repaired item level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacb496d",
+      "en": "This item is cosmetically equipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53aee45",
+      "en": "Execution time reduction: [placeholder] {seconds|second[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x169c142",
+      "en": "[placeholder]% Damage Received",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6292b1c",
+      "en": "Relics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5cf5a3",
+      "en": "{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63306e2",
+      "en": "Time Remaining: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3269364",
+      "en": "Impact on Alignment per Successful Combat Strike: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51902ae",
+      "en": "Name: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6c64bd",
+      "en": "Reputation Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4108fd3",
+      "en": "Progress: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xede6f69",
+      "en": "Occupancy: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfda2103",
+      "en": "Successful use will corrupt you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7902f13",
+      "en": "Damage Stats:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14e3669",
+      "en": "Adjusts [placeholder] [placeholder] away from [placeholder] initially",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ad68b0",
+      "en": "Item Level: <rgb=#00FF00>[placeholder]</rgb> ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618443",
+      "en": "Required reinforcement points to apply: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7435364",
+      "en": "Barring Trait: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf3bbc2",
+      "en": "On application:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7b3c6c",
+      "en": "Requires [placeholder] skill of [placeholder] to attempt repairs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8aa1b72",
+      "en": "Effects applied to item upon successful application:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fdb7bc",
+      "en": "Barring {Skill|Skills[p]}: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59598b4",
+      "en": "Maximum Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71d1b64",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x771463",
+      "en": "Weapon Stats:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ac25fe",
+      "en": "<rgb=#990000>Applied on expiration:</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6854e52",
+      "en": "Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e50c65",
+      "en": "-[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb39763",
+      "en": "This skill will be removed if you reclass.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8a0a6",
+      "en": "Elf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x244d65e",
+      "en": "Barred Terrain:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c10e74",
+      "en": "You must meet certain acquisition requirements for the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60bf1b",
+      "en": "  [placeholder] at Rank [placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f53ae",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2425084",
+      "en": "Cannot use with Effect: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde63f23",
+      "en": "Jewellry Stats:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f93f5f",
+      "en": "Cannot be a member of a fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeab4c64",
+      "en": "Requires [placeholder] of your [placeholder] minimum",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd920792",
+      "en": "[placeholder] [placeholder] [placeholder] [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ab4ac2",
+      "en": "Apply to the target:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8aba15",
+      "en": "You need #1:[placeholder] more #1:{ranks | rank[1]} in other traits in the whole tree ([placeholder]/[placeholder]).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bdff1c",
+      "en": "Requirements for Take:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65f463e",
+      "en": "Requires at least [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e244c2",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d0ff2",
+      "en": "\\nRank [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x973e0ee",
+      "en": "Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5be1504",
+      "en": "Reflect effect:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65f4648",
+      "en": "Requires at most [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f12c3e",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd67675",
+      "en": "Defence:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5347022",
+      "en": "Aura - affects Fellowship members within [placeholder] metres:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa81d20",
+      "en": "Not useable in Monster Play",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf81663",
+      "en": "This component can only be used to repair items of the following type(s):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fe2f94",
+      "en": "Barring {Trait|Traits[p]}: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x497cd27",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4450a0",
+      "en": "On Equip:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x103159c",
+      "en": "<rgb=#00FF00>Hope: [placeholder]</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x753cbf4",
+      "en": "Applied to self on critical:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf76762",
+      "en": "Additional requirements:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8cc4934",
+      "en": "Requires a locked craft mastery of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaee2ad5",
+      "en": "Deals [placeholder]-[placeholder] [placeholder][placeholder] ([placeholder]-[placeholder] base)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8da5d4",
+      "en": "Worn on feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x324a985",
+      "en": "Execution time decrease: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9293789",
+      "en": "Cannot Be Destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28d83e4",
+      "en": "Retry Quest: [placeholder] - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbeba73",
+      "en": "Effects applied to friends within [placeholder] metres: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd48624",
+      "en": "Monsters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa976764",
+      "en": "Cost: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71369d5",
+      "en": "Pending...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34b5934",
+      "en": "Target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87e0cac",
+      "en": "Maximum item level for reinforcement: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c201db",
+      "en": "Rank: [placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa427c6c",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf74749",
+      "en": "Penalty per balance level off optimal: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4095866",
+      "en": "A maximum of [placeholder] silver upkeep can be paid in advance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71274b2",
+      "en": "Description:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x113abdc",
+      "en": "Consumes all remaining [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6d7462",
+      "en": "You have earned <rgb=#00FF00>[placeholder]</rgb> extra quest slots through pre-order.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2d99d5",
+      "en": "Target mode: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9b795",
+      "en": "[placeholder]% chance to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x390cd35",
+      "en": "[placeholder]- [placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c9970",
+      "en": "Not Useable within kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf0eca4",
+      "en": "Worn on shield slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe647d9",
+      "en": "[placeholder]: [placeholder] chance of being consumed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe74d845",
+      "en": "Success chance decrease: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7df4f79",
+      "en": "x[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77df0e3",
+      "en": "Aura - affects targets within [placeholder] metres:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c94013",
+      "en": "This component can be used to reinforce existing items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5ab235",
+      "en": "[placeholder] - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd454a14",
+      "en": "<rgb=#666666>Bound</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da3dd4",
+      "en": "IID: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2677eb",
+      "en": "Area: +[placeholder] Gloom",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffb23fe",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6b9020",
+      "en": "Fellowship: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69ad2cb",
+      "en": "You must be of [placeholder] rank or higher in a Kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0ed1ab",
+      "en": "Requires: Kinship Rank [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c81704",
+      "en": "Apply to target on devastating critical:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe68889e",
+      "en": "Legacy Description:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bb21e5",
+      "en": "[placeholder] ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9686ee0",
+      "en": "Bind On Equip",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5e3954",
+      "en": "Starts Quest: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4645678",
+      "en": "Requires between [placeholder] and [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x563a704",
+      "en": "[placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb04ce25",
+      "en": "Already Known",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cfc4a4",
+      "en": "[placeholder]\\n[placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x554e360",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe863e2",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d4ce6b",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4d17ac",
+      "en": "Maximum Alignment Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7e766e",
+      "en": "Kingdom: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b4b164",
+      "en": "Account",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa74ca9",
+      "en": "Adjusts [placeholder] [placeholder] towards [placeholder] initially",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x373064",
+      "en": "[placeholder]% chance on [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6763785",
+      "en": "damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6d32cc",
+      "en": "Combat #-1:{Strike[1]|Strikes}:#-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56aaf35",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9613704",
+      "en": "[placeholder]% of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7c0085",
+      "en": "Adjusts [placeholder] [placeholder] towards [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12144be",
+      "en": "Contains #1:[placeholder] #1:{item[1]|items}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf251525",
+      "en": "[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4b5f24",
+      "en": "Must use within a neighbourhood in which you own a personal house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f3a4a3",
+      "en": "Allowed Targets:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54000f3",
+      "en": "<rgb=#00FF00>+</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x847f23c",
+      "en": "#-1:{Effect[1]|Effects}: #-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57246f4",
+      "en": "(This item is hooked)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fa8714",
+      "en": "Players",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4396094",
+      "en": "You must be at a certain stage in [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bebf14",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac2c98c",
+      "en": "Requires Character Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb812269",
+      "en": "Requires: [placeholder] [placeholder] Proficiency",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b679f3",
+      "en": "Required Effect(s):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe102ecc",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67e5e5",
+      "en": "Filename: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6a6383",
+      "en": "Arc ([placeholder] degrees with radius [placeholder] metres)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b7199e",
+      "en": "Recipe Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3cd7e5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc854ef4",
+      "en": "You must have deed '[placeholder]'.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x559b33",
+      "en": "Class: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc24a9c5",
+      "en": "Execution time increase: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa931584",
+      "en": "You must have completed quest '[placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8b99c0",
+      "en": "the Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6538cc4",
+      "en": "Purchase a travel bypass with Mithril Coins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab3ac49",
+      "en": "Resistance: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7ef85b",
+      "en": "#1:[placeholder] #1:{Point[1]|Points} to Next Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1164a25",
+      "en": "Sphere ([placeholder] metres radius)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x907b224",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eb4e08",
+      "en": "Health: [placeholder] ( of [placeholder] )",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ca05e5",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe934354",
+      "en": "You must not be at a certain stage in the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8f8a6b",
+      "en": "This is a blank [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdfd5aac",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x742a6f2",
+      "en": "Smoker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8b0645",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe96be74",
+      "en": "Equipped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87a8040",
+      "en": "Must use within a kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab13e6e",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x703d583",
+      "en": "Targeted at you,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8dd7f2",
+      "en": "Damage Source Qualifiers:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2dac79",
+      "en": "Sturdiness:  [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6552994",
+      "en": "Fast\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bbb3e2",
+      "en": "Apply to the caster:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ae8ce4",
+      "en": "Skills Earned: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf66e485",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x547870b",
+      "en": "Kinship Rank: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77409c5",
+      "en": "Destroyed on use.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73cd5ee",
+      "en": "Must be leader of a Kinship with members from at least [placeholder] unique accounts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46c9024",
+      "en": "Adds [placeholder] to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf74475c",
+      "en": "You have earned <rgb=#00FF00>[placeholder]</rgb> extra quest slots through mithril purchase.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68cb734",
+      "en": "Reward For Deeds:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ba834",
+      "en": "<rgb=#ffffff>[placeholder]</rgb> ([placeholder]<rgb=#00ff00>+[placeholder]</rgb>)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d9f494",
+      "en": "Has been unlocked through the webstore.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ec2574",
+      "en": "+[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf08ad5d",
+      "en": "Barter Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d8a5b3",
+      "en": "Worn on hands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3001ae4",
+      "en": "Receive [placeholder] damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x330f40e",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd88c0c",
+      "en": "Item level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41dbe1e",
+      "en": "Your rent is due.  Pay it off or you'll lose your house!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x699b46c",
+      "en": "Enchantment #-1:{Effect[1]|Effects}:#-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xada9212",
+      "en": "Contributes:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a084b3",
+      "en": "Cooldown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26e2af3",
+      "en": "Max Targets: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe447774",
+      "en": "+[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dce649",
+      "en": "Required repair facility: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59f2de4",
+      "en": "Target revives with [placeholder]% [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51fca69",
+      "en": "Reinforcement points available: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12e5462",
+      "en": "[placeholder] ([placeholder]-anchored)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27ef6f4",
+      "en": "You must not be completing the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86609a0",
+      "en": "No",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3587fc",
+      "en": "This item can be cosmetically equipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9329b4",
+      "en": "This house has been foreclosed, it can be repurchased by the leader of the Kinship that previously owned it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7ed4dc",
+      "en": "Requires Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x323bb3c",
+      "en": "Minimum Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbe9d63",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9555994",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed48f14",
+      "en": "Ready to Reforge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x151d6c4",
+      "en": "You must meet certain phase requirements for the '[placeholder]' quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51dbc35",
+      "en": "Radiance: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x304736b",
+      "en": "You have earned a higher rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f2c217",
+      "en": "You need at least two people in your fellowship before you can receive fellowship bonuses.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b705f2",
+      "en": "Apply to the target of [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb350e5",
+      "en": "[placeholder]% - [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x980d344",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x583e4d2",
+      "en": "Other",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x572f4fc",
+      "en": "Optimal balance level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf90b3",
+      "en": "This skill must be untrained in order to reclass.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff88704",
+      "en": "Bind to Account On Equip",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5e89cb",
+      "en": "Rank: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e9689",
+      "en": "Off-hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf52a9b5",
+      "en": "[placeholder][placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa461c5c",
+      "en": "You have [placeholder]% vitae.  Consequently, all of your vitals are reduced by this amount.  Other players can help you recover vitae, as can certain NPCs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x435ec14",
+      "en": "Lock Status: Locked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5f0564",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f722",
+      "en": "Requirements For You:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a1b3f2",
+      "en": "Reserved For: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb43a32",
+      "en": "<rgb=#990000>Starts Fellowship Manoeuvre</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4623714",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f5dba4",
+      "en": "<rgb=#00FF00>Hope: [placeholder] </rgb><rgb=#FF0000>(-[placeholder])</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcae73c",
+      "en": "Requires level [placeholder] item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc117063",
+      "en": "<rgb=#C3B585><b>Passive #-1:[placeholder] #-1:{bonuses: | bonus:[1]}</b></rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8a203",
+      "en": "Orc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe858d44",
+      "en": "[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7151383",
+      "en": "Structure points:  [placeholder]/[placeholder] ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x742cb4c",
+      "en": "Barring Skill: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x683fad4",
+      "en": "Restores [placeholder] of maximum [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea1732",
+      "en": "After every kill-",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f54224",
+      "en": "-[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ca2a4c",
+      "en": "Available at level [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac0affc",
+      "en": "#-1:{Effect[1]|Effects} when worn:#-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda25d42",
+      "en": "Worn on finger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ed8295",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9567ed2",
+      "en": "Reinforcement categories:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3286789",
+      "en": "[placeholder]% break chance on damage after [placeholder]s",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf692314",
+      "en": "Apply to target on Critical and Devastating Critical:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c19975",
+      "en": "Adds [placeholder] to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe88a8c4",
+      "en": "You must be completing [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f72ea3",
+      "en": "Can be performed with (left hand):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1378302",
+      "en": "Apply to the source of [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd324d03",
+      "en": "<rgb=#FF0000>You must purchase the Skirmish Trait Max Rank item in the LOTRO Store in order to earn this trait.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x896ef09",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2494823",
+      "en": "Radius: [placeholder]m",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c6a93b",
+      "en": "Rank: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e92a4b",
+      "en": "Area: +[placeholder] Radiance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6c6e63",
+      "en": "Anyone is allowed to own this house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83a3695",
+      "en": "[placeholder] Different Set Items Equipped:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875b0de",
+      "en": "Induction: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6052",
+      "en": "This is not a monster player.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20ef2f3",
+      "en": "Expires if out of combat for a short amount of time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x961f15c",
+      "en": "Creation attempts using this recipe cannot fail.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5af40d9",
+      "en": "[placeholder]% chance to apply",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d84299",
+      "en": "[placeholder]% chance to",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93c5acc",
+      "en": "Your cooldown remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffda505",
+      "en": "'[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23e1195",
+      "en": "Summons [placeholder] to your side.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1de4fa5",
+      "en": "Negate [placeholder] damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34e69e5",
+      "en": "Bind On Acquire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba909e5",
+      "en": "[placeholder]% break chance on damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c7620",
+      "en": "    - [placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47b7e32",
+      "en": "Caster",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3738b",
+      "en": "Next Rank:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea588c3",
+      "en": "Disenchants into:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe27fc4",
+      "en": "You must have less than [placeholder]% [placeholder] to use this skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9c37",
+      "en": "Earning",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f37a02",
+      "en": "Apply to the attacker:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d18a3c",
+      "en": "Worn on Craft Tool slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bdf684",
+      "en": "Hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x773fe9",
+      "en": " - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8d4113",
+      "en": "Can be performed with (right hand):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x924c89c",
+      "en": "Time until rot : ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1687a43",
+      "en": "Your class must be one of: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20e822",
+      "en": "You must be a subscriber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28b5915",
+      "en": "[placeholder] [placeholder] Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6a6468",
+      "en": "Box ([placeholder] metres long by [placeholder] metres wide)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a67665",
+      "en": "Offence:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e97255",
+      "en": "Adds [placeholder]-[placeholder] [placeholder] ([placeholder]-[placeholder] base) to implement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dca4f2",
+      "en": "Apply to the caster:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7fa0b2",
+      "en": "-[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfed62cc",
+      "en": "<rgb=#990000>Applied on removal:</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1279f4",
+      "en": "Next bonus slot: ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdc491c",
+      "en": "[placeholder]'s cooldown remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71698a5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f90d7b",
+      "en": "You have not earned this rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5faaa14",
+      "en": "You currently have [placeholder] item(s) in overflow:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x199867",
+      "en": "Warning:  Your kinship house may be revoked due to unfulfilled qualifications.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b64534",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ca9443",
+      "en": "Additional Benefit:\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7ae2c5",
+      "en": "You need #1:[placeholder] more #1:{ranks | rank[1]} earned in the whole tree ([placeholder]/[placeholder]).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4d38e3",
+      "en": "Requires an active gambit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe49bfc3",
+      "en": "(Restricted to guests)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66209b3",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabe2495",
+      "en": "Impact on Alignment: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fa4c93",
+      "en": "[placeholder] DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa79dbb3",
+      "en": "+ ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdaf5ae4",
+      "en": "(Based on [placeholder]):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x252c4a2",
+      "en": " {{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcaa5124",
+      "en": "+[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0e6d64",
+      "en": "When used:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fc14e2",
+      "en": "Members:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35cec23",
+      "en": "Your class must not be one of: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x716b0bc",
+      "en": "Alignment Level Between: [placeholder] and [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d4415",
+      "en": "Copper cost increase: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cdbddc",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x637d315",
+      "en": "Resistance: [placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1915c62",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7713714",
+      "en": " {{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11d9b2b",
+      "en": "Requires: Glory Rank [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c26945",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74cfb64",
+      "en": "Unable to complete your examination request at this time, please try again shortly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97ddc7c",
+      "en": "Weapon DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38c469e",
+      "en": "Successful execution of this recipe will result in the creation of '[placeholder]'.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab597de",
+      "en": "Worn on weapon slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb743285",
+      "en": "On every [placeholder] skill,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdbb3de",
+      "en": "You must have profession: [placeholder] proficient to Tier [placeholder] and master to Tier [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cdfd84",
+      "en": "[placeholder] + [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc20ca3e",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e4a695",
+      "en": "You must have the following trait slotted:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa187744",
+      "en": "Worn in pocket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17f35a4",
+      "en": "Allowed Equipment:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67fc704",
+      "en": "-[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9607f15",
+      "en": "Worth: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42413c4",
+      "en": "You must have profession: [placeholder] mastery locked at Tier [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14e098",
+      "en": "Requires at least [placeholder] max resevoir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a5fd12",
+      "en": "Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7887bc1",
+      "en": "Requires [placeholder] skill of [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64803b2",
+      "en": "Damage Mitigation:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc789ae4",
+      "en": "Adds:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d646d3",
+      "en": "Current Benefits:\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18774d1",
+      "en": "Worn in Pocket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8e769c",
+      "en": "Maximum Target Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc76d07",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3438793",
+      "en": "Progress: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfad18f4",
+      "en": "Unique Use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe601d4",
+      "en": "Requires [placeholder] [placeholder] minimum",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x551f971",
+      "en": "Required crafting facility: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x228d5f4",
+      "en": "On [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd12824c",
+      "en": "Requires Mount Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9a9c99",
+      "en": "Immediate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c79707",
+      "en": "-[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xded7342",
+      "en": "Combo Starter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8788b27",
+      "en": "Item binds in: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf33ec53",
+      "en": "<rgb=#00FF00>You have expanded your quest log to its maximum size from deeds.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8de98b",
+      "en": "Worn on Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe19dc27",
+      "en": "Item expires in: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde18345",
+      "en": "[placeholder] - [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf616255",
+      "en": "[placeholder] Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f99b45",
+      "en": "Removes [placeholder] from [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa9f5d5",
+      "en": "-",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fec525",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x476d8c2",
+      "en": "You must be a subscriber or have played this character while a subscriber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48edcb2",
+      "en": "Soldier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe57df5",
+      "en": "This component is consumed when used.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc485d6c",
+      "en": "Legacies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2199e5",
+      "en": "Requires [placeholder] players in fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd46a0d9",
+      "en": "[placeholder] Speed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe41725",
+      "en": "Lock Status: No lock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0be409",
+      "en": "[placeholder], Rank under [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85da7c4",
+      "en": "Must be [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2c62e4",
+      "en": "Negate [placeholder] damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ae5882",
+      "en": "Crafting attempt modifiers when used:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab6b748",
+      "en": "Requires: [placeholder] and [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd07d569",
+      "en": "[placeholder]% break chance on harm after [placeholder]s",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef99148",
+      "en": "Requires at least [placeholder] max health",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dced69",
+      "en": "Item Duration: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x640a225",
+      "en": "[placeholder]m Range",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8df0da4",
+      "en": "Worn on chest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd83abe4",
+      "en": "You must have profession: [placeholder] proficiency locked at Tier [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb226945",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec43be4",
+      "en": "<rgb=#990000>Applied on expiration if in combat:</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xada5d82",
+      "en": "[placeholder]% Damage Dealt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe87595",
+      "en": "Bonus Active Quest Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e258b",
+      "en": "Worn on neck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a37594",
+      "en": "+[placeholder] Hope",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f7f2c",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e3202",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd69e17e",
+      "en": "Item Level: <rgb=#B22222>[placeholder]</rgb> ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4ce3be",
+      "en": "[placeholder] is drained of [placeholder] of their current [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x357fec4",
+      "en": "Required Trait: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3aadb7f",
+      "en": "Founded on [placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fdaa3e",
+      "en": "[placeholder] : [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae88bb9",
+      "en": "Decoration Category: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f4342e",
+      "en": "[placeholder] gains [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x407880d",
+      "en": "Consumed On Use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6ebb90",
+      "en": "Total XP: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bc1108",
+      "en": "Requires at least [placeholder] max strength",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf71d90",
+      "en": "Needed for next level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ff4ede",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70eb400",
+      "en": "Enhancement Limit: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50be469",
+      "en": "[placeholder], Rank [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4bf4b4",
+      "en": "Quest: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x603bb3c",
+      "en": "Maximum Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50577d2",
+      "en": "Score Information:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75689fc",
+      "en": "Cooldown remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6742b41",
+      "en": "Home Area: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9328012",
+      "en": "[placeholder]% Healing Received",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91189a2",
+      "en": "Cost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x526fdd4",
+      "en": "Next upkeep collection is [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf816fec",
+      "en": "Total Armour Value: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6da3bf6",
+      "en": "Corpse of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc98f060",
+      "en": "Requires fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb44373e",
+      "en": "Contents Unknown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd609578",
+      "en": "Requires at least [placeholder] max dexterity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fd34a6",
+      "en": "There is currently [placeholder] silver upkeep paid in advance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3008219",
+      "en": "Crafted by [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ca0383",
+      "en": "Worn on shoulders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7872d65",
+      "en": "Unique",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd3b734",
+      "en": "Upkeep of [placeholder] silver is collected every [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x866e864",
+      "en": "You must have quest '[placeholder]'.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1762b5",
+      "en": "Your race must be one of:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d4e882",
+      "en": "Apply to self:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa867ff3",
+      "en": "Item powers:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73d9d03",
+      "en": "Effects applied to enemies within [placeholder] metres: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b344ae",
+      "en": "Required Terrain:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49079d5",
+      "en": "[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5328c4",
+      "en": "You cannot loot this corpse.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96f7f44",
+      "en": "You have earned <rgb=#00FF00>[placeholder]</rgb> extra quest slots through completed deeds.\\n\\n [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c31b74",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6ac314",
+      "en": "Applied Effects:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaedb5b9",
+      "en": "[placeholder]% chance to",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea54e24",
+      "en": "<rgb=#FF0000>Dread: [placeholder] </rgb><rgb=#00FF00>(+[placeholder])</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bdebe5",
+      "en": "[placeholder] Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x556ffe3",
+      "en": "Active when mounted on the War-steed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9018f35",
+      "en": "Time Remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbae769c",
+      "en": "Minimum Target Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a82a18",
+      "en": "You need to spend #1:[placeholder] more #1:{points | point[1]} in the [placeholder] branch ([placeholder]/[placeholder]).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac4d3f4",
+      "en": "Requires:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89f5f56",
+      "en": "Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3857527",
+      "en": "Cooldown Remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x108dd62",
+      "en": "Worn on ear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b42a9",
+      "en": "Main-hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x446cb85",
+      "en": "Morale: [placeholder] ( of [placeholder] )",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xded85df",
+      "en": "(Author IID is [placeholder], account ID is [placeholder].)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6dcbc1e",
+      "en": "When Morale goes below [placeholder]%,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x931f0d4",
+      "en": "On Defeat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d47f24",
+      "en": "<rgb=#666666>Bound to Account</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1894215",
+      "en": "[placeholder] - [placeholder] [placeholder] Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47b6794",
+      "en": "Required Effect:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x700d9f4",
+      "en": "Earned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57171e4",
+      "en": "[placeholder] and [placeholder][p]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc3ca3",
+      "en": "Max Players: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x751907e",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae86e45",
+      "en": "hit received",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe32b218",
+      "en": "Impact on Alignment when Killed: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c01837",
+      "en": "Quest Rating: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3519e94",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe276f84",
+      "en": "Requires: [placeholder] Trait Equipped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11ada74",
+      "en": "Self targetted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbce505",
+      "en": "Selection range: [placeholder] - [placeholder] metres",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74fd24",
+      "en": "[placeholder] [placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67f2c74",
+      "en": "Destroyed upon exiting the instance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dc352",
+      "en": "[placeholder] [placeholder] [placeholder] [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce39455",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb877363",
+      "en": "Applies a title to a legendary class item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1378485",
+      "en": "Next Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa043724",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4541c8e",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2d44b5",
+      "en": "Copper cost decrease: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98e2be0",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5d9875",
+      "en": "(Becomes available: [placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ab41c",
+      "en": "  {{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6bb9605",
+      "en": "Vital costs increase: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x938b759",
+      "en": "Adds [placeholder] to [placeholder] initially",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70c4698",
+      "en": "Requires at least [placeholder] maximum points of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4282563",
+      "en": "Owner Qualifications:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d23922",
+      "en": "Crafting costs when used:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bb863c",
+      "en": "Requirements for Use:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e98fb8",
+      "en": "** Translate Me **",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1328a4",
+      "en": "Password: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcab7163",
+      "en": "Requires Traits:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8649ebc",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6831950",
+      "en": "Attunes: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1f5293",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbddb973",
+      "en": "Clears [placeholder] #-1:{Gambit[1]|Gambits}#-1:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f93c84",
+      "en": "Requires raid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27a2ef4",
+      "en": "Slot requires purchase from the LOTRO Store.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3081a4e",
+      "en": "Channel Duration: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6bf3522",
+      "en": "Copper cost: [placeholder] pieces",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf38db32",
+      "en": "Aura - affects Group members within [placeholder] metres:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6453d1e",
+      "en": "When an effect is dispelled,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8b763e",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5474775",
+      "en": "Kinship: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad92d55",
+      "en": "[placeholder] - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb64863",
+      "en": "Apply to the target:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e91044",
+      "en": "+[placeholder] Dread",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9eec5f",
+      "en": "[placeholder] Speed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d7f97",
+      "en": "Damage [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb61479e",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x894f482",
+      "en": "On every skill,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa99a889",
+      "en": "Requires: [placeholder] [placeholder] Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37edf24",
+      "en": "When behind a target:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fd0392",
+      "en": "(Restricted to owner)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f2827c",
+      "en": "Armour Value: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9bee84",
+      "en": "[placeholder], [placeholder][p]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d81aa5",
+      "en": "[placeholder] - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ea3380",
+      "en": "There are too many players in the Ettenmoors at the moment.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cc2e83",
+      "en": "Successful use will purify you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bb9645",
+      "en": "Vital costs decrease: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xade6325",
+      "en": "[placeholder]m Range",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5acbcd3",
+      "en": "Effects to apply on revival:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf572e0e",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b4e403",
+      "en": "Required Passive Skill: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a87a75",
+      "en": "[placeholder] - [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccc0878",
+      "en": "Requires at least [placeholder] max intelligence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0f0875",
+      "en": "% vs. [placeholder], Max {{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3de24",
+      "en": "Receive effect:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32eb24c",
+      "en": "Natural",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5418ae",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e37324",
+      "en": "Return [placeholder] of damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86a0e9",
+      "en": "Crafted by [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3e24e",
+      "en": "For each effect dispelled,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7b0a29",
+      "en": "[placeholder] [placeholder] [placeholder], Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ba07ce",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf45babe",
+      "en": "[placeholder] is drained of [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x413ef2",
+      "en": "Requires: [placeholder] [placeholder] crafting ability",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7e9343",
+      "en": "Power Of Darkness: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b87914",
+      "en": "Must have quest [placeholder]: objective [placeholder]: operator [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f88b7c",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea417ec",
+      "en": "Requires at least [placeholder] players in fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde886c4",
+      "en": "Deactivated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77d764",
+      "en": "Weapon Speed: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x157f802",
+      "en": "Apply to the target(s):",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3aee05",
+      "en": "Execution time increase: [placeholder] {seconds|second[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc129b5",
+      "en": "Must be mounted on [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6b6973",
+      "en": "Additional repair requirements:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bc6a09",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49c5f2",
+      "en": "Healer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd29a46e",
+      "en": "Level Restriction: [placeholder] - [placeholder] ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f996e5",
+      "en": "<rgb=#666666>Purchased from store</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf345375",
+      "en": "On Use:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61f7132",
+      "en": "Every [placeholder] {seconds|second[1]}:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2db3a55",
+      "en": "[placeholder]'s Account",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x312028c",
+      "en": "You must be holding craft tool:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ec6e03",
+      "en": "[placeholder] [placeholder] points.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ca9044",
+      "en": "You must have failed [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d8564",
+      "en": "Worn on head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a81124",
+      "en": "You must have completed deed '[placeholder]'.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5bc4ae",
+      "en": "Your awareness of your surroundings has been reduced somewhat in order to help reduce a heavy processing load on your server.  Once the server returns to normal processing levels your awareness will be returned to normal.  Until that time you will not see objects as far away as you are accustomed to, and may notice objects popping into view suddenly as you move about the landscape.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7161114",
+      "en": "You can open an additional active quest slot for every [placeholder] deeds you complete.\\n\\n You can earn a total of [placeholder] additional active quest slots from completed deeds.\\n\\n [placeholder] Completed Deeds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x174d805",
+      "en": "Success chance increase: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40ec744",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f3c1e5",
+      "en": "Reflect [placeholder] [placeholder]damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58803e2",
+      "en": "You must have none of these traits slotted:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedffe14",
+      "en": "Not useable mounted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21091df",
+      "en": "Trait Type: [placeholder] ([placeholder]/[placeholder]){{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67f0968",
+      "en": "On",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b343e5",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x903c264",
+      "en": "At most [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b0e5d9",
+      "en": "Combat Delay: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x156bb49",
+      "en": "[placeholder]: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x128d9a8",
+      "en": "Requires [placeholder] - [placeholder] players in fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd56f15",
+      "en": "bonus",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9815973",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa521af2",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3cc4c4",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6459d85",
+      "en": "Current",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x947ff72",
+      "en": "Fellowship Manoeuvre Starter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9ae418",
+      "en": "You need #1:[placeholder] more #1:{ranks | rank[1]} in other traits in the [placeholder] branch ([placeholder]/[placeholder]).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a92d3",
+      "en": "Usage blocked by an active effect or item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcfddb7",
+      "en": "+[placeholder] Damage to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb38fbfe",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b26eb4",
+      "en": "Equipped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd7fd02",
+      "en": "[placeholder]% Maximum Morale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf3bfd4",
+      "en": "Subtracts [placeholder] of maximum [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe209e4c",
+      "en": "[placeholder] consumed: [placeholder] points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41456c",
+      "en": "Requires: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

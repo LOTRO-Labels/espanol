@@ -1,0 +1,881 @@
+{
+  "id": 621065368,
+  "txt": [
+    {
+      "id": "0xa8e11a1",
+      "en": "You have found the entrance to the Mossward blacksmith shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486b7f4",
+      "en": "'Well, what are you, then?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01154",
+      "en": "You have found one of the villains responsible for attacking the town of Mossward. What has brought goblins like this one to Swanfleet?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486b7f5",
+      "en": "'Bah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01155",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56848",
+      "en": "'You should follow Meneldir outside, [placeholder]! I will be right behind you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01156",
+      "en": "You have defeated the goblin, but he could not have set all these fires by himself. He surely has allies nearby.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a4",
+      "en": "The man standing inside the blacksmith shop, Meneldir, calls you to him",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd682221",
+      "en": "'Hey, don't go back there. Let Skardí work!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "Talk to Meneldir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d5d9d1",
+      "en": "'The town bells! Something is amiss outside!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a9",
+      "en": "The town is all a-bustle with activity. What has happened?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Talk to Geralt by the fountain in the town square\\n\\n<rgb=#00FF00>(You can move forward by pressing W, and steer to the left and right with your A and D keys)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "Talk to Meneldir and complete the quest 'A Larger World'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "'I think you'll find the people here to be friendly and welcoming, if you treat them kindly. Speak to Geralt by the fountain and see if I'm wrong.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08eda6",
+      "en": "Listen to what Meneldir has to say",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56853",
+      "en": "'But anyway, Mossward is a quiet village. Always has been! Cause no trouble and you can stay as you like. But first things first: you should pay a visit to our blacksmith, Skardí Bendblade. He'll clean and fix up your gear for you. His shop is just up those steps. Look for the sign with the anvil on it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend? You share some of the features of the folk who live in the Stoor-vales, nearby, but I deem you come not from their villages.'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of your most un-hobbitlike desire to see distant lands and wonders beyond the borders of the Shire, or of the dangers that even now encroach upon the lands of all free folk, compelling you to fight on behalf of those who cannot? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15869b1",
+      "en": "'Tegwyn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of your desire to leave the mountains of your own people in search of distant wonders and unfound treasure, or of the dangers that even now encroach upon the lands of all free folk, compelling you to fight on behalf of those who cannot? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15869b2",
+      "en": "'Oh, Tegwyn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01165",
+      "en": "Tegwyn's mother Wenna is grateful for your help saving her son from the Uruks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56858",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of your desire to see as much of the beauty of distant lands and wonders as you can, or of the dangers that even now encroach upon the lands of all free folk, compelling you to fight on behalf of those who cannot? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of a childhood spent learning the ways of your ancestor Beorn, from whom you and your siblings inherited the skin-changing ability with which you become ferocious bears in time of need? Or would you speak of the dangers that even now encroach upon the Vales of Anduin, threatening your family and those folk who live nearby? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x651c541",
+      "en": "'A stranger comes to Mossward, eh?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50271",
+      "en": "Defeat the Goblin Raider\\n\\n<rgb=#00FF00>(Right-click on the Goblin Raider to enter combat with the enemy)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x651c542",
+      "en": "'What brings you to Swanfleet?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "Meneldir and the folk of Mossward try to determine why the Uruks launched their raid upon the town.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x651c543",
+      "en": "'You're welcome to stay, if you cause no trouble for my folk.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50273",
+      "en": "Stand alongside Meneldir and remain alert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50277",
+      "en": "Talk to Wenna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56861",
+      "en": "'These Uruks have decorated their equipment with a sigil I have not seen before: the mark of a white hand. It may be the symbol of this raiding party, but for all the hurt this band has inflicted upon Mossward, they were still few in number and disorganized. What need have they for such a sigil? None now, thanks to our efforts, but still I wonder. I will think on it, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01170",
+      "en": "Meneldir stands by the gate of Mossward, considering the events of the last few minutes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50279",
+      "en": "Listen to Meneldir and the folk of Mossward discuss the Uruk raid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56864",
+      "en": "'I hope you don't mind me staring! We don't see many adventurers in these parts. The nearest we usually get is that Meneldir. Says he's a Ranger, but it seems to me that's just an excuse for having dirt on his clothes and disappearing into the wild at all hours...\\n\\n'But anyway, Mossward is a quiet village. Always has been! Cause no trouble and you can stay as you like. But first things first: you should pay a visit to our blacksmith, Skardí Bendblade. He'll clean and fix up your gear for you. His shop is just up those steps. Look for the sign with the anvil on it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2013601",
+      "en": "'The town is afire! We are under attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2013602",
+      "en": "'The bells have stopped. Are we safe?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01176",
+      "en": "Meneldir has a request for you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56868",
+      "en": "'Welcome to Mossward, friend. Your kind usually keeps to themselves over in the Stoor-vales, don't you? Unless you hail from somewhere else?'\\n\\nYou smile politely, but decide not to tell this curious guard about your home in Misthallow. Instead you say you have become an adventurer, seeking to help any who might need it.\\n\\n'An adventurer, you say? Well, so long as you cause no trouble for my folk, you are welcome to stay. It takes a hardy sort to make a living here on the edge of the wild, and the folk of Mossward will gladly put you to work, if you're willin'.\\n\\n'I think you'll find the people here to be friendly and welcoming, if you treat them kindly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Find the entrance to Mossward's blacksmith shop\\n\\n<rgb=#00FF00>(You can move forward by pressing W, and steer to the left and right with your A and D keys)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56869",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend? You share some of the features of the folk who live in the Stoor-vales, nearby... do you come from one of those villages, or from further away?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of your most un-hobbitlike desire to see distant lands and wonders beyond the borders of your home, or of the dangers that even now encroach upon the lands of all free folk, compelling you to fight on behalf of those who cannot? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Talk to Skardí Bendblade inside the Mossward blacksmith shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Wait for Skardí Bendblade to repair your equipment and set it on the counter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Equip your weapons and talk to Meneldir inside the blacksmith shop\\n\\n<rgb=#00FF00>(When you acquire new weapons and armour, you can press 'I' to see them in your Inventory. From there, you can equip them by right-clicking their icons, or by dragging them onto your Character Panel, which you can access by pressing 'C')</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Follow Meneldir outside to learn what trouble has come to Mossward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "The man standing inside the Mossward blacksmith shop, Meneldir, has called you to speak to him.\\n\\n<rgb=#00FF00>(When you acquire new weapons and armour, you can press 'I' to see them in your Inventory. From there, you can equip them by right-clicking their icons, or by dragging them onto your Character Panel, which you can access by pressing 'C')</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "The ringing of the town bells signals that danger has come to Mossward!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Meneldir has hurried outside the blacksmith shop, and you should follow him.\\n\\nThe ringing of the bells signals that some trouble has come to Mossward.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Eleri has called for everyone in Mossward to help protect the town from the ravages of the goblin raiding party.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56876",
+      "en": "'Thank you so much for saving our son from those horrible creatures! What were they? Some breed of Orc? Why would they come to Mossward?\\n\\n'We are most fortunate you were here, stranger!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "You have found the apparent leader of the raiding party, and he is no goblin... he is one of the fighting Uruk-hai!\\n\\nMadthrug leads the raiding party against Mossward, threatening the peaceful townspeople.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2dcaaf1",
+      "en": "'What do you make of this, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "You must defeat Madthrug to ensure the safety of Mossward!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Talk to Bevan at the gate of Mossward\\n\\n<rgb=#00FF00>(Move forward by pressing W, and right-click on Bevan to talk to him)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "The promise of adventure and a penchant for wandering has brought you to Mossward, a small settlement on the border of Swanfleet and Old Cardolan. What now awaits you?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Set your gear down on the counter\\n\\n<rgb=#00FF00>(Right-click on the sparkling location to set your gear down on the counter)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'I can see from the road dust on your clothes that you have travelled a great distance to be here, and so long as you cause no trouble for my folk, you are welcome to stay. It takes a hardy sort to make a living here on the edge of the wild, and the folk of Mossward will gladly put you to work, if you're willin'.\\n\\n'I think you'll find the people here to be friendly and welcoming, if you treat them kindly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Wait for Skardí Bendblade to go behind the counter\\n\\n<rgb=#00FF00>(Holding down the right mouse button allows you to spin your camera and keep people of interest in view)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'You're an adventurer, I can tell! What brings you to Mossward?'\\n\\nBefore you can answer, the dwarf goes right on talking.\\n\\n'This is a quiet village, and the folk here like it that way. I assume Bevan warned you not to disturb the peace? Of course he did. He says that to me near every fortnight, as if I might summon a troop of rowdy dwarves from my homeland at any moment! Bwahahaha! If only I could!\\n\\n'What did you say your name was?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Take your gear from the counter and talk to Skardí Bendblade\\n\\n<rgb=#00FF00>(Right-click on the satchel to open it and see its contents. Right-clicking on items inside a satchel will pick them up and put them into your inventory. You can press 'I' to see your Inventory.)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of an upbringing that gave to you a desire to see distant wonders, or of the dangers that even now encroach upon the lands of all free folk, compelling you to fight on behalf of those who cannot? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'I'm glad for any help you can give me. Stay close!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc785991",
+      "en": "'That's the way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Talk to Eleri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "You have helped to save Mossward from the ravages of the Uruks... but why did they come to the town in the first place?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4253041",
+      "en": "'Welcome to Mossward, traveller.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Prepare yourself to defend the villagers from Madthrug, leader of the raiding party",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Defeat Madthrug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Make sure Tegwyn is safe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "Skardí Bendblade is very interested to see an adventurer like you in the peaceful village of Mossward.\\n\\n<rgb=#00FF00>(Holding down the right mouse button allows you to spin your camera and keep people of interest in view)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13237b1",
+      "en": "Blacksmith Shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf2c031",
+      "en": "'I see Geralt is out and about. Why not introduce yourself to him?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Skardí Bendblade has asked you to set your gear down on the counter, and he will fix it up for free... this time.\\n\\n<rgb=#00FF00>(Right-clicking on the sparkling location will set your gear down on the counter)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae34a1",
+      "en": "'I am no adventurer, Skardí.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae34a2",
+      "en": "'I was a Ranger. It is quite different.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf586a51",
+      "en": "'Are you all right, son?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "'Just carrying around a bunch of equipment won't help you much in battle, as I'm sure you know. You want to be sure to equip your weapons before you get into a fight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67e6501",
+      "en": "'I'm not afraid, Mother!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "Skardí Bendblade has repaired your gear and invited you to pick it up from the counter. He eagerly waits for your feedback on the work he has done.\\n\\n<rgb=#00FF00>(Right-click on the sparkling satchel to open it and see its contents. Right-clicking on items inside a satchel will pick them up and put them into your inventory. You can press 'I' to see the contents of your Inventory)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67e6502",
+      "en": "'If I had a better sword I could have slain him myself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67e6503",
+      "en": "'I wasn't afraid!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e72",
+      "en": "You have failed to protect Mossward from the goblins!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc813151",
+      "en": "'I do not mean to pry. Your past is your own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc813152",
+      "en": "'What is that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc813153",
+      "en": "'Follow me! Hurry!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1152",
+      "en": "Defeated the Goblin Raider",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed50",
+      "en": "Follow Meneldir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Mossward, the Border Village",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf680eb2",
+      "en": "'The machinery of war has been set in motion!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf680eb3",
+      "en": "'The time of the Orc is at hand!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1581",
+      "en": "'There is trouble to the east, Meneldir. I need fighters!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1582",
+      "en": "'But what will you do, Meneldir?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1583",
+      "en": "'Rangers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1584",
+      "en": "'Follow me, my new friend. There will be fighting!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47cd5b1",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1585",
+      "en": "'I would not count on it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "The guard at the gate of Mossward greets you with a friendly smile, beckoning for you to approach.\\n\\n<rgb=#00FF00>(Move forward by pressing W, and right-click on Bevan to talk to him)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1586",
+      "en": "'What did I tell you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1587",
+      "en": "'Look ahead! Those are not goblins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Bevan at the gate recommended that you introduce yourself to Geralt, one of the residents of Mossward.\\n\\n<rgb=#00FF00>(Move forward by pressing W, turn to the left and right with A and D, and move backward by pressing S.)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1588",
+      "en": "'Me too, Skardí. Come with us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba3f31",
+      "en": "'You won't find a better smithy for miles around, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e1589",
+      "en": "'Mossward! Attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Skardí Bendblade is inside the Mossward blacksmith shop south of the gate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba3f32",
+      "en": "'Put your gear on the counter, and I'll fix it up for you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba3f33",
+      "en": "'Very good. Won't cost you anything, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba3f34",
+      "en": "'Not this time, anyway.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Wait for Skardí Bendblade to set your equipment on the counter, and then take it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba3f35",
+      "en": "'Here you go. It's important to have a fine weapon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f0b31",
+      "en": "'My chieftain Strider always said -'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e15830",
+      "en": "'Uruks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972921",
+      "en": "'Follow me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972922",
+      "en": "'Look there! We've found the villain!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972923",
+      "en": "'Show him no mercy, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972924",
+      "en": "'Well done, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972925",
+      "en": "'This goblin could not have set so many fires alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972926",
+      "en": "'Eleri, what news?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972927",
+      "en": "'My new friend here is capable, and will provide the help you need.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972928",
+      "en": "'I will circle around and search for the one who leads these goblins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9972929",
+      "en": "'Farewell, for now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f680e1",
+      "en": "'Not afraid?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f680e2",
+      "en": "'This rat hasn't heard of the fighting Uruk-hai, boys!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec742a1",
+      "en": "'The blacksmith shop is right there, up those steps.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f680e3",
+      "en": "'Kill them all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "The man leaning against the wall of the shop calls for your attention",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Listen to Meneldir and Skardí discuss events",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ac1",
+      "en": "Follow Eleri and help her protect the town",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Talk to Meneldir in the Mossward town square",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7eae91",
+      "en": "'Eleri! I see you met our new visitor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01141",
+      "en": "Skardí Bendblade is inside the Mossward blacksmith shop to the south-east of the fountain.\\n\\n<rgb=#00FF00>(Enter the Blacksmith Shop by right-clicking on the door to open it, and then press W to walk inside)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7eae92",
+      "en": "'I like this one much more than these others!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01144",
+      "en": "Wait for Skardí Bendblade to set your equipment on the counter, and then take it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "Madthrug rushes to attack you!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "Madthrug has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Enter the Mossward blacksmith shop to the south-east of the fountain.\\n\\n<rgb=#00FF00>(Right-click on the door to open it, and then move into the door by pressing W)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Wait for Skardí Bendblade to repair your equipment and set it on the counter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of the light of Valinor, long-remembered and much-missed, or of the friends you lost in the Battle of Dagorlad, before the gates of Mordor in the Second Age? Should you speak of the injury you sustained in that battle, and of your long period of recovery in the house of Elrond? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "#-1:[placeholder]'My friend Skardí speaks the truth: you do not want to stride into battle without your weapons equipped, for they will do you little good at the bottom of your bags. He is right on this point, as well: Mossward is a quiet village, and few adventurers come this way, let alone one who carries #-1:{herself[f]|himself} as you do. What road has brought you to Mossward on the border of Swanfleet, my friend?'\\n\\nYou consider what should be said of your past to this curious stranger. Would you speak of your long captivity in the land of Mordor, where your folk the Stout-axes toiled beneath the watchful eye of Sauron and his cruel servants? Should you speak of your escape from the Black Land and your desperate journey to lands free of Sauron's evil? Before you can choose the right words, Meneldir raises his palm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56843",
+      "en": "'Under attack? By whom?\\n\\n'This smells like Orcs to me, [placeholder], but I cannot understand it. Orcs have not troubled these lands for many years!\\n\\n'Come with me, and stay close. We will get to the bottom of this, and save the town if we must!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486b7f1",
+      "en": "'Oh, who's this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486b7f2",
+      "en": "'We don't see many adventurers in Mossward.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01152",
+      "en": "Mossward is under attack, and Meneldir needs your help to save the town.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486b7f3",
+      "en": "'I suppose Meneldir counts.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

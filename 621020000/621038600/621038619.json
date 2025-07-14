@@ -1,0 +1,191 @@
+{
+  "id": 621038619,
+  "txt": [
+    {
+      "id": "0xeb011a0",
+      "en": "Enid Nettlesting can be found at Trader's Wharf.\\n\\nYou should talk to Enid Nettlesting.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Wealth in Trust",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Scout the West-delf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Scout Blomley Sward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'While I find your words compelling, it is not for me to decide whether or not you join the League of the Axe. No, it is for your own skills and actions to decide. I will give you a test to prove yourself worthy of joining the League.\\n\\n'Knowing the land is an important skill for our cause. I ask of you to scout the hunting grounds and mine entrances in the Wildwood. There is more, however. Extracting resources from these lands in a way that does not hurt the Wildwood is just as important to our prosperity and survival. I ask of you to return with both pelts and samples of ore that you deem worthy of trade.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "'I see that you have accomplished all that I have asked, and with good judgement and knowledge. Do you think you can join the League of the Axe now? No, for you still need to be tested on your skill and your work ethic. The League works as a family. We all take turns repairing our traps, as without them, there would be no League.\\n\\n'I ask of you to repair the broken bear traps, fish traps, and sharpen pickaxes scattered around Trader's Wharf. If you accomplish all these tasks well, you will be a member of the League of the Axe. If you fail to repair any, you will only be welcome here to trade with us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Repair broken bear traps ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Scout Helva's Edge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Repair broken fish traps ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Scout Hunter's Ledge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Sharpen dull pickaxes ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "Collected ore samples ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "Collected pelts from beasts in the Wildwood ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "Broken traps and dull pickaxes can be found at Trader's Wharf.\\n\\nYou should repair these items for the League of the Axe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Enid Nettlesting can be found at Trader's Wharf.\\n\\nYou should talk to Enid Nettlesting.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "The League of the Axe wishes to hunt the forests and mine the hills of the Wildwood of Bree-land, once the woods have been properly scouted.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Blomley Sward, Helva's Edge, Hunter's Ledge, the East-delf, and the West-delf can all be found in the Wildwood.\\n\\nYou should collect ore samples and animal pelts from moose, wolves, bears, and boars, for the League of the Axe as you survey the Wildwood.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'I am impressed by your skills and all which you have accomplished for us on this day. Welcome to the League of the Axe, [placeholder]. May you earn our trust in time and may we all prosper in the Wildwood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "Foes have descended upon the East-delf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Enid Nettlesting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1172",
+      "en": "Many foes have secured the West-delf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a1",
+      "en": "Beasts roam wild at Blomley Sward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Collect ore samples ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "Repaired broken bear traps ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "Beasts roam free at Helva's Edge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Collect pelts from beasts in the Wildwood ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "Repaired broken fish traps ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "Herds roam at Hunter's Ledge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Scout the East-delf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e20",
+      "en": "Talk to Enid Nettlesting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "Sharpened dull pickaxes ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

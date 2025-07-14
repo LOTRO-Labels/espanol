@@ -1,0 +1,2663 @@
+{
+  "id": 620757490,
+  "txt": [
+    {
+      "id": "0xeb4884c",
+      "en": "Minstrel Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb954e51",
+      "en": "Jeweller Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb954e52",
+      "en": "Jeweller Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb954e53",
+      "en": "Jeweller Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb954e54",
+      "en": "Jeweller Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93aba47",
+      "en": "Ring[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb954e55",
+      "en": "Jeweller Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67f6efe",
+      "en": "Ammunition",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed2",
+      "en": "Woodworking Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed3",
+      "en": "Woodworking Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd838594",
+      "en": "High Bidder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed4",
+      "en": "Woodworking Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed5",
+      "en": "Woodworking Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed6",
+      "en": "Woodworking Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14d0dc9",
+      "en": "Forestry Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed7",
+      "en": "Woodworking Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed8",
+      "en": "Woodworking Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a87ed9",
+      "en": "Woodworking Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x716b3d2",
+      "en": "Club",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee309dc",
+      "en": "Oils",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2dbae25",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16f66f4",
+      "en": "Posting Fee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2eb87d4",
+      "en": "Feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8a4665",
+      "en": "Light Mace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24b07c7",
+      "en": "Food - Fortifying",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe67e4e2",
+      "en": "Cure Fear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4086c3",
+      "en": "Lute Strings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb86500",
+      "en": "Kinship: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x284ac13",
+      "en": "Sealed & Fused Relics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28b94d3",
+      "en": "Special",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f62",
+      "en": "Prospecting Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f63",
+      "en": "Prospecting Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdfd342c",
+      "en": "Legendary Scrolls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f64",
+      "en": "Prospecting Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f65",
+      "en": "Prospecting Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f66",
+      "en": "Prospecting Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f67",
+      "en": "Prospecting Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f68",
+      "en": "Prospecting Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6453347",
+      "en": "Piercing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa6f69",
+      "en": "Prospecting Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc10f35c",
+      "en": "Maul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0cd933",
+      "en": "Lone-lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae638d4",
+      "en": "Pet Food",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5487182",
+      "en": "Great Club",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa48cf82",
+      "en": "Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ee39d3",
+      "en": "Legacy Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x308dce5",
+      "en": "Current Price",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe285aa5",
+      "en": "Runes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dcd01",
+      "en": "Forestry Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dcd02",
+      "en": "Forestry Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53ee012",
+      "en": "You are already the high bidder on this auction!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dcd03",
+      "en": "Forestry Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc44aba2",
+      "en": "24 Hours",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dcd04",
+      "en": "Forestry Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dcd05",
+      "en": "Forestry Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5929004",
+      "en": "Short Sword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3fc5b2",
+      "en": "Morningstar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ba073",
+      "en": "Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebe40b1",
+      "en": "Moria",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x811ed74",
+      "en": "Search",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x882adf3",
+      "en": "Legs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd65e",
+      "en": "Shuriken",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44c461",
+      "en": "Tailor Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44c462",
+      "en": "Tailor Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44c463",
+      "en": "Tailor Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44c464",
+      "en": "Tailor Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44c465",
+      "en": "Tailor Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce09885",
+      "en": "Stat Tomes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4d82b5",
+      "en": "Double Mace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6c6e14",
+      "en": "Shield - Heavy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ac61a3",
+      "en": "Shoulders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce04e3b",
+      "en": "Perks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b50df",
+      "en": "72 Hours",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc14976",
+      "en": "Quarterstaff",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb92c6a5",
+      "en": "Morale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81a649e",
+      "en": "Warden Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe69454",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb637224",
+      "en": "An internal error has occurred while trying to obtain information about the item going up for auction.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd775f5",
+      "en": "Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf526302",
+      "en": "Farming Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf526303",
+      "en": "Farming Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f37679",
+      "en": "Hobbies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf031d4",
+      "en": "Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf526304",
+      "en": "Farming Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f86e7",
+      "en": "Warden Carvings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf526305",
+      "en": "Farming Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c08d44",
+      "en": "Stat:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd603923",
+      "en": "Exotic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xace5062",
+      "en": "Dagger[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa66762",
+      "en": "Angmar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff0b744",
+      "en": "This item does not have a buyout price set",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd11fe64",
+      "en": "Bastard Sword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23002d2",
+      "en": "Scimitar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8600ac4",
+      "en": "You cannot afford the bid you are trying to place!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8daaff7",
+      "en": "Bow[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d40e60",
+      "en": "Sort listings by current unit price for item stacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe043b01",
+      "en": "Weaponsmith Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe043b02",
+      "en": "Weaponsmith Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe043b03",
+      "en": "Weaponsmith Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe043b04",
+      "en": "Weaponsmith Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1faf7c3",
+      "en": "Shield Spikes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe043b05",
+      "en": "Weaponsmith Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12044c2",
+      "en": "Tailor Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a7c7de",
+      "en": "Decoration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8530673",
+      "en": "Simple",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39af140",
+      "en": "Sort listings by current price.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42c4707",
+      "en": "The bid you are trying to place is too low!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9112b7",
+      "en": "Light Crossbow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3a5d95",
+      "en": "Legendary[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb79767c",
+      "en": "Food - Trail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8430f15",
+      "en": "Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dab422",
+      "en": "Hammer: Two-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3eb703",
+      "en": "Song Books",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccbeb3",
+      "en": "Martial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2878bc",
+      "en": "Burglar Tools & Devices",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2816a4",
+      "en": "Wands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4a74e2",
+      "en": "Barter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb2bf24",
+      "en": "Post Auction",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dab012",
+      "en": "Rune-stone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61e9d9b",
+      "en": "Heavy Pick",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe31e990",
+      "en": "Sort listings by name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35894a1",
+      "en": "Scholar Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35894a2",
+      "en": "Scholar Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35894a3",
+      "en": "Scholar Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35894a4",
+      "en": "Scholar Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97e3b05",
+      "en": "Axe: Two-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35894a5",
+      "en": "Scholar Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca2e734",
+      "en": "Class:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e733a7",
+      "en": "Crossbow[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc61b7e",
+      "en": "Thrown Weapon[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e64072",
+      "en": "Burglar Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816d64",
+      "en": "Head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2f58bb",
+      "en": "Book",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe626c5",
+      "en": "Poles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6af4d14",
+      "en": "Buyout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda919e5",
+      "en": "Necklace[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6339c62",
+      "en": "Rune-keeper Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcaa410e",
+      "en": "Champion Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0d6c5c",
+      "en": "Req Lvl: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x695be54",
+      "en": "Ingredients",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29aceb7",
+      "en": "Healing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358942",
+      "en": "Scholar Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358943",
+      "en": "Scholar Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358944",
+      "en": "Scholar Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358945",
+      "en": "Scholar Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358946",
+      "en": "Scholar Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358947",
+      "en": "Scholar Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358948",
+      "en": "Scholar Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358949",
+      "en": "Scholar Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x411748c",
+      "en": "Forochel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6af458",
+      "en": "Lock-boxes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea4af94",
+      "en": "Craft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8162533",
+      "en": "Hands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebac593",
+      "en": "Hands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34d7e04",
+      "en": "Unit Buyout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e98e84",
+      "en": "** Translate Me **",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb437b3",
+      "en": "Legacy Scrolls [E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x957313e",
+      "en": "Time Remaining: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8587c0c",
+      "en": "Scrolls & Scroll Cases",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83c1200",
+      "en": "Sort listings by current unit buyout price for item stacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697bad2",
+      "en": "Dagger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa876107",
+      "en": "Beorning Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b2",
+      "en": "Weaponsmith Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b3",
+      "en": "Weaponsmith Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33861db",
+      "en": "Light Pick",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b4",
+      "en": "Weaponsmith Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b5",
+      "en": "Weaponsmith Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe1f8e4",
+      "en": "Bait",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b6",
+      "en": "Weaponsmith Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b7",
+      "en": "Weaponsmith Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b8",
+      "en": "Weaponsmith Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e043b9",
+      "en": "Weaponsmith Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x502141c",
+      "en": "Special Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2f1aa3",
+      "en": "Gems",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee30de9",
+      "en": "Key",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe1c078",
+      "en": "Fish",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf437ade",
+      "en": "Duration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e3bd22",
+      "en": "Club: Two-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaeec8a5",
+      "en": "Current",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe286a7b",
+      "en": "Task Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd382",
+      "en": "Metalworking Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd383",
+      "en": "Metalworking Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b622bc",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd384",
+      "en": "Metalworking Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd385",
+      "en": "Metalworking Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95cf6e5",
+      "en": "Collectables",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd386",
+      "en": "Metalworking Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa6f6d1",
+      "en": "Prospecting Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd387",
+      "en": "Metalworking Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa6f6d2",
+      "en": "Prospecting Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd388",
+      "en": "Metalworking Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa6f6d3",
+      "en": "Prospecting Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79bd389",
+      "en": "Metalworking Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa6f6d4",
+      "en": "Prospecting Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa962fc",
+      "en": "Your Money:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa6f6d5",
+      "en": "Prospecting Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19698d3",
+      "en": "Weapons",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb7d8c5",
+      "en": "Shire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ec67f3",
+      "en": "Legs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93b64fc",
+      "en": "Craft Tools",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f342a5",
+      "en": "Initial Price",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35487c5",
+      "en": "Great Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6085ea2",
+      "en": "Lore-master Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1b9542",
+      "en": "Jeweller Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf628dd4",
+      "en": "Item Not Found",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfe7434",
+      "en": "Docent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3dd12d",
+      "en": "You have to drag an item from your inventory to the Auction Item box before you can post it",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e1c49",
+      "en": "Kukri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x263df83",
+      "en": "Miscellaneous",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84383c2",
+      "en": "Rapier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdab5e15",
+      "en": "Mace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe587484",
+      "en": "Unidentified",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b60e14",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa57f504",
+      "en": "Bids: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5726cd5",
+      "en": "Battle Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a305c",
+      "en": "Travel & Maps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6509ea4",
+      "en": "Cure Wound",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6e21b5",
+      "en": "Festival",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ad39e5",
+      "en": "Drink - Fine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe69b05",
+      "en": "Axe: One-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x614784e",
+      "en": "Javelin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9172782",
+      "en": "Armour: Medium",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85c1604",
+      "en": "Shield - Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f4be82",
+      "en": "Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4a6f4c",
+      "en": "Optional Ingredients",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0f349c",
+      "en": "Rune-satchel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadc5e54",
+      "en": "Sword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefba954",
+      "en": "The auction system is currently disabled. You can cancel your auctions to the right if you wish but all other auction functionality is temporarily disabled. Please check back later.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5631c05",
+      "en": "Buyout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbaf96f5",
+      "en": "Dwarven Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b00735",
+      "en": "Sickle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x828c2f2",
+      "en": "War Hammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe02da43",
+      "en": "North Downs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebd2d84",
+      "en": "Chest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ea80f2",
+      "en": "Light Hammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c861f5",
+      "en": "Item Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8f34ce",
+      "en": "Are you sure you want to cancel the selected auction?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64ffe49",
+      "en": "Trophy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6894964",
+      "en": "Sword: One-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x848ff27",
+      "en": "The Buyout price of an auction cannot be lower than the initial price.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d7f79",
+      "en": "Unrestricted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6a0965",
+      "en": "Mace[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85c813c",
+      "en": "Auction",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ff5ee5",
+      "en": "Cure Disease",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c16033",
+      "en": "Shields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd08fd5",
+      "en": "Level Range",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3dd1de",
+      "en": "Ered Luin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6239fe1",
+      "en": "Cooking Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6239fe2",
+      "en": "Cooking Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6239fe3",
+      "en": "Cooking Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe88e0d5",
+      "en": "Resources",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2da4815",
+      "en": "Hand Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6239fe4",
+      "en": "Cooking Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6239fe5",
+      "en": "Cooking Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cea828",
+      "en": "Cloth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffa1a67",
+      "en": "Longbow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa938127",
+      "en": "Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0be974",
+      "en": "Long Sword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25c38f7",
+      "en": "Drink - Strong",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a9450e",
+      "en": "Captain Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16b5244",
+      "en": "Held[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a64032",
+      "en": "Brawler Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe294ff4",
+      "en": "Sword: Two-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cb5904",
+      "en": "Food - Cooked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd419b94",
+      "en": "Buyout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x685a137",
+      "en": "Shortbow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x679bd3b",
+      "en": "Metalworking Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2ba134",
+      "en": "Auctions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59ce153",
+      "en": "Cosmetic Pets",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadcf352",
+      "en": "Spear[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e0438",
+      "en": "Weaponsmith Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8814dd4",
+      "en": "Feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293be0",
+      "en": "Sort listings by buyout cost.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xead5a25",
+      "en": "Heavy Mace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74acd03",
+      "en": "Shoulders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce36099",
+      "en": "Jewellery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2eba764",
+      "en": "Head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d64374",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c0c154",
+      "en": "Sort:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb334f19",
+      "en": "Useable",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8daae75",
+      "en": "Axe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x282f304",
+      "en": "Pipe-weed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71f1804",
+      "en": "Cancel Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c42",
+      "en": "Tailor Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c43",
+      "en": "Tailor Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c44",
+      "en": "Tailor Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c45",
+      "en": "Tailor Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c46",
+      "en": "Tailor Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c47",
+      "en": "Tailor Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c48",
+      "en": "Tailor Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c78f58",
+      "en": "-",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2044c49",
+      "en": "Tailor Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9aa6f7",
+      "en": "Prospecting Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3acf97",
+      "en": "Repeating Heavy Crossbow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x419c31c",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8118d24",
+      "en": "Chest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28d6f63",
+      "en": "Quality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc5e15e",
+      "en": "Falchion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d7a557",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd71f00c",
+      "en": "Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e2",
+      "en": "Jeweller Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e3",
+      "en": "Jeweller Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8efa434",
+      "en": "Bids: ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e4",
+      "en": "Jeweller Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47fec97",
+      "en": "Repeating Light Crossbow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64f5262",
+      "en": "Farming Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e5",
+      "en": "Jeweller Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e6",
+      "en": "Jeweller Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94f02a4",
+      "en": "Unarmed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e7",
+      "en": "Jeweller Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e8",
+      "en": "Jeweller Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e91d97",
+      "en": "Earring[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b954e9",
+      "en": "Jeweller Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30d7de7",
+      "en": "The initial price of an auction must be at least 100gp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2928878",
+      "en": "Implement: Two-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa87edd1",
+      "en": "Woodworking Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7058dd",
+      "en": "Medium",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20709f3",
+      "en": "#1:[placeholder] #1:{Legacy[1]|Legacies}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe709f64",
+      "en": "Bracelet[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa87edd2",
+      "en": "Woodworking Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa87edd3",
+      "en": "Woodworking Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x966805e",
+      "en": "Guardian Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa87edd4",
+      "en": "Woodworking Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2f18b4",
+      "en": "Food & Drink",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa87edd5",
+      "en": "Woodworking Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87666c3",
+      "en": "Essences",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1d9ede",
+      "en": "Thrown Weapon[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9c0ecc",
+      "en": "Auction",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bd3831",
+      "en": "Metalworking Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bd3832",
+      "en": "Metalworking Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bd3833",
+      "en": "Metalworking Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bd3834",
+      "en": "Metalworking Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bd3835",
+      "en": "Metalworking Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2928888",
+      "en": "Implement: One-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31cc8fc",
+      "en": "Skill Scrolls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fa5624",
+      "en": "Halberd[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x951b24",
+      "en": "The bid you are trying to place exceeds the buyout price!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd05e995",
+      "en": "You cannot afford to pay the posting fee of this auction.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa40f800",
+      "en": "Sort listings by duration.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdeff96c",
+      "en": "Show All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe287a60",
+      "en": "Traps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ef4af8",
+      "en": "Khopesh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39a87eb",
+      "en": "Woodworking Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2a9615",
+      "en": "Unit Price",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8be29e2",
+      "en": "Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd14f7e",
+      "en": "You cannot bid on an auction you have posted.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3b5f39",
+      "en": "Legendary item legacies:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d435a7",
+      "en": "Heavy Crossbow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa37f843",
+      "en": "Throwing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16b3dfb",
+      "en": "Back[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x170caed",
+      "en": "Auction Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87b88d9",
+      "en": "Craft Trophies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x346d518",
+      "en": "Posts: [placeholder]/[placeholder] ([placeholder] available for purchase)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859f2",
+      "en": "Dagger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49605d4",
+      "en": "Great Sword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb044247",
+      "en": "Slashing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed5c07c",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4428d3",
+      "en": "Potions & Salves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x267a6b4",
+      "en": "Shield - Warden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72bed37",
+      "en": "Bludgeoning",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ebcb8b",
+      "en": "Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff75a94",
+      "en": "You are trying to bid more on an item than it would cost to just buy it out",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9dadda2",
+      "en": "Hammer: One-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe25073",
+      "en": "Other",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14b6b4",
+      "en": "Bid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bac663",
+      "en": "Premium Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1270eb7",
+      "en": "Fishing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd54542e",
+      "en": "An internal error has occured. The duration of this auction is invalid.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f2",
+      "en": "Cooking Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf7554",
+      "en": "Concede",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e841c8",
+      "en": "Cloth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f3",
+      "en": "Cooking Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x184af42",
+      "en": "8 Hours",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f4",
+      "en": "Cooking Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f5",
+      "en": "Cooking Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f6",
+      "en": "Cooking Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3ab4e2",
+      "en": "Hunter Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f7",
+      "en": "Cooking Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f8",
+      "en": "Cooking Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6239f9",
+      "en": "Cooking Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6917d03",
+      "en": "Paints & Surfaces",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad924f9",
+      "en": "of",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b57d14",
+      "en": "Instruments",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b4427e",
+      "en": "Potion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x184c127",
+      "en": "Clothing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x367a609",
+      "en": "Legendary Items [E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf372454",
+      "en": "Please Wait...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b87f52",
+      "en": "Armour: Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x498e443",
+      "en": "Recipes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x388ded9",
+      "en": "Kinship Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e0afb9",
+      "en": "Heavy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2004e44",
+      "en": "Bids",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda15103",
+      "en": "Armaments & Standards",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1f5222",
+      "en": "48 Hours",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e07abe",
+      "en": "You need to select something first",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a6239b",
+      "en": "Cooking Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97038f4",
+      "en": "Sell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ea7a35",
+      "en": "Bree-land",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26615a1",
+      "en": "Kama",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2878cd3",
+      "en": "Tools",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8ba613",
+      "en": "Outfits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccdad6d",
+      "en": "Class Quest Trophies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6086bf3",
+      "en": "Stat Categories: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e35892",
+      "en": "Scholar Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52632",
+      "en": "Farming Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52633",
+      "en": "Farming Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52634",
+      "en": "Farming Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa98bed4",
+      "en": "Components",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52635",
+      "en": "Farming Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f61b9b",
+      "en": "Cloak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52636",
+      "en": "Farming Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec3b85",
+      "en": "Buyout Price (Optional)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45b683e",
+      "en": "Cure Poison",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52637",
+      "en": "Farming Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52638",
+      "en": "Farming Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f52639",
+      "en": "Farming Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7554142",
+      "en": "Runes of Power [E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1013132",
+      "en": "4 Hours",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf69344",
+      "en": "Posts: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe69bd42",
+      "en": "Club: One-handed[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f7bb02",
+      "en": "Armour: Heavy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea09e0b",
+      "en": "Lore-master Books",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadc3015",
+      "en": "Staff[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6beeb4",
+      "en": "Guardian Belts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x646fcbd",
+      "en": "Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b441f4",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee2f7d5",
+      "en": "Dye",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbeb215",
+      "en": "Pocket[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4f69ce",
+      "en": "Duration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75b4e24",
+      "en": "Outbid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb145de2",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x881018b",
+      "en": "Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e4045d",
+      "en": "Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d2b303",
+      "en": "Trollshaws",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x280e2ce",
+      "en": "Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd2",
+      "en": "Forestry Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd3",
+      "en": "Forestry Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd4",
+      "en": "Forestry Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd5",
+      "en": "Forestry Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd6",
+      "en": "Forestry Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd7",
+      "en": "Forestry Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd8",
+      "en": "Forestry Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d0dcd9",
+      "en": "Forestry Tier 9",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

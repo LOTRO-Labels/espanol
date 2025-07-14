@@ -1,0 +1,149 @@
+{
+  "id": 620757453,
+  "txt": [
+    {
+      "id": "0x6495065",
+      "en": "Team 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7495065",
+      "en": "Team 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b67825",
+      "en": "You may enter a maximum of three solo instances per day.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe78437e",
+      "en": "You are unable to join the instance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f94ce4",
+      "en": "You cannot enter this instance while in a raid.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8d1365",
+      "en": "You do not meet the requirements.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d979e",
+      "en": "Are you sure you want to leave this instance?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aa6fd7",
+      "en": "Leave Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd28124",
+      "en": "You are in a queue and will be teleported in a moment.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x277ee15",
+      "en": "You may not enter this encounter more than once an hour.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x496a040",
+      "en": "You cannot enter this instance while in a group.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e2a7eb",
+      "en": "Exceeded allowed number of skirmishes per week.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc93b95e",
+      "en": "Are you sure you want to end this cinematic?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b18cb5",
+      "en": "You may enter up to [placeholder] instances per [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7eb093c",
+      "en": "Do you want to travel to your fellowship?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53830d5",
+      "en": "You have been selected to join [placeholder] for [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fa6b87",
+      "en": "Your private encounter will shutdown in #1:[placeholder] #1:{minute[1]|minutes}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf90c2c4",
+      "en": "Your fellowship has started Private Encounter [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a61dc3",
+      "en": "You have too many players in your group for this instance. Max players [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4295f44",
+      "en": "You cannot enter while your party is locked in combat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf88600",
+      "en": "[placeholder]\\nYou may enter another instance in [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc0b705",
+      "en": "You may not enter this encounter more than once a day.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9752f82",
+      "en": "You will be removed from the encounter in [placeholder] seconds.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb862cd5",
+      "en": "Unfellowed",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

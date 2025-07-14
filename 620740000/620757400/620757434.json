@@ -1,0 +1,209 @@
+{
+  "id": 620757434,
+  "txt": [
+    {
+      "id": "0x4bf7b23",
+      "en": "Trade System reported general error ([placeholder]).\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3ed34",
+      "en": "Trade finished.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f3a1e4",
+      "en": "You cannot trade that.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9d97e5",
+      "en": "[placeholder] wishes to trade with you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x189d23",
+      "en": "Trading items ...\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c78255",
+      "en": "[placeholder] is currently fighting.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe143abb",
+      "en": "You do not have enough room in your pack for #2:{all[!1]} #2:[placeholder] #2:{more item[1]|items}.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbccc74",
+      "en": "You change the offer.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6213232",
+      "en": "You must offer something.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94a5c17",
+      "en": "[placeholder] is already trading.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8915d89",
+      "en": "You don't have that much money to offer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe02b18b",
+      "en": "#1:[placeholder] does not have enough room in #1:{his[m]|her[f]|its} pack for #2:{all[!1]} #2:[placeholder] #2:{more item[1]|items}.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23812e4",
+      "en": "Offer failed.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc165e7",
+      "en": "Someone is already trying to trade with you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72e2414",
+      "en": "The trade was interrupted because the other player logged out, the trade may have been only partially completed.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69de0bb",
+      "en": "You can only trade items in your pack.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62a7b07",
+      "en": "You are already opening trade negotiations.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68d8e82",
+      "en": "Your partner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17f0839",
+      "en": "You are too busy at the moment to trade. Try again later.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fbf6f5",
+      "en": "Unable to trade with that character.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf62295e",
+      "en": "You must open trade first.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc33b75",
+      "en": "You must revoke something.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6099e4",
+      "en": "You must wait before trading again.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc59b47",
+      "en": "You are already trading.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42873e3",
+      "en": "You can only trade with other PCs.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb743b45",
+      "en": "There was a problem completing the trade.  All items returned to owners.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2179919",
+      "en": "#1:[placeholder] is too busy at the moment to trade. Try again later.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdf49c2",
+      "en": "You must specify someone to trade with.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x917f5c2",
+      "en": "You are too far away from your partner to trade with them.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32e8145",
+      "en": "You can't offer items that are destroyed when they are acquired.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0559e",
+      "en": "[placeholder] has a container open.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dacfb6",
+      "en": "You cannot trade with yourself.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8370f54",
+      "en": "Your partner has changed the offer.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc30185",
+      "en": "You cannot revoke that.\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

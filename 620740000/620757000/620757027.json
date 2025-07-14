@@ -1,0 +1,2477 @@
+{
+  "id": 620757027,
+  "txt": [
+    {
+      "id": "0x649c94c",
+      "en": "Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a12273",
+      "en": "Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40c582",
+      "en": "Critical Hit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbfe832",
+      "en": "Avoidance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8f76cc",
+      "en": "Max Speed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3199262",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x327bd07",
+      "en": "MAX",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x141032c",
+      "en": "Monster Player Defences",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc12995c",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1843edc",
+      "en": "Equipment Outfit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf5b3c3",
+      "en": "[placeholder] Critical Hits:\\n--Increases the Critical Hit chance of your [placeholder] attacks\\n--Increases the Devastating Hit chance of your [placeholder] attacks\\n\\nAgainst Level [placeholder] Enemies:\\n--The Critical Hit chance of your [placeholder] attacks is [placeholder]%\\n--The Devastating Hit chance of your [placeholder] attacks is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea0a43e",
+      "en": "Radiance is an advanced stat used in the later portions of the game. Radiance offsets the penalties from Gloom found in dangerous places",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea8fa9c",
+      "en": "Resolve",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x215ac70",
+      "en": "[placeholder]:\\n--Increases the Critical Hit chance and magnitude of your Melee, Ranged, and Tactical attacks\\n--Increases the Devastating Hit chance and magnitude of your Melee, Ranged, and Tactical attacks\\nAgainst Level [placeholder] Enemies:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20be874",
+      "en": "Click here to zoom in to your character's head.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7825b65",
+      "en": "Are you sure you want to fail the '[placeholder]' quest?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e4a892",
+      "en": "Fellowship Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fd22f4",
+      "en": "Journal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ca7990",
+      "en": "[placeholder]\\n--While not in combat, decays by [placeholder] per [placeholder] seconds. ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc49861c",
+      "en": "Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd644943",
+      "en": "Get Corruptions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf6640c",
+      "en": "Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20bcac4",
+      "en": "Click here to zoom in to your character's feet.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4608792",
+      "en": "Mitigations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a270e2",
+      "en": "Pairs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30a91d4",
+      "en": "Click here to Wear your Equipment Outfit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44e200",
+      "en": "\\n[placeholder]% additional chance to Evade while moving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x735b4f5",
+      "en": "Length Six Unique",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x173bbe1",
+      "en": "N/A",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51bda85",
+      "en": "Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f55415",
+      "en": "Save",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd7084",
+      "en": "Click here to zoom in to your character's waist.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd883cb9",
+      "en": "Wearing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6e245c",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6274cd0",
+      "en": "\\n[placeholder] Critical Hits --Points [placeholder]-- :\\n--The Critical Hit chance of your [placeholder] attacks is [placeholder]%\\n--The Devastating Hit chance of your [placeholder] attacks is [placeholder]%\\n--The magnitude of a Critical or Devastating Hit is increased by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x591ec94",
+      "en": "This item is of type [placeholder] while your equipped item is of type [placeholder].\\nThe cosmetic item will not be shown.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c1d90c",
+      "en": "Spouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a272ae",
+      "en": "<rgb=#ffffff>[placeholder]</rgb> points to <rgb=#ffffff>[placeholder]</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17ebe13",
+      "en": "Melee/Ranged/Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4022ee9",
+      "en": "Story",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x495f7ec",
+      "en": "Westernesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d7d9f4",
+      "en": "Finished",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa90bc48",
+      "en": "Length Six Straights",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36301c2",
+      "en": "Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f833d0",
+      "en": "Fury Bonus Rating:\\n--Increases the effectiveness by [placeholder]% per 100 fury.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93c60cc",
+      "en": "[placeholder] [placeholder] Rating ([placeholder] + [placeholder])\\n[placeholder] [placeholder]% ([placeholder]% + [placeholder]%) vs. level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3aae28c",
+      "en": "Ancient Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc25665",
+      "en": "Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a44de2",
+      "en": "Lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51ffcfc",
+      "en": "Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb02fa3",
+      "en": "Available Points:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa23cdde",
+      "en": "Close the Quest Panel (Keyboard: F8).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61948f5",
+      "en": "Successful Combos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4586cee",
+      "en": "Cosmetic Clothing is for appearance only. No armour or bonuses apply.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7b3442",
+      "en": "Finished",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa99307c",
+      "en": "Stepchild",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ac54dc",
+      "en": "Off-hand DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd551f4c",
+      "en": "Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x995c75c",
+      "en": "Add To Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x209284c",
+      "en": "Beleriand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29a1900",
+      "en": "[placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4cdb9c",
+      "en": "Acceleration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66a73e4",
+      "en": "Equipment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87fd8dc",
+      "en": "War-steed Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6e0ef6",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2750555",
+      "en": "Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb9d82c",
+      "en": "Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7531d5",
+      "en": "Full House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac05563",
+      "en": "Morale:\\n--The amount of damage you can take before being defeated in combat\\n\\nMorale Regeneration:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x310ce83",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b38b2c",
+      "en": "Poison",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07ab3",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba4a2cc",
+      "en": "Morale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe26cca2",
+      "en": "Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff0436c",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90af262",
+      "en": "Length Four Straights",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fb0314",
+      "en": "([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x840c57c",
+      "en": "Allegiances",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fd56c2",
+      "en": "House Address:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc907095",
+      "en": "Physical Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe743a5c",
+      "en": "You",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x437d4dc",
+      "en": "Level:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ebcfec",
+      "en": "Common",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24babd7",
+      "en": "Outgoing Healing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x738efd4",
+      "en": "Your Defence decreases the damage you take from incoming attacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbceed53",
+      "en": "Critical...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd5e644",
+      "en": "\\n[placeholder] Mitigation --Points [placeholder]-- :\\n--Reduces the damage taken from [placeholder] attacks by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9faa410",
+      "en": "War-steed Turn Rate:\\n--Increases how quickly you can turn your war-steed, the higher the value the faster your steed will turn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6c9e05",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd742084",
+      "en": "War-steed Power:\\n--The energy required to use your skills\\n--Skills cannot be used when your war-steed Power is empty\\n\\nWar-steed Power Regeneration:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ec7f64",
+      "en": "XP Boosts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd287f9e",
+      "en": "Character Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8806d8",
+      "en": "Length Six",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67cd8cf",
+      "en": "[placeholder] Outgoing Healing:\\n--Increases the amount of Morale which is healed by [placeholder]%\\n\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafde3a2",
+      "en": "Characteristics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9438b45",
+      "en": "If you proceed, the time you have spent training [placeholder] will be lost.  Continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b9f444",
+      "en": "Invalid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ebf853",
+      "en": "Defences",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8645cd8",
+      "en": "Sex:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8811d25",
+      "en": "Length Five",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe358630",
+      "en": "\\n[placeholder]% additional chance to Evade while standing still",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x160fb9e",
+      "en": "Acceleration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1b18bc",
+      "en": "Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42039a4",
+      "en": "Critical Defence:\\n--Reduces the Critical and Devastating Hit magnitude of incoming Melee, Ranged, and Tactical attacks\\nAgainst Level [placeholder] Enemies:\\n\\nExtra Modifiers: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5016764",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x880888c",
+      "en": "Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb54dfe4",
+      "en": "Feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6239f04",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f92e5",
+      "en": "Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42dac02",
+      "en": "Armour Status",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c3490c",
+      "en": "Show History",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cac6ec",
+      "en": "Fell-wrought",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aa7137",
+      "en": "Standing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15eaf19",
+      "en": "Dragging an item onto the outfit slots on this tab stores the appearance of the item, but not the item itself - the item will remain in your backpack.  You can feel free to sell or destroy the item and the appearance will remain on the outfit until you drag the appearance icon away from the outfit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c173b4",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1349a35",
+      "en": "+[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6071740",
+      "en": "Acceleration:\\n--Increases how quickly your war-steed can accelerate, the higher the value the faster your mount will accelerate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d12002",
+      "en": "Hearsay",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81ad326",
+      "en": "([placeholder]% - [placeholder]%) Your Armour will reduce the [placeholder] damage you take by [placeholder]% against foes that are level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdc9272",
+      "en": "Character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9896ce6",
+      "en": "([placeholder]% + [placeholder]%) You have a [placeholder]% chance of resisting [placeholder] effects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1260ec",
+      "en": "Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe88070f",
+      "en": "Length Two",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b4156c",
+      "en": "Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x861f5ac",
+      "en": "Physical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c8e573",
+      "en": "Combat Effectiveness",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bab52c",
+      "en": "Wound",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9aa8203",
+      "en": "Virtues",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae32bc2",
+      "en": "Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfc073",
+      "en": "Shoes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44a0a54",
+      "en": "The item you are deconstructing is bound to you and will be destroyed. You will lose the current item and all relics and titles on that item.\\nDo you wish to continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e4479c",
+      "en": "Tactical DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca66f25",
+      "en": "[placeholder]\\n\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95cb246",
+      "en": "([placeholder]% - [placeholder]%) You have a [placeholder]% chance of resisting [placeholder] effects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f20fdc",
+      "en": "Show Quests:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aab2e",
+      "en": "Save",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6a6a5c",
+      "en": "Shadow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd56ec9c",
+      "en": "Vigour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3d6514",
+      "en": "\\n[placeholder] Critical Defence --Points [placeholder]--:\\n--Reduces the magnitude of incoming [placeholder] Critical and Devastating Hits by [placeholder]% ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48e3fcc",
+      "en": "Parent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c2964",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bf82ac",
+      "en": "Wrath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f3537c",
+      "en": "Cry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4e5adc",
+      "en": "Share",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a3f14c",
+      "en": "Shadow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00202",
+      "en": "Equipment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3530825",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbee1b5c",
+      "en": "Father",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb224853",
+      "en": "[placeholder] Critical Hits:\\n--Increases the Critical Hit chance of your [placeholder] attacks\\n--Increases the Devastating Hit chance of your [placeholder] attacks\\n\\nAgainst Level [placeholder] Enemies:\\n--The Critical Hit chance of your [placeholder] attacks is [placeholder]%\\n--The Devastating Hit chance of your [placeholder] attacks is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb81a3cc",
+      "en": "Incoming Healing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8588224",
+      "en": "gold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe31a2b7",
+      "en": "Hide Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d2bf9c",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2cef9e",
+      "en": "Personal Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d4932",
+      "en": "Character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c14876",
+      "en": "[placeholder] [placeholder] Rating ([placeholder] + [placeholder] - [placeholder])\\n[placeholder] Chance [placeholder]% ([placeholder]% + [placeholder]%) vs. level [placeholder] opponents.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d379cc",
+      "en": "Title",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c3b295",
+      "en": "Quest Story",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b3d224",
+      "en": "Physical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc06fae0",
+      "en": "Finesse:\\n--Reduces your opponent's Resistance\\n--Reduces your opponent's Block, Parry, and Evade\\n\\nAgainst Level [placeholder] Enemies:\\n--Reduces Resist by approximately [placeholder]%\\n--Reduces Block, Parry, and Evade by approximately a total of [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f6dc5",
+      "en": "Edit Character Biography",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99f8f13",
+      "en": "Get Class Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1dc043",
+      "en": "[placeholder]:\\n--Provides a chance to completely avoid an enemy's attack\\n--Provides a chance to partially avoid an enemy's attack\\n--Reduces the damage taken from a partially avoided attack\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to [placeholder] an attack is [placeholder]%\\n--Your chance to Partially [placeholder] an attack is [placeholder]%\\n--When you Partially [placeholder] an attack the damage is reduced by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x713128c",
+      "en": "Find A Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9789ccc",
+      "en": "Melee Eff",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65376c4",
+      "en": "War-steed Armour:\\n--Of the [placeholder]% damage that your war-steed absorbs from an attack, this reduces the damage your war-steed takes by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e6ab72",
+      "en": "Length Four Flushes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb497f1c",
+      "en": "Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6320e72",
+      "en": "Show All Stats",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8623762",
+      "en": "Show Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85f7cd0",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x339b1f5",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d34285",
+      "en": "# Killed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d080ac",
+      "en": "Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf43e8fc",
+      "en": "Biography",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5da2a75",
+      "en": "Turn Rate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b55bf6",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41ccd35",
+      "en": "Edit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb4737c",
+      "en": "Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe39f644",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb497f2c",
+      "en": "Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a56e04",
+      "en": "This item will not be shown because you have a fishing pole equipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ff33ee",
+      "en": "Perks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3121353",
+      "en": "Shoulders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x862efc6",
+      "en": "[placeholder] Resistance:\\n--Provides a chance of avoiding [placeholder] effects\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to avoid  [placeholder] effects is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88026fc",
+      "en": "Water",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf9af54",
+      "en": "The items you are deconstructing will be destroyed along with all relics and titles on them.\\nDo you wish to continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a70c93",
+      "en": "Get Class Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa07db9c",
+      "en": "([placeholder]%) Your Armour will reduce the [placeholder] damage you take by [placeholder]% against foes that are level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9db3eac",
+      "en": "[placeholder]--[placeholder] points regenerate per second while in combat\\n--[placeholder] points regenerate per second while not in combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8d1864",
+      "en": "You are already Wearing this Outfit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba91c17",
+      "en": "Get Cosmetic Clothing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fe3eec",
+      "en": "([placeholder]%) Your base [placeholder] is [placeholder]% against foes that are level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac1bafc",
+      "en": "([placeholder]%) You have a [placeholder]% chance of resisting [placeholder] effects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1de71c",
+      "en": "Morale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17f273c",
+      "en": "War-steed Movement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53d9754",
+      "en": "War-steed Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bf1665",
+      "en": "No time limit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe083a8c",
+      "en": "/",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5ae23c",
+      "en": "Beleriand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb08da93",
+      "en": "Dyes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4df6824",
+      "en": "Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bd896c",
+      "en": "Offence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x883abdc",
+      "en": "Edit Personal Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8d0a7c",
+      "en": "War-steed Strength",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a7c7cc",
+      "en": "Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xece71d2",
+      "en": "Rename Character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe84793",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbccdf4",
+      "en": "[placeholder] Defence:\\n--Reduces the damage taken from [placeholder] attacks\\n\\nAgainst Level [placeholder] Enemies:\\n--Incoming [placeholder] damage is reduced by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6baed69",
+      "en": "You must have a Melee Weapon equipped to be able to Parry.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1d79bc",
+      "en": "Ancient Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a0a355",
+      "en": "You are currently unable to evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67cdf8f",
+      "en": "[placeholder] Offence:\\n--Increases the damage of your [placeholder] attacks\\n against Level [placeholder] Enemies by [placeholder]%\\n\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86c4600",
+      "en": "Max Speed:\\n--The maximum speed your war-steed can go in metres per second.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3ef442",
+      "en": "Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3d28d4",
+      "en": "FIXME: Unassigned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba4c18c",
+      "en": "Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16a16fc",
+      "en": "Character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b818fc",
+      "en": "Physical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe976193",
+      "en": "[placeholder]:\\n--Provides a chance to completely avoid an enemy's attack\\n--Provides a chance to partially avoid an enemy's attack\\n--Reduces the damage taken from a partially avoided attack\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to [placeholder] an attack is [placeholder]%\\n--Your chance to Partially [placeholder] an attack is [placeholder]%\\n--When you Partially [placeholder] an attack the damage is reduced by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73521bc",
+      "en": "Armour:\\n--Reduces the damage you take from attacks\\n--100% of your Armour value is added to your Common Mitigation\\n--20% of your Armour value is added to your Non-common Mitigations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x410cec2",
+      "en": "Health:\\n--The amount of damage you can take before being defeated in combat\\n\\nHealth Regeneration:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bfc080",
+      "en": "[placeholder] XP points available for spending.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f1756c",
+      "en": "Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6d12e2",
+      "en": "Enhance Character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64317b5",
+      "en": "Name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6766adc",
+      "en": "Wit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a5516b",
+      "en": "You must have a Shield equipped to be able to Block.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13ceb67",
+      "en": "Show Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e6a323",
+      "en": "Misc Ratings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0de705",
+      "en": "Monster Killed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c158ec",
+      "en": "Quest Details",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12c8313",
+      "en": "Block...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fdfad3",
+      "en": "[placeholder] Critical Hits:\\n--Increases the Critical Hit chance of your [placeholder] attacks\\n--Increases the Devastating Hit chance of your [placeholder] attacks\\n\\nAgainst Level [placeholder] Enemies:\\n--The Critical Hit chance of your [placeholder] attacks is [placeholder]%\\n--The Devastating Hit chance of your [placeholder] attacks is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6dd6175",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b0d18c",
+      "en": "Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7596e5c",
+      "en": "Westernesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x775b7c3",
+      "en": "Get Racial Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadf220c",
+      "en": "Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7734783",
+      "en": "Get Travel Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8811b22",
+      "en": "Length Four",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2e9c43",
+      "en": "Parry...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e4e6fc",
+      "en": "Light of Eärendil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24c0327",
+      "en": "Incoming Healing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20cc024",
+      "en": "Outfits are disabled in this area",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ced24",
+      "en": "This item will not be shown because the corresponding slot in your equipment tab is empty.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19443de",
+      "en": "Faction",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9daacc",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87ab5c",
+      "en": "War-steed Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdedac6c",
+      "en": "Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c837c3",
+      "en": "Gloves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43ba62",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x516d7f2",
+      "en": "Cosmetic Outfits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd38ef4",
+      "en": "Quest at Maximum Solutions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33656",
+      "en": "([placeholder]% - [placeholder]%) Your base [placeholder] is decreased by [placeholder]% against foes that are level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50739c6",
+      "en": "Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67a225e",
+      "en": "This will remove the item from your outfit.  If you no longer have the item, you will not be able to re-apply the appearance of this item to your outfit.\\nThis does not destroy the item if it is in your inventory.\\nAre you sure?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc151165",
+      "en": "Damage Type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b3004c",
+      "en": "Westerness Def.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcefc46c",
+      "en": "Titles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b2655",
+      "en": "Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc455e2",
+      "en": "You are unable to train [placeholder] at this time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9635ac",
+      "en": "[placeholder] Mitigation:\\n--Reduces the damage taken from [placeholder] attacks\\n\\nAgainst Level [placeholder] Enemies:\\n--Reduces incoming [placeholder] damage by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfc52b3",
+      "en": "Body",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5b1d02",
+      "en": "Tactical Mastery increases tactical damage you deal and healing done by you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d05fd3",
+      "en": "Buffs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd81666",
+      "en": "[placeholder]--[placeholder] points regenerate per second while in combat\\n--[placeholder] points regenerate per second while not in combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec63c9c",
+      "en": "Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a05fb5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72d9ecc",
+      "en": "Melee DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ca54f5",
+      "en": "Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x300d88e",
+      "en": "Change Generation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dbc2ec",
+      "en": "Resistance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb80c2bc",
+      "en": "Fear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x117ab7c",
+      "en": "War-steed Offence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8b225",
+      "en": "Length Three Straights",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x252bc95",
+      "en": "Turn Rate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b8f116",
+      "en": "[placeholder] [placeholder] Rating ([placeholder] + [placeholder] + [placeholder])\\n[placeholder] Chance [placeholder]% ([placeholder]% + [placeholder]%) vs. level [placeholder] opponents.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ef1b35",
+      "en": "Critical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53c4214",
+      "en": "Waist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6764e5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bfbd7c",
+      "en": "Radiance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ba996c",
+      "en": "Characteristics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13b9b4",
+      "en": "Hide Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc036242",
+      "en": "Mounts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x957735",
+      "en": "Click here to select your title",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd535d1c",
+      "en": "Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc7c45b",
+      "en": "Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30e03b4",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x300f672",
+      "en": "Passive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b3125",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa201b5c",
+      "en": "Mother",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbb6f74",
+      "en": "Physical Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe21d302",
+      "en": "Headgear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1d7d64",
+      "en": "[placeholder] Offence:\\n--Increases the damage of your [placeholder] attacks\\n\\nAgainst Level [placeholder] Enemies:\\n--Your [placeholder] damage is increased by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x521192c",
+      "en": "Wear the following Outfit:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb44b164",
+      "en": "[placeholder] ([placeholder] Base + [placeholder] from implement)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x266c1a2",
+      "en": "Healing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x259d21c",
+      "en": "Disease",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x580363c",
+      "en": "Common",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f4794c",
+      "en": "Ranged Eff",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8062635",
+      "en": "Length Three",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x583b800",
+      "en": "Light of Eärendil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b0388e",
+      "en": "War-steed Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde4fa5c",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e68df5",
+      "en": "[placeholder]: Your overall chance to resist effects is [placeholder]%\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48f25f5",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb511",
+      "en": "Outfit 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe395fac",
+      "en": "Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb512",
+      "en": "Outfit 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc11d76c",
+      "en": "Remove From Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35a06e4",
+      "en": "The item you are deconstructing will be destroyed and you will lose the current item and all relics and titles on that item.\\nDo you wish to continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb513",
+      "en": "Outfit 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1f57ce",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc26b844",
+      "en": "Completed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb514",
+      "en": "Outfit 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xead0165",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb515",
+      "en": "Outfit 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb516",
+      "en": "Outfit 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb517",
+      "en": "Outfit 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40fb518",
+      "en": "Outfit 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44a2c6c",
+      "en": "Lightning",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc284f2",
+      "en": "Health",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x748c842",
+      "en": "Underway",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1729dbc",
+      "en": "War-steed Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac71f4c",
+      "en": "Virtue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45fb0d3",
+      "en": "Stats & Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf213dcb",
+      "en": "unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x411834",
+      "en": "Click here to wear the currently displayed outfit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42d30c3",
+      "en": "Class:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea533e2",
+      "en": "Biography",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf259e7e",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2bddc9",
+      "en": "Underway",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x645d615",
+      "en": "Race:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb00aecc",
+      "en": "Orc-craft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4043f34",
+      "en": "War-steed Endurance:\\n--The amount of damage your war-steed can take before you are dismounted\\n\\nMorale Regeneration:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x113929c",
+      "en": "Evasion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe084772",
+      "en": "Gambit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7408cbc",
+      "en": "Resistance:\\n--Provides a chance of avoiding all effects\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to avoid all effects is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a7a814",
+      "en": "Tactical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8a9f02",
+      "en": "Crit Def",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9080d23",
+      "en": "Cloaks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7904110",
+      "en": "[placeholder] XP points available for spending. You have reached your cap of [placeholder] points.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf608e9",
+      "en": "Apply Rename",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7f2395",
+      "en": "Length Three Flushes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb54ff54",
+      "en": "Head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45074d3",
+      "en": "Power:\\n--The energy required to use your skills\\n--Skills cannot be used when your Power is empty\\n\\nPower Regeneration:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf9dc4c",
+      "en": "Child",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0f8edc",
+      "en": "Acid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec46785",
+      "en": "Quest Tokens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4f4ec0",
+      "en": "[placeholder]:\\n--Increases the damage of your [placeholder] attacks\\n  against Level [placeholder] Enemies by [placeholder]%\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e32c5c",
+      "en": "Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40852b6",
+      "en": "[placeholder] Resistance:\\n--Provides a chance of avoiding [placeholder] effects\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to avoid  [placeholder] effects is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe63d0fc",
+      "en": "The War",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd81859",
+      "en": "Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8977f44",
+      "en": "Your Offence increases the damage you deal with your attacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4eb2f84",
+      "en": "Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90af465",
+      "en": "Length Five Straights",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40ea3dc",
+      "en": "Outgoing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2e7e0f",
+      "en": "Length Two Flushes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba4adc3",
+      "en": "Stat Tomes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1c48a2",
+      "en": "Houses",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc12ef25",
+      "en": "--[placeholder] Resistance: Percent is [placeholder]% Total Points are [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b0e84c",
+      "en": "Song",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8263616",
+      "en": "[placeholder]--[placeholder] points regenerate per second while in combat\\n--[placeholder] points regenerate per second while not in combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bea3f2",
+      "en": "Basic Stats",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3f8d74",
+      "en": "War-steed Endurance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x400a5dc",
+      "en": "Current Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda36b22",
+      "en": "Combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73bbb44",
+      "en": "Customize the visibility of your Equipment pieces. Double-click to Wear this Outfit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd903366",
+      "en": "([placeholder]% + [placeholder]%) Your base [placeholder] percentage is increased by [placeholder]% against foes that are level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17eea0c",
+      "en": "Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcc63c",
+      "en": "Fury Bonus Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80793c",
+      "en": "Ranged DPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdff864c",
+      "en": "Fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba4d18c",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a0077c",
+      "en": "[placeholder] Resistance:\\n--Provides a chance of avoiding [placeholder] effects\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to avoid  [placeholder] effects is [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42ac0cc",
+      "en": "quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadefc6c",
+      "en": "Resistance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e32ddc",
+      "en": "Fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16f0192",
+      "en": "Movies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4807eec",
+      "en": "Stepparent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4601345",
+      "en": "Name & Title:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c62a12",
+      "en": "Active",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeba26e8",
+      "en": "Draigoch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x397a740",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e82a86",
+      "en": "([placeholder]% + [placeholder]%) Your Armour will reduce the [placeholder] damage you take by [placeholder]% against foes that are level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1279acc",
+      "en": "Physical",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf828d0c",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb03003",
+      "en": "Leggings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78b69d3",
+      "en": "[placeholder]:\\n--Provides a chance to completely avoid an enemy's attack\\n--Provides a chance to partially avoid an enemy's attack\\n--Reduces the damage taken from a partially avoided attack\\n\\nAgainst Level [placeholder] Enemies:\\n--Your chance to [placeholder] an attack is [placeholder]%\\n--Your chance to Partially [placeholder] an attack is [placeholder]%\\n--When you Partially [placeholder] an attack the damage is reduced by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3966f30",
+      "en": "\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbaa074",
+      "en": "Advancement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd0bf44",
+      "en": "You are currently Wearing:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31f843c",
+      "en": "Frost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf21",
+      "en": "Outfit 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74c85f4",
+      "en": "Failed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf22",
+      "en": "Outfit 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf23",
+      "en": "Outfit 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf24",
+      "en": "Outfit 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31a8603",
+      "en": "Evade...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa239ad5",
+      "en": "Fellow [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf25",
+      "en": "Outfit 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf26",
+      "en": "Outfit 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b11b2",
+      "en": "Physical Mastery increases melee damage and ranged damage dealt by you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf27",
+      "en": "Outfit 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x872483c",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e01d42",
+      "en": "Hobby",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bf28",
+      "en": "Outfit 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71dcefc",
+      "en": "Cancel Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x537c485",
+      "en": "Damage Source",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c83ff4",
+      "en": "[placeholder]:\\n--Increases the amount of Morale which is healed by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

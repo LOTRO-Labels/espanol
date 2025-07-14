@@ -1,0 +1,23 @@
+{
+  "id": 620921980,
+  "txt": [
+    {
+      "id": "0xf606d80",
+      "en": "Level scaling you to level [placeholder].\\nScaling up your equipment.\\nScaling your virtues up to at least rank [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc566a64",
+      "en": "Removing level scaling, returning you to your normal level.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6af9be",
+      "en": "Level scaling you to level [placeholder].\\nScaling down your equipment.\\nScaling your virtues down to at most rank [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

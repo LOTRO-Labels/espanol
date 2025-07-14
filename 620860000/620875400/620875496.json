@@ -1,0 +1,155 @@
+{
+  "id": 620875496,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'Your scrolls were greatly admired by the Elves of Rivendell; this says to me that you have passed your test. You have impressed me, [placeholder]. I believe you are ready to advance as an artisan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Mae govannen, randir. Do let me read that scroll...I am a collector of scholarly lore. Its craftsmanship is lovely indeed. I can tell at once that a great deal of skill went into making it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Crafting: Artisan Scholar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Is this scroll for me? It is fascinating, [placeholder]. I will be sure to spin it into a fine tale, and it will be sung in the Hall of Fire for many long years to come. Your scholarly knowledge has surpassed that of many Elves in Rivendell, mellon. It is not often that we come across a traveller with your skill.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Is this for me? How fascinating! How fine the lettering, and how bold the voice, even though it is rendered in Westron. Forgamthan did not misspeak when he told me of your promise as a scholar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have created a scroll of scholar-lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'This scroll is beautifully crafted.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have created a scroll of battle-lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'This scroll will protect many in days of darkness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "You have created a scroll of warding-lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The crafting recipes you must create can be found in your crafting panel.\\n\\nYou should craft the three recipes required by Forgamthan for your growth as a Scholar.\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'This scroll tells of great battles.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Elves who are interested in your scrolls can be found throughout Rivendell.\\n\\nYou should bring the scrolls you crafted to various Elves in Rivendell.\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'You need to make a scroll of scholar-lore, a scroll of battle-lore, and a scroll of warding-lore.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Forgamthan can be found in Elrond's Library in Rivendell.\\n\\nYou should return to Forgamthan with the news that your scrolls were greatly admired by the Elves who took them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'You should take the scroll of scholar-lore to Mirwen, the scroll of battle-lore to Lindir, and the scroll of warding-lore to Faimir.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Execute the recipe for a scroll of scholar-lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Execute the recipe for a scroll of battle-lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Execute the recipe for a scroll of warding-lore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Bring the scroll of scholar-lore to Mirwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Bring the scroll of battle-lore to Lindir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Bring the scroll of warding-lore to Faimir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Return to Forgamthan with news of your success",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have been sent to an expert crafting vendor to have your own expertise appraised before moving on to artisanship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'You have been sent to me at an important time in your journey as a crafter, [placeholder]. As I'm sure you've noticed, you are very close to becoming an artisan scholar.\\n\\n'Artisans can no longer execute their recipes at ordinary studies; instead, they must use the superior study on the lower level of the Library.\\n\\n'Before granting you access to artisan recipes, I want to make sure you are truly proficient as an expert. I would like you to execute three recipes and deliver the goods you make to Elves who have need of it. They will tell me if what you make is evidence that you have achieved true proficiency as an expert.'\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

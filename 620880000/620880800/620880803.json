@@ -1,0 +1,389 @@
+{
+  "id": 620880803,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "'Another worm from the surface! I'm of a mind to chop you up for stew... give the boys something they can sink their fangs into!'\\n\\nYour Uruk-hai overseer grunts sadly, shaking his head with disappointment.\\n\\n'It's like that, is it?' responds Barkh. 'Too bad. It's not worth my head to cross the Old Man, and once he's done with you, you won't be fit for stew anyway. Take this rag and clean some of the slop off the floors. You might as well be good for something! Once you're done, squeeze that rag out into the slop bucket there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'You think you're done? You're not done until I say you're done! Clean up more of the slop, then dump it into the slop bucket again!\\n\\n'You work for Barkh, and Barkh says there's more to be done!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You could not have done that more slowly if you tried, worm. Still, the slop had to be cleaned, and you cleaned it. There will be more later. There's always more!'\\n\\nBarkh bares his teeth at you.\\n\\n'It's time to feed the prisoners. Scoop out some feed from the slop bucket and carry it to the dungeons in the north-west wall of the main cavern. Empty the slop into the bucket by the cells. And be quick about it. The thralls have got to eat! Ha! Ha!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'You have nothing for me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Hey! [placeholder]! Do you know anything about what is going on outside? I am a man of Rohan, Baldgar by name, and I was separated from my men not far from the river. Can you tell me if Rohan is still safe?'\\n\\nBut there are too many guards around, and it is not safe to talk.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Cleaned up piles of slop ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'No talking to the prisoners! You are no less a captive than they, and if you weren't in my company, you'd be thrown in a cell to rot. Remember that. One word to Fâsh, and you won't even have the benefit of stretching your legs.\\n\\n'A different word, and you might call those locked in the cells the lucky ones!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Cleaned up piles of slop ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'There's work that needs doing in the kitchens! You think this army feeds itself? There's meat roasting, gruel boiling, and bread baking day and night!'\\n\\nThe Uruk-hai grins, baring his fangs.\\n\\n'Not that you'll get any of that. Prisoners have their own ration. Barkh'll have something else for you to do, I'd wager. To the kitchens with you! They're in the south-west wall of the cavern, and if you don't make good time, I'll tan your hide!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "You dropped the bucket and spilled the slop! Go get some more",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "You tip the slop into the bucket, and it makes a sickening sound",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "There is work to be done in the kitchens beneath Isengard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Talk to Baldgar in the dungeon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Talk to your Uruk-hai overseer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4ca91",
+      "en": "'That slop goes to the dungeons? Up the hill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4ca92",
+      "en": "'Slop for the dungeons? Up the hill behind me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4ca93",
+      "en": "'Stop wasting time! The dungeons are up this hill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4ca94",
+      "en": "'What smells so bad: you or that slop? Get it out of here, up the hill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4ca95",
+      "en": "'The dungeons is up this slope! Get moving, and get that slop out of here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4ca96",
+      "en": "'You looking for the dungeons? Up this slope, and make it quick!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Barkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Clean up piles of slop in the kitchens ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Use the slop bucket in the kitchens to squeeze out the dirty rag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Return the dirty rag to Barkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Clean up piles of slop in the kitchens ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Use the slop bucket in the kitchens to squeeze out the dirty rag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Return the dirty rag to Barkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c991",
+      "en": "'The dungeons is to the north!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Get some slop from the slop bucket in the kitchens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c992",
+      "en": "'That slop going to the dungeons? It's north of here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Carry the slop to the bucket in the dungeons",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c993",
+      "en": "'You looking for the dungeons? You want to go north!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c994",
+      "en": "'Get that slop out of here! You want the dungeons? They're to the north!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c995",
+      "en": "'The dungeons is north of here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c996",
+      "en": "'Get that slop out of here! The dungeons is to the north!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Barkh manages the kitchens in the south-west wall of the cavern beneath Isengard.\\n\\nYour overseer wants you to report to the kitchens beneath Isengard for work.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c891",
+      "en": "'Stick to the right-hand wall. I left the bucket down that way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Piles of slop litter the floor of the kitchens beneath Isengard.\\n\\nBarkh has given you a rag and the unenviable task of cleaning up after the Uruk-hai.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c892",
+      "en": "'Stick to the right-hand passage. I left the bucket by the horse-smelling fool.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "The slop bucket is in the kitchens.\\n\\nBarkh wants you to squeeze out the rag you used to clean up the slop into the slop bucket in the kitchens.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c893",
+      "en": "'Follow the right-hand passage. You'll find the slop bucket down that way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Barkh is waiting to speak to you in the kitchens beneath Isengard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c894",
+      "en": "'You want the right-hand tunnel. That's where the slop bucket is now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "There is still slop to be cleaned up in the kitchens beneath Isengard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c895",
+      "en": "'More slop? We feed these prisoners too often! Follow the right-side passage.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "The slop bucket is in the kitchens.\\n\\nBarkh wants you to squeeze out the rag you used to clean up the slop into the slop bucket in the kitchens.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c896",
+      "en": "'Stick to the right-side passage. Slop bucket's down that way, by the horse-man.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Barkh is in the kitchens beneath Isengard, waiting to speak to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced8",
+      "en": "Barkh wants you to get some slop from the slop bucket in the kitchens and bring it to the bucket in the dungeons. The entrance to the dungeons is in the north-west wall of the main cavern.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "One of the prisoners has tried to get your attention. You should talk to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c791",
+      "en": "'The dungeons, the dungeons! Just to the west there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c792",
+      "en": "'Slop for the prisoners? Just that way, to the west!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c793",
+      "en": "'Slop, slop! To the dungeons, west of 'ere!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Well, get to it! That slop's not going to clean up itself! Use that rag I gave you; you won't be getting another! Once you're done, squeeze out the rag over the slop bucket over there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c794",
+      "en": "'That slop smells terrific! I could do with some! But it's for the dungeons, that way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Can you do anything right? The slop bucket is right over there! Squeeze out that rag I gave you into the bucket!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c795",
+      "en": "'That slop must be for the prisoners, eh? The dungeons is to the west of 'ere!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Get to it, slime! You clean up that slop with the rag I gave you, or I'll send you back to Fâsh in pieces and let him figure out what to tell the Old Man!\\n\\n'When you're done, squeeze out that rag into the slop bucket, like before! And you'll do it as many times as I say you'll do it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd4c796",
+      "en": "'Slop, slop, slop! Dungeons is to the west!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'Don't give me that dirty rag! Squeeze it out in the slop bucket! If Sharkû didn't want you, I'd have your head for that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "Your Uruk-hai overseer wants to talk to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'Why are you just standing there? Get some slop from that bucket and bring it to the slop bucket in the dungeons! The prisoners have to eat, after all!\\n\\n'The entrance to the dungeons is in the north-west wall of the main cavern. Get moving!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'We will talk later, if we get the opportunity!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Slop",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

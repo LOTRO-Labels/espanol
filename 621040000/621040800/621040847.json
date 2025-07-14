@@ -1,0 +1,155 @@
+{
+  "id": 621040847,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Blood of Azog: Will of the Stormhammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Wait for Hermáth Stormhammer outside Vosh Torú",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'It is time we dealt with the matter at hand, my friend.\\n\\n'When I sent you to seek out Hersegg at Akrâz-zahar, I also gave to her an errand. Although I sent Agnar, Lági, and Reithvald to aid my son in his campaign, I must admit I hesitated to enlist another of my father's old friends in the Kharum-ubnâr. Not because I did not think him suited to the task, but for reasons I am ashamed to give voice. But I have shrunken from my duty for long enough!\\n\\n'As I had hoped, Hersegg has sent word that I have been invited to visit her family's home at Vosh Torú. Whether this meeting goes well or ill, Durin awaits your return.\\n\\n'What say you, [placeholder]? Will you accompany me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Talk to Hermáth Stormhammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "As King Thorin leaves, Hersegg calls you over",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'I will show you the way to Vosh Torú, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'You must understand, [placeholder]. Hermáth was my father's friend, not mine.\\n\\n'After what happened at the end of the War, I feared he would want nothing to do with me. I know how dear Durin was to him, and my heart aches that his son fell in the defence of the Lonely Mountain.\\n\\n'Yet, young Hersegg has her father's spirit. If Hermáth honours my request as he says, I think he will have a difficult time convincing Hersegg to stay behind!\\n\\n'Ah, I must return to the Hall Under the Mountain, my friend. But, thank you for helping me to clear the air between us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'If my grandfather is going to join the Gabil'akkâ, then so am I!'\\n\\nFrom the other room, you hear Hermáth chuckle to himself.\\n\\n'I'm no younger than your old friend, Dáin, was when he went to war! Who knows what sort of title I might win for myself?\\n\\n'I'm going to gather my things, [placeholder]. My grandfather can try to stop me if he wishes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'I couldn't keep her here even if I wanted to, [placeholder]....'\\n\\nHermáth smiles to himself. After a moment, he looks around his room, his gaze landing upon his old armour and hammer.\\n\\n'Wait outside a moment, and I will meet you in the Dwelling-halls.'\\n\\n'Would you please give this old dwarf a moment to equip himself? Go on!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "You have left Vosh Torú and should now wait for Hermáth Stormhammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d12",
+      "en": "Determined to aid his son, Durin, and the Dwarves of the Gabil'akkâ to reclaim Mount Gundabad, King Thorin Stonehelm hopes to enlist the aid of an old friend.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "King Thorin can be found at his throne in the Hall Under the Mountain at Erebor.\\n\\nKing Thorin has asked you to accompany him to Vosh Torú for a meeting with one of the Kharum-ubnâr. You should talk to King Thorin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Hermáth Stormhammer can be found at Vosh Torú in the Lonely Mountain.\\n\\nIn an effort to aid King Thorin, Hermáth Stormhammer has agreed to travel to Elderslade and join Prince Durin and the Gabil'akkâ in the reclamation of Mount Gundabad. You should talk to Hermáth Stormhammer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Talk to Hersegg at Vosh Torú",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Vosh Torú can be found in the Lonely Mountain.\\n\\nHermáth Stormhammer has asked you to wait outside Vosh Torú as he equips himself. You should leave Vosh Torú and wait outside.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "King Thorin can be found at Vosh Torú in the Lonely Mountain.\\n\\nAfter talking with King Thorin, Hermáth Stormhammer has agreed to aid Prince Durin and the Gabil'akkâ. You should talk to King Thorin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Hersegg can be found at Vosh Torú in the Lonely Mountain.\\n\\nAs King Thorin left Vosh Torú, Hersegg called you over. You should talk to Hersegg.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "Talk to Hermáth Stormhammer at Vosh Torú",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "You should wait for Hermáth Stormhammer outside Vosh Torú.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Leave Vosh Torú and await Hermáth Stormhammer in the Dwelling-halls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5023",
+      "en": "Talk to King Thorin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Hermáth Stormhammer can be found outside Vosh Torú in the Lonely Mountain.\\n\\nHermáth Stormhammer has equipped himself, and it appears Hersegg has convinced him to let her join the Gabil'akkâ. You should talk to Hermáth Stormhammer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5027",
+      "en": "Talk to King Thorin at Vosh Torú",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a1",
+      "en": "After a brief wait, Hermáth and Hersegg walk out of Vosh Torú",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'There! Now that is more like it!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

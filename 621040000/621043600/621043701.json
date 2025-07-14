@@ -1,0 +1,23 @@
+{
+  "id": 621043701,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Innate Strength: Raw Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Quick Attacks grant the buff 'Innate Strength: Raw Power', increasing the Brawler’s damage.\\n\\nIf a Quick Attack is performed while 'Innate Strength: Raw Power' is still active, the buff is instead advanced to a higher tier, to a maximum of Tier 4.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554671",
+      "en": "Tier 1: +2.5% Damage\\nTier 2: +5% Damage\\nTier 3: +7.5% Damage\\nTier 4: +10% Damage",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

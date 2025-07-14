@@ -1,0 +1,155 @@
+{
+  "id": 620879497,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'I hear that your work was greatly admired in Esteldín! That is evidence enough for me that you are a true artisan, ready to use a superior workbench. Superior facilities can be found here and in many high-level areas throughout Middle-earth. I look forward to watching your progress as a jeweller!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'As you see, Jeweller, I have little now. There has been much suffering. This trinket you give me is of significant worth to my people. A polished ruby is believed to be a stone of fortune, and I am sure this gift will help me in days to come. Thank you, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Crafting: Artisan Jeweller",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Thank you, [placeholder] -- this is a generous gift! I had lost my gold ring while I was scouting Nan Amlug, and that ring was a great boon to me in my travels. This replacement is even greater than the original. Your skill as a jeweller is evident.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Ah, this is a fine piece for my set. I am a collector of sorts, so I have a good eye for crafted goods. Daemirdan was not exaggerating when he implied that you were one of the most skilled jewellers he has encountered in a long time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have created a polished ruby",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'I am certain this ruby shall bring me good fortune.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have created a gold ring",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'This ring shall be prized among my descendants.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "You have created a gold bracelet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The crafting recipes you must create can be found in your crafting panel.\\n\\nYou should craft the three recipes required by Daemirdan for your growth as a jeweller.\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'This gold bracelet is a wonderful piece of workmanship.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The people who wish to receive the pieces of jewellery you made can be found throughout Esteldín.\\n\\nYou should deliver your jewellery-pieces to the folk of Esteldín.\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'You need to make a polished ruby, gold ring, and gold bracelet.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Daemirdan can be found in the Esteldín Craft Hall.\\n\\nYou should return to Daemirdan with news of your success.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'Deliver the polished ruby to Eón, the gold ring to Celaphadh, and the gold bracelet to Nethúr.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Execute the recipe for a polished ruby",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Execute the recipe for a gold ring",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Execute the recipe for a gold bracelet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Deliver the polished ruby to Eón",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Deliver the gold ring to Celephadh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Deliver the gold bracelet to Nethúr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Return to Daemirdan with news of your success",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have been sent to an expert crafting vendor to have your own expertise appraised before moving on to artisanship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'You have been sent to me at an important time in your journey as a crafter, [placeholder]. As I'm sure you've noticed, you are very close to becoming an artisan jeweller.\\n\\n'Artisans can no longer execute their recipes at ordinary workbenches; instead, they must use the superior workbench, like this one beside me.\\n\\n'Before granting you access to artisan recipes, I want to make sure that you are truly proficient as an expert. I would like you to execute three recipes and deliver the goods you make to folk who have need of it. They will tell me if what you make is evidence that you have achieved true proficiency as an expert.'\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

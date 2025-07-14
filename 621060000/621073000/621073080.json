@@ -1,0 +1,269 @@
+{
+  "id": 621073080,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Chapter 1.2: The Land Remembers It All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "A small crowd of Gondorians speaks in hushed tones to the east of Legolas and Gimli. You should get closer to them and <rgb=#00FF00>listen</rgb> to their conversation.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'I do not think this expedition of ours will take very long, [placeholder]. If there are folk here who believe the Heirs of Castamir will return, they will soon see that King Elessar holds their fortunes dear and seeks to repair the damage done during the war. They will leave the Heirs of Castamir in the past, where they belong, and Gondor will move forward.\\n\\n'Let us find someone inside the Harlond, to the south-west, who will tell us how we can help repair the damage done to the South-harbour.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Talk to Othanar inside the Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Legolas in the Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'You are here to help? That is good. We turn none away who desire to help cleanse the South-harbour of the filth left behind by the Orcs of Mordor! The land remembers the scars, but it is up to its people to stitch them up and allow them to heal. Despite many offers of help, there is still plenty to be done.\\n\\n'Begin by cleaning up rubble piles throughout the Harlond. Earlier today some folk offered to pick up loose wooden planks around the port, and left them leaning upright at several locations to the south-west; if you can gather those for me I would appreciate it.\\n\\n'There has also been an increase in rats here of late... I think they fled the Corsair ships for new homes, which I would not ordinarily begrudge them, but now the creatures trouble the food-stores we keep here for the workers, and I need them gone. Will you and your fellows complete these tasks for me? You will on behalf of the King? I do not see him, but very well. I care not for whom you do these tasks, so long as they are done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Clean up rubble piles inside the Harlond ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Gimli in the Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'Let us find someone inside the Harlond, to the south-west, who will tell us how we can help repair the damage done to the South-harbour.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "The crowd glares at you with distrust",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Collect wooden planks in the Harlond ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'You almost had me believing that King Elessar himself would bring these wooden planks to me, stranger. I am disappointed to see that is not the case.\\n\\n'But you have my thanks for this work, all the same. Your friends work still, by the docks to the south-east.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'How goes the work, [placeholder]? Gimli and I have made ourselves useful.\\n\\n'Some of the folk here seem... distrusting... of Elves and dwarves. It may be caused by fear or by superstition, but most have given us a wide berth even as they keep one eye upon us. It is nothing to me, but Gimli is bothered by it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Defeat rats throughout the Harlond ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Berthon in the Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Legolas in the Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "The War of the Ring left much of Gondor in ruin, and now its people work to restore their lands.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Legolas is working along the docks south-east of Othanar in the Harlond.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e32",
+      "en": "Bring the wooden planks to Othanar in the Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'Bothered by it? You wound me, Legolas! I am no delicate crystal, and can give insult better than any of these cowards... should the need arise, which King Elessar should hope it does not, since we are here on an errand of peace and restoration.\\n\\n'But has the Elf-hearing of which you often boast abandoned you? For I heard those men speak the name \\qBalakhôr,\\q and it is not so common a name that it could belong to anyone but the leader of the Heirs of Castamir, about whom we seek tidings!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Legolas suggested that someone to the south-west must be overseeing the repairs of the Harlond.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Gimli is in the Harlond, helping Legolas with the rebuilding effort.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'See that gathering of Gondorians to the east? Approach them and <rgb=#00FF00>listen</rgb> to their conversation, and you will see I have not invented this worry!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e36",
+      "en": "Approach the small crowd and <rgb=#00FF00>listen</rgb> to their conversation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'Is this true? Do they really speak of Balakhôr the Scourge?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Othanar asked you to clean up rubble piles, collect wooden planks, and defeat the rats that now infest the Harlond.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Othanar oversees the rebuilding of the Harlond by the north-eastern entrance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1190",
+      "en": "Defeated rats throughout the Harlond ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Berthon speaks to a small crowd of Gondorians by the docks of the Harlond.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a0",
+      "en": "'Begin by cleaning up rubble piles throughout the Harlond. Earlier today some folk offered to pick up loose wooden planks around the port, and left them leaning upright at several locations to the south-west; if you can gather those for me I would appreciate it. And also take care of the rat problem, if you would.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'Your friends work still, by the docks to the south-east.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'Most of these folk have given us a wide berth even as they keep one eye upon us. It is nothing to me, but Gimli is bothered by it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "Berthon glares at you with suspicion and dislike writ on his face",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'What do you want, Elf? Don't like what you hear, do you? It doesn't matter to me what you like and what you don't. Gondor changed once, and it can change again; folk like you might want to watch where you stick your noses.\\n\\n'Friend of mine in Arnach heard the Heirs of Castamir are gathering in strength and will soon return. Their leader Balakhôr survived the fighting and slipped away to safety before he could be executed... such a pity for the upstart king! Now Balakhôr plans to overthrow the new king and his foreign bride. It was them, and people like them, that brought the war upon us: the land remembers it all. Won't be long before it has its revenge upon them, using Balakhôr as its instrument.'\\n\\nYou insist that Balakhôr is very dead, and Berthon snorts.\\n\\n'That's not what my friend in Arnach says, and I think I'll be listening to him and not to you, Elf.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "Legolas stands to the west of the whispering Gondorians by the docks of the Harlond.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'What do you want, stranger? Don't like what you hear, do you? It doesn't matter to me what you like and what you don't. Gondor changed once, and it can change again; folk like you might want to watch where you stick your noses.\\n\\n'Friend of mine in Arnach heard the Heirs of Castamir are gathering in strength and will soon return. Their leader Balakhôr survived the fighting and slipped away to safety before he could be executed... such a pity for the upstart king! Now Balakhôr plans to overthrow the new king and his foreign bride. It was them, and people like them, that brought the war upon us: the land remembers it all. Won't be long before it has its revenge upon them, using Balakhôr as its instrument.'\\n\\nYou insist that Balakhôr is very dead, and Berthon snorts.\\n\\n'That's not what my friend in Arnach says, and I think I'll be listening to him and not to you, stranger.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'That went well, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a6",
+      "en": "Cleaned up rubble piles ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'Now move on. I don't like the smell of you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "Collected wooden planks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 620827454,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "The Dwarves in the ancient armoury have been devoured!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "A long-disused armoury belonging to Fastarr's forebears contains an anvil that would be suitable to bestow the quality you seek for your weapon, and a dwarf-expedition has already been sent to secure it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Aye my friend, I know of a place where the quality you seek can be obtained. It is an ancient armoury belonging to the line of my own kin. Upon the anvil within were crafted many fine weapons.\\n\\n'Indeed, I only yesterday sent an expedition of my fellows to reclaim this hallowed chamber, so there should be no problem with your use of it -- save, of course, for the matter of fees and recompense.\\n\\n'However, before you even consider going to the armoury, you need to bring me an infused adamant, which I can prepare to receive the quality. Alas, I cannot tell you where to find one.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Fastarr has asked you to bring him an infused adamant which he can prepare for use in bestowing a quality upon your weapon. Unfortunately, he does not know where such a stone may be found.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Ah, you were able to find an infused adamant! I will get that back to you before you head to the armoury.\\n\\n'Speak with me again when you are ready to leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Fastarr can be found at the Dolven-view camp in Moria.\\n\\nFastarr has bidden you to travel to the armoury of his forebears and rescue his kinsmen trapped within from the ravenous spiders who have captured them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Fastarr can be found at the Dolven-view camp in Moria.\\n\\nYou should return to Fastarr to complete the enhancement of your weapon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Ah! Terrible news, [placeholder]! A runner has just returned from the armoury -- my kinsmen have been captured! He claims that the expedition stumbled upon some horrid nest of evil spiders within the armoury. They will be devoured for certain, if they cannot be rescued!\\n\\n'Please, [placeholder], I beg you: go as quickly as you may and rescue my kinsmen from the spiders, and you may make any use you wish of my forebears' forge and tools within...just hurry before it is too late!'\\n\\n<rgb=#FF0000>This is a Solo quest, and cannot be completed with a Fellowship.</rgb>\\n\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You will need to bring me an infused adamant before we can begin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'I cannot thank you enough for rescuing my kinsmen from the spider's nest! May your beard grow ever longer...well, if you have one....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Still all in one piece? Excellent -- and what is more, you've empowered the stone! Well done, indeed.\\n\\n'Let us have that adamant, and we will see if we can't bestow the quality you desire.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Were you not able to empower the stone? Without an empowered adamant, I cannot help you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Bring an infused adamant to Fastarr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Fastarr to travel to the spider-nest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Bring the empowered adamant to Fastarr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Spider-nest",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

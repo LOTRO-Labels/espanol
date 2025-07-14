@@ -1,0 +1,497 @@
+{
+  "id": 620841532,
+  "txt": [
+    {
+      "id": "0x59a8be7",
+      "en": "A hole faintly marks where a flag was once planted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d8db21",
+      "en": "'The first assault comes! Prepare yourself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cc5f15",
+      "en": "<rgb=#00ffff>Encounter Complete: Zanúrz has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d8db22",
+      "en": "'The second assault! To arms!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe618555",
+      "en": "'I shall do this myself! The Bruinen will be mine! Rivendell will burn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d8db23",
+      "en": "'The third assault! They will break before us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5108d2",
+      "en": "'The lands of the Elf shall soon be the lands of the troll!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bbbdf5",
+      "en": "'Now we shall finish this, face-to-face.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d8db24",
+      "en": "'The fourth assault! This must be the last!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15f7d1e",
+      "en": "The archers call out from behind you, 'We cannot fire through this rain!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9c6233",
+      "en": "<rgb=#00ffff>Encounter: Durkúf roars, 'The lands of the Elf shall soon be the lands of the troll!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31f6d1d",
+      "en": "<rgb=#00ffff>Encounter: A roar erupts south of the Ford. An ancient worm has awoken</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e09b91",
+      "en": "'Here they come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e09b92",
+      "en": "'Rivendell shall stand forever free!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e09b93",
+      "en": "'The third assault! Defend the Ford!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e09b94",
+      "en": "'If this place will mark their end or ours, let it be theirs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3f5bc7",
+      "en": "'Rivendell, Lórien, and all things Elvish will burn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8030dd2",
+      "en": "<rgb=#00ffff>Encounter: A cackling voice comes from the north, 'My arrows will pierce the hearts of the sons of the Elf-lord!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a839f5",
+      "en": "'Is this the best you have? I laugh at your meagre attempts to take this place.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0368d3",
+      "en": "<rgb=#00ffff>Encounter: Zanúrz cackles, 'Rivendell, Lórien, and all things Elvish will burn!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'The drums have stopped, [placeholder]. The assault will come any moment now. Prepare yourself.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'The Ford remains ours, and Rivendell shall be free from any assault, at least for this day. This was a good victory, one the Enemy's forces will not soon recover from.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6d3569",
+      "en": "'Rivendell will long remember those who came to her aid in her time of greatest need. Your deeds shall not soon be forgotten.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "<rgb=#00FF00>The first assault has been broken. There are a few short moments to rest before the next comes</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b7210e",
+      "en": "<rgb=#00ffff>Encounter: Morghash the Orc charges!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "<rgb=#00FF00>You have defended against the second assault. There are a few short moments to gather your breath before the next arrives</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "<rgb=#00FF00>The third assault has been repelled. The tide of battle is beginning to shift to your favour</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "<rgb=#00FF00>The fourth assault has been pushed back. The final battle begins now</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "<rgb=#FF0000>One of the sons of Elrond has fallen</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cd70c8",
+      "en": "North Siege-tower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "<rgb=#FF0000>One of the sons of Elrond has fallen</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The Ford of Bruinen is the last bulwark leading into the hidden vale of Rivendell. Orcs in the service of Angmar lay siege at the Ford, seeking to break through the defences of Imladris.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbda00de",
+      "en": "'This Ford will become your grave!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14eb169",
+      "en": "'Today will be marked as a great victory... one we would not have made without your help. Rivendell thanks you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4950ed5",
+      "en": "<rgb=#00ffff>Encounter Complete: Bruidagnir has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x225ea1",
+      "en": "<rgb=#00ffff>Encounter: An Elf-voice comes from the east, 'We are running out of arrows! Gather some up!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46646c5",
+      "en": "<rgb=#00ffff>Encounter Complete: Durkúf has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x225ea2",
+      "en": "<rgb=#00ffff>Encounter Update: The Elf cries out, 'Now, bring the arrows back to the basket over here!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x225ea3",
+      "en": "<rgb=#00ffff>Encounter Update: The Elf cries out, 'Half-way there, only five more to go!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x225ea4",
+      "en": "<rgb=#00ffff>Encounter Complete: The Elf cries out, 'Great work, we'll keep the pressure on!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29839f5",
+      "en": "'Now we will finish this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb68571e",
+      "en": "'We will not allow you to cross these waters. Rivendell shall never fall to your kind.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Elrohir at the Ford of Bruinen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Push back the first assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0122f2",
+      "en": "'My arrows will slay the sons of Elrond!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Push back the second assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Push back the third assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Push back the fourth assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Fend off the final assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Elladan must survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Elrohir must survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc772da4",
+      "en": "'Come, let us meet them in the middle of the Ford and dare them to come forth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bcddcc",
+      "en": "Central Siege-tower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8676061",
+      "en": "TESTING!!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69dcd6f",
+      "en": "'Sons of Elrond, I will delight in knowing your bodies will be floating here in the Bruinen while I watch Rivendell burn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8c6d62",
+      "en": "<rgb=#00ffff>Encounter: Kolluth the Orc charges</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x805f3e1",
+      "en": "<rgb=#FF0000>The first assault is beginning. Prepare yourself</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x805f3e2",
+      "en": "<rgb=#FF0000>The second assault is beginning. The battle is rejoined</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x805f3e3",
+      "en": "<rgb=#FF0000>The third assault begins. The Enemy is still hungry for battle</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x805f3e4",
+      "en": "<rgb=#FF0000>The fourth assault begins. Their ranks are thinning</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28839f5",
+      "en": "'The first assault has been broken. Rest quickly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce08133",
+      "en": "The waters rise as the Bruinen roars!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6992f15",
+      "en": "<rgb=#00ffff>Encounter Complete: Kunquín has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Elrohir and Elladan, sons of Elrond, are prepared to stand against the army of the Enemy attempting to cross the Bruinen. Elrohir is awaiting your arrival.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The first assault has been launched. The Ford and the sons of Elrond must be defended.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "The second assault has been launched. The Enemy shows no signs of slowing.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The third assault has been launched. The Enemy appears to be wavering in morale and decreasing in number.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c275c8",
+      "en": "South Siege-tower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "The fourth assault has been launched. The Enemy's forces are dwindling quickly and are nearly at their end.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "The final assault begins as the leader of the Enemy's forces enters the battle. Defeat him, and the invasion will be thwarted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2fbc27",
+      "en": "This basket holds arrows.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f6eac1",
+      "en": "'First assault, over the walls!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80de7d2",
+      "en": "<rgb=#00ffff>Encounter: A banner of Rivendell drops from Kolluth's outstretched arm. It should be planted in the middle of the Ford</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f6eac2",
+      "en": "'Second assault, take the Ford or meet your doom!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f6eac3",
+      "en": "'Third assault. Bring me to Rivendell's door!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f6eac4",
+      "en": "'Fourth assault. Return victorious or not at all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca71765",
+      "en": "'I call forth the storm and the rain!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d1c127",
+      "en": "Black powder placed here would greatly damage this siege tower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbfae13",
+      "en": "The archers call from behind you, 'Incoming Volley!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27839f5",
+      "en": "'The second assault is no more. Gather your wits; this is not yet done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Ford of Bruinen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffd49d2",
+      "en": "<rgb=#00ffff>Encounter: A keg of black powder falls softly next to Morghâsh. The base of the North tower appears vulnerable</rgb>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

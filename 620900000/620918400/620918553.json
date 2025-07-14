@@ -1,0 +1,377 @@
+{
+  "id": 620918553,
+  "txt": [
+    {
+      "id": "0x6ffaf95",
+      "en": "Purchased an item for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99d1e4c",
+      "en": "Travel to this Objective",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60c0294",
+      "en": "Mithril Coin Balance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x790edc7",
+      "en": "Travel to this location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8797fa7",
+      "en": "Reset daily tasks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0c7169",
+      "en": "Increased Maximum Tier of the Imbued Legacy for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdef5cac",
+      "en": "[placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cc3b9e",
+      "en": "Purchased a big battle trait configuration for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2831cd5",
+      "en": "Unslotted #1:[placeholder] #1:{essence[1]|essences} for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba98149",
+      "en": "Unlocked an empty legacy slot for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6060ac",
+      "en": "Balance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdc392c",
+      "en": "Would you like another Hobbit Present?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x434c89",
+      "en": "Milestone purchased for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7eaef7",
+      "en": "Purchase [placeholder] housing storage slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6862417",
+      "en": "Purchase housing upkeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80b69ac",
+      "en": "for",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb58d957",
+      "en": "Purchase Milestone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb061143",
+      "en": "Purchased additional quest log slots for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x593d907",
+      "en": "Purchase an additional trait configuration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fe559",
+      "en": "Replaced the selected legacy for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea00c7",
+      "en": "Purchase additional [placeholder] quest slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x210e3e7",
+      "en": "Unlock Legacy Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bd2487",
+      "en": "Increase daily task limit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5db0930",
+      "en": "Purchased #1:[placeholder] housing #1:{upkeep[1]|upkeeps} for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x729d647",
+      "en": "Purchase Ettenmoors access ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c56277",
+      "en": "Purchase house unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7caa337",
+      "en": "Level up #-1:[placeholder] #-1:{individual tracery[1]|all traceries}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dbbeb4",
+      "en": "Purchased craft recipe cooldown reset for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x819b477",
+      "en": "Create housing decoration from skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcea084",
+      "en": "Purchased a quest reset for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc6a7d7",
+      "en": "Travel to this location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe44ceac",
+      "en": "Reset this Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf4e8b7",
+      "en": "Replace Legacy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9be67e7",
+      "en": "Purchase Premium House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x776409c",
+      "en": "Purchased quest travel for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46b279c",
+      "en": "Created housing decoration from skill for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa860534",
+      "en": "Purchased a task reset for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36a5be7",
+      "en": "Unslot #-1:[placeholder] #-1:{individual essence[1]|all essences}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x444452e",
+      "en": "Purchased a reputation acceleration for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52181dc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x954107",
+      "en": "Repair all equipment damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x611fa65",
+      "en": "Unslotted #1:[placeholder] #1:{tracery[1]|traceries} for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8672fb5",
+      "en": "Purchased a task increase for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf42c107",
+      "en": "Increase reputation gain by 5000",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ab0057",
+      "en": "Double Deed Progress (90 mins)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ebccb4",
+      "en": "Purchased deed acceleration for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3e9838",
+      "en": "** Translate Me **",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae9e32e",
+      "en": "Purchased a trait configuration for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1ae237",
+      "en": "Increase Maximum Tier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4d57bc",
+      "en": "Purchased travel for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e02953",
+      "en": "Purchased [placeholder] of temporary access to The Ettenmoors for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7314097",
+      "en": "Reset craft recipe cooldown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc550e20",
+      "en": "Purchased #1:[placeholder] kinship housing #1:{upkeep[1]|upkeeps} for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb70e2",
+      "en": "Purchased item repair for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0a36c7",
+      "en": "Create housing decoration from skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32b2a77",
+      "en": "Unslot #-1:[placeholder] #-1:{individual tracery[1]|all traceries}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8749f77",
+      "en": "Create housing decoration from skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4757239",
+      "en": "Purchased additional housing bank capacity for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb43ad3c",
+      "en": "Purchase this Outfit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa10078c",
+      "en": "Get more [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe299ae5",
+      "en": "Purchased premium house for [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47730ac",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

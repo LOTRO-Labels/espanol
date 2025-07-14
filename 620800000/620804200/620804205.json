@@ -1,0 +1,251 @@
+{
+  "id": 620804205,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'Shame? Why, the gall of that Man! I would go and speak with Rauno myself, if I had not already had a falling out with him.\\n\\n'I innocently inquired after the making of his craft, but he would not speak on the subject. We exchanged a number of words, and now he will not say a word to me! He is an evil-tempered lout; I would not think his silence a great loss were it not for my present need.\\n\\n'Perhaps you could speak with him and see if he will give me one of the sturdy shields of the Lossoth. I will not be able to travel back to the South without a new shield!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'I wonder that this shield remained unsundered for as long as it did, [placeholder]. Its craftsmanship is very poor and the materials from which it is made are of poor quality.\\n\\n'I will not repair this worthless shield. I would bring shame upon myself and my family if I did so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Time for a New Shield",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'The kilpi is finished. Take it to Nef, and bid him to seek his companions and return to his own home.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I do not cherish the thought of making a shield for Nef. He came to me with wild requests, and when I told him what I had at hand for materials, he said many things that I will not repeat now. I do not need to offend your ears also.\\n\\n'But if he will not leave until his shield is completed, I will make it, if only to see him depart. The items that I require would be hard-bone and worm scale. Both are rare, and both are vital to the making of kilpi -- shields, as the Kivi-väki calls them.\\n\\n'Hard bone can be found on many of the beasts throughout Jä-rannit, while worm scale should be found on the worms of the same region. Return to me when you have found these items, and I will craft the shield for the small outsider with the long beard and bad temper.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Collected hard bones  ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'I am sure it won't be as good as new, but perhaps the Snow-men will repair my shield.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'You have returned with the hard bones and worm scales? I will begin work on the kilpi right away. It should not take long, as I have already completed much of the work while you were away.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Collected worm scales ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Had I another choice, I would not ask the Snow-men for another shield, but there are no other smiths to do the work.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'Have you recovered any hard bones and worm scales yet, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The Lossoth craftsmen are in the Great Lodge in Sûri-kylä, west of Nef.\\n\\nNef has asked you to speak with the Lossoth craftsmen to learn if they are able to repair his broken shield.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Is the shield finished? What did Rauno say?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'Well now...this looks like a decent piece of work.\\n\\n'Thank you, [placeholder]. This should do, though I will want to replace it with something a bit more durable once I reach Bree again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Nef is in Sûri-kylä, east from the Great Lodge.\\n\\nYou should return to Nef and tell him what you learned from Rauno.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'I would be shamed if I repaired this shield, for it is an unworthy piece.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'Has Rauno finished my shield yet?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Rauno is in Sûri-kylä, west from Nef in the Great Lodge of Sûri-kylä.\\n\\nNef has asked you to return to Rauno and try to convince him to craft a new shield for him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'If I am to make a new kilpi for this Nef, I will need hard bone and worm-scales.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Hard bone can be found on beasts throughout Jä-rannit. Worm scale can be found on worms throughout Jä-rannit.\\n\\nRauno has asked you to collect hard bones and worm scales so that he may make a shield for Nef.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'I hope never to see the short one ever again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Rauno is in Sûri-kylä, north from where you collected the items he requested.\\n\\nYou should bring the hard bones and worm scales to Rauno so he can complete Nef's shield.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c47",
+      "en": "'I will have to talk to that Bill Ferny fellow about the shield he sold me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Rauno is in Sûri-kylä.\\n\\nYou should speak with Rauno to see if Nef's shield is ready.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Nef is in Sûri-kylä, east from Rauno.\\n\\nRauno told you to take the shield he made to Nef and bid him leave Sûri-kylä.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50aa9e1",
+      "en": "'A new shield, Baruk Khazâd!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50aa9e2",
+      "en": "'But... how will I afford to repair such a wonderful shield?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50aa9e3",
+      "en": "'How could you have done this to me!?!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50aa9e4",
+      "en": "'This is not fair; you must share with me the cost to repair my new shield!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to the Lossoth craftsmen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Nef",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Rauno",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa447841",
+      "en": "'It will not be long now, I have only to attach the bone and scales.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Rauno",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Collect hard bones  ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Collect worm scales ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Bring hard bones and worm scales to Rauno",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Get the shield from Rauno",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Bring the shield to Nef",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You found Nef's shield, but it had been broken by the beast that drove him off.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Bah! This will not do at all! What is a guardian without his shield? He is but half a dwarf, I reckon. I will not be satisfied until I have my shield repaired.\\n\\n'Go and speak with the Lossoth craftsmen here in Sûri-kylä. They are strange Men, but perhaps they will be able to repair it. Otherwise, I do not know what I will do.\\n\\n'The Lossoth craftsmen can be found inside the Great Lodge in Sûri-kylä. Now, run along! I will not have you waste any more time hovering about like a gnat.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": 620894040,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'You seem somewhat disconcerted, [placeholder]. Did your plan not go well? Was there trouble?'\\n\\nNoriel listens gravely as you tell her of the stubborn hunter Wynmar, and his fearlessness in the face of concern for his missing companion.\\n\\n'I see. Let me think a moment, my friend. They must leave, but I would not have them abandon their lost fellow.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'A [placeholder] and not a spirit? You wanted to frighten us off, and I see the edge of the Dwimordene's haunted wood nearby. Perhaps you see us as trespassers.\\n\\n'We shall go, but only if you return our missing hunter to us. He has not been seen since daybreak, but would not have wandered far. Have you seen him?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Another Gentle Nudge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'A Dwimordene and not a ghost, eh? You wanted to scare us off, and I see the edge of your haunted wood nearby. Perhaps you see us as trespassers.\\n\\n'We shall go, but only if you return our missing hunter to us. He has not been seen since daybreak, but would not have wandered far. Have you seen him? Are there others you could ask for news of his fate?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'A halfling! You are not a ghost, are you?\\n\\n'You wanted to scare us off, and I see the edge of the Dwimordene's haunted wood nearby. Perhaps you see us as trespassers.\\n\\n'We shall go, but only if you return our missing hunter to us. He has not been seen since daybreak, but would not have wandered far. Have you seen him? Are there others you could ask for news of his fate?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "This hunter does not seem to want to leave...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'You again? Why do you return, [placeholder]?'\\n\\nWynmar listens as you explain that he and his folk trespass in Thinglad, but the Elves wish to help them find their missing companion... on the condition that they do not wander from their camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "This is a good hiding spot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "The hunter is determined to stay put",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The hunters' camp is a little to the north of Haldirith.\\n\\nYou should try to frighten Wynmar, the leader of the hunters' camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "This is a good place to hide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Wait a few moments before trying again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "It would seem that one of these men has gone missing, and his companions are concerned for his fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "The hunters' camp is a little to the north of Haldirith.\\n\\nYou should try to frighten Wynmar, the leader of the hunters' camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "Noriel wishes for you to bid the huntsmen stay and wait while the missing hunter is sought",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The Rohirrim leader of the hunters' camp is in the north-western woods of Thinglad.\\n\\nSince your tactics are not working against this stubborn Rohirrim, you should try speaking with him instead of trying to frighten him away.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "Noriel wishes for you to bid the huntsmen stay and wait while the missing hunter is sought",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Noriel is at the Elf-outpost of Haldirith.\\n\\nYou should bring news of this twist in the plan to Noriel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Wynmar is at his camp in Thinglad.\\n\\nYou should tell Wynmar to stay put while you and Noriel search for his missing friend.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "<rgb=#FF0000>Whistle</rgb> at Wynmar, the leader of the Rohirrim hunter camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Wait a few moments",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "<rgb=#FF0000>Roar</rgb> at the leader of the Rohirrim hunter-camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to the leader of the men at the hunters' camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Consult with Noriel at Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Tell Wynmar and his men to stay put",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Tell Wynmar and his men to stay put",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Talk to Noriel at the edge of the camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Tell Wynmar and his men to stay put",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Since your prankish tactics worked so well to persuade the fishermen to leave, you have been asked to try the same ploy on the huntsmen from Stangard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'The ploy to frighten the fishermen worked rather well. I think we should use it again on the huntsmen and see if they scare as easily as their kinsmen.\\n\\n'Try once more to make these woods look haunted, so that the rumours will follow these Men back to Stangard and weaken their desire to come here for another generation. Good luck -- and try not to be spotted by the hunters.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

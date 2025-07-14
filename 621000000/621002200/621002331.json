@@ -1,0 +1,41 @@
+{
+  "id": 621002331,
+  "txt": [
+    {
+      "id": "0x5a4ad05",
+      "en": "You failed to receive the unique item. Item already exists in your inventory!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bcb2d5",
+      "en": "You fail to open the chest. Inconceivable!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2390b75",
+      "en": "The chest has already been opened.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Rare Mordor Chest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57ac5e2",
+      "en": "[placeholder] received: [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2555e96",
+      "en": "You open the rare chest and find: [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

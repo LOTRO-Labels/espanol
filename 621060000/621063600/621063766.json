@@ -1,0 +1,617 @@
+{
+  "id": 621063766,
+  "txt": [
+    {
+      "id": "0x6a50260",
+      "en": "Give pats to Gruntius Took",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Talk to Magetha Grubb inside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50263",
+      "en": "Talk to Camellia Boffin inside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Talk to Camellia Boffin outside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50270",
+      "en": "Ring the bell outside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50272",
+      "en": "Go inside 9 Honeymead Lane and figure out how to hide the evidence of Dinodas's mistake",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50274",
+      "en": "Talk to Magetha Grubb inside her home",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50275",
+      "en": "Give pats to Hazel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50276",
+      "en": "Give pats to Mother Lissome",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50277",
+      "en": "Give pats to Grumble",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50278",
+      "en": "Give pats to Nosewise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50279",
+      "en": "Give pats to Treacle Tom",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56866",
+      "en": "'I am not happy to have become a part of this, [placeholder], but I do not want to upset Angelica or my mother any more than we already have... so I will do what I can to help. Maybe we can bring the gift to the Mathom-house in Michel Delving? No, that would take too long.\\n\\n'What if we just hide the painting somewhere nearby? There must be a hiding-place in Nobottle where we can leave it, and just forget the whole thing? Then sometime after the party we can collect the stashed painting and bring it to the Mathom-house without a care in the world.\\n\\n'See if you can find a good hiding-place somewhere in Nobottle, [placeholder]. We have to hide the evidence of Dinodas's clumsy, foolish error!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56867",
+      "en": "'See if you can find a good hiding-place somewhere in Nobottle, [placeholder]. We have to hide the evidence of Dinodas's clumsy, foolish error!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56868",
+      "en": "'You weren't able to find a hiding-place free of nosey hobbits? We'll need to think of something else.\\n\\n'Let's see, we have a gift-wrapped painting of 9 Honeymead Lane... what if we give it to the hobbit who actually lives there? We can say it is a gift from Angelica to her new neighbour!\\n\\n'Go ring the bell, [placeholder]! I think we have found the perfect solution!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56869",
+      "en": "'You heard someone moving around inside, but no one came to the door? That's odd. I always heard the Yonder-hobbits were a little peculiar, but I would still expect them to answer their door-bells!'\\n\\nCamellia grimaces.\\n\\n'Don't tell Angelica I said the Yonder-hobbits were peculiar, [placeholder]. She's one of them now, after all, and she's already pretty angry with us! I don't want to make it any worse!\\n\\n'Let's make these nosey hobbits useful to us. Ask them what they know about the owner of 9 Honeymead Lane.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Camellia is waiting outside 9 Honeymead Lane to hear how it went.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Nosey hobbits throughout Nobottle may be able to tell you something useful about the owner of 9 Honeymead Lane.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Camellia is waiting outside 9 Honeymead Lane to hear how it went.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'Yes? Can I help you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Now that she has unwittingly become involved in her brother's conspiracy, Camellia Boffin needs your help to hide the evidence that the house-warming gift intended for Angelica was a painting of her neighbour's house!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "According to the rumours you uncovered, the owner of 9 Honeymead Lane is a hobbit named Magetha Grubb, and she departs for Long Cleeve every morning.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Magetha Grubb will not discuss any personal business until villains at each of the locations observed by the Bounders in Yondershire have been dealt with.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Camellia Boffin is waiting for you to return to Nobottle with good news.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Camellia thinks you might be able to hide the evidence of Dinodas's mistake by giving the painting to Angelica's neighbour.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Find a suitable hiding spot for the evidence ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'Go ring the bell, [placeholder]! I think we have found the perfect solution!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a0",
+      "en": "You should go inside 9 Honeymead Lane and see what can be done with the incorrect house-warming painting.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'9 Honeymead Lane? That's Magetha Grubb's place. She spends most everyday away from home, though.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'9 Honeymead Lane is where Magetha Grubb lives! I've heard strange sounds coming from her place during the day, but I don't know what might be causing them. She never has any visitors, you know.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Magetha Grubb is at home inside 9 Honeymead Lane.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfab2dd1",
+      "en": "'Hey, what have you got there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'9 Honeymead Lane belongs to Magetha Grubb. If you're around at the right time of day, you might see some big sacks getting dropped off outside. I've never heard anyone say what they might contain, though.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfab2dd2",
+      "en": "'Oh, what have you got up there? That looks interesting!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Magetha Grubb has asked you to pet her animals so they will be put at ease with having strangers in their home.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfab2dd3",
+      "en": "'I say, that does raise my curiosity!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "Magetha Grubb has asked you to pet her animals so they will be put at ease with having strangers in their home.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a6",
+      "en": "Magetha Grubb has asked you to pet her animals so they will be put at ease with having strangers in their home.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "Magetha Grubb is at home inside 9 Honeymead Lane.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Camellia Boffin is inside 9 Honeymead Lane.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a0",
+      "en": "'Perfect, Magetha, excellent. I am pleased for my sister to have such a pleasant neighbour, and no need to thank her in person, I will convey your thanks to her myself, no need to trouble yourself, none at all.\\n\\n'All right, [placeholder]? Ready to go? We should really be going.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'Thank you again for the present, friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'I will meet you outside.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Camellia said she would meet you outside 9 Honeymead Lane.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'Thank you again for this lovely gift, friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1142",
+      "en": "Camellia says she will speak to Magetha while you get to know the animals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1144",
+      "en": "Everyone bids farewell, and Camellia says she will meet you outside",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'Let's go inside and get this done!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1151",
+      "en": "'Come on in!' you hear Magetha Grubb call from inside",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1153",
+      "en": "9 Honeymead Lane is full of animals!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b8",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Hiding the Evidence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Potential hiding spots for the evidence can be found throughout Nobottle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1161",
+      "en": "This must be Magetha Grubb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Camellia Boffin is outside 8 Honeymead Lane.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1164",
+      "en": "Defeated ruffians at Ost Lagorath ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Camellia thinks you might be able to hide the evidence of Dinodas's mistake by giving the painting to Angelica's neighbour.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1166",
+      "en": "Defeated cowardly boggarts in Yondershire ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "You are waiting for Angelica's neighbour at 9 Honeymead Lane to come to the door.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "Defeated goblins on the eastern side of Bâr Faroth ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56810",
+      "en": "'Let's make these nosey hobbits useful to us. Ask them what they know about the owner of 9 Honeymead Lane.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56811",
+      "en": "'So this home belongs to someone named Magetha Grubb, but no one seems to know very much about her? Most curious, [placeholder]. We are no nearer to learning the cause of those strange sounds or the contents of the big sacks that get left outside her house, but we'll not let those mysteries trouble us... we have a more pressing worry: getting rid of this painting without Angelica finding out about it!\\n\\n'While you spoke with the nosey hobbits, I did some asking around of my own, and it sounds like Magetha Grubb leaves her home every morning and heads in the direction of Long Cleeve. Let's look for her near there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56812",
+      "en": "'While you spoke with the nosey hobbits, I did some asking around of my own, and it sounds like Magetha Grubb leaves her home every morning and heads in the direction of Long Cleeve. Let's look for her near there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56813",
+      "en": "'Yes? Can I help you?'\\n\\nYou introduce yourself as a friend of Magetha's new neighbour Angelica Boffin, but before you can continue the hobbit woman holds up a hand.\\n\\n'I am sorry to interrupt, but I am busy working. You see, I spend my days coordinating with the Bounders to help with the various dangers that threaten Yondershire, and I simply cannot discuss personal matters or other frivolities until the work is finished for the day. Today we are dealing with ruffians at ruins to the north-west, an infestation of boggarts to the north, and a pack of goblins to the north-east.\\n\\n'Once those dangers are faced, I will gladly meet with you back at Nobottle, of course.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56814",
+      "en": "'Today we are dealing with ruffians at ruins to the north-west, an infestation of boggarts to the north, and a pack of goblins to the north-east.\\n\\n'Once those dangers are faced, I will gladly meet with you back at Nobottle, of course.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56815",
+      "en": "'Well, now's our chance: Magetha Grubb has returned home! Go ring her doorbell, and if she doesn't answer THIS time... I suppose we'll know that Angelica's neighbour is a rude sort. I hope that is not the case, because we have to hide this evidence!'\\n\\nCamellia blushes, and quickly looks to the left and to the right.\\n\\n'I mean, we have to give her a thoughtful and meaningful gift. You know what I mean. Go ring the bell, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56816",
+      "en": "'Go ring the bell, [placeholder], and we can give Magetha our thoughtful gift.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56817",
+      "en": "'Welcome to my home, friends. I hope you will forgive the mess! I greatly enjoy my work aiding the Bounders, and there is no shortage of work to be done! It has not been as enjoyable lately, I will grant you that. A certain troublesome hobbit from away has been trying to take control, but so far we have managed to limit his influence. He is truly a bother.\\n\\n'Do you like animals? It seems that I am always adopting more lovelies from Prunella Goldworthy... I simply cannot help myself! Sadly, I have to leave my pets at home during the day, and I know they get lonely. They go through a lot of food, and it costs me more than a few pennies, but I do love my precious creatures. Perhaps you can show them some attention while I speak to this hobbit-lass? Some pats should put them at ease!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "Ring-a-ding-dillo!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56818",
+      "en": "'This is quite a lovely painting of my home. I must admit I have never heard of this tradition before: when a hobbit moves into a neighbourhood, you give gifts to your neighbours, just like on a birthday? Camellia is right, it IS like a birthday for your home, I suppose. In a sense.'\\n\\nMagetha frowns unhappily.\\n\\n'I have moved into several new homes over the course of my life... how many neighbours have I disappointed when I failed to give them presents? But this is a very sweet gift, and I will welcome Angelica to Nobottle the very next chance I get!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56819",
+      "en": "'The evidence has been successfully hidden, [placeholder]! We are like fish that have escaped the hook, no thanks to Dinodas! And not only that, but the two of us made a good impression on Angelica’s neighbour! Good deeds all around, I say.'\\n\\nCamellia breathes a deeply relieved sigh.\\n\\n'Not bad, not bad. Mother is sure to be pleased... not that she can ever know! Promise me you won't tell her about our part in these shenanigans, [placeholder]. It turns out this victory is for us alone!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "There is no answer from inside... but you do hear unusual rustling sounds from behind the door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Find Magetha Grubb at Long Cleeve",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Talk to Magetha Grubb at Long Cleeve",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Defeat ruffians at Ost Lagorath ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "The nosey hobbit peers at you curiously. This is not a good spot!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "The nosey hobbit peers at you suspiciously. This is not a suitable spot!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50245",
+      "en": "Defeat cowardly boggarts in Yondershire ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "The nosey hobbit peers at you intently. This is not an appropriate spot!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Defeat goblins on the eastern side of Bâr Faroth ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Talk to Camellia Boffin outside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Camellia Boffin outside 8 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Ring the bell outside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01149",
+      "en": "According to the rumours you uncovered, the owner of 9 Honeymead Lane is a hobbit named Magetha Grubb, and she departs for Long Cleeve every morning.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Wait for the home-owner of 9 Honeymead Lane to answer the door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50256",
+      "en": "Talk to Camellia Boffin outside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Talk to nosey hobbits around Nobottle ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Talk to Camellia Boffin outside 9 Honeymead Lane",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

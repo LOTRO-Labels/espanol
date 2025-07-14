@@ -1,0 +1,257 @@
+{
+  "id": 621007268,
+  "txt": [
+    {
+      "id": "0xeb01143",
+      "en": "Now that you have the key, you must find the keyhole.\\n\\nYou should find the keyhole.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "An old piece of parchment was left behind here. It appears to have been written very quickly:\\n'Forced to flee. Seek me in Othrikar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Rúnvarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'Can I help you, [placeholder]? You seem to be looking for something.'\\n\\nYou tell him you are looking for the Secret Stone. He bristles at the mention of the name.\\n\\n'How do you know about that?! Keep your voice down!'\\n\\nYou tell him that King Thorin has tasked you with finding it.\\n\\n'I see! You are on the right track, but I'm afraid I can't help you... unless you know whom to ask for.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Collect the items for Rúnvarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Talk to Rúnvarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01146",
+      "en": "You have found the Secret Stone inside Erebor!\\n\\nYou should claim the Secret Stone!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'Yes, this is what is needed, just a moment.'\\n\\nHe goes inside the house. You hear forge bellows and hammering. The noise ceases, and he returns.\\n\\n'Here is your newly forged key.'\\n\\nHe notices your confused expression and chuckles.\\n\\n'Ah, that piece of metal from Old Gnawer? That was the previous key. I needed to make you a new one. That is why I told you it was impossible to simply hand it to you! Now, you must find the keyhole to claim your prize. And to find that, you must return to where you started. Good luck, and remember, don't stare into the stone, or it will steal your mind!'\\n\\nAnd with that, he returns to his home, and shuts the door behind him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "You found a note in Moria pointing you towards Othrikar.\\n\\nYou should find someone who knows something about the Secret Stone in Othrikar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Find the keyhole",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01149",
+      "en": "King Thorin III can be found in Erebor.\\n\\nYou should bring the Secret Stone to King Thorin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "You need to ask for Rúnvarth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Claim the Secret Stone!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "He quickly goes inside and then returns, followed by another dwarf.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Find someone in Othrikar who knows about the Secret Stone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01152",
+      "en": "You have discovered the name of the dwarf in Othrikar.\\n\\nYou should ask for Rúnvarth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b0",
+      "en": "You found a dwarf in Othrikar who knows about the Secret Stone, but he cannot help you unless you know whom to ask for.\\n\\nYou should discover whom to ask for in Othrikar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "Rúnvarth has told you that he needs three items from you.\\n\\nYou should discover what these items are.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "TBD Return to Othrikar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Rúnvarth can be found in Othrikar.\\n\\nYou should talk to Rúnvarth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d165",
+      "en": "King Thorin III has asked you to try to locate an ancient relic known as the Secret Stone. But what dangers did the poem warn about? Can you solve this mystery on your own?\\n\\n<rgb=#FF0000>This difficult treasure hunt will require community teamwork and resources outside of the game itself. Good luck! </rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e11",
+      "en": "'Good work finding the stone, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "You return to King Thorin and tell him of your adventure.\\n\\n'So, someone did indeed have sinister intentions for the Secret Stone! I cannot thank you enough for keeping it out of evil's hands and undoing this insidious plot! For now, we will see if we can use its power for the benefit of my people. If not, I will make sure it is sealed away for good.\\n\\n'On behalf of Durin's Folk, thank you, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e12",
+      "en": "'I knew some nosy adventurer would track it down if I left that old tome lying around.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e13",
+      "en": "'Thank you for doing what I could not. Karazgar will be pleased.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa12",
+      "en": "The Key and the Keyhole",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e14",
+      "en": "'I yield! I am sorry, [placeholder]. I knew I stood no chance against you, but I had to try.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e15",
+      "en": "'I found a hidden cache of weapons, and claimed I had forged them myself. Somehow Karazgar found out. He must have agents hidden in Erebor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e16",
+      "en": "'He threatened to reveal the truth to my kin.  I would have been shamed and banished! We are all just so desperate to reclaim our crafting skills...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "You ask Lúki to see Rúnvarth. He nods solemnly.\\n\\n'As you wish!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e17",
+      "en": "'I was such a fool. Please, forgive me...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5396e18",
+      "en": "'I offered to find the Secret Stone for him. He accepted the bargain. But, I could not find it on my own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Talk to King Thorin III",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a9",
+      "en": "Rúnvarth is an ancient dwarf, but you have the feeling that great wisdom has come with his age. He silently assesses you for a moment, and then speaks:\\n\\n'I am Rúnvarth, and I have what you seek, but it is impossible to simply hand it to you. Three items you must bring me, and only then can your quest continue.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Discover whom to ask for in Othrikar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50244",
+      "en": "Claim the Secret Stone!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "TBD Collect 3 Itmes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a254f2",
+      "en": "'Oof!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Rúnvarth can be found in Othrikar.\\n\\nYou should talk to Rúnvarth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Talk to Lúki",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "You hear someone enter the chamber behind you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa24",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

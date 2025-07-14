@@ -1,0 +1,575 @@
+{
+  "id": 620907703,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "Speak with Seoca to begin the next training course.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Jump each of the fences as you ride around the track.\\n\\nIf you miss a fence, your count will reset when you cross the start line and you can keep going.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f31",
+      "en": "'So far so good. Now for the jump trials.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f32",
+      "en": "'This is not so different from what you are used to on your northern horses.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f33",
+      "en": "'Just remember to slow down a bit if you are having trouble lining up your jumps.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f34",
+      "en": "'Line up and begin when you are ready.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Greetings, [placeholder]. I see you've earned yourself a fine steed of Rohan on which to ride forth. Finely done!\\n\\n'Yet steel yourself well - for this is no quiet mare, but a noble mount trained in the ways of war!\\n\\n'You'll find them spirited, and in some ways more difficult to ride than your prior mounts, but you will find that they possess the strength and stamina to do battle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f35",
+      "en": "'You missed some, but don't give up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Ok, now we will work on your combat skills.\\n\\n'Use the speed of your mount to keep you out of harm's way, while delivering devastating attacks against your enemies.'\\n\\n<rgb=#ff00>- Tip: Queue your attacks before you reach your target.\\n\\n- Tip: Slowing down before a turn lets you turn much faster.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f36",
+      "en": "'If you need to, slow down a bit between jumps to line them up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Excellent work, [placeholder]. It will take several years to truly master the art of mounted combat, but you are off to an excellent start.\\n\\n'I think the battlefield shall teach you more now than I can, and time is short. I have many young riders yet to train this day.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f37",
+      "en": "'Keep going! Mastery takes effort!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Right, easy isn't it? Well, now we'll make things a bit more interesting.\\n\\n'Next up is the flag course.'\\n\\n<rgb=#ffff00>- Tip: This course is not timed, but if you miss a flag, the flag count will restart on your next lap.\\n\\n- Tip: If you find the flags are too closely spaced to pass through at full speed, try slowing down a little.\\n\\n- Tip: Using the mouse to turn allows finer control than the the keyboard.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8de81",
+      "en": "Begin Lesson One!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f38",
+      "en": "'Stay focused, try to line up your jumps before you reach the fence!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Well, if you could handle that, this next part should be a breeze, right?\\n\\n'Time to work on jumping, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8de82",
+      "en": "Begin Lesson Two!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f39",
+      "en": "'Well run! I have added more fences for your final lap!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Good luck to you, [placeholder]!\\n\\n'Dark times are upon us, and I hope to see you at the forefront of our efforts to drive them back.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8de83",
+      "en": "Begin Lesson Three!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'Good luck to you, [placeholder]!\\n\\n'Dark times are upon us, and I hope to see you at the forefront of our efforts to drive them back.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8de84",
+      "en": "Begin Lesson Four!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8de85",
+      "en": "Begin Lesson Five!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302f40",
+      "en": "'Enough! You have proven your mettle on the riding course, [placeholder]. Come over here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f31",
+      "en": "'Ok, we have set up a series of flags along the course this time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f32",
+      "en": "'You must ride through each set of flags as you round the track.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f33",
+      "en": "'If you miss a flag, don't worry -- just continue around the track and we will start again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f34",
+      "en": "'Line up at the start, and begin whenever you are ready!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f35",
+      "en": "'You missed a few! Give it another round!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f36",
+      "en": "'Give it another go! Slow down if you have trouble with the flags!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f37",
+      "en": "'Keep going! Practice makes perfect!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f38",
+      "en": "'If you have trouble, slow down a bit in the turns.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f39",
+      "en": "'Great work! Keep moving! The red flags are next!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f40",
+      "en": "'Great! Now a challenge. Run through all the flags this time!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f41",
+      "en": "'Whoa there, [placeholder]. Enough!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f42",
+      "en": "'That is the spirit! You have the hang of the flags now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f43",
+      "en": "'Come over here and we will prepare the next course.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "Jump each of the fences as you ride around the track.\\n\\nIf you miss a fence, your count will reset when you cross the start line and you can keep going.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced11",
+      "en": "Speak with Seoca near the jousting course in the middle of the field.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced12",
+      "en": "This is the combat skill course.\\n\\nRide back and forth between the target dummies at either end of the field, striking each in turn.\\n\\n<rgb=#ffff00>- Tip: Queue your attacks before you reach your target.\\n\\n- Tip: Slowing down before a turn allows you to turn much faster.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced13",
+      "en": "Speak with Seoca to complete your training.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced14",
+      "en": "This is the Jousting Course.\\n\\nYou must make five quick consecutive passes between the two target dummies in the middle of the tourney field.\\n\\nIf you make a mistake, you can simply continue riding and making attempts until you get the hang of the course.\\n\\n<rgb=#FF0000>-- Important: This course is timed -- if you take too long to finish a pass, your instructor will restart the count.</rgb>\\n\\n<rgb=#00FF00>-- Tip: Jousting requires you to slow to  a trot (about 1/2 speed) in order to execute very tight turns.\\n\\n-- Tip: You will need to move at a full gallop on the straightaways in order to make it in time. Controlling your speed is essential.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced15",
+      "en": "Speak with your Riding Instructor to complete your training.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Speak with Seoca",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Mount your war-steed near the outer starting line",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Laps completed ([placeholder]/2)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Speak with Seoca",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Blue flags passed ([placeholder]/6)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Red flags passed ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "All flags passed ([placeholder]/11)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Speak with Seoca",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Fences jumped ([placeholder]/4)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f31",
+      "en": "'Now comes your combat training.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f32",
+      "en": "'When fighting from horseback, try to stay in motion!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f33",
+      "en": "'If you find yourself fighting from a standstill, you will be better off on foot.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Ride through the blue flags",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f34",
+      "en": "'But keeping yourself mobile works best to limit your enemy's opportunity to attack you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Blue flags passed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f35",
+      "en": "'Just as importantly, as your mount races across the plains its Fury will build, enhancing your blows.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "Red flags passed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f36",
+      "en": "'Some of your most powerful combat skills may only be used if your mount's Fury is near its peak.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "Flag course completed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f37",
+      "en": "'I have set up target dummies at either end of the field to test your skills upon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "Lap Completed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f38",
+      "en": "'You need to ride back and forth between them, striking each in turn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "Fence Course Completed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f39",
+      "en": "'Now go! Show me what you have!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "Course Completed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3688",
+      "en": "Course Completed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f40",
+      "en": "'Keep trying! You will get it soon enough!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f41",
+      "en": "'Excellent! Just a few more passes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f42",
+      "en": "'Great work, [placeholder]! Come on over here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f43",
+      "en": "'Remember to keep moving in battle, never let yourself be trapped and overwhelmed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f44",
+      "en": "'The speed and fury of your mount will allow you to swiftly dispatch foes, if used properly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x332f45",
+      "en": "'Now be off with you! You do not have time to listen to an old man like me prattle on -- there is darkness afoot, and you must face it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Tourney Field: Mounted Combat Tutorial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2f31",
+      "en": "'Ok [placeholder], mount up on your war-steed here, and let us get started.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2f32",
+      "en": "'Now give me two circuits of the track. Take it as slow as you like while you get used to it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2f33",
+      "en": "'Good! Keep going, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2f34",
+      "en": "'Stop! That is fine! Come with me and we will start the next course.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have begun a short training tutorial at the Harwick Stables to teach you how to control your war-steed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Fences jumped ([placeholder]/6)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Speak with Seoca",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Blows landed ([placeholder]/10)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Speak with Seoca",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Jousting Passes ([placeholder]/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Speak with your Riding Instructor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc929ac1",
+      "en": "Course Complete!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Begin your instruction in how to ride a war-steed by speaking with Seoca.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Mount your war-steed near the outer track starting line.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Follow the direction of Seoca as you circle the tourney field and learn to control your steed.\\n\\nYou must make two full circuits of the outer track in order to proceed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Speak with Seoca.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Run the flags course as directed by Seoca.\\n\\nOn the first round, you must pass through the blue flags.\\n\\nOn the second round, you must pass through the red flags.\\n\\nOn the third round, you must pass through both sets of flags at once.\\n\\n<rgb=#00FF00>Tip: This course is not timed, but if you miss a flag, the flag count will restart on your next lap.\\n\\nTip: If you find the flags are too closely spaced to pass through at full speed, try slowing down a little.\\n\\nTip: Using the mouse to turn allows finer control than the the keyboard.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Run the flags course as directed by Seoca.\\n\\nOn the first round, you must pass through the blue flags.\\n\\nOn the second round, you must pass through the red flags.\\n\\nOn the third round, you must pass through both sets of flags at once.\\n\\n<rgb=#ffff00>- Tip: This course is not timed, but if you miss a flag, the flag count will restart on your next lap.\\n\\n- Tip: If you find the flags are too closely spaced to pass through at full speed, try slowing down a little.\\n\\n- Tip: Using the mouse to turn allows finer control than the the keyboard.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Run the flags course as directed by Seoca.\\n\\nOn the first round, you must pass through the blue flags.\\n\\nOn the second round, you must pass through the red flags.\\n\\nOn the third round, you must pass through both sets of flags at once.\\n\\n<rgb=#0000FF>Important: This course is not timed, but if you miss a flag, the flag count will restart on your next lap.</rgb>\\n\\n<rgb=#00FF00>Tip: If you find the flags are too closely spaced to pass through at full speed, try slowing down a little.\\n\\nTip: Using the mouse to turn allows finer control than the the keyboard.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

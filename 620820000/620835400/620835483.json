@@ -1,0 +1,767 @@
+{
+  "id": 620835483,
+  "txt": [
+    {
+      "id": "0xc1733b5",
+      "en": "Ancient Dwarf Damage Type + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48d57d5",
+      "en": "Fire Damage Modifier + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33547bc",
+      "en": "Frost Damage Modifier + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4645294",
+      "en": "Dead Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf822609",
+      "en": "Light Damage Modifier + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2fa8c",
+      "en": "Lightning Damage Modifier + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5ef359",
+      "en": "Tactical Mitigation Modifier + Physical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90adea5",
+      "en": "Physical Mitigation Modifier + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6426a14",
+      "en": "Giant Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a9dfe5",
+      "en": "Tactical Mitigation Modifier + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b02d15",
+      "en": "Physical Mitigation Modifier + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86f0c09",
+      "en": "Beleriand Damage Type + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90a935",
+      "en": "Physical Mitigation Modifier + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa16a985",
+      "en": "Light Damage Modifier + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bec48b",
+      "en": "Beleriand Damage Type + Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27d21e7",
+      "en": "Lightning Damage Modifier + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a04675",
+      "en": "Light Damage Modifier + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c739b9",
+      "en": "Physical Mitigation Modifier + Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8094bb3",
+      "en": "Westernesse Damage Type + Orc Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1241d19",
+      "en": "Tactical Mitigation Modifier + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97bfbc",
+      "en": "Physical Mitigation Modifier + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91866d7",
+      "en": "Physical Mitigation Modifier + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c31889",
+      "en": "Beleriand Damage Type + Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x946ce2c",
+      "en": "Westernesse Damage Type + Troll Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe111b4c",
+      "en": "Ancient Evil Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x929e66b",
+      "en": "Ancient Dwarf Damage Type + Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93580a4",
+      "en": "Westernesse Damage Type + Beast Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74fc72c",
+      "en": "Fire Damage Modifier + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x975db25",
+      "en": "Beleriand Damage Type + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7e9e8e",
+      "en": "Ancient Dwarf Damage Type + Unseen Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedcfd13",
+      "en": "Beleriand Damage Type + Orc Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec01e47",
+      "en": "Fire Damage Modifier + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42d8fac",
+      "en": "Tactical Mitigation Modifier + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72de999",
+      "en": "Ancient Dwarf Damage Type + Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b956b5",
+      "en": "Beleriand Damage Type + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8132c55",
+      "en": "Tactical Mitigation Modifier + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24f4109",
+      "en": "Beleriand Damage Type + Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5c7664",
+      "en": "Beleriand Damage Type + Insect Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x138c709",
+      "en": "Physical Mitigation Modifier + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3325135",
+      "en": "Frost Damage Modifier + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fc8835",
+      "en": "Tactical Mitigation Modifier + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff15145",
+      "en": "Beleriand Damage Type + Nature Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9330e04",
+      "en": "Ancient Dwarf Damage Type + Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11b91b5",
+      "en": "Beleriand Damage Type + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b19075",
+      "en": "Fire Damage Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeae75c5",
+      "en": "Lightning Damage Modifier + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce66a84",
+      "en": "Beleriand Damage Type + Giant Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x310f3f6",
+      "en": "Ancient Dwarf Damage Type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x631a785",
+      "en": "Light Damage Modifier + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe465913",
+      "en": "Orc Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95183c",
+      "en": "Tactical Mitigation Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39508f4",
+      "en": "Ancient Dwarf Damage Type + Beast Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf99c569",
+      "en": "Ancient Dwarf Damage Type + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93618fc",
+      "en": "Physical Mitigation Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61a0877",
+      "en": "Ancient Dwarf Damage Type + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c3355c",
+      "en": "Ancient Dwarf Damage Type + Ancient Evil Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b6e5b4",
+      "en": "Tactical Mitigation Modifier + Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e45ea5",
+      "en": "Lightning Damage Modifier + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3361b34",
+      "en": "Westernesse Damage Type + Insect Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb199934",
+      "en": "Frost Damage Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x748d1a5",
+      "en": "Fire Damage Modifier + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x930d054",
+      "en": "Westernesse Damage Type + Giant Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11c873c",
+      "en": "Beleriand Damage Type + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53ab33",
+      "en": "Ancient Dwarf Damage Type + Orc Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdce1294",
+      "en": "Beleriand Damage Type + Dead Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b74c19",
+      "en": "Beleriand Damage Type + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2626ab7",
+      "en": "Lightning Damage Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd74be15",
+      "en": "Fire Damage Modifier + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf92c795",
+      "en": "Ancient Dwarf Damage Type + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b3c15",
+      "en": "Westernesse Damage Type + Nature Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a17f59",
+      "en": "Fire Damage Modifier + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e68d89",
+      "en": "Ancient Dwarf Damage Type + Physical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe37a465",
+      "en": "Fire Damage Modifier + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d391d9",
+      "en": "Tactical Mitigation Modifier + Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93525d9",
+      "en": "Frost Damage Modifier + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb26f264",
+      "en": "Light Damage Modifier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc902cfc",
+      "en": "Beleriand Damage Type + Troll Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaba9ed7",
+      "en": "Frost Damage Modifier + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda256c7",
+      "en": "Tactical Mitigation Modifier + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b158e5",
+      "en": "Nature Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c66ce4",
+      "en": "Beleriand Damage Type + Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb96867",
+      "en": "Light Damage Modifier + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf5ee05",
+      "en": "Lightning Damage Modifier + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf95d11c",
+      "en": "Ancient Dwarf Damage Type + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42a9925",
+      "en": "Tactical Mitigation Modifier + Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91c767e",
+      "en": "Beleriand Damage Type + Unseen Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb03a505",
+      "en": "Beleriand Damage Type + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64726e4",
+      "en": "Beast Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e46489",
+      "en": "Physical Mitigation Modifier + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99fad25",
+      "en": "Frost Damage Modifier + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c87219",
+      "en": "Tactical Mitigation Modifier + Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31a35c5",
+      "en": "Light Damage Modifier + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e64629",
+      "en": "Ancient Dwarf Damage Type + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3255e95",
+      "en": "Frost Damage Modifier + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5ead15",
+      "en": "Lightning Damage Modifier + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5e34b9",
+      "en": "Tactical Mitigation Modifier + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9709099",
+      "en": "Physical Mitigation Modifier + Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b51bdc",
+      "en": "Beleriand Damage Type + Ancient Evil Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8935e57",
+      "en": "Beleriand Damage Type + Critical Rating",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6342c6c",
+      "en": "Troll Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x636b10c",
+      "en": "Light Damage Modifier + Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6ffba9",
+      "en": "Beleriand Damage Type + Physical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x363bd0c",
+      "en": "Westernesse Damage Type + Ancient Evil Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x286add9",
+      "en": "Lightning Damage Modifier + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce32674",
+      "en": "Beleriand Damage Type + Beast Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9378f4",
+      "en": "Westernesse Damage Type + Dead Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60de249",
+      "en": "Lightning Damage Modifier + Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x915e4f4",
+      "en": "Physical Mitigation Modifier + Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa46cc89",
+      "en": "Frost Damage Modifier + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a6fb75",
+      "en": "Westernesse Damage Type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae42329",
+      "en": "Physical Mitigation Modifier + Physical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4419a3e",
+      "en": "Dragon Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9567a69",
+      "en": "Ancient Dwarf Damage Type + Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57df9b5",
+      "en": "Frost Damage Modifier + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe01919e",
+      "en": "Beleriand Damage Type + Dragon Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafdc395",
+      "en": "Physical Mitigation Modifier + Finesse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36bfece",
+      "en": "Westernesse Damage Type + Dragon Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92c3455",
+      "en": "Ancient Dwarf Damage Type + Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf456659",
+      "en": "Light Damage Modifier + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39647e5",
+      "en": "Ancient Dwarf Damage Type + Critical Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9859114",
+      "en": "Beleriand Damage Type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90f4c9b",
+      "en": "Physical Mitigation Modifier + Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41c7fc4",
+      "en": "Insect Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35c7fde",
+      "en": "Unseen Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4761b2e",
+      "en": "Westernesse Damage Type + Unseen Slayer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ae4ddb",
+      "en": "Tactical Mitigation Modifier + Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3c4c39",
+      "en": "Fire Damage Modifier + Tactical Mastery",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

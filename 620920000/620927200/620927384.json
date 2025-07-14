@@ -1,0 +1,107 @@
+{
+  "id": 620927384,
+  "txt": [
+    {
+      "id": "0xa8e11b0",
+      "en": "You have destroyed the enemy catapult",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b2",
+      "en": "The Hornburg's gatehouse has not received supplies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50293",
+      "en": "[placeholder] Banners hit by catapults",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "[placeholder] Supplies not carried to Hornburg in time",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e114",
+      "en": "<rgb=#FF0000>The wall has been hit by the enemy catapult</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db1",
+      "en": "'We need bandages and healing supplies! They can be found on the next tower.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Orcs are trying to plant targeting banners upon the Deeping wall to help guide the aim of their catapults. The Orcs must be dealt with and their banners torn down to avoid shells from consistently striking the wall. This will allow supplies to be delivered to the Hornburg from the siege towers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db2",
+      "en": "'There are healing supplies near the catapult. Please bring them to me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "Targeting banner destroyed ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db3",
+      "en": "'Thank you! We will see that these supplies are put to good use.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db4",
+      "en": "'This will help greatly! Bring us more if you can manage it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e118",
+      "en": "The wall has become heavily shelled by catapults ([placeholder]/2)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Destroy Orc targeting banners or banner carriers ([placeholder]/20)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "The enemy's catapults are ready to bombard the top of the Deeping wall, but their aim is rather poor and they are missing their targets. Orcs are attempting to plant target banners upon the wall to help improve the aim of their siege commanders. Rohirrim at the Hornburg gate-house await supplies delivered from atop the catapult tower, before they are lost in the battle.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Full</rgb> Merit Rating.\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n* Targeting Banner on the wall causes an enemy catapult to hit\\n* Supplies not delivered to Hornburg entrance\\n* Repeated siege shots upon the same banner\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5027",
+      "en": "Do not allow banners to be shelled more than once ([placeholder]/2)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Shells in the Air",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5029",
+      "en": "Destroy the enemy catapult",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

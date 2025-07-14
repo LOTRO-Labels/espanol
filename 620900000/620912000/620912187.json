@@ -1,0 +1,701 @@
+{
+  "id": 620912187,
+  "txt": [
+    {
+      "id": "0xd36f547",
+      "en": "Change Trait configurations?\\nAny unsaved trait data will be lost.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21b7bee",
+      "en": "Draws the ire of enemies and shields allies from harm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d5f4e",
+      "en": "Uses devious tricks to hinder and harm foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8621c0e",
+      "en": "Weaves dramatic combinations of strikes to deal relentless damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2514d4e",
+      "en": "Uses harsh words to damage foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf64efee",
+      "en": "Wields deadly, war-like techniques to defeat foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32066be",
+      "en": "A mobile, harassing mid-ranged Hunter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef857be",
+      "en": "Uses Bleeds and high-damage attacks to defeat foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9dccb9",
+      "en": "You don't have enough money to refund your spent points. You need [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e64c45",
+      "en": "You have already specialised this trait configuration. To refund your spent points, switch back to the Trait Configuration panel and click the Re-Specialise button.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486415e",
+      "en": "Consumes Wrath to deal crushing damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16e3de",
+      "en": "Spins tales to motivate allies to great feats.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x813b32e",
+      "en": "Provides heal-over-time support for allies.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38471e",
+      "en": "Uses Stealth and critical strikes to deal damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53bbca2",
+      "en": "Cannot use while interacting with a Trait Trainer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f9d43e",
+      "en": "Wields Javelin and clever tactics to harm and hinder foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9860952",
+      "en": "4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x818e27e",
+      "en": "Emphasises the durability of the Bear form.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb40d0e",
+      "en": "Damage-soaking warrior who knows the best defence is a strong offence.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52ff8ae",
+      "en": "Switch to the Trait Configuration panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x421477e",
+      "en": "Uses damage-over-time and chance to defeat foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6bad8ee",
+      "en": "Uses AoE and CC ranged skills to hinder foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x158a02e",
+      "en": "Uses Bleeds and high-damage attacks to defeat foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2450557",
+      "en": "Commit trait changes?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87714f",
+      "en": "Spec Two",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54f3614",
+      "en": "Re-Specialize your class and refund all your current spent points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9860f55",
+      "en": "5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64afd25",
+      "en": "Trait Configuration [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5047d0e",
+      "en": "Draws the ire of enemies and shields allies from harm.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2773d5e",
+      "en": "Apply",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34fc2ec",
+      "en": "Trait Tree Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb6e23e",
+      "en": "Consumes Wrath to deal crushing damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7eed47e",
+      "en": "Damage-soaking warrior who knows the best defence is a strong offence.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x525250e",
+      "en": "Uses anything on-hand to hinder foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x493b4e",
+      "en": "Useful traits whether Fulcrum or Maelstrom.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x806dc0e",
+      "en": "Uses lore knowledge to hinder and confound foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa81011e",
+      "en": "Wields Shield and Fist to protect allies from harm.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa60d43e",
+      "en": "Deals single-target, Crit-based melee damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b07b73",
+      "en": "No points have been spent yet!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d623e4",
+      "en": "Commit the current trait layout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80dbce4",
+      "en": "Select Specialization One",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1b27ce",
+      "en": "Deals whirling AoE destruction upon foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2a377e",
+      "en": "Shields and heals your allies with Song.\\nYou've earned [placeholder] ranks.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4eceb7e",
+      "en": "Clear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb09e4e",
+      "en": "Uses AoE and CC ranged skills to hinder foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x196473e",
+      "en": "Uses damage-over-time and chance to defeat foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f83a5e",
+      "en": "Uses mitigations and defence to protect allies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90bcfe3",
+      "en": "Class",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5cf93e",
+      "en": "Fights aggressively to inspire allies towards victory.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99d69fe",
+      "en": "Uses Light damage to empower both offence and defence.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b6a04e",
+      "en": "Uses mitigations and defence to protect allies.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d560fe",
+      "en": "Provides heal-over-time support for allies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5104fe",
+      "en": "Shields and heals your allies with Song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9c476e",
+      "en": "Focuses on powerful offensive strikes. \\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0d1f4e",
+      "en": "A strong bond with Beasts for attack and defence.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0e17e4",
+      "en": "Cannot perform this action while defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x567626e",
+      "en": "Wields Shield and Fist to protect allies from harm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12854ee",
+      "en": "Re-Specialize",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8610fe",
+      "en": "Emphasises the durability of the Bear form.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x998482f",
+      "en": "2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f2470e",
+      "en": "Focuses on steadfast defence.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd31140d",
+      "en": "Please enter a custom name for the Active Trait Spec.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29d09e",
+      "en": "Rename",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd5315e",
+      "en": "Deals damage-over-time using inductions.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9984bf8",
+      "en": "6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a4373e",
+      "en": "Uses harsh words to damage foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bf1f2e",
+      "en": "Uses the strength of nature to damage foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8217b1e",
+      "en": "Focuses on steadfast defence.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc11e7c4",
+      "en": "Undo all and clear your current trait layout changes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1f7eae",
+      "en": "Provides healing and motivation for allies.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b2f97e",
+      "en": "Heals allies while dealing melee damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f5479e",
+      "en": "A stationary, long-ranged Hunter dealing great damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ba2b1e",
+      "en": "Uses devious tricks to hinder and harm foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x497b9e5",
+      "en": "Race",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfda538e",
+      "en": "Switch to the Trait Specialization panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89f0d5e",
+      "en": "Heals allies while dealing melee damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1ad1fe",
+      "en": "Provides healing and motivation for allies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfc2be",
+      "en": "You must wait before changing trait configurations again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb9b34e",
+      "en": "Deals damage-over-time using inductions.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdca729e",
+      "en": "Spins tales to motivate allies to great feats.\\nYou've earned [placeholder] ranks.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa21147e",
+      "en": "Focuses on powerful offensive strikes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe57481e",
+      "en": "A mobile, harassing mid-ranged Hunter.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe35c10e",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24e0eae",
+      "en": "Deals short-ranged, instant damage.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1062da5",
+      "en": "Class Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99867b5",
+      "en": "1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x683e394",
+      "en": "Select Specialization Three",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90c7f7e",
+      "en": "Uses Light damage to empower both offence and defence.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e262ae",
+      "en": "Uses lore knowledge to hinder and confound foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6adaae",
+      "en": "Deals short-ranged, instant damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe1435e",
+      "en": "Uses anything on-hand to hinder foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1297d5e",
+      "en": "Deals whirling AoE destruction upon foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0a4604",
+      "en": "Use to rename the current class Active Trait Spec.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f707a3",
+      "en": "You've spent [placeholder] refunding your trait points.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84a352e",
+      "en": "7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb795d5e",
+      "en": "Uses the strength of nature to damage foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb4501e",
+      "en": "Wields Javelin and clever tactics to harm and hinder foes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7155ce4",
+      "en": "Select Specialization Two",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11bace7",
+      "en": "Refund all your spent points? It will cost [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7c1f0e",
+      "en": "Sings shanties to coordinate and motivate allies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80eef25",
+      "en": "Virtue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5026394",
+      "en": "Clears the current search",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b4428e",
+      "en": "Deals single-target, Crit-based melee damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87c808e",
+      "en": "Weaves dramatic combinations of strikes to deal relentless damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90b048e",
+      "en": "Wields deadly, war-like techniques to defeat foes.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9f42be",
+      "en": "Fights aggressively to inspire allies towards victory.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2118de",
+      "en": "Uses Stealth and critical strikes to deal damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ec1c5e",
+      "en": "Sings shanties to coordinate and motivate allies.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x461a594",
+      "en": "Cannot perform this action while in combat!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8780d5",
+      "en": "Spec One",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x121eb1e",
+      "en": "A stationary, long-ranged Hunter dealing great damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ba2f4e",
+      "en": "Useful traits whether Fulcrum or Maelstrom.\\nYou've earned [placeholder] ranks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8490125",
+      "en": "3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7706835",
+      "en": "Spec Three",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97934ee",
+      "en": "A strong bond with Beasts for attack and defence.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc4f58",
+      "en": "Search",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

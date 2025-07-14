@@ -1,0 +1,797 @@
+{
+  "id": 620805287,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "Bósi is outside the Hollin Gate.\\n\\nBósi has arrived and is waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Some large stones have blocked the Doors of Durin, which stand in the Walls of Moria at shore of the Black Pool.\\n\\nBósi believes it would be an honour for you to help in clearing some of the rubble from the Hollin Gate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4147cd1",
+      "en": "'[placeholder]! What's happening?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4147cd2",
+      "en": "'We heard shouting! Were you beset by some enemy?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe736fa1",
+      "en": "'I don't think there's anything out there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'We will stop at the outpost here for a moment before continuing on to the gates, [placeholder]. We will need to establish a camp once we are inside the mines, and I want to ensure that everything is prepared.\\n\\n'You still have the pick-axes, yes? Good. Follow me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe736fa2",
+      "en": "'The water looks so still.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'What is it, [placeholder]? You say you saw something stir out in the water? What was it?\\n\\n'I don't see anything now. Are you sure you didn't imagine it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You have been a great help to us in our work here in Hollin, [placeholder], and I know that you will be a great boon once we are inside Khazad-dûm proper.\\n\\n'I would hereby be honoured if you would bear a pick-axe and help us to clear away the remainder of this rubble that blocks the Doors of Durin. This is an historic opportunity, friend [placeholder], and it is my joy to offer it to you in return for the many services you have given us already.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Did you see how the flesh of that creature deflected our blows, [placeholder]? We need more than ordinary weapons if we wish to stand against the Watcher of the Black Pool!\\n\\n'It waited in the depths, watching as we strove to open the doors, and struck just as we were most vulnerable. Curse its foul hide for taking Bróin, and many other fine dwarves beside!\\n\\n'They will be avenged, but for now we must retreat. We cannot hope to enter the Doors while it lurks before them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Those pick-axes will be a great help, [placeholder], even if you took your time bringing them here. Our workers are almost through the rubble already!\\n\\n'Don't worry about that; what's done is done. I'm more concerned with this pool -- there's something about it I don't like. It makes me feel uneasy.\\n\\n'Some of my dwarves have been casting stones into the water, and I'd appreciate it if you could get them to stop. It makes me nervous.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Very good, [placeholder]. I appreciate your help. I understand that many of my dwarves are restless, but there's just something about that water I don't like. I will be relieved when the workers have finished removing the rubble from in front of the gate and we can leave this unpleasant shore.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9b4601",
+      "en": "'Er... I think the crates are soaking through.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'We must retreat with what survivors remain. We will return to visit our vengeance upon the Watcher in the Black Pool!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00b031",
+      "en": "'What is it you think you saw?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9b4602",
+      "en": "'I was right. The crates are definitely soaking.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'I don't like this, [placeholder]; something is wrong. The air is too still and quiet.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'Very good. These pick-axes look to be in good shape, and will be a great asset as we finish unearthing the last of this rubble.\\n\\n'You can leave them in that crate to the south there, right next to Lord Brogur.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2c1e1",
+      "en": "'My friends and kinsmen!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2c1e2",
+      "en": "'We have dreamed of the great halls of Khazad-dûm for many long years.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2c1e3",
+      "en": "'Tonight they will be ours again!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2c1e4",
+      "en": "'[placeholder], what is it? Is something wrong?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x975ec1",
+      "en": "'I guess it was nothing. Let us enter the mines!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x975ec2",
+      "en": "'Rejoice, dwarves of my company! Khazad-dûm awaits!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7f7861",
+      "en": "'Good, [placeholder]. I want to talk to you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "The dwarves are gathered on the edge of the pool outside the Hollin Gate.\\n\\nThe Hollin Gate is nearly opened, and the dwarves prepare to enter the mines.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced11",
+      "en": "Bósi is on the edge of the pool outside the Hollin Gate, with the rest of the dwarves of his expedition.\\n\\nThe Hollin Gate is nearly opened, and the dwarves prepare to enter the mines, but something has made you uneasy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced12",
+      "en": "Something, or many somethings, are lurking in the waters of the pool!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced13",
+      "en": "The small outpost is on the other side of the pool, where you defended Bósi from attacking shadow-wolves.\\n\\nThe dwarves are attempting to fight off the mysterious creature that lurks now outside the Walls of Moria. Bósi has ordered you to hurry to the small outpost to seek help for the desperate dwarves.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6deeab1",
+      "en": "'What do you think caused all that rubble to block the Hollin Gate, anyway?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced14",
+      "en": "Bósi is at the small outpost where you fought the shadow-wolves, on the other side of the menacing pool.\\n\\nThe dwarves are in full retreat from the mysterious creature in the pool, and you should speak to Bósi before the expedition turns into a rout.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6deeab2",
+      "en": "'Oh. Perhaps that could be it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6deeab3",
+      "en": "'That makes sense. I hope that's what it was.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Follow Bósi to the small outpost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Bósi ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Bósi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Defend Bósi from the shadow-wolves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Bring repaired pick-axes to Wárr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Place repaired pick-axes in the crate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x319d601",
+      "en": "'One enemy, or many -- I do not know.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Brogur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Tell dwarves to stop disturbing the water ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe59db1",
+      "en": "''It'll be no problem,' you said. 'The wheels will be fine,' you said.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Told dwarves to stop disturbing the water ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe59db2",
+      "en": "'A momentary setback? Look at it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe59db3",
+      "en": "'Our fathers' fathers knew better than to mire their waggons in the muck!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66632d1",
+      "en": "'There you are, cousin Bósi!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "'We are still waiting for those pick-axes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22e9b51",
+      "en": "'This is a momentary setback, that's all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22e9b52",
+      "en": "'Did our ancestors let such obstacles stand in their way?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10bd1d1",
+      "en": "'This way, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22e9b53",
+      "en": "'We just need to put our minds, and our backs, to it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10bd1d2",
+      "en": "'We will no longer need this outpost.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10bd1d3",
+      "en": "'After all, the Hollin Gate will soon be open!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10bd1d4",
+      "en": "'Hail, my fellows! How goes your work?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10bd1d5",
+      "en": "'It will take more than wolves to keep us from Khazad-dûm.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Bósi has fallen in battle, and the expedition is doomed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have defended Bósi from the shadow-wolves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5187da2",
+      "en": "'To arms! We are under attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "Brogur has been defeated, and with him the hopes of the dwarves!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe15f375",
+      "en": "Dwarf Worker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb1bc1",
+      "en": "'Stay on your guard, my good dwarves!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb1bc2",
+      "en": "'Do you see anything?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7269b1",
+      "en": "'Do not rest yet, friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7269b2",
+      "en": "'This must be the leader! Slay him, or we will not survive this night!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52a16a1",
+      "en": "'I'm not sure. Whatever it was, it's gone now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x933ef75",
+      "en": "Waggon-driver",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5187d1",
+      "en": "'Look! Shadowy shapes at the crest of the hill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5187d2",
+      "en": "'We are victorious! Nothing can stand against the dwarves when roused to anger!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5187d3",
+      "en": "'You go on ahead, [placeholder], and bring those pick-axes to Wárr at the Hollin Gate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5187d4",
+      "en": "'I will catch up to you later.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b01731",
+      "en": "'Tell those fellows not to disturb the water. It makes me nervous.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2af6f1",
+      "en": "'Greetings, Lord Bósi! We have been doing our best to support the effort, but...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ff0491",
+      "en": "'Bróin... my son...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Before the Doors of Durin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2af6f2",
+      "en": "''Tis the wolves. We have heard them howling for the past few days, and it is unnerving.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ff0492",
+      "en": "'Bróin...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa22d711",
+      "en": "You must hurry back to the outpost to get help!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2af6f3",
+      "en": "'You are right, my lord. I do not hear them now. Perhaps they will leave us in peace.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ff0493",
+      "en": "'My boy... my son...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2af6f4",
+      "en": "'It is quiet, isn't it? [placeholder], what do you think?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4977fb1",
+      "en": "'Take this pick-axe and clear some of the rubble from the gate, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc87dd1",
+      "en": "'I did not mean any harm, [placeholder]. I will leave the water alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4977fb2",
+      "en": "'Good work, my friend! I will say a few words, and then we will enter the mountain!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3263631",
+      "en": "'I don't know. Haven't really thought about it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3263632",
+      "en": "'The weather, maybe? You get big storms up in the mountains.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce24391",
+      "en": "'I see nothing, Lord Bósi!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd996761",
+      "en": "'How goes the work, friends?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb836fd1",
+      "en": "'Follow me, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb836fd2",
+      "en": "'This way, [placeholder], hurry! We must return to the outpost!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb836fd3",
+      "en": "'Oh no! Keep running, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb836fd4",
+      "en": "'I'll fight it off! Keep running!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Workers of Bósi and Brogur's expedition have nearly unearthed the rubble blocking the Hollin Gate, and the time is nigh to enter Khazad-dûm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c40",
+      "en": "Talk to Bósi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2210b51",
+      "en": "'Within the hour? Are we truly so close to opening the Gate?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96d67e1",
+      "en": "     ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44887b1",
+      "en": "'I'm sorry, [placeholder]. I'm just so bored of all this waiting around!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4e8951",
+      "en": "'[placeholder]! Get back to the outpost! Bring help!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Wait for Bósi to arrive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaacf6e1",
+      "en": "'Protect Lord Bósi!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Talk to Brogur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaacf6e2",
+      "en": "'That is not the last of them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Talk to Bósi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaacf6e3",
+      "en": "'Fight on! Fight on!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Remove rubble from the Hollin Gate ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a8511",
+      "en": "'Bróin! My son!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaacf6e4",
+      "en": "'Victory!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Removed rubble from the Hollin Gate ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaacf6e5",
+      "en": "'Another victory for the dwarves!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Wait for more dwarves to arrive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c56",
+      "en": "Talk to Bósi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c57",
+      "en": "Remain on your guard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c58",
+      "en": "Return to the small outpost and get help",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c59",
+      "en": "Talk to Bósi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39cde15",
+      "en": "Dwarf Craftsman",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea0db1",
+      "en": "'Pick up the pace. This waggon needs to be loaded within the hour.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27b36d1",
+      "en": "'Well, let's not delay! Back to work!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfea0db2",
+      "en": "'That's what I've heard! Soon the golden halls of Khazad-dûm will be open to us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x402d371",
+      "en": "'You can put the pick-axes in the crate right over there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'The crate for the pick-axes is just to the south there, next to Lord Brogur. You can leave them there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a1df25",
+      "en": "Bróin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'You'll find Wárr at the rubble blocking the Hollin Gate. Bring him the repaired pick-axes and tell him I will be along shortly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Bósi is standing on the slope that winds past the small dwarf-outpost in view of the still pool.\\n\\nYou have come with Bósi along the winding path that runs up to the Hollin Gate, and he is waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'This is hard work, to be sure, but years from now you will be pleased to remember the hand you had in opening the way to Khazad-dûm, [placeholder]. Help us to clear away some of the rubble blocking the Gate, and never will you forget your part in the great deeds that are to come.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The small outpost along the path that winds up to the still pool in front of the Hollin Gate is under attack.\\n\\nBósi and the dwarves need your help to defend the outpost from the shadow-wolves.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'Certain of the workers are casting stones into the pool, and I want you to tell them not to disturb the water. There's something about this pool that makes me uneasy.\\n\\n'You think I am overreacting? Let us hope so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Wárr is supervising work at the Hollin Gate, east of the small outpost and around the pool.\\n\\nWhile Bósi helps make preparations at the small outpost, he wants you to deliver the repaired pick-axes to Wárr at the Hollin Gate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The crate is located south of Wárr and next to Brogur, in front of the Hollin Gate.\\n\\nWárr has asked you to leave the repaired pick-axes in a crate for future use.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc87ed1",
+      "en": "'To tell you the truth, this pool makes me nervous, too. I will leave it alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Brogur is in front of the Hollin Gate.\\n\\nBrogur is waiting to speak with you about helping the expedition at the Hollin Gate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Dwarves throwing stones into the water can be found along the shores of the pool.\\n\\nBrogur has a bad feeling about the pool in front of the Hollin Gate and has asked you to get the dwarves to stop disturbing the water.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Brogur is outside the Hollin Gate.\\n\\nYou have gotten the dwarves to stop disturbing the waters of the pool outside the Hollin Gate, and should return now to Brogur.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

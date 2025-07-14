@@ -1,0 +1,83 @@
+{
+  "id": 620955539,
+  "txt": [
+    {
+      "id": "0x19ebcf3",
+      "en": "<rgb=#00FF00>We have dealt with the horn-blowing scouts at last.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Keep scouts from blowing their horns three times.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Horn-blowing scouts ([placeholder]/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20264fe",
+      "en": "<rgb=#FF0000>Another horn has been blown!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51b2715",
+      "en": "Haradrim scouts have spotted us and blown a warning horn. We should stop them before they wind the third blow.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5021",
+      "en": "Horn-blowing scouts ([placeholder]/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4db675",
+      "en": "<rgb=#FF0000>The horn has blown thrice! The signal for reinforcements has gone out!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d13",
+      "en": "Corsair scouts have snuck up from behind and spotted our position. If they can get off three blows of their horn, reinforcements will come running!\\n\\nThis quest starts with <rgb=#FFFF00>empty</rgb> Merit Rating.\\n\\n<rgb=#00FF00>Merit Gain:</rgb>\\n* Defeat scouts before third horn-blow \\n  (with as few horn-blows as possible)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5026",
+      "en": "<rgb=#FF0000>Do not allow all the hornblowers to alert reinforcements.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa2",
+      "en": "The Thrice Blown Horn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7591ca5",
+      "en": "<rgb=#FF0000>Failure: All the scouts succeeded in winding their horns!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda48ac4",
+      "en": "TEST",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

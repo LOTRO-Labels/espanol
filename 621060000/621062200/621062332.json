@@ -1,0 +1,515 @@
+{
+  "id": 621062332,
+  "txt": [
+    {
+      "id": "0x9f5e548",
+      "en": "<rgb=#FF0000>Cedivor has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e0",
+      "en": "'Go kill four Wargs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011864",
+      "en": "Fight waves of Wargs as they attack our buddy!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e6",
+      "en": "'Whoa, you're a Warg killer! GG'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e9",
+      "en": "'Now I will kill Wargs TOO!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502956",
+      "en": "Talk to Cedivor by the door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011872",
+      "en": "DNT - This is the FIGHT ME event!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502902",
+      "en": "Show the stone to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011877",
+      "en": "Enjoy the celebration!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502907",
+      "en": "Talk to Historian",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f4",
+      "en": "'Where is he? He must be – What’s that? No, I was not saying anything to you. Just pondering under my breath, heh heh. Where are they, I was saying. The... uh, magnificent crafts-hobbits who once called this hovel… eh, these splendid tunnels their home.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f6",
+      "en": "DNT - 'Yo, what up?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118d5",
+      "en": "Cedivor has paused to speak with you before a closed door.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bd4",
+      "en": "Defeated Wargs ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b23",
+      "en": "Hurray you did it!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44051",
+      "en": "'Follow me if you want to live.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44052",
+      "en": "'I reached the first patrol point.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502911",
+      "en": "Talk to Historian",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44053",
+      "en": "'Kill them! Kill them all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011883",
+      "en": "Cedivor continues his way through the tunnels, remarking upon the walls and cobwebs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44054",
+      "en": "'Now I shall kill Wargs too! Follow me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502913",
+      "en": "Defeat Wargs ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44055",
+      "en": "'We did it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a9",
+      "en": "'What do you think is beyond this door? Shall we find out?\\n\\n'Ah, you first! Just in case there are more of those awful beasts waiting.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011885",
+      "en": "The Follow Me gameplay experience.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44056",
+      "en": "'Here they come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44057",
+      "en": "'That was two waves of Wargs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44058",
+      "en": "'Now you die!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502917",
+      "en": "Talk to Historian",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7308893",
+      "en": "'Oh dear! Wargs? I was not expecting that at all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a44059",
+      "en": "'Your life ends now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011889",
+      "en": "Historian is waiting to talk to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b668a1",
+      "en": "'Where is he?!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4405c0",
+      "en": "'Curse you! I will be back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "Talk to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4405c1",
+      "en": "'That's right, you'd better run!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b30",
+      "en": "You defended Cedivor from the Wargs!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7308899",
+      "en": "'Have you examined the body? Perhaps it has some clues as to what happened down here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be6",
+      "en": "DNT - You found a strange carved stone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edb88",
+      "en": "Follow the Historian to the future",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568903",
+      "en": "'My children! Now you will die!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502922",
+      "en": "Talk to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011892",
+      "en": "Historian wants you to kill some Wargs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b36",
+      "en": "You defeated Fancyfurr!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502925",
+      "en": "DNT - Examine the body",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011895",
+      "en": "Tell Historian you killed the Wargs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b39",
+      "en": "Cedivor is dancing!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01144",
+      "en": "Cedivor Hedgerow waits for you near Glynafon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56855",
+      "en": "'This is astonishing! Just look at these walls, [placeholder]! This simply must be the warrens, ah, hallowed halls of ancient Glynafon!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011898",
+      "en": "Protect Historian while you battle Wargs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'I do believe I could spend decades just marvelling at the details here. But come, let us return to Amdân before more of the enemy comes looking for their friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50219",
+      "en": "Talk to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6aec1",
+      "en": "Protect Cedivor and kill Wargs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e0",
+      "en": "Talk to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf5",
+      "en": "You found a strangely carved stone!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a1",
+      "en": "Cedivor lurks in the shadows, waiting for you to investigate the room.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502931",
+      "en": "Defeat Cedivor Hedgerow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf7",
+      "en": "The stone clatters to the floor as Cedivor falls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502933",
+      "en": "Search for a way out of the room",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6aec8",
+      "en": "Defend Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a4",
+      "en": "You have discovered a body in the crumbling tunnels of Glynafon. You should investigate the body for clues.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568916",
+      "en": "'Get ready to defend against waves of enemies!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502934",
+      "en": "Examine the body",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689c8",
+      "en": "'What have you found there, my friend? How interesting! Did you find anything of import on his… uh, their body?'\\n\\nYou show him the stone. A queer gleam flashes across his eyes.\\n\\n'How strange this object is! I should keep it for my research. Well now, I think we can return to the surface. Whatever killed Ragnal may still be down here.'\\n\\n'How do you know his name,' you ask, readying your weapon.\\n\\n'What? His… ah, well, I suppose I do not need you anymore, now that I have what I came for. You will live to tell no one what you found here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6ae70",
+      "en": "Follow and protect Cedivor as he investigates the ruins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e7",
+      "en": "Talk to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73088b1",
+      "en": "'Have you examined the body? Perhaps it has some clues as to what happened down here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502936",
+      "en": "Show the stone to Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a7",
+      "en": "Cedivor would be interested in examining the strange stone you found on the body of the fallen man.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d181",
+      "en": "Cedivor Hedgerow, renowned historian and artifact expert, seeks protection while he delves into the crumbling halls of Glynafon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed35",
+      "en": "Follow Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d0",
+      "en": "'What would I have done without you? Come, let us press on! I suspect we are close!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6ae77",
+      "en": "Follow and protect Cedivor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118b0",
+      "en": "Deception! Cedivor turned out to be a knave and thief and is now attempting murder! Of you! You should defeat him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6aed5",
+      "en": "Defeat Fancyfurr the Warg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118b2",
+      "en": "You have defeated Cedivor Hedgerow and regained the strange stone. You should look for a way out of the room.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f4",
+      "en": "Talk to Fancyfurr the Warg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01107",
+      "en": "Cedivor continues his way through the tunnels, remarking upon the walls and cobwebs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56818",
+      "en": "'Where is he? He must be – What’s that? No, I was not saying anything to you. Just pondering under my breath, heh heh. Where are they, I was saying. The... uh, magnificent crafts-hobbits who once called this hovel… eh, these splendid tunnels their home.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d8",
+      "en": "'What have you found there, my friend? How interesting! Did you find anything of import on his… uh, their body?'\\n\\nYou show him the stone. A queer gleam flashes across his eyes.\\n\\n'How strange this object is! I should keep it for my research. Well now, I think we can return to the surface. Whatever killed Ragnal may still be down here.'\\n\\n'How do you know his name,' you ask, readying your weapon.\\n\\n'What? His… ah, well, I suppose I do not need you anymore, now that I have what I came for. You will live to tell no one what you found here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f5e5f2",
+      "en": "Cedivor has fallen!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f5e541",
+      "en": "<rgb=#FF0000>Cedivor has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f8",
+      "en": "Wait for Cedivor to dance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "DNT - OLD INSTANCE DO NOT USE Instance: The Crumbling Halls of Glynafon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f5e5f9",
+      "en": "Cedivor has fallen! GET GOOD.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "id": 620874799,
+  "txt": [
+    {
+      "id": "0xc41c475",
+      "en": "'Good work, so far. Get your hands to work and craft a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requires a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c476",
+      "en": "'Grab your <rgb=#FF00FF00>woodworking tools</rgb> and make sure you have it equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you and make your way to the workbench.'\\n\\n<rgb=#FF00FF00>Ingredients for Woodworkers are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'Let me see what you were able to do....'\\n\\nShe inspects the weapon with a discerning eye.\\n\\n'Strong and smooth to the touch - no indication of any splinters. This is fine work. \\n\\n'I think that you have done very, very well, [placeholder]. I approve and declare you a novice woodworker.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'Let us see what you have gone and made.'\\n\\nHe inhales deeply and brings the weapon to eye level.\\n\\n'Strong and smooth to the touch - no indication of any splinters. This is fine work. \\n\\n'You pass, [placeholder]. You are on your way towards becoming a master woodworker!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'I see the weapon there on your person. May I see it?'\\n\\nShe takes a moment to admire your handiwork.\\n\\n'This appears to be a well-crafted weapon. You are well on your way towards becoming a woodworker. Well done, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'Let me see what you have done.'\\n\\nHe examines the weapon closely.\\n\\n'Strong and smooth to the touch - no indication of any splinters. This is fine work. \\n\\n'I think that this is a very good effort and proves that you are prepared to continue your work towards becoming a master woodworker.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5022",
+      "en": "Create a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'It looks as though you have strayed a little ways from home, [placeholder], and you want to learn the art of crafting wood?\\n\\n'It seems, then, that you have come to the right place.\\n\\n'You want to speak with Almar by the workbench. He will be able to set you upon the path of woodworking.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Woodworking, is it? A fine choice for any self-respecting dwarf!\\n\\n'We make the finest weapons in all the world, of that there is no doubt. Go over to the workbench and speak with Almar.\\n\\n'He will set you on the path to becoming another in a long litany of fine woodworkers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You are far from home, [placeholder]. We will honour your request and help you as you learn the art of woodworking.\\n\\n'Lendaellin, near the workbench, is an apprentice in the art of woodworking. If you are looking for guidance, I am certain that she will be willing to assist you with the fundamentals of the craft.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Working with wood allows us to create art from nature, and this is a good thing. It is nice to see that there are others who wish to learn this craft.\\n\\n'I have asked one of our promising novices to watch over and guide any new woodworkers towards learning the very basics of the profession. Her name is Lendaellin, and she stands near the workbench here at the Terrace.\\n\\n'Speak with her, and she will teach you the very basics as she progresses in her own studies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'You will find Belba Bracegirdle near the workbench here in the Crafting Area. \\n\\n'She is knowledgeable in the art of woodworking and is awaiting the arrival of new would-be woodworkers. \\n\\n'Speak with her if you are interested in learning and practicing the woodworking profession.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have made a rowan bowstaff",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'I think that crafting wood is a very noble pursuit, and I have enlisted the aid of one of the finest novices in Michel Delving to assist each new apprentice.\\n\\n'You will want to speak with Belba Bracegirdle over near the workbench. She has volunteered her time and energy to teach all the new apprentices. Mind her well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'Well, look at you. I do not often see your folk here, and when I do, I always find it a bit queer. Well, hobbits less so because of the hill.\\n\\n'Oh, I am sorry, you wish to know more of woodworking? It just so happens that there is a fine woodworker in this very hall, still learning, but taking to the art very quickly. His name is Toby Sandheaver, and you will find him by the workbench in the larger room.\\n\\n'Good day, [placeholder].'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'Woodworking is a goal worth pursuing, and there are many fine woodworkers and foresters herein.\\n\\n'I have secured the time and teaching of Toby Sandheaver, a novice woodworker, but a fine student who is quickly refining his art, to teach all those who are looking to set out as woodworkers.\\n\\n'He can be found near the workbench, here in the Craft Hall of Combe.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'Hullo, there. I hear that you are interested in learning the ways of a woodworking. If so, you have come to the right place.\\n\\n'I will try not to move too quickly for you, but if I do, speak with me again to ask more pointed questions.\\n\\n'I almost forgot the most important thing for every new woodworker -- ingredients. Everything you need to make a rowan weapon is inside this <rgb=#FF00FF00>crate</rgb>.'\\n\\n<rgb=#FF00FF00>Woodworker vendors sell ingredients and recipes that are a vital part of any Woodworker's training and continued work.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Woodworkers are needed in many areas of life, from making furniture through crafting bows. A good woodworker is always a welcome addition to the Crafting Guilds.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipe and deliver the correct item outlined in this quest. \\n\\nYou will need to execute a rowan weapon recipe and deliver the rowan weapon. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e117",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Speak with a Novice Woodworker near the workbench in the crafting area",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e118",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "You have been provided with ingredients",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "You have made a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Woodworker to collect the thin rowan board and rough leather wrapping",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "You now have all the ingredients to make a rowan weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Using the ingredients you received, craft a <rgb=#FF00FF00>rowan bowstaff</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Using the ingredients you have, create a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Bring the <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb> to the Novice Woodworker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852580",
+      "en": "'Do you have the rowan weapon on you? I do not see it. I hope you did not break in frustration or sell it for coin. I would like to inspect that work. You had best find a way to make another.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "You should speak with a Novice Woodworker to learn more about woodworking.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Novice Woodworker has provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute a rowan weapon recipe. <rgb=#FF00FF00>Open the crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Woodworkers are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "#-1:[placeholder]#-1:{Belba[O]|Lendaellin[L]|Almar[D]|Toby} provided you with the ingredients necessary to create a rowan bow. First, however, you must prepare the <rgb=#FF00FF00>rowan bowstaff</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Create a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb>, as instructed by the Novice Woodworker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the rowan weapon!</rgb> Time to show your handiwork to your mentor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "'If you are looking for guidance in woodworking, then I am prepared to offer you direction.\\n\\n'If my methods are too fast, feel free to speak with me again, and I will answer any questions that you may have. I will do my best to provide you with clear direction. The first and most important step is having the proper ingredients.\\n\\n'I have kept some of these ingredients aside for purpose of providing to new woodworkers. Take this <rgb=#FF00FF00>crate</rgb> and let us begin.'\\n\\n<rgb=#FF00FF00>Woodworker vendors sell ingredients and recipes that are a vital part of any Woodworker's training and continued work.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'You should speak at once with the woodworker trainer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852591",
+      "en": "'Well, look here... another would-be woodworker. I am pleased to meet you and looking forward to helping you get started.\\n\\n'If I go too fast, or you need help at any point, you can ask me questions about woodworking, and I will do my best to provide you with clear direction. The first and most important step is having the proper ingredients.\\n\\n'I set aside a few for new woodworkers like yourself. Take this <rgb=#FF00FF00>crate</rgb> and let us begin.'\\n\\n<rgb=#FF00FF00>Woodworker vendors sell ingredients and recipes that are a vital part of any Woodworker's training and continued work.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'You should speak at once with the woodworker trainer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852592",
+      "en": "'Hello, there I hear that you are interested in learning the ways of a woodworker. If so, you have come to the right place.\\n\\n'I will try not to move too quickly for you, but if I do, speak with me again to ask more pointed questions.\\n\\n'I almost forgot the most important thing for every new woodworker -- ingredients. Everything you need to make a rowan weapon is inside this <rgb=#FF00FF00>crate</rgb>.'\\n\\n<rgb=#FF00FF00>Woodworker vendors sell ingredients and recipes that are a vital part of any Woodworker's training and continued work.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'You should speak at once with the woodworker trainer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852593",
+      "en": "'Let me see what you were able to do....'\\n\\nShe inspects the weapon with a discerning eye.\\n\\n'Strong and smooth to the touch - no indication of any splinters. This is fine work. \\n\\n'I think that you have done very, very well, [placeholder]. I approve and declare you a novice woodworker.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'You should speak at once with the woodworker trainer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852594",
+      "en": "'Oh no, did you sell your rowan weapon? Well, I need to inspect one, so you had better find a way to make me another.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'Good work, so far. Get your hands to work and craft a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requries a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852595",
+      "en": "'Let us see what you have gone and made.'\\n\\nHe inhales deeply and brings the weapon to eye level.\\n\\n'Strong and smooth to the touch - no indication of any splinters. This is fine work. \\n\\n'You pass, [placeholder]. You are on your way towards becoming a master woodworker!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'Grab your <rgb=#FF00FF00>woodworking tools</rgb> and make sure you have it equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you and make your way to the workbench.'\\n\\n<rgb=#FF00FF00>Ingredients for Woodworkers are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852596",
+      "en": "'I hope you did not snap your weapon over your knee in anger. Or did you sell it for some meagre coin? Well... I cannot pass you without seeing your handiwork. Back to the workbench with you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c47",
+      "en": "'Making the rowan bowstaff should be simple. Take your woodworking tools to the workbench and carve, smooth, and shape the bowstaff. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requires a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c470",
+      "en": "'To make a rowan weapon, you will need to open the <rgb=#FF00FF00>crate</rgb> of ingredients that I provided to you. Equip your <rgb=#FF00FF00>woodworking tools</rgb>, then head to the workbench and begin woodworking.'\\n\\n<rgb=#FF00FF00>Ingredients for Woodworkers are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852597",
+      "en": "'I see the weapon there on your person. May I see it?'\\n\\nShe takes a moment to admire your handiwork.\\n\\n'This appears to be a well-crafted weapon. You are well on your way towards becoming a woodworker. Well done, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c48",
+      "en": "'You will first need to make the rowan bowstaff. Go to the workbench and craft the rowan bowstaff. This will provide you the key ingredients for the rowan bow.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requires a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c471",
+      "en": "'Making the rowan bowstaff will be easy. Shape the wood over by the workbench. Little else needed to do beyond that.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requires a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852598",
+      "en": "'Have you forgotten something? I do not see the rowan weapon that you were supposed to deliver to me. You should return with one.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Introduction to Woodworking",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c49",
+      "en": "'You need to make a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb> and return it to me for approval.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requres a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c472",
+      "en": "'Go on now and make a <rgb=#FF00FF00>rowan bow, staff, spear, hammer, club, great club, or javelin</rgb>.'\\t\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requires a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852599",
+      "en": "'Let me see what you have done.'\\n\\nHe examines the weapon closely.\\n\\n'Strong and smooth to the touch - no indication of any splinters. This is fine work. \\n\\n'I think that this is a very good effort and proves that you are prepared to continue your work towards becoming a master woodworker.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c473",
+      "en": "'Just open up that <rgb=#FF00FF00>crate</rgb> full of ingredients that I gave you, and you can start making a rowan weapon over by the workbench. Make sure to equip your <rgb=#FF00FF00>woodworking tools!</rgb>'\\n\\n<rgb=#FF00FF00>Ingredients for Woodworkers are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c474",
+      "en": "'Making the rowan bowstaff is simple. Work the wood over by the workbench by carving, smoothing, and shaping it into a bowstaff. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Woodworking tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Woodworking requires a workbench.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

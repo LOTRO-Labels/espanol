@@ -1,0 +1,1607 @@
+{
+  "id": 620778057,
+  "txt": [
+    {
+      "id": "0x4c51055",
+      "en": "The Hunting Lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcec1bd9",
+      "en": "Smithy[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc3da65",
+      "en": "Ered Luin Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd090cd",
+      "en": "Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x746762c",
+      "en": "Kheledûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b5ef0d",
+      "en": "Sprigley's Farm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa72b7c2",
+      "en": "Apothecary[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b8d939",
+      "en": "Laboratory[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a8ed6e",
+      "en": "Ecthelion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x416d0de",
+      "en": "Bowyers[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x942ce6b",
+      "en": "Beornings Only[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28f62",
+      "en": "Provisioner[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf768fd",
+      "en": "Skunkwood's Farm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57d0975",
+      "en": "The Comb & Wattle Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dce69",
+      "en": "Brewery[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89f1fd9",
+      "en": "The Bird & Baby Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6949bc",
+      "en": "Cauldron Oil[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a042d1",
+      "en": "Haven Way[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a042d2",
+      "en": "Twinfall Path[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93de5bc",
+      "en": "Brandy Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a042d3",
+      "en": "Fairwood Lane[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a042d4",
+      "en": "Waterbank Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1c5203",
+      "en": "Beorninghús[ns]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55cedf4",
+      "en": "MERCHANT SIGN[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf86aeec",
+      "en": "Town Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9095a62",
+      "en": "The Lost Ring-lore of Eregion[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed60704",
+      "en": "The East Road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3d56fb",
+      "en": "To Red Bank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3598084",
+      "en": "Courtyard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d9689",
+      "en": "Prancing Pony",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54229e7",
+      "en": "South Farthing[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1d3e13",
+      "en": "The Tallfellows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeefec42",
+      "en": "Carpenter[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50e9265",
+      "en": "West-gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d69ac",
+      "en": "Thoremband, the Guarded Court[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4ff108",
+      "en": "Amon Raith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf6c1f2",
+      "en": "Old Quarter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d78ac",
+      "en": "Meremband, the Joyous Court[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d7bac",
+      "en": "Celeband, the Silver Court[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb41",
+      "en": "Northern Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc211bc8",
+      "en": "To Metalsmith's Guild",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb42",
+      "en": "Southern Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xace1ede",
+      "en": "Hobbiton",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c0cf1c",
+      "en": "Cauldron Oil[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc442f59",
+      "en": "Armoury[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa674222",
+      "en": "The Mad Badger Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x759bb04",
+      "en": "The Inn of the Tubby Cat[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc775fa4",
+      "en": "Old Bree Graveyard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd557932",
+      "en": "The Mad Badger Inn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7aa7c13",
+      "en": "Carpenter[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95ea48c",
+      "en": "Bree-town Hunting Lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7d7e7c",
+      "en": "Rivendell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45a19a7",
+      "en": "To Eastfarthing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6d33c4",
+      "en": "The Elbow's Bend Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x803bc70",
+      "en": "Silverdeep Mine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea76165",
+      "en": "The Battle of Rhunendin[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a9a203",
+      "en": "Poor Quarter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1a9221",
+      "en": "Chalk Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1a9222",
+      "en": "Harrow Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1a9223",
+      "en": "Brookbank Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25adad",
+      "en": "Brownlock's Farm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1a9224",
+      "en": "Wending Way[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1a9225",
+      "en": "Pleasant Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa352837",
+      "en": "The Floating Log Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1a9226",
+      "en": "Myrtle Court[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa57704e",
+      "en": "Oatbarton",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a7c64",
+      "en": "Norsu-leiri[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2bb1b",
+      "en": "BLANK SIGN[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x882a8a5",
+      "en": "The Mathom House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63eeda5",
+      "en": "The Comb and Wattle Inn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf28c1f5",
+      "en": "Trestlebridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa12f399",
+      "en": "The Arming-cave[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x667f5bc",
+      "en": "The Delving of Frór Flag[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x334125",
+      "en": "Needlehole",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a79bc",
+      "en": "Cauldron Oil[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd24c364",
+      "en": "Stock Road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6fe454c",
+      "en": "Cartwell the Leecher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57c2c63",
+      "en": "Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ce5a68",
+      "en": "Andrath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47e0049",
+      "en": "Jewellers[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac23785",
+      "en": "The Last Bridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf909b9e",
+      "en": "Garden[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44cb1c2",
+      "en": "Jewellers[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52321ed",
+      "en": "Sandson's Farm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9148bbc",
+      "en": "Provisioner[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d51d3",
+      "en": "The Trollshaws",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7876d7",
+      "en": "Michel Delving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a95a00",
+      "en": "Apothecary's Shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44bb7ee",
+      "en": "The Delving of Frór Entrance[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x694cd5e",
+      "en": "Cauldron Iron[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec5d2b4",
+      "en": "Falathlorn Homesteads",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9320912",
+      "en": "Othrikar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47c7564",
+      "en": "Waymeet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8df7843",
+      "en": "The Plough & Stars Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bc23f4",
+      "en": "Winterheight",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "This is a Sign.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x894b045",
+      "en": "GENERIC STORE[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc790d4e",
+      "en": "The Three-candles Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb91",
+      "en": "South Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb92",
+      "en": "Faelbenn's Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb93",
+      "en": "North Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe70ca4",
+      "en": "Bree-land",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb94",
+      "en": "Northernmost Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb95",
+      "en": "Stone of Terror",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fb96",
+      "en": "Stone of Pain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38df8dc",
+      "en": "Overhill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe797258",
+      "en": "Ost Guruth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51c1ebc",
+      "en": "Craft Halls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f40ba3",
+      "en": "Great Smials",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed2dc95",
+      "en": "West Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccd18a9",
+      "en": "Bakery[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2d6494",
+      "en": "Market",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbd0197",
+      "en": "To Eastfarthing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8c90ce",
+      "en": "Tavern[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x931d34e",
+      "en": "Frogmorton",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c0981c",
+      "en": "Cauldron Oil[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba1",
+      "en": "Northern Aughaire Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f2dcbe",
+      "en": "The Forsaken Inn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba2",
+      "en": "Centre Aughaire Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba3",
+      "en": "Southern Aughaire Bulwark[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fa86c",
+      "en": "The Watch-tower of Tirband[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa870744",
+      "en": "Arrowshafts[ps]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x243d693",
+      "en": "Task Board[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba4",
+      "en": "4th Aughaire Bulwark",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba5",
+      "en": "5th Aughaire Bulwark",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fab6c",
+      "en": "The Waterways of Clorhir[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17609a3",
+      "en": "Brockenborings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3a4efe",
+      "en": "Cauldron Iron[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba6",
+      "en": "6th Aughaire Bulwark",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4fba7",
+      "en": "The Gate of Aughaire[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5185554",
+      "en": "Arrowshafts[ps]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc17314e",
+      "en": "Sign",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea6ed03",
+      "en": "Clothiers[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf82f1f3",
+      "en": "Orodost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1261896",
+      "en": "Elf Roadsign[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10361cb",
+      "en": "Stock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd242b08",
+      "en": "Blacksmith[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e12da7",
+      "en": "West Farthing[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x550fdfc",
+      "en": "The Delving of Frór Flag[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67c8b43",
+      "en": "Workshops",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1006cc9",
+      "en": "Scary",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab54d64",
+      "en": "Turnin Counter[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a7cd5e",
+      "en": "Cauldron Iron[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ea7155",
+      "en": "South-gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7847d3",
+      "en": "Lone-lands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x370e46e",
+      "en": "Edhelion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ef3d97",
+      "en": "The Inn of the Sleeping Dog[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dd0ca4",
+      "en": "Buckland",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a39952",
+      "en": "The Battle Before the Rammas Deluon[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3943258",
+      "en": "Armoursmith[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62d7aac",
+      "en": "Lírband, the Court of Song[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95cfd95",
+      "en": "Brandywine Bridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x898cf37",
+      "en": "Shire Homesteads",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd077f49",
+      "en": "To Bucklebury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6d0bcc",
+      "en": "Archet Jail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74f3c83",
+      "en": "The North Downs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7b1445",
+      "en": "Thorin's Hall Homesteads",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ab0574",
+      "en": "Arrowheads[ps]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0c95ae",
+      "en": "Weapons[p]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfff745c",
+      "en": "Festival Travel to Furtherholm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f9dbb2",
+      "en": "Bywater",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8e2c74",
+      "en": "To Weaponsmith's Guild",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0028fe",
+      "en": "Vale of Thráin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6b2598",
+      "en": "Tuckborough",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13e9b64",
+      "en": "Hobbit Roadsign[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x179df49",
+      "en": "Nursery[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa69e",
+      "en": "The Delving of Frór Entrance[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5093a24",
+      "en": "The Berghold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c74d6e",
+      "en": "Bounder's Bounty[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9fa15c",
+      "en": "Cauldron Oil[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3287a84",
+      "en": "Duillond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bc6934",
+      "en": "Ost Forod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4492795",
+      "en": "THE ELVEN GLADE",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a48114",
+      "en": "CRAFTING SIGN[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb735a99",
+      "en": "The Greenway",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51cb632",
+      "en": "Stone Quarter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae94c65",
+      "en": "Methel-stage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e44a5",
+      "en": "Town Square",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61769a6",
+      "en": "Dwarf Roadsign[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1787b55",
+      "en": "Forest Gate[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8764b84",
+      "en": "Whitethorn's Taxidermy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36253",
+      "en": "Bree-fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea61",
+      "en": "Highspires Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc841ad8",
+      "en": "The Golden Perch Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cd0175",
+      "en": "Combe-gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea62",
+      "en": "Stonemirk Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea63",
+      "en": "Frothing Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea64",
+      "en": "Cloven Crescent[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea65",
+      "en": "Threshold Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa12d97",
+      "en": "East Farthing[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea66",
+      "en": "Anvilsong Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea67",
+      "en": "Low Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77ea68",
+      "en": "Roaring Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cfe655",
+      "en": "Combe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebb0c6c",
+      "en": "Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcb357c",
+      "en": "Imlad Gelair",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54c6de9",
+      "en": "The Prancing Pony Inn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf486205",
+      "en": "South Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd227995",
+      "en": "Staddle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eabe59",
+      "en": "Pottery[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1ff87c",
+      "en": "Woodhall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3709701",
+      "en": "Dol Amroth - Unlock 1[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8ac6c4",
+      "en": "Budgeford",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebb34e5",
+      "en": "Thorin's Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3709702",
+      "en": "Dol Amroth - Unlock 2[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc09d72e",
+      "en": "Cauldron Iron[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d8c40e",
+      "en": "The Forsaken Inn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30000c9",
+      "en": "The Prancing Pony Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ec9733",
+      "en": "Market Shop[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb253804",
+      "en": "To Tookland",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdeaa1e",
+      "en": "The Battle of Lórien[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1d0da4",
+      "en": "To Tookland",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf3a1ac",
+      "en": "Cauldron Oil[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf05fcf5",
+      "en": "The Old Forest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9faa6c",
+      "en": "The Courtyard of Gwaelband[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb48f1a7",
+      "en": "Dwaling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c868dc",
+      "en": "Blue Stone Garrison",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fcefc0",
+      "en": "Tinnudir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852f054",
+      "en": "Arrowheads[ps]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1896b34",
+      "en": "Bag End",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f22e2",
+      "en": "Hylje-leiri[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf0c3e4",
+      "en": "Archet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25aa03",
+      "en": "Orodost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x455e6d4",
+      "en": "Fornost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aee431",
+      "en": "Long Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc67a94",
+      "en": "Noglond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aee432",
+      "en": "Garden Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43bb6d9",
+      "en": "Bucklebury Ferry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aee433",
+      "en": "Fountain Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa129da5",
+      "en": "Town Square",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aee434",
+      "en": "High Road[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aee435",
+      "en": "Broadford Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aee436",
+      "en": "Chestnut Street[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8f0dfc",
+      "en": "Craft Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec83759",
+      "en": "Upper Way",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a39e52",
+      "en": "The Battle for Aughaire[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfae753",
+      "en": "Stables",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaaa842c",
+      "en": "Three-farrow Crafting Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x551864",
+      "en": "Pynti-leiri[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2ea804",
+      "en": "Frerin's Court",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac3fda7",
+      "en": "Little Delving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x613125e",
+      "en": "Human Roadsign[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f71ad8",
+      "en": "Mirkstone Tunnels",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93fa1c2",
+      "en": "Tanner[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dd3359",
+      "en": "Karhu-leiri[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46a673e",
+      "en": "The Green Dragon Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x487db92",
+      "en": "The Brimful Quiver Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa91d2c",
+      "en": "The Roaring Bull Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7994e94",
+      "en": "Bree-land Homesteads",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81c9557",
+      "en": "Rath Teraig",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2ce0e5",
+      "en": "Bree-town",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd3c125",
+      "en": "South Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ce25e8",
+      "en": "Weaponsmith[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa49f455",
+      "en": "The Shire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee50eb7",
+      "en": "Bakery[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8888f3",
+      "en": "Hultvís[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc61a1cc",
+      "en": "Bree-land Festival Grounds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fa439e",
+      "en": "Cauldron Iron[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced03e",
+      "en": "Gondamon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4f7c78",
+      "en": "The Ivy Bush Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87946fc",
+      "en": "Kingsfell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf82e545",
+      "en": "Staddle-gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3837345",
+      "en": "The Hay Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7845cb9",
+      "en": "Farmer's Way",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0ca72e",
+      "en": "Cauldron Iron[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2424b5",
+      "en": "The Fox and Fiddle Inn[E]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceff442",
+      "en": "Tailor[E]",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 621019077,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Chapter 10.1: A New Journey",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'Grimbeorn's folk, the Beornings, have also weathered hardship in the Vales. Long ago they learned the secret art of skin-changing, and other denizens of the Vales hunted them nearly to extinction. But they survived, and now they are a sturdy folk, slow to trust outsiders but worthy allies of those they name friend.\\n\\n'Let us go to the Beorninghús, south-west of here, and see if Grimbeorn will count us among that lucky number.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "The Beorninghús is located in the Beorning-lands, south-west of the Forest Gate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'I sent Wood-elves to open the Forest Gate. Trade has not yet been continued, but that too should soon follow. I will speak with Mithrandir for a time, and then the two of you should continue on to the Forest Gate on the western bounds of Eryn Lasgalen. You will find it unsealed, your path to the Beorning-lands open.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b7",
+      "en": "'Your people weathered hardship in the Vales. Long ago they learned the secret art of skin-changing, and other denizens of the Vales hunted them nearly to extinction. But they survived, and now your family is a sturdy one, slow to trust outsiders but worthy allies of those they name friend.\\n\\n'Let us go to the Beorninghús, south-west of here, and see if Grimbeorn will count me among that lucky number. I ask that you speak well of me, [placeholder], if you would. Surely I have earned such a favour as that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Talk to Durin on the upper level of Skarháld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Talk to Gandalf at the Forest Gate in Eryn Lasgalen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'Over here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'I propose that we travel together, [placeholder], and bring the Black Book with us on a new journey away from the stones of Skarháld. But where shall we take it? I suggest a place of both comfort and strength, perhaps a lodge warmed by a roaring hearth and guarded by a family of stern temperament, but who deal kindly with their friends?\\n\\n'Yes, I speak of Grimbeorn and his folk, [placeholder]! The Beorninghús will be well-suited for my study of the Black Book, and we shall be assuredly very safe within its wooden walls. Grimbeorn will require some convincing before he allows us to stay, but like his father Beorn before him, if we spark his curiosity he will open his doors to us.\\n\\n'The direct road south is not open to us, but that is no great hindrance. Let us return to Eryn Lasgalen on our way to the Beorning-lands, for I wish to consult with Thranduil of the wood about several small matters. If he has not already done so, we should ask him to open the Forest Gate once again.\\n\\n'You should bid farewell to Durin before we leave for Felegoth. And [placeholder]? Tell the young prince to ignore the voice in his heart that compels him to seek Thafar-gathol. That place is lost, if ever it existed at all, and he should put it from his mind. It is not for him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Talk to King Thranduil at his throne in Felegoth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'I am sorry to see you go, [placeholder], but I understand Gandalf's reasoning. To keep such an artifact here as the Black Book of Mordor must be considered unwise, and doubly-so if it is sought by one such as Karazgar! The Weeping Warrior has been shamed by our Wizard, true, but such a humbling is bound to last only a short while. He will recover from it. If he still desires to get his claws on the Black Book, as it seems he must, he will follow its trail away from here. Take care on your journey, my friend, and beware!'\\n\\nYou bid Durin a warm farewell, but before you depart his company you give him Gandalf's warning not to seek for Thafar-gathol. Durin looks at you thoughtfully and hefts the Red Axe in one hand.\\n\\n'Ah, you need not worry on that score, my friend. There is so much to be done here at Skarháld without adding Thafar-gathol to our list of problems! Longbeards, Zhélruka, and Stout-axes must all work to steady our foothold in the Grey Mountains, and to launch such an expedition so soon would be folly! Perhaps one day, [placeholder]. But certainly not today!'\\n\\nDurin's words are reassuring, but after taking your leave you turn back and see him gazing at the distant peaks of the Ered Mithrin, and wonder.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Make your way through Eryn Lasgalen to the Forest Gate in the west",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Make your way to the entrance of the Beorninghús south-west of the Forest Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "Grimbeorn stands at the Beorninghús.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'You have returned to my halls, [placeholder], as has Mithrandir. Am I to understand your search for the Bugdatish, the artifact sought by Ugrukhôr and Karazgar of the Gúrzyul, has come to naught?'\\n\\nYou briefly recount your adventures with the dwarves and your several confrontations with Karazgar. Thranduil smiles grimly.\\n\\n'It is often thus,' he replies, 'that servants of the Enemy outreach themselves, and their fall is all the further for it. I applaud Mithrandir for reminding Karazgar that not every Power in this world has fallen to evil.\\n\\n'As for the Forest Gate, I have already sent Wood-elves to open it. Trade has not yet been continued, but that too should soon follow. I will speak with Mithrandir for a time, and then the two of you should continue on to the Forest Gate on the western bounds of Eryn Lasgalen. You will find it unsealed, your path to the Beorning-lands open.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'We should make for Felegoth, in Eryn Lasgalen, and ask Thranduil to open the Forest Gate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'The Forest Gate is open, and our path to the Beorning-lands is clear. That is good. If we do not tarry, we should reach the Beorninghús today.\\n\\n'The Vales of Anduin are home to a number of hearty folk, [placeholder]. The Woodmen make their homes on the edge of the forest; you will find them rustic and superstitious, but do not mistake either of these qualities for weakness! To dwell within the shadow of Mirkwood for so long has made them strong, and while the wood now has a fairer name, the Woodmen endured when it did not.\\n\\n'Grimbeorn's folk, the Beornings, have also weathered hardship in the Vales. Long ago they learned the secret art of skin-changing, and other denizens of the Vales hunted them nearly to extinction. But they survived, and now they are a sturdy folk, slow to trust outsiders but worthy allies of those they name friend.\\n\\n'Let us go to the Beorninghús, south-west of here, and see if Grimbeorn will count us among that lucky number.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Grimbeorn at the Beorninghús",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Gandalf believes that Karazgar will remain a threat to the dwarves at Skarháld for as long as the Black Book remains there, and he wants to bring it on a journey away from the Ered Mithrin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Gandalf stands at the Forest Gate on the western edge of Eryn Lasgalen, waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Durin is on the upper level of Skarháld, waiting to speak with you following Karazgar's defeat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'Do you expect me to welcome you to my home, [placeholder]? These days are dire enough without Wizards and their travelling companions darkening my doorstep! Why should I make room for the two of you, and whatever trouble likely follows behind?\\n\\n'You say this is Gandalf? Tell me no such lies! I have met Gandalf, and this cannot be he. Gandalf is a man old and bent, dressed in grey. Kind of temperament is he, and not like this imperious stranger! Gandalf? Bah! If this truly is Gandalf, I say that trouble follows him wherever he goes, and these days are dire enough already without such as he darkening my doorstep!\\n\\n'I will take care of my own kind, first. If you will stay at my home, you will have the poorest rooms, and the smallest servings at dinner, and in all other things you will come second, and last. Is this understood? Be glad I do not turn you away, as is my right! But I am feeling generous.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "King Thranduil is in the throne room of Felegoth, in Eryn Lasgalen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'We have arrived. Now we will see if we are welcome!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'I propose that we travel together, [placeholder], and bring the Black Book with us on a new journey away from the stones of Skarháld. But where shall we take it? I suggest a place of both comfort and strength, perhaps a lodge warmed by a roaring hearth and guarded by a family of stern temperament, but who deal kindly with their friends?\\n\\n'Yes, I speak of your folk, [placeholder]! The Beorninghús will be well-suited for my study of the Black Book, and we shall be assuredly very safe within its wooden walls. Being kin, Grimbeorn will not turn you away, but it may require some convincing before he allows me to stay. He is not fond of Wizards generally; of my Order he cares only for Radagast, and that with hesitation, but like his father Beorn before him, if I spark his curiosity he should open his doors to me. Do I say \\qshould?\\q He must, or I will be most wroth! Your family should be wiser than that, [placeholder]!\\n\\n'The direct road south is not open to us, but that is no great hindrance. Let us return to Eryn Lasgalen on our way to the Beorning-lands, for I wish to consult with Thranduil of the wood about several small matters. If he has not already done so, we should ask him to open the Forest Gate once again.\\n\\n'You should bid farewell to Durin before we leave for Felegoth. And [placeholder]? Tell the young prince to ignore the voice in his heart that compels him to seek Thafar-gathol. That place is lost, if ever it existed at all, and he should put it from his mind. It is not for him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "The Forest Gate is located on the western edge of Eryn Lasgalen, along the forest road.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "The sound of buzzing bees and sweet smell of clover welcome you to the Beorninghús",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a0",
+      "en": "'We have arrived. Now we will see if I am welcome!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'This is your home and you are welcome, [placeholder], but why do you bring this Wizard to the Beorninghús? You say this is Gandalf? I have met Gandalf, and this cannot be he. Gandalf is a man old and bent, dressed in grey. Kind of temperament is he, and not like this imperious stranger! Gandalf? Bah!\\n\\n'Well, if this truly is Gandalf, I say that trouble follows him wherever he goes, and these days are dire enough already without such as he darkening my doorstep!\\n\\n'You will work for his board, [placeholder]. He will not stay for free!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'You should bid farewell to Durin before we leave for Felegoth. And [placeholder]? Tell the young prince to ignore the voice in his heart that compels him to seek Thafar-gathol. That place is lost, if ever it existed at all, and he should put it from his mind. It is not for him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'Take care on your journey, my friend, and beware!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'I sent Wood-elves to open the Forest Gate on the western bounds of Eryn Lasgalen. You will find it unsealed, your path to the Beorning-lands open.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'The Forest Gate is open, and our path to the Beorning-lands is clear. That is good. If we do not tarry, we should reach the Beorninghús today.\\n\\n'The Vales of Anduin are home to a number of hearty folk, [placeholder]. The Woodmen make their homes on the edge of the forest; you will find them rustic and superstitious, but do not mistake either of these qualities for weakness! To dwell within the shadow of Mirkwood for so long has made them strong, and while the wood now has a fairer name, the Woodmen endured when it did not.\\n\\n'Of your people I need not speak overlong! They too weathered hardship in the Vales. Long ago they learned the secret art of skin-changing, and other denizens of the Vales hunted them nearly to extinction. But they survived, and now your family is a sturdy one, slow to trust outsiders but worthy allies of those they name friend.\\n\\n'Let us go to the Beorninghús, south-west of here, and see if Grimbeorn will count me among that lucky number. I ask that you speak well of me, [placeholder], if you would. Surely I have earned such a favour as that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "The Forest Gate stands open, as King Thranduil commanded",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

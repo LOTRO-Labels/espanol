@@ -1,0 +1,755 @@
+{
+  "id": 620869819,
+  "txt": [
+    {
+      "id": "0x955f732",
+      "en": "Baleleaf howls and calls for the return of his corrupted birch-hounds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e9f552",
+      "en": "'Frothmar sleeps within its poisonous torrent no longer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e9f553",
+      "en": "'The keeper of the Darkthorn awakens!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94c24e2",
+      "en": "The south-west platform has collapsed under the Nemúl's assault!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf04a147",
+      "en": "Gortheron says 'I am impressed. You have overcome disease.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9605814",
+      "en": "'Ivar, I have failed you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6da61",
+      "en": "'Gortheron! Send aid!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6da62",
+      "en": "'Rise and fight with us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24605f7",
+      "en": "Frothmar roars, 'Nemúl, destroy the south-west platform!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6da63",
+      "en": "'To arms! We must not fail the Dark Lord!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe279454",
+      "en": "Relay - Open Doors Override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x928c7d2",
+      "en": "'I am Gandalf the White!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615d1",
+      "en": " 'Meaningless wretches! The ritual is complete, and you are too late.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615d2",
+      "en": " 'My master has given me a new body, a strong body.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0de005",
+      "en": "Ivar's powers have increased!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615d3",
+      "en": " 'None still in this world can face me and live.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615d4",
+      "en": " 'I will carve a path of destruction across this land.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615d5",
+      "en": " 'And I will start with you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcef869c",
+      "en": "'Narslaug, you have failed me! I reclaim your power!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55aa7fc",
+      "en": "'Matumáth, you have failed me! I reclaim your power!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f4bfbe",
+      "en": "'Lands of Forochel, send forth my minions!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b9f664",
+      "en": "To Enedwaith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12b82b5",
+      "en": "<rgb=#FF0000>Dourbark is now vulnerable.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x949ea42",
+      "en": "The north-east platform has collapsed under the Nemúl's assault!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94c2742",
+      "en": "The south-east platform has collapsed under the Nemúl's assault!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ca11e",
+      "en": " 'I toy with you no longer! This final gate will release the nightmares of the Black Land.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70cd6e2",
+      "en": " 'Your victories here today will be nothing more than a footnote in the history of my reign.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70cd6e3",
+      "en": " 'Just like Gandalf before you, it is now your time to fall!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92289d2",
+      "en": "The south-east platform has collapsed under your weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9fe6e",
+      "en": "'Lands of the Shire, send forth my minions!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89e8191",
+      "en": "Gortheron's voice echoes, 'Your precious Grey Wizard climbed these same stairs.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89e8192",
+      "en": "'He battled with an unspeakable ancient evil, and once they reached the very peak...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89e8193",
+      "en": "'The Balrog threw him from this tower and left your wizard broken on the slopes of Zirakzigil.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89e8194",
+      "en": "'Can you avoid his fate? Can you defeat that which smote your wizard?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x404d804",
+      "en": " 'Let the game begin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89e8195",
+      "en": "'Can you stand against Durin's Bane?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d5455",
+      "en": "Baleleaf is now vulnerable.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2dceee5",
+      "en": "Baleleaf is now protected as the corrupted birch-hounds rise again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3896d33",
+      "en": "Relay - Open Doors",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84e2c45",
+      "en": "The south-east platform shudders beneath the weight.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb06c6df",
+      "en": "'Welcome to Ost Dunhoth, followers of the Grey Wizard.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e88982",
+      "en": "The north-west platform has collapsed under your weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcde683e",
+      "en": "'Let all of Eriador send forth those sworn to me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x467f834",
+      "en": "The north-east platform has collapsed under Frothmar's weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf928c6",
+      "en": " 'That was Gandalf the Grey.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe258b09",
+      "en": "'Sauron will avenge me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x949ebe2",
+      "en": "The north-west platform has collapsed under the Nemúl's assault!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a95834",
+      "en": "The south-west platform has collapsed under Frothmar's weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x747231e",
+      "en": "'Lands of the Trollshaws, send forth my minions!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d3d391",
+      "en": " 'What is this interruption? The ritual is beginning, and Gortheron is weakened.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d3d392",
+      "en": " 'The helm I found in Stoneheight was not mine, but his.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d3d393",
+      "en": " 'His throne and powers shall be mine as well once you have been dealt with.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87f9122",
+      "en": "'You are beginning to become a great thorn in my side. One I cannot tolerate for much longer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d3d394",
+      "en": "'Champions, destroy them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd925f95",
+      "en": "Ost Dunhoth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e7a144",
+      "en": "Relay - Disable Mammoth Door Reset Trigger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39ad5bc",
+      "en": "'Dúngorth, you have failed me! I reclaim your power!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2460707",
+      "en": "Frothmar roars, 'Nemúl, destroy the north-west platform!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe317764",
+      "en": "'Ivar, I have failed you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3a753d",
+      "en": "<rgb=#FF0000>Red mushrooms begin to spring up around Dourbark.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93ba065",
+      "en": "The north-west platform has collapsed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf70065",
+      "en": "The south-east platform has collapsed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a13957",
+      "en": "Gortheron says 'Can you survive the poisoned waters to come?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9dff2ac",
+      "en": "'Matúrz-olog, you have failed me! I reclaim your power!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1f04a9",
+      "en": "'I am impressed. You have overcome disease.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe087f99",
+      "en": "Gortheron wails, 'Frothmar was a loyal servant and will not be easy to replace.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12402",
+      "en": " 'What will save you from them? The Wizards? Speak not to me of Wizards.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2460715",
+      "en": "Frothmar roars, 'Nemúl, destroy the north-east platform!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12403",
+      "en": " 'Two have abandoned you for distant lands; they care not for your pains.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12404",
+      "en": " 'The third spends his days idly in the wilderness; he cares more for animals than free folk.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12405",
+      "en": " 'The fourth seeks power, and only my master can give him that which he desires.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12406",
+      "en": " 'And the last? Gandalf the Grey? His death is the death of your hopes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12407",
+      "en": " 'The Five Wizards have abandoned you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x954a1ef",
+      "en": "'Once, the gardens of Ost Dunhoth were renowned for their beauty.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12408",
+      "en": " 'In their absence, the Dark Powers now triumph and usher in a new age of despair.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca12409",
+      "en": " 'I call upon Sauron to send me a champion from the depths of Mordor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24e2c75",
+      "en": "The south-west platform shudders beneath the weight.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf4a065",
+      "en": "The south-west platform has collapsed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6da11",
+      "en": "'Ivar! I beseech thee!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c6f022",
+      "en": "'Under my banner, this fortress now serves the Dark Lord.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6da12",
+      "en": "'Return to battle, old friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c6f023",
+      "en": "'He has granted to me powers now unmatched in all of Middle-earth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6da13",
+      "en": "'The invaders must be driven out!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a04815",
+      "en": "Ost Dunhoth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c6f024",
+      "en": "'Only one could have stood against me, and he has fallen into shadow.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c6f025",
+      "en": "'As your hopes dwindle, are you prepared to face your darkest fears?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd26f67e",
+      "en": "Gortheron's laughter echoes through the chamber.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d28982",
+      "en": "The north-east platform has collapsed under your weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a1fe72",
+      "en": " 'No longer. Now they produce death, disease, and the Red Cloud.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a1fe73",
+      "en": "'Their roots intertwine. One shall not fall without the other.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a1fe74",
+      "en": " 'Now I depart and let them feed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0641de",
+      "en": "You must have completed the 'Discoverer of Ost Dunhoth' deed to play this instance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe454254",
+      "en": "'Ivar, I have failed you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4e1bd4",
+      "en": "Relay - RESET",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24e3885",
+      "en": "The north-west platform shudders beneath the weight.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d62a74",
+      "en": "Gortheron's voice bellows, 'Face Durin's Bane and be destroyed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4665834",
+      "en": "The north-west platform has collapsed under Frothmar's weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbec1221",
+      "en": "'Thank goodness you have come! I have been scouting the area.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24605c5",
+      "en": "Frothmar roars, 'Nemúl, destroy the south-east platform!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbec1222",
+      "en": "'The path forward is this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c6ede4",
+      "en": "Relay - Disable Mammoth Door Reset Trigger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6daf1",
+      "en": "'This place shall be your end!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6daf2",
+      "en": "'Come forth and bring their death!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf6daf3",
+      "en": "'Rise and destroy them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84e3895",
+      "en": "The north-east platform shudders beneath the weight.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42e08f5",
+      "en": "<rgb=#FF0000>Dourbark is now protected as the decaying birch-hounds rise again.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6dd4e1",
+      "en": "'I serve the secret fire...I wield the flame of Anor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6dd4e2",
+      "en": "'Go back to the shadow!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ac5c03",
+      "en": "Relay - Mammoths at Hyperspeed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7bb20e",
+      "en": " 'You have failed my game. Do you dare try again?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6dd4e3",
+      "en": "'You shall not pass!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa124080",
+      "en": " 'Release your hounds from behind the Black Gate. Send forth an army to destroy these lands!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa124081",
+      "en": " 'Gandalf...no, it cannot be...you fell! You are dead! You cannot be here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa124082",
+      "en": " 'You know the rule! You are not allowed to interfere! You cannot harm me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7460082",
+      "en": "The platform has collapsed under your weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bc058e",
+      "en": "'Lands of the North Downs, send forth my minions!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93889d2",
+      "en": "The south-west platform has collapsed under your weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9121ed4",
+      "en": "'Ivar, I have failed you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe38d992",
+      "en": "<rgb=#FF0000>Dourbark howls and calls for the return of his decaying birch-hounds.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf04a132",
+      "en": "'Can you survive the poisoned waters to come?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd023ed",
+      "en": "White mushrooms begin to spring up around Baleleaf.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93a0065",
+      "en": "The north-east platform has collapsed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c70ccf",
+      "en": " 'It is impressive you have made it this far, but in the end it will matter not.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aaf834",
+      "en": "The south-east platform has collapsed under Frothmar's weight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e9f551",
+      "en": "'From a well deep beneath the earth, foulness rises and corrupts this ancient spring.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

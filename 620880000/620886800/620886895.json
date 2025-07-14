@@ -1,0 +1,65 @@
+{
+  "id": 620886895,
+  "txt": [
+    {
+      "id": "0x150d6c3",
+      "en": "Speak with <NPC TBD>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'You have shown me what a true alliance should be, [placeholder]... and what Saruman has offered is no alliance. He has stolen our warriors and made us slaves. It is clear that the people of Dunland are nothing to him but thralls.\\n\\n'Let us return to Galtrev now. Perhaps with your help, I can demand a fair alliance from the White Hand peoples stationed in our village.'\\n\\n<rgb=#FF0000>NOTE: This is a solo instance and cannot be completed in a fellowship.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'You fought bravely for our people, [placeholder]! You are a true hero... like the folk in the old tales. We owe you much!\\n\\n'Thanks to you, our people are slaves to the White Hand no longer. But I fear that Saruman will retaliate when he hears of what happened here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Are you ready to leave, [placeholder]? Come... let us return to Galtrev together.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Meaning of Alliance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "It has become apparent to many that the White Hand alliance with the folk of Galtrev is not a fruitful one for the people of Pren Gwydh.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Accompany Tomos to establish a fair alliance between the people of Galtrev and the White Hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Tomos is at the outskirts of the Dragon-clan's encampment in western Pren Gwydh.\\n\\nYou should speak with Tomos to travel to Galtrev.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Mari",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Mari is in Galtrev, the main village of Pren Gwydh.\\n\\nYou should speak with Mari in Galtrev.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

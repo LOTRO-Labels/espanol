@@ -1,0 +1,929 @@
+{
+  "id": 621022646,
+  "txt": [
+    {
+      "id": "0xb011875",
+      "en": "Nagli can be found at the Rusted Gate in Ered Luin.\\n\\nAfter you told the Dourhands of your escape from Mordor, a dwarf named Nagli has asked to speak with you. You should talk to Nagli.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011876",
+      "en": "Lethi and Vaski have drawn Ushgrat's attention away from you.\\n\\nYou must escape from Barad-dûr before it is too late!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a2",
+      "en": "A pale creature rushes past you and through the open door!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011877",
+      "en": "You must escape from Barad-dûr before it is too late!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "TBD - Orc whipping Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56848",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011878",
+      "en": "After foiling Vaski's escape, Ushgrat is keeping watch before the gates of Barad-dûr.\\n\\nYou should confront Ushgrat and fight your way out of Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50260",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Follow Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502921",
+      "en": "Defend Lethi from the pale creature",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502923",
+      "en": "<rgb=#FF0000>You must escape before Ushgrat overpowers Lethi and Vaski</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e3",
+      "en": "Talk to Nagli in Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e4",
+      "en": "Find Dwalin, the leader of the Longbeard expedition, in Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa32",
+      "en": "Instance: The Shadow of Mordor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502927",
+      "en": "Escape from Barad-dûr and find a way out of Mordor!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502928",
+      "en": "Escape from Barad-dûr and find a way out of Mordor!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be0",
+      "en": "The pale creature sputters and curses as it flees",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502929",
+      "en": "Follow Nagli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e91",
+      "en": "Peer around the corner and <rgb=#FF00FF>look</rgb> to see if the gates of Barad-dûr are unguarded",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edb56",
+      "en": "Listen to Skorgrím",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'If I could still move my arm, I'd slice yer throat....'\\n\\nAshaug coughs and black blood leaks from the corners of his mouth.\\n\\n'The Sneak was on his way out like the High Up wanted... and then you lot come in swingin' knives around and it spooks him. Next thing I know, one of us gets bit... and another takes a tumble off the stair. You lot are easy enough to put down, but not him... and we couldn't even if we wanted to or we'd be for the Pits. Ah... but some thought it'd be worth the Pits to gut that little frog!'\\n\\nAshaug laughs weakly.\\n\\n'We were at each other's throats in an instant... and we forgot all about your little revolt, shakglob. Always goes this way, anyway. A few'll get out, but it won't take long to round 'em up. Even if you find a way out of Lugbúrz, you'll never... escape... Mor....'\\n\\nAshaug chokes and his eyes widen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689c0",
+      "en": "'Yes?'\\n\\nNagli swiftly recounts your tale to Rethvárd. After finishing, Nagli asks Rethvárd to bring you before the Steward of Thorin's Hall that he might judge your worth to the Dourhands.\\n\\n'Aye, I can do that... just as soon as Bjarni arrives to take watch. He's almost an hour late now. It's not like him.\\n\\n'I'd like to hear the tale from you, [placeholder], if it's not too much trouble. It'd make the journey to Thorin's Hall seem faster for the both of us!'\\n\\nRethvárd visibly shivers.\\n\\n'A chill wind blows. Do you feel it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be4",
+      "en": "<rgb=#FF0000>You did not escape in time!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b27",
+      "en": "As Dwalin looks out upon Thorin's Hall, he strokes his beard uneasily",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be6",
+      "en": "With a defiant cry, Vaski draws Ushgrat's attention. Run while you can!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50271",
+      "en": "Follow Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502931",
+      "en": "Talk to Rethvárd",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50274",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689c7",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50275",
+      "en": "Follow Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502936",
+      "en": "Talk to Skorgrím",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011892",
+      "en": "Lethi can be found near Hakal-kúnug, the Twisted Stair within Barad-dûr.\\n\\nYou should follow Lethi and find your way to the gates of Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502938",
+      "en": "Remain on guard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011893",
+      "en": "Ashaug can be found near Hakal-kúnug, the Twisted Stair within Barad-dûr.\\n\\nAshaug has sustained a grave wound in the fighting within Barad-dûr, but his wounds seem to be inflicted by an unusual source. You should talk to Ashaug.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011894",
+      "en": "Abandoned weapons can be found near the slain Orcs near Hakal-kúnug, the Twisted Stair within Barad-dûr.\\n\\nYou should find a suitable weapon with which to defend yourself before pressing on through Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56866",
+      "en": "'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6af8",
+      "en": "Defeat TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568912",
+      "en": "'I suppose this is as far as I'm to go, [placeholder].'\\n\\nWith a look of disdain barely masked on his face, Nagli eyes the Longbeards that have stopped him in Thorin's Hall.\\n\\n'When the Longbeard expedition arrived, I recognized a few of them. They are led by a dwarf named Dwalin, and he is hailed as a hero by many Longbeards. He is an old dwarf, white of beard, and it is not unlikely that he has assumed the mantle of Steward in Gormr's absence.\\n\\n'If his people truly slaughtered my own, there shall be further bloodshed between us... but I am no longer so certain who seeks to do harm to the Dourhands. You know much of the ways of the Enemy, and I must know if our people have been deceived to some foul end.\\n\\n'I beg you, [placeholder], speak to Dwalin on my behalf.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011897",
+      "en": "Dourhands can be found at the Rusted Gate in Ered Luin.\\n\\nSkorgrím Dourhand claims to have been resurrected by a deathly-looking Man called Ivar the Blood-hand, and he has summoned all loyal Dourhands into the service of Angmar. However, a few have hesitated to answer his summons. You should warn them not to follow Skorgrím.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011898",
+      "en": "Rethvárd can be found at the Rusted Gate in Ered Luin.\\n\\nNone of the other Dourhands you warned could be swayed from following Skorgrím. You should warn Rethvárd.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011899",
+      "en": "Nagli can be found at the Rusted Gate in Ered Luin.\\n\\nAll of the Dourhands save for Nagli have left with Skorgrím. You should talk to Nagli.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf9",
+      "en": "A few of the Dourhands have chosen to follow Skorgrím, but it seems some might still be swayed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Pursue the creature through Barad-dûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Follow Lethi and find a way out of Barad-dûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Protect Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56873",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568922",
+      "en": "'Aye, that's good enough. There's no time to pick through the rest with all these Orcs about....'\\n\\nLethi glances toward the Twisted Stair.\\n\\n'We'll have to climb down to reach the gates. Quickly now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568923",
+      "en": "'Was that... the Dark Lord's prisoner? No wonder He wanted to be rid of it!'\\n\\nLethi sighs and regains his breath.\\n\\n'It's a good thing you drove it off, [placeholder]. I swear it looked so sickly and withered, but it had the strength of a dwarf!\\n\\n'Ah, but there's no time to dwell on that now. We've got to keep moving....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56879",
+      "en": "'It's not far now... but I fear the worst is still ahead of us.\\n\\n'Ashaug was right about one thing. Even if we escape the Dark Tower, we won't get far without being noticed. And it won't be Udûn for us after all this, I promise you that. We'll end up in the Black Pits or...'\\n\\nLethi visibly shudders.\\n\\n'...they'll bring us to the Dead City. I... well, let's hope it doesn't come to that.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568925",
+      "en": "'Hah! Did you think the Great Eye would just let you walk out of Lugbúrz, shakglob?'\\n\\nUshgrat whips Vaski before turning to you.\\n\\n'You... Orc! Why is that one not in chains? And where did it get that knife?'\\n\\nUshgrat's eyes narrow as he looks you over.\\n\\n'Clever, clever. That's your plan, is it, stone-filth?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e5",
+      "en": "'You seem a fine dwarf, [placeholder], but you must understand... we Dourhands are also a lost people. We tended the hall of Thorin Oakenshield for many years, and what thanks do the Longbeards offer us? You heard Skorgrím! Naught but a massacre of our brothers and sisters!\\n\\n'Whatever you think Skorgrím-king to be... he and the might of Angmar could help us to step out of the shadows of the Longbeards and reclaim our former glory. Flee to the Longbeards if you must, but if you do, know that I will not hesitate to raise my axe against you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502951",
+      "en": "Disguise yourself as an Orc-captain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568927",
+      "en": "'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568929",
+      "en": "'What did you see? Is the way clear?'\\n\\nYou tell Lethi that you spied a massive uruk and a wounded Stout-axe on the causeway, and that many more Stout-axes have fallen in their attempts to escape.\\n\\n'I knew they'd set a trap for us... I just knew it!'\\n\\nLethi gnashes his teeth in anger.\\n\\n'Bah! Perhaps if I pretend to be your prisoner, we might be able to fool that uruk. If not, well....\\n\\n'It's our only chance, [placeholder]. Follow me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502954",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502955",
+      "en": "Escape from Barad-dûr and find a way out of Mordor!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859420",
+      "en": "'You seem a fine dwarf, but you must understand... we are also a lost people.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Examine the slain Orc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859421",
+      "en": "Something troubles me about Skorgrím's words…'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502957",
+      "en": "Talk to Nagli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859422",
+      "en": "''I suppose this is as far as I'm to go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edb84",
+      "en": "Talk to Nagli and travel to Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f0",
+      "en": "'You seem a fine dwarf, [placeholder], but you must understand... we Dourhands are also a lost people. We tended the hall of Thorin Oakenshield for many years, and what thanks do the Longbeards offer us? Naught but a massacre of our brothers and sisters!\\n\\n'Whatever you think Skorgrím-king to be... he and the might of Angmar could help us to step out of the shadows of the Longbeards and reclaim our former glory. Flee to the Longbeards if you must, but if you do, know that I will not hesitate to raise my axe against you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d13",
+      "en": "You, like generations of Stout-axes before you, served as a thrall in Barad-dûr for all of your life. but now the wild lands beckon you, and adventure lies before you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f2",
+      "en": "'Something troubles me about Skorgrím's words, and that deathly Man makes me uneasy.\\n\\n'I wish to trust the words of Skorgrím-king, but I cannot. Does he speak for himself or does Ivar speak through him? It is true that Steward Gormr ceased sending tribute to the Lonely Mountain some months ago, but our quarrels with the Longbeards never ended in bloodshed... until now.\\n\\n'I wish to hear what the Longbeards have to say to these accusations. Has Skorgrím-king spoken true or is this some conspiracy guided by the hand of Angmar?\\n\\n'Will you accompany me, [placeholder]? Perhaps the voice of a Stout-axe might do more to ease this unrest than that of a Dourhand....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Rethvárd",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "TBD - Watch as events unfold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Talk to Skorgrím Dourhand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "TBD - Watch as events unfold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f7",
+      "en": "'Bah! What a mess they have left behind!'\\n\\n'Who are you and what business have you in the hall of Thorin Oakenshield?'\\n\\nYou introduce yourself to Dwalin as a Stout-axe of Mordor who escaped imprisonment by the Enemy and fled to distant lands to seek refuge. You explain that you encountered Skorgrím and Ivar on the road to Thorin's Hall, and that Skorgrím claimed that the Longbeards massacred the Dourhands.\\n\\n'A massacre? Aye, you could call it that, but it was the work of Ivar the Blood-hand -- not the Longbeards! Indeed, it was Ivar who roused Skorgrím from his long rest. But it was not some miracle of fortune that made it so... it was Ivar's vile sorcery and the unwitting sacrifice of many Dourhands that bound a terrible spirit to his remains. Whatever the Dourhands think of Skorgrím, he is not who he appears to be!\\n\\n'Although I believe that your Dourhand friend means us no harm, he still has much to answer for and I do not doubt he wishes to hear the truth of this sorry matter for himself.\\n\\n'If it is refuge you seek, you may earn it by helping us to restore these halls from years of neglect by the Dourhands. Even if he had not succumbed to evil, Gormr still failed in the task my lord set for him. If Nagli proves trustworthy, he may dwell in Frerin's Court... but he is forever banished from Thorin's Hall.\\n\\n'Do you accept these terms, [placeholder]?'\\n\\nYou nod.\\n\\n'Good, good. Now I have never heard of the clan name you mentioned, these Stout-axes, but you are welcome in Thorin's Hall so long as you work to aid the Longbeards.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Drive back the Dead with the Dourhands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to Nagli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Travel to Thorin's Hall with Nagli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a64",
+      "en": "Defeat Ushgrat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1132",
+      "en": "You spy an uruk looming over a wounded Stout-axe, blocking the way out",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ef9f89",
+      "en": "You can't see anything from here...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1136",
+      "en": "With a look of shock spread across his face, Ushgrat falls defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "TBD - Find the slain Orc-captain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Disguise yourself in the Orc-captain's armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Escape from Barad-dûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Nagli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Follow Nagli and learn what the other Dourhands think of your tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568950",
+      "en": "'All of this can't be us… can it?'\\n\\n'Why do the Orcs fight amongst themselves while our brethren make for the gates?\\n\\n'Perhaps we have found some good fortune at last!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed39",
+      "en": "Listen to Vaski",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568951",
+      "en": "'I think that might just fool them...\\n\\n'Now listen, [placeholder]. There's a long causeway just ahead of us around that corner, and at its end... the gates of the Dark Tower.\\n\\n'Since you look like a proper Orc, why don't you scout ahead and peer around the corner? If the way is clear, we'll make a run for it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568954",
+      "en": "Skorgrím glares at you. His eyes flash with an unearthly glow.\\n\\n'You are far from home, aren't you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1149",
+      "en": "This is a good location to look across the causeway",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edbb2",
+      "en": "Listen to Rethvárd and let events transpire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1152",
+      "en": "As Lethi inspects a fallen Stout-axe, a pale creature darts past you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d5",
+      "en": "''If I could still move my arm, I'd slice yer throat....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d6",
+      "en": "''Clever, clever. That's your plan, is it, stone-filth?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d7",
+      "en": "''Bah! What a mess they have left behind!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d8",
+      "en": "'That was quite the story!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595d9",
+      "en": "'Yes?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed50",
+      "en": "Listen to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1158",
+      "en": "Half-hidden behind a brazier, Lethi peers into the distance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Introduction: TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50215",
+      "en": "Confront the Uruk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50218",
+      "en": "Talk to Vaski",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1161",
+      "en": "Ashaug's breath slows and sputters as he succumbs to his wounds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b92",
+      "en": "As you pull the ill-fitting helm down onto your head, Lethi calls you over",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1162",
+      "en": "Stained with black blood, Ashaug lies dying among a number of fallen Orcs and Stout-axes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Lethi can be found near Hakal-kúnug, the Twisted Stair within Barad-dûr.\\n\\nYou should talk to Lethi.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b98",
+      "en": "As Lethi approaches the pale creature, it suddenly springs to its feet and attacks!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011840",
+      "en": "The path to the gates of Barad-dûr is just ahead of you.\\n\\nLethi has asked you to peer around the corner and see if the path out of Barad-dûr is clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011841",
+      "en": "Lethi can be found in Barad-dûr.\\n\\nYou discovered the uruk, Ushgrat, guarding the gates of Barad-dûr. Worse still, he appears to have subdued Vaski. You should talk to Lethi.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011842",
+      "en": "Lethi can be found in Barad-dûr.\\n\\nYou have disguised yourself as an Orc-captain, which may be of help in escaping the Land of Mordor. You should talk to Lethi.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56813",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011843",
+      "en": "The slain Orc-captain can be found just ahead of Lethi in Barad-dûr.\\n\\nAfter spying a slain Orc-captain, Lethi has urged you to disguise yourself in its armour so that you might fool the inhabitants of Mordor. You should disguise yourself.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011844",
+      "en": "Lethi has travelled into the shadowed halls of Barad-dûr.\\n\\nYou should follow Lethi and press on to the gates of Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011845",
+      "en": "Lethi can be found Barad-dûr.\\n\\nLethi is standing next to a brazier in Barad-dûr. You should talk to Lethi.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011846",
+      "en": "Lethi can be found in Barad-dûr.\\n\\nLethi is pressing on toward the gates of Barad-dûr. You should follow him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56817",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011847",
+      "en": "Lethi can be found in Barad-dûr.\\n\\nAfter repelling the pale creature that attacked him, Lethi is shaken. You should talk to Lethi before pressing on to the gates of Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011848",
+      "en": "Lethi can be found in Barad-dûr.\\n\\nYou have taken a weapon. You should talk to Lethi and follow him to the gates of Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011849",
+      "en": "Lethi can be found in Barad-dûr.\\n\\nLethi is pressing on to the gates of Barad-dûr. You should follow him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edb22",
+      "en": "Talk to Ashaug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011850",
+      "en": "The pale creature can be found in Barad-dûr.\\n\\nDespite appearing to be dead, the pale creature has scrambled to its feet and attacked Lethi. You should defend him and drive off the creature.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edb23",
+      "en": "Listen to Nagli and the Dourhands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502901",
+      "en": "Talk to Nagli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Collect an abandoned weapon to defend yourself",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502905",
+      "en": "Find Dwalin, the leader of the Longbeard expedition, in Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502906",
+      "en": "Talk to Dwalin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011861",
+      "en": "Nagli has told you of a dwarf named Dwalin, who led the recent Longbeard expedition to Thorin's Hall.\\n\\nHoping to learn the truth of Skorgrím's claims and seek refuge, Nagli has asked you to travel with him to Thorin's Hall.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5021",
+      "en": "DNT - This doesn't seem quite right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011868",
+      "en": "Dwalin can be found somewhere within Thorin's Hall.\\n\\nAfter entering Thorin's Hall, the Longbeards have kept a close watch on Nagli. You should find and speak to Dwalin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a3",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011869",
+      "en": "Dwalin can be found in Thorin's Hall.\\n\\nYou have found Dwalin deep within Thorin's Hall. You should speak to him on behalf of Nagli and plead for refuge in Thorin's Hall.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Find the leader of the Longbeard expedition",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502910",
+      "en": "Escape from Barad-dûr and find a way out of Mordor!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc8",
+      "en": "This is far enough. Best not be seen!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Talk to Dwalin in Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502911",
+      "en": "Warn Dourhands not to follow Skorgrím ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a6",
+      "en": "'That was quite the story, [placeholder]. I think it took all of us quite by surprise... a welcome surprise, of course! Not just any dwarf could do as you have done!\\n\\n'It's been a long week for us Dourhands. Our Steward, Gormr Doursmith, was preparing a great celebration for Skorgrím, our king of old - a Ritual of Commemoration, he called it. But after the Longbeards came to Ered Luin demanding tribute, he sent us down here to close the pass. We've been at it for nigh on a week now and if my reckoning is right, we missed the celebration two... no, three nights back. Some thanks we get!'\\n\\nNagli appears to realize his grievances pale in comparison to the plight of the Stout-axes.\\n\\n'Here I am complaining about missing a party to you, [placeholder]. Forgive my foolishness!\\n\\n'I can't speak for everyone, but I think we would be glad to hear more of your tales when we return to Thorin's Hall. Perhaps you would even be welcome to stay among us for a time... if the Steward allows it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Talk to Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Follow Lethi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Talk to Ashaug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011870",
+      "en": "Skorgrím, and many of the Dourhands who now follow him, are marching from the Rusted Gate.\\n\\nYou should remain on guard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502916",
+      "en": "Warn Rethvárd not to follow Skorgrím",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011871",
+      "en": "Skorgrím Dourhand can be found at the Rusted Gate in Ered Luin.\\n\\nFollowed by a significant number of Dourhands, and a deathly-looking Man, Skorgrím has asked to speak with you. You should talk to Skorgrím.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011872",
+      "en": "Rethvárd can be found at the Rusted Gate in Ered Luin.\\n\\nNagli has brought you before Rethvárd, a Dourhand guard, with the hope that he might grant you an audience with Gormr Doursmith, the Steward of Thorin's Hall. You should talk to Rethvárd.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011874",
+      "en": "Nagli can be found at the Rusted Gate in Ered Luin.\\n\\nNagli has suggested that you ask to seek refuge among the Dourhands in Ered Luin. Lacking the authority to make such a decision, Nagli has asked you to speak to Rethvárd that he might bring you before the Steward of Thorin's Hall.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d171",
+      "en": "As the shadow of Mordor lengthens across Middle-earth, the Enemy orders the release of a mysterious prisoner, sparking in-fighting and revolt in Barad-dûr.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

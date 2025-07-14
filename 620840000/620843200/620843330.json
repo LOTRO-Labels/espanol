@@ -1,0 +1,545 @@
+{
+  "id": 620843330,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "The enemy is launching their final attack at The Prancing Pony. Help Second-watcher Heathstraw defend it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Second-watcher Heathstraw is just outside The Prancing Pony. He wishes to speak with you about today's success.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4962214",
+      "en": "'I believe we have a moment of respite before their assault continues.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'I am glad to see that you have returned, friend. We have made it here to The Prancing Pony in your absence and have been holding it, but I fear we won't last much longer. The brigands are coming at us with a vengeance which I cannot match. I am glad to have you by my side once more.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Oftentimes during Skirmishes such as these, you will find you have other allies, such as myself, aiding you in your battle. In some cases, if those allies fall, you will lose the Skirmish.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'We often know little about the enemy's forces or where exactly they may come from. From scouting, I know that we are facing brigands, half-orcs, and wolves of varying skill and strength. But I do not know what combination of those might come at us at any point. Stay on your guard and be prepared to alter your defence at any moment to best defend against the enemy's assaults.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'That Orc was one of the lieutenants I was speaking of. You did well to defeat it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Bree is safe! You have done us a great service by aiding the cause. I could have held for a short time, but that half-orc with Bill Ferny and Harry Goatleaf surely would have done me in had I been alone. I thank you greatly for your aid.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'I thank you again for your help in freeing Bree. It will be long before what you have done is forgotten.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8ed1b5",
+      "en": "'We owe you a debt. Fare well in your battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x492f662",
+      "en": "'Very good. A warrior will increase our offensive capability and allow us to cut through the waves of enemies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a35163",
+      "en": "The status of the third assault.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb840025",
+      "en": "'Good luck! Bree thanks your courage!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe299975",
+      "en": "Second Assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bb6f34",
+      "en": "'The people of Bree are getting what they deserve!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68a5ac4",
+      "en": "'You shouldn't have come here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Listen to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f66db1",
+      "en": "'Will, Tom, get back inside. We'll handle this. Prepare yourself my friend, their first wave approaches!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Purchase the Warrior Role Trait from Will, then talk to Tom to slot it, then use your skill to call forth your Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2faa65",
+      "en": "First Assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Defeat the first assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Listen to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Defeat the second assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Listen to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "<rgb=#FF0000>The enemy approaches from the west</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9162f3c",
+      "en": "'They have been vanquished.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "<rgb=#00FF00>The first assault has been defeated! Regroup and consult with Second-watcher Heathstraw</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "<rgb=#00FF00>The second assault has been defeated! Regroup and consult with Second-watcher Heathstraw</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "<rgb=#00FF00>The third assault has been defeated. Dríthlorz has been vanquished, and Bree is free once more</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "<rgb=#00FF00>The second assault has been defeated! Regroup and consult with Second-watcher Heathstraw</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "Second-watcher Heathstraw has fallen in battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "Second-watcher Heathstraw has fallen in battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3688",
+      "en": "<rgb=#00FF00>The third assault has been defeated. Dríthlorz has been vanquished, and Bree is free once more</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3689",
+      "en": "Second-watcher Heathstraw has fallen in battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c0",
+      "en": "Second-watcher Heathstraw has fallen in battle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c1",
+      "en": "Second-watcher Heathstraw has fallen in battle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c2",
+      "en": "The third assault has been defeated. BOSSNAME has been vanquished and Bree is free once more.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c3",
+      "en": "Second-watcher Heathstraw has fallen in battle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x743a265",
+      "en": "'I'm out of here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fd6ec1",
+      "en": "Purchase the Warrior Role Trait from Will, then speak with Tom to slot it. Once that is done, call forth your Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6115633",
+      "en": "The status of the first assault.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fd6ec5",
+      "en": "<rgb=#FF0000>The second wave approaches from the south!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fd6ec7",
+      "en": "<rgb=#FF0000>The final assault approaches from the west!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f66bb1",
+      "en": "'Near the major locations of Middle-earth you will find Skirmish Camps: Bree, Rivendell, Thorin's Hall to name a few.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f66bb2",
+      "en": "'There you can barter your Marks for new and better soldier traits and gear and equipment for yourself.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f66bb3",
+      "en": "'Safe travels my friend. Perhaps we will meet again in another Skirmish against the Enemy. For now, I salute your courage.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7513503",
+      "en": "The status of the second assault.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Tutorial: Defence of The Prancing Pony",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80ed135",
+      "en": "'This isn't worth dying for.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The inhabitants of Bree have spent the occupation holed up within The Prancing Pony. Angered at their uprising, the brigand have decided to burn them out....",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Talk to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Defeat the final assault and Dríthlorz",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Listen to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Talk to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Second-watcher Heathstraw must survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f663b1",
+      "en": "'You will need a stronger ally for this fight. There are many ways soldiers can be trained and outfitted for battle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Defeat the final assault and Dríthlorz",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f663b2",
+      "en": "'Archers, warriors, protectors, sages, bannermen and herbalists are all willing to answer your call.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c56",
+      "en": "Second-watcher Heathstraw must survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f663b3",
+      "en": "'For this battle, a warrior will be to our best advantage. Will, Tom, come out here for a moment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c57",
+      "en": "Listen to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f663b4",
+      "en": "'Speak to Will and purchase the warrior role trait. Then speak to Tom and complete the soldier's training.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96767c1",
+      "en": "'Those banners ahead mark the state of the skirmish. Prepare yourself, the enemy is coming!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c58",
+      "en": "Talk to Second-watcher Heathstraw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c89a72",
+      "en": "<rgb=#FF0000>The architect of the assault has entered the courtyard</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96767c2",
+      "en": "'A Protector of the Vile! Quickly, take it out. All others around it become more difficult to kill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96767c3",
+      "en": "'After this last assault, Bree will be free once more. To arms!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f669b1",
+      "en": "'As you encounter and defeat more lieutenants, you will learn more about how they affect the battlefield.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f669b2",
+      "en": "'And what you can do to expose and exploit their individual weaknesses, they all have at least one.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f669b3",
+      "en": "'I believe we are nearing the end of this battle. Defeat this assault, Bree will be free once more. Here they come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'There are a great number and variety of rewards attainable by helping the Free Peoples fight against the Enemy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'It is important to be sure that your soldier is properly trained for the role you wish him to fulfill. Make sure to pay attention to the other members of your fellowship, their abilities, and which soldiers they will be calling forth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30fdf95",
+      "en": "Third Assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Second-watcher Heathstraw is just outside The Prancing Pony. He wishes to discuss his plan with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Making sure your soldier is trained to complement your own abilities and those of your fellowship is crucial to overcoming the challenges each Skirmish with the enemy presents.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Will and Tom are outside of The Prancing Pony. They want to help you upgrade your soldier by allowing you to purchase and slot a role trait enabling him to be a warrior.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'When you were taking the South-gate, you moved through and took the enemy's bastions, claiming them for your own. Here, we are defending The Prancing Pony and the bastions we have claimed, while the enemy comes to us and attempts to take them for their own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Second-watcher Heathstraw is just outside The Prancing Pony. He wishes to discuss a few final details with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'You can always purchase rewards and train your Soldier at any of the Skirmish Camps throughout the world.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The enemy is attacking The Prancing Pony. Aid Second-watcher Heathstraw in defending it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f66fb1",
+      "en": "'The enemy employs a number of terrible Lieutenants, specially trained enemies with unique skills.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Second-watcher Heathstraw is just outside The Prancing Pony. He wishes to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f66fb2",
+      "en": "'It is difficult to know which Lieutenants march with the enemy until they arrive on the battlefield.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "The enemy is attacking The Prancing Pony. Aid Second-watcher Heathstraw in defending it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f66fb3",
+      "en": "'I caught a glimpse of a large Orc with this force. Be prepared... it could come at any time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Second-watcher Heathstraw is just outside The Prancing Pony. He wishes to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f66fb4",
+      "en": "'Here they come again. To arms!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

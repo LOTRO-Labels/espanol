@@ -1,0 +1,623 @@
+{
+  "id": 620880828,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "Acca is near the steps of Orthanc, listening to the conversation of Gandalf and Saruman. You should speak with him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Saruman is on the steps of Orthanc.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'No, I will not be dissuaded, Gríma. He is an old man and does not deserve this treatment at the hands of our master. If Saruman fears Gandalf plans to hatch an evil plot, keep him imprisoned, yes, but in comfortable quarters. The pinnacle is exposed to the elements. It is cruel treatment, not befitting Saruman the Wise.\\n\\n'It is not our place to challenge Saruman's decisions, but I will do what I can to ease Gandalf's stay with us. An extra ration of bread will do no harm.\\n\\n'There is no need to tell Saruman of this, of course.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Promise me that you will not tell our master about this. We have done nothing wrong, of course, but there is no sense in disturbing him. What is one more loaf of bread? No one will miss it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'They have been long in conversation, Gríma. What do you think they are speaking about?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Could you make any sense of that, Gríma? Our master holds you in closer confidence than he does me. Have you heard nothing of these matters?\\n\\n'I need not be counted among the Wise to know that they have Radagast worried, and that gives me reason to worry as well!\\n\\n'I am sure our master will know what must be done. That is why he is the Wizard, and we are the servants! We know our place, do we not? We do!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c50661",
+      "en": "'My servants, come here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Gandalf seems much older than I remember from his last visit, older and weaker. Look at him there, then look at our master. See how Saruman's raiment glows! Gandalf's cloak seems so tattered.\\n\\n'It is charitable of our master to offer his wisdom to the Grey Wizard. Perhaps he could offer some finer clothing, as well!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ad7a1",
+      "en": "'You sent troubling words to me by way of Radagast, Saruman.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Our master was right, Gríma! The guards report that Gandalf was seen riding hard alongside the river, and now he is here! Radagast has done as he was asked!\\n\\n'Let us go meet Gandalf and bring him to Orthanc!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ad7a2",
+      "en": "'You cannot intend to make me sit upon the steps of Orthanc like a patient vendor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "Gandalf's horse is tired from its long journey and will benefit from a stay in the stables with food and water.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "Saruman listens as you breathlessly recount Acca's recent delivery of a loaf of bread to Gandalf, and their ensuing conversation. His face is a thundercloud.\\n\\n'Why did you allow Acca to do this? Dog! What would you have done if he allowed Gandalf to come down? What would have been your answer if my worthless steward had freed him?'\\n\\nSaruman masters his anger, but his tone is no less stern.\\n\\n'From this point onward, none will climb the steps to the pinnacle save myself. I will have Acca thrown in the dungeons, where he will have time enough to consider this betrayal. He will have not even a crust to chew upon; let him eat slop instead.\\n\\n'You will perform Acca's duties in his stead, until I have others for you. And I will, Gríma. Soon you will return to your homeland. But not yet.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'It is done. Radagast will find Gandalf, if he is to be found, and I doubt not he will speed with all haste here to Isengard.\\n\\n'There are some other small matters I need you to attend to before my guest arrives....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb304f1",
+      "en": "'Gandalf... Gandalf, I have brought you some bread.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb304f2",
+      "en": "'Gandalf?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb304f3",
+      "en": "'It is the will of my master Saruman that you stay here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb304f4",
+      "en": "'You are welcome, Gandalf. My master must soon come to his senses and will give you your freedom.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x439fcf1",
+      "en": "'I have, Saruman, I have!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x439fcf2",
+      "en": "'My friends in the woodland are restless. Something has made them uneasy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x439fcf3",
+      "en": "'The Nazgûl!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x439fcf4",
+      "en": "'I will leave at once, and if fortune smiles, I will find him before it is too late!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "Listen to Acca continue his story.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb663e91",
+      "en": "'Let us go to meet Gandalf, Gríma!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced11",
+      "en": "Acca has come to the pinnacle of Orthanc with a basket of bread for Gandalf. You should talk to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb663e92",
+      "en": "'Gandalf!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced12",
+      "en": "Acca wants to speak with you on the pinnacle of Orthanc.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb663e93",
+      "en": "'Welcome to the Ring of Isengard!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced13",
+      "en": "Acca's story continues.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced14",
+      "en": "You must find Saruman within Orthanc and tell him of Acca's sympathies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a41291",
+      "en": "'I came as quickly as I was able. Worrisome tidings drew me hither!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7fbb31",
+      "en": "'If we get closer, we might hear what they are saying!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a41292",
+      "en": "'Your master is the head of my order. I need his wisdom.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a41293",
+      "en": "'Did I ride with such haste so I might have the time to enjoy this account of yours?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Creep closer with Acca and listen to the conversation of the Wizards",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a41294",
+      "en": "'Age has not slowed your speech, Acca, nor given you the sense when speed is called for!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Acca in the gardens of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Listen to Saruman's commands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Acca in the gardens of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2d8ba1",
+      "en": "'I would not make that mistake, Gandalf. I know the well of your patience, and it is dry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Talk to Saruman in the gardens of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2d8ba2",
+      "en": "'I have seen what awaits this Middle-earth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Listen to Acca continue his tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2d8ba3",
+      "en": "'Ascend, Gandalf. We will discuss these matters beyond the hearing of my servants.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Walk with Acca to meet Gandalf at the gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Talk to Acca near the gates of Isengard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "See to Gandalf's horse while Acca escorts the Wizard to Saruman",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "'Stay out from underfoot. I do not want to be disturbed until I send for you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Wizard's Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989311",
+      "en": "'The world is growing more dangerous every day, Radagast.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989312",
+      "en": "'You must have sensed it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989313",
+      "en": "'I know what has made them so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989314",
+      "en": "'The Nine are abroad once more.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b71",
+      "en": "'Gríma did not think Radagast would find Gandalf, but I knew he would.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989315",
+      "en": "'They are disguised as riders in black and seek a land called Shire.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b72",
+      "en": "'At last, in Midsummer, Gandalf himself came to Isengard.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989316",
+      "en": "'Find Gandalf. Tell him I will help, if he needs me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Acca is telling you the story of his downfall as the steward of Saruman's household.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b73",
+      "en": "'Gríma saw that Gandalf's horse was stabled, and I walked with the Wizard.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4989317",
+      "en": "'Acca, show Radagast to his horse. Gríma, stay here a moment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b74",
+      "en": "'He spoke lightly of many things, but I could see that he was troubled.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b75",
+      "en": "'I do not know what they discussed in that high chamber.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b76",
+      "en": "'Afterwards, only Saruman remained free to come and go as he pleased.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b77",
+      "en": "'Gríma gave me his word that he would keep my confidence.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b78",
+      "en": "'Gríma was a liar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c40",
+      "en": "Find Saruman within Orthanc and tell him of Acca's sympathies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4173b79",
+      "en": "'I was taken into the dungeons that very night, and I have been here ever since.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddd9e81",
+      "en": "'His knowledge will be at your disposal, Gandalf! I know it will.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddd9e82",
+      "en": "'His library is extensive. The walls of Orthanc are lined with books and tomes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddd9e83",
+      "en": "'He has made a study of artifacts strange and mysterious, and they --'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddd9e84",
+      "en": "'Oh! I am sorry, Gandalf, I forget myself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddd9e85",
+      "en": "'I will bring you to my master, and Gríma will see to your horse.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x494a570",
+      "en": "'Thank you for the bread, Acca.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Listen to Acca's story continue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a51",
+      "en": "'Bread does not interest me, Steward.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91a8a41",
+      "en": "'What is that, Gríma? You want to get closer?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Listen to Saruman and Gandalf outside Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a52",
+      "en": "'Can you give me freedom from Isengard? Only that would I welcome!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91a8a42",
+      "en": "'All right, but just a little closer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Talk to Acca outside Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a53",
+      "en": "'I cannot spend the rest of summer pacing this rooftop!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91a8a43",
+      "en": "'The Nine? The nine what?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Talk to Saruman on the steps of Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a54",
+      "en": "'There is work I must do! Do you understand me? I cannot stay here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Listen to Acca's story continue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a55",
+      "en": "'Saruman....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Watch as Acca brings Gandalf an extra ration of bread",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a56",
+      "en": "'He has left the path of wisdom.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c56",
+      "en": "Talk to Acca on the pinnacle of Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a57",
+      "en": "'He was not content with his station, and now styles himself Saruman of Many Colours?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c57",
+      "en": "Talk to Acca on the pinnacle of Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a58",
+      "en": "'He boasts of forging his own ring and seeks to challenge Sauron for dominance?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c58",
+      "en": "Listen to Acca's story continue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3494a59",
+      "en": "'Madness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c59",
+      "en": "Listen to Acca's story conclude",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x173b700",
+      "en": "'But I understand Gandalf escaped? Perhaps there is hope for us as well....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "You are Gríma Wormtongue, advisor and servant to Saruman the White. He has been visited by Radagast the Brown, and you and Acca are waiting to hear if your master has any commands for you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "You have overheard Saruman speaking of some troubling things, but Acca can make no sense of them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Saruman is in the gardens of Isengard and wants to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Acca's story continues.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Acca is waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "You are to take care of Gandalf's horse while Acca brings the Wizard to speak with Saruman.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Listen to Acca's story continue.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

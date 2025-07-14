@@ -1,0 +1,29 @@
+{
+  "id": 620775754,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "this will test npc used events",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "NPC Used Test",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "This will test item talk events",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "create entity/npc/npc_test/npc_bree_npc_used_test.wc and use it.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

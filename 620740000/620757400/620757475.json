@@ -1,0 +1,887 @@
+{
+  "id": 620757475,
+  "txt": [
+    {
+      "id": "0x251b7fc",
+      "en": "Raid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0ae94",
+      "en": "Show Completed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c572e4",
+      "en": "Show all Epic quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfa5669",
+      "en": "Increased Renown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce81444",
+      "en": "Abandon the quest and remove it from your Quest Log.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b5d2fc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbddd124",
+      "en": "Filter your quest display to show the types of quest you want.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb51a800",
+      "en": "Virtue Experience Reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46d652e",
+      "en": "The Travel to Objective window is already open.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa374e74",
+      "en": "Quest Actions available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ee6070",
+      "en": "[placeholder] Reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9401590",
+      "en": "[placeholder] Virtue Experience",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95a1874",
+      "en": "[placeholder] +[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cd39fc",
+      "en": "Quest Tracker Options:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7858df4",
+      "en": "Increase Task Limit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2cd0e",
+      "en": "Instance Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5666b34",
+      "en": "Renown Increase: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e93efe",
+      "en": "You are the leader or member of a grouping entry for this quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2b7502",
+      "en": "Tier_[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b6e9b2",
+      "en": "Epic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74eb185",
+      "en": "Fellowship Status",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3167e2",
+      "en": "Next Objective",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc275572",
+      "en": "Add To Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9703e4",
+      "en": "View or modify your pending find request",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1b2efc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x239cf24",
+      "en": "Show all small fellowship quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3024734",
+      "en": "Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x576ef5c",
+      "en": "Travel Later",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6ff55e",
+      "en": "Decreased Reputation with [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc07e9d3",
+      "en": "Marks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1eb6284",
+      "en": "Remove the currently selected quest from the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ff0a34",
+      "en": "Show all repeatable quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe73b24",
+      "en": "You may not travel at this time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5666d80",
+      "en": "Increased Infamy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb52a68c",
+      "en": "View Info By:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377d967",
+      "en": "View Find Request",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dd554",
+      "en": "Hides and shows completed quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67b7633",
+      "en": "Status",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74345a4",
+      "en": "Emote: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a064ee",
+      "en": "Small Fellowship Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb10d584",
+      "en": "This quest is currently disabled. Please try again later.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacbbae5",
+      "en": "[placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d37d1c",
+      "en": "Finish Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x843160c",
+      "en": "Showing [placeholder] of [placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4528d0e",
+      "en": "Increased Reputation with [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd351eac",
+      "en": "Continue Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb86343c",
+      "en": "Objective [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa02977",
+      "en": "Your [placeholder] limit is [placeholder]/[placeholder], did you still want to reset?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8947f74",
+      "en": "Show all tasks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xecdf040",
+      "en": "Mark Reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42b980c",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d3754",
+      "en": "Add the currently selected quest to the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9f9404",
+      "en": "Show all fellowship quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9772730",
+      "en": "Crafting Experience Reward: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a0cec",
+      "en": "Objective",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74503e2",
+      "en": "Or",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a4de44",
+      "en": "Quest ready to bestow: [placeholder] ([placeholder] left to accept!)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf297c5",
+      "en": "Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95cd23e",
+      "en": "Task Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc998704",
+      "en": "Show all small group quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2212bcc",
+      "en": "Travel Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cce0f0",
+      "en": "Legendary Item Experience",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89d3d10",
+      "en": "LOTRO Points Reward: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6934f4",
+      "en": "Filter this quest on this character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d812f4",
+      "en": "Infamy Increase: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88e2c84",
+      "en": "Filter quests by name or level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c94a64",
+      "en": "Show fellowship quest status in the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd47ee14",
+      "en": "Hides and shows the quest tracker in the main window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7482d7c",
+      "en": "Small Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb2c6c4",
+      "en": "Filter this quest on all characters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94b9d64",
+      "en": "Show all group quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb106745",
+      "en": "Your Who UI note has been updated to: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c6cd23",
+      "en": "This quest is not part of a chain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf03f44",
+      "en": "Current Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e1eaee",
+      "en": "Fellowship Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x511d1dc",
+      "en": "Decline",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48a74cc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x910003",
+      "en": "[placeholder] Mithril Coins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7134ea4",
+      "en": "Find a group for the selected quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb771074",
+      "en": "Show quests shared with one or more members of your group.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e92310",
+      "en": "[placeholder]\\nReputation Increase: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cd4605",
+      "en": "Add Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad2a47",
+      "en": "Quest Available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b1fa1c",
+      "en": "Rewards",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3468184",
+      "en": "Remove the currently selected deed from the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc135cbc",
+      "en": "Accept",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ce29f5",
+      "en": "Quest Objective",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92c2bdc",
+      "en": "Time Limit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dd1b74",
+      "en": "<rgb=#00FFFF>This is a repeatable quest that you have previously completed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe492fe3",
+      "en": "Daily Tasks:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5768d5",
+      "en": "Available Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4464bfc",
+      "en": "Twist: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1099f72",
+      "en": "Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x482570c",
+      "en": "Solo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff605ac",
+      "en": "Unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46a9adc",
+      "en": "OK",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62e87e4",
+      "en": "Show all instance quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ef0efc",
+      "en": "Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc61a133",
+      "en": "[placeholder] Class Trait {Points|Point[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd58294",
+      "en": "Show all raid quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28965dc",
+      "en": "Type:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc81a214",
+      "en": "Quest ready to bestow: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c6c980",
+      "en": "Legendary Item Experience Reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3485e6c",
+      "en": "Choose one:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc088273",
+      "en": "Quest Actions Available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x330c792",
+      "en": "Deeds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe723310",
+      "en": "Crafting Experience: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d60b4e",
+      "en": "Repeatable Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6e23fc",
+      "en": "active quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12e21dc",
+      "en": "Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a4d80",
+      "en": "Steed Experience Reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca4c70",
+      "en": "Steed Experience",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56a0ed4",
+      "en": "Quest ready to advance: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c8aea5",
+      "en": "Group Status",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a37784",
+      "en": "Find a fellowship for the selected quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54eb1c4",
+      "en": "Show quests shared with one or more members of your fellowship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5adffc",
+      "en": "Quest Level:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38e813e",
+      "en": "Raid Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28f887e",
+      "en": "Epic Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x226d454",
+      "en": "Shares selected quest with all nearby, eligible members of your fellowship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c9b28c",
+      "en": "Open Instance Finder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b236ee",
+      "en": "Quest is completed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc00534",
+      "en": "Show group quest status in the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f8730e",
+      "en": "Ready to Complete",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ce73d2",
+      "en": "Show Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b189fc",
+      "en": "Bestowal Dialogue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3f12",
+      "en": "Remove From Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6318e",
+      "en": "Travel to this objective now!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x174d875",
+      "en": "This is what percentage of the quest's objectives you have completed. It is multiplied by your Merit to determine which medal you will earn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac9fc",
+      "en": "Get More Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cfb294",
+      "en": "Show all solo quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a45695",
+      "en": "Quest Ready to Advance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb22074",
+      "en": "<rgb=#00FF00>This is a repeatable quest that you have never completed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x713128c",
+      "en": "Find a Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99eecdc",
+      "en": "Background",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73bb615",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4862d24",
+      "en": "Add the currently selected deed to the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e88b4c",
+      "en": "completed quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe18ae34",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b9d014",
+      "en": "Show quest objectives in the quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b14b20",
+      "en": "[placeholder]\\nReputation Decrease: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7403a8c",
+      "en": "Finish Later",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd051020",
+      "en": "Grant [placeholder] additional Class Trait {Points|Point[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1297310",
+      "en": "Find a Group",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e7c6c",
+      "en": "Show Completed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6634d0",
+      "en": "Mithril Coin Reward: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5dd904",
+      "en": "[placeholder] LOTRO Points",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

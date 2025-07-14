@@ -1,0 +1,95 @@
+{
+  "id": 620766239,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "Collected eggs ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You find no eggs in the nest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "The rooster has seen you. You have failed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Farmer Sandson has hurt his leg and cannot tend to his chickens or their nests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "#-1:[placeholder]'Good day to you, young #-1:{lady[f]|fellow}. Seems I'm in a spot of trouble, and I wonder if you could help me?\\n\\n'You see, I've got a couple of cooks who're waiting on eggs from my chickens, but the problem is I've gone and hurt my leg. It's nothing serious, but I can't get out there and gather the eggs them cooks need. Now I don't want to disappoint them, so I was wondering if you could make the rounds and check the nests for eggs?\\n\\n'The nests are just out in the yard. Four or so eggs should be enough. A bit of warning though, don't let the rooster see you gathering eggs. If he does, he'll let out a call that'll get all the hens upset, and worse -- you're sure to be so surprised that you'll drop the eggs you collected!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The chicken nests are around Farmer Sandson's yard.\\n\\nFarmer Sandson has asked you to gather some eggs from his chicken nests, but warned you to stay away from the rooster. If he sees you while you are gathering the eggs, they will call out and upset the other chickens. Furthermore, you are sure to drop the eggs you've collected!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Good, you've found the eggs!\\n\\n'Now, if you are still able to help, I've more work for you. With my leg ailing me, I couldn't possibly deliver them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Farmer Sandson is at his farm, west of Waymeet.\\n\\nYou managed to gather enough eggs without being noticed by the rooster. You should take them back to Farmer Sandson.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Just go on out there and search the nests for eggs. Shouldn't be too hard to find enough of them.\\n\\n'Remember, don't let the rooster see you, or he'll get the whole flock upset, and the hens won't be laying for days! Worse still, he crows so suddenly that it can startle someone something fierce -- you might drop the eggs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Do you have them eggs from the nests? I just need four or so for them cooks.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Collect eggs ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Avoid the rooster",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Bring the eggs to Farmer Sandson",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Collect eggs ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Making the Rounds",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

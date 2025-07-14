@@ -1,0 +1,575 @@
+{
+  "id": 620842515,
+  "txt": [
+    {
+      "id": "0xa52ffd2",
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The Upper Mustering Hall is secure. It is safe to press on</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ff77a5",
+      "en": "<rgb=#FF0000>A counterattack has been launched against the Audience Chamber</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Mazog has fallen and Zigilburk is returned, it is a good day to be a dwarf. Let us head back and celebrate with some ale.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b7b4",
+      "en": "<rgb=#00ffff>Encounter Complete: Gundnákh has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd59a315",
+      "en": "'Let them come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeeb99d9",
+      "en": "'It is done. Mazog is defeated, and Zigilburk is returned.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33c1531",
+      "en": "'My wounds are severe! I cannot fight any longer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a8a235",
+      "en": "'Mazog! Return Zigilburk at once, or I will destroy you with my own hand!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ff9750",
+      "en": "'With this axe of mithril, not even the ruler of this tower can keep Mazog a prisoner!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ff9751",
+      "en": "'But first you will die!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b7c4",
+      "en": "<rgb=#00ffff>Encounter Complete: Hogaward falls to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dd8655",
+      "en": "'Onward, friends! You must continue the fight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5102c15",
+      "en": "The Audience Chamber has been cleared. The banner may be claimed for the Free Peoples",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33e26f5",
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The Audience Chamber is secure. It is safe to press on</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b714",
+      "en": "<rgb=#00ffff>Encounter Complete: Urbor has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4a4f1e",
+      "en": "<rgb=#00ffff>Encounter: In the room below, Blord enters the tower and roars</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8879939",
+      "en": "The Armoury has been cleared. The banner may be claimed for the Free Peoples",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd29e6f5",
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The Entrance Hall is secure. It is safe to press on</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44a4f1e",
+      "en": "<rgb=#00ffff>Encounter: From back down the hall Hogaward yells, 'The brigands of Bree-land and Dol Guldur will be allies!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6d8655",
+      "en": "'I will hold this place! You must advance further into the tower!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Claim the Entrance Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4ab8c2",
+      "en": "<rgb=#FF0000>A counterattack has been launched against the Lower Mustering Hall</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b724",
+      "en": "<rgb=#00ffff>Encounter Complete: Blord has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Claim the Audience Chamber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafc9d32",
+      "en": "The Upper Mustering Hall has been cleared. The banner may be claimed for the Free Peoples",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Claim the Lower Mustering Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3de4d2",
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The Lower Mustering Hall is secure. It is safe to press on</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Claim the Upper Mustering Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Claim the Armoury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Claim the Armoury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Bróin must survive the battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3c7d02",
+      "en": "<rgb=#00ffff>Encounter Update: Múdku comes screaming from a side room, 'Mine! Mine! Get away!'</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4a4f1e",
+      "en": "<rgb=#00ffff>Encounter: The flames on the braziers are curiously unlit</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff971",
+      "en": "'What is this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff972",
+      "en": "'Is this some trick? You cannot have been such a fool to come here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff973",
+      "en": "'I feared I would need to hunt you down, but you have saved me the trouble!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff974",
+      "en": "'You caused me such trouble while you were alive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff975",
+      "en": "'My kingdom, stolen by dwarves!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6f2621",
+      "en": "'You have not won, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94a4f1e",
+      "en": "<rgb=#00ffff>Encounter: The lanterns ahead are curiously unlit</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff976",
+      "en": "'To be shackled and brought to this prison of nightmares, here to be jailed alongside dirty dwarves!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6f2622",
+      "en": "'The Orcs of Moria will avenge my death.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "<rgb=#00FF00>You have claimed the Entrance Hall. Gears grind to the south as the gate to the Audience Chamber opens</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ce4cb5",
+      "en": "<rgb=#00ffff>Encounter Update: This weapon rack contains nothing of interest</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff977",
+      "en": "'But my imprisonment did not last long!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6f2623",
+      "en": "'Hear me, Bróin, and let your courage seep away!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "<rgb=#00FF00>You have claimed the Audience Chamber. Gears grind to the east as the gate to the Lower Mustering Hall opens</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff978",
+      "en": "'There are still Orcs in this tower who respect the name of Mazog, Ruler of Caves!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6f2624",
+      "en": "'Wherever your people catch a glint of gold, or silver, or gems beneath the mountains...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "<rgb=#00FF00>You have claimed the Lower Mustering Hall. Gears grind to the south as the gate to the Upper Mustering Hall opens</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ff979",
+      "en": "'It is not to be, lowly dwarf! I came to this chamber for a reason!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6f2625",
+      "en": "'...there will be an Orc to slay him, every one. That is my vow! That is the word of Mazog!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "<rgb=#00FF00>You have claimed the Upper Mustering Hall. Gears grind to the west as the gate to the Armoury opens</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda91521",
+      "en": "'Help me, friends! I am too fatigued to continue!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "<rgb=#00FF00>You have claimed the Armoury and recovered Zigilburk</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "<rgb=#FF0000>Bróin has been defeated</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34a4f1e",
+      "en": "<rgb=#00ffff>Encounter: A roar erupts from below you as Gundnákh emerges from his room</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b684",
+      "en": "<rgb=#00ffff>Encounter: Iaerien has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda38661",
+      "en": "Entrance Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda38662",
+      "en": "Audience Chamber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda38663",
+      "en": "Lower Mustering Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda38664",
+      "en": "Upper Mustering Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda38665",
+      "en": "Armoury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd59aba5",
+      "en": "'Let them come and meet their ending!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cf4cb5",
+      "en": "<rgb=#00ffff>Encounter Update: As the second flame lights, Thangaran comes screaming around the corner ahead</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e8b785",
+      "en": "<rgb=#FF0000>A counterattack has been launched against the Entrance Hall</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4a4f1e",
+      "en": "<rgb=#00ffff>Encounter: This room contains several weapon racks that might be worth searching</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b754",
+      "en": "<rgb=#00ffff>Encounter Complete: Gadhumúrz has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Battle in the Tower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b764",
+      "en": "<rgb=#00ffff>Encounter Complete: Múdku has fallen to your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b9b761",
+      "en": "'I cannot believe our good fortune, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b9b762",
+      "en": "'The secret passage Thurimen has brought us up through the very foundations of Dol Guldur!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b9b763",
+      "en": "'You must aid the Golden Host as they do battle throughout the tower.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5794d1",
+      "en": "'I too have taken an oath, Mazog. See it now fulfilled!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b9b764",
+      "en": "'I will find Zigilburk, and meet up with you later!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb07ec55",
+      "en": "The Entrance Hall has been cleared. The banner may be claimed for the Free Peoples",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4a4f1e",
+      "en": "<rgb=#00ffff>Encounter: Growling comes from down the hall. Gadhumúrz is hungry</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a9b774",
+      "en": "<rgb=#00ffff>Encounter Complete: Thangaran has been defeated by your mighty blow</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The Enemy is entrenched within the Tower of Dol Guldur. It is time to strike them at their heart.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd47a3c2",
+      "en": "<rgb=#FF0000>A counterattack has been launched against the Upper Mustering Hall</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5eb755",
+      "en": "'The battle rages on! Our foes will fall before us like wheat-stalks at harvest-time!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c94cb5",
+      "en": "<rgb=#00ffff>Encounter Update: A roar and the clanging of armour echoes down the hallway ahead</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88d85b5",
+      "en": "'The attack is going well! Continue onward, and seize victory for the Golden Host!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79d8365",
+      "en": "'Fight on, [placeholder]! I will make certain our foes fear Lanchigil and Egnassigil!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa938632",
+      "en": "The Lower Mustering Hall has been cleared. The banner may be claimed for the Free Peoples",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a4f0e",
+      "en": "<rgb=#00ffff>Encounter: Maniacal laughing echoes from ahead</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3b7431",
+      "en": "'Mazog!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3b7432",
+      "en": "'I swore to end you, Mazog, and I will see it done!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "In order to secure the Tower, the Entrance Hall must first be claimed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Entrance Hall is secure, and Sigileth will ensure nothing enters from behind you. The next target is the Audience Chamber across the hall.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "With the Entrance Hall and Audience Chamber claimed, you may begin to climb the Tower and seek to claim the Lower Mustering Hall.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The Upper Mustering Hall is directly above the Lower...with it claimed, the Enemy will be confused and any reinforcements poorly armed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "With the Mustering Halls claimed, it is time to take the Armoury and reclaim Zigilburk.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "With the Mustering Halls claimed, it is time to take the Armoury and reclaim Zigilburk.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd588845",
+      "en": "'Battle refreshes and rejuvinates me. Send us the best you have, Dol Guldur!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

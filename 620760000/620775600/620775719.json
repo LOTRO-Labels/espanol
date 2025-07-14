@@ -1,0 +1,41 @@
+{
+  "id": 620775719,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "[placeholder] go kill some wights for me!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6234031",
+      "en": "[placeholder] go kill some wights for me!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Genus Test",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Testing Monster Genus",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Kill some wights from the north barrow downs region. mn_wight_breeland_barrowdowns_north_rotting.wc should advance the quest.\\n\\nmn_wight_breeland_greatbarrowinstance_base.wc\\nshould not advance the quest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Now kill some more wights but this time get some loot off of them.\\n\\nmn_wight_breeland_barrowdowns_north_rotting.wc should drop the items you need.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

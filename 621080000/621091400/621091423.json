@@ -1,0 +1,311 @@
+{
+  "id": 621091423,
+  "txt": [
+    {
+      "id": "0x9a14f84",
+      "en": "'Your light still burns - Die!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ce2724",
+      "en": "'I have no more time to waste on the likes of you! My master calls, and we shall end this farce another day....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x782b8f1",
+      "en": "'What is this? What power do you wield that cuts through shadow and fear?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9af4f84",
+      "en": "'Arhhh... should I fall... you shall only bring my Master's full wrath upon you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ce4724",
+      "en": "'I have no more time to waste on the likes of you! My master calls, and we shall end this farce another day....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e31",
+      "en": "\\qStarting spawn check.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a24184",
+      "en": "'A fine melee.... Let this pain remind you of your mortal weakness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e32",
+      "en": "\\qWe are at cap.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e33",
+      "en": "\\qInitializing the spawn properties.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e34",
+      "en": "\\qStep 1 of loop.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a04384",
+      "en": "'Dance with the shadows, embrace them, for they shall be your end!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e35",
+      "en": "\\qStep 2 of loop.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e36",
+      "en": "Script_Ringwraith_Event_Run off cooldown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e37",
+      "en": "Script_Ringwraith_Event_Run on cooldown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87441",
+      "en": "'Ah, finally I have found you...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e38",
+      "en": "No Wraith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87442",
+      "en": "'Let my shadow be the last to fall upon you, mortal!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e39",
+      "en": "Rolled a wraith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87443",
+      "en": "'Your quest ends here, fool.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13d04f1",
+      "en": "'Hrrraa! You think this is the end? Our master's power cannot be broken, and I shall rise again....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13d14f1",
+      "en": "'How!? Impossible. I shall return!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13d24f1",
+      "en": "'Ahhh... The deep shadows take me... but I shall emerge again....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e40",
+      "en": "Player spawn loop done!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a14d84",
+      "en": "'Haaahh... you yet stand.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c4e41",
+      "en": "Wraith Spawn loop done!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b2b8f1",
+      "en": "'I sense a power of old.... Where did you find this trinket?! No matter....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9af4d84",
+      "en": "'Hssss... you believe me tested? My measure taken? It is not so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8cef724",
+      "en": "'I have no more time to waste on the likes of you! My master calls, and we shall end this farce another day....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87451",
+      "en": "'Ah, my prey.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87452",
+      "en": "'The scent of fear.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87453",
+      "en": "'Fight. Flee. It matters not.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a24f84",
+      "en": "'Why do you not break? Your suffering shall be exquisite!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a04184",
+      "en": "'To face me is to linger before your own inevitable end. Come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a874b1",
+      "en": "'Another of Elrond's hapless pawns....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a874b2",
+      "en": "'Sent in a futile attempt to thwart my master's will.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a874b3",
+      "en": "'Tis a but a simple task then to remove you from the board.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a14384",
+      "en": "'Courage must fall to darkness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87461",
+      "en": "'The dark waves of the sea once carried me to these shores.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9af4384",
+      "en": "'What are mortal blades against the power of the shadows? Against fear itself?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13df4f1",
+      "en": "'Enough, fools! I am not so easily dispatched. You shall rue the dark night I return for you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87462",
+      "en": "'And in these distant lands I now serve my master's will in all things.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a2b8f1",
+      "en": "'Hsssaaah? Liiight...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a87463",
+      "en": "'His will is that you die here. Now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a24d84",
+      "en": "'I shall plunge you into the utter depths of shadow. Drown in darkness, fools!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a04f84",
+      "en": "'TBD 20 PERCENT TEXT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a14184",
+      "en": "'Blood and terror... yes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9af4184",
+      "en": "'You think yourselves worthy to face me? To pit your feeble might against my Master? Madness...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x792b8f1",
+      "en": "'Hrrr... a ring? Curious. Perhaps I shall claim it for Mordor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a24384",
+      "en": "'You seek to test me? Your might is as nothing to the storms that wracked the seas I once rode.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a04d84",
+      "en": "'TBD 40 PERCENT TEXT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ce1724",
+      "en": "'My master calls. Another time then.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

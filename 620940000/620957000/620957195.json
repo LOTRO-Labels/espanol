@@ -1,0 +1,719 @@
+{
+  "id": 620957195,
+  "txt": [
+    {
+      "id": "0xbdcb200",
+      "en": "varinn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb201",
+      "en": "varr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb202",
+      "en": "vat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb203",
+      "en": "ver",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb500",
+      "en": "beorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb204",
+      "en": "vet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb501",
+      "en": "bert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c0",
+      "en": "kell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb205",
+      "en": "vi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb502",
+      "en": "bogi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c1",
+      "en": "ketil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb206",
+      "en": "vin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb503",
+      "en": "both",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c2",
+      "en": "kil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb207",
+      "en": "vind",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb504",
+      "en": "brand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c3",
+      "en": "koll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb208",
+      "en": "vir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb505",
+      "en": "brik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c4",
+      "en": "kuld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb209",
+      "en": "vith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb506",
+      "en": "dal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c5",
+      "en": "kunn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb507",
+      "en": "diarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c6",
+      "en": "laf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb508",
+      "en": "drith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c7",
+      "en": "lak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb509",
+      "en": "fari",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c8",
+      "en": "laug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5c9",
+      "en": "leif",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb510",
+      "en": "farth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb511",
+      "en": "fast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d0",
+      "en": "leik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb512",
+      "en": "fith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d1",
+      "en": "leot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb513",
+      "en": "fot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d2",
+      "en": "ling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb514",
+      "en": "freth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d3",
+      "en": "lithi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb515",
+      "en": "frith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d4",
+      "en": "lug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb516",
+      "en": "froth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d5",
+      "en": "lund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb517",
+      "en": "fuss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d6",
+      "en": "mann",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb518",
+      "en": "geir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d7",
+      "en": "mar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb519",
+      "en": "gils",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d8",
+      "en": "mark",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5d9",
+      "en": "math",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb520",
+      "en": "grim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb521",
+      "en": "grip",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e0",
+      "en": "mer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb522",
+      "en": "hadd",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e1",
+      "en": "merk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb523",
+      "en": "hald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e2",
+      "en": "moth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb524",
+      "en": "hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e3",
+      "en": "mund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb525",
+      "en": "har",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e4",
+      "en": "narr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb526",
+      "en": "harth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e5",
+      "en": "nath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb527",
+      "en": "hethin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e6",
+      "en": "nef",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb528",
+      "en": "hof",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e7",
+      "en": "ni",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb529",
+      "en": "hrath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e8",
+      "en": "niut",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5e9",
+      "en": "odd",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb530",
+      "en": "hugi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb531",
+      "en": "hund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f0",
+      "en": "orm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb532",
+      "en": "hvat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f1",
+      "en": "orn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb533",
+      "en": "i",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f2",
+      "en": "rad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb534",
+      "en": "ils",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f3",
+      "en": "rath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb535",
+      "en": "in",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f4",
+      "en": "reif",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb536",
+      "en": "ing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f5",
+      "en": "rek",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb537",
+      "en": "jarn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f6",
+      "en": "rik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f7",
+      "en": "rim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb538",
+      "en": "karl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f8",
+      "en": "rith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb539",
+      "en": "karr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb5f9",
+      "en": "roth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb270",
+      "en": "un",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb271",
+      "en": "und",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb272",
+      "en": "ung",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb273",
+      "en": "unn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb274",
+      "en": "urd",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb571",
+      "en": "ald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb275",
+      "en": "urth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb572",
+      "en": "ar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb276",
+      "en": "vald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb573",
+      "en": "arin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb277",
+      "en": "vang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb574",
+      "en": "arr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb278",
+      "en": "var",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb575",
+      "en": "ath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb279",
+      "en": "vari",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb576",
+      "en": "barn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb577",
+      "en": "bart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb578",
+      "en": "barth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb579",
+      "en": "bein",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb580",
+      "en": "si",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb581",
+      "en": "sorg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb582",
+      "en": "stein",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb583",
+      "en": "styr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb584",
+      "en": "svar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb585",
+      "en": "svein",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb586",
+      "en": "thegn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb587",
+      "en": "thorm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb588",
+      "en": "thorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdcb589",
+      "en": "trygg",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

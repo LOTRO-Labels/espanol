@@ -1,0 +1,191 @@
+{
+  "id": 621094666,
+  "txt": [
+    {
+      "id": "0xfa8e117",
+      "en": "Located Irkiri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Retaking Maurûsh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Deliver the scouting reports to Galâmka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Retrieve the scouting report from Zukhal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Welcome, [placeholder]. As we spoke of before, these Orcs have taken Maurûsh from us when the demon-pits opened, and we plan to reclaim it.\\n\\n'I sent scouts to survey the Orcs' comings and goings in Maurûsh, and I need someone to retrieve their reports.'\\n\\nGalâmka studies his map and gestures to points on it.\\n\\n'You can find Irkiri near here, to the east of the stronghold. Emlû should be here, to the south. Then Zukhal, scouting here to the west.\\n\\n'Find them and tell them I sent you. They should be expecting you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Locate Emlû to the south of Maurûsh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b2",
+      "en": "Scouting report retrieved",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Locate Zukhal to the west of Maurûsh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Bring the scouting reports back to Galâmka in Ub Nishir.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Look for the scouting report",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'I trust that since you have not attacked me, you must be the [placeholder] that Galâmka sent.'\\n\\nShe hands you the scouting report.\\n\\n'I have detailed the paths the Orcs take in this area while they themselves are scouting in my report. It worries me how close they are coming to our hideout, so we must deal with them soon. Bring this to Galâmka. I will remain here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Search Emlû for the scouting report",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Galâmka wishes to tell you of his plans to retake Maurûsh from the Orcs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'You have returned. I trust that you have gathered the reports I requested?'\\n\\nYou hand Galâmka the scouting reports retrieved and inform him of Emlû's fate.\\n\\n'That is sad to hear of Emlû. He will be remembered. I am thankful you were able to retrieve these reports. Return to me when you have time and we can discuss what must be done with this information.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Find Irkiri scouting to the east of Maurûsh and collect her scouting report for Galâmka.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Find Emlû scouting to the south of Maurûsh and collect his scouting report for Galâmka.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Find Zukhal scouting to the west of Maurûsh and collect her scouting report for Galâmka.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Retrieve the scouting report from Irkiri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Retrieve the scouting report from Irkiri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1192",
+      "en": "Scouting report retrieved",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "Located Emlû",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85960",
+      "en": "Welcome, as we spoke of before, these Orcs have taken Maurûsh from us.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "Located Zukhal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "Scouting report retrieved",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5026",
+      "en": "Locate Irkiri to the east of Maurûsh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Search Emlû to see if you can find his scouting report",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e18",
+      "en": "Deliver scouting reports to Galâmka in Ub Nishir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "Retrieve the scouting report from Zukhal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "Scouting reports delivered to Galâmka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'Aye, you must be the [placeholder] of which Galâmka spoke.'\\n\\nZukhal hands you his scouting report.\\n\\n'I have been tracking where the Orcs have been hiding their supplies. Their hiding locations have been noted in the report.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "Scouting report retrieved",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

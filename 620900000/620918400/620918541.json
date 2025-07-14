@@ -1,0 +1,251 @@
+{
+  "id": 620918541,
+  "txt": [
+    {
+      "id": "0x5f5a3c3",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Search for Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe150d5",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0fad3",
+      "en": "'[placeholder], I have decided that we need to look for Thrymm. I know hope is bleak, but I cannot go on without knowing. \\n\\n'He was thrown north west of here. Please head in that direction and look for any signs of Thrymm. I only hope that our worst fears are not realized.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Thrymm was hurled north-west by Núrzum.\\n\\nYou should <rgb=#FF0000>look</rgb> north-west of Scylfig for signs of Thrymm.\\n\\n<rgb=#FF0000>NOTE: This quest requires emotes.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "This unlucky fellow is clearly not Thrymm. The hero of Wildermore is nowhere to be found",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfad9d1",
+      "en": "'I know what I need to bear this grief. I need to see Thrymm's body properly buried.\\n\\n'You saw yourself which way the giant threw him. Will you look for him, and bring him home to us? We should bear him to Forlaw then, for he is like a son to Reeve Gárwig.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The item that caught your eye (a horn, perhaps) is just to the west of your last vantage point.\\n\\nYou should examine the item you spotted in the snow.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'I bid you welcome! Cyneberg told us of your valour at Scylfig.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfad9d2",
+      "en": "'Thrymm's horn! But no sign of Thrymm himself? Do not tell me this! My heart still thinks he is alive, but no one could have survived such a fall.\\n\\n'Gárwig must be told. I was hoping we could bear Thrymm's body to Forlaw to be buried there, but...we must deliver the horn instead.\\n\\n'I will meet you there, [placeholder]. I must attend to my people, and then I will leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Cyneberg is in Scylfig.\\n\\nYou should return to Cyneberg and show her the horn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'Cyneberg told us that you defended Scylfig like it was your own home. I thank you for that, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfad9d3",
+      "en": "'More dead... and you witnessed it all, stranger. News of your deeds has reached me, and I honour you for fighting alongside my son Gársig.\\n\\n'More and more die, ever since this cold has set in. And now Gársig... Thrymm, Grimgar, Humbald... and Cynegar, a Thane!\\n\\n'Thrymm was like a son to me, and I will keep his horn to honour him until the end of my line. I name it Winter's Horn, until a hero of Thrymm's ilk can claim it again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Cyneberg wants Gárwig to hold on to Thrymm's Winters Horn for safe keeping.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'Thrymm's horn! But no sign of Thrymm himself? Do not tell me this! My heart still thinks he is alive, but no one could have survived such a fall.\\n\\n'Gárwig must be told. I was hoping we could bear Thrymm's body to Forlaw to be buried there, but... we must deliver the horn instead.\\n\\n'I will meet you there, [placeholder]. I must attend to my people, and then I will leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Gárwig, the Reeve of Wildermore, can be found in Forlaw.\\n\\nCyneberg has asked you to deliver Thrymm's horn to Gárwig.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae1",
+      "en": "You see nothing of Thrymm here. Try searching further north-west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae2",
+      "en": "This is a good place to look for Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Search for Thrymm's body north-west of Scylfig",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae3",
+      "en": "There doesn't appear to be any signs of Thrymm's body here. Head north west to explore further.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Pick up Thrymm's Winters Horn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "A body lies below the horn in the north-western Writhendowns, upon the road.\\n\\nYou should investigate the body, for it is likely Thrymm's.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "Bring the horn to Cyneberg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae4",
+      "en": "This is a good place to look for Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Bring the horn to Cyneberg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae5",
+      "en": "You cannot see Thrymm's body, but something nearby catches your eye. Could it be Thrymm's horn?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Bring Thrymm's horn to Gárwig, Reeve of Wildermore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50294",
+      "en": "Bring the horn to Cyneberg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae6",
+      "en": "This is a good place to look for Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Look for signs of Thrymm's body ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4bbe71",
+      "en": "This is not a good place to look.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4bbe72",
+      "en": "This is not a good place to look.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae7",
+      "en": "You recognize the horn instantly as Thrymm's own -- the horn he carries with him always... and below, upon the road, you see a body!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4bbe73",
+      "en": "This is not a good place to look.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae8",
+      "en": "The item you collected was the Winters Horn that Thrymm carried on him at all times.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5022",
+      "en": "Pick up the object that caught your eye",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e13",
+      "en": "Bring Thrymm's horn to Gárwig, Reeve of Wildermore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Cyneberg has recovered enough to ask that Thrymm's body be recovered for a proper burial.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5029",
+      "en": "See if the body on the road below is Thrymm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e111",
+      "en": "You see nothing of Thrymm here. Try searching further north-west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3cba3f5",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

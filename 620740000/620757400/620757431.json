@@ -1,0 +1,77 @@
+{
+  "id": 620757431,
+  "txt": [
+    {
+      "id": "0x2b9a584",
+      "en": "<Append:String:[placeholder]>[placeholder]<\\\\Append>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a5a695",
+      "en": "<MapNoteRef:DID:[placeholder]>[placeholder]<\\\\MapNoteRef>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf97dc55",
+      "en": "<QuestRef:DID:[placeholder]>[placeholder]<\\\\QuestRef>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc07875",
+      "en": "<NPCQuery:IIDString:[placeholder]:[placeholder]>[placeholder]<\\\\NPCQuery>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8014cc5",
+      "en": "<Examine:IIDDID:[placeholder]:[placeholder]>\\[[placeholder]\\]<\\\\Examine>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2f5a75",
+      "en": "#1:{ [n]| [p]| an[v]| a} <Examine:IIDDID:[placeholder]:[placeholder]>\\[#1:[placeholder]\\]<\\\\Examine>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2c9045",
+      "en": "<ExamineIA:IAInfo:[placeholder]>\\[[placeholder]\\]<\\\\ExamineIA>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a6e7f4",
+      "en": "<RunCmd:String:[placeholder]>[placeholder]<\\\\RunCmd>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc56b6d5",
+      "en": "<ExamineItemInstance:ItemInfo:[placeholder]>\\[[placeholder]\\]<\\\\ExamineItemInstance>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ea8d35",
+      "en": "#1:{ [n]| [p]| an[v]| a} <ExamineItemInstance:ItemInfo:[placeholder]>\\[#1:[placeholder]\\]<\\\\ExamineItemInstance>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x601f665",
+      "en": "<Select:IID:[placeholder]>[placeholder]<\\\\Select>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8422ad5",
+      "en": "#1:{ [n]| [p]| an[v]| a} <ExamineIA:IAInfo:[placeholder]>\\[#1:[placeholder]\\]<\\\\ExamineIA>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

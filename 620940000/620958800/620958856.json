@@ -1,0 +1,275 @@
+{
+  "id": 620958856,
+  "txt": [
+    {
+      "id": "0x2f00e23",
+      "en": "Add the Dewleaf to the cure at the healer's workbench in the Hall of the Gentle Hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "DNT Q19 Provisioner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa6",
+      "en": "The Poison's Cure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "DNT compound the herbs on the compounding talbe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "DNT 'All is well again, thank you'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c1",
+      "en": "'Thank you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'We need to act quickly if we are to save those who drank from the tainted healing draught. A high concentration of Beruthiel's Rue has only one cure, but they are fortunate that I know where to find it!\\n\\n'Beruthiel's Rue can be countered with a mixture made primarily of Dewleaf, which can be found on the bluff above the River Erui, to the south-west of the town's entrance. Pick as much Dewleaf as you can and return to me with haste!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "'You have finished delivering the cure to my patients? You have the healer's touch, [placeholder], and I am delighted to tell you so! I am certain that you reached everyone in time, and have reversed the harm caused by Egind's folly. You have my thanks, and his as well, I am sure.\\n\\n'But there is no time to rest! Merenir came here to find you, for he has a troubling report.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c2",
+      "en": "'When will I start feeling better?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c3",
+      "en": "'I hope you are right, and this helps me feel like myself again!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Administer the cure to sick patients ([placeholder]/[placeholder]) ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a6",
+      "en": "Dewleaf can be found on the bluff above River Erui, south-west of the entrance to Imloth Melui.\\n\\nBrunil has asked you to fetch as much Dewleaf as you can in order to counteract the poison her patients consumed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c4",
+      "en": "'That is better. I will sleep now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "Collected Dewleaf ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c5",
+      "en": "'It tasted rather foul. You are certain this will help?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "DNT administer cure to NPCs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "Brunil can be found in the Hall of the Gentle Hand, in Imloth Melui.\\n\\nYou should tell Brunil that the cure has been administered to all the poisoned patients.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d155",
+      "en": "Brunil wants you to hurry and help her cure the patients that drank the tainted healing draught.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c6",
+      "en": "'Ah, good!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "DNT 'Forgive me, please! I only harvested the berries that looked similar, because the real berries were up beyond the Orcs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13409c7",
+      "en": "'That is better, yes. Thank you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "DNT 'Well well well, this is not what I thought it was at all. Still, we must arrange for a cure!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Make the cure at the compounding table",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Talk to Brunil in the Hall of the Gentle Hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "DNT Gather healing herbs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Collect Dewleaf south-west of Imloth Melui ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'You have returned, and with impressive haste! Very good, [placeholder]! I have prepared the mixture, and it waits now for the Dewleaf you collected. Make use of the healer's workbench here and the cure will be ready!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "DNT Talk with Brunil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Brunil can be found in the Hall of the Gentle Hand, on the western side of Imloth Melui.\\n\\nYou have collected as much Dewleaf as you could find, and should bring it to Brunil.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "Merenir has come to the Hall of the Gentle Hand with a troubling report.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "The healer's workbench is right by Brunil in the Hall of the Gentle Hand. It is where she makes all of her medicines.\\n\\nBrunil has prepared the cure, and it will be complete once you add the Dewleaf. The cure waits for you on the healer's workbench.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1190",
+      "en": "DNT stuff & things",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "Gave the cure to a patient ([placeholder]/[placeholder]) ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Return to Brunil in the Hall of the Gentle Hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'I have troubling news to report, [placeholder], and I came to seek you at once!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a6",
+      "en": "'Orcs, [placeholder]! Orcs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5026",
+      "en": "DNT Confront the provisioner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "The poisoned patients can be found throughout the Hall of the Gentle Hand in Imloth Melui.\\n\\nYou should administer the compounded cure to the patients who drank the poison.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Make the cure at the compounding table",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "DNT Talk with Brunil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a2",
+      "en": "Bubbles form in the cure as you add the Dewleaf to the mixture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Merenir in the Hall of the Gentle Hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a6",
+      "en": "DNT cure administered",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e21",
+      "en": "Make the cure at the compounding table",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

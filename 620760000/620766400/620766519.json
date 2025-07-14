@@ -1,0 +1,581 @@
+{
+  "id": 620766519,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "The Pale Dwarf seems to have escaped into the Barrow-downs. Strider should be told of this, at once.... ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Was it worth the trouble? Did you learn your lesson? Leave the Dead to sleep their dreamless sleep and walk yourself upon the green grass under the sun!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Well met! My Master sends thee greetings. I grant thee the boon of an audience before I kill thee. Thou seemed desirous of certain knowledge, so I will give it thee. For the Dead speak not!' The wight cackles.\\n\\n'My Master seeks a great Power for the Dark Lord, but the Dark Lord has more designs than this. The Pale Dwarf shall go to the north and gather an army in the name of Angmar and the Witch-king!\\n\\n'The gaunt one, a great power himself and to whom I owe this form, goes to the east. There, in Agamaur, he shall awaken a Power that lies sleeping in the waters. With her under his command, the skies will turn to blood and all shall despair!\\n\\n'Now thine audience comes to an end. Thy death awaits thee.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbef3e15",
+      "en": "Watcher-wight[e]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb25b35",
+      "en": "'Between those stones is what you look for, the Great Barrow of the Downs.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8498e55",
+      "en": "'You men! See that none pass!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75f5a3e",
+      "en": "'Arise... arise, my brothers....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4f4215",
+      "en": "'Come, Skorgrím.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6234031",
+      "en": "Should not see this text.  I am a bug.  Please report me.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bb6fd9",
+      "en": "Brigand-sentry[e]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6bc051",
+      "en": "'Come now, my merry friends, warm fire is awaiting....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6bc052",
+      "en": "'In Tom's home you'll find sweet honeycomb and beds for resting!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "You have found Tom Bombadil's cottage, but Tom is nowhere in sight.  Ask his wife, Goldberry, where he might be found.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced12",
+      "en": "You have discovered the entrance to Othrongroth. The Pale Dwarf has retreated within.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced13",
+      "en": "You have foiled the Pale Dwarf's plan to raise a wight-army, and the dwarf himself has been captured by Rangers!\\n\\nTom Bombadil has brought you back to his cottage in the Old Forest. He would like to speak to you....",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced15",
+      "en": "Bring word to Strider that the Pale Dwarf has been captured, and bound with Willow-rope.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd67651",
+      "en": "'Fools! I shall suffer your presence no longer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd67652",
+      "en": "'You have hounded my steps for too long!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd67653",
+      "en": "'And now the Dead shall take you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Go to the entrance of the Great Barrow, Othrongroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d77732",
+      "en": "'Who goes there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Follow the Witch-king",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Pursue the Witch-king",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Speak to the Wight-lord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Defeat the Wight-lord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Search the boarding house stable for traces of the Pale Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4978b5",
+      "en": "Distant Voice[e]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Read the Discarded Letter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Ask Mat Heathertoes about the Pale Dwarf.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Find the Pale Dwarf's camp-site",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55dfc31",
+      "en": "'Don't weaken! They can't get past us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55dfc32",
+      "en": "'Fools! Kill them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6654dc4",
+      "en": "'You heard Lord Skorgrím!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55dfc33",
+      "en": "'Show no weakness!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55dfc34",
+      "en": "'Kill them! For the Dourhands!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55dfc35",
+      "en": "'Hold the line! Hold the line!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "The stable is empty!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "The dwarf's footprints lead into the Barrow-downs...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x440f385",
+      "en": "'Flee! Flee for your lives!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedc4e1",
+      "en": "'As the great king commands....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112551",
+      "en": "'Ivar, we shall have need of your ward in the east.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa30c6c6",
+      "en": "'Come, Ivar awaits us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112552",
+      "en": "'Skorgrím, your dwarves should focus their efforts in the north and east.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112553",
+      "en": "'Once your tasks are complete, Mordirith awaits you both in the north.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedcde1",
+      "en": "'Kill them....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112554",
+      "en": "'My champion has not yet finished her task.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112555",
+      "en": "'A great reward awaits you, if you both succeed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112556",
+      "en": "'The Gurzorg must be called into service.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112557",
+      "en": "'We must counter the loss of Amdir.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37b87f2",
+      "en": "'Come on boys, let's cleave 'em in twain!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112558",
+      "en": "'Our plans in the south are reaching fruition.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37b87f3",
+      "en": "'They ain't getting past us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf112559",
+      "en": "'Pay no heed to the twice fool, Saruman.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54dd042",
+      "en": "'No one gets past us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe211a21",
+      "en": "'Hey dol! Merry dol!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61eb5",
+      "en": "'All right! You've killed my men, but you won't kill me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe211a22",
+      "en": "'What be you a-thinking? Dead Men should not be waking!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe211a23",
+      "en": "'Vanish into sunlight, leave your barrows empty!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Othrongroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x742e7fc",
+      "en": "'Thou may come forward....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dcd731",
+      "en": "'Thou cannot defeat me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25b3690",
+      "en": "'Come now, me hearties!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dcd732",
+      "en": "'Fools, I cannot be defeated!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f5d995",
+      "en": "'Arise, my warriors!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25b3692",
+      "en": "'Careful now, or there your bones will lie, until the wights have you dancing!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x112d772",
+      "en": "'I tell you I heard something!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Tom Bombadil has brought you to the barrow named Othrongroth. A servant of the Nazgûl, Andraste, said that the Lord of the Nazgûl would be found here.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedcee2",
+      "en": "'Only the Dead... shall pass....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11255b0",
+      "en": "'The Ring moves east, to Imladris, no doubt.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "search for traces of the dwarf's passage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Return to Strider",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc0edc1",
+      "en": "'The dead suffer no intruders....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Find Tom Bombadil's cottage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Talk to Goldberry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7455a20",
+      "en": "'You will not defeat me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Find the entrance to the Great Barrow, Othrongroth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Pursue the Pale Dwarf into Othrongroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c56",
+      "en": "Talk to Tom Bombadil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c57",
+      "en": "Speak to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c58",
+      "en": "Gather seven Willow Root Fibres, and bring them to the dwarf's captors.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c59",
+      "en": "Return to Strider",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x921b731",
+      "en": "'Greetings, fool.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Here we are, my hearties! I've no time for wasting, saving foolish travellers! My Goldberry will be coming home, and I must set her lily bowls!\\n\\n'The mouth of Othrongroth lies west. Be careful. Heed no deadly voices!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4c6581",
+      "en": "'What? It cannot be!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x921b732",
+      "en": "'If thou seek an audience, thou may approach.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x615ad71",
+      "en": "'I... I can't be defeated!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x615ad72",
+      "en": "'Stay back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The entrance to Othrongroth is nearby to the west.\\n\\nTom Bombadil led you safely to the entrance of Othrongroth, the Great Barrow, in the Barrow-downs. Your search for the Witch-king will lead you into the barrow.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x615ad73",
+      "en": "'Skorgrím promised... he said we couldn't be defeated....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Witch-king and the dwarf Skorgrím have entered Othrongroth. You should follow them into the barrow and search for them there.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x615ad74",
+      "en": "'What... what was that noise?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Your path through the Great Barrow led you to the Black Rider, who took notice of your presence and called the Dead to attack you. Defeat these creatures and continue on through Othrongroth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x615ad75",
+      "en": "'Augh!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Your pursuit of the Witch-king has led you to a room with a wight seated upon a great throne. The creature bid you welcome and said that if you sought an audience, you could approach.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Thanks to the arrival of Tom Bombadil, the Wight-lord has been defeated! Tom waits to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "In the boarding house stable, you found a letter from Bill Ferny to the Pale Dwarf.  It was apparently delivered by a youth named Mat Heathertoes, who you saw skulking about, just outside the stable.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

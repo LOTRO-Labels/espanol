@@ -1,0 +1,275 @@
+{
+  "id": 620789898,
+  "txt": [
+    {
+      "id": "0x3b3dc8e",
+      "en": "Expected a ':'. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae24858",
+      "en": "Note is too high. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9862e25",
+      "en": "[placeholder], <rgb=#FFFFFF>[placeholder]</rgb>\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3aea53",
+      "en": "Expected a '+'. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x871df57",
+      "en": "You are ready to play \\q[placeholder].\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd27c694",
+      "en": "Note is not tied to anything. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63437fd",
+      "en": "Broken rhythm out of place. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa19c55",
+      "en": "You begin playing \\q[placeholder].\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb87ac37",
+      "en": "You stop playing your song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63073",
+      "en": "[placeholder], [placeholder] tunes:\\n{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6b85e",
+      "en": "Unexpected token. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe53ae34",
+      "en": "Note's duration is too short. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ff4f07",
+      "en": "Expected a note or chord end: ']'. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae393c7",
+      "en": "Note's duration is too long. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd06fa4",
+      "en": "Too many notes in a chord. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8666729",
+      "en": "No ABC files found matching \\q[placeholder]\\q.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94b9348",
+      "en": "Bad default note length. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cdc1f4",
+      "en": "Note is already sounding. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb630494",
+      "en": "[placeholder] is ready to play a song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce3a5f2",
+      "en": "Expected a number. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbca2d44",
+      "en": "Couldn't find tune index in song file.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a91887",
+      "en": "[placeholder] is ready to play \\q[placeholder].\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4893af",
+      "en": "Bad tempo. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75d3819",
+      "en": "Unknown key. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c95a94",
+      "en": "Expected a note within tuplet. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9815a45",
+      "en": "    [placeholder]: <rgb=#FFFFFF>[placeholder]</rgb>{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd29e935",
+      "en": "[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6097342",
+      "en": "ABC files matching \\q[placeholder]\\q:\\n{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12dd4a4",
+      "en": "Synchronized playing is about to begin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3423f5c",
+      "en": "All ABC files:\\n{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10998c4",
+      "en": "Couldn't open file [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cb63f9",
+      "en": "Bad key. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x316b41e",
+      "en": "Illegal duration of note. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe8d55d",
+      "en": "Illegal broken rhythm. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1dc935",
+      "en": "A note must be A, B, C, D, E, F, or G. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd60af35",
+      "en": "    [placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb61fd02",
+      "en": "Bad metre. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d7a7a7",
+      "en": "You begin playing a song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf84ea5e",
+      "en": "Unrecognized decoration. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9788d5",
+      "en": "Tuplet values must be in the range \\[2, 9\\]. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d8dc54",
+      "en": "You are ready to play a song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4c9a18",
+      "en": " <rgb=#FFFFFF>(</rgb><rgb=#FF0000>Duplicate Index</rgb><rgb=#FFFFFF>)</rgb>{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaeeb835",
+      "en": "\\n{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ae3917",
+      "en": "Note is too low. Line [placeholder], column [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6042c77",
+      "en": "Couldn't open file [placeholder], it must be saved with ANSI or UTF-8 encoding.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

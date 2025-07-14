@@ -1,0 +1,3959 @@
+{
+  "id": 620757436,
+  "txt": [
+    {
+      "id": "0x2cb102c",
+      "en": "Lock quickslot bars",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x354128c",
+      "en": "Default Keys",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe19659c",
+      "en": "Play optional combat animations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacda970",
+      "en": "When checked, the character receives Kinship requests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd74496c",
+      "en": "Toolbar Right Slot 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe40fe62",
+      "en": "Click and drag to move the radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00bddc",
+      "en": "Display my home ownership information",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40c39ec",
+      "en": "Graphics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x329308c",
+      "en": "Show Destiny Wallet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdeae8c",
+      "en": "Make bar 4 horizontal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x738cb80",
+      "en": "When off, hides your cloak from view.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4265770",
+      "en": "When on, locked items are shown on the vendor's sell tab.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd68c10",
+      "en": "If checked the skill queue and global reset timer display will be visible.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2e95ec",
+      "en": "Enable Avatar Attack Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb45bdb5",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9093ac",
+      "en": "Chat Window Opacity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf858045",
+      "en": "Show Surname",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2432c",
+      "en": "Show tutorial hints",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b4fb10",
+      "en": "When performing mounted combat and turn on auto-attack you will constantly move toward your target.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x285a8ac",
+      "en": "Selection: Only Show Effects Cast By You",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb63efe",
+      "en": "Show PvMP Rank Icon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf819c0",
+      "en": "When checked, you will see radar blips for all your groupmates' companions.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a12873",
+      "en": "Screen Brightness",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc05539c",
+      "en": "Enable Combat Hit Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdda2c3",
+      "en": "Load Mozilla Firefox Proxy Settings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadbb07c",
+      "en": "Clear Skin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37a9100",
+      "en": "The UI scale of your inventory bags.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x786481c",
+      "en": "Show Quest Guide on Radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe354710",
+      "en": "When off, hides your helmet from view.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5582a5c",
+      "en": "Show Connexion Status",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfccc67e",
+      "en": "Are you sure you want to restore the default settings?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x986c947",
+      "en": "Low",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd61dbec",
+      "en": "Mounted Combat MoveTo Skill Assist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6d2404",
+      "en": "Show Combat Results",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x445a8c8",
+      "en": "Cur/Max",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5eb2f34",
+      "en": "When checked, players will have their kinship names displayed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64fc754",
+      "en": "Are you sure you want to log out?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba5fe2c",
+      "en": "Enable skill target forwarding",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9077b0",
+      "en": "When checked, fellowship vitals displays will hide effects which are nondispellable.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7483cc",
+      "en": "Toolbar Left Slot 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x174e80c",
+      "en": "Show Skill Queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x947dc80",
+      "en": "If unchecked, you will automatically decline any sparring offers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d8560",
+      "en": "When checked, group vitals displays will hide effects which are not cast by you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa85f86c",
+      "en": "Revert Graphics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a06b1c",
+      "en": "Quest Guide Map colour 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d904a9",
+      "en": "Misc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x864bb5c",
+      "en": "Default UI",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc30507c",
+      "en": "Dock bar 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ca6320",
+      "en": "Accept tells from friends, groupmates, and tribe members is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45bdf8b",
+      "en": "Invert mouse look",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa94c0a3",
+      "en": "DX10 Dynamic Shadows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb65efe",
+      "en": "Unknown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24a2f0",
+      "en": "When checked, displays a directional indicator to your current selection.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99f8e0c",
+      "en": "Enable LOTRO Store purchase feedback",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd588ef0",
+      "en": "If checked, you will automatically move to use an item or NPC that's too far away.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea0a20",
+      "en": "If checked, you will automatically accept any automatically bestowed quests except when your quest log is full. When not checked or when your log is full, you will have the temporary ability to manually accept said quests using the Quest Action Button UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9f704",
+      "en": "You will need to restart the game for these changes to take effect.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ef5e5",
+      "en": "Decrease the size of all UI elements",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4eb3fc",
+      "en": "Show Radial Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbacfed",
+      "en": "Automatically create IM sessions is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf01e75c",
+      "en": "Companion Quickslot Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d317e0",
+      "en": "If checked, PCs will appear on your radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x336f364",
+      "en": "Apply changes?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36f47c0",
+      "en": "If bar 2 is undocked, toggles the orientation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58c9e04",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa06b1c",
+      "en": "Quest Guide Map colour 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2dd488c",
+      "en": "show quest tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8745fa0",
+      "en": "The UI scale of the toolbar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba2b50c",
+      "en": "UI Settings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc35a804",
+      "en": "When checked, renown / infamy gains will appear over your character's head.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf997389",
+      "en": "Show Equipped Items Only in Repair UI",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4fdf74",
+      "en": "When checked, the selected creature or NPC will display a selection indicator.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a21454",
+      "en": "Toggles the Quest Guide feature which directs you to the general area locations for tracked quest objectives.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30d5b60",
+      "en": "Displays the companion quickslot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9632f50",
+      "en": "When checked, particle and mesh visual effects used to represent monster attacks will be displayed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7946a0c",
+      "en": "Move To Use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24c9064",
+      "en": "When checked, all items will display floating names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8dae6e",
+      "en": "Current User Skin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfaad8a0",
+      "en": "When checked, your player music will be locked to a time grid. This results in notes being set on beats, each aligned to the closest point on the timing grid and provides a more uniform timing of notes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x331d190",
+      "en": "If bar 1 is undocked, toggles the orientation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x788e7c",
+      "en": "Mounted Combat Default Skills Perform MoveTos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ceaddc",
+      "en": "Enable Dread Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa689dc0",
+      "en": "Resets the suppressed Confirmation Dialogs when the button is clicked.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf5610",
+      "en": "Sets the second button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5eb2980",
+      "en": "Player Tribes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b8c42e",
+      "en": "Selection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf5910",
+      "en": "Sets the fifth button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc98080",
+      "en": "When checked, the assist window will be displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcabef9c",
+      "en": "Show PCs on radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7791c0",
+      "en": "If checked, your current location coordinates will be displayed below the radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbed4f2",
+      "en": "Selection Indicator",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c96660",
+      "en": "When checked, particle and mesh visual effects used to represent avatar attacks will be displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe167be5",
+      "en": "You cannot set advanced graphics settings until you download the full game.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6afb7b0",
+      "en": "The size of Attunement Panel to display.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd80ab4",
+      "en": "Click to create a new binding for this action.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ec31cc",
+      "en": "Companion Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf5c10",
+      "en": "Sets the fourth button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd780ff4",
+      "en": "When checked, floating damage will appear based on the checkboxes below.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba83049",
+      "en": "Animation Quality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6406dc3",
+      "en": "Involuntary emotes are now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18ea6b4",
+      "en": "Click to clear all bindings for this action.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2cf7cc",
+      "en": "Barber Shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf5f10",
+      "en": "Sets the seventh button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcca73cc",
+      "en": "Make bar 2 horizontal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fa0052",
+      "en": "Radar Filter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7c2da5",
+      "en": "My Character's Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac0700c",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f3de90",
+      "en": "When checked, players will have their tribe names displayed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45be40",
+      "en": "When checked, the character receives trade requests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9711bb0",
+      "en": "When checked, floating damage numbers appear over creatures other than the PC and things he or she affects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75ea10",
+      "en": "Sets the fifth button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x464f474",
+      "en": "Restore defaults?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47263d2",
+      "en": "Player Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x377f48c",
+      "en": "Always accept automatic quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e0b26c",
+      "en": "Enable fellowship requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17fc9c4",
+      "en": "When checked, the selection indicator will only be shown when you're in combat. This preference is only available when the \\qSelection Indicator\\q preference is ON.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33a3ce4",
+      "en": "Many elements of the UI can be customized. Press CTRL-\\ to toggle the UI lock, so you can reposition panels to wherever you like. Press CTRL-\\ again to re-lock your UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac95e0e",
+      "en": "Show ranged weapon when out of combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d820ec",
+      "en": "Alerts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f39b90",
+      "en": "The UI scale of the your group's or first raid group's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x677e930",
+      "en": "If checked, monsters will appear on your radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd01db0",
+      "en": "Fellowship invites are now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd638e54",
+      "en": "When checked, you will be unable to see cosmetic pets summoned by other players.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31e2bfe",
+      "en": "Suppressed Confirmation Dialogs have been reset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb53469",
+      "en": "Show Trainable Skills Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e5956c",
+      "en": "Display combat state break notices in chat window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4cb282",
+      "en": "Game",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47483dc",
+      "en": "Toolbar Left Slot 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76a4f6c",
+      "en": "Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a5f644",
+      "en": "See Icons for All Paper Doll Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98649e3",
+      "en": "Player Titles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e724d0",
+      "en": "If checked, the quest tracker will show party status instead of objectives.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf024fb3",
+      "en": "Show Character/Object Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f02f80",
+      "en": "Toggles the visibility of the event quickslots UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b4530",
+      "en": "The UI scale of the third raid group's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8ecbbc",
+      "en": "Show Trivial Quest Icons In Radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23b19c3",
+      "en": "My Fellows' Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50af2ac",
+      "en": "Event Quickslots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3aa830",
+      "en": "Use dynamic shadow maps in outdoor environments.  DirectX 10 Graphics must be enabled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x391aa1c",
+      "en": "Enable movement assistance in combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa24a113",
+      "en": "Movement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b4830",
+      "en": "The UI scale of the fourth raid group's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2948930",
+      "en": "When checked, Opponent Vitals will hide effects which are nondispellable.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55610d2",
+      "en": "UI Scale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x354a7cc",
+      "en": "Raid Vitals 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd48093c",
+      "en": "Make bar 3 horizontal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8949ec",
+      "en": "Class Ability Bars",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78197ac",
+      "en": "Low latency mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf8057c",
+      "en": "Enable cross-compare item tooltips",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5fed54",
+      "en": "When checked, an induction progress bar will be shown above any character or pet pending an action. This preference is only available when the \\qFloating Names\\q preference is ON.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7483dc",
+      "en": "Toolbar Left Slot 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b484f0",
+      "en": "Toggles the audio/visual feedback that occurs with each completed store order",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x874b10",
+      "en": "When checked, you will see a special reticule around your target's target, as well as the vital information for that target.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fd0684",
+      "en": "Enabling this will show the Quest Guide indicators on the map that will show you possible quest objective locations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe912743",
+      "en": "Adoption requests are now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82a7d00",
+      "en": "When on, only equipped items are shown in the repair window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e434a4",
+      "en": "Accept Kinship Requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x294d395",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80454e0",
+      "en": "Show Group Companions on Radar:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b0eda0",
+      "en": "If unchecked, you will automatically decline any fellowship offers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x674ac02",
+      "en": "Directional Selection Indicator",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb618de3",
+      "en": "Show Gloves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15ace10",
+      "en": "When checked, landscape music plays uninterrupted by combat music.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacb2e00",
+      "en": "When checked, player music will be more responsive, but it may be more difficult to sync music with other players.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f77734",
+      "en": "Accept Sparring Requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe54a7cc",
+      "en": "Raid Vitals 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x374496c",
+      "en": "Toolbar Right Slot 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5333df0",
+      "en": "If checked, quest tracker will be automatically filled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ab32d0",
+      "en": "The currently selected user created skin to be applied over the default UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8c633c",
+      "en": "Show Private Tells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0b7d6c",
+      "en": "Revert Troubleshoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2b66cc",
+      "en": "Revert Social",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x723e570",
+      "en": "If unchecked, you will automatically decline any kinship offers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44212e0",
+      "en": "If checked, the Post Page will set your Auction Item's Initial Price and Buyout Price to match those of the most recently posted identical item.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f026cc",
+      "en": "Enable secure trade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3bfec0",
+      "en": "When checked the Raid Micro Vitals will show companion vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3a4b0",
+      "en": "When checked, displays (non-quest related) icons over the heads of vendors, trainers, and other NPCs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda2b0",
+      "en": "When checked, displays quest icons over the heads of quest related NPCs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b40a2",
+      "en": "Grouping:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ba3164",
+      "en": "Show Class Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bebf80",
+      "en": "When checked, you will see radar blips for all your fellows' companions.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8e69e0",
+      "en": "If checked, you will see world tooltips instantly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf873c4",
+      "en": "When checked, text spoken in the 'Say' chat channel will show a chat bubble for players within visual range.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x903d45c",
+      "en": "Allegiance Progress",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56d76f0",
+      "en": "Kinship invites are now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7915cc0",
+      "en": "When checked the full-screen effects associated with Dread will be displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe74496c",
+      "en": "Toolbar Right Slot 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bb421c",
+      "en": "Character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a15580",
+      "en": "If checked, your personal house will be labelled with your name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9fe340",
+      "en": "The UI scale of Traits, Skills, and Quest Log panels.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a550ec",
+      "en": "Enable instant world tooltips",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2591570",
+      "en": "When checked this turns on optional, client-only combat animations.  This has no impact on combat effectiveness or gameplay, it is only a cosmetic option.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcaa973c",
+      "en": "Gore Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b4e51c",
+      "en": "Enable Combat Particle Response Indicators",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ca3f02",
+      "en": "Show Normal Messages",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5ebc35",
+      "en": "Do you wish to keep the new setting?  ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b21a0c",
+      "en": "Revert Keys",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2532670",
+      "en": "The UI scale of your soldier vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c89ffc",
+      "en": "Always Loot All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5ceea5",
+      "en": "Red Gore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64f6300",
+      "en": "If enabled, bar 4 will appear in the bank of shortcut bars in the middle of the toolbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20ff9a4",
+      "en": "Disabled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef624b5",
+      "en": "Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55f020e",
+      "en": "Tutorial Hints have been reset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc820ac4",
+      "en": "Search for options matching text",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdf2f45",
+      "en": "Accept trades is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ae6a70",
+      "en": "When checked, incoming chat will be filtered and profanity replaced with inoffensive text.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7d6760",
+      "en": "Group Vitals / Raid Vitals 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57755d0",
+      "en": "Restrict Incoming Tells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8b06d2",
+      "en": "Show Shoulder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32fd8d2",
+      "en": "Quest Guide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb7a1a0",
+      "en": "The UI scale of the radar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7ddd2c",
+      "en": "Mic Test",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf438690",
+      "en": "Choose the border animation style for activated quickslots.  Default animations are highly visible, while Simple uses bygone basic animations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa766fd4",
+      "en": "Apply",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19cb724",
+      "en": "When checked, my fellows display floating names.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77cb194",
+      "en": "Browser HTTPS Proxy Port Host",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ba5eb3",
+      "en": "Player Kinships",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77c0b20",
+      "en": "When checked, group vitals displays will hide effects which are nondispellable.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79402b0",
+      "en": "If bar 4 is undocked, toggles the orientation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63756be",
+      "en": "Click and drag to move this pinned tooltip",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e065a7",
+      "en": "Very Low",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5207d63",
+      "en": "Volumetric Shadows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a286c",
+      "en": "Default Graphics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64de6a5",
+      "en": "Player Pet Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17483dc",
+      "en": "Toolbar Left Slot 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50cfb5c",
+      "en": "Show Debuffs in Separate Row",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35d45f3",
+      "en": "Quickslot bar lock is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd8c2b7",
+      "en": "[placeholder] Target Marking",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa656704",
+      "en": "Accept Trade Requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89bc3ac",
+      "en": "Default Mouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4f8863",
+      "en": "Apply Proxy Settings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ebbb0",
+      "en": "If enabled, bar 5 is always shown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b35924",
+      "en": "Abandon changes?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4b2803",
+      "en": "Vital Bar Numbers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0adc6c",
+      "en": "Revert Mouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb19cb45",
+      "en": "Show Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66b82fc",
+      "en": "Dock bar 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46bb430",
+      "en": "When checked your surname will be displayed as part of your active title.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa789ed0",
+      "en": "The UI scale of Deeds panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29ce010",
+      "en": "Adjusts the maximum distance at which floating damage numbers appear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11e69b0",
+      "en": "The UI scale of alerts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf514f43",
+      "en": "Click and drag to scroll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b6d775",
+      "en": "Floating Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf50f910",
+      "en": "When checked, skills that are flagged to enable auto-attack will do so.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x265352e",
+      "en": "Full Screen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8274c03",
+      "en": "The next key you press or mouse button that you click will be mapped to the '[placeholder]' action.  You may combine keys with SHIFT or CTRL to create new mappings.  Remapping joystick input or mouse buttons zero(0) or one(1) is not supported.\\n\\nPress the ESC key to cancel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2ae0ec",
+      "en": "Revert Skin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef560c4",
+      "en": "Send",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9af68ac",
+      "en": "Reset Tutorial Hints",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e4a7f3",
+      "en": "Overhead Quest Icons",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe962900",
+      "en": "When checked, Opponent Vitals will hide effects which are not cast by you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d256c0",
+      "en": "If checked, newly discovered deeds will automatically be added to the quest tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb25b844",
+      "en": "When checked, all players display a floating name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69c0fbc",
+      "en": "Automatically fill quest tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cf27f0",
+      "en": "Changing the slider value will change the opacity of the chat window background.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe45f4e0",
+      "en": "When off, hides your gloves from view.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88bf010",
+      "en": "If checked, you will only get tells from players in your friends list, fellowship, raid and kinship. You will also receive tells from players you have sent a tell to.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x581528c",
+      "en": "Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb3119c",
+      "en": "Show items on radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x629a62e",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2862ca0",
+      "en": "When checked combat attacker animations that overlap will blend, smoothing out the transition between skill plays.  When disabled only one combat animation will be allowed per attacker causing an instant transition from one animation to the next as skills are executed.  This has no impact on combat effectiveness or gameplay, it is only a cosmetic option.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3998a32",
+      "en": "Voice",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3631b0",
+      "en": "Improves lighting detail for distant landscape.  DirectX 10 Graphics must be enabled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x997bb80",
+      "en": "When enabled, some persistent area effects (hotspots) will show supplemental graphics outlining their borders.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a4cc90",
+      "en": "When checked, bloody particles and mesh visual effects will be displayed as part of attack and hit effects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c9c359",
+      "en": "Floating Renown / Infamy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f803c0",
+      "en": "Enable tribe requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3819e8c",
+      "en": "Social Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae38b2c",
+      "en": "Radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf0ec30",
+      "en": "If checked, the client will be voice enabled.  This allows the client to hear other voice enabled players as well as participate if they wish.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd960935",
+      "en": "Simple",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7902214",
+      "en": "Must Restart So Changes Can Take Effect.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4103c",
+      "en": "Always show bar 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4badcf1",
+      "en": "KeyMap #1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf4b10",
+      "en": "Sets the third button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4badcf2",
+      "en": "KeyMap #2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc88eaf0",
+      "en": "If checked, tooltips appear in a fixed location.  If not checked, tooltips will appear near your mouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4d17d0",
+      "en": "If checked, items will appear on your radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d1844c",
+      "en": "Options Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44ea9c0",
+      "en": "Locking the toolbars prevents you from dragging and dropping items on them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c98994",
+      "en": "Configure Keyboard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea7ff1c",
+      "en": "Reset All UI Scales",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0c9222",
+      "en": "Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x879a63e",
+      "en": "Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29d1dc",
+      "en": "Enable companion quickslot bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5db8f30",
+      "en": "Each entry adjusts the way the vital bar displays text information.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3f9df4",
+      "en": "See Numbers on Shortcuts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ffbe4c",
+      "en": "Enable Blood Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b188a3",
+      "en": "Show Boots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf995ccc",
+      "en": "Automatically add tasks to quest tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9cd5a4",
+      "en": "When checked, other players' floating damage is displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe59e40",
+      "en": "Show Fellowship Messages",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19cb190",
+      "en": "My Groupmates' Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb278e20",
+      "en": "Enable group requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6ad044",
+      "en": "When checked, pets of other players will display their names floating above their heads.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde6b45c",
+      "en": "Quantize player music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b849a4",
+      "en": "When checked, reputation changes will appear over your character's head.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbefd094",
+      "en": "When checked, barter item gains will appear over your character's head.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90310bc",
+      "en": "Revert UI",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf5a10",
+      "en": "Sets the sixth button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98ef750",
+      "en": "If enabled, bar 2 will appear in the bank of shortcut bars in the middle of the toolbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53fc02c",
+      "en": "Combat Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7084920",
+      "en": "When off, hides your class slot from view.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadbd580",
+      "en": "The UI scale of your companion's quickslot bar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b238f0",
+      "en": "repeated key presses in chat will automatically delete and close the chat console.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75e510",
+      "en": "Sets the second button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22e0a60",
+      "en": "If checked, Destiny Wallet will be visible",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x454a7cc",
+      "en": "Fellowship Vitals / Raid Vitals 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfc75dc",
+      "en": "Audio",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9250ec",
+      "en": "Key Mapping",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7516502",
+      "en": "Profanity filter is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75e810",
+      "en": "Sets the third button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ae5450",
+      "en": "Toggles the visibility of the Allegiance progress display UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd37b7e",
+      "en": "Floating Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77ce60",
+      "en": "If checked, portals will appear on your radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6029c62",
+      "en": "WebStore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8aeae8c",
+      "en": "Disable cosmetic pets",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eb798c",
+      "en": "Customize UI:  CTRL-\\",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85e0c71",
+      "en": "Chat 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49402b0",
+      "en": "If bar 5 is undocked, toggles the orientation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85e0c72",
+      "en": "Chat 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85e0c73",
+      "en": "Chat 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85e0c74",
+      "en": "Chat 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6ad2e4",
+      "en": "Show Helmet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0733a7",
+      "en": "Sparring invites are now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccb126c",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b091cc",
+      "en": "Clip",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa455af4",
+      "en": "Confirm Rendering Options ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5eb4860",
+      "en": "The UI scale of Barber Shop panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x530ef30",
+      "en": "Group: Only Show Dispellable Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5daddc",
+      "en": "Input",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x474496c",
+      "en": "Toolbar Right Slot 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25198c5",
+      "en": "Enable LFX Usage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5be4660",
+      "en": "When checked, while shapeshifted, bar 1 and the main quickslot bar swap places.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5357c7c",
+      "en": "Enable New Item Highlighting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14e329c",
+      "en": "Enable Quest Guide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x135b840",
+      "en": "If the bar 3 is undocked, toggles the orientation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fc9d40",
+      "en": "When checked, the character receives Sparring requests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x118e030",
+      "en": "Displays the Connexion Status icon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x373ee20",
+      "en": "The UI scale of your vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa66ea00",
+      "en": "When checked, every companion action will display a message in the chat window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda06b1c",
+      "en": "Quest Guide Map colour 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f34225",
+      "en": "Maximum Distance for Damage Numbers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29b46c",
+      "en": "Enable Weapon Passive Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe42f65c",
+      "en": "Enable NPC colour Text Voiceover Sounds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2667ca5",
+      "en": "Sound Volume",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa8b810",
+      "en": "If checked, milestones will appear on your radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39532d4",
+      "en": "When checked, all NPCs will display floating names.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c18352",
+      "en": "Browser Proxy Settings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b572bc",
+      "en": "Enable timestamps on chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5522810",
+      "en": "The UI scale of your quickslot bars.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae3decc",
+      "en": "Default Social",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf74496c",
+      "en": "Toolbar Right Slot 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7039d0",
+      "en": "If checked, the timestamp of each message will be displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b4f30",
+      "en": "The UI scale of the your fellowship's or first raid group's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c17a1c",
+      "en": "Reset Confirmation Dialogs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10889c0",
+      "en": "When off, hides the pvmp rank icon from the nameplate ui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec9eaa0",
+      "en": "When enabled you will see notification of who ended some combat states such as rooted, dazed or feared by attacking or damaging the target.  These notices are displayed in the 'Combat Event' chat filter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe40862b",
+      "en": "OK",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf995140",
+      "en": "When enabled, releasing the movement key will automatically decrease the speed of your war-steed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59cf5f3",
+      "en": "Induction Bar Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddaa710",
+      "en": "Turns on/off floaty damage over your selected target's portrait.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9a3a42",
+      "en": "Sound Features",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x573c5f3",
+      "en": "[placeholder] Manoeuvres",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7e9dcc",
+      "en": "Auto target enemies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e60f2e",
+      "en": "Close the Options Panel (keyboard shortcut: F3).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88d13ec",
+      "en": "Dock bar 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabac3b0",
+      "en": "The UI scale of options panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x381786c",
+      "en": "Display Companion Orders In Chat Window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b00aa2",
+      "en": "Show Error Messages",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd71ba3c",
+      "en": "Show milestones on radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb79712",
+      "en": "Effect Display Options:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3a1fd4",
+      "en": "Request Assistance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc103ca4",
+      "en": "Accept tells from friends, fellows and kinship members is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf574e0",
+      "en": "The UI scale of your escort vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bb423e",
+      "en": "Show Administrative Messages",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64da605",
+      "en": "No Gore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x839fbac",
+      "en": "Default Audio",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x139f290",
+      "en": "Shows tooltips for equipped items in the same inventory slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ed6c24",
+      "en": "Save all changes?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee4a2e0",
+      "en": "When checked you will attempt to execute your skills on your target's target if the original target is not valid.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4693bc1",
+      "en": "If checked, you can configure your microphone for voice chat. Adjust the microphone gain and capture threshold until the metre appears green while you speak.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d2aec",
+      "en": "Revert Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x874496c",
+      "en": "Toolbar Right Slot 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb92f7b2",
+      "en": "Tooltips",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x259ae0c",
+      "en": "Selection: Only Show Dispellable Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa656dc3",
+      "en": "Toggle Floating Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73d57a4",
+      "en": "When checked, your pets will display their names floating above their heads.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27483dc",
+      "en": "Toolbar Left Slot 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21b61c0",
+      "en": "Group",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c4077c",
+      "en": "Show Companion Vitals in Raid Vital Windows:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3935a6c",
+      "en": "Enable static placed tooltips",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c37ac0",
+      "en": "If checked, you will automatically try to take the contents of any corpse or container that you open as if you had pressed the 'Loot All' button.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedf3ca0",
+      "en": "Name, Background, or None set where the class colour visualization will occur in the Raid Micro Vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x453701d",
+      "en": "Send tells to IM is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d517f9",
+      "en": "Show Selection Indicator in combat only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb717c5",
+      "en": "Music Volume",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7104fbc",
+      "en": "Default",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17e4b0",
+      "en": "When checked, floating damage numbers appear over creatures in the game.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80d9a4c",
+      "en": "Enable Secure Trade Item Spew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95bd443",
+      "en": "Show Locked Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6eeecc",
+      "en": "Dock bar 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdbae8c",
+      "en": "Make bar 5 horizontal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35cb232",
+      "en": "Floating Information",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4668c4",
+      "en": "Default",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34f0a60",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e958ac",
+      "en": "Allow combat animation blending",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4227880",
+      "en": "When checked your rank will be displayed as part of your active title.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b8b765",
+      "en": "Show Emotes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf196fac",
+      "en": "Soldier Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51db1ec",
+      "en": "User Skins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4809ed0",
+      "en": "The UI scale of Character panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a0be83",
+      "en": "Load Internet Explorer Proxy Settings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1618880",
+      "en": "If enabled, bar 1 is always shown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2c80cc",
+      "en": "Beorning Shapeshift Bar Swap",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10018f5",
+      "en": "Fast Landscape Render",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf382c54",
+      "en": "Sound Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd99ed0",
+      "en": "If checked, a special effect will be played whenever a responsive skill is available for use.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64f7000",
+      "en": "If enabled, bar 5 will appear in the bank of shortcut bars in the middle of the toolbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff61f0c",
+      "en": "Quickslot Active Animations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe630050",
+      "en": "If checked, new items arriving in your inventory bag will be highlighted.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0b3045",
+      "en": "My Floating Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc263e0c",
+      "en": "Send Tells to IM Chat Tab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe167494",
+      "en": "This will globally increase or decrease the size of the UI elements.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbecd540",
+      "en": "If checked, NPCs with colour Text will also play an associated Voiceover sound.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedad920",
+      "en": "If unchecked, you will automatically decline any group offers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8c97e5",
+      "en": "Gore Hue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf65ffc",
+      "en": "Revert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x174496c",
+      "en": "Toolbar Right Slot 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42b0773",
+      "en": "Water Reflections",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6906b0e",
+      "en": "Show off-hand weapon when out of combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe607b52",
+      "en": "Toolbar Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2756600",
+      "en": "The UI scale for class-specific ability bars (e.g.- attunement and gambit bars)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d84d72",
+      "en": "Volume",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x274a1d0",
+      "en": "When checked, fellowship vitals displays will hide effects which are not cast by you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc205afe",
+      "en": "[placeholder] is already bound to another action. Do you wish to overwrite it?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7217f73",
+      "en": "Landscape Frill Distance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45ce70c",
+      "en": "Vital Bar Text Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a3c9fc",
+      "en": "Escort Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f24c3",
+      "en": "Item Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a25514",
+      "en": "Leave World",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86e45d7",
+      "en": "You will leave Session Play in [placeholder] seconds...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1111022",
+      "en": "Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x939b0dc",
+      "en": "Allegiance Progress Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe71d190",
+      "en": "When enabled, incoming adoption requests will be displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x276127c",
+      "en": "Skills can enable default attack",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4307fac",
+      "en": "Enable Monster Attack Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93643f5",
+      "en": "Landscape Draw Distance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf58038c",
+      "en": "Always show bar 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe34e11c",
+      "en": "Enable Involuntary Emotes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcddb33c",
+      "en": "Attunement Panel Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b1b913",
+      "en": "Floaty names are now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1e3f6c",
+      "en": "Enable kinship requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2da6354",
+      "en": "When checked, my character displays a floating name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8efe2be",
+      "en": "Click and drag to move options window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6dc32c4",
+      "en": "When checked, floating names will appear based on the checkboxes below.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf68f4b0",
+      "en": "If enabled, bar 3 is always shown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0ee73c",
+      "en": "Revert Mouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0bef92",
+      "en": "Special Effects Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2001b5c",
+      "en": "Enable sparring requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbb5c50",
+      "en": "When off, hides your shoulder equipment from view.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58d13ec",
+      "en": "Dock bar 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf54d5c",
+      "en": "Enable Adoption Requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa08ad0",
+      "en": "The UI scale of your quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x154f26c",
+      "en": "Voice Enabled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99a32bc",
+      "en": "Adv Graphics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0583b8",
+      "en": "Very High",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa08df21",
+      "en": "The client must be restarted for very high texture detail to be enabled.  There is an available update to the high resolution texture data which has not been applied to this client.  Please close your client with very high detail enabled and restart to begin patching.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7374b4c",
+      "en": "Show portals on radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd12f0f0",
+      "en": "If you press a skill button or the auto-attack enable button without a selection while this option is enabled, you will target the nearest enemy instead of executing the skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x628b970",
+      "en": "When on, only trainable skills are shown in the skill trainer window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeeb1524",
+      "en": "Keyboard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6492e04",
+      "en": "Are you sure you want to quit?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a93510",
+      "en": "Some skills support miss chance penalties if used while moving as an alternative to the requirement to be stationary to execute the skill.  When this option is checked you accept these penalties instead of being rooted in place while executing such skills.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeaf112",
+      "en": "Misc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ee98a5",
+      "en": "Graphics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8573064",
+      "en": "Percentage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf332a5",
+      "en": "Floating Experience",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x428c10c",
+      "en": "Revert Combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f77fdc",
+      "en": "Opponent Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c8ce80",
+      "en": "If unchecked, you will not see the loot messages when given items during a secure trade.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10488d3",
+      "en": "Overhead non-Quest Icons (Vendor, Trainer, etc.)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8f8910",
+      "en": "If checked, disables tutorial hints",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7103c",
+      "en": "Always show bar 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a06b1c",
+      "en": "Quest Guide Map colour 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85624e0",
+      "en": "Resets the Tutorial Hints when the button is clicked.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf9a23c",
+      "en": "Default Combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23376c",
+      "en": "Show Quest Guide on Map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcdc5b2",
+      "en": "Client",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2cdb253",
+      "en": "All Player Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf44cbf0",
+      "en": "The UI scale of your mount displays.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa186b94",
+      "en": "Default",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc74e42c",
+      "en": "Show Floaty Damage On Selection Portrait",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8edf56",
+      "en": "OFF",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52d44a0",
+      "en": "The UI scale of your companion's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2bb2b4",
+      "en": "Quit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52594bc",
+      "en": "Social Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28246f0",
+      "en": "If checked, tasks will automatically be added to the quest tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf5510",
+      "en": "Sets the first button on the left of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f1c594",
+      "en": "Revert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b14a1c",
+      "en": "Deeds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e3c9b0",
+      "en": "Group: Only Show Effects Cast By You",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9473544",
+      "en": "Browser HTTPS Proxy Port",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7fa8b0",
+      "en": "If checked, shows tutorial hints",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd94a2a4",
+      "en": "Browser HTTP Proxy Port",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8df48c",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93a30f0",
+      "en": "When a Tell is received and 'Send Tells to IM Chat Tab' is enabled, this preference automatically creates an IM session from the teller.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4823974",
+      "en": "Combat Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57f576c",
+      "en": "Restrict Incoming Tells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75e310",
+      "en": "Sets the eighth button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9408804",
+      "en": "See Damage Numbers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13f0630",
+      "en": "If enabled, bar 2 is always shown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67a264",
+      "en": "Delete",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7c6cac",
+      "en": "Quickslot Bars",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4f34a9",
+      "en": "Sound Quality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75e610",
+      "en": "Sets the first button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfca9fe5",
+      "en": "Green Gore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea06b1c",
+      "en": "Quest Guide Map colour 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60695fc",
+      "en": "Show Assist Window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafa0d5c",
+      "en": "Make bar 1 horizontal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x699712c",
+      "en": "Event Tracker Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21c3f4",
+      "en": "Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x968b574",
+      "en": "Browser HTTPS Proxy Host",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7457c0",
+      "en": "Show Kinship Messages",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5942c6c",
+      "en": "Allow skill buttons to target nearest enemy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75e910",
+      "en": "Sets the sixth button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b21b6b",
+      "en": "Show Cloak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb44d844",
+      "en": "When checked, the selection will show a floating vital bar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80ab0b2",
+      "en": "General Combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa46a5dc",
+      "en": "War-steed Auto-slowdown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab8f4b0",
+      "en": "When off, hides your boots from view.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4179e7",
+      "en": "Trade item spew is now [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75ec10",
+      "en": "Sets the seventh button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf01ec90",
+      "en": "If checked, you will only get tells from players in your friends list, group, raid, and tribe. You will also receive tells from players you have sent a tell to.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa110033",
+      "en": "Quickslots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2aaeb60",
+      "en": "When checked, particle and mesh visual effects used to represent weapon damage types will be displayed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ba3cd3",
+      "en": "Miscellaneous",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd952294",
+      "en": "Browser HTTP Proxy Host",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63b3c13",
+      "en": "Panels",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd75ef10",
+      "en": "Sets the fourth button on the right of the toolbar to display selected panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875bcc",
+      "en": "Show the vitals of your selection's target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e258ec",
+      "en": "Default Troubleshoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44792b2",
+      "en": "Cosmetic Pets",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4514ad0",
+      "en": "If checked, NPCs will appear on your radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x271530c",
+      "en": "Disable tutorial hints",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40166f2",
+      "en": "Core",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cdd370",
+      "en": "Toggles the visibility of the landscape soldier vitals UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa989af0",
+      "en": "Provides assistance with moving while in combat, turning to or following your selection based on the skills you execute.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6359a0",
+      "en": "The UI scale of your opponent's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6dda22",
+      "en": "Toolbars",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86b4d48",
+      "en": "High",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3373d5",
+      "en": "My Pet Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb240a9c",
+      "en": "Troubleshoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x778644c",
+      "en": "Disable Combat Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b6a20c",
+      "en": "Quest Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10a3fa4",
+      "en": "Accept Fellowship Requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5d5b7",
+      "en": "You will be logged out in [placeholder] seconds...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67609b0",
+      "en": "If checked, quest tracker will be visible",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa643953",
+      "en": "NPC Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc26024",
+      "en": "Add",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b4a30",
+      "en": "The UI scale of the second raid group's vitals.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe087d0c",
+      "en": "Always show bar 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8659cbc",
+      "en": "Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2941",
+      "en": "Quickslot Bar 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91c4a90",
+      "en": "If unchecked, you will automatically decline trade requests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x100ab3c",
+      "en": "Enable persistent area effect visualization",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2942",
+      "en": "Quickslot Bar 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bb6dcc",
+      "en": "Show NPCs on radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f1731c",
+      "en": "Camera Control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2943",
+      "en": "Quickslot Bar 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2944",
+      "en": "Quickslot Bar 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbab1c9c",
+      "en": "Enable Auction Post History",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2945",
+      "en": "Quickslot Bar 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e7df80",
+      "en": "If checked, Debuff icons display in a separate row from Buff icons.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb076820",
+      "en": "When you execute a mounted combat skill you will perform a moveto to the target.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31eb0ec",
+      "en": "Profanity Filter Enabled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa96fc",
+      "en": "Model Detail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x514d382",
+      "en": "Housing:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50f7032",
+      "en": "Misc:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a5144e",
+      "en": "Show main-hand weapon when out of combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5f6999",
+      "en": "Floating Destiny",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ef4edc",
+      "en": "Toolbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7eb5bc",
+      "en": "Enable skill miss chance penalties while moving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b4d8e0",
+      "en": "Displays the numbers on the shortcut UI",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ef5ac3",
+      "en": "Increase the size of all UI elements",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c07d20",
+      "en": "If enabled, bar 3 will appear in the bank of shortcut bars in the middle of the toolbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37483dc",
+      "en": "Toolbar Left Slot 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x475ab0",
+      "en": "When checked, displays a numerical value overlay on all vital bars.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd988cbc",
+      "en": "Stop repeated keys in chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x440bef3",
+      "en": "Floating Barter Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1efaac",
+      "en": "Mouse Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5db8c3",
+      "en": "DX10 Distant Landscape Lighting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49e2cf4",
+      "en": "When checked, players will have their titles appended to their names.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae969d2",
+      "en": "Mounted Combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32abba4",
+      "en": "When checked, experience gains will appear over your character's head.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9948dd",
+      "en": "Medium",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0ad380",
+      "en": "The UI scale of the Allegiance progress tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe750f83",
+      "en": "Chat Bubbles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda45605",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25d4b6c",
+      "en": "Show monsters on radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3d8184",
+      "en": "Enable Auto-Targeting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x613f9c5",
+      "en": "Others' Floating Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4ebba0",
+      "en": "If enabled, bar 4 is always shown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d44720",
+      "en": "If enabled, bar 1 will appear in the bank of shortcut bars in the middle of the toolbar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x961e4c",
+      "en": "Mount Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2cd37c",
+      "en": "Show Map Cursor Coordinates",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab94e2c",
+      "en": "Fellowship: Only Show Effects Cast By You",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdad8e5c",
+      "en": "Show numbers on shortcuts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf248760",
+      "en": "When checked, tells will be routed to the chat window's Instant Message tab.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50c803c",
+      "en": "Show Fellowship Companions on Radar:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7483dc",
+      "en": "Toolbar Left Slot 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ec7bd2",
+      "en": "Panels",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b2f3f4",
+      "en": "When checked, the selected creature or NPC will display a floating name.  This preference is only available when the \\qToggle Floating Names\\q preference is OFF.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfccecdc",
+      "en": "Automatically add deeds to quest tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd152fc",
+      "en": "Fellowship: Only Show Dispellable Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd621ac",
+      "en": "Quickslots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x430a9f2",
+      "en": "Appearances",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdc9454",
+      "en": "Exit Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65c30cc",
+      "en": "Default Advanced",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddd9550",
+      "en": "When enabled, you will execute emotes when nearby players target you with emote inducing skills.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb729be0",
+      "en": "When checked, my groupmates display floating names.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9349c0",
+      "en": "When checked, the character receives Fellowship requests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4763b25",
+      "en": "Selection Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26dadf0",
+      "en": "Toggles the visibility of the event tracker UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b0fbac",
+      "en": "Quest Tracker Party Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3d264c",
+      "en": "Alienware™ LFX",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8013e0",
+      "en": "When checked, icons for items are overlaid with numbers when made into shortcuts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac710dc",
+      "en": "Default Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30a70d4",
+      "en": "Enabling this will show the Quest Guide indicators on the radar that direct you to quest objectives.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2f1894",
+      "en": "See Other Characters' Damage Numbers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc04c4bc",
+      "en": "Revert Audio",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd54a7cc",
+      "en": "Raid Vitals 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e5e3bc",
+      "en": "Raid Vital Class Colour Location:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac24b1c",
+      "en": "Show Location Coordinates On Radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x274496c",
+      "en": "Toolbar Right Slot 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f73500",
+      "en": "If checked, you will see icons for quests that are significantly below your current level in the radar. If checked, \\qTrack Nearby Quests\\q will add these quests to your quest tracker.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa223f03",
+      "en": "Light Coronas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e8edfe",
+      "en": "ON",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59004ac",
+      "en": "Automatically Create IM Sessions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea428cc",
+      "en": "Material Detail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60ff860",
+      "en": "If checked, the map will update to show the location of the mouse cursor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6992164",
+      "en": "When checked, destiny gains will appear over your character's head.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd23b320",
+      "en": "Click the action name to add a new binding.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23c5a2e",
+      "en": "Background",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d868bc",
+      "en": "Default Mouse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8703420",
+      "en": "When checked, auto-targeting is active.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cdb443",
+      "en": "Selection Vital Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x842a36c",
+      "en": "Other Panels",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3046424",
+      "en": "When checked, your floating damage is displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95baba7",
+      "en": "Chat Window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8a441c",
+      "en": "Inventory Bags",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98c9184",
+      "en": "When checked, LOTRO will trigger light changes on Alienware™ PCs/peripherals if Alienware LightFX™ is installed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe573210",
+      "en": "If unchecked, you will automatically decline any tribe offers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d67a7c",
+      "en": "Always show bar 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c14810",
+      "en": "If checked, you will automatically target enemies that attack you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8f1280",
+      "en": "When checked, particle and mesh visual effects used to represent hits in combat will be displayed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e298ec",
+      "en": "Revert Advanced",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x810915c",
+      "en": "Landscape Soldier Vitals",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

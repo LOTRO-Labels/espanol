@@ -1,0 +1,617 @@
+{
+  "id": 620852227,
+  "txt": [
+    {
+      "id": "0xa6eb671",
+      "en": "Gadorgar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee1",
+      "en": "'We must complete our planning today, lest some ploy of the Enemy throws us astray.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee2",
+      "en": "'Lomdognir, is this camp now safe from prying eyes?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee3",
+      "en": "'Do not speak overloud, but yes, we have secured these ruins.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e53215",
+      "en": "Malledhrim Sentinel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee4",
+      "en": "'While some goblins yet lurk about, the guard is sufficient to keep them at bay.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee5",
+      "en": "'Very well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee6",
+      "en": "'As I speak, our assault on the encampment of Gathbúrz is beginning on the slopes above us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac40932",
+      "en": "Romloth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee7",
+      "en": "'These are the outer barracks of Dol Guldur and poorly protected compared to the tower itself.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee8",
+      "en": "'And the assault on the tower itself? When shall it begin?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ee9",
+      "en": "'There will be no such assault, save for a feint to draw the eyes of the tower and keep their gates sealed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e80",
+      "en": "'My command she might disregard as the buzzing of a summer fly, but not her brother's words.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e81",
+      "en": "'When it comes time, he will see to it that she withdraws in good order.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e82",
+      "en": "'And if Handelen should fall to an unlucky arrow? What then?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e83",
+      "en": "'....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e84",
+      "en": "'I imagine that she would strive to set Dol Guldur aflame if she had to place every tree of Lórien about its base as a bonfire to do so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e85",
+      "en": "'But let us not dwell on unfortunate possibilites.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e86",
+      "en": "'Fate has been kind to us thus far, let us not tempt it further.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e87",
+      "en": "'Agorin, you have been in contact with Ivorel recently, have you not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e88",
+      "en": "'Yes. At the moment she and several of her scouts range through the Scuttledells to the north.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e89",
+      "en": "'A few more of her people are south of here, keeping an eye upon the Orcs in Taur Morvith.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2809562",
+      "en": "Bruinir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4fc2e2",
+      "en": "Crisgyl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e90",
+      "en": "'She may take it into her mind to assault Dol Guldur directly....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e91",
+      "en": "'Even if she commanded nothing save her own two hands and a sword between them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db1",
+      "en": "Malledhrim Soldier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e92",
+      "en": "'Is she as mad as stories say, then? I have heard many, and not all of them kind.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db2",
+      "en": "'Very good! I believe your prowess has improved of late, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e93",
+      "en": "'It is said she is of striking, though distant, descent of he who stood in challenge before very gates of our ancient Enemy and fell there alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db3",
+      "en": "Malledhrim Soldier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x968eb2",
+      "en": "Tathoron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e94",
+      "en": "'It would seem then that she takes his example to heart.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e95",
+      "en": "'Our plan calls for a retreat to the safety of Lórien before the main host of the Enemy arrives.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e96",
+      "en": "'How will you restrain our fire-blooded Champion then, Fuirgam?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e97",
+      "en": "'Rodelleth is not mad -- though it is true that her pride could likely support all the boughs of Lórien.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e98",
+      "en": "'Yet calm Handelen stands at her side as tactician.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611e99",
+      "en": "'He shall advise her in the goals of Lórien when her heat blinds her.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ea0",
+      "en": "'Some evil sorcery is clearly at work within Minas Gil, but I do not yet know enough of its nature.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ea1",
+      "en": "'We must find some way to put an end to it soon, or it will likely be turned against us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ea2",
+      "en": "'I am counting on you, Agorin. You are the wisest among us when it comes to the sorceries of the Enemy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ea3",
+      "en": "'I have some hope that I will soon unravel its mysteries.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ea4",
+      "en": "'I will let you know when I have solved this riddle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb0",
+      "en": "'Does she have anything to report?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb1",
+      "en": "'Little, I am afraid. The Scuttledells are even more difficult to navigate than she feared....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb2",
+      "en": "'Though the Orcs likewise seem loath to venture there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb3",
+      "en": "'The spiders that infest the area do not care who their prey might be.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb4",
+      "en": "'And Taur Morvith?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb5",
+      "en": "'The Orcs there are disorganized and bereft of leadership from Dol Guldur.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb254912",
+      "en": "Bariel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb6",
+      "en": "'They seem intent on defending their camps, but no more for the time being.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb7",
+      "en": "'We have no report from the scouts that have crept south of the river yet.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb8",
+      "en": "'What of that strange tower on the slope above us? Our soldiers have been unable to enter it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611eb9",
+      "en": "'You have been studying that since we arrived, have you not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4ced82",
+      "en": "Lassil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e80",
+      "en": "'I am not of militant upbringing, but this seems folly to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e81",
+      "en": "'Why do we expose our forces in this way when we could hold the advantage of the river between us?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e82",
+      "en": "'Normally I would agree with you, Agorin...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e83",
+      "en": "'But the Lady has espied a great army gathering in the East. Even now it marches through Mirkwood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e84",
+      "en": "'Its numbers dwarf the garrison of Dol Guldur, and there is little doubt that it shall march on Lórien.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e85",
+      "en": "'Celeborn holds that with the destruction of Gathbúrz, we shall buy precious time and confound the Enemy's plans to assault us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e86",
+      "en": "'The loss of supplies, barracks, and the engines of war they had prepared will weaken them when they attempt the Anduin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83a82a2",
+      "en": "Lovellos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e87",
+      "en": "'Yet our losses here shall weaken us, while the Enemy's numbers only grow!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e88",
+      "en": "'It is a gamble true enough, and there may be more to it than any here know....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e89",
+      "en": "'What is this, Fuirgam? What do you mean by that? You have said nothing of this before now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27e768c",
+      "en": "Crafting Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee1",
+      "en": "'So Fuirgam, who did you decide upon to spearhead the assault upon Gathbúrz?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee2",
+      "en": "'You spoke of some difficulty in the choice when last we met.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee3",
+      "en": "'The assault proceeds beneath the banner of Rodelleth, Champion of the Malledhrim.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee4",
+      "en": "'Rodelleth? Her reputation precedes her, but she seems an indelicate choice.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee5",
+      "en": "'These are indelicate times, Agorin. We have a need for thunder and fury upon that hill.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e90",
+      "en": "'Our main goal is to destroy the barracks at Gathbúrz.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee6",
+      "en": "'Capacities in which our dear Rodelleth is eminently qualified.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e91",
+      "en": "'But... but why? Why risk so many brave Elves for just this? All those who died at the landing....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee7",
+      "en": "'Besides, these may well be our last great battles in Middle-earth....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e92",
+      "en": "'They will not have been in vain, Agorin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee8",
+      "en": "'It would hardly seem fair to deny her this opportunity.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e93",
+      "en": "'Forgive me, in the rush you were not made privy to Lord Celeborn's counsel.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2611ee9",
+      "en": "'Putting jests to the side, Fuirgam, Rodelleth may be a brilliant warrior, but she will bear the weight of no leash.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e94",
+      "en": "'Lomdognir, if you would?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e95",
+      "en": "'Of course.... My lady Agorin, I shall relate his mind to you, as I know it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e96",
+      "en": "'Lord Celeborn has bidden us cross the Anduin in order to lay siege to Dol Guldur and forestall the Enemy's assault.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e97",
+      "en": "'So I was made to understand, but you now say otherwise and confuse my purpose!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e98",
+      "en": "'Our actual goal is the destruction of the barracks at Gathbúrz, where a great many Orcs might be housed and supplied.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612e99",
+      "en": "'We have neither the force nor the equipment to reduce the tower itself, even with just the garrison defending it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ea0",
+      "en": "'What that is, I do not know.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ea1",
+      "en": "'I think I can guess that -- Our visitors of late, who have had council with the Lord and Lady....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ea2",
+      "en": "'Your perceptions are keen, Agorin, but I think we now discuss matters which are best left unexplored.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ea3",
+      "en": "'Agreed. Had Lord Celeborn wished us to know his mind in these matters, he would have spoken clearly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612ea4",
+      "en": "'Then let us speak of it no more. Now, back to mundane matters....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb0",
+      "en": "'I have known Lord Celeborn for many years, and there was hesitation in his eyes as he gave me these orders.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb1",
+      "en": "'Not the hesitation of fear or uncertainty, but that of words which could not be spoken.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb2",
+      "en": "'What do you mean by this? Speak clearly, if you may.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb3",
+      "en": "'I believe there is another goal to our assault, known to the Lord and Lady alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb4",
+      "en": "'A matter of such import that they could not tell us of it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb5",
+      "en": "'What matter could possibly possess more importance than the defence of Lórien?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb6",
+      "en": "'Indeed Fuirgam, what secret purpose do we fight for if not our home?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb7",
+      "en": "'I cannot be sure, but more than once Lord Celeborn spoke of drawing the eyes of the tower with this assault.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb8",
+      "en": "'I think he meant the Nazgûl within. At least two have been spotted, upon dread flying beasts.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2612eb9",
+      "en": "'But such a feint suggests that there is something that one does not wish one's opponent to see.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8801062",
+      "en": "Ivoron",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

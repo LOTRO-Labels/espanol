@@ -1,0 +1,2087 @@
+{
+  "id": 620757021,
+  "txt": [
+    {
+      "id": "0x22d1127",
+      "en": "Recipe: Tailor Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32debf8",
+      "en": "Recipe: Weaponsmith Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1128",
+      "en": "Recipe: Tailor Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1129",
+      "en": "Recipe: Tailor Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b516c4",
+      "en": "Repair",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x216c31",
+      "en": "Recipe: Cooking Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x696c695",
+      "en": "Tomes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x216c32",
+      "en": "Recipe: Cooking Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc782d",
+      "en": "Quest Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x216c33",
+      "en": "Recipe: Cooking Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x216c34",
+      "en": "Recipe: Cooking Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9459804",
+      "en": "Items to Sell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x738531c",
+      "en": "Scroll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x216c35",
+      "en": "Recipe: Cooking Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7301d5",
+      "en": "Dye",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db1",
+      "en": "Dressing Room",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27950bd",
+      "en": "You purchased: [placeholder] for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db2",
+      "en": "Try On",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdebf861",
+      "en": "Recipe: Weaponsmith Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdebf862",
+      "en": "Recipe: Weaponsmith Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x937e7c",
+      "en": "Money:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5342aa4",
+      "en": "Sort",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xddc1184",
+      "en": "Show Locked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdebf863",
+      "en": "Recipe: Weaponsmith Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdebf864",
+      "en": "Recipe: Weaponsmith Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdebf865",
+      "en": "Recipe: Weaponsmith Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63f6c84",
+      "en": "You can not use the vendor right now.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf2",
+      "en": "Recipe: Forestry Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf3",
+      "en": "Recipe: Forestry Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae1d089",
+      "en": "Jewellery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf4",
+      "en": "Recipe: Forestry Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87939ac",
+      "en": "Sell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf703de4",
+      "en": "Light Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf5",
+      "en": "Recipe: Forestry Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf6",
+      "en": "Recipe: Forestry Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1f81b3",
+      "en": "Outfit: Shoulders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64c8549",
+      "en": "Legendary Item Upgrade Legacy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x343ca75",
+      "en": "Vendor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf7",
+      "en": "Recipe: Forestry Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf8",
+      "en": "Recipe: Forestry Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedbcf9",
+      "en": "Recipe: Forestry Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa69a165",
+      "en": "You can't sell more than you have.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178c24c",
+      "en": "Clear Items for Trade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd172",
+      "en": "Recipe: Metalworking Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x425ccec",
+      "en": "Durability",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd173",
+      "en": "Recipe: Metalworking Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd174",
+      "en": "Recipe: Metalworking Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd175",
+      "en": "Recipe: Metalworking Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd176",
+      "en": "Recipe: Metalworking Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd177",
+      "en": "Recipe: Metalworking Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc731fdc",
+      "en": "Weapon Oils",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd178",
+      "en": "Recipe: Metalworking Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64dd179",
+      "en": "Recipe: Metalworking Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad1df43",
+      "en": "Armour: Shoulders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b2",
+      "en": "Recipe: Farming Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f0a0be",
+      "en": "Hold SHIFT to purchase full stacks, ALT to purchase by quantity, or TAB to fill stacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3c8a03",
+      "en": "Vendor System reported general error ([placeholder]).\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55f7d54",
+      "en": "Implements",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54bcb81",
+      "en": "Recipe: Prospecting Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54bcb82",
+      "en": "Recipe: Prospecting Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7307410",
+      "en": "Legendary Item XP",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b46734",
+      "en": "Sell All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x755a3b5",
+      "en": "Maces",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54bcb83",
+      "en": "Recipe: Prospecting Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54bcb84",
+      "en": "Recipe: Prospecting Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31aa499",
+      "en": "You do not have enough money to complete this transaction.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d2a2",
+      "en": "Hunter Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54bcb85",
+      "en": "Recipe: Prospecting Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee31564",
+      "en": "XXXXXXXXXXX",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7307894",
+      "en": "Food",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x433fa92",
+      "en": "Daggers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x779426e",
+      "en": "Weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x747584c",
+      "en": "Social Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b8a73e",
+      "en": "Decoration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3202e4",
+      "en": "View this item as it would appear on your character.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe61ffb5",
+      "en": "Craft: Resource",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x731a253",
+      "en": "Misc.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x829a291",
+      "en": "Bridle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd66443",
+      "en": "Outfit: Lowerbody",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x459e6c2",
+      "en": "Lore-master Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc730e0c",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45472e8",
+      "en": "Lock-boxes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40d3d02",
+      "en": "Home: Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b74c47",
+      "en": "Home: Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa62fb0c",
+      "en": "Home: Special",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d5ff9",
+      "en": "Special",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d11261",
+      "en": "Recipe: Tailor Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47a174c",
+      "en": "Home: Skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d11262",
+      "en": "Recipe: Tailor Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x647f814",
+      "en": "Home: Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d11263",
+      "en": "Recipe: Tailor Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dd1721",
+      "en": "Recipe: Metalworking Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d11264",
+      "en": "Recipe: Tailor Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dd1722",
+      "en": "Recipe: Metalworking Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53314a8",
+      "en": "Your cash:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d11265",
+      "en": "Recipe: Tailor Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c1dfd4",
+      "en": "Bait",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd5a4d4",
+      "en": "Outfit: Head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dd1723",
+      "en": "Recipe: Metalworking Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dd1724",
+      "en": "Recipe: Metalworking Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dd1725",
+      "en": "Recipe: Metalworking Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc233382",
+      "en": "Other",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d017d8",
+      "en": "Barter: Skirmish",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacd013c",
+      "en": "Clear For Sale Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5194a6c",
+      "en": "Your Money:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ab72a4",
+      "en": "Fill Stacks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x717b14d",
+      "en": "Medium Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c2",
+      "en": "Recipe: Jeweller Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c3",
+      "en": "Recipe: Jeweller Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6967c2b",
+      "en": "Perks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x647d8bc",
+      "en": "Home: Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7370a5b",
+      "en": "Task Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c4",
+      "en": "Recipe: Jeweller Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c5",
+      "en": "Recipe: Jeweller Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ea6342",
+      "en": "Recipe: Jeweller Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c6",
+      "en": "Recipe: Jeweller Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a3a89",
+      "en": "You do not have enough silver to buy this item.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c7",
+      "en": "Recipe: Jeweller Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc1b502",
+      "en": "Recipe: Farming Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c8",
+      "en": "Recipe: Jeweller Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90af31e",
+      "en": "Healing Potion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9acdf63",
+      "en": "This vendor will not buy magic items.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc1b503",
+      "en": "Recipe: Farming Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea634c9",
+      "en": "Recipe: Jeweller Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc1b504",
+      "en": "Recipe: Farming Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc1b505",
+      "en": "Recipe: Farming Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c64df5",
+      "en": "Poles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x740f9c4",
+      "en": "Halberds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcc7b13",
+      "en": "Home: Paints & Surfaces",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5a0e55",
+      "en": "Name (A-Z)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50c10de",
+      "en": "Champion Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f5c6c4",
+      "en": "Buy It",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x988eff4",
+      "en": "Items to Acquire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d75549",
+      "en": "You don't have enough room in your inventory!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82750d4",
+      "en": "Craft: Component",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47c4402",
+      "en": "Rune-keeper Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08a5",
+      "en": "Device",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7318923",
+      "en": "Armour: Legs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5a9e03",
+      "en": "Outfit: Hands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71ba1c9",
+      "en": "Trophy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31a4824",
+      "en": "Mounts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0e404",
+      "en": "Items for Trade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52135ce",
+      "en": "Add/Remove",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7541792",
+      "en": "Clubs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c11202",
+      "en": "Mariner Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b1ef21",
+      "en": "Recipe: Woodworking Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b1ef22",
+      "en": "Recipe: Woodworking Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ec9942",
+      "en": "This item is not valuable enough for the vendor to purchase.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b1ef23",
+      "en": "Recipe: Woodworking Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e130d7",
+      "en": "Beorning Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b1ef24",
+      "en": "Recipe: Woodworking Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b1ef25",
+      "en": "Recipe: Woodworking Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca93524",
+      "en": "Pennant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6fe5d65",
+      "en": "High Price",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x270216b",
+      "en": "Recipe: Cooking Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ce85f2",
+      "en": "Recipe: Scholar Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdec635",
+      "en": "Home: Structural",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf82",
+      "en": "Recipe: Weaponsmith Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70d51ee",
+      "en": "Thrown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf83",
+      "en": "Recipe: Weaponsmith Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x730389b",
+      "en": "Book",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf84",
+      "en": "Recipe: Weaponsmith Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf85",
+      "en": "Recipe: Weaponsmith Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf86",
+      "en": "Recipe: Weaponsmith Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6bac7b",
+      "en": "You purchased: [placeholder] for [placeholder] to fill #1:[placeholder] #1:{stack[1]|stacks}.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf87",
+      "en": "Recipe: Weaponsmith Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf88",
+      "en": "Recipe: Weaponsmith Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf02a034",
+      "en": "Filter:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabaa047",
+      "en": "Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2debf89",
+      "en": "Recipe: Weaponsmith Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4742492",
+      "en": "Hammers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x929ceb5",
+      "en": "Remove",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x303c0d4",
+      "en": "Armour: Upperbody",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x169b1eb",
+      "en": "Recipe: Woodworking Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb2",
+      "en": "Recipe: Prospecting Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9dcfff4",
+      "en": "Socketed Instrument",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c9adc5",
+      "en": "Shield-spikes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb3",
+      "en": "Recipe: Prospecting Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb4",
+      "en": "Recipe: Prospecting Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe03e604",
+      "en": "Inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d4696e",
+      "en": "Potion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bedbc9",
+      "en": "Recipe: Forestry Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb5",
+      "en": "Recipe: Prospecting Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc731be9",
+      "en": "Key",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x412f494",
+      "en": "Home: Lighting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb6",
+      "en": "Recipe: Prospecting Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e00504",
+      "en": "Too many transactions with vendor in too short of time. Please slow down a bit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x887e3f9",
+      "en": "Buy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb7",
+      "en": "Recipe: Prospecting Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53329f2",
+      "en": "Spears",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb8",
+      "en": "Recipe: Prospecting Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x100cf8e",
+      "en": "Guardian Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa222444",
+      "en": "Type:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc54bcb9",
+      "en": "Recipe: Prospecting Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d2d99c",
+      "en": "Minstrel Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x685d795",
+      "en": "Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7724d0c",
+      "en": "Skill Scrolls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef26724",
+      "en": "Sell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27541a5",
+      "en": "Axes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4938bc",
+      "en": "Craft: Optional Ingredient",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a82a2c",
+      "en": "Travel & Maps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafd7a34",
+      "en": "Items to Purchase",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce4375e",
+      "en": "Dressing Room",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcac5d34",
+      "en": "Instrument",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c54bc7",
+      "en": "Recipe: Prospecting Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a5df2",
+      "en": "Barter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9f82ee",
+      "en": "Barter: Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x650ef84",
+      "en": "Equipped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8a9e74",
+      "en": "Craft: Ingredient",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc67d30e",
+      "en": "Try On",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef2",
+      "en": "Recipe: Woodworking Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4dcd57",
+      "en": "Crossbows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef3",
+      "en": "Recipe: Woodworking Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c38c35",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef4",
+      "en": "Recipe: Woodworking Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x638f094",
+      "en": "Buy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef5",
+      "en": "Recipe: Woodworking Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef6",
+      "en": "Recipe: Woodworking Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef7",
+      "en": "Recipe: Woodworking Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x730255b",
+      "en": "Armour: Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef8",
+      "en": "Recipe: Woodworking Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69b1ef9",
+      "en": "Recipe: Woodworking Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd58464",
+      "en": "Outfit: Feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6179c69",
+      "en": "Clear Items to Acquire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fe8009",
+      "en": "Legendary Item Add Legacy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4275428",
+      "en": "Weapon Auras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bef0f3",
+      "en": "Battle-gauntlets",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5ed213",
+      "en": "Outfit: Class",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd6fd7c",
+      "en": "Sell It",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f42",
+      "en": "Recipe: Scholar Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f43",
+      "en": "Recipe: Scholar Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f44",
+      "en": "Recipe: Scholar Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2755fc2",
+      "en": "Rune-stones",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f45",
+      "en": "Recipe: Scholar Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c2",
+      "en": "Recipe: Cooking Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f46",
+      "en": "Recipe: Scholar Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c3",
+      "en": "Recipe: Cooking Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f47",
+      "en": "Recipe: Scholar Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c4",
+      "en": "Recipe: Cooking Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f48",
+      "en": "Recipe: Scholar Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c5",
+      "en": "Recipe: Cooking Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce85f49",
+      "en": "Recipe: Scholar Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c6",
+      "en": "Recipe: Cooking Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c7",
+      "en": "Recipe: Cooking Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c8",
+      "en": "Recipe: Cooking Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70216c9",
+      "en": "Recipe: Cooking Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd487793",
+      "en": "Relic Removal Scroll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4b4f79",
+      "en": "[placeholder] & Below",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7f9b95",
+      "en": "Treasure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaaec98c",
+      "en": "Scroll of Removal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a542dd",
+      "en": "You sold: [placeholder] for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x372ae83",
+      "en": "Relic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa542e23",
+      "en": "You sold [placeholder] items for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbaca367",
+      "en": "Carry-all",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x533a4f4",
+      "en": "Swords",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x964dd1b",
+      "en": "Recipe: Metalworking Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30468c3",
+      "en": "Armour: Hands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1acc079",
+      "en": "Clear Purchase Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd5a584",
+      "en": "Held",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dcca14",
+      "en": "Buy Stack",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67b2494",
+      "en": "Filter:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fb2579",
+      "en": "Legendary Item Replace Legacy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe85f481",
+      "en": "Recipe: Scholar Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe85f482",
+      "en": "Recipe: Scholar Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe85f483",
+      "en": "Recipe: Scholar Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47ec0c",
+      "en": "Special",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe85f484",
+      "en": "Recipe: Scholar Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa634ca1",
+      "en": "Recipe: Jeweller Tier 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x722d112",
+      "en": "Recipe: Tailor Tier 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe85f485",
+      "en": "Recipe: Scholar Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73c3d14",
+      "en": "Armour: Shield",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa634ca2",
+      "en": "Recipe: Jeweller Tier 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa634ca3",
+      "en": "Recipe: Jeweller Tier 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa634ca4",
+      "en": "Recipe: Jeweller Tier 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa634ca5",
+      "en": "Recipe: Jeweller Tier 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa0aa13",
+      "en": "Home: Collectibles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4140ce",
+      "en": "Champion Horns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16596a4",
+      "en": "Colour:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7306904",
+      "en": "Armour: Feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6c2ce5",
+      "en": "Name (Z-A)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e0c94",
+      "en": "Pipeweed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e32945",
+      "en": "Low Price",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7767b32",
+      "en": "KinshipCharter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x236c5d7",
+      "en": "Remaining Cash:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c1a948",
+      "en": "Fish",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a76bd2",
+      "en": "This item is too valuable for the vendor to purchase.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x234b145",
+      "en": "Home: Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53e59fc",
+      "en": "Legendary Item Increase Max Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737189c",
+      "en": "Tool",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6039ba4",
+      "en": "Buyback",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49c5d47",
+      "en": "Healing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x302c012",
+      "en": "Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ff2c84",
+      "en": "Purchase Amount:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ea0d4c",
+      "en": "Repair Cost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2754227",
+      "en": "Bows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d1614",
+      "en": "Outfit: Upperbody",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5727ee",
+      "en": "Are you sure you want to sell these [placeholder] items?  You will not be able to buy back all of them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73049b4",
+      "en": "Armour: Head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26c6a94",
+      "en": "Sort:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5eac0cc",
+      "en": "Price:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ecc314",
+      "en": "For Sale Amount:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b9f0b9",
+      "en": "Home: Trophy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6e7b44",
+      "en": "XXXXXXXXXXXX",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f5a944",
+      "en": "Accept",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31a0415",
+      "en": "Home: Ambience",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82064c2",
+      "en": "Brawler Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffb8efd",
+      "en": "Ettenmoors Trophies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67b3250",
+      "en": "TribeCharter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c202de",
+      "en": "Warden Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8606482",
+      "en": "Burglar Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc73079d",
+      "en": "Essence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd5c83b",
+      "en": "Outfit: Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ade007",
+      "en": "Clothing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x366df44",
+      "en": "Legendary Item Legendary Points Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6e3c1c",
+      "en": "Festival Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73fe8dc",
+      "en": "Value:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7371a40",
+      "en": "Trap",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe422e90",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c6a9c3",
+      "en": "Crafting Trophies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b52",
+      "en": "Recipe: Farming Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b53",
+      "en": "Recipe: Farming Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x414c093",
+      "en": "Home: Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f21fe",
+      "en": "Captain Class Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b54",
+      "en": "Recipe: Farming Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b55",
+      "en": "Recipe: Farming Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7319a0",
+      "en": "Map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b56",
+      "en": "Recipe: Farming Tier 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b57",
+      "en": "Recipe: Farming Tier 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b58",
+      "en": "Recipe: Farming Tier 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dc1b59",
+      "en": "Recipe: Farming Tier 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x249ff2",
+      "en": "You did not offer enough barter to complete the transaction.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9cd425",
+      "en": "Deconstructables",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f13c84",
+      "en": "Buy Quantity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29e2085",
+      "en": "You can't sell an item more than once.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ced7ae",
+      "en": "Javelins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe727a5c",
+      "en": "Your Money:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6eb9bcc",
+      "en": "Legendary Item Increase Item Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc760bb4",
+      "en": "Remove All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x533e5b6",
+      "en": "Staves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12106c8",
+      "en": "Junk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6c78c9",
+      "en": "Heavy Armour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1122",
+      "en": "Recipe: Tailor Tier 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1123",
+      "en": "Recipe: Tailor Tier 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a76a40",
+      "en": "[placeholder] [placeholder] C",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1124",
+      "en": "Recipe: Tailor Tier 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1125",
+      "en": "Recipe: Tailor Tier 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1126",
+      "en": "Recipe: Tailor Tier 6",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

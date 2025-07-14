@@ -1,0 +1,155 @@
+{
+  "id": 620757482,
+  "txt": [
+    {
+      "id": "0x1aa79b4",
+      "en": "Your companion has learned a new trick! [placeholder] The command is '/cpet [placeholder]'.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f5e609",
+      "en": "Ally of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3c343e",
+      "en": "Your companion is not able to use the [placeholder] trick... yet...\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d47f64",
+      "en": "Your Pet's new name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f24717",
+      "en": "Your companion is performing [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4245945",
+      "en": "You order your companion to become aggressive.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6205ff6",
+      "en": "Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15a3d73",
+      "en": "Pet Status:  Stance \\[[placeholder]\\] Assist \\[[placeholder]\\]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf166b4",
+      "en": "Your companion is preparing to perform [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15ef1d5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36205fe",
+      "en": "On",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf05c233",
+      "en": "Your companion successfully performed [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc47736",
+      "en": "You order your companion to stop assisting your attacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3047605",
+      "en": "You release your companion.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe725f87",
+      "en": "You order your companion to follow.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccc6e55",
+      "en": "You order your companion to remain passive.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0c477e",
+      "en": "You order your companion to assist your attacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc646aa4",
+      "en": "Guard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x980b8f5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9c4754",
+      "en": "Your companion failed to perform [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee4fe44",
+      "en": "You order your companion to guard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0c5005",
+      "en": "Aggressive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc58ccd5",
+      "en": "Passive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2fcb7b",
+      "en": "You order your companion to attack.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce90ee9",
+      "en": "You order your companion to stay.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

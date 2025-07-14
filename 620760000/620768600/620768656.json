@@ -1,0 +1,713 @@
+{
+  "id": 620768656,
+  "txt": [
+    {
+      "id": "0xacabd4",
+      "en": "Properties",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71efce",
+      "en": "Deaf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86b4745",
+      "en": "Override ...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0a2a74",
+      "en": "Target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc37bb4",
+      "en": "Instance ID:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x483f1b4",
+      "en": "Auctions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd742114",
+      "en": "Location:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b0b8d5",
+      "en": "Admin Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4e1fc4",
+      "en": "Request Account Refresh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9409e1e",
+      "en": "Snooped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19b39e4",
+      "en": "Shared Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3830814",
+      "en": "Cloak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24526e4",
+      "en": "Diagnostic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4b70c4",
+      "en": "Logs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39859c4",
+      "en": "Start LogScript",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d79ae3",
+      "en": "Grant 10000 Points to Target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0a42a4",
+      "en": "Player:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e80284",
+      "en": "Titles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2423cd5",
+      "en": "Player Test Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45143f4",
+      "en": "Refresh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bb6856",
+      "en": "Ungagged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea8d723",
+      "en": "POST:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3fe64",
+      "en": "Target:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71efcc6",
+      "en": "Undeaf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9aef2c",
+      "en": "Google",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x659c024",
+      "en": "Snoop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeed81e4",
+      "en": "Combat Dump",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7ebe15",
+      "en": "Admin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa997944",
+      "en": "Get Target IID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x309ef44",
+      "en": "Force Active",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc81a044",
+      "en": "House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbb42e4",
+      "en": "Combat Compare",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf513d44",
+      "en": "Quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb671bc",
+      "en": "Type:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb693e54",
+      "en": "Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66b2364",
+      "en": "Inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf7f3d2",
+      "en": "WPT Editor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1798db1",
+      "en": "Query",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63600a4",
+      "en": "Set True",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a95c03",
+      "en": "Generate Exclusion Tokens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x511316",
+      "en": "Mortal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c60fce",
+      "en": "Halted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c12864",
+      "en": "Locking",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e07f26",
+      "en": "Normal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd57b864",
+      "en": "Script Key:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d6a204",
+      "en": "NeverSayDie",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaaafcac",
+      "en": "Mortal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x409e156",
+      "en": "Unsnooped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f4a04",
+      "en": "Target:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60430c",
+      "en": "Immortal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6651bd4",
+      "en": "House Details",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa50e64",
+      "en": "Halt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b4af4",
+      "en": "Wardrobe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd14c3ae",
+      "en": "Imprisoned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3cfb64",
+      "en": "Neighbourhood Details",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77f2594",
+      "en": "Remove element from list",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b6ff3c",
+      "en": "Name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fd1a65",
+      "en": "Node Type:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ee8da4",
+      "en": "Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd05113e",
+      "en": "Immortal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a928a3",
+      "en": "Generate Inclusion Tokens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e0fb38",
+      "en": "Search:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b996a4",
+      "en": "Open LOTRO Store",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b4e29",
+      "en": "[placeholder] \\[[placeholder]\\]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbaaca24",
+      "en": "Houses",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2075f84",
+      "en": "Account",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19f1014",
+      "en": "Set False",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6e07fe",
+      "en": "AdminVis",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32eb136",
+      "en": "Uncloaked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1aba679",
+      "en": "[placeholder] \\[[placeholder]\\]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e84e34",
+      "en": "Zone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x514f9f3",
+      "en": "GET:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa6c234",
+      "en": "Housing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf32eb1e",
+      "en": "Cloaked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b54c74",
+      "en": "Visit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fc129",
+      "en": "[placeholder] = [placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x941de94",
+      "en": "MTX",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7505d64",
+      "en": "Guild",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dd9b93",
+      "en": "Add",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec50ab4",
+      "en": "Deaf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4a0933",
+      "en": "WC:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbee854",
+      "en": "Commands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b2bc54",
+      "en": "The LOTRO Store is currently disabled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbffae84",
+      "en": "AdminVis",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb1ea49",
+      "en": "[placeholder] = [placeholder] \\[[placeholder]\\]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4bf2b4",
+      "en": "Stop LogScript",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d60794",
+      "en": "Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x238f143",
+      "en": "Add",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7df3f84",
+      "en": "States",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe170c44",
+      "en": "UI Test",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x864b6e4",
+      "en": "Gag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x959fe24",
+      "en": "Mail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc564804",
+      "en": "Reload",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a30fb4",
+      "en": "Neighbourhoods",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d8f854",
+      "en": "World Events",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe984ccc",
+      "en": "ID:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3dfff5",
+      "en": "LOTRO Store",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf959f5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14c3a16",
+      "en": "Liberated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96c466c",
+      "en": "Account Type: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93b9f25",
+      "en": "Script Name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a9dae",
+      "en": "Generate Current URL",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe393904",
+      "en": "Query",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3f34c4",
+      "en": "TeleChar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x825d244",
+      "en": "Event:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ac1f04",
+      "en": "Teleport",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29a3db4",
+      "en": "Imprison",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90405f4",
+      "en": "Accomplishments",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb03434",
+      "en": "Clear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7848a34",
+      "en": "Escrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca2f754",
+      "en": "TeleTo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b043d4",
+      "en": "Rip Cords",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97bb68e",
+      "en": "Gagged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc60fc86",
+      "en": "Unhalted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bfd9f4",
+      "en": "Template",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa349114",
+      "en": "Remote Script",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30ff004",
+      "en": "Add element to list",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x469e514",
+      "en": "Bank",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

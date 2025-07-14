@@ -1,0 +1,527 @@
+{
+  "id": 620941910,
+  "txt": [
+    {
+      "id": "0x6a50293",
+      "en": "Talk to Legolas and learn about Approaching Enemies",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe1",
+      "en": "'I have fought in many wars, Aragorn. I know what is to be done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "Listen to Legolas and his companions discuss the effectiveness of dealing with enemies at range",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe2",
+      "en": "'You are saying they will pay me no heed? Then I will make them suffer for their oversight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe3",
+      "en": "'Ah, of course. My axe can reach only so many.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe4",
+      "en": "'Every one of those marching foes will scale our walls?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Talk to the Engineer and learn about the Engineer Role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe5",
+      "en": "'We should lessen their numbers if we can!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe6",
+      "en": "'But I know little about siege equipment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d140",
+      "en": "The armies of Saruman approach the Hornburg, and Aragorn wishes to help his companions prepare for the epic battle soon to be joined.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d1fe7",
+      "en": "'Rewards? The thrill of battle is all the reward I will need!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'I would count mere survival of the battle a success, given the foes arrayed before us, but <rgb=#FFFF00><b>the truest victory is one in which we overcome all the challenges</b></rgb> the battle brings.\\n\\n'As a battle ebbs and flows, we may be presented with <rgb=#FFFF00><b>optional side objectives</b></rgb>.\\n\\n'These are <rgb=#FFFF00><b>not necessary for victory, but completing them successfully will add to the Merit we earn</b></rgb> in the battle: the measure of our victory.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Aragorn is outside the Deeping Wall, surveying the terrain before the Hornburg.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'It is very complicated, but I believe I understand what Aragorn has said to us. We will do well, [placeholder], I am certain of it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'Saruman's armies will soon be here, [placeholder], but I fear that my companions do not know what to expect. <rgb=#FFFF00><b>An Epic Battle is not like the engagements we have faced to this point</b></rgb>, and I want to ensure that our friends are ready.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d12",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'Selecting the Commander will highlight all of the soldiers under his command.\\n\\n'During battle, by <rgb=#FFFF00><b>speaking with someone 'Awaiting Orders,' like a Commander,</b></rgb> you can <rgb=#FFFF00><b>change the tactics of a group of soldiers</b></rgb>. \\n\\n'Some options are available at the outset, such as <rgb=#FFFF00><b>healing the soldiers</b></rgb> over time and <rgb=#FFFF00><b>increasing their damage output</b></rgb>.\\n\\n'Other options become available  <rgb=#FFFF00><b>by spending points in the Officer Battle Role</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Talk to Aragorn and learn about Epic Battles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5027",
+      "en": "Listen to Aragorn and his companions discuss the coming battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd476001",
+      "en": "'I can tell you about it, if you like!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'We have fought large numbers of enemies before, but never so many foes as this! There will <rgb=#FFFF00><b>simply be too many enemies</b></rgb> for one hero to dispatch alone.\\n\\n'We must <rgb=#FFFF00><b>use other methods</b></rgb> against them if we are to survive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd476002",
+      "en": "'[placeholder], come with me to practice building and using siege equipment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd476003",
+      "en": "'You can build such devices by interacting with their transparent outlines.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd476004",
+      "en": "'Every time the progress circle fills up, the device moves closer to completion.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd476005",
+      "en": "'Once a device is built, you can interact with it to aim it, load it, and fire it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd476006",
+      "en": "'Try it now, if you like!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'If you want to <rgb=#FFFF00><b>excel at building, upgrading, and firing siege equipment</b></rgb>, you should focus on the <rgb=#FFFF00><b>Engineer Battle Role</b></rgb>.\\n\\n'Engineers can <rgb=#FFFF00><b>build siege equipment and other devices more quickly</b></rgb>. They also have more options for <rgb=#FFFF00><b>upgrading and repairing</b></rgb> such devices, and can <rgb=#FFFF00><b>place traps</b></rgb> to hinder the enemy.\\n\\n'Engineers can also <rgb=#FFFF00><b>disable enemy traps</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa1",
+      "en": "Epic Battles: Basic Training",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to the Engineer and learn about Siege Equipment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Aragorn and learn about Battle Roles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Aragorn and learn about Merit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'If you want to <rgb=#FFFF00><b>excel at issuing orders to Commanders</b></rgb> and <rgb=#FFFF00><b>provide useful buffs to your allies</b></rgb>, you should focus on the <rgb=#FFFF00><b>Officer Battle Role</b></rgb>.\\n\\n'Officers can <rgb=#FFFF00><b>issue more effective orders to Commanders</b></rgb>. They also have more commands at their disposal, and can make a group of soldiers <rgb=#FFFF00><b>focus on particular targets</b></rgb> or <rgb=#FFFF00><b>change their weapons</b></rgb>.\\n\\nOfficers can command soldiers to <rgb=#FFFF00><b>shelter from incoming catapult shells or arrows</b></rgb>.\\n\\n'Additionally, Officers can <rgb=#FFFF00><b>plant banners that aid nearby Engineers and Vanguards</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'If you want to <rgb=#FFFF00><b>stand toe-to-toe with enemy forces</b></rgb>, you should focus on the <rgb=#FFFF00><b>Vanguard Battle Role</b></rgb>.\\n\\n'Vanguards <rgb=#FFFF00><b>unlock powerful attacks by earning Killstreaks</b></rgb>, defeating many enemies in succession. They also <rgb=#FFFF00><b>receive benefits by dealing and receiving damage</b></rgb>, and can also <rgb=#FFFF00><b>run faster</b></rgb> than other heroes.\\n\\n'A Vanguard is happiest when <rgb=#FFFF00><b>engaging in close-quarters combat</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'<rgb=#FFFF00><b>Enemies will march in formations</b></rgb> toward us. When a formation reaches our position, enemies will engage in close combat. We should <rgb=#FFFF00><b>use siege equipment to lessen their numbers first</b></rgb>, before that happens!\\n\\n'<rgb=#FFFF00><b>Anyone can build and use basic siege equipment</b></rgb>.\\n\\n'Other options become available <rgb=#FFFF00><b>by spending points in the Engineer Battle Role</b></rgb>.\\n\\n'If you want to <rgb=#FFFF00><b>excel at building, upgrading, and firing siege equipment</b></rgb>, you should focus on the <rgb=#FFFF00><b>Engineer Battle Role</b></rgb>.\\n\\n'Engineers can <rgb=#FFFF00><b>build siege equipment and other devices more quickly</b></rgb>. They also have more options for <rgb=#FFFF00><b>upgrading and repairing</b></rgb> such devices, and can <rgb=#FFFF00><b>place traps</b></rgb> to hinder the enemy.\\n\\n'Engineers can also <rgb=#FFFF00><b>disable enemy traps</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a6",
+      "en": "'Selecting the Commander will highlight all of the soldiers under his command.\\n\\n'During battle, by <rgb=#FFFF00><b>speaking with someone 'Awaiting Orders,' like a Commander,</b></rgb> you can <rgb=#FFFF00><b>change the tactics of a group of soldiers</b></rgb>. \\n\\n'Some options are available at the outset, such as <rgb=#FFFF00><b>healing the soldiers</b></rgb> over time and <rgb=#FFFF00><b>increasing their damage output</b></rgb>.\\n\\n'Other options become available  <rgb=#FFFF00><b>by spending points in the Officer Battle Role</b></rgb>.\\n\\n'If you want to <rgb=#FFFF00><b>excel at issuing orders to Commanders</b></rgb> and <rgb=#FFFF00><b>provide useful buffs to your allies</b></rgb>, you should focus on the <rgb=#FFFF00><b>Officer Battle Role</b></rgb>.\\n\\n'Officers can <rgb=#FFFF00><b>issue more effective orders to Commanders</b></rgb>. They have more commands at their disposal, and can make a group of soldiers <rgb=#FFFF00><b>focus on particular targets</b></rgb> or <rgb=#FFFF00><b>change their weapons</b></rgb>.\\n\\n'Officers can also command soldiers to <rgb=#FFFF00><b>shelter from incoming catapult shells or arrows</b></rgb>.\\n\\n'Additionally, Officers can <rgb=#FFFF00><b>plant banners that aid nearby Engineers and Vanguards</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "'If you want to <rgb=#FFFF00><b>stand toe-to-toe with enemy forces</b></rgb>, you should focus on the <rgb=#FFFF00><b>Vanguard Battle Role</b></rgb>.\\n\\n'Vanguards <rgb=#FFFF00><b>unlock powerful attacks by earning Killstreaks</b></rgb>, defeating many enemies in succession. They also <rgb=#FFFF00><b>receive benefits by dealing and receiving damage</b></rgb>, and can also <rgb=#FFFF00><b>run faster</b></rgb> than other heroes.\\n\\n'A Vanguard is happiest when <rgb=#FFFF00><b>engaging in close-quarters combat</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a8",
+      "en": "'We have fought large numbers of enemies before, but never so many foes as this! There will <rgb=#FFFF00><b>simply be too many enemies</b></rgb> for one hero to dispatch alone. We must <rgb=#FFFF00><b>use other methods</b></rgb> against them if we are to survive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a9",
+      "en": "'Saruman's armies will soon be here, [placeholder], but I fear that my companions do not know what to expect. <rgb=#FFFF00><b>An Epic Battle is not like the engagements we have faced to this point</b></rgb>, and I want to ensure that our friends are ready.\\n\\n'I would count mere survival of the battle a success, given the foes arrayed before us, but <rgb=#FFFF00><b>the truest victory is one in which we overcome all the challenges</b></rgb> the battle brings. As a battle ebbs and flows, we may be presented with <rgb=#FFFF00><b>optional secondary objectives</b></rgb>. These are <rgb=#FFFF00><b>not necessary for victory, but completing them successfully will add to the Merit we earn</b></rgb> in the battle: the measure of our victory.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c0",
+      "en": "'Legolas speaks the truth. Every foe we slay from a distance is one less foe to face up close.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'I believe I know enough for now, [placeholder]. I hope you feel the same! This land will not give in to Saruman's designs without a fight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c1",
+      "en": "'We will see them marching in formation toward us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c2",
+      "en": "'If we can aim our ballistae at these formations and fire at the right moment...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'<rgb=#FFFF00><b>Enemies will march in formations</b></rgb> towards us. When a formation reaches our position, enemies will engage in close combat. We should <rgb=#FFFF00><b>use siege equipment to lessen their numbers first</b></rgb>, before that happens!\\n\\n'<rgb=#FFFF00><b>Anyone can build and use basic siege equipment</b></rgb>.\\n\\n'Other options become available <rgb=#FFFF00><b>by spending points in the Engineer Battle Role</b></rgb>.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c3",
+      "en": "'...we will face fewer enemies up close.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c4",
+      "en": "'The more you practice at a certain Battle Role, the more skilled you will become.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c5",
+      "en": "'Well-spoken, my friend!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'There are three different Battle Roles in which you can specialize, [placeholder]. These Roles are <rgb=#FFFF00><b>Engineer</b></rgb>, <rgb=#FFFF00><b>Vanguard</b></rgb>, and <rgb=#FFFF00><b>Officer</b></rgb>.\\n\\n'By performing well during battle, you will <rgb=#FFFF00><b>earn points you can spend on these Roles in the Promotions Panel</b></rgb>, becoming more effective at your chosen specialization.\\n\\n'Speak with each of the representatives here to learn what each Battle Role has to offer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6596c6",
+      "en": "'What say you, [placeholder]? Is there anything else you would ask?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Talk to the Officer and learn about the Officer Role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Talk to the Vanguard and learn about the Vanguard Role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Aragorn stands before the walls of the Hornburg, discussing what your friends should expect in the coming battles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Listen to Aragorn and his companions discuss Merit and medals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed93",
+      "en": "Walk with the Engineer and listen to him discuss siege equipment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Talk to Gimli when you are done learning about Epic Battles for now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816b21",
+      "en": "'Yes, Aragorn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816b22",
+      "en": "'Very good.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65961",
+      "en": "'This valley will soon be filled with Saruman's armies! We must prepare for battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816b23",
+      "en": "'I will convey your orders to the men under my command. We will do as you say during battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65962",
+      "en": "'This will be different, Gimli. This is no small engagement.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3725a51",
+      "en": "'I know you will, my friend! But what are the actions of a single man, or Elf, or dwarf?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816b24",
+      "en": "'The more efficient you are, and the better you perform during battle, the more Merit you will earn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65963",
+      "en": "'In the battle to come, the forces of Saruman will care little for individual heroes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3725a52",
+      "en": "'Our foes number in the thousands!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816b25",
+      "en": "'Side objectives are optional, but if you can complete them you will earn more Merit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65964",
+      "en": "'They seek nothing less than the total destruction of Rohan: man, woman, and child.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3725a53",
+      "en": "'We will not fight the Uruks down here, unless the battle goes ill.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8816b26",
+      "en": "'Merit leads to greater recognition among your fellows, but also to real rewards as well!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65965",
+      "en": "'That is why we must also instruct the Men of Rohan how best to fight during each battle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3725a54",
+      "en": "'We will try and lessen their numbers from afar, with ranged weapons and siege equipment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65966",
+      "en": "'Commander!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Talk to the Officer and learn about Commanders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65967",
+      "en": "'During the tumult of battle we cannot speak to every man individually.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65968",
+      "en": "'Instead we will suggest tactical approaches to Commanders such as you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f65969",
+      "en": "'Then you will relay them to the men under your command.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

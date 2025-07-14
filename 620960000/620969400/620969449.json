@@ -1,0 +1,605 @@
+{
+  "id": 620969449,
+  "txt": [
+    {
+      "id": "0x72f4f1",
+      "en": "'What will be done with Ayorzén the Wily?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f2",
+      "en": "'His title was poorly-chosen.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f3",
+      "en": "'He was not wily enough to outwit the upstart king!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f4",
+      "en": "'I heard him begging for another chance.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f5",
+      "en": "'He will not have it. I have sent him to Udûn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "'We have to get out of here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f6",
+      "en": "'Will any others seek to ambush the army of Gondor?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f7",
+      "en": "'I could do much better than Ayorzén or Naztgaj!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f8",
+      "en": "'No. The Master wants the army of Gondor to continue its march.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f9",
+      "en": "'What? How can this be?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Enter Narchost and remain alert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Talk to Faeron inside Narchost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ae2fa0",
+      "en": "'Guess it was nothing.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Faeron has returned from scouting the ridge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ae2fa1",
+      "en": "'Something smells delicious! What is that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ae2fa2",
+      "en": "'Is this a joke? Did you do this, Shrakhúr?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ae2fa3",
+      "en": "'It better not be that damned Silent One. He sets my skin a-crawl.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ae2fa4",
+      "en": "'Shrakhúr? Zimar? Is that you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Talk to Mincham on the rocky slope",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Talk to Faeron on the rocky slope",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Follow Faeron to Narchost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "The entrance to Narchost is temporarily unguarded.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'I would not have been able to forgive myself if we let this chance pass untaken, [placeholder], but now that we are inside my resolve wavers. Let us learn what we can and then depart!\\n\\n'If there are any secrets to be found that will be of value to Aragorn, they will be on the upper levels of the tower. We must make our way upwards, but do not be seen by any of the guards that still lurk within! It is important that our passage remains unnoticed!\\n\\n'Mincham and I will follow in the shadows. You must find a way to reach the upper levels of the tower without being seen! Do not approach the guards or we will all be imperiled!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have crossed the noxious plains of Dagorlad with the Rangers Faeron and Mincham, scouting the lands through which Aragorn's host must pass.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "You have entered Narchost and do not have long before the Orc patrol returns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'I hear foul mutterings ahead, [placeholder], and know them for what they must be: the vile Black Speech used by the creatures of Mordor. It is a language I have learned to understand, though the study pained my ears and my heart both.\\n\\n'Let us move closer and I will try to translate the words for you and Faeron. Remain still out of sight! We must not be noticed, or I fear we will not leave this tower alive!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Eavesdrop on the conversation without being seen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Talk to Faeron inside Narchost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'We have picked our way across the tumbled stones and parched dust of Dagorlad, but all we have found is an inhospitable land. None live here, for what man could? The Orcs keep watch on this place, for it lies on the border of their master's fell country.\\n\\n'Faeron has gone ahead to see what lies beyond the ridge. When he returns, we will turn back and tell Aragorn what we have seen: a dead land, watched by his enemies, through which we must pass nonetheless.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a0",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'From the top of the ridge I could see a good distance, and I marked the movement of many Orcs crawling hither and yon across the plain. But near at hand, a great tower rises from the rocks and spies the approach. I know the place from Aragorn's maps: it is Narchost, one of the Towers of the Teeth.\\n\\n'As I watched, a door in the tower opened and a great patrol of Orcs marched out on some mission. They made for Mordor, but if we hurry we might be able to enter the tower before they return. We might learn something of value for Aragorn, but we must seize this chance while we have it!\\n\\n'Once the Orcs return the opportunity will be lost! Hurry!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe6fa31",
+      "en": "'Mincham, [placeholder], we don't have much time!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe6fa32",
+      "en": "'Quickly, this way! Before the Orc patrol returns!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe6fa33",
+      "en": "'Did you hear that? Voices ahead!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Make your way to the upper levels of Narchost.\\n<rgb=#FF0000>Do not be seen by any of your foes!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe6fa34",
+      "en": "'Mincham, [placeholder], we need to leave!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe6fa35",
+      "en": "'If only there was a way to draw the guards out of our path without being seen!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Make your way to the upper levels of Narchost.\\n<rgb=#FF0000>Do not be seen by any of your foes!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Mincham inside Narchost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "You have entered Narchost and do not have long before the Orc patrol returns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "You have entered Narchost and do not have long before the Orc patrol returns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "You have entered Narchost and do not have long before the Orc patrol returns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "You have entered Narchost and do not have long before the Orc patrol returns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "You have overheard a conversation between Khôgath the Render and his minion Fulak, but it is not safe to linger within Narchost.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39ace51",
+      "en": "'The Fields of Fornost are so far away now, but this place brings them back to my mind.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'Mincham's study of that foul language has borne fruit, [placeholder], and we have learned what we can: the armies of Mordor have orders to allow Aragorn to come to the gate! What terrible fate does the Enemy have in mind for the Host of the West?\\n\\n'I hope Aragorn finds this knowledge useful, but now we need to escape from this place and return to his camp. We can no longer stay here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39ace52",
+      "en": "'Ah, Faeron returns.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39ace53",
+      "en": "'Faeron, wait!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39ace54",
+      "en": "'This cannot possibly be a good idea!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39ace55",
+      "en": "'Hold, friends! And keep silent!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: By Secret Steps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b51",
+      "en": "'Mol danghub Arzán Zûr?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b52",
+      "en": "'Budguzat-tab fikarz.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b53",
+      "en": "'Narzúr-thlûk uglat shakh-vogál!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b54",
+      "en": "'Khláruz hasugum bûth-nagûl.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b55",
+      "en": "'Narbrusubat. Hístuz Udûn-u.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Mincham is ahead of you on the rocky slope.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b56",
+      "en": "'Nagaz prakthubat Tark-ushtar?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b57",
+      "en": "'Talmub-izg Arzân agh Naztgaj!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f40",
+      "en": "'Those are my orders, and that means they are yours now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b58",
+      "en": "'Nar. Gothbúrz nargat ushtar Uzgund-ob ukhordat.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f41",
+      "en": "'The upstart king is to be allowed to come to the Gate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6123b59",
+      "en": "'Skai! Mol za?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Eager to learn the Enemy's secrets to help Aragorn and the Host of the West, Faeron wants to enter Narchost.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72f4f42",
+      "en": "'The Master has plans for him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f1",
+      "en": "'Where do you think they'll bring that Khundolar captain?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f2",
+      "en": "'I don't know. I don't care.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f3",
+      "en": "'Ayorzén the Wily?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f4",
+      "en": "'Better him than one of us, I say.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f5",
+      "en": "'You're right about that! Better him than us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f6",
+      "en": "'What is that smell? Do you smell that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f7",
+      "en": "'What are they cooking on here? Smells delicious!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f8",
+      "en": "'I'm starving!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3ae2f9",
+      "en": "'Is someone there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe09db71",
+      "en": "Ufgast[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe09db72",
+      "en": "Shrakhúr[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe09db73",
+      "en": "Zimar[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe09db74",
+      "en": "The Silent One[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x123b520",
+      "en": "'Krampumizub, rad-lab shaut.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x123b521",
+      "en": "'Shakh-vogál ukhubat Doraz-u.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe08ed4",
+      "en": "Wait for Faeron to return",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x123b522",
+      "en": "'Gothbúrz gimbaklat-ta.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "Sounds below you in the tower signal the return of the Orcs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "The herbs burn with a terrible smell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "The smell of the burning herbs is most foul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "An acrid stench fills the air, offending your senses",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "The Rangers move quickly, eager to be done with this evil place",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

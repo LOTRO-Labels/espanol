@@ -1,0 +1,515 @@
+{
+  "id": 621014942,
+  "txt": [
+    {
+      "id": "0x6a50293",
+      "en": "Talk to Dori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1190",
+      "en": "The old forges of Thikil-gundu are rife with Orcs!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Search the hoarding-vault of Immêsh-khalt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "Karkasht Crow-feeder falls defeated, and the heat of the smithies begins to spread through Thikil-gundu...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Talk to Dori in Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01173",
+      "en": "Zashar-tûmun, the ruin-dwellings of Thikil-gundu, can be found to the west of the feast-house of Amrâg-zahar.\\n\\nNori has warned you that Karazgar now prepares a great force of dragon-kind in Zashar-tûmun. You should find a way to Zashar-tûmun and confront Karazgar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'Listen well, [placeholder].\\n\\n'If these old maps are to be believed, Durûz-mazal should lie beyond these doors. It was a great chamber wrought in honour of the Seven Dwarf-kings and in its centre, a great hoarding-vault was delved. It became known as Immêsh-khalt, and it held the whole of the wealth of Grárik in its depths.\\n\\n'If my brother came in search of the treasures of Thikil-gundu, he and his expedition would not have had to look any further than Immêsh-khalt. And so, it is there we will begin our search!\\n\\n'Let us hope these old gears still turn!'\\n\\n<rgb=#FF0000>NOTE: If you become separated from Dori and Company, you can summon them to your side using the Horn of Erebor. In addition, you can access the map of Thikil-gundu by pressing 'M'.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Karazgar can be found somewhere within Zashar-tûmun.\\n\\nNori has warned you that Karazgar now prepares a great force of dragon-kind in Zashar-tûmun. You should find and confront Karazgar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50244",
+      "en": "Search for Nori at Thikil-nesad, the Steel Seat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1141",
+      "en": "You feel a cold wind blowing from the rimed ruin-dwellings of Thikil-gundu...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01177",
+      "en": "Karazgar can be found in the western reaches of Zashar-tûmun.\\n\\nYou have found Karazgar, the Weeping Warrior, and you should now attempt to defeat him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Defeat Athramóth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "TEST",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Find a way to Afhân-binnîn through the feast-house of Amrâg-zahar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "DNT - Allow Nori to enter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d13",
+      "en": "Fearing that Nori has met with a terrible end at the hands of Karazgar or the mysterious dwarf-wights within Thikil-gundu, Dori and Company must muster the courage to enter the Steel Keep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1146",
+      "en": "Appearing to anticipate your arrival, Karazgar stands beneath a great crack in the Wrathhorn!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Search for Nori in Afhân-binnîn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5026",
+      "en": "Talk to Dori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Dori in Afhân-binnîn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5027",
+      "en": "Explore Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'It has been frozen solid!\\n\\n'Is this some final insult by Vethúg Wintermind? If this is how the great cold-drake has chosen to guard his stolen gold, there will be no recovering it... not until all the halls of the Steel Keep are reclaimed. And many still lie ahead of us, [placeholder]!\\n\\n'Many of these old gears are frozen or ruined, but we must find a way to travel deeper into Thikil-gundu. Unless my eyes deceive me, it looks like the gears to some of the eastern halls are intact. If we can reach the old lore-trove of Afhân-binnîn by some path, it would allow us to reach many of the deepest chambers of Thikil-gundu. We must find a way there!\\n\\n'According to the notes Nori left behind, Afhân-binnîn can be reached through a small hall at the northern end of the smithies of Kall-khebâb.\\n\\n'Let us find a way into Kall-khebâb, and then we will see if we can find the way into Afhân-binnîn. Besides, it would do us all well to warm ourselves by the forges, I think!\\n\\n'But... we would be wise to remain on guard. Such silence brings me no comfort.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "DNT HOLDING EVENT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "An enormous hoard of gold lies encased in ice beneath your feet...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Defeat Frór the Lost and banish the fell spirit inhabiting his remains",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e91",
+      "en": "Talk to Dori in Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Recover the crown of Dáin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1151",
+      "en": "After sealing the western passage into Thikil-nesad, Nori suddenly notices Dori and Company!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'We have found my brother, and that is enough! Let us leave this place at once!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'It is worse than I feared.... \\n\\n'The Dead walk the halls of Thikil-gundu, and through some vile means, Karazgar has mastered the will of Vethúg Wintermind!\\n\\n'There is little to celebrate this day, [placeholder], but we have found my brother... and that is enough!\\n\\n'Let us return to Tharrazhâr, and leave this sorrowful place behind.'\\n\\n<rgb=#FF0000>NOTE: When you complete this quest, you will swiftly travel to the Keep of Tharrazhâr in Skarháld. If you have not finished exploring or seeking treasures in Thikil-gundu, it is advised that you wait to talk to Dori.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Defeat Karkasht Crow-feeder and the Orcs of Gundabad in Kall-khebâb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "'It is with great regret that we cannot bear Frór's remains from the Steel Keep. Thikil-gundu itself will have to serve as his tomb!\\n\\n'The King under the Mountain demanded that we return bearing a bone of Vethúg Wintermind, but to instead return with the crown of Dáin might speak better of our deeds in the ruins of Grárik!'\\n\\nDori places the crown in a pack, and begins to study his map of Thikil-gundu again.\\n\\n'We should descend into the lore-trove and continue to the northern halls. If we follow that path, we will come to Thikil-nesad! It was once the seat of all of Grárik, and it was there that King Dáin I ruled before he fell.\\n\\n'Perhaps Nori has hidden himself away before the old throne of Thikil-gundu, but I fear many more foes lurk in these halls.\\n\\n'Even so, we must press on!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Dori at the ruined hall to Afhân-binnîn in Kall-khebâb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730880",
+      "en": "'Let us continue our search!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730882",
+      "en": "'Come, [placeholder]. Let us see what has become of Immêsh-khalt!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Find the northern hall that leads into Afhân-binnîn from Kall-khebâb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50260",
+      "en": "Find a way through Amrâg-zahar to Zashar-tûmun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Dori can be found in Thikil-gundu. If you have become separated, you may call him and the rest of the company by using your horn.\\n\\nYou have repelled Karazgar and rescued Nori from the depths of Thikil-gundu. You should now speak to Dori.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "Dori can be found in Thikil-gundu. If you have become separated, you may call him and the rest of the company by using your horn.\\n\\nYou have come to Thikil-gundu in search of Nori. You should now speak to Dori in Thikil-gundu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "DNT - Company and Nori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e112",
+      "en": "DO I WORK?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Find and confront Karazgar in Zashar-tûmun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'How could so many vile spirits be drawn to this place?\\n\\n'Dwalin once told me of the fate of Skorgrím Dourhand. Have you heard the tale?\\n\\n'He spoke much of spirits, Gaunt-lords, bloody hands, and other things of which I knew little, but perhaps that was for the best! What a terrible fate for a dwarf... even for one as villainous as Skorgrím!\\n\\n'What has happened? Has a curse fallen upon Thikil-gundu? So many dwarves have been roused from their rest to serve whatever evil now lurks here....'\\n\\nDori pauses and looks at the company of dwarves staring at a great geode in Afhân-binnîn.\\n\\n'Wait a moment, [placeholder]. There is something familiar about that dwarf....\\n\\n'No... it cannot be! That is Frór, the lost son of Dáin I. After Dáin fell to Vethúg Wintermind, Frór sacrificed himself so that his brothers and kinsfolk could escape from Thikil-gundu. It can be no other... the crown of Dáin I rests upon his head!\\n\\n'We must banish whatever evil has taken hold of him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "The hoarding-vault of Immêsh-khalt can be found in the centre of Durûz-mazal, the Chamber of Faces.\\n\\nDori has directed you and the rest of the company to search the hoarding-vault of Immêsh-khalt for signs of Nori.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e115",
+      "en": "DNT - Talk to Dori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50268",
+      "en": "Defeat Karazgar, the Weeping Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50269",
+      "en": "DNT - Karazgar leaves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1165",
+      "en": "To your horror, a great cold-drake rests among her brood at Thikil-nesad!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01141",
+      "en": "Nori might be found somewhere within Afhân-binnîn. Afhân-binnîn can be found through Amrâg-zahar.\\n\\nYou have discovered a passage into Afhân-binnîn, and you should now search for Nori within the lore-troves of Thikil-gundu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01144",
+      "en": "Frór the Lost can be found in the heights of Afhân-binnîn.\\n\\nYou have discovered the remains of Frór, son of Dáin I, brought to life by a fell spirit in Afhân-binnîn. You should defeat him and let him at last be laid to rest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "Athramóth falls defeated, but you hear a great commotion in the distance!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "The smithies of Kall-khebâb can be found in the eastern halls of Thikil-gundu.\\n\\nDetermined to delve deeper into Thikil-gundu, Dori has asked you to find the smithies of Kall-khebâb so that you might gain passage into the other halls of the Steel Keep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Karkasht Crow-feeder can be found in the smithies of Kall-khebâb.\\n\\nYou have discovered a massive hobgoblin leading the Orcs in the smithies of Kall-khebâb. You must defeat him if you are to continue deeper into Thikil-gundu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50275",
+      "en": "Talk to Nori at Thikil-nesad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'Bah! Orcs? Hobgoblins? This was supposed to be the swiftest path to Afhân-binnîn!'\\n\\nDori studies his map of Thikil-gundu and turns it about a few times.\\n\\n'It seems that there is another way to the lore-trove, but to reach it, we must pass through the old feast-house of Amrâg-zahar! The gears outside its doors appeared to be frozen when I stood atop the hoarding-vault, but perhaps the heat of the smithies might loosen them.\\n\\n'We have been lucky to find only a few Orcs so far, but I fear that Karazgar and the Dragon-kind dwelling in Thikil-gundu may soon be aware of us. It is some consolation that those dwarf-wights are not fond of the dragons, but they are no friends of ours either!\\n\\n'The swifter we find my brother, the swifter we can leave this place. Let us go!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50277",
+      "en": "Talk to Dori in Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "The remains of Frór, son of Dáin I, fall lifeless to the ground...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50279",
+      "en": "DNT - Company and Nori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52f00e9",
+      "en": "DNT - Talk to Dori in Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "Dori can be found in Thikil-gundu.\\n\\nYou have defeated the fell spirit inhabiting the remains of Frór and recovered the long-lost crown of Dáin. You should offer the crown to Dori and learn what is to be done.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1179",
+      "en": "Set in gold and adorned with precious mithril, the crown of Dáin has not faded in beauty...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01156",
+      "en": "Thikil-nesad, the Steel Seat, can be found deep within Thikil-gundu.\\n\\nFearing that Nori has been discovered by the inhabitants of the Steel Keep, Dori now hopes to find him before the old throne of Thikil-gundu.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "A hall to Afhân-binnîn can be found at the northern end of the smithies of Kall-khebâb.\\n\\nWith the smithies clear of foes, you should now search the smithies for a way into the lore-trove of Afhân-binnîn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Talk to Dori in Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56810",
+      "en": "DNT - Talk to Dori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7308a7",
+      "en": "'The hall to Afhân-binnîn must lie at the northern end of the smithies. Let us see if the path is clear!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ec2",
+      "en": "Deliver the crown of Dáin to Dori in Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "The feast-house of Amrâg-zahar can be found through the northernmost doors of Durûz-mazal, the Chamber of Faces.\\n\\nWith the heat of the smithies now spreading through Thikil-gundu, Dori hopes to find another way to reach Afhân-binnîn and continue the search for Nori.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56812",
+      "en": "'According to my map, there is a way to Afhân-binnîn through the feast-house of Amrâg-zahar. Let us search for it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "The hall into Afhân-binnîn is sealed by rubble and debris...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56814",
+      "en": "'What a terrible cold-drake! We must slay it before it can lay more of its eggs in Thikil-gundu!\\n\\n'What has become of my brother?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56815",
+      "en": "'Karazgar must pay for the evil he has wrought!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1183",
+      "en": "Amid the ruined remains of Amrâg-zahar, a passage leading into Afhân-binnîn lies open...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56816",
+      "en": "'[placeholder]....\\n\\n'What Karazgar has done cannot go unanswered. He has slain our kinsfolk, he has set the Dragons of the North upon the Lonely Mountain, and he has stolen and defiled the halls of Thikil-gundu! We seven must stand against him!'\\n\\nDori turns to Nori.\\n\\n'Where has he gone, brother?'\\n\\nNori explains that Karazgar travelled into Zashar-tûmun, but he warns you that many Dragon-kind now lurk in the ruin-dwellings of Thikil-gundu.\\n\\n'Karazgar must answer for the evil he has worked against Durin's Folk! Baruk Khazâd!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Find a way into the smithies of Kall-khebâb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e15",
+      "en": "Search Thikil-gundu for Nori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01162",
+      "en": "Athramóth and her brood can be found in Thikil-nesad.\\n\\nYou have discovered a great cold-drake resting among her brood. You should defeat Athramóth and make safe the old throne of the Steel Keep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56873",
+      "en": "'Dori! I cannot believe my eyes!'\\n\\nNori rushes forward and embraces his brother.\\n\\n'It has gone all wrong, brother. I am the last of my expedition. The Weeping Warrior ambushed us before the gates of Thikil-gundu, and he slew the few of my company that survived the Wrack.\\n\\n'In vengeance, I faced Karazgar in battle. Though I landed many blows, he managed to wrest my axe from my hand! It is a coward's way out of a fight, I think! All I have now is this torch. It has kept me warm, but it is no weapon!'\\n\\nDori hands Nori the axe you found before Thikil-gundu.\\n\\n'My axe! Karazgar will know its bite once more!\\n\\n'You have found me, brother, and for that I am grateful... but I cannot let Karazgar escape Thikil-gundu! Let us seek our vengeance against Karazgar together!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01164",
+      "en": "Nori can be found at Thikil-nesad.\\n\\nNori has fled into Thikil-nesad and unwittingly reunited with Dori. You should talk to Nori.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "Slain long ago by Vethúg Wintermind, Frór, son of Dáin I, has been raised from death...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56876",
+      "en": "DNT - Talk to Dori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "In the Halls of Thikil-gundu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "Dori can be found in Thikil-gundu.\\n\\nYou have reunited with Nori. You should now speak to Dori and learn what is to be done.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7308b6",
+      "en": "'Let us search for Nori in Afhân-binnîn! If my brother is not here, we will be able to follow other passages into the deepest chambers of Thikil-gundu!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,6083 @@
+{
+  "id": 620757435,
+  "txt": [
+    {
+      "id": "0xb2b7b51",
+      "en": "Pocket slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb28b9a0",
+      "en": "You have [placeholder] out of [placeholder] uses left for buffs in this category. Uses return over time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55a6a45",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a480b",
+      "en": "Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1441119",
+      "en": "Your account has been flagged so that all current and future characters will receive [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95a444e",
+      "en": "Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x295d8b5",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98706e3",
+      "en": "Event Quickslots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a58584",
+      "en": "Open the Deed Log",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b03e8f",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23640a4",
+      "en": "Mini Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6154e12",
+      "en": "Item Wear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4454805",
+      "en": "Tol Ascarnen\\nMonster Players are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x313ff42",
+      "en": "Monster",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f7cbb",
+      "en": "Make Coins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17a55c4",
+      "en": "[placeholder] invites you to join a fellowship for quest [placeholder], but they are in another instance.  Join the fellowship and teleport to that instance?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e73c84",
+      "en": "Double-click to send a tell to this character.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcdaaee4",
+      "en": "Group Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd710f2c",
+      "en": "Clear All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcffd9d4",
+      "en": "(Choose One)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf011eb7",
+      "en": "Unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c64e31",
+      "en": "Increased Standing with",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c64e32",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22f5c75",
+      "en": "Elite",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a4c244",
+      "en": "Raid Invitation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f094e",
+      "en": "Lock map to character position: On.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb868b54",
+      "en": "You've earned [placeholder] item XP.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55a6a68",
+      "en": "Secondary Weapon Aura Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcda44",
+      "en": "Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee7a214",
+      "en": "Revive for Mithril Coins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbef39d5",
+      "en": "Completion Time:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ebfaa4",
+      "en": "Increase Scale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7565bc3",
+      "en": "Class slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c4ad93",
+      "en": "You must provide a description in order for the customer support team to assist you with this problem.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3f50d5",
+      "en": "Edit Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc4e934",
+      "en": "Please wait ...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa76f86e",
+      "en": "Decline",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f71f1",
+      "en": "Bag 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae970bc",
+      "en": "Mount Display Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f71f2",
+      "en": "Bag 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f71f3",
+      "en": "Bag 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe591d4",
+      "en": "[placeholder] invites you to join a raid. Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f71f4",
+      "en": "Bag 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa581644",
+      "en": "Refresh List",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f71f5",
+      "en": "Bag 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x115525c",
+      "en": "Select Currency",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f71f6",
+      "en": "Bag 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b09057",
+      "en": "Training",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x353eff7",
+      "en": "Report Bug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f37679",
+      "en": "You have entered a monster PVP area.  You may fight with monster players.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28ef4a7",
+      "en": "<AFK>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe364075",
+      "en": "Restore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4286e50",
+      "en": "You have no uses left. The time shown is the time remaining until you gain another use.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8730c3",
+      "en": "Healers are good to have around. They will heal you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3b3e5b",
+      "en": "Rank [placeholder]: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf54435d",
+      "en": "The current key mappings will be lost. Continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe8d944",
+      "en": "Active",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84f45c4",
+      "en": "Rotate Right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1573954",
+      "en": "Press to show the Tutorial Hint associated with this panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c943f5",
+      "en": "Neighbourhood Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba0bb94",
+      "en": "Expires in [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3afb34e",
+      "en": "Controls",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6220fa2",
+      "en": "Friends",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc63e32",
+      "en": "\\t",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x473958c",
+      "en": "Quests & Deeds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x918f32c",
+      "en": "Combat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46656a2",
+      "en": "Group Leader",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef2d8dc",
+      "en": "System",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe575adc",
+      "en": "Open/close backpack",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb73f30c",
+      "en": "Deed Log",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b540ac",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa2c1d1",
+      "en": "The item power coming from item at your right ear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x690d712",
+      "en": "Clear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa2c1d2",
+      "en": "The item power coming from item at your left ear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x735e315",
+      "en": "Appraise Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc04735",
+      "en": "Will",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6b1e79",
+      "en": "Your account has been flagged with a reward!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a585d4",
+      "en": "Lock and unlock items in your inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe34dfc4",
+      "en": "Loot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x789912c",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81dd13c",
+      "en": "ingredients",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b04af4",
+      "en": "Toggle Wallet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4705c59",
+      "en": "Destroy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7506700",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e5d00e",
+      "en": "Are you sure you want to destroy all pending items?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82bb24",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65f26b5",
+      "en": "Toggle Decoration Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25dbc05",
+      "en": "+[placeholder] XP",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd20caa5",
+      "en": "Completed: [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8a4082",
+      "en": "Auto",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53da8c4",
+      "en": "Capped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeefcad",
+      "en": "All changes you have made to key mappings since you last clicked Apply will be lost. Exit anyway?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac3b094",
+      "en": "The key cannot be remapped: it is reserved for a specific use. Try another key.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bcba7e",
+      "en": "Ranged Weapon Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bf04ac",
+      "en": "Craft Tool slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe07c7c",
+      "en": "Copper",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70f9f3c",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7e942",
+      "en": "Waiting for server...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf4a3a4",
+      "en": "Voice Chat Enabled. Click to toggle volume control for this fellowship member.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6989ec4",
+      "en": "Take All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e6a17c",
+      "en": "Show Quest Guide On Map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e73933",
+      "en": "Killing Blows: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f57b23",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd9b824",
+      "en": "Hit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17a2c64",
+      "en": "Revival Tome: These items can be used to return you to the battle when you have fallen. They cannot be used in instanced spaces and can be purchased through the LOTRO Store.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87eb862",
+      "en": "Click and drag to move the Character panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90d1b59",
+      "en": "Quantity to purchase?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5469ac",
+      "en": "Tutorial Hints",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43e644c",
+      "en": "End Travel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba1ef9",
+      "en": "Drag a skill into this slot to set it as your default attack.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd578708",
+      "en": "Click to [placeholder] your Health numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x134b87e",
+      "en": "ALERT! The store is not currently available, please try again later.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf925f0",
+      "en": "You need #1:[placeholder] more available experience #1:{point[1]|points} to upgrade [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55dc80e",
+      "en": "+[placeholder] Renown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f050c",
+      "en": "Shards to Earn:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c158d4",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc552713",
+      "en": "You have [placeholder]% vitae",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cbd231",
+      "en": "The item power coming from your primary weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cbd232",
+      "en": "The item power coming from your secondary weapon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42838e5",
+      "en": "Grimwood Lumber Camp\\nPlayers are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4b6d33",
+      "en": "Product Types",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf35d334",
+      "en": "Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25be9c2",
+      "en": "[placeholder] (Leader)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e0db2",
+      "en": "Click and drag to move the Event Quickslots.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc01eab5",
+      "en": "Untrain Time:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42618b4",
+      "en": "Unable to connect to the support database.  Please try to send your request again in a few minutes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a61dc3",
+      "en": "You have too many characters.  Please delete characters until you have 5 or less.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc653fac",
+      "en": "Bar 1 (Undocked)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43327cc",
+      "en": "Click and drag to scroll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f771a5",
+      "en": "target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcac7a24",
+      "en": "Open World Map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b2872e",
+      "en": "Create a fellowship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e1542c",
+      "en": "Open LOTRO Store",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf06c09e",
+      "en": "Buy Changes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef6a814",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a7aa5c",
+      "en": "Social",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce28ef5",
+      "en": "Please enter only numbers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89b44ae",
+      "en": "Human",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9642c",
+      "en": "Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x539c24d",
+      "en": "Report Spam",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x745fc05",
+      "en": "Grimwood Lumber Camp\\nMonster Players are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d5a14",
+      "en": "Use different templates to show the information in the Who list.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc0b93c",
+      "en": "Hide items bound to other characters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa039775",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64fc1e9",
+      "en": "Click or hit 'Enter' and type to talk to others.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27fb9ee",
+      "en": "Shows/Hides your Inventory & Paperdoll panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3372894",
+      "en": "Looking for players for this instance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb481439",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b5ea75",
+      "en": "Evade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf90c4e",
+      "en": "Barter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x160b5f2",
+      "en": "Decoration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22c2fd5",
+      "en": "Isendeep Mine\\nPlayers are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4dad72",
+      "en": "Info",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce65de4",
+      "en": "Show Completed Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe01b704",
+      "en": "You don't have anything selected.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67540ab",
+      "en": "Back slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf372fb",
+      "en": "Block ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcacebf4",
+      "en": "Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f0c384",
+      "en": "Kinship Text Input Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49b76d1",
+      "en": "Choose Your Class",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3316f83",
+      "en": "Customize Toolbar Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf316334",
+      "en": "Increment the current shortcut set",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd92efb5",
+      "en": "Your leaderboard entry has been updated from [placeholder] to [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fe95e4",
+      "en": "You've earned [placeholder] for quest completion.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ace22e",
+      "en": "Are you sure you want to use the /stuck or /unstuck command to return to your rally point? You will be unable to do anything for [placeholder] before teleporting.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6d4154",
+      "en": "Strength-based",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d764ce",
+      "en": "Quest Actions Button",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16be6bc",
+      "en": "[placeholder]&custom1=[placeholder]&custom2=[placeholder]&custom3=[placeholder]&custom4=[placeholder]&custom5=[placeholder]&ext_ref=[placeholder]&styleid=2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f539df",
+      "en": "Report Combat Macro",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36bcc9",
+      "en": "Frame Rate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cb1331",
+      "en": "Primary Weapon Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a68cc",
+      "en": "Comments",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cb1332",
+      "en": "Secondary Weapon/Shield Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa936d74",
+      "en": "Accept",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d4e2d4",
+      "en": "[placeholder] wishes to trade with you. Do you accept?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6b56e4",
+      "en": "Enter Middle-earth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392f214",
+      "en": "Deflect",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178ba12",
+      "en": "Grouping",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ea78ce",
+      "en": "Powers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfedddbb",
+      "en": "Start attacking the selected target (keyboard shortcut: `).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0c7e3c",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e44234",
+      "en": "Dye colour preview for the Back slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1465640",
+      "en": "Toggles this quickslot between horizontal and vertical orientation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f0ed92",
+      "en": "Other",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5f6ef5",
+      "en": "Agility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3607063",
+      "en": "[placeholder] the Quickslots Panel (keyboard shortcut: I).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f63a4",
+      "en": "Click to sort all your items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70730e4",
+      "en": "Are you sure you want to rearrange all the items in your inventory?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76e12e1",
+      "en": "The item power coming from ring worn on right hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76e12e2",
+      "en": "The item power coming from ring worn on left hand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x801c964",
+      "en": "You've earned [placeholder] destiny points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e0b525",
+      "en": "[placeholder] FPS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x425bf75",
+      "en": "Isendeep Mine\\nMonster Players are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8feb4",
+      "en": "Dye colour preview for the Boots slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bb4654",
+      "en": "Change the race and gender of this character and return to your character list.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69ab99c",
+      "en": "Travel available to this destination.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad85df4",
+      "en": "Train",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b18dc",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb961b54",
+      "en": "Dismount",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x739ee84",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2c996c",
+      "en": "Active Quests:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb16864",
+      "en": "Stable-masters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65e0860",
+      "en": "You need [placeholder] XP for level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d53d1",
+      "en": "[placeholder] - [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc15d294",
+      "en": "Change Chat Font Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2bb851",
+      "en": "The item power coming from item in your pocket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c1fcfc",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb24c224",
+      "en": "Dye colour preview for the Legs slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b30982",
+      "en": "Placeholder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15b2702",
+      "en": "Maintenance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6754d04",
+      "en": "Belt slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56aa7f2",
+      "en": "You must wait [placeholder] before using /stuck or /unstuck again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5080c64",
+      "en": "This is your relative effectiveness in ranged combat.  Better weapons and higher Agility will increase your effectiveness.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cbaef4",
+      "en": "Take",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7883d29",
+      "en": "Summonee: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f11582",
+      "en": "Cost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbcf2f5",
+      "en": "Willpower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7fba2c",
+      "en": "Glove Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3059c84",
+      "en": "Advice Text Input Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd94f85c",
+      "en": "Player Bio:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc681fe4",
+      "en": "Enter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1c791c",
+      "en": "Open the chat window and activate chat input",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17bb1dc",
+      "en": "Enter character name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x135ba5c",
+      "en": "Gold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb21610",
+      "en": "Adjusts voice chat volume for this fellowship member.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4368b98",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc3dd35",
+      "en": "Delete",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcba8508",
+      "en": "Ranged Weapon Aura Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ef0543",
+      "en": "Filter Map Notes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a99983",
+      "en": "Available Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb94d894",
+      "en": "Hides items bound to other characters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c92924",
+      "en": "External Container",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x449dff",
+      "en": "Kills/Deaths: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bb3aae",
+      "en": "+[placeholder] Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc01264",
+      "en": "The leaderboard has been updated with your score of [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc65730",
+      "en": "Not Roleplaying",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3448601",
+      "en": "Choose Your Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeda586c",
+      "en": "Companion Shortcut Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c21afe",
+      "en": "Send",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7ba3b4",
+      "en": "Legendary Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a6c5f3",
+      "en": "<li>Raid Locks are used for larger instances which may take multiple sessions to complete.</li><li>The Lock of the instance is dictated by the leader.</li> <li>For the raid group to enter the instance, the leader's locks must contain all of your locks. (having no locks counts)</li><li>If you have any locks that the leader does not, then your raid group cannot enter the instance.</li><li>To meet the above requirements you may need to switch leadership status temporarily.</li>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc63fd75",
+      "en": "True",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31f9a4",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd988b82",
+      "en": "Bio",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f111ce",
+      "en": "Go to the previous shortcut bar (keyboard shortcut: _).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc56ac9e",
+      "en": "Unknown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93dd17f",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76a0e94",
+      "en": "Dye colour preview for the Chest slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e90295",
+      "en": "Unable to deliver item purchases, please contact customer service.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x806bd9c",
+      "en": "[placeholder]?charname=[placeholder]&charrace=[placeholder]&charclass=[placeholder]&charlevel=[placeholder]&charloc=[placeholder]&buildversion=[placeholder]&chariid=[placeholder]&server=[placeholder]&styleid=2&plugins=[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d3e01c",
+      "en": "Maintenance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d42c04",
+      "en": "Pick a Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56f127c",
+      "en": "Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f8bd64",
+      "en": "Find a fellowship for the selected quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d6b1bc",
+      "en": "Gambit Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76f3254",
+      "en": "Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d0d4be",
+      "en": "Housing Management",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc4aea4",
+      "en": "Rotate Left",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4407981",
+      "en": "The item power coming item worn on right arm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5c51f5",
+      "en": "You have entered a PVP safe zone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4407982",
+      "en": "The item power coming from item worn on left arm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd896e3f",
+      "en": "Confirm Trade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc69095d",
+      "en": "Dressing Room",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d14ae",
+      "en": "Item Appraisal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49d0824",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb043bc",
+      "en": "Click and drag to scroll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b4a460",
+      "en": "Group Invitation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe784695",
+      "en": "Choose a category, type in your problem, and click Send.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9dbbd94",
+      "en": "Click to open entry in Quest Log. Right-Click to get entry options.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86e114e",
+      "en": "Your fellowship is sharing XP.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94289ab",
+      "en": "Time in Bank:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8c45e4",
+      "en": "[placeholder] invites you to join a fellowship. Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98d9eeb",
+      "en": "Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba12e84",
+      "en": "This creature belongs to someone else. You will not get experience or loot rights for killing this creature.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aab2e",
+      "en": "Refresh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8f5d73",
+      "en": "#1:[placeholder] #1:{m|m[1]} #2:[placeholder] #2:{d|d[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3944192",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56c38fc",
+      "en": "Skirmish Details",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae0978c",
+      "en": "Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1502099",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29ae015",
+      "en": "Signature",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e15b29",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26aae64",
+      "en": "We've detected that you are runing Windows Vista, but do not have important patches which affect game memory usage.  You may use the URL below to find the recommended patch on the Microsoft website.\\n\\nhttp://support.microsoft.com/kb/940105",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb69a94",
+      "en": "[placeholder] invites you to join a group for quest [placeholder]. Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38b9cdc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x162b322",
+      "en": "Master Defender",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46681e0",
+      "en": "You are at the level cap.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42024b7",
+      "en": "Highest Rating Defeated: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba223d4",
+      "en": "Update",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0a705",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1335ac",
+      "en": "Bar 4 (Undocked)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e35582",
+      "en": "Advancement Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3e5153",
+      "en": "You cannot barter for this item because it has a quest requirement that you do not satisfy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36b89c3",
+      "en": "[placeholder] {Charge[1]|Charges}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aa2367",
+      "en": "show",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a07184",
+      "en": "You've earned [placeholder] infamy points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6504f5",
+      "en": "Examination",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bedff5",
+      "en": "Create permissions for everyone in the game world",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6e691c",
+      "en": "Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1791b0",
+      "en": "Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x350972",
+      "en": "Address",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc96f739",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5b1354",
+      "en": "Absorbed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89c58dc",
+      "en": "Fellowship Mini Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3b8ba5",
+      "en": "Get Destinations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16a0923",
+      "en": "[placeholder] {slot[1]|slots} open",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68a65f2",
+      "en": "The [placeholder] key is already mapped to [placeholder]. Try another key.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b9ae55",
+      "en": "Your Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62ab5f4",
+      "en": "Next Use: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86ccea5",
+      "en": "Thank you for purchasing Mordor! Your account item cannot be delivered to this character who has not yet completed the tutorial and intro.  Complete the intro story, or log onto a character that already has, in order to receive your Aria of the Valar level boost.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbea4da3",
+      "en": "Group [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f786dc",
+      "en": "F",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d42e6e",
+      "en": "Unable to join session play",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc347fa4",
+      "en": "Filter players by class.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa580bfc",
+      "en": "Chat 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x856d90c",
+      "en": "Bar 3 (Undocked)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0a1524",
+      "en": "One",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f8381c",
+      "en": "Looking for Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c2eec0",
+      "en": "Create permissions for everyone in your kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x137698e",
+      "en": "Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x539ab8c",
+      "en": "Capacity (Not Available)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a97024",
+      "en": "[placeholder] invites you to join a fellowship, but they are in another instance.  Join the fellowship and teleport to that instance?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3071be4",
+      "en": "Previous",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc599ea5",
+      "en": "[placeholder] invites you to join a fellowship.  This will close your current Private Encounter.  Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66c6720",
+      "en": "Click to toggle Desired Fellowship Manoeuvre Display.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c2515c",
+      "en": "Progress to Next Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x808c064",
+      "en": "Fellowship Manoeuvre Attempt Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa25e37",
+      "en": "Unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6484f55",
+      "en": "False",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8a0a6",
+      "en": "Elf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcdf7ac5",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe33fa7",
+      "en": "Inspecting [placeholder]...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d9f92",
+      "en": "[placeholder]\\nWarning! No zoomed-in map for current character position!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb51c748",
+      "en": "Primary Weapon Aura Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x636347c",
+      "en": "examine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb450bee",
+      "en": "OK",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6467c2",
+      "en": "Housing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f55e99",
+      "en": "[placeholder] / [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fc744",
+      "en": "To prevent certain stability and performance issues players using Windows Vista 32-bit should not select the Very High texture detail option in the Advanced Graphics Options panel while DX10 graphics are enabled. 64-bit Vista users are not affected by this issue. For more information visit http://www.lotro.com/support/vista32",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd099f95",
+      "en": "Tirith Rhaw\\nPlayers are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2049822",
+      "en": "The Lord of the Rings Online",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2770b4",
+      "en": "You've earned [placeholder] renown points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa98d9f3",
+      "en": "[placeholder]/[placeholder] to Mastery",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe83c574",
+      "en": "Upgrade [placeholder] for #1:[placeholder] available experience #1:{point[1]|points}.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8db139",
+      "en": "Unable to join because you do not have enough Commendations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd856424",
+      "en": "Open Entire Quest History for selected Quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8511ffe",
+      "en": "Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd47d59c",
+      "en": "Boot Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8db9044",
+      "en": "Free People",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c2b05",
+      "en": "Continue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9455bc",
+      "en": "Raid Shout Box",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8835c9",
+      "en": "Are you sure you want to turn {the[!n]} [placeholder] into gold?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfb777c",
+      "en": "Quest Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f094c6",
+      "en": "Lock map to character position: Off.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92a9e32",
+      "en": "Display radar panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa56dcc",
+      "en": "Sparring Timer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf63d435",
+      "en": "Legendary Item Appraisal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x337b971",
+      "en": "Confirm Your Gender",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39cf8cb",
+      "en": "Help Me!  I'm Stuck!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43037b5",
+      "en": "Fate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ad594",
+      "en": "Click to [placeholder] your intelligence numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb68134",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4bc1ac4",
+      "en": "[placeholder]\\n\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23eff6c",
+      "en": "Items To Trade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cfa449",
+      "en": "Parry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73d8e7c",
+      "en": "inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafe6d25",
+      "en": "-#1:[placeholder] [placeholder] #1:{enemies | enemy[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f202c",
+      "en": "Legendary Items Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdaa9b24",
+      "en": "You cannot revive during Monster Play.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x308bec4",
+      "en": "Apply",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbeb5b12",
+      "en": "Absorb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e3bd87",
+      "en": "You are not attacking.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10d62f4",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe38e034",
+      "en": "#1:{ [!b]}#1:[placeholder]#1:{m[!b]}#2:{ [!b]}#2:[placeholder]#2:{d[!b]}#3:{ [!b]}#3:[placeholder]#3:{h[!b]}#4:{ [!b]}#4:[placeholder]#4:{m[!b]}#5:{ [!b]}#5:[placeholder]#5:{s[!b]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737997c",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cc6330",
+      "en": "Roleplaying",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaeb5d20",
+      "en": "You are not currently in a fellowship.  Enter the information below if you wish to create one.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a8422",
+      "en": "Character Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc175855",
+      "en": "You must provide the name of the abusing character.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35c0134",
+      "en": "Toggle Decoration Edit Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbaea9dc",
+      "en": "Quest Survey",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f42612",
+      "en": "Progress Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x899a389",
+      "en": "This is a currency.  It can be spent at Skirmish camps or near some instance entrances.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x310aa34",
+      "en": "Open",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x673f31c",
+      "en": "Filter by Profile:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e04284",
+      "en": "[placeholder] {Use[1]|Uses}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5dcb72",
+      "en": "Your account has been flagged so that all current and future characters will receive [placeholder] and monster characters will receive [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7646e14",
+      "en": "[placeholder] the Quest Panel (keyboard shortcut: F8).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9225945",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa11524",
+      "en": "Lock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7f5564",
+      "en": "[placeholder] is maxed out for your level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71369d5",
+      "en": "Waiting for response from server ...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd15bfb4",
+      "en": "Buy House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c03194",
+      "en": "Please wait while the Legendary Items are retrieved from the server.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f83ab4",
+      "en": "Click to quit the game.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40d9ecc",
+      "en": "Purchase Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1259cd4",
+      "en": "Voice Chat Enabled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aef9e5",
+      "en": "Lugazag\\nPlayers are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac90bec",
+      "en": "Trainer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bcae84",
+      "en": "Retrieving Bio:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad35953",
+      "en": "Alias: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb248774",
+      "en": "Sort contents by quantity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x520f4a2",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77813bc",
+      "en": "Mounted Companion Manager",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa75cf8c",
+      "en": "Admin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb217e07",
+      "en": "Unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81b0b83",
+      "en": "List",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91817f3",
+      "en": "Current Destiny Points: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc212e44",
+      "en": "© 2005-2019 Standing Stone Games, LLC. All rights reserved.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4866bde",
+      "en": "Leave your fellowship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb766315",
+      "en": "The current game time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa46ecd3",
+      "en": "The item power coming from your legs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87d4773",
+      "en": "Your assistance request has been sent successfully, thank you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbba6445",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25fb45d",
+      "en": "Swarm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb09921c",
+      "en": "Muckle Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54613b4",
+      "en": "Ok",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c348ec",
+      "en": "A",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c43448",
+      "en": "Search Neighbourhood:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a6309",
+      "en": "Quantity must be between 1 and [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bcb86c",
+      "en": "Use LOTRO Points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaee96b4",
+      "en": "You don't have any skills in this group yet.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbc2cc3",
+      "en": "Screenshot \\[[placeholder]\\] saved to disk.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x896e813",
+      "en": "Confirmed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf78ecee",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c3490c",
+      "en": "Quest History",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd66b3c",
+      "en": "Dressing Room",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb324bc",
+      "en": "Your Money:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc84e30e",
+      "en": "Close the Social Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba66514",
+      "en": "Select the barter profile to display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb40d7fd",
+      "en": "All current mappings will be lost. Continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c55585",
+      "en": "Report Abuse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc427e94",
+      "en": "Bio of [placeholder]:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2186e0e",
+      "en": "Turn XP sharing on/off.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e07abe",
+      "en": "You need to select something before performing this action.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9302dfe",
+      "en": "Total Renown: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9eade4",
+      "en": "Delete currently selected character.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcff8294",
+      "en": "Select All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96f4d3c",
+      "en": "Set the camera mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x171742",
+      "en": "You are not earning any experience at this time.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x649daa4",
+      "en": "Reduce Scale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x458787c",
+      "en": "Engagement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9001a3b",
+      "en": "OK",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb3df875",
+      "en": "[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe609d69",
+      "en": "Total Infamy: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5ea724",
+      "en": "Evaded",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcaea92",
+      "en": "You have too many characters.  Please delete characters until you have [placeholder] or less.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe02ade",
+      "en": "Fully Expands Quest Tree",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72db234",
+      "en": "Dye colour preview for the Head slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x234ca6c",
+      "en": "Selection's Target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2bd861c",
+      "en": "Trainer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x755b0c5",
+      "en": "Get More Space",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6abdac4",
+      "en": "Toggle the Mounted Combat UI",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76b04f4",
+      "en": "Unknown Command\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe629c4",
+      "en": "Fellowship Text Input Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x988cffe",
+      "en": "Unknown Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39e1e5c",
+      "en": "Grant everyone in the world access to your house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1b9d43",
+      "en": "Add to Favourites",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4500f9c",
+      "en": "Kinship Rank:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ed1e65",
+      "en": "[placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47d0804",
+      "en": "Dye colour preview for the Shoulder slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x109c47f",
+      "en": "ItemInfo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89033e4",
+      "en": "Select the classes you want for your grouping request.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7480c44",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4559f04",
+      "en": "The item power coming from the item worn on your chest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ce1e34",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62b8e29",
+      "en": "Click to type a chat message here (Keyboard: Enter).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdad8d44",
+      "en": "Temporarily Unavailable",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8028469",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1639c",
+      "en": "Radar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff725b3",
+      "en": "[placeholder].[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde32c",
+      "en": "House Purchase",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc93237",
+      "en": "Rating: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdeb9373",
+      "en": "LEVEL",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc743b44",
+      "en": "Gold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b1f9d4",
+      "en": "Resurrect",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e0410c",
+      "en": "trading",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2866464",
+      "en": "Rename",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfaf0e02",
+      "en": "PE",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6416bf4",
+      "en": "1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17af9fc",
+      "en": "Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f83b3c",
+      "en": "Map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e955a4",
+      "en": "Give Leadership",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6dbeac",
+      "en": "Letter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7019d4b",
+      "en": "Moves the selected item from this bag to your backpack.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68eef2e",
+      "en": "Fellowship Manoeuvre Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefe1dfe",
+      "en": "Action",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcca0f94",
+      "en": "Please wait ...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x726b654",
+      "en": "Standard Text Input Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbb1fc",
+      "en": "House Permissions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5265ab3",
+      "en": "Gloves slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fa0dcc",
+      "en": "Successfully shouted to your group.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85d04e8",
+      "en": "Current location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda64f7c",
+      "en": "Mail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6ff8ec",
+      "en": "Destiny Wallet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94d4a0c",
+      "en": "Auto Skill Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8387b7c",
+      "en": "Full",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26de904",
+      "en": "Gathering Information...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x319cd50",
+      "en": "You need [placeholder] XP for level [placeholder]\\nRemaining VIP Bonus: [placeholder] XP\\nRemaining Purchased Bonus: [placeholder] XP",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d55a5e",
+      "en": "Secondary Weapon Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f659",
+      "en": "Link lost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10c9e69",
+      "en": "Please enter a value between 1 and [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7475327",
+      "en": "Inspecting [placeholder]...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b0c714",
+      "en": "[placeholder]\\nClick and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3045b45",
+      "en": "Fellowship Invitation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e61684",
+      "en": "Revive for [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd244e3",
+      "en": "One of your characters has recently been in a PvMP zone.  You cannot enter monster play for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e9383",
+      "en": "Vocations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x630d604",
+      "en": "The Buyback window only holds the most recent 16 items sold.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c3a754",
+      "en": "Maximum Rank Achieved",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b5a702",
+      "en": "Raid Locks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da421",
+      "en": "N/A",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x676cd8d",
+      "en": "Double-click to use {the[!n]} [placeholder] (keyboard shortcut: F).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x326be94",
+      "en": "Default",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62a6372",
+      "en": "The current set",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fae52",
+      "en": "Fellowing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37ddbc3",
+      "en": "...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fbc883",
+      "en": "Kills: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2018fc0",
+      "en": "Click here to automatically confirm this operation in the future. You can reset suppressed confirmations via UI Settings Options.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0e9a84",
+      "en": "Alt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17a76b3",
+      "en": "Drag items here to make a shortcut.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41c0394",
+      "en": "Leaderboard update failed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd4b6d5",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74d9015",
+      "en": "Lugazag\\nMonster Players are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93ddf24",
+      "en": "Destiny Points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3880b",
+      "en": "Vault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d84c15",
+      "en": "Score",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc92edf5",
+      "en": "~[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb41a3f4",
+      "en": "[placeholder] invites you to join a Raid for quest [placeholder].  If you join the Raid your current Private Encounter will close.  Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20f8824",
+      "en": "Waiting for your partner to accept.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba873d",
+      "en": "All changes since you last hit Apply will be lost. Continue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x430924",
+      "en": "[placeholder] - Currently Locked. Unlimited use when unlocked.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x802cc9c",
+      "en": "Housing Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b2fd50",
+      "en": "You can get the Writ of Passage, which removes restrictions on all known travel routes. Click this button to visit the store.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd440dec",
+      "en": "IM",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b54379",
+      "en": "+[placeholder] Destiny Points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc89bfb5",
+      "en": "Melee",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb81b873",
+      "en": "Get LOTRO Points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3254b5",
+      "en": "Aa",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6f7fb4",
+      "en": "Max",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6976b8",
+      "en": "Your current location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x333274",
+      "en": "Pick Chat Text Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92cf567",
+      "en": "Rating: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c06c27",
+      "en": "Untraining",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f4f44c",
+      "en": "Dye Options",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23b7384",
+      "en": "Show Only Equipped Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2f9732",
+      "en": "Your item(s) will be delivered to your character [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d88804",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2422c0",
+      "en": "Zoom out to the full world map.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e7131",
+      "en": "Escort Vitals 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e7132",
+      "en": "Escort Vitals 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f7f5c8",
+      "en": "+[placeholder] Marks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e7133",
+      "en": "Escort Vitals 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e7134",
+      "en": "Escort Vitals 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0ee874",
+      "en": "Pet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e7135",
+      "en": "Escort Vitals 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc7e9d0",
+      "en": "You need [placeholder] XP for level [placeholder]\\nRemaining VIP Bonus: [placeholder] XP\\n Remaining Purchased Bonus: [placeholder] XP\\nYour experience gains are currently suppressed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10e7136",
+      "en": "Escort Vitals 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f89935",
+      "en": "Vitality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed95933",
+      "en": "Other COC Violation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3af9871",
+      "en": "Key 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92468a1",
+      "en": "#1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8a203",
+      "en": "Orc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3af9872",
+      "en": "Key 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92468a2",
+      "en": "#2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e4f3c2",
+      "en": "Guests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8921ef4",
+      "en": "Close Window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f4c474",
+      "en": "Filter this item on all characters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52c383e",
+      "en": "Crafting: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9593e4",
+      "en": "Destiny Point Cost: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc582154",
+      "en": "Open Tapping Monster: Engaged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99b1572",
+      "en": "Click and drag to move the Event panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e73df4",
+      "en": "Search",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6db53d4",
+      "en": "Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6143b4",
+      "en": "You cannot revive in an Instance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5041bd4",
+      "en": "Toggle Lock Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10a60b5",
+      "en": "Done",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcf8b82",
+      "en": "Legendary Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3c3cb4",
+      "en": "Commendation Cost: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb712285",
+      "en": "Hide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89bdce3",
+      "en": "#1:[placeholder] #1:{h|h[1]} #2:[placeholder] #2:{m|m[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b2184b",
+      "en": "Block",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41b5c79",
+      "en": "Inspection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28e2694",
+      "en": "[placeholder] invites you to join a Raid for quest [placeholder], but they are in another instance.  Join the Raid and teleport to that instance?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc37c67e",
+      "en": "Open/Close the Fellowship Mini-Panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2333a99",
+      "en": "+[placeholder] Infamy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49631cc",
+      "en": "Harmful",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8cf0c27",
+      "en": "You are attacking.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a9c94e",
+      "en": "Thank you for being a customer! [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fcce0c",
+      "en": "[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf82da5",
+      "en": "Private Encounters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76540a4",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d2c45",
+      "en": "Skill Line",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf10baf",
+      "en": "No",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2fa95d",
+      "en": "All ingredient slots will be cleared.  Close anyway?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3205e5c",
+      "en": "Normal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36786de",
+      "en": "Buy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f52c79",
+      "en": "Your account has been flagged so that all current and future monster characters will receive [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x108d61c",
+      "en": "Raw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8055ecc",
+      "en": "Open/close paper doll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d3fa4",
+      "en": "Depart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3192e",
+      "en": "Thank you for being a VIP!  [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee2e170",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fd7981",
+      "en": "Left bracelet slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fd7982",
+      "en": "Right bracelet slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf906263",
+      "en": "Total Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19d2e1e",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45bdca4",
+      "en": "Cancel Skill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7559fc4",
+      "en": "Chest slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b7a5fe",
+      "en": "Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe07133e",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ad108",
+      "en": "Click to [placeholder] your Dexterity numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d83eb5",
+      "en": "The Lord of the Rings Online™",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x197e690",
+      "en": "Completed Group Manoeuvres",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x445b134",
+      "en": "Sort contents alphabetically by item description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x210d774",
+      "en": "Lock to Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabddc92",
+      "en": "Properties",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9bdf684",
+      "en": "Hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x441ac94",
+      "en": "One or more of these items are Bound to Character, which restricts sharing of this bag.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47dd44c",
+      "en": "You have not completed this quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x360d295",
+      "en": "Failed to create a shortcut for the [placeholder] emote, there were no slots available on the current panel!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1da877",
+      "en": "Latency: [placeholder] ms, Loss: [placeholder] %\\nSent: [placeholder] Bps Recv: [placeholder] Bps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd30c874",
+      "en": "Tour House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc142072",
+      "en": "Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37abaf4",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fe38fe",
+      "en": "Dismiss a member of your fellowship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x400c6e4",
+      "en": "Small Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc099d44",
+      "en": "Hide when Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0c2734",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2395fa4",
+      "en": "Undo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2e0adc",
+      "en": "S",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9e0940",
+      "en": "Examination Tooltip Position",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77f5c",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9b397c",
+      "en": "Vault Box",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22637b4",
+      "en": "[placeholder] invites you to join a fellowship for quest [placeholder]. Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63921c9",
+      "en": "Leader Shouts: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97888b3",
+      "en": "LOCKED",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1c5fb4",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a4e1b5",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d38ecc",
+      "en": "Assist Window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e63f44",
+      "en": "Half",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aa172",
+      "en": "Click to [placeholder] your strength numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbcbdac",
+      "en": "Shards:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c643de",
+      "en": "Do not show this hint in the future",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x830bae5",
+      "en": "Failed to create a shortcut for [placeholder], as there are no slots available on the current panel!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2f1832",
+      "en": "Level [placeholder] - [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe322193",
+      "en": "750/900",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20844f0",
+      "en": "You cannot barter for this item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b815c5",
+      "en": "Close the Map Panel (keyboard shortcut: M).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b970a4",
+      "en": "You have a new quest!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d6728c",
+      "en": "Upkeep Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ef31e5",
+      "en": "Add Space",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf92cac4",
+      "en": "[placeholder] invites you to join a fellowship for quest [placeholder].  If you join the fellowship your current Private Encounter will close.  Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce1badc",
+      "en": "Wardrobe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd490e7c",
+      "en": "Unlock Slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9421b1",
+      "en": "<rgb=#FF0000>You have entered a restricted area and will be removed if you do not leave.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc542b5",
+      "en": "Please enter only numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7525ae7",
+      "en": "Loading...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a14f0c",
+      "en": "Attunement Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b7ec24",
+      "en": "Leader Loot Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b9f444",
+      "en": "Invalid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71e4e6e",
+      "en": "Inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f3be1c",
+      "en": "Loot Roll Zone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46ca905",
+      "en": "Might",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e60374",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf66204",
+      "en": "Play",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdad7c92",
+      "en": "Raid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fb51be",
+      "en": "Primary Weapon Slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17c0e43",
+      "en": "Available Points:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51e04c4",
+      "en": "Your PVP Rating has gone down by [placeholder] points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1249765",
+      "en": "[placeholder] lvl [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfde27d5",
+      "en": "Selection out of range",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x554a31c",
+      "en": "General",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc641eb",
+      "en": "Away from Keyboard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45e8ce0",
+      "en": "[placeholder] invites you to join a group. Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f36a44",
+      "en": "Disband",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b8b165",
+      "en": "Some of your account items cannot be delivered to this character, as they have not yet completed the tutorial and intro. Complete the intro story, or log onto a character that already has, in order to receive your items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79a1902",
+      "en": "Kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ad184",
+      "en": "Click to [placeholder] your Endurance numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71b5cfc",
+      "en": "Event Tracking Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4db7e",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4de4a1c",
+      "en": "Sessions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d7061c",
+      "en": "Vanguard Control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6f8074",
+      "en": "One",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23b02b3",
+      "en": "Recipes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6aa8163",
+      "en": "Avenger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb6bc3b4",
+      "en": "Filter this item on this character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8865bc",
+      "en": "Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aa2bbe",
+      "en": "[placeholder] the Map Panel (keyboard shortcut: M).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ef1c33",
+      "en": "Nemesis",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc09f773",
+      "en": "RANK",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7271745",
+      "en": "Revive for Free",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9797e54",
+      "en": "Fellowship Member is Disconnected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe85524c",
+      "en": "All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3ec359",
+      "en": "Free People",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf899cb0",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0c1da3",
+      "en": "Latency: [placeholder] ms, Loss: [placeholder] %",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfae91d1",
+      "en": "Left earring slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfae91d2",
+      "en": "Right earring slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59ecf50",
+      "en": "Click to zoom in.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x755b263",
+      "en": "#1:[placeholder] #1:{m|m[1]} #2:[placeholder] #2:{s|s[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2b3dc4",
+      "en": "Quit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf2f6bc",
+      "en": "Collapse All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bb8555",
+      "en": "You are currently at full vitae.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa79766e",
+      "en": "Open the store in an external browser?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35d2254",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd37837c",
+      "en": "Neighbourhood Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cedb14",
+      "en": "Gambit skills are executed from the gambit panel when the gambit sequence for the skill is matched",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3367ea4",
+      "en": "This is your relative effectiveness in melee combat.  Better weapons and higher Might will increase your effectiveness.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fbb595",
+      "en": "[placeholder] [placeholder][p]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa45674",
+      "en": "Parried",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba54dc4",
+      "en": "Create",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69396bb",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ac6be4",
+      "en": "To equip a skill, drag it from the Skills Panel to an available quickslot at the bottom of the game screen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79739ac",
+      "en": "Show Map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ccc90c",
+      "en": "Grant members of your Kinship access to your house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2047c84",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef7c4c5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x404e94",
+      "en": "Cost: [placeholder] coppers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfd721e",
+      "en": "Disband your fellowship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dfa45",
+      "en": "Housing Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d2b005",
+      "en": "How many items to use?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15aa68c",
+      "en": "Deeds",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0a3b7c",
+      "en": "Send",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc033752",
+      "en": "Zoom to character",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb957119",
+      "en": "Capacity ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8ae9ee",
+      "en": "Refresh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3072450",
+      "en": "Gather compatible items from your backpack into this bag.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc92f527",
+      "en": "Power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b8364",
+      "en": "Next",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa91b04",
+      "en": "Out of Character Text Input Only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6752c44",
+      "en": "Head slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2185804",
+      "en": "Blocked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4553513",
+      "en": "The item power coming from item worn on feet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x676ecd3",
+      "en": "Legs slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e8720e",
+      "en": "Reset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd621414",
+      "en": "Show raw threat values from damage/healing/etc., instead of the calculated values that the NPC uses to determine final threat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a7d024",
+      "en": "Click a point of interest for more information.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb5bc24",
+      "en": "My Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91f4014",
+      "en": "Press this button to cancel your queued skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5a16dc",
+      "en": "Loot All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b197dc",
+      "en": "Completed Fellowship Manoeuvres",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7478c1",
+      "en": "Bag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x353f437",
+      "en": "Report Lag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b3e1de",
+      "en": "Turn vitals numbers on/off.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5912c",
+      "en": "Destroy All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceeb294",
+      "en": "You have received the following account reward: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c9bfae",
+      "en": "Thank you for playing! [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f64b4",
+      "en": "Current Chat Text Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffdcfdb",
+      "en": "Stop attacking the selected target (keyboard shortcut: `).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95ecafe",
+      "en": "Your appearance changes will cost [placeholder].\\nAre you sure?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6890dc1",
+      "en": "Customize Your Origin & Look",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2436022",
+      "en": "Encounters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x894e1d2",
+      "en": "Inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf65c104",
+      "en": "[placeholder] invites you to join a raid for quest [placeholder]. Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe469f15",
+      "en": "Abuser Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cf7ed",
+      "en": "[placeholder] is already used by [placeholder]. Replace?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbeecee",
+      "en": "Fully Collapses Quest Tree",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e0415",
+      "en": "Fellowship Name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72497c1",
+      "en": "Left ring slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdde5c43",
+      "en": "Choose Class",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72497c2",
+      "en": "Right ring slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe189994",
+      "en": "Toggle the ability for non-leader members to loot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x279d74",
+      "en": "Ranged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2417bc4",
+      "en": "Ranged weapon slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4163fdc",
+      "en": "You have not discovered any locations that can be reached from here.  ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffc2",
+      "en": "Click and Drag to move the Auto Skill Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7a004c",
+      "en": "Chest Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67246e0",
+      "en": "Click to toggle Desired Warband Manoeuvre Display.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42378d5",
+      "en": "Tol Ascarnen\\nPlayers are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff8fa02",
+      "en": "Raid Leader",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34cc25c",
+      "en": "Pending Loot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e11446",
+      "en": "Your fellowship is not sharing XP.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee752d4",
+      "en": "Shift",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc939ce0",
+      "en": "Maximum Standing Reached",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x647e65c",
+      "en": "Back Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5568d5",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfccf0de",
+      "en": "Randomize",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9ee96c",
+      "en": "Balance Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaaca00c",
+      "en": "Match Score Display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ad53a5",
+      "en": "hide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x449c2e4",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8cc39b4",
+      "en": "Next",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8ddfc0",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x315574",
+      "en": "Entered Private Encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e1dfc5",
+      "en": "Report Abuse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50e707c",
+      "en": "Shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x215ea54",
+      "en": "Create this character and return to your character list.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f299b4",
+      "en": "Dexterity-based",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32773a4",
+      "en": "Toggle autosplit of looted coins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84d35ec",
+      "en": "Destiny Points",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a397ac",
+      "en": "House Escrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5265683",
+      "en": "The item power coming from item worn on your hands",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7153a4",
+      "en": "[placeholder] the Chat Box (keyboard shortcut: shift-1, 2, 3 or 4).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8896f94",
+      "en": "#1:{ [!b]}#1:[placeholder]#1:{ month[!b1]| months[!b]}#2:{ [!b]}#2:[placeholder]#2:{ day[!b1]| days[!b]}#3:{ [!b]}#3:[placeholder]#3:{ hour[!b1]| hours[!b]}#4:{ [!b]}#4:[placeholder]#4:{ minute[!b1]| minutes[!b]}#5:{ [!b]}#5:[placeholder]#5:{ second[!b1]| seconds[!b]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23e905c",
+      "en": "map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d5d7c4",
+      "en": "You have died.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaeca894",
+      "en": "Autosplit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d0e607",
+      "en": "Kills Above Rating: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2a86cb",
+      "en": "You have entered a PVP free-for-all zone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf478c79",
+      "en": "You have reached the currency cap.  You will be unable to earn additional currency until you spend below the cap.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3410e44",
+      "en": "Open Tapping Monster",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd478a8c",
+      "en": "Head Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc80b0cc",
+      "en": "Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe12017",
+      "en": "Binding",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5724f0c",
+      "en": "On Deck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95ac69c",
+      "en": "Wealth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13d8b4c",
+      "en": "Bar 2 (Undocked)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde8621c",
+      "en": "F",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dfb1a7",
+      "en": "Kills Below Rating: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe98e68c",
+      "en": "Ctrl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d50ec",
+      "en": "Shoulder Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8668ed4",
+      "en": "Half / Full Amount",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89f5f56",
+      "en": "Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x871f54f",
+      "en": "0[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb29241b",
+      "en": "Rank: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x713785c",
+      "en": "Housing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5a65c",
+      "en": "Empty",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1c58dc",
+      "en": "Click and drag to scroll",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfa3154",
+      "en": "Dye colour preview for the Gloves slot. Press Reset button to clear.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb813c7c",
+      "en": "NPC Chat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x750ad34",
+      "en": "You must wait a while before reviving again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfa2562",
+      "en": "Or",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb79d02",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf041b04",
+      "en": "Open Tapping Monster: Contributing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96ff705",
+      "en": "Save",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48ac0cc",
+      "en": "Quest Log",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e4a5bc",
+      "en": "Silver",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbc6115",
+      "en": "The item power coming from item worn around your neck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10a0885",
+      "en": "ItemName",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ae2d23",
+      "en": "Arch-nemesis",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x512755c",
+      "en": "Crafting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1e5d34",
+      "en": "Resist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x992dde4",
+      "en": "Change Scale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d290b4",
+      "en": "Create Monster",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7e675",
+      "en": "Tirith Rhaw\\nMonster Players are in control",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9cbf8e",
+      "en": "craft",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd98b8e4",
+      "en": "Report Harassment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c85d5c",
+      "en": "Get Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93eb249",
+      "en": "Quantity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffd6aa9",
+      "en": "Your currency has been grandfathered, allowing you to exceed the cap.  You will be unable to earn additional currency until you spend below the cap.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5d36a4",
+      "en": "Resisted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f1670c",
+      "en": "Global Broadcast Box",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x930e13",
+      "en": "...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5285bc",
+      "en": "Mithril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x591d2f9",
+      "en": "Locked on target",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19c2e74",
+      "en": "Looking for players for this quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa18a02",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec96644",
+      "en": "LVL",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb6abf4",
+      "en": "Unselect All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x831e71c",
+      "en": "Error Box",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc654e7",
+      "en": "Looking for Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4be61cc",
+      "en": "Helpful",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc17f6b2",
+      "en": "Elite Master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50bdf05",
+      "en": "Close",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x742d900",
+      "en": "Standing Increase: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe95a02",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x163f384",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c51e0c",
+      "en": "Kinship Name:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x501f755",
+      "en": "Signature",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22662fc",
+      "en": "Bug Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe70ac85",
+      "en": "Female",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67f08c1",
+      "en": "Raid Assistant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79e0ccc",
+      "en": "Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda7880",
+      "en": "Show only items that are currently equipped",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4ddda2",
+      "en": "Permissions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9453d02",
+      "en": "The support database is unable to process your request at this time.  Please try again shortly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5eed954",
+      "en": "Invite",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc8e0de",
+      "en": "Click to view your current location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18fead3",
+      "en": "One of your characters has recently been in a PvMP zone.  You cannot enter monster play for [placeholder] seconds.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec48475",
+      "en": "[placeholder] (Level [placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x843ea3",
+      "en": "Connexion Status",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ef3707",
+      "en": "Do you want to transfer to the same layer as your fellowship leader?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d69394",
+      "en": "Mount skills will be shown here after they are acquired.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9589ade",
+      "en": "[placeholder] the Examine Panel (keyboard shortcut: E).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf680c5",
+      "en": "Evade ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3218f5",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f466b9",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc39f53",
+      "en": "Show Skills:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f9707c",
+      "en": "Skill Queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52c4c12",
+      "en": "Fellowship Leader",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa454d04",
+      "en": "The item power coming from the item worn as a belt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x682ddac",
+      "en": "Min Level: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37ea34c",
+      "en": "Milestone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75535d3",
+      "en": "Feet slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4de157c",
+      "en": "Decoration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42999c",
+      "en": "You don't have any Milestone Skills yet. If you have a Milestone Skill item in your pack use it to learn the skill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3238184",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeab9d65",
+      "en": "Unspent trait points!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ba3192",
+      "en": "Gather",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x188c4ec",
+      "en": "Unlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x620b9c5",
+      "en": "^[placeholder], Level [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf70211e",
+      "en": "Accept",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12fa574",
+      "en": "Gambit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceccef9",
+      "en": "Parry ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36497f",
+      "en": "Select a Milestone Destination skill to bind:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce1e61c",
+      "en": "Devastated ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6a2c35",
+      "en": "Recipe mastered: [placeholder]\\nTotal recipes: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a2932c",
+      "en": "Text Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3ef65",
+      "en": "Defeated #1:[placeholder] [placeholder] #1:{enemies | enemy[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b7b9b4",
+      "en": "Failed saving screenshot to disk.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x138d3ce",
+      "en": "Delete",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8c7995",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7812d29",
+      "en": "Summoner: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafa6bb4",
+      "en": "Show Only Trainable Skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ff49ac",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadb625",
+      "en": "Share xp amongst fellows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1704f74",
+      "en": "You've earned [placeholder] XP for a total of [placeholder] XP.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe87b584",
+      "en": "Enter/modify the fellowship name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc43e844",
+      "en": "The item power coming from the item you are wearing on your head",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6af1a4",
+      "en": "Your PVP Rating has gone up by [placeholder] points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9244ccc",
+      "en": "Skill Trainer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d426c",
+      "en": "Character Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43e6324",
+      "en": "#1:{ [!b]}#1:[placeholder]#1:{:[!b]}#2:[placeholder]#2:{:[!b]}#3:[placeholder]#3:{:[!b]}#4:[placeholder]#4:{00[b]}#5:{:[!b]}#5:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b46062",
+      "en": "Threat Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e3d44",
+      "en": "Skill Progress:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcebc7f3",
+      "en": "You currently have a perk ready and cannot get more until you use it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbeaecb4",
+      "en": "Target Progress Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcab3bee",
+      "en": "Monster Play",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbcd937",
+      "en": "Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5caafdc",
+      "en": "Barter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0fd1d3",
+      "en": "Deaths: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2db3425",
+      "en": "Close inventory panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x182a03e",
+      "en": "Accept",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf32bc9e",
+      "en": "Go to the next shortcut bar (keyboard shortcut: -).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdf96a93",
+      "en": "Hero",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95a19e5",
+      "en": "Defender",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc20b9c7",
+      "en": "You must now wait [placeholder] before being teleported to the nearest rally point. Please wait.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x789e403",
+      "en": "#1:[placeholder] #1:{d|d[1]} #2:[placeholder] #2:{h|h[1]}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b4ea04",
+      "en": "Half",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85438dc",
+      "en": "Expand All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x720a007",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ac104",
+      "en": "Scroll through the chat log.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0d5e03",
+      "en": "Opponent Vitals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c75ad2",
+      "en": "Venues",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3167c4",
+      "en": "Decrement the current shortcut set",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x385281f",
+      "en": "Player Bio Drag Bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb765447",
+      "en": "Show",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb85115",
+      "en": "Necklace slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc8cf34",
+      "en": "Show Quest Tracker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6bba27e",
+      "en": "Click to hide your current location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x32ee245",
+      "en": "Waiting for logout to complete...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8faf389",
+      "en": "Defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96fe5c4",
+      "en": "Back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8aa5ae",
+      "en": "Do not show again",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd275a4",
+      "en": "You cannot revive from an instant defeat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2486c3",
+      "en": "Showing Items.  Click to see powers from items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f21924",
+      "en": "Deflected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1983654",
+      "en": "Passive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49c5f2",
+      "en": "Healer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe444a1c",
+      "en": "Leg Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd52625c",
+      "en": "Item to Receive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40449ec",
+      "en": "Wardrobe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e78fe3",
+      "en": "Showing Powers.  Click to see items equipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b0da4",
+      "en": "Interrupted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5173a14",
+      "en": "Rank: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2014a84",
+      "en": "Sort contents by binding type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0530fe",
+      "en": "It's you!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83d006c",
+      "en": "Companion Manager",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1c6b84",
+      "en": "Dismiss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1db722c",
+      "en": "O",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x408cc34",
+      "en": "When checked, compatible items will automatically gather into this bag.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5600b3c",
+      "en": "Session Play",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40ea354",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f710dc",
+      "en": "Shared Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb27424",
+      "en": "Missed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e424e0",
+      "en": "You need [placeholder] XP for level [placeholder].\\nYour experience gains are currently suppressed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe3f4ac",
+      "en": "Inspection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c96d29",
+      "en": "How many items to drag?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5347bc",
+      "en": "K",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe83e10c",
+      "en": "Assist Window",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76af01e",
+      "en": "Close the examine panel (keyboard shortcut: E).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb43432c",
+      "en": "Reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x157808e",
+      "en": "This game is suitable for persons 15 years and older and contains violence and drug use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5e5892",
+      "en": "Shoulder slot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb8fcb4",
+      "en": "To equip a hobby, drag it from the Hobbies Panel to an available quickslot at the bottom of the game screen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcb553cc",
+      "en": "Upkeep Cost:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2946e5",
+      "en": "Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x668b40c",
+      "en": "[placeholder] the Social Panel (keyboard shortcut: F9).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19e4f64",
+      "en": "[placeholder] invites you to join a Raid, but they are in another instance.  Join the Raid and teleport to that instance?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac8d395",
+      "en": "[placeholder] invites you to join a Raid.  If you join the Raid your current Private Encounter will close.  Will you join?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc110d2e",
+      "en": "Assist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3fb417",
+      "en": "Retreat Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c11434",
+      "en": "Intelligence-based",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc348f84",
+      "en": "Select a colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9cb273",
+      "en": "Miss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb27c445",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcaf94b5",
+      "en": "Male",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4335ac",
+      "en": "Bar 5 (Undocked)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9580bfc",
+      "en": "Chat 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x315cb93",
+      "en": "FULL",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c19604",
+      "en": "Get Perks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf10d163",
+      "en": "Yes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1902b0",
+      "en": "Tribe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x489fc6c",
+      "en": "Traits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd287e4",
+      "en": "Press this button to end your travel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bb4124",
+      "en": "Open the plugin manager to manage the loading of your player-made Lua plugins. ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9da7304",
+      "en": "[placeholder], your partner, has ended this trade session.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9749234",
+      "en": "Find Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb13d704",
+      "en": "Click and drag to resize the chat box.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94b1ae1",
+      "en": "Who will you be in Middle Earth?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeaa1f4c",
+      "en": "Item Powers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f9b90c",
+      "en": "Hobby Trainer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1e7a2c",
+      "en": "Barber Shop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9dbcdec",
+      "en": "Cancel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392fcfc",
+      "en": "Monster Play",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7297d5",
+      "en": "Immune",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x573f8dc",
+      "en": "Alerts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77787d4",
+      "en": "To wield Legendary Items you must begin Volume 2 of the Epic Story.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x354d8f5",
+      "en": "Click and drag to move panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84e6e2e",
+      "en": "Recruit a new fellowship member.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bcdbf3",
+      "en": "[placeholder] Reputation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84ef7bc",
+      "en": "Decoration",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

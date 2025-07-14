@@ -1,0 +1,131 @@
+{
+  "id": 621093145,
+  "txt": [
+    {
+      "id": "0xceb0113",
+      "en": "Aid the cooks and prospectors in Thorin's Hall as they endeavour to make hard tack for an upcoming expedition. Haul ore, catch fish, collect items from the nearby larder, or undertake any other available tasks to earn commendations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Aid the cooks and prospectors in Thorin's Hall as they endeavour to make hard tack for an upcoming expedition. Haul ore, catch fish, collect items from the nearby larder, or undertake any other available tasks to earn commendations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e01",
+      "en": "Speak to the Thorin's Hall Event Coordinator",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Aid the cooks and prospectors in Thorin's Hall as they endeavour to make hard tack for an upcoming expedition. Haul ore, catch fish, collect items from the nearby larder, or undertake any other available tasks to earn commendations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "You earned Tier III Assistant Rewards ([placeholder]/10)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "Earn Thorin's Hall Commendations - Tier III ([placeholder]/10)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "You provided an enormous contribution to the Hard Tack of Thorin's Hall event and should visit the coordinator for your final reward.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "entity\\equipment\\quest\\event\\eqq_event_craft_thorinshall_commendation.wc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'Masterful performance. Please accept this token of our gratitude. Our cooks and prospectors also thank you for your contributions!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Speak to the Thorin's Hall Event Coordinator",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "<rgb=#ff0000>Hard Tack at Thorin's Hall ends</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a0",
+      "en": "Hard Tack of Thorin's Hall has ended",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Speak to the Thorin's Hall Event Coordinator",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'Masterful performance. Please accept this token of our gratitude. Our cooks and prospectors also thank you for your contributions!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You chose to assist the cooks and prospectors of Thorin's Hall. How well will you perform?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "You earned Tier I Assistant Rewards ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'If you are neither a cook nor a prospector, or you are just looking to lend a helping hand to the community here, then we have jobs for you to do.\\n\\n'You can haul ore, you can catch fish, you can fetch items from the larder, or even keep an eye on that pesky hobbit over there. I will see you earn proper commendation for each task you complete while the cooks make their hard tack.'\\n\\n<rgb=#00FF00>Accepting this quest will lock you out of accepting the Cook or Prospector Quests in the Hard Tack of Thorin's Hall Event.</rgb>\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Earn Thorin's Hall Commendations - Tier I ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "You earned Tier II Assistant Rewards ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Earn Thorin's Hall Commendations - Tier II ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Hard Tack Event: Assistant",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

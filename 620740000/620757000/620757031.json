@@ -1,0 +1,275 @@
+{
+  "id": 620757031,
+  "txt": [
+    {
+      "id": "0xa19ca23",
+      "en": "(Not yet discovered)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1612e8",
+      "en": "Not enough money.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56cde3c",
+      "en": "Return to [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2c21e4",
+      "en": "You do not meet the requirements to travel to this destination. Please examine the specific destination for additional information.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec8fb7f",
+      "en": "Travel for",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c04f59",
+      "en": "You discovered the [placeholder] travel location.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6fe14c",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90aba6",
+      "en": "Your character has become liberated.  You are being teleported back to your last location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99fa244",
+      "en": "Mithril Coins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8624224",
+      "en": "You cannot travel from this encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6090abe",
+      "en": "Your character has been imprisoned by a game administrator.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc423233",
+      "en": "Buy temp. access for",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd18f154",
+      "en": "You can already travel to this destination for free.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a3ee04",
+      "en": "Not available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x269cc25",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee01ea4",
+      "en": "This route is not available for travel using Mithril Coins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1eac47",
+      "en": "Are you sure you want to set this location as your bind point for the [placeholder] skill?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88177a1",
+      "en": "Lord Elrond must have sufficient knowledge of the lost Ring-lore of Eregion for you to use this route.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf506dcf",
+      "en": "Travel for",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b876b4",
+      "en": "You purchased a ride to [placeholder] for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7941c2c",
+      "en": "Region: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7895b9",
+      "en": "[placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x740f624",
+      "en": "You have not yet discovered this destination.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d0ce24",
+      "en": "Travel to this destination using money.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b5fafc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x532afbc",
+      "en": "Get more Mithril Coins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7769d4",
+      "en": "Spend Mithril Coins to travel to the selected destination.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcff4664",
+      "en": "No Route Selected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd982f84",
+      "en": "You spent [placeholder] to travel to [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x768adc4",
+      "en": "Level too low.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17ffb5",
+      "en": "Use my travel web.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6efef04",
+      "en": "<rgb=#FFFF00>(Unbound)</rgb> Destination",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fb7675",
+      "en": "Free",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f54814",
+      "en": "No Route Selected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x320d014",
+      "en": "Undiscovered Route",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x245d7c4",
+      "en": "You do not have enough money to travel to this destination.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x250f084",
+      "en": "Discovered Route",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x388a061",
+      "en": "Lord Elrond must have sufficient knowledge of the lost Ring-lore of Eregion for you to use this route.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56a7c1c",
+      "en": "Area:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0ce27e",
+      "en": "\\nOn expiration, you will be returned to [placeholder] ([placeholder]).\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4a924c",
+      "en": "Swift Travel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3fd96b4",
+      "en": "Spend Mithril Coins to gain temporary access to the selected destination.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7803ee5",
+      "en": "Are you sure you want to set this location as your new bind point for the [placeholder] skill? This will replace the skill's current bind location of [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x481fbc4",
+      "en": "No Route Selected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x925f034",
+      "en": "Swift Travel",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

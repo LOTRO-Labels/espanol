@@ -1,0 +1,881 @@
+{
+  "id": 620953420,
+  "txt": [
+    {
+      "id": "0xeb01154",
+      "en": "You will need some supplies if you are to have success on your journey.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d01",
+      "en": "'Tell me what?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ad8",
+      "en": "Follow Langhár as she continues her walk through the fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d02",
+      "en": "'My family is strong, Radagast.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56848",
+      "en": "You have prepared for the journey, and now it is time to leave the land of your home in search of the Ranger Aragorn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d03",
+      "en": "'We do not fear goblins. They feared my father Beorn, and they fear me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d04",
+      "en": "'They will fear my children, in time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d05",
+      "en": "'Be silent!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1513f01",
+      "en": "'Find the wandering milk-cow and send her back to the pen.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff03701",
+      "en": "'Oh, it is no bother...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d06",
+      "en": "'I will spare only one of my line, Radagast.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1513f02",
+      "en": "'Let the Wizard worry about his own affairs.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d07",
+      "en": "'I will send [placeholder] with your message.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1513f03",
+      "en": "'Well? What do you have to say for yourself?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa95d08",
+      "en": "'I have said my piece.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1513f04",
+      "en": "'You know, I would have brought you some clover if that was all you wanted.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cbe1e1",
+      "en": "'I can run faster than Sterkist!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cbe1e2",
+      "en": "'We will see you again, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Ofolmóth has called your name. He is standing just beyond the gate of Grimbeorn's yard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Ofolmóth wants you to test your mettle against the sickle-flies around the surrounding fence. If you work your way around the fence to the west and south, you will find the nuisances in sufficient numbers to get some good practice.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56877",
+      "en": "Langhar smiles at you, but before you speak with your sister you should finish your first chore: defeating the sickle-flies that buzz nearby.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Your sister Langhár often wanders the clover-fields, keeping a watch on any threats that stray too near to Grimbeorn's home. She called to you after you defeated many sickle-flies, and she can be found to the south-west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Goblins have come to the vales of the Anduin, and you should bring word of their presence to Grimbeorn at his lodge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba1",
+      "en": "'Speak up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba2",
+      "en": "'Can they not speak any louder?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba3",
+      "en": "'I have never known our sire to be so soft-spoken!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba4",
+      "en": "'Do all Wizards speak so softly?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'These goblins thought they could best me? Foolish creatures! It would take two dozen goblins to draw blood, and still I would be their better.\\n\\n'Hurry to the lodge and tell Grimbeorn the goblins have lost any of the wits they may have once had.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba5",
+      "en": "'This is frustrating. Speak up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba6",
+      "en": "'All seems loud save the words I want to hear!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "You quickly tell Sterkist about the goblins that attacked you and Langhár.\\n\\n'That is very peculiar, [placeholder]! Beorn put the fear of our kind in the goblins when he stalked these vales, and we have done our part to maintain their terror of us, have we not? What could make them think to stray once again to this side of the river?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ebba7",
+      "en": "'I give up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have lived in the sheltered vales of the River Anduin for all of your life, but now the wild lands beckon you, and adventure lies before you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "#-1:[placeholder]'Yes, young one. I have made my decision. You will leave this sheltered land and bring a message of warning where the Wizard believes it must go. I long thought our folk could remain separate from the other peoples, as my father wished, but these are no longer those days.\\n\\n'Perhaps I will send others in the days ahead, but for now you will represent the line of Beorn in the wider world. Act with strength and clarity of purpose, [placeholder], and let all who see you say, 'There goes a #-1:{woman[f]|man} of Beorn's line. Cross #-1:{her[f]|him} at your peril!'\\n\\n'I do not believe in long farewells, young one. Learn your task from the Wizard, say good-bye to your siblings, and bring no disfavour upon our line.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "It seems that Radagast already knew of the goblin-movements, and his visit to Grimbeorn related in some way to the rising troubles of the world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Grimbeorn has made his decision: he will send you on Radagast's errand, to bring a warning of the rising darkness that threatens Middle-earth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'Good, good, good! I worried that Grimbeorn would not see the urgency of this matter, but reason has won out. I have always had a way with bears and beasts, and, well... you see... nevermind, nevermind. Not important!\\n\\n'A dark power is rising, [placeholder]. I cannot put a name to it, if indeed it has a name, but something has unsettled the natural world. I will seek the greatest of the Five Wizards, for he has made a study of many things unknown to me and may know what is happening.\\n\\n'I want you to seek out someone else. He is a Ranger, and his name is Aragorn. He has been enmeshed in the affairs of Wizards for some time now, and if the rumblings I sense are a real danger, as I fear, I know that Aragorn must take especial care not to fall prey to them.\\n\\n'The last I heard, he was travelling through the Bree-land, beyond the mountains.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd21200",
+      "en": "'Until then, farewell!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Radagast has an urgent errand for you to undertake, and it will take you far from the familiar lands of your home.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Find the meandering milk-cow and convince her to return to her pen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "Sterkist growls at you in the language of bear-kind, but the words you speak are filled with affection. He bristles, and finally relents.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Talk to Ofolmóth and learn what he wants from you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "The time has come to bid farewell to your siblings before you journey out into the wider world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": " #-1:[placeholder]'How many afternoons have we spent in this way, [placeholder]? Once the work is done, and our chores finished, it seems every day sees us staring out at the pond of Grimbeorn our elder, thinking airy thoughts.'\\n\\nSterkist sighs, as he often does on such afternoons, and scratches idly at his arm.\\n\\n'You are my #-1:{sister[f]|brother}, [placeholder], and we keep no secrets from each other. Is this all we have a right to expect? The blood of the skin-changer flows within us, and must move us to greater deeds than this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Speak to Ofolmóth when you are ready to engage in battle with him",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Defeat sickle-flies outside the surrounding fence ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "#-1:[placeholder]'I have only seen Radagast once or twice, and that was when we were very young; do you remember? We were very small then, and he was kind to us, but I do not think he enjoyed leaving his home in Mirkwood.\\n\\n'Something serious must have happened to draw him here, my #-1:{sister[f]|brother}! I will sniff around the lodge and see if I can overhear any of his conversation with our sire, and you should talk to Varthmath at the animal pens. Our cousin talks little, but he hears much, and he might know something.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Langhár in the fields outside Grimbeorn's yard, to the south-west",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'What brings you hither, cousin?'\\n\\nYou tell Varthmath that Radagast the Wizard has left Mirkwood and is speaking with Grimbeorn, and that you hoped he might have heard why. Varthmath responds with a brusque snort.\\n\\n'I know what brings him here: his own business. If it becomes a concern of ours, Grimbeorn will let us know. Until that time you should mind your own matters. Even better: you should make yourself useful to me.\\n\\n'One of our milk-cows has wandered from the pen. Find her before she gets outside the surrounding wall, and tell her to return.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'Has it come to this, [placeholder]? Do you serve those lazier than you, fetching lost cows and running errands?'\\n\\nOfolmóth laughs harshly.\\n\\n'You are of Beorn's line, as am I, but I have not forgotten what that means. To you it means little! We should live our lives with ferocity, seizing each moment with tooth and claw. No one is my master.\\n\\n'I fear you have grown soft, [placeholder]. Only by harnessing your Wrath in battle can you truly live up to your heritage! Prepare yourself for battle and test your skills against me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2121",
+      "en": "'What has happened? I heard fighting!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2122",
+      "en": "'We need to tell Grimbeorn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'There are few like us, [placeholder]. That is why I test you as I do. The legacy of Beorn is rare and dwindling. We must use it to be the strongest of his children and grandchildren! As we do battle, the Wrath fills our hearts, and drives us with great ferocity, empowering the skills we use in combat!\\n\\n'Let our foes beware! They tangle with the line of Beorn at their peril!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2123",
+      "en": "'Our sister was not hurt, was she?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "You and your brother Sterkist have spent many idle afternoons watching the still waters of the pond by Grimbeorn's lodge once the work was done.\\n\\nSterkist is in a philosophical mood this particular afternoon and wishes to continue your conversation.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2124",
+      "en": "'Sometimes goblins have thick skulls, and she might carelessly chip a tooth or a nail.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'I find nothing so maddening as weakness, [placeholder]. Drive it from your body with training and practice! The line of Beorn deserves nothing less.\\n\\n'Follow the surrounding fence and practice your skills against the sickle-flies you find. Such training will make you stronger and more fierce!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2125",
+      "en": "'Goblins! The goblins dare to attack us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2126",
+      "en": "'I will go!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "#-1:[placeholder]'I did not think to see you again today, my #-1:{sister[f]|brother}! Most afternoons you spend daydreaming in the sun with Sterkist. What is different about this day?'\\n\\nYou tell Langhár that Radagast the Wizard has paid a visit to Grimbeorn, and that Ofolmóth set you to fighting the sickle-flies for practice. Your sister smirks and adopts a gruff, snarly voice.\\n\\n'Fight! Roar! Battle! Growl! The line of Beorn is the finest of all,' she booms in a passable impression of Ofolmóth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6cef61",
+      "en": "Your sister Langhár calls to you from the south-west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2127",
+      "en": "'That is not fair!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2128",
+      "en": "'Ah, do not mind me, [placeholder]. I am happy for you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "One of the milk-cows has wandered out of the pen, and Varthmath wants you to find her and send her back before she leaves Grimbeorn's yard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd2129",
+      "en": "'It will not be long before I convince Grimbeorn to allow me such a journey as well!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Sterkist beside Grimbeorn's pond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Sterkist in front of Grimbeorn's lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Talk to Varthmath at the animal pen west of Grimbeorn's lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "Ofolmóth believes that the line of Beorn is best served by constant and ferocious battle. He wants to ensure that you are as strong as you can be, and wants you to test your skills against him in battle.\\n\\nHe has asked you to speak to him when you are ready.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "Goblins have come to the vales of the Anduin, and you should return to Grimbeorn's lodge and warn your family of the threat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "#-1:[placeholder]'Did I not tell you your time would come soon, my #-1:{sister[f]|brother}? Perhaps I am as much a Wizard as Radagast himself!'\\n\\nLanghár laughs cheerily.\\n\\n'No, that is not what I want. I want to explore the lands beyond our home, [placeholder], as you are about to do. I want to seek adventure! I will follow you sooner rather than late, [placeholder], I assure you!\\n\\n'Until we meet again, #-1:{sister[f]|brother}! Find this Ranger, deliver Radagast's message, and do not have your fill of adventure before Sterkist and I can join you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0bae55",
+      "en": "Horse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc64fe20",
+      "en": "'Something is not right. Can you feel it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc64fe21",
+      "en": "'Goblins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc64fe22",
+      "en": "'There are more of them! It must be a raiding party!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc64fe23",
+      "en": "'Hurry back to the lodge, [placeholder], and tell them we are under attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc64fe24",
+      "en": "'I will stay here and deal with any goblins still lurking about!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc64fe25",
+      "en": "'Fight on!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "You approach the milk-cow and she lows nervously. Something has caused her distress. What could it be?\\n\\nWhen you were young you developed the ability to understand many of the animal languages, a gift of your ancestor Beorn. You call upon this natural facility now to speak gentle reassurances to the milk-cow.\\n\\nBefore long her calm nature returns and she begins to move slowly back to her pen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Skin-changer's Heritage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "The Wizard Radagast has come to Grimbeorn's lodge, and your mind races to determine the reason. Your brother Sterkist wants your help to learn what has brought the Wizard from his Mirkwood home.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17b87d1",
+      "en": "'Goblins, [placeholder]! Go tell Grimbeorn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Varthmath may know what brought Radagast out of Mirkwood, and you should find him at the animal pen to the west of the lodge. Your cousin is a man of few words, but his keen ears miss little.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed62",
+      "en": "Listen to Langhár's words",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f21",
+      "en": "'Are we not descended from Grimbeorn, and from Beorn before him?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8d301",
+      "en": "'Pardon the interruption, Radagast.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "Ofolmóth is surrounded by the bodies of goblins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f22",
+      "en": "'You know we are. That is a proud heritage, one claimed by only few!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8d302",
+      "en": "'Sometimes cubs do not know when to keep their silence.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f23",
+      "en": "'Few can do what we can, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8d303",
+      "en": "'We will speak inside.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b901",
+      "en": "'It is as I told you, Grimbeorn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f24",
+      "en": "'Why does Grimbeorn insist that we stay near our home?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8d304",
+      "en": "'And I will speak to them later.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b902",
+      "en": "'A dark power is rising once more, sending forth its evil.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f25",
+      "en": "'Wait a moment. Who is that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b903",
+      "en": "'Animals... plants... all living things are threatened!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f26",
+      "en": "'Let us see, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b904",
+      "en": "'I thought I could remain in isolation as well, but this time that is folly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f27",
+      "en": "'Is that... Radagast? Radagast the Wizard?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b905",
+      "en": "'I must bring warnings to the folk we can trust: Wizards, Elves, dwarves, Rangers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f28",
+      "en": "'It is!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b906",
+      "en": "'But I cannot be everywhere, Grimbeorn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c48f29",
+      "en": "'Why do you think a Wizard would come here, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b907",
+      "en": "'I came to you because I need the message delivered quickly. Send all your children!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b908",
+      "en": "'Find Aragorn and tell him that the dark power rises, greater even than the Wizards.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa1b909",
+      "en": "'He must be cautious, and not face it alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed79",
+      "en": "Listen to your brother's words",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Talk to Sterkist and convince him not to remain a sulking bear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Talk to Langhár",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "Defeated sickle-flies ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x116e9d1",
+      "en": "'Oi, [placeholder]! What are you doing?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe1",
+      "en": "'Over here, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x116e9d2",
+      "en": "'Speak to me when you are ready, and we will test our skills in battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe2",
+      "en": "'I think Ofolmóth could stand to brood less upon our mighty heritage, and more time helping out.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x116e9d3",
+      "en": "'Let your Wrath fuel your abilities, and harness the beast within you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe3",
+      "en": "'Will you accompany me, [placeholder]? I am nearly ready to return.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x116e9d4",
+      "en": "'Your skills improve, [placeholder], but they are not yet at their peak.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Complete your preparations before leaving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe4",
+      "en": "'It has been years since Radagast came to our home-land.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x116e9d5",
+      "en": "'Do as I do, and practice your abilities on the sickle-flies in the clover.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe5",
+      "en": "'He would not leave his home in the Mirkwood unless he had serious cause to do so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x116e9d6",
+      "en": "'They are a nuisance, but if they help you hone your skills they will be of some value.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Talk to Radagast and Grimbeorn, fill the horse's saddlebags, and depart on your journey",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe6",
+      "en": "'The Carrock.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe7",
+      "en": "'I know that you and Sterkist often climb the carved steps and stand atop the summit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe8",
+      "en": "'Do you think you will go beyond the Carrock and cross the river one day?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c64fe9",
+      "en": "'I think one day you will.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01144",
+      "en": "Goblins have converged on Grimbeorn's yard, and you should bring word to him of their attack.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Hurry back to the entrance to Grimbeorn's lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Hurry to Grimbeorn's lodge to warn him of the goblins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc48f200",
+      "en": "'Find Varthmath at the animal pens and see if he knows anything.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Sterkist outside Grimbeorn's lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc48f201",
+      "en": "'I will see what I can learn around here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50256",
+      "en": "Listen to Radagast's tidings of the wider world",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc48f202",
+      "en": "'Hmmm...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Talk to Grimbeorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed93",
+      "en": "Follow Sterkist and ease your brother's grumbling... if you can",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Talk to Radagast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56843",
+      "en": "'Aragorn is a Ranger, which means he travels often in the Wild, and he is looked upon with mistrust by the folk of villages beyond the mountains. Much like me, now that I think of it!\\n\\n'Here, I will go with you a short way, and I will tell you what I know of the path through the mountains, and how to find the Bree-land...'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

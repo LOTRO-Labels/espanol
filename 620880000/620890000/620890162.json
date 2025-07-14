@@ -1,0 +1,83 @@
+{
+  "id": 620890162,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "Collect a green apple ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Collected a red apple ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "Collected a golden apple ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "A customer at the vendor stall has requested a number of fresh apples.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the event it is associated with ends. </rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Apples please! Hello, I need apples! And a good number of them, as well. Please get to work right away.\\n\\n'The crate is somewhere behind your stall there. Move along now -- I do not have all day.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The apple crate is near the vendor stall in Bywater.\\n\\nYou should search for apples within the crate to fill this customer's order.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'There you are! Thank you, [placeholder] -- that customer was growing restless. I will get the order to her. I just need to find a bag....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Daisy Sandyman is in Bywater in the Shire.\\n\\nYou should deliver the apples you gathered to Daisy Sandyman.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Collect green apples ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Collect red apples ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Collect golden apples ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Deliver the apples to Daisy Sandyman at the vendor stall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Apple-shopping",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

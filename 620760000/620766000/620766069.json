@@ -1,0 +1,329 @@
+{
+  "id": 620766069,
+  "txt": [
+    {
+      "id": "0x1cd6279",
+      "en": "'Stop that dwarf!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cafd22",
+      "en": "'Help! Come quick!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35800cc",
+      "en": "'Augh!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x206caf9",
+      "en": "'To arms! We are under attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbc8d24",
+      "en": "'Give me a moment to catch my breath.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8d2691",
+      "en": "'Let us pause and get our bearings, lest we are caught unawares.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8d2692",
+      "en": "'One moment, I thought I heard something up ahead....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60037f4",
+      "en": "'You! Deliver Avorthal up to us or face the consequences!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b8679",
+      "en": "'Come now, let us end this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8eac1",
+      "en": "'Deal with them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8eac2",
+      "en": "'Remember what is at stake!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'This has been a waste of time and blood, neither of which we can afford. Let us discuss our possible paths back at the lodge.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Hurry, we must return.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'We should proceed without delay. Together, we may defeat the Dourhands and rescue Avorthal!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x188d90c",
+      "en": "'Careful, there will be many enemies ahead....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'They know we are here now. The fighting will be worse up ahead.\\n\\n'Now. It is time to go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'This has been a long and dangerous trek, but I am glad to have had you at my side throughout it all.\\n\\n'Come now, let us end this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Langlas has died!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Langlas has died!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5e2475",
+      "en": "'My thanks friend, Langlas.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "Langlas has died!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "Langlas has fallen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "Skorgrím's lieutenant has been defeated",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have travelled with Langlas to the Dourhand encampment in an effort to rescue the Elf-prince Avorthal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b6c85",
+      "en": "'Let us hasten to rescue Avorthal!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28fa83e",
+      "en": "travel_exit (desc)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa72021",
+      "en": "'Skorgrím will have your head, you lout!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa72022",
+      "en": "'I'm not scared of that blighter.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5403975",
+      "en": "'To arms! To arms!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d4f352",
+      "en": "'Is this who you were after?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Speak to Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d4f353",
+      "en": "'Here, have him....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Defend Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d4f354",
+      "en": "'The time for talk has passed! Have them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Speak to Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f66582",
+      "en": "'We will need all of our strength for the coming battle, I fear.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Defend Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Speak to Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Defend Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Speak to Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Speak to Langlas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc996c25",
+      "en": "travel_exit (info)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac0ac83",
+      "en": "'Come my pets!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Langlas requires your assistance to find and free Avorthal. You should watch each other's backs, lest you fail.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "You have made progress into the Dourhand camp, but the effort was not easy, and Langlas has advised you rest before continuing on. You should let Langlas know when you are ready to go on.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3330338",
+      "en": "'That's enough!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "This is the heart of the camp. Skorgrím's lieutenant is waiting for you. Talk to Langlas when you are ready to confront the villain and learn what happened to Avorthal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2de3c1",
+      "en": "'Careful now, we are moving deeper into their camp!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Hakon Ironfist has been defeated, but it appears that Avorthal is not here. Speak to Langlas when you are ready to return to the hunting lodge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2de3c2",
+      "en": "'Let's rest here for a moment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "With Mathi dead and Avorntal safe, you should find out from Langlas if there is anything else he would have you do.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3f664",
+      "en": "'Let us hold here. I sense we are near the end of our pursuit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d7581c",
+      "en": "'There, my friend. I have done what I can for now. Soon you'll be in my capable hands!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: To Avert a War",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

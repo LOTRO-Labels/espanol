@@ -1,0 +1,95 @@
+{
+  "id": 621039102,
+  "txt": [
+    {
+      "id": "0x6a502a6",
+      "en": "Use the Call Radhril skill and talk to Radhril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'Let us tread carefully. There are many foes lurking about Cotfast. I hope that we can recover most of the stolen goods as well as free all of the forest creatures the denizens of the village have caged. I am ready when you are, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Retrieve stolen goods ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Use the summoning horn at the western entrance to Cotfast to summon Radhril to your side.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "You should talk to Radhril.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Free caged animals ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "Freed caged animals ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "You should retrieve stolen goods and free caged animals at Cotfast.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "Retrieved stolen goods ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have been tasked with thwarting the efforts of foes dwelling in the village of Cotfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'I commend your efforts, [placeholder]! Come, let us return and report our success to the Free Peoples.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "You should return to entrance to Cotfast.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Return to the western entrance of Cotfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Mission: Attack on Cotfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Pick up the summoning horn",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

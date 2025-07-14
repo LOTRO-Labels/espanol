@@ -1,0 +1,137 @@
+{
+  "id": 620820551,
+  "txt": [
+    {
+      "id": "0xc41c471",
+      "en": "'The Chamber of the Cross-roads? The entrance is just to the north there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c48",
+      "en": "'You are getting nearer to the Chamber of the Cross-roads, [placeholder]. Climb this ramp and pass north through the Palace of Náin. Your path will then bend to the east, where you must be careful to jump across several fissures in the floor.\\n\\n'After a short time, you will see a mighty bridge on your left; it travels north, through the Dwarf-lords' Gate.\\n\\n'That is where you must go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c49",
+      "en": "'Do you see that reddish-glow to the north-west, [placeholder]? You must follow that passage if you are seeking the Chamber of the Cross-roads.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x711ad85",
+      "en": "Iron Garrison Guide",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The dwarves have entered Moria at last, but their work has just begun. You will need to assist them in their struggle if they are to find any success in the forgotten halls of Khazad-dûm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d50a0f",
+      "en": "travel_exit (info)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Tulk is waiting to speak with you just inside the Doors of Durin. You remember him, do you not? He is pleased that you proved such a boon to the expedition and will be delighted to speak with you again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Tulk is just inside the Doors of Durin that stand by the still pool where you did battle with the Watcher in the Water.\\n\\nYou have been told to speak with Tulk about the dwarves that have entered Moria.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'[placeholder], hello! Here we are, inside Khazad-dûm at last! There is a great deal to be done at the several camps we are establishing here, and you can help us to succeed at the mighty task before us!\\n\\n'Bósi asked me to reward you for your leadership before the Doors. Take this with his thanks, and those of the entire Iron Garrison!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64d8bee",
+      "en": "travel_exit (desc)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Bósi has established a command centre somewhere within Moria, and is waiting to speak with you there.\\n\\nThe dwarves of Moria will be able to guide you to Bósi's new command centre, a guard room with a strategic location somewhere within the mines.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Tulk is just inside the Doors of Durin, waiting to speak with you.\\n\\n'The Black Pool is empty now, and it seems to be safe, though still foetid. Tulk will tell you how you may continue to assist the Iron Garrison when you arrive inside Moria.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Welcome, [placeholder], to the Chamber of the Cross-roads! This shall be my command centre for a time as we establish our presence here in Moria. We will busy ourselves with making ready to repopulate the mines and cities beneath the mountains.\\n\\n'I will never forget the great deeds you have done on behalf of my expedition, and eagerly await tales of your future achievements. I am ever at your service, and may your feet lead you well in the darkness of Khazad-dûm and beyond.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Bósi was looking for a strategic location to set his command centre, but planned to have the dwarves of the expedition establish camps at various spots along the way. Ask around until you find the site of Bósi's camp.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'You are looking for the Chamber of the Cross-roads, [placeholder]? You have quite a trek ahead of you, for Bósi's command centre is a good distance from here.\\n\\n'You will want to look for Iron Garrison Guides like myself as you make your way to the Chamber of the Cross-roads; we will steer you aright!\\n\\n'Bósi's command centre is not far along Durin's Way, but Durin's Way is a long way to the east. Start your journey east and north by climbing these steps.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Find Bósi's centre of command and talk to him",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'The road to the Chamber of the Cross-roads? As you keep heading east, you will pass into a series of very dark caverns, lit only by some curious blue crystals.\\n\\n'Follow this sloping path as it curves and descends, watching out for the gredbyg, vile insects that inhabit the darkness.\\n\\n'Another guide of the Iron Garrison should be by a railing in the midst of the dark cavern.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'This may be the most difficult part of your passage to the Chamber of the Cross-roads, [placeholder], because it is so dark.\\n\\n'You want to travel north-east through the darkness, following the sloping paths as they descend to buildings made by the ancient dwarves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 13: Khazad-dûm At Last!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'You're looking for the Chamber of the Cross-roads? Well, you should start out by heading north from here.\\n\\n'Wait! Hold on a moment! There's a great fissure in the floor just to the north! Be careful as you go -- you can skirt it on the left, but only if you pay attention and see it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c470",
+      "en": "'You have nearly come to Bósi's command centre, [placeholder]!'\\n\\n'Head east until you see stairs on your left. At the bottom of those stairs you will see another set of stairs on your right. You will then be at Manarbul, and the door to the Chamber of the Cross-roads will be to the north!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c47",
+      "en": "'You're looking for the Chamber of the Cross-roads? You want to head east of here to the Palace of Náin. Watch out for the great fissure in the path, and make your way around it on the left!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "id": 621065578,
+  "txt": [
+    {
+      "id": "0xe079571",
+      "en": "'This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe079572",
+      "en": "'They came this way... but where then did they go?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe079573",
+      "en": "'Good luck, my friend. We will join you when we can.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Talk to Halbarad in Dol Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4951",
+      "en": "'He is down here, but I know not how we might save him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "Meneldir slips away. He is gone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Search the throne room of Dol Ernil for clues",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4952",
+      "en": "'Look out!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4953",
+      "en": "'Meneldir! Awake from this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4954",
+      "en": "'You lie! How have you worked this evil?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'There must be some clue here in the throne room of Dol Ernil, [placeholder], if only we can find it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4955",
+      "en": "'Release him from this spell!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Halbarad seeks some clue to the disappearance of Meneldir and Gorwen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4956",
+      "en": "'No! Noooooo!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f4957",
+      "en": "'I will live. But Meneldir...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "The tracks have become even more confused in the throne room of Dol Ernil.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Halbarad stands in the throne room of Dol Ernil, searching for some clue to the whereabouts of Gorwen and Meneldir.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'The tracks lead into Dol Ernil, but the message I read from them is confused. I cannot determine if Gorwen and Meneldir came this way in peace, or if their progress was hindered by an onslaught of foes. They were together, at least. Of that I am certain.\\n\\n'We must follow them. Prepare for battle, friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Meneldir and Gorwen have vanished from the camp-site outside Dol Ernil. Did they run afoul of the Grey Fear?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "The trap-door in the corner of the throne room leads to catacombs beneath the fortress.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Did Meneldir and Gorwen come to the catacombs beneath Dol Ernil?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'A trap-door leading to catacombs beneath the fortress? I do not think Gorwen would follow Meneldir into such a place, [placeholder].\\n\\n'We will continue the search up here, but if you think there is a chance the two of them descended into the catacombs...\\n\\n'If that is what you believe, I will not stop you from there continuing your search. We will join you below when we have finished looking for them up here... and with fortune we will bring you word that they are found, and your own search of the catacombs was needless.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Did Meneldir and Gorwen come to the catacombs beneath Dol Ernil?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a0",
+      "en": "The trap-door leads to catacombs beneath the fortress",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Something is amiss in the catacombs beneath Dol Ernil, and more than one life endangered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'Something is wrong, [placeholder].\\n\\n'While you were gone, Meneldir and I passed the time in quiet conversation. Nothing seemed amiss for hours! But then, all at once, he leapt to his feet, upsetting his cup and dropping his crust of bread in the dirt. \\qIt is not dark enough for such creatures!\\q he shouted, drawing his sword. \\qWhat do you see?\\q I asked him, but he answered me not; I do not think he heard my words, and he dashed away from the camp and out among the ruins.\\n\\n'I gathered up my own equipment and followed him, but for the risk of being cut by one of his blind swings I dared not get too near. It is a wonder he did not blunder into the wights that prowl the ruins above, or perhaps it is not. They might not have understood the words he spoke, and believed his swings were made at them.\\n\\n'But I heard the words. He does not know where he is, [placeholder]. He thought the throne room above was a farmhouse in the woods, and the trap-door the entrance to a root cellar. I do not know what illusory foe he believes he faces, but whatever form it takes, I know this: it must be the work of the Grey Fear.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "You must search the catacombs for Meneldir and Gorwen... alone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "A terrible evil lurks within the catacombs beneath Dol Ernil.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08edb7",
+      "en": "Fight alongside Halbarad in Dor Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Meneldir has sustained a grievous wound. He has little time left.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "You have found Gorwen. She is alive!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "Meneldir's breathing is shallow, his heart beat slow. He does not have much time left.\\n\\n'There were trolls, [placeholder]... like there were before. My watch... my vigil... I would not abandon those folk. Not... not this time.\\n\\n'Not for my... not for my oath. For me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'The creature has fled, [placeholder], and we cannot pursue it from here. But we will see its designs undone, and the schemes of its master overthrown. I swear it.\\n\\n'For now we will bring Meneldir from this place. We will not leave him here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0322b1",
+      "en": "'Stay thy hand, creature!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0322b2",
+      "en": "'But still we will oppose you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Survive your encounter with the Grey Fear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0322b3",
+      "en": "'Gorwen... are you all right?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Hear Meneldir's last words",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f1",
+      "en": "'The spectres of his past hold him tightly, woman.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f2",
+      "en": "'He will never escape them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f3",
+      "en": "'Great power resides in Carn Dûm. I was given only a part.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f4",
+      "en": "'The new lord of Angmar possesses a good deal more.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f5",
+      "en": "'Release him? Only the grave can do so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f6",
+      "en": "'The power given to me by my master is of great use.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f7",
+      "en": "'All he asks in return is that I serve him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f8",
+      "en": "'But I was a lord. This was to be my land!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7e01f9",
+      "en": "'None command me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa78cd1",
+      "en": "'Trolls? At this time of year?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa78cd2",
+      "en": "'There is no time to waste! Slay them all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa78cd3",
+      "en": "'The trolls return!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa78cd4",
+      "en": "'I will not abandon you. I will not!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ac0",
+      "en": "Fight alongside Gorwen in the catacombs beneath Dol Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e49",
+      "en": "Gorwen has been defeated, and you have failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ac2",
+      "en": "Fight alongside Halbarad in Dol Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e01ff0",
+      "en": "'Perhaps I will take on a new form. A young form, and strong.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e01ff1",
+      "en": "'This kingdom will be mine again: a kingdom of the Dead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e01ff2",
+      "en": "'You are too late!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e01ff3",
+      "en": "'Your time will come, thin-blooded craven.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e01ff4",
+      "en": "'The kingdom of the Dead will await you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Talk to Halbarad in the throne room of Dol Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Use the trap-door in the corner of the throne room to descend into the catacombs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Arrive in the catacombs beneath Dol Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e58",
+      "en": "Your mission has failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Search the catacombs beneath Dol Ernil for Meneldir and Gorwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Gorwen in the catacombs beneath Dol Ernil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Spectre of the Grey Fear",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

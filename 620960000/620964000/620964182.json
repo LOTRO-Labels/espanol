@@ -1,0 +1,617 @@
+{
+  "id": 620964182,
+  "txt": [
+    {
+      "id": "0xa8e11a2",
+      "en": "You have discovered the plaque of King Ostoher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "You have discovered the plaque of King Rómendacil I Tarostar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Find the plaque of King Telumehtar Umbardacil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "You have discovered the plaque of King Turambar Onótimo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50264",
+      "en": "Find the plaque of King Narmacil II Romenturún",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba12",
+      "en": "King Ondoher Manardil, son of Calimehtar -- 1936 - 1944.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "Find the plaque of King Calimehtar Minastan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba15",
+      "en": "King Eärnil II Melehta, son of Siriondil -- 1945 - 2043.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba16",
+      "en": "King Eärnur Teldil, son of Eärnil -- 2043 - 2050.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "You have discovered the plaque of King Meneldil Teltarcil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b4",
+      "en": "You have discovered the plaque of King Cemendur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50272",
+      "en": "Find the plaque of King Minardil Úmanwa",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b7",
+      "en": "You have discovered the plaque of King Eärendil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b9",
+      "en": "You have discovered the plaque of King Anardil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50275",
+      "en": "Find the plaque of King Telemnar Sintavarda",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50278",
+      "en": "Find the plaque of King Tarondor Andovarda",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Find the plaque of King Ostoher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Find the plaque of King Rómendacil I Tarostar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd082ba5",
+      "en": "King Isildur, son of Elendil -- SA 3341 - TA 2.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Find the plaque of King Turambar Onótimo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd082ba8",
+      "en": "King Anárion, son of Elendil -- SA 3320 - 3440.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd082ba9",
+      "en": "King Meneldil Teltarcil, son of Anárion -- TA 2 - 158.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Find the plaque of King Meneldil Teltarcil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50293",
+      "en": "Find the plaque of King Cemendur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa2",
+      "en": "The Line of Kings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba40",
+      "en": "King Valacar Formendur, son of Minalcar -- 1366 - 1432.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Find the plaque of King Eärendil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Find the plaque of High King Elendil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Find the plaque of King Anardil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e114",
+      "en": "You have discovered the plaque of King Isildur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba45",
+      "en": "King Eldacar Vinitharya, son of Valacar -- 1432 - 1437 -- 1447 - 1490.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba46",
+      "en": "King Aldamir, son of Eldacar -- 1490 - 1540.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e117",
+      "en": "You have discovered the plaque of King Anárion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Find the plaque of King Ciryandil Úmarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Find the plaque of King Hyarmendacil I Ciryaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba53",
+      "en": "King Narmacil I, son of Atanatar -- 1226 - 1294.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Find the plaque of King Atanatar II Alcarin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have discovered the plaque of High King Elendil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba56",
+      "en": "King Calmacil, son of Atanatar -- 1294 - 1304.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1131",
+      "en": "You have discovered the plaque of King Ondoher Manardil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba59",
+      "en": "King Rómendacil II Minalcar, son of Calmacil -- 1304 - 1366.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1134",
+      "en": "You have discovered the plaque of King Eärnil II Melehta",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Find the plaque of King Atanatar I",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1137",
+      "en": "You have discovered the plaque of King Eärnur Teldil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Find the plaque of King Siriondil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba60",
+      "en": "King Tarondor Andovarda, son of Minastan -- 1636 - 1798.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Find the plaque of King Tarannon Falastur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba63",
+      "en": "King Telumehtar Umbardacil, son of Tarondor -- 1798 - 1850.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Find the plaque of King Eärnil I Ciryatan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba66",
+      "en": "King Narmacil II Romenturún, son of Telumehtar -- 1850 - 1856.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1142",
+      "en": "You have discovered the plaque of King Telumehtar Umbardacil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba69",
+      "en": "King Calimehtar Minastan, son of Narmacil -- 1856 - 1936.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1145",
+      "en": "You have discovered the plaque of King Narmacil II Romenturún",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1148",
+      "en": "You have discovered the plaque of King Calimehtar Minastan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba71",
+      "en": "King Hyarmendacil II Vinyarion, son of Aldamir -- 1540 - 1621.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba74",
+      "en": "King Minardil Úmanwa, son of Vinyarion -- 1621 - 1634.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba77",
+      "en": "King Telemnar Sintavarda, son of Minardil -- 1634 - 1636.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1150",
+      "en": "You have discovered the plaque of King Hyarmendacil II Vinyarion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1153",
+      "en": "You have discovered the plaque of King Minardil Úmanwa",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50210",
+      "en": "Find the plaque of King Ondoher Manardil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1156",
+      "en": "You have discovered the plaque of King Telemnar Sintavarda",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50213",
+      "en": "Find the plaque of King Eärnil II Melehta",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba80",
+      "en": "King Anardil, son of Eärendil -- 324 - 411.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1159",
+      "en": "You have discovered the plaque of King Tarondor Andovarda",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba83",
+      "en": "King Ostoher, son of Anardil -- 411 - 492.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50218",
+      "en": "Find the plaque of King King Eärnur Teldil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba86",
+      "en": "King Rómendacil I Tarostar, son of Ostoher -- 492 - 541.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba89",
+      "en": "King Turambar Onótimo, son of Tarostar -- 541 - 667.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1162",
+      "en": "You have discovered the plaque of King Valacar Formendur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1164",
+      "en": "You have discovered the plaque of King Eldacar Vinitharya",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "You have discovered the plaque of King Aldamir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x708d0e1",
+      "en": "High King Elendil, son of Amandil -- SA 3320 - 3441.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba92",
+      "en": "King Cemendur, son of Meneldil -- 158 - 238.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ba95",
+      "en": "King Eärendil, son of Cemendur -- 238 - 324.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "You have discovered the plaque of King Atanatar II Alcarin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1172",
+      "en": "You have discovered the plaque of King Narmacil I",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Read the plaques on the statues of the kings of Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "You have discovered the plaque of King Calmacil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "You have discovered the plaque of King Rómendacil II Minalcar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82baa1",
+      "en": "King Eärnil I Ciryatan, son of Tarciryan -- 913 - 936.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82baa4",
+      "en": "King Ciryandil Úmarth, son of Eärnil -- 936 - 1015.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82baa5",
+      "en": "King Hyarmendacil I Ciryaher, Son of Ciryandil -- 1015 - 1149.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "You have discovered the plaque of King Eärnil I Ciryatan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82baa8",
+      "en": "King Atanatar II Alcarin, son of Ciryaher -- 1149 - 1226.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1183",
+      "en": "You have discovered the plaque of King Ciryandil Úmarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Find the plaque of King Valacar Formendur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Find the plaque of King Eldacar Vinitharya",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "You have discovered the plaque of King Hyarmendacil I Ciryaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Find the plaque of King Aldamir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82bab2",
+      "en": "King Atanatar I, son of Turambar -- 667 - 748.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Find the plaque of King Hyarmendacil II Vinyarion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82bab5",
+      "en": "King Siriondil, son of Atanatar -- 748 - 830.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "You have discovered the plaque of King Atanatar I",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82bab8",
+      "en": "King Tarannon Falastur, son of Siriondil -- 830 - 913.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5023",
+      "en": "Find the plaque of King Isildur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "You have discovered the plaque of King Siriondil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Find the plaque of King Narmacil I",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5026",
+      "en": "Find the plaque of King Anárion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "You have discovered the plaque of King Tarannon Falastur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Find the plaque of King Calmacil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Read the plaques on the statues of the kings of Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Find the plaque of King Rómendacil II Minalcar",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

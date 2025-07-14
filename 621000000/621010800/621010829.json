@@ -1,0 +1,509 @@
+{
+  "id": 621010829,
+  "txt": [
+    {
+      "id": "0xa8e1191",
+      "en": "This must be Khîl. He seems to have attracted an audience",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1138",
+      "en": "Khîl refuses to take back his story about the Gem-cutters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'The promise of finding lost Thafar-gathol has long moved the hearts of Longbeards and Zhélruka to adventure among the dangerous mountains, disturbing worm and Orc alike, but none have returned from such journeys with news of its whereabouts. It has attained an air of mystery and of dread, and some dwarves have chosen less daring pursuits, if less rewarding.\\n\\n'That is the case with the Gem-cutters, a Longbeard family whose jewellery has achieved some renown among the folk of the Lonely Mountain. In recent months, their craft has fallen somewhat and Fúni Gem-cutter has had to leave his wife and two of his sons behind while he seeks some means of recovering their fortunes. I heard he travelled beyond the Misty Mountains and is over-long in returning, which causes his wife to worry. If he does not return soon, and with good tidings of new fortune, she will be forced to abandon their home and set out from the Lonely Mountain in disgrace. It is a shame, but such things have been happening more and more often in these difficult days.'\\n\\nYou tell Khîl that you have heard these rumours concerning the Gem-cutters are untrue, and he snorts.\\n\\n'I only know what I have heard, friend. It is not so hard to believe, is it? I speak only the truth, and I bristle at the suggestion that my stories are anything but honest!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Talk to Khîl and hear his tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'It is as I said, is it not? Khîl Tale-spinner always speaks such nonsense. What stories did he spin for you today?'\\n\\nYou briefly recount Khîl's words, and Authi laughs aloud.\\n\\n'Utter rubbish and nonsense! Everyone knows that King Brand and Dáin Ironfoot fought side by side before the gates of the Lonely Mountain, and when the King of Dale fell, the King Under the Mountain fought to protect his ally's body from the ravages of their foes, ceasing only when he too was slain. And a machine powered by a fire grim? How could the Jangovar have ever constructed such a device, or tamed such a spirit? It is an absurdity.\\n\\n'But none of these are as unbelievable as the tale of Thafar-gathol! Bah! If such a city ever existed, it would have been found by now. Preposterous drivel!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50246",
+      "en": "Respond to the truthfulness of Khîl's account: <rgb=#00FF00>agree</rgb>, <rgb=#00FF00>yes</rgb>, <rgb=#00FF00>ahem</rgb>, <rgb=#00FF00>angry</rgb>, <rgb=#00FF00>confused</rgb>, <rgb=#00FF00>grumble</rgb>, or <rgb=#00FF00>no</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'You say Erfith mentioned the name Khîl? That does not surprise me. He is one of the Zhélruka, a clan of dwarves from the east, but he has lived here in Erebor for many years and caused no serious trouble... until now! He is a spinner of tales, and in my experience he has never had a truthful thing to say; I have found his untrue tales to be harmless, for the most part. He has never spoken ill of my family before. Why has he now begun to spread these lies about the Gem-cutters?\\n\\n'Go ask him why he has chosen this course, [placeholder]. He tends to loiter outside, by the entrance to the Lonely Mountain, but I have not seen him today.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'Khîl is one of the Zhelruka, a clan of dwarves from the east, but he has lived here in Erebor for many years and caused no serious trouble... until now! He is a spinner of tales, and in my experience he has never had a truthful thing to say, but I have found his untrue tales to be harmless. He has never spoken ill of my family before. Why has he now begun to spread these lies about the Gem-cutters?\\n\\n'Go ask him what he's doing, [placeholder]. He tends to loiter outside, by the entrance to the Lonely Mountain, but I have not seen him today.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1144",
+      "en": "The story of lost Thafar-gathol excites your imagination. Can it be found?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'Ah, another listener! If you would like to hear grand tales about the history of the dwarves and other peoples of the North, you have come to the right spot!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1147",
+      "en": "Imagine the treasures that must await within lost Thafar-gathol, if it could be found",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Demonstrate to Khîl that you are ready to <rgb=#00FF00>listen</rgb> to his tales",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Khîl and hear his tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1149",
+      "en": "Thafar-gathol sounds as it always has: a fanciful story with little basis in reality",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'It was in March that an army of Jangovar came out of the east and crossed the Ironfold, led by their fearsome chieftains and emboldened by the power of Sauron. They threatened the people of the Dale-lands, and King Brand stood between his people and their terrible foes.\\n\\n'While the Men of Dale fled before the approaching army, hoping to make for the safety of the Lonely Mountain and the protection of their dwarf-allies, King Brand stood alone in the water of the river-crossing. He was felled by arrows in the stream, and King Dáin escaped to the safety of Erebor. Should he have stood with his ally, and risked death thereby? Who can say? The dwarves had need of their king, and after the flight to the Lonely Mountain he fought against the Jangovar and died before the very gates. The Mountain was besieged, and both Dale and Erebor were saved only by the sudden defeat of Sauron in the lands far to the south.\\n\\n'Had it only come sooner, both King Brand and Dáin Ironfoot might still live to lead their people.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Respond to the truthfulness of Khîl's account: <rgb=#00FF00>agree</rgb>, <rgb=#00FF00>yes</rgb>, <rgb=#00FF00>ahem</rgb>, <rgb=#00FF00>angry</rgb>, <rgb=#00FF00>confused</rgb>, <rgb=#00FF00>grumble</rgb>, or <rgb=#00FF00>no</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'There is no shortage of tales from the Battle of Dale and the Siege of the Lonely Mountain, my friends. Have you heard tell of the great furnace the Jangovar built by Raven Hill? A frightening construction of pipes and valves it was, with wings of red leather extending above in mimicry of the dragon Smaug.\\n\\n'None can say for certain what powered the terrible device, but I heard from some who saw it that the furnace contained a fire grim of unsurpassed heat. Metal pipes carried noxious fumes from the device to channels in the stone. The Jangovar believed they could fill the Lonely Mountain with smoke and force the dwarves to flee from their well-protected fastness.\\n\\n'You may scoff, but friends of mine saw this device with their own eyes! It was destroyed by a small group of canny dwarves, who manipulated the valves and prevented too much smoke from entering the Mountain. They shut down the machine and defeated the fire grim, if such it was. Truly there was enough bravery to go around on that day, even if some do not believe this tale. I assure you it is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1150",
+      "en": "You have heard much of the battle, but have seen no evidence of such a machine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1151",
+      "en": "What nonsense! There was no such machine at the battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Find Khîl outside the entrance to the Lonely Mountain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1153",
+      "en": "This machine sounds very implausible",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'These stories are of recent vintage, it is true. Harken now to a tale of the distant past, a tale that grows in mystery and allure with every passing decade. More than six thousand years ago, the land shook with great calamity and the home of my people was riven with great cracks and torn asunder. The beautiful Hall of Torrents in the distant east collapsed, and thousands of my people were slain. The Zhélruka became a wandering people, and were turned away by all their neighbours.\\n\\n'But King Durin II, who ruled in Khazad-dûm, heard of their plight and showed mercy to the wanderers. He bade them travel to the Grey Mountains, and promised a place would be made for them in Gundabad. King Túruz of the Zhélruka began a great march across the northern lands, and stayed for a time helping the Longbeards of the Iron Hills repair their own damaged halls. When the Zhélruka again departed for Gundabad, they parted as friends, and promised a healthy trade partnership when they came to their new home.'\\n\\nKhîl pauses dramatically.\\n\\n'But they never arrived at Gundabad. King Túruz and the Zhélruka disappeared in the Grey Mountains, and no trace of them was ever found. King Durin and his son Borin sent several companies of dwarves to search for them, but to no avail. After seven-times-seven years, the Longbeards gave up the search.\\n\\n'And yet one of the Zhélruka survived. His name was Gúrek, and he appeared without warning at the gates of Gundabad, half-starved and raving mad. He told a confused tale of what had befallen his people: that they came across a stream that flowed out of the high mountains and gleamed like silver. The shine of the water came from tiny fragments of mithril, and when the Zhélruka followed it to its source they discovered a grand cavern full of gold, wondrous gemstones, and mithril to rival Khazad-dûm.\\n\\n'They abandoned their journey at once and carved a great hall they named Thafar-gathol, the Grey Citadel, and they used all their craft and spells to hide the entrance. What became of Thafar-gathol no tale tells, and neither does history record how Gúrek alone came to Gundabad. But Zhélruka and Longbeard alike still lust for the riches of lost Thafar-gathol, and despite numerous attempts at searching the Grey Mountains, none have ever had the good fortune to find it since it vanished. But it is still out there, my friends, waiting to be found.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Khîl outside the Lonely Mountain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1156",
+      "en": "This story beggars belief. No such machine existed at the battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56842",
+      "en": "'It was in March that an army of Jangovar came out of the east and crossed the Ironfold, led by their fearsome chieftains and buoyed by the power of Sauron. They threatened the people of the Dale-lands, and King Brand stood between his people and their terrible foes.\\n\\n'While the Men of Dale fled before the approaching army, hoping to make for the safety of the Lonely Mountain, King Brand stood alone in the water of the river-crossing. He was felled by arrows in the stream, and King Dáin escaped to the safety of Erebor. Should he have stood with his ally, and risked death thereby? Who can say? The dwarves had need of their king, and after the flight to the Lonely Mountain he fought against the Jangovar and died before the very gates. The Mountain was besieged, and both Dale and Erebor were saved only by the sudden defeat of Sauron in the lands far to the south.\\n\\n'Had it only come sooner, both King Brand and Dáin Ironfoot might still live to lead their people.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56847",
+      "en": "'There is no shortage of tales from the Battle of Dale or the Siege of the Lonely Mountain, my friends. Have you heard tell of the great furnace the Jangovar built by Raven Hill? A frightening construction of pipes and valves it was, with wings of red leather extending above in mimicry of the dragon Smaug.\\n\\n'None can say for certain what powered the terrible device, but I heard from some who saw it that the furnace contained a fire grim of unsurpassed heat. Metal pipes carried noxious fumes from the device to channels in the stone. The Jangovar believed they could fill the Lonely Mountain with smoke and force the dwarves to flee from their well-protected fastness.\\n\\n'You may scoff, but friends of mine saw this device with their own eyes! It was destroyed by a small group of canny dwarves, who manipulated the valves and prevented too much smoke from entering the Mountain. They shut down the machine and defeated the fire grim, if such it was. Truly there was enough bravery to go around on that day, even if some do not believe this tale. I assure you it is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Respond to the truthfulness of Khîl's account: <rgb=#00FF00>agree</rgb>, <rgb=#00FF00>yes</rgb>, <rgb=#00FF00>ahem</rgb>, <rgb=#00FF00>angry</rgb>, <rgb=#00FF00>confused</rgb>, <rgb=#00FF00>grumble</rgb>, or <rgb=#00FF00>no</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'Khîl is one of the Zhélruka, a clan of dwarves from the east, but he has lived here in Erebor for many years and caused no serious trouble... until now! He is a spinner of tales, and in my experience he has never had a truthful thing to say; I have found his untrue tales to be harmless, for the most part. He has never spoken ill of my family before. Why has he now begun to spread these lies about the Gem-cutters?\\n\\n'Go ask him why he has chosen this course, [placeholder]. He tends to loiter outside, by the entrance to the Lonely Mountain, but I have not seen him today.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1160",
+      "en": "Khîl is wrong. King Brand and Dáin Ironfoot died before the gates of Erebor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'Khîl is one of the Zhélruka, a clan of dwarves from the east, but he has lived here in Erebor for many years and caused no serious trouble... until now! He is a spinner of tales, and in my experience he has never had a truthful thing to say, but I have found his untrue tales to be harmless, for the most part. He has never spoken ill of my family before. Why has he now begun to spread these lies about the Gem-cutters?\\n\\n'Go ask him why he has chosen this course, [placeholder]. He tends to loiter outside, by the entrance to the Lonely Mountain, but I have not seen him today.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1161",
+      "en": "That is how you remember the last moments of King Brand and Dáin Ironfoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d167",
+      "en": "A dwarf named Khîl has been spreading lies about the Gem-cutter family, and Authi wants you to find him and get him to stop.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "Khîl might be found outside the entrance to the Lonely Mountain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1165",
+      "en": "Did the Jangovar truly assemble such a machine as Khîl describes?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "The Jangovar machine was truly a complex and forbidding construct",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1169",
+      "en": "It is good the machine was destroyed before the Jangovar plot could be successful",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50215",
+      "en": "Talk to Khîl and hear his tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50217",
+      "en": "Talk to Authi Gem-cutter in the Jewelstead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50272",
+      "en": "Valves and pipes? No one else has mentioned such a machine at the battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'Khîl is one of the Zhelruka, a clan of dwarves from the east, but he has lived here in Erebor for many years and caused no serious trouble... until now! He is a spinner of tales, and in my experience he has never had a truthful thing to say, but I have found his untrue tales to be harmless. He has never spoken ill of my family before. Why has he now begun to spread these lies about the Gem-cutters?\\n\\n'Go ask him what he's doing, [placeholder]. He tends to loiter outside, by the entrance to the Lonely Mountain, but I have not seen him today.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a6",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "That is how you remember the last moments of King Brand and Dáin Ironfoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56860",
+      "en": "'These stories are of recent vintage, it is true. Harken now to a tale of the distant past, a tale that grows in mystery and allure with every passing decade. More than six thousand years ago, the land shook with great calamity and the home of my people was riven with great cracks and torn asunder. The beautiful Hall of Torrents in the distant east collapsed, and thousands of my people were slain. The Zhélruka became a wandering people, and were turned away by all their neighbours.\\n\\n'But King Durin II, who ruled in Khazad-dûm, heard of their plight and showed mercy to the wanderers. He bade them travel to the Grey Mountains, and promised a place would be made for them in Gundabad. King Túruz of the Zhélruka began a great march across the northern lands, and stayed for a time helping the Longbeards of the Iron Hills repair their own damaged halls. When the Zhélruka again departed for Gundabad, they parted as friends, and promised a healthy trade partnership when they came to their new home.'\\n\\nKhîl pauses dramatically.\\n\\n'But they never arrived at Gundabad. King Túruz and the Zhélruka disappeared in the Grey Mountains, and no trace of them was ever found. King Durin and his son Borin sent several companies of dwarves to search for them, but to no avail. After seven-times-seven years, the Longbeards gave up the search.\\n\\n'And yet one of the Zhélruka survived. His name was Gúrek, and he appeared without warning at the gates of Gundabad, half-starved and raving mad. He told a confused tale of what had befallen his people: that they came across a stream that flowed out of the high mountains and gleamed like silver. The shine of the water came from tiny fragments of mithril, and when the Zhélruka followed it to its source they discovered a grand cavern full of gold, wondrous gemstones, and mithril to rival Khazad-dûm.\\n\\n'They abandoned their journey at once and carved a great hall they named Thafar-gathol, the Grey Citadel, and they used all their craft and spells to hide the entrance. What became of Thafar-gathol no tale tells, and neither does history record how Gúrek alone came to Gundabad. But Zhélruka and Longbeard alike still lust for the riches of lost Thafar-gathol, and despite numerous attempts at searching the Grey Mountains, none have ever had the good fortune to find it since it vanished. But it is still out there, my friends, waiting to be found.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50279",
+      "en": "Talk to Khîl and hear his tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "Actually, King Brand and Dáin Ironfoot died before the gates of Erebor. Khîl's account is wrong",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "This disrespect cannot stand! King Brand and Dáin Ironfoot died before the gates of Erebor!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "That isn't right, is it? King Brand and Dáin Ironfoot died before the gates of Erebor, didn't they?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1179",
+      "en": "This dwarf does not know what really happened. King Brand did not die at the river-crossing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b0",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Khîl the Tale-spinner is outside the entrance to Erebor, regaling onlookers with his stories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "Authi Gem-cutter is in the Jewelstead, the Gem-cutter family home in the Dwelling-halls of Erebor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56816",
+      "en": "'I heard Fúni Gem-cutter travelled beyond the Misty Mountains and is over-long in returning, which causes his wife to worry. If he does not return soon, and with good tidings of new fortune, she will be forced to abandon their home and set out from the Lonely Mountain in disgrace. It is a shame, but such things have been happening more and more often in these difficult days.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "Is that truly how events unfolded?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1130",
+      "en": "Such nonsense! Thafar-gathol never existed, and tales of it cannot be believed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 7.2: A Damaging Song",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1132",
+      "en": "If Thafar-gathol existed, would it not have been found by now?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56877",
+      "en": "'It was in March that an army of Jangovar came out of the east and crossed the Ironfold, led by their fearsome chieftains and emboldened by the power of Sauron. They threatened the people of the Dale-lands, and King Brand stood between his people and their terrible foes.\\n\\n'While the Men of Dale fled before the approaching army, hoping to make for the safety of the Lonely Mountain and the protection of their dwarf-allies, King Brand stood alone in the water of the river-crossing. He was felled by arrows in the stream, and King Dáin escaped to the safety of Erebor. Should he have stood with his ally, and risked death thereby? Who can say? The dwarves had need of their king, and after the flight to the Lonely Mountain he fought against the Jangovar and died before the very gates. The Mountain was besieged, and both Dale and Erebor were saved only by the sudden defeat of Sauron in the lands far to the south.\\n\\n'Had it only come sooner, both King Brand and Dáin Ironfoot might still live to lead their people.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1133",
+      "en": "How can Khîl believe this tale? Lost Thafar-gathol is a tale for children",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56878",
+      "en": "'There is no shortage of tales from the Battle of Dale and the Siege of the Lonely Mountain, my friends. Have you heard tell of the great furnace the Jangovar built by Raven Hill? A frightening construction of pipes and valves it was, with wings of red leather extending above in mimicry of the dragon Smaug.\\n\\n'None can say for certain what powered the terrible device, but I heard from some who saw it that the furnace contained a fire grim of unsurpassed heat. Metal pipes carried noxious fumes from the device to channels in the stone. The Jangovar believed they could fill the Lonely Mountain with smoke and force the dwarves to flee from their well-protected fastness.\\n\\n'You may scoff, but friends of mine saw this device with their own eyes! It was destroyed by a small group of canny dwarves, who manipulated the valves and prevented too much smoke from entering the Mountain. They shut down the machine and defeated the fire grim, if such it was. Truly there was enough bravery to go around on that day, even if some do not believe this tale. I assure you it is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1134",
+      "en": "How can Khîl believe this tale? Thafar-gathol never existed",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

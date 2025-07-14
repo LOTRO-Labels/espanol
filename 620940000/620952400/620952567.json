@@ -1,0 +1,23 @@
+{
+  "id": 620952567,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Singular Focus",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Your focus allows you to target weaknesses in enemy defences, hastening their defeat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554671",
+      "en": "Scoring a Critical Hit with single target response skills will decrease the target's mitigation.\\n<rgb=#FF0000>-3% Physical Mitigation</rgb>\\n<rgb=#FF0000>-3% Tactical Mitigation</rgb>\\n\\nThis debuff cannot be refreshed by other traits.\\n\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

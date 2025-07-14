@@ -1,0 +1,83 @@
+{
+  "id": 620895502,
+  "txt": [
+    {
+      "id": "0x33d632e",
+      "en": "The Rangers Saeradan, Amlan, and Andreg have tracked Gwyllion, the Old Woman of the Mountain, from the Windfells in Enedwaith to the Gravenwood of Dunland.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'When we first came to this place, we stumbled upon a party of Rohirrim scouts, led by Théodred, the king's son. They were attempting to creep behind the Dunlending lines, but unfortunately for them, the Horse-lords are not the most cautious warriors.\\n\\n'We helped them to sneak past their enemies and establish a camp here in the Gravenwood. Saeradan remained with them, believing it to our mutual benefit to aid them. Their mission here might help us to regain Gwyllion's trail.\\n\\n'You should head east at once to the Rohirrim's scout-camp and join with Saeradan. Take this whistle...it is made to sound like the call of a bird not found here. If you sound it, Andreg will come to take you to Saeradan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Amlan told you to summon Andreg and accompany him to the Rohirrim scout-camp to meet with Saeradan.\\n\\nIf you become separated from Andreg, you may summon him using the bird-whistle Amlan gave you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'[placeholder]! It is good that you have come, though I must say I did not doubt much that our paths would cross once more.\\n\\n'There is great evil afoot, and we could use your aid!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Andreg has accompanied you for some distance. Now the time has come to part ways.\\n\\nYou should speak with Andreg.\\n\\n<rgb=#FF0000>Advancing this quest will no longer allow you to summon Andreg.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Saeradan is at the Rohirrim scout-camp.\\n\\nAndreg told you to continue on to the Rohirrim scout-camp and let Saeradan know that he is scouting the wood to the south and east.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Use the bird-whistle I gave you to call Andreg, and he will accompany you most of the way to the Rohirrim scout-camp.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You have been of great aid to me upon this road, [placeholder]. I must turn aside now and scout the woods to the south and east.\\n\\n'If you turn north and travel along the cliffs at the eastern edge of the Gravenwood, you will eventually come upon the Rohirrim scout-camp, where Saeradan awaits you.\\n\\n'Farewell, [placeholder]. May we meet again!'\\n\\n<rgb=#FF0000>Advancing this quest will no longer allow you to summon Andreg.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'We have not finished our task, [placeholder]. There is more to do before you continue on to Saearadn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Aid Andreg with Eyes in the Forest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Andreg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Saeradan at the Rohirrim scout-camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "A Dark and Lonely Forest",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

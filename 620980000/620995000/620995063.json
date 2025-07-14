@@ -1,0 +1,293 @@
+{
+  "id": 620995063,
+  "txt": [
+    {
+      "id": "0xeb01172",
+      "en": "Techeron is at Echad Garthadir, in Annúminas.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Elrond is at the Haven of Orladion in Rivendell, north-west of the Last Homely House.\\n\\nYou have cleansed the corruption from the Badge of Ariant, and should bring it now to Elrond in Rivendell.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ee5",
+      "en": "Bring the Badge of Ariant to Elrond in Rivendell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1a7",
+      "en": "Mithrandir has studied the artifact that Ayorzén stole from the vault of Durthang and believes that if it might be cleansed of its corruption it could be empowered with a force for Good.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "'You learned from the Steadfast Sisters that badges of that type were worn near the Bridge of Ariant? That is very near, [placeholder]!'\\n\\nYou tell Techeron that you obtained the information not from the Dúnedain, but from a brigand named Colm Fettering, who sought to kill you when he learned the badge might be valuable.\\n\\n'That sadness is all too common these days, my friend. The badge is old, it is true, but I cannot say it has much value to any but the Dúnedain, or to scholars of history. What unhappy road led Colm Fettering to that end? Could he have turned aside? Sauron may be gone, but Colm Fettering was not guided by the hand of the Dark Lord, or by schemes hatched in the Dark Tower. He was a man only, and guided by the difficulties of the poor and the desperate.'\\n\\nTecheron sighs.\\n\\n'Speak to me when you are ready and we can walk to the Bridge of Ariant. Let us see if we can cleanse the corruption from that badge, at least. There will be bigger and more troubling challenges on the morrow, and they may be more difficult to fix.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56842",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1158",
+      "en": "You take back the corrupted badge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56845",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56846",
+      "en": "'I am ready to go with you to the Bridge of Ariant. Let us see if we can remove the corruption that encircles the badge that was once worn there!'\\n\\n<rgb=#FF0000>This is a Solo quest and cannot be completed with a Fellowship.</rgb>\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Talk to Techeron at Echad Garthadir, in Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56848",
+      "en": "'I have studied the artifact that Ayorzén stole from the vault of Durthang. It bears a powerful corruption, but it was not made in the land of Mordor. It came from elsewhere, and the corruption that envelops it stems from its long stay in the Black Land. If this evil could be cleansed, I believe that Elrond could imbue it with a powerful and vital force for Good.\\n\\n'Before that can happen, however, we must do something about the corruption that Mordor has worked upon it. There are different methods to accomplish this, though the Wise disagree upon the effectiveness of each. My preferred means for such a cure is to bring the corrupted item to the place where it was made, or to places of some significance upon its path, and to thereby diffuse the foul touch of Mordor that has, in the interim, claimed it. We must learn the story of this heirloom before it came to Mordor.'\\n\\nThe Wizard turns the artifact over in his hands, studying it for some clue to its origin. To your eye the heirloom is a small badge or medal, reminiscent of tokens worn by soldiers standing at their posts.\\n\\n'There is a a slight depression here, [placeholder], but it has been worn smooth by the passage of Time and the edges are difficult to discover. Even so, I can feel enough of the indentation to state with certainty that it was once in the shape of a star with five points.\\n\\n'To my mind, that marks this badge as having once belonged to a guard of High King Elendil, perhaps at Annúminas, the seat of his power in the North. Bring it to that city, and see if you can cleanse the corruption that now encircles it. Techeron of the Dúnedain has returned to Annúminas to keep the peace there and may be able to help you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56849",
+      "en": "'There is a a slight depression in the centre of the heirloom, [placeholder], but it has been worn smooth by the passage of Time and the edges are difficult to discover. Even so, I can feel enough of the indentation to state with certainty that it was once in the shape of a star with five points.\\n\\n'To my mind, that marks this badge as having once belonged to a guard of High King Elendil, perhaps at Annúminas, the seat of his power in the North. Bring it to that city, and see if you can cleanse the corruption that now encircles it. Techeron of the Dúnedain has returned to Annúminas to keep the peace there, and may be able to help you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50263",
+      "en": "Talk to Techeron and walk with him to the Bridge of Ariant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "'It is good to see you again, my friend! The life of a warden is never uneventful, for there are always good folk that need defending. How many minutes of celebration did we have before Aragorn began to worry that the folk of his kingdom were still not secure from threat? Two? Three?'\\n\\nTecheron laughs.\\n\\n'Ours is a life of service, [placeholder], and I would have it no other way. I never had the patience for tending crops or raising animals, but I could stand in a spear-line opposed to evil for days without complaint. But what brings you hither?'\\n\\nYou show the corrupted badge to Techeron and he studies it closely.\\n\\n'I have seen medals similar to this in the old city! They were worn by the soldiers of Elendil, and served as identification for his guards. But I cannot say that I have seen one exactly like this, for there are some curious markings beneath the depression, here. One unfamiliar with the workings of the soldiery could easily have missed it.\\n\\n'Several of my fellow Rangers are on patrol throughout the city. Bring it to Línneth, Carastír, and Gwíniel in Annúminas, and see if the Steadfast Sisters have seen any badges identical to this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a8",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "'What have you brought to this city? I sensed its evil even before you approached!'\\n\\nYou show the corrupted badge to Línneth, and she scowls.\\n\\n'This is the type of medal that was worn by defenders of this city at the height of its glory, but it has become encircled by darkness! That is a cruel hurt, but it is a common one in these days, where fell forces take things of beauty and nobility and bring them low. That it happens frequently makes it no less of an insult to me.\\n\\n'If we could read these symbols, we might know where guards wearing this badge were stationed, but I am unable to make sense of them. Perhaps one of my sisters could tell you more? We pride ourselves on our patience, but that patience does not always extend to remaining in each other's company. You will find Carastír and Gwíniel elsewhere, but still in the city.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "'What is that? You have brought evil here, as if this city has not seen enough darkness in recent months! Explain yourself! Is that some artifact of shadow? Scions of Angmar still hope to bring that evil kingdom once more to prominence, and we will stand against them!'\\n\\nYou show the corrupted badge to Carastír, and she shakes her head.\\n\\n'I have never seen one exactly like this. My advice is for you to destroy it. This might once have been an heirloom of a beautiful kingdom, a kingdom I am sworn to honour and cherish, but now it has fallen to evil and is a reminder of our failures.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a04",
+      "en": "Defend Carastír",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01143",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'We are well-met, [placeholder]. What brings you to the City of Kings?'\\n\\nYou show Gwíniel the corrupted badge and she crinkles her nose as if smelling a foul odour.\\n\\n'This badge is held in the grip of a powerful evil, but I can recognize that it was once worn proudly by defenders of the High King in this very city! Did you show it to my sisters? I can imagine their responses. Mine, however, may be of a more practical bent.\\n\\n'I cannot tell you where it might have been worn, but Annúminas has long had a problem with looters. If the defenders of the city cannot identify these markings, perhaps a tomb-robber can tell you where he has looted badges with similar markings. They have a camp on Rantost, an island in Lake Evendim, and may tell you what we cannot!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01145",
+      "en": "Colm Fettering is a tomb-robber of some notoriety on the island of Rantost, in Lake Evendim, and may tell you more about the corrupted badge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'What do you want? You here to pinch some of my loot? Aye or nay, and answer quickly or I'll stick you with my best knife, and bury you in the surf, shallow-like!'\\n\\nGrimacing, you show Colm Fettering the corrupted badge and ask him to pay special attention to the markings, and if he's seen any others of its type. The tomb-robber gets a crafty look in his eye.\\n\\n'Aye, I've seen badges like this one, plenty of 'em, all around the bridge those dirty ruffians call Ariant. Are you sayin' these are worth something? I could give this one back to you, it's true, and let you make a tidy profit. That's one option, aye.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50270",
+      "en": "Talk to Techeron at Echad Garthadir, in Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a09",
+      "en": "Defeat Colm Fettering",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01148",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50272",
+      "en": "Talk to Línneth in Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a62731",
+      "en": "'Beasts are drawn to us by the pull of that badge's evil!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50273",
+      "en": "Talk to Carastír in Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a62732",
+      "en": "'Well-fought! I would expect no less of a Warden!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50276",
+      "en": "Talk to Gwíniel in Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50277",
+      "en": "Talk to Colm Fettering on Rantost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x880ee1",
+      "en": "'Or maybe I'll kill you and take it myself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56860",
+      "en": "'I cannot tell you where it might have been worn, but Annúminas has long had a problem with looters. If the defenders of the city cannot identify these markings, perhaps a tomb-robber can tell you where he has looted badges with similar markings. They have a camp on Rantost, an island in Lake Evendim, and may tell you what we cannot!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01150",
+      "en": "Techeron is at Echad Garthadir, in Annúminas.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01154",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56866",
+      "en": "'I will meet you at the Haven of Orladion, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56867",
+      "en": "'I know why you have come, [placeholder]. If you are to journey beneath the shroud that covers Gorgoroth, you will need the aid of a light that can pierce the darkness.'\\n\\nElrond takes the Badge of Ariant from you and dips it into the font beside him. When the artifact emerges from the glowing circle, light drips soundlessly from it and pools like water in the basin. You are reminded that even though the promise of High King Elendil was submerged by darkness, it was restored by the defeat of Sauron and the return of a king to Gondor. You think of Colm Fettering and hope that one day the hearts of men like him will shine as brightly, restored similarly from darkness.. Elrond smiles at the sight of the glowing heirloom and his voice contains both determination and joy when he speaks again.\\n\\n'With the Light of Eärendil, you will be able to walk where the shadows lie, and overcome them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "Techeron returned to Echad Garthadir in Annúminas following the War of the Ring.\\n\\nMithrandir believes that the corrupted badge came at first from Annúminas in the days of High King Elendil.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "Techeron sent you to find the Steadfast Sisters in Annúminas, to see if they have seen any badges identical to the one that came out of Mordor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56871",
+      "en": "'I have seen medals similar to this in the old city! They were worn by the soldiers of Elendil, and served as identification for his guards. But I cannot say that I have seen one exactly like this, for there are some curious markings beneath the depression, here. One unfamiliar with the workings of the soldiery could easily have missed it.\\n\\n'Several of my fellow Rangers are on patrol throughout the city. Bring it to Línneth, Carastír, and Gwíniel in Annúminas, and see if the Steadfast Sisters have seen any badges identical to this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01165",
+      "en": "Gwíniel is near the gate of Adannon, in Annúminas.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 2.1: Heirloom of the High King",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "id": 621063169,
+  "txt": [
+    {
+      "id": "0xa8e1136",
+      "en": "Received a token of gratitude ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e113",
+      "en": "Deliver brews to The Roaring Bull",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf3",
+      "en": "From Field to Pint",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e114",
+      "en": "Deliver brews to The Fox and Fiddle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e115",
+      "en": "Deliver brews to The Elbow's Bend",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Empty bottles can be found around the farm, and both outside and inside The Fox and Fiddle Inn in the village of Nobottle.\\n\\nYou should collect some empty bottles while you wait for the brew to ferment.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502957",
+      "en": "Completed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01176",
+      "en": "A fermenting container can be found in the village of Nobottle.\\n\\nYou should bottle the brew with the empty bottles that you collected.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e171",
+      "en": "Malt the barley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1142",
+      "en": "The brew is fermenting!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Collect barley from the fields ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1148",
+      "en": "Collected empty bottles ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ee9",
+      "en": "Fill empty bottles ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a0",
+      "en": "'Good, good! You can leave those beers with me. That drink is for you: a token of thanks for making this delivery.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a1",
+      "en": "'Hullo! Ah, I see Brewmaster Bloda Hopblossom has put you to work. It's been awhile since she's had to make a delivery herself!\\n\\n'Have a drink before you leave. No sense crafting a batch and not having a taste!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a2",
+      "en": "'I was wondering when someone would come around. I am nearly out of drink! You saved this establishment, and no mistake! Please make sure to have a token of my gratitude before you leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1150",
+      "en": "Collected barley ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1152",
+      "en": "Malted the barley!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a6",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1154",
+      "en": "Mashed the barley!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "A malting container can be found in the village of Nobottle.\\n\\nYou should add the barley to the malting container.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1156",
+      "en": "Boiled the brew!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e99",
+      "en": "Deliver brews to The Brimful Quiver",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1b4",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Ferment the brew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "Collect empty bottles from the farm and from The Fox and Fiddle Inn ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50213",
+      "en": "Talk to Brewmaster Bloda Hopblossom",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50215",
+      "en": "Receive a token of gratitude from each tavern-keep ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50271",
+      "en": "Malt the barley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'Hullo there! Correct me if I'm wrong, but you seem to be the sort who enjoys a good brew! You're in good company here, friend! Now, let me ask you a question: have you ever fancied brewing up a good beer yourself? I find if you engage in the process you'll have a greater appreciation for every bottle you enjoy, and wouldn't that be quite a nice reward?\\n\\n'I will be happy to teach you the way of it, for I am Bloda Hopblossom, the head brew-master of Nobottle, and mine is the finest beer in the Westfarthing... don't let anyone tell you differently! This may be one of the younger settlements in the Shire, as things are reckoned, but Nobottle is still centuries old by now... plenty of time for us to master brewing!\\n\\n'Now listen to the many steps of brewing a beer of which you can be proud!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d1729",
+      "en": "Brewmaster Bloda Hopblossom loves to impart the knowledge of her craft to all who visit the village of Nobottle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689c0",
+      "en": "'Ah, you are back! I believe the brew has fermented enough. Now the brew is complete and we are ready to fill all these empty bottles with delicious beer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf2",
+      "en": "Malted the barley!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50273",
+      "en": "Mash the barley",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50275",
+      "en": "Boil the brew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a0",
+      "en": "Delivered brews!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2724b51",
+      "en": "'Thank you very much!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2724b52",
+      "en": "'Have a brew on the house before you head out.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "Barley can be found in the fields of southern Yondershire.\\n\\nYou should collect barley from the fields.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01156",
+      "en": "A mashing pot can be found in the village of Nobottle.\\n\\nYou should add the malted barley to the mashing pot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01101",
+      "en": "Brewmaster Bloda Hopblossom can be found in the village of Nobottle.\\n\\nYou should talk to Brewmaster Bloda Hopblossom.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d1",
+      "en": "You have learned a great deal about the brewing of Yondershire beer from Brewmaster Bloda Hopblossom and completed her deliveries to each of the grateful tavern-keeps. Revellers of Yondershire will no doubt sing your praises this evening, as they enjoy a mug or two of Nobottle's finest!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56812",
+      "en": "'Now that's a beer of which you can be proud! Delightful! Note the sense of accomplishment you now feel, and let it float your steps as you walk around Yondershire.'\\n\\nBrewmaster Bloda Hopblossom grins at you.\\n\\n'Aye, you'll have some walking to do, friend! You can't keep this brew all to yourself! You need to get it into the hands of our patrons! Visit every drinking establishment in Yondershire and bring the brew to our waiting customers... you'll get to see a lot of happy faces as you make these deliveries!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d2",
+      "en": "'The barley is right here at the farm. Make sure to pick only the stalks that are ripe and ready!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d3",
+      "en": "'Good work! Now the barley needs to be malted. Look for the malting container here on the farm.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01104",
+      "en": "Taverns can be found in each of the four villages in Yondershire.\\n\\nYou should deliver your brews to each of the four taverns in Yondershire.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d5",
+      "en": "'You are getting there! I love your enthusiasm! Make sure to use that enthusiasm when mashing the barley! That is the next step!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d6",
+      "en": "'Now my favourite step, boiling the brew! I like the aroma it brings to the air!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56817",
+      "en": "'Hullo there! I am glad to see you! I was almost out of Nobottle brew! Have a drink to quench your thirst. You earned it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d7",
+      "en": "'The next step is to ferment the brew. This is an important step, though not the most exciting.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d8",
+      "en": "'While you are waiting for the brew to ferment, you should collect some empty bottles. There are a few on the farm but we also have an arrangement with The Fox and Fiddle to make use of their empty bottles as well. We will need them all for the next step!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1130",
+      "en": "Filled bottles ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01167",
+      "en": "A boiling pot can be found in the village of Nobottle.\\n\\nYou should add the barley to the boiling pot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "A fermenting container can be found in the village of Nobottle.\\n\\nYou should add the boiled brew to the fermenting container.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

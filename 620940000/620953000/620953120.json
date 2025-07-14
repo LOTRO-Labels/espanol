@@ -1,0 +1,611 @@
+{
+  "id": 620953120,
+  "txt": [
+    {
+      "id": "0xe1ef9d2",
+      "en": "This won't do, Sam! What would your gaffer say? 'Sit near Frodo and keep watch,' that's what!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "You sit next to Frodo and resolve to stay awake and alert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd448f0",
+      "en": "'This way, slow-pokes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08eda6",
+      "en": "Walk with Frodo away from the water's edge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21f6601",
+      "en": "You feel so tired...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21f6602",
+      "en": "Stay awake, Sam!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21f6603",
+      "en": "Your eyes feel so heavy...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa806ec1",
+      "en": "Gollum",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa806ec2",
+      "en": "'Do it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa806ec3",
+      "en": "'Then don't hurt the master... he is the master of the Precious....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa806ec4",
+      "en": "'But what if we had the Precious? What if we were the master?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa806ec5",
+      "en": "'Yes, too risky. But there is someone who could help us, help us take the Precious, yes...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Stay close to Gollum, and make sure he does not try anything",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb2ee81",
+      "en": "'Stay close, hobbitses.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb2ee82",
+      "en": "'Oh no! Not this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Talk to Frodo and make sure he is all right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb2ee83",
+      "en": "'Do not follow the tricksy lights, hobbitses!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb2ee84",
+      "en": "'Where is master? Where is nice master?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Gollum has bounded ahead through the swamps, showing you and Frodo the way.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Frodo looks very tired. The journey through the swamp is taking its toll.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "The journey through the swamp has proven to be very difficult, with no end in sight.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "The journey through the swamp has proven to be very difficult, with no end in sight.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf4b5c2",
+      "en": "'Sméagol can't hurt nice master. Sméagol promised!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf4b5c3",
+      "en": "'Aaaah, yes! Yes! We could be the master, yes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Make your way, carefully, through the swamp <rgb=#00FF00>(press 'Insert' to toggle your more careful walk)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf4b5c4",
+      "en": "'Too risky here, too risky! The mean hobbit doesn't trust us, no, he doesn't!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf4b5c5",
+      "en": "'Yes, yes... good idea, gollum, gollum!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50294",
+      "en": "Talk to Mister Frodo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Continue the passage of the marshes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'Step with care, hobbitses... the ground underfoot is not to be trusted, oh no it is not. Sméagol will show you where to go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccf331",
+      "en": "'We have to trust him, Sam. He has not led us wrong.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c57d31",
+      "en": "'I am sorry I wandered off, Sam. I don't know what came over me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Talk to Gollum and keep a watchful eye on the wretch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccf332",
+      "en": "'I've finally put my finger on what's been bothering me about this swamp.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c57d32",
+      "en": "'Sméagol, are you all right? I am sorry I left the path.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccf333",
+      "en": "'I have heard no birds at all since we came into the marsh.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c57d33",
+      "en": "'Yes, I think that is a good idea. Sam, come sit beside me and we will rest.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'What... what is it, Sam? Were you... were you calling for me? I felt as if I heard you from a long way off, but there was something....'\\n\\nFrodo shakes his head, trying to remember something.\\n\\n'There were faces in the water. I could see them by the light of the candles, I think. But how could that be? There were so many: good faces and proud faces, stern faces and evil faces too. But why?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccf334",
+      "en": "'The air is so heavy here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7ccf335",
+      "en": "'Move as fast as you can through the water, or you might sink!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1b1",
+      "en": "You and Frodo inch closer and closer to Mordor, but you do not trust the guide that has brought you into the Dead Marshes: the creature Gollum.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "Frodo has wandered off by himself! You have to find him!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Frodo and make sure he is feeling all right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Frodo has decided to catch some sleep, and wants you to sit next to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Continue the passage of the marshes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e09",
+      "en": "Sit next to Frodo and stay alert for any dangers while he rests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'This swamp is even worse than I thought it would be, Sam. I have found my feet sinking into the mud even on terrain that seems solid, and would have become quite stuck if I hadn't noticed immediately!\\n\\n'I know you do not trust Sméagol, but he is the only guide we have. Without his help, could we hope to come to Mordor? I do not think it likely, Sam.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Hide!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f11291",
+      "en": "'Over here, this way! This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Gollum, if he can bring himself to speak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'Come, come, hobbitses! Good Sméagol knows the way through the swamp. Step only where he steps, or you will find yourself at the bottom, and no one will help you then, oh no!\\n\\n'If you must go to His black country, only Sméagol can bring you there unseen. Only Sméagol! That is a bad place, yes, a bad place indeed. It would be wiser to turn back, yes it would, but you said you needed to go, and go you will, yes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f11292",
+      "en": "'Oh no! Wraiths! In the sky, precious, in the sky!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'How are you holding up, Sam? This is a hard land... it seems so many of the places we must journey through are hard lands! I miss my own comfortable bed, and Bag End!\\n\\n'There's nothing for it, is there? We have to keep going, one foot in front of the other. Sméagol will show us the way, if we are kind to him. He was treated very cruelly in Mordor, Sam. He has been through a lot.\\n\\n'I suppose that is true for all of us, now. Just keep going, that is all we can do.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x440aee1",
+      "en": "'Sam! Hide!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x440aee2",
+      "en": "'Is it gone?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "Try and stay awake, Sam!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x440aee3",
+      "en": "'Thank you, dearest Sam. A short rest... and then we will keep moving.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "You do not like what you overheard Gollum muttering to himself, if you did not imagine it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f45a71",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "You hate to do it, but it is time to wake Frodo and set out once again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Remain awake and alert, Sam!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Find out what Gollum is up to, the villain!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "You have to go on, even if the Dead Marshes seem to go on forever.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "A terrible shadow approaches from high above the Dead Marshes!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a6",
+      "en": "'Did it see us? Aaaaach! Did it see us? Winged wraiths, terrible, terrible! They see everything, precious, everything! And they tell Him all that they see, they do! Did it see us?'\\n\\nGollum is shaking, his eyes wide with the terror of the experience. He will not move for some time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ee9d91",
+      "en": "'No path can help the nice master if he follows the little candles, no, no!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ee9d92",
+      "en": "'The marshes are filled with the Dead ones: Elves and Orcses, and Men beside them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ee9d93",
+      "en": "'A great battle happened, long ago, and the marsh is creeping, always creeping.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a9",
+      "en": "'That was a Black Rider! I hoped we had seen the last of them, but I suppose that was an idle daydream. They are still searching for us.\\n\\n'The Ring is so heavy, Sam. I know we need to keep going, but perhaps we can rest for a moment? Sméagol is beside himself... I do not think he will want to move for a while. Look at him! The poor creature. Not just him: all three of us! I will be glad to leave these Dead Marshes, but... just a rest... a short one.\\n\\n'Then we will keep moving. Is that all right, Sam?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ee9d94",
+      "en": "'No more today. Hobbitses need their rest. Time for sleepies now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "How has Frodo fared?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ee9d95",
+      "en": "'Time to wake up, master, time to be going, yes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4481",
+      "en": "'Hobbitses, hobbitses!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4482",
+      "en": "'No time for delays! No time for wasting!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4483",
+      "en": "'No reason to stay in nasty swampses, no reason at all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4484",
+      "en": "'Gollum, gollum.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4485",
+      "en": "'No, no birdses. They don't fly into these landses, no.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d40941",
+      "en": "Terrible Shadow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4486",
+      "en": "'If you want snakeses, or wormses, you'll find plenty of those.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4487",
+      "en": "'But no crunchable birdses, gollum, gollum.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4488",
+      "en": "'Oh, this way, this way! I remember it now, yes, yes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdd4489",
+      "en": "'Hurry, hobbitses, hurry!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'Nice hobbit, nice Sam, nothing to worry about, no, precious! Gollum, gollum! Did you get the sleepies you needed, did you, gollum? We needs to be moving again, yes, yes we do! No time for delays now!\\n\\n'Master says we must go, so go we must, yes! Time to go, precious! Time to move!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf9121",
+      "en": "Confound it! Where has Frodo gone?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "Frodo blinks at you for a moment and slowly rouses from his slumber.\\n\\n'I suppose it is time to set out again? I am ready to be out of this wretched swamp, and the only way for it is to get moving again, I suppose. I am very tired, Sam.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Passage of the Marshes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Frodo has slowed his pace. The Dead Marshes are taking their toll on him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Gollum has bounded back to you. Your master is right: the creature has not guided you wrong... yet.\\n\\nYou still do not trust him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20cb800",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "A cold chill runs down your spine!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed72",
+      "en": "Follow Gollum through the swamp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe08ed5",
+      "en": "Keep an eye on Gollum, the treacherous sneak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1190",
+      "en": "This will be a good place to sit next to Frodo and keep watch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01144",
+      "en": "You are sure Gollum will try something at some point during the passage of the marshes. Stay close to him and make sure the wretch has no opportunity to cause trouble!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5024",
+      "en": "Talk to Mister Frodo in the Dead Marshes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Comfort Frodo and decide what to do",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01147",
+      "en": "Gollum is terrified, and is in no shape to go on. The frightening encounter with the terrible shadow has shaken him tremendously.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Talk to Gollum, and let him know how things stand",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

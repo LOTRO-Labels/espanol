@@ -1,0 +1,791 @@
+{
+  "id": 620865848,
+  "txt": [
+    {
+      "id": "0xa1d2a00",
+      "en": "gol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a01",
+      "en": "gon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac0",
+      "en": "marth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a02",
+      "en": "gond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac1",
+      "en": "mil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a03",
+      "en": "gor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac2",
+      "en": "mith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d00",
+      "en": "warth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a04",
+      "en": "gorm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac3",
+      "en": "mo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d01",
+      "en": "we",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a05",
+      "en": "gorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac4",
+      "en": "moth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a06",
+      "en": "gost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac5",
+      "en": "mund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a07",
+      "en": "grod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac6",
+      "en": "narth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a08",
+      "en": "gud",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac7",
+      "en": "nas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a09",
+      "en": "gund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac8",
+      "en": "nel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ac9",
+      "en": "neth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a10",
+      "en": "had",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad0",
+      "en": "nil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a11",
+      "en": "hael",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad1",
+      "en": "nion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a12",
+      "en": "harn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad2",
+      "en": "nir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a13",
+      "en": "hil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad3",
+      "en": "nor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a14",
+      "en": "hir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad4",
+      "en": "nuir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a15",
+      "en": "lach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad5",
+      "en": "phant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a16",
+      "en": "lad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad6",
+      "en": "pharn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a17",
+      "en": "ladh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad7",
+      "en": "pher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a18",
+      "en": "laith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad8",
+      "en": "phin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a19",
+      "en": "lant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ad9",
+      "en": "phor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a20",
+      "en": "dhros",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a21",
+      "en": "dir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae0",
+      "en": "lar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a22",
+      "en": "dis",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae1",
+      "en": "las",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a23",
+      "en": "dol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae2",
+      "en": "leb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a24",
+      "en": "dor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae3",
+      "en": "ledh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d20",
+      "en": "stor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a25",
+      "en": "dreth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae4",
+      "en": "leg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d21",
+      "en": "thad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a26",
+      "en": "dril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae5",
+      "en": "leth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d22",
+      "en": "thael",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a27",
+      "en": "dros",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae6",
+      "en": "lin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d23",
+      "en": "than",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a28",
+      "en": "dui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae7",
+      "en": "lind",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d24",
+      "en": "thanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a29",
+      "en": "duil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae8",
+      "en": "lion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d25",
+      "en": "thar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2ae9",
+      "en": "lir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d26",
+      "en": "thil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d27",
+      "en": "thin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d28",
+      "en": "thir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d29",
+      "en": "thol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a30",
+      "en": "dun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a31",
+      "en": "dur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af0",
+      "en": "lod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a32",
+      "en": "fang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af1",
+      "en": "lodh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a33",
+      "en": "fast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af2",
+      "en": "lont",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a34",
+      "en": "fin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af3",
+      "en": "lor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d30",
+      "en": "thon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a35",
+      "en": "gar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af4",
+      "en": "lorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d31",
+      "en": "thor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a36",
+      "en": "gil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af5",
+      "en": "los",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d32",
+      "en": "thorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a37",
+      "en": "glas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af6",
+      "en": "lost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d33",
+      "en": "thos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a38",
+      "en": "glin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af7",
+      "en": "loth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d34",
+      "en": "thrim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a39",
+      "en": "glor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af8",
+      "en": "luin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d35",
+      "en": "val",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2af9",
+      "en": "mar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d36",
+      "en": "vir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d37",
+      "en": "vor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d38",
+      "en": "vorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d39",
+      "en": "war",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a51",
+      "en": "bor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a52",
+      "en": "born",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a53",
+      "en": "dal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d50",
+      "en": "rith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a54",
+      "en": "dan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d51",
+      "en": "rod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a55",
+      "en": "dar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d52",
+      "en": "ron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a56",
+      "en": "del",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d53",
+      "en": "rond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a57",
+      "en": "dhel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d54",
+      "en": "ros",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a58",
+      "en": "dhil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d55",
+      "en": "roth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2a59",
+      "en": "dhon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d56",
+      "en": "run",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d57",
+      "en": "ruth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d58",
+      "en": "stel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2d59",
+      "en": "stir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa0",
+      "en": "rad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa1",
+      "en": "ran",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa2",
+      "en": "ras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa3",
+      "en": "red",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa4",
+      "en": "reg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa5",
+      "en": "ren",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa6",
+      "en": "reth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa7",
+      "en": "ril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa8",
+      "en": "rin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1d2aa9",
+      "en": "rion",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

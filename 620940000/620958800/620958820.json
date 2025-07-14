@@ -1,0 +1,281 @@
+{
+  "id": 620958820,
+  "txt": [
+    {
+      "id": "0x2f00e24",
+      "en": "Apply the handful of healing herbs to the injured dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'This poor fellow looks to be seriously wounded!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "A Snowy Climb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b8",
+      "en": "#-1:[placeholder]'This fellow must have been in a battle, and recently! We have to do something to help! That is what heroes do, is it not?'\\n\\nBingo thinks for a moment, and then visibly brightens.\\n\\n'I know what we should do! I have heard that animals in the wild have a special sense for the kind of herbs and roots that will provide sustenance and heal their hurts. I am willing to wager that Willem Whisker has just this sort of ability, and could tell you if you are looking at helpful or unhelpful herbs! You should search the slopes of the Bruinen Source regions for such clumps of herbs, and see if Willem can tell you anything about them.\\n\\n'You can do it, W.W.! Go with [placeholder] and help #-1:{her[f]|him} with the search!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Travel north of Glóin's camp, toward the Northern Bruinen Source area of the Misty Mountains",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Oh, I am certain Bilbo meant no harm by his criticism of my manuscript to this point, but his words echo some of my own concerns! Will this account of my journey put my future readers to sleep, [placeholder]? I do not want that! This is to be a thrilling tale of adventure, not a soporific account suitably accompanied by a mug of warm milk before bedtime!\\n\\n'I have a new idea, my adventurous friend. I propose that we climb the very mountains in which this Elf-haven is nestled! We will climb the Misty Mountains and have such adventures that any reader with the unfortunate idea of reading just before bed will be rewarded with nightmares and a poor sleep indeed!\\n\\n'I have spoken with a number of the Elves here, and they tell me that the mountains are filled with many dangerous creatures. Snow-beasts, snow-lurkers... I have never seen any of these foes before, but we should do our part to defeat any that threaten as we climb. That will make for an exciting read when it is written down, will it not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "Willem Whisker dances about, giving you all the sign you need to take a handful of the herbs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "Willem Whisker stretches and yawns. Is he bored or disapproving?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Defeat snow-beasts in the Misty Mountains ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to the injured dwarf in the narrow pass",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Defeat snow-lurkers in the Misty Mountains ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'A good start, a good start! Those creatures were most ferocious, [placeholder], and I think I can safely say that any hobbit hoping to read THIS book before bedtime will be dreaming of frightful snow-beasts and terrifying snow-lurkers, even in summer!\\n\\n'We should travel even further north now, if you think you can bear the climb. Let us travel northward, to the Northern Bruinen Source. See where it is marked on this map? Our travels will only become more dangerous from here on out, I wager, and that will make for a good tale indeed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Talk to Bingo in the narrow pass",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "The dwarf appears to have been in a very recent battle, and he struggles to speak. His wounds are very severe.\\n\\n'Are you... to help...?' he manages, with great effort. 'The Corcur... ambushed...'\\n\\nThe pain is too much, and he is unable to say anything else.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Bingo at Glóin's camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Examine clumps of herbs throughout the Bruinen Source, keeping an eye on Willem Whisker's reactions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "#-1:[placeholder]'This fellow must have been in a battle, and recently! We have to do something to help! That is what heroes do, is it not?'\\n\\nBingo thinks for a moment, and then visibly brightens.\\n\\n'I know what we should do! I have heard that animals in the wild have a special sense for the kind of herbs and roots that will provide sustenance and heal their hurts. I am willing to wager that Willem Whisker has just this sort of ability, and could tell you if you are looking at helpful or unhelpful herbs! You should search the slopes of the Bruinen Source regions for such clumps of herbs, and see if Willem can tell you anything about them.\\n\\n'You can do it, W.W.! Go with [placeholder] and help #-1:{her[f]|him} with the search!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Bingo is concerned that readers of his manuscript will not be enthralled by the tale of his journey, and wants to add some excitement to its pages.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Bingo is in the narrow pass north of Glóin's camp, worrying about the wounds of the injured dwarf you encountered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Bingo is in the narrow pass north of Glóin's camp, worrying about the wounds of the injured dwarf you encountered.\\n\\nYou have a handful of (possibly) healing herbs, and should bring them to the injured dwarf.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Bingo has decided to stop for a short rest at Glóin's camp, in the Misty Mountains, near the southward road to Rivendell.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Bingo has asked you to search the Bruinen Source areas for clumps of herbs that may help heal the injured dwarf you encountered. He said you should watch Willem Whisker's reactions as you examine such herbs to determine if they will be helpful or hurtful.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'You found some herbs that might do the trick? Well, no sense in waiting around! Give them to him, and quickly!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Bingo wants to travel north of Glóin's camp into the Northern Bruinen Source area of the Misty Mountains, in an effort to add some excitement to his journey.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "Bingo is in the narrow pass north of Glóin's camp, worrying about the wounds of the injured dwarf you encountered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "You have encountered an injured dwarf in the narrow pass between the western and northern Bruinen source regions of the Misty Mountains, and should do what you can to help him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1192",
+      "en": "Bingo calls a halt as you enter the narrow pass: a dwarf lies here, grievously wounded!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "The dwarf leans back again, exhausted and silent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "Willem Whisker stares at you, possibly in assent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "His wounds are too severe for him to speak right now, but he seems to understand that you mean to help. You apply a compress of the herbs, and now his healing will be a matter of time... one way or the other.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "Snow-beasts and snow-lurkers can be found throughout the Misty Mountains.\\n\\nBingo is worried that his adventure will lull future readers to sleep, and wants to add some spice to his journey.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Talk to Bingo in the narrow pass",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'We have done what we can, [placeholder], but I am not ready to leave just yet! We should stay and see if our efforts have been enough! I am sure they will prove sufficient. This dwarf is fortunate we happened along when we did!\\n\\n'I wonder if he is an adventurer, as we are? He does have that look, doesn't he? We will have to ask him when he has recovered!'\\n\\n<rgb=#00FF00>Bert Bartleby has arrived at Glóin's camp, in the Misty Mountains.</rgb>\\n\\n<rgb=#FF0000>Next week: 'A Dangerous Detour' (Recommended Level: 43)</rgb>\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'This poor fellow looks to be seriously wounded!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'We should travel even further north now, if you think you can bear the climb. Let us travel northward, to the Northern Bruinen Source. See where it is marked on this map? Our travels will only become more dangerous from here on out, I wager, and that will make for a good tale indeed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "Defeated snow-beasts in the Misty Mountains ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'We will climb the Misty Mountains and have such adventures that any reader with the unfortunate idea of reading just before bed will be rewarded with nightmares and a poor sleep indeed!\\n\\n'I have spoken with a number of the Elves here, and they tell me that the mountains are filled with many dangerous creatures. Snow-beasts, snow-lurkers... I have never seen any of these foes before, but we should do our part to defeat any that threaten as we climb. That will make for an exciting read when it is written down, will it not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "Defeated snow-lurkers in the Misty Mountains ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

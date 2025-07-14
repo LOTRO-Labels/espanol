@@ -1,0 +1,509 @@
+{
+  "id": 620757445,
+  "txt": [
+    {
+      "id": "0x7109414",
+      "en": "Homestead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa42514b",
+      "en": "Knock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8e1074",
+      "en": "Harlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30018fe",
+      "en": "Linglen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4ab14b",
+      "en": "Stock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x324d518",
+      "en": "Tuckborough",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fb7075",
+      "en": "Just a House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe020f34",
+      "en": "Budgeford",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x388d364",
+      "en": "Archet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3a625",
+      "en": "Cope",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87ee32c",
+      "en": "Rivendell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x607e1be",
+      "en": "Gondamon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27d5d33",
+      "en": "Brockenborings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe12fb5e",
+      "en": "Waterdown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda398f5",
+      "en": "Bree",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4149514",
+      "en": "North Orod Cerin Outpost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8553228",
+      "en": "Mam Arokh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa491086",
+      "en": "Standelf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa37165",
+      "en": "Staddle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86728f7",
+      "en": "Ban Creag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c946d9",
+      "en": "Newbury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa499c49",
+      "en": "Scary",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x498d862",
+      "en": "Sarnur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae7893e",
+      "en": "Esteldín",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31804b3",
+      "en": "White Towers Estates",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa389617",
+      "en": "Arlew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21ddb4c",
+      "en": "Nor Facill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x308e5e8",
+      "en": "Limmidh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaec973c",
+      "en": "Thingal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c6aaae",
+      "en": "Hobbiton",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61d167c",
+      "en": "Thorin's Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7432a5",
+      "en": "Timbroke",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61744cc",
+      "en": "Woodhall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6e1074",
+      "en": "Forlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20f07fd",
+      "en": "Nangendraim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8bc5e0b",
+      "en": "Red Bank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb654198",
+      "en": "Dol Rudh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb20dad8",
+      "en": "Shar Dunakh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc824b5",
+      "en": "Hollow Home",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd32914",
+      "en": "Twaflod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0950f2",
+      "en": "Bywater",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3be62c2",
+      "en": "Medebar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3a6755",
+      "en": "Combe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe27430e",
+      "en": "Forsaken Inn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6c87a5",
+      "en": "Farbottle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46917dc",
+      "en": "Orodal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x487afde",
+      "en": "Raglan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x328d5d",
+      "en": "Longbottom",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3b0053",
+      "en": "Dinas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6468ac5",
+      "en": "Long Cleeve",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82ac0d",
+      "en": "Mount Gram",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12d9b2",
+      "en": "Vinyafor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x490b028",
+      "en": "Brandarth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c3e3dd",
+      "en": "Eltham",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73553e5",
+      "en": "Hardbottle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f5df5e",
+      "en": "Hoblin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8276812",
+      "en": "Gaoth Dur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x179dcd3",
+      "en": "Annuminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8c638",
+      "en": "Tarech",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d0a5c",
+      "en": "Silithil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0abf18",
+      "en": "Aeglirath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7fe0542",
+      "en": "Gellambar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8650a1e",
+      "en": "Talathen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74dcaf4",
+      "en": "Brethillad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc854c4c",
+      "en": "Overhill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc79f1e4",
+      "en": "Celonlad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef6cc55",
+      "en": "Sackville",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a5444e",
+      "en": "Frogmorton",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x774583e",
+      "en": "Falthanen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf38b94",
+      "en": "Cirith Brand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e782f4",
+      "en": "Haffod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9275182",
+      "en": "Grothmor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8005a8",
+      "en": "Gamwich",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5bcacce",
+      "en": "Nuinorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44814",
+      "en": "Nant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95efe07",
+      "en": "Michel Delving",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98df18d",
+      "en": "Carn Dum",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6797ac4",
+      "en": "North-east Mithlond Outpost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda3b6c5",
+      "en": "Dore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x95a5d3e",
+      "en": "Fornost Erain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd880779",
+      "en": "Bucklebury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe49204",
+      "en": "Mithlond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe944274",
+      "en": "Haysend",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19cd674",
+      "en": "West Mithlond Outpost",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

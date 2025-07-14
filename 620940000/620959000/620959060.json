@@ -1,0 +1,545 @@
+{
+  "id": 620959060,
+  "txt": [
+    {
+      "id": "0xd730885",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730889",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "DNT obj 6 event desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7308a4",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "DNT obj 7 event desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26441",
+      "en": "'I loved this place. Ever since I was a girl.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26442",
+      "en": "'I would come pick flowers here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26443",
+      "en": "'Flowers gayly coloured. Flowers deathly pale.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26444",
+      "en": "'Until I would dream of them at night.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26445",
+      "en": "'And then my sister - we would tell one another our dreams.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26446",
+      "en": "'If you only knew her. If you only knew Terenis, you would not say...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26447",
+      "en": "'And though she hasn't spoken to me in years... clinging to her insufferable pride...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26448",
+      "en": "'But in those days our dreams... dreams they grew tangled... tangled in our hair.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2644c82",
+      "en": "'Can you not hear?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e26449",
+      "en": "'Hands of blood. Hair of fire. I cannot stamp it out.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Approach Lady Vanyalos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "Protect Lady Vanyalos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50293",
+      "en": "Talk to Lady Vanyalos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "DNT obv 4 event desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c0",
+      "en": "'Look, the River Anduin. In a hundred tongues it calls out.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e6b41",
+      "en": "'What's this here, eh?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c1",
+      "en": "'Oh, my sister Terenis. Wroth and bitter to this day, because I stole her betrothed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e6b42",
+      "en": "'Looks like some sport, it does!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c2",
+      "en": "'Better say that he stole me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e6b43",
+      "en": "'Don't think you'll get away, my pretties.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c3",
+      "en": "'A big man, even then, but gallant and good. When he looked on me, his eyes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa48aca2",
+      "en": "DNT TEST: PICK FLOWERS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e6b44",
+      "en": "'There they are. Don't let them get away!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c4",
+      "en": "'We would steal off to the arbor, Forlong and I.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e6b45",
+      "en": "'You there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c5",
+      "en": "'He would tell me of the trees, the blossoms, the strange song of the Erui.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e6b46",
+      "en": "'Get them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c6",
+      "en": "'Like the Anduin, and yet unlike. So strange to me back then.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c7",
+      "en": "'Oh, I have dreamed of fire and blood! Oh, terrible, terrible!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "Lady Vanyalos left Imloth Melui unescorted and unguarded. Merenir, fearing for her safety and state of mind, sent you after her. You have found Lady Vanyalos just off the northward road.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c8",
+      "en": "'You should have seen her when she learned. Learned of Forlong and me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644c9",
+      "en": "'Oh, what have I seen? What have they done?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "DNT Success Text",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d0",
+      "en": "'Our brother Denethor said nothing. Forlong was gracious but he did not mend the wound. Forlong...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'Please, would you see me home? To Imloth Melui? I fear... fear that I am unwell.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d2",
+      "en": "'Gone off to die. Die in dreams and wars.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d3",
+      "en": "'Die in fire and blood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d4",
+      "en": "'Die in fire and blood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'I -- where am I? How have I come here, among the reeds. Oh,  [placeholder]. What terrible dreams I have had. I... I think I have not been myself.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d5",
+      "en": "'There again, old Anduin speaks to me. Calls and beckons me. Should I jump in?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d6",
+      "en": "'No. Down among the reeds.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d7",
+      "en": "'A wreath of mourning.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d8",
+      "en": "'I shall gather flowers, yes, and lay them in a wreath.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "DNT obj6 success text",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644d9",
+      "en": "'More flowers. Yes, those. Flowers deathly pale.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x457ec41",
+      "en": "'Oh!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Lady Vanyalos is wandering on the greensward by the River Anduin.\\n\\nYou should protect the Lady Vanyalos and see if you can get her to come to her senses.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x457ec42",
+      "en": "'I am beaten!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x457ec43",
+      "en": "'Spare me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "<rgb=#FF0000>Lady Vanyalos must not be defeated</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "<rgb=#FF0000>Herion must not be defeated</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e0",
+      "en": "'What dreams, what nightmares I have known!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e1",
+      "en": "'Head crowned in fire! Hands gloved in blood!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b0",
+      "en": "Lady Vanyalos stands between two trees, off the northward road.\\n\\nYou have found Lady Vanyalos. You should approach her and see if she can be persuaded to return to Imloth Melui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e2",
+      "en": "'My beloved... my brother... my own...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "Lady Vanyalos stands among the reeds by the River Anduin.\\n\\nHaving come to her senses at last, the Lady Vanyalos looks ready to talk to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e3",
+      "en": "'I felt sure the dream fortold their deaths.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda48ac4",
+      "en": "DNT TEST",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "DNT obj 5 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e4",
+      "en": "'I dreamed my brother Denethor wore a crown of fire - and my Lord Forlong's hands were covered in blood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "DNT obj 6 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e5",
+      "en": "'I felt sure the dream fortold their deaths.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e6",
+      "en": "'After that I do not know what happened or how I find myself here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2644e7",
+      "en": "'Oh, my head... spinning... oh my!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "DNT obj 8 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "DNT obj9 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "DNT obj 10 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "DNT obj 7 desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Madness of Vanyalos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "DNT objective desc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "Defeated Tenakrul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "You hear an Orkish shout, followed by footfall. You are discovered!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd73089",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01142",
+      "en": "Fight the Orc captain among the reeds by the River Anduin.\\n\\nJust as Lady Vanyalos fainted, the Orc captain, Tenakrul, came upon you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "<rgb=#FF0000>Lady Vanyalos has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Defeat Tenakrul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "<rgb=#FF0000>Herion has been defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "DNT desc override",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Protect Lady Vanyalos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Protect Lady Vanyalos",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

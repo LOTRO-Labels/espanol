@@ -1,0 +1,17 @@
+{
+  "id": 620948325,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Inventory Management",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8376782",
+      "en": "You can manage the space in your inventory by clicking the 'Edit Mode' button found in bag 1. While in Edit Mode, you can move chunks of space from one bag to another by dragging them. You can move all space out of a bag which will make it so the bag will not display except for when you are in Edit Mode. Bag 1 is the exception and will not allow you to empty it completely. Once you leave edit mode, this will save your changes.\\n\\n There is also a search bar on bag one that will allow you to find specific items in your inventory. Lastly, there is a Lock Mode button that when used will allow you to toggle the vendor lock status of any item you left-click on. This will allow you to prevent the sale of items you do not wish to accidentally sell when at a vendor. While in Lock Mode, right-clicking will leave Lock Mode.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

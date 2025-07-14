@@ -1,0 +1,89 @@
+{
+  "id": 620870502,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "You have struck the Training Dummy with 'Deft Strike'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "As you gain levels, you'll gain new abilities and grow into a more powerful Warden.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'I am here to help you practice skills that will make you a more powerful Warden.\\n\\nHINT: Wardens use combinations of their basic skills such as <rgb=#00ff00>Quick Thrust</rgb> and <rgb=#00ff00>Shield-Bash</rgb> to build more powerful <rgb=#ffff00>Gambit</rgb> attacks. To use your <rgb=#00ff00>Deft Strike</rgb> skill, attack a <rgb=#ff0000>Training-Dummy</rgb> with your <rgb=#00ff00>Quick Thrust</rgb> ability twice. This should cause your <rgb=#00ff00>Gambit Default</rgb> skill to change into your <rgb=#00ff00>Deft Strike</rgb> skill. Use your <rgb=#00ff00>Deft Strike</rgb> ability to strike a <rgb=#ff0000>Training-Dummy</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Use deft strike on the training-dummy nearby. \\n\\nHINT: Wardens use combinations of their basic skills such as <rgb=#00ff00>Quick Thrust</rgb> and <rgb=#00ff00>Shield-Bash</rgb> to build more powerful <rgb=#ffff00>Gambit</rgb> attacks. To use your <rgb=#00ff00>Deft Strike</rgb> skill, attack a <rgb=#ff0000>Training-Dummy</rgb> with your <rgb=#00ff00>Quick Thrust</rgb> ability twice. This should cause your <rgb=#00ff00>Gambit Default</rgb> skill to change into your <rgb=#00ff00>Deft Strike</rgb> skill. Use your <rgb=#00ff00>Deft Strike</rgb> ability to strike a <rgb=#ff0000>Training-Dummy</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Good, [placeholder]! I think you will be an excellent Warden someday. You should return now to Elladan; I believe he wishes to begin the investigation.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "The Warden Trainer is at the Edhelion Watch.\\n\\nNow that you have successfully used your Deft Strike, you should return to your trainer and tell him of your success.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Dorongúr Whitethorn is in Edhelion.\\n\\nYou should make your way to Dorongúr Whitethorn and tell him that you have finished your meditation and have prepared yourself for battle.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "Use deft strike on the training-dummy nearby. \\n\\nHINT: Wardens use combinations of their basic skills such as <rgb=#00ff00>Quick Thrust</rgb> and <rgb=#00ff00>Shield-Bash</rgb> to build more powerful <rgb=#ffff00>Gambit</rgb> attacks. To use your <rgb=#00ff00>Deft Strike</rgb> skill, attack a <rgb=#ff0000>Training-Dummy</rgb> with your <rgb=#00ff00>Quick Thrust</rgb> ability twice. This should cause your <rgb=#00ff00>Gambit Default</rgb> skill to change into your <rgb=#00ff00>Deft Strike</rgb> skill. Use your <rgb=#00ff00>Deft Strike</rgb> ability to strike a <rgb=#ff0000>Training-Dummy</rgb>.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Yes, I sensed that you were well-prepared, [placeholder]. Remember, we must work to reclaim this land, and while we have a tentative peace with the dwarves in the valley below, we cannot overlook the lessons of the past and the betrayal that came at their hands.\\n\\n'Speak with Dorongúr and tell him that I believe you are ready.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'I will teach you more when you are ready to learn. For the moment, you should speak with Dorongúr.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Use Deft Strike against a Training Dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to the Warden Trainer at the Edhelion Watch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Dorongúr Whitethorn in Edhelion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Training: A Warden's Deft Strike",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

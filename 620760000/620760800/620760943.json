@@ -1,0 +1,143 @@
+{
+  "id": 620760943,
+  "txt": [
+    {
+      "id": "0xceb0113",
+      "en": "Stolen sacks of grain can be found at Gurzlum, south-west of Gatson's Farm in the Kingsfell.\\n\\nYou should recover stolen sacks of grain from Gurzlum.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Gatson is at his farm in the Kingsfell, in the central North Downs.\\n\\nYou should speak with Gatson at his farm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "Collected stolen grain ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Collected grain sacks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The Dwarves of Othrikar are beset by supply troubles, stemming from the incursion of Orcs and Wargs from the north and the betrayal of the Dourhands.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e112",
+      "en": "Collected grain sacks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'There may just be a chance that you could help me. It seems to me that all of my stolen grain may still be at the Orcs' camp not far from here. If you can recover that grain for me, I'll be glad to sell it off to Esteldín or Othrikar.\\n\\n'The Orcs have a big camp to the south and west of here. I don't know where in the camp they would be keeping the stolen grain, but you should retrieve four large sacks.\\n\\n'Bring me those sacks, and I'll see what I can do for the dwarves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5021",
+      "en": "Collect grain sacks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The stolen grain may be found at the Orc camp, south-west of Gatson's farm.\\n\\nHornbori sent you to speak with Farmer Gatson about purchasing some grain, but when you arrived, Gatson told you that Orcs had stolen all the grain he had. Gatson offered to sell the grain at half his normal price if you could recover his stolen grain sacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Aye, that's the grain. You've done a good job. I'll send these on to Othrikar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Hornbori awaits your return at Othrikar.\\n\\nYou successfully recovered the grain from the Orcs and brought it back to Gatson's farm. In turn, Gatson has asked you to deliver it to Hornbori.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'If you need to fight Orcs to get us some grain, well, that just so much more to the good, eh?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Were you able to find the Orc camp? Did they have my grain?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'You ought to bring that grain back to your Dwarf friends at Othrikar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Oh, so you had to get the grain yourself from the Orcs? Well, half-price is half-price! This Gatson sounds like an honest man. We'll do more business with him if we can -- if things don't get too much worse around here.\\n\\n'Be that as it may be, you deserve an extra reward for fighting those Orcs. Please accept this silver with our gratitude!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Could you not get the grain from Gatson?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Return the Grain Sacks to Gatson",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Collect grain sacks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Bring the grain sacks back to Hornbori",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Bring the grain to Gatson",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'Our grain! I had forgotten, for we were attacked while you were away. There -- you see? That Elf-fellow came in the nick of time, and took out several invading Orcs.\\n\\n'It grows ever more turbulent, despite our good fortune in receiving aid of late. I worry that we will have to abandon this farm soon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Grain-hunter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5029",
+      "en": "Collect stolen grain ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

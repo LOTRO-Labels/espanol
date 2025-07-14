@@ -1,0 +1,29 @@
+{
+  "id": 620794154,
+  "txt": [
+    {
+      "id": "0x66cfc04",
+      "en": "Your previous session play session ([placeholder]) crashed.  You have been refunded the cost of the session.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x868f375",
+      "en": "Unable to resume session '[placeholder]'.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5147b05",
+      "en": "Resuming session '[placeholder]'...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd6e1b4",
+      "en": "Your previous session play session ([placeholder]) failed to start.  You have been refunded the cost of the session.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

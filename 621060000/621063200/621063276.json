@@ -1,0 +1,227 @@
+{
+  "id": 621063276,
+  "txt": [
+    {
+      "id": "0xb5689a0",
+      "en": "'Thank you so much for what you have done! I can breathe more easily now. Still... there are more animals that need tending. I did tell you there were a lot.\\n\\n'Will you help tend to some of my poor injured critters?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d1",
+      "en": "'Phew! We did it! Well, it was mostly your assistance that made this possible. I cannot promise that I will not agree to take in more animals, if the need for me to do so arises, but your example has shown me that there are good-hearted folk willing to help me, if I only ask.\\n\\n'Let me count the animals again to make sure we did not miss anyone.'\\n\\nPrunella closes her eyes and mumbles to herself for a moment, counting. The numbers you can make out seem to be very high numbers indeed. At last her eyes fly open.\\n\\n'I think we missed someone, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'I don't suppose you'd be willing to help me, would you? I don't mean to be a bother, but I am certainly in need of assistance! You see... I think I may have said \\qyes\\q one time too many!'\\n\\nA look of panic darts across Prunella's face.\\n\\n'Do not let my example stop you from agreeing to help me! Please say \\qyes\\q to this urgent request, good one!'\\n\\nPrunella breathes deeply, calming herself.\\n\\n'The folk hereabout often bring me pets and farm animals they are no longer able to tend to, for one reason or another, and I am never able to refuse them! I have tried to find good homes for as many as I can, with some success, but I am still quite overwhelmed by the sheer number of creatures, lovable though they be!\\n\\n'Will you help me feed and tend to the animals still in my care?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502922",
+      "en": "Talk to Prunella Goldworthy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502951",
+      "en": "Talk to Prunella Goldworthy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502952",
+      "en": "Tend to the injured bird",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502954",
+      "en": "Tend to the injured frog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502956",
+      "en": "Tend to the injured rabbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1b4",
+      "en": "Prunella Goldworthy has her hands full after volunteering to care for so many animals!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502958",
+      "en": "Tend to the injured tortoise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be0",
+      "en": "Tended to the injured tortoise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "Needy and hungry animals can be found in the village of Long Cleeve.\\n\\nYou should care for the needy and hungry animals in Long Cleeve.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf3",
+      "en": "Helping Hooves, Helping Paws",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "Comfort the needy pig with a <rgb=#FF0000>pat</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01156",
+      "en": "Injured animals can be found in the village of Long Cleeve.\\n\\nYou should care for the injured animals in Long Cleeve.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1131",
+      "en": "Fed the cat!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50264",
+      "en": "Comfort the needy hound with a <rgb=#FF0000>pat</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Comfort the needy cow with a <rgb=#FF0000>pat</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1133",
+      "en": "Fed the goat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Prunella Goldworthy can be found in the village of Long Cleeve.\\n\\nYou should talk to Prunella Goldworthy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1135",
+      "en": "Fed the pony",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50268",
+      "en": "Feed the hungry chicken",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1136",
+      "en": "While the chicken appreciates the attention, the bird is quite hungry!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1137",
+      "en": "While the cat appreciates the attention, the animal is quite hungry!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1138",
+      "en": "While the goat appreciates the attention, the animal is quite hungry!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1139",
+      "en": "While the pony appreciates the attention, the animal is quite hungry!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50210",
+      "en": "Feed the hungry cat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b93",
+      "en": "Tended to the injured bird",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50212",
+      "en": "Feed the hungry goat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b95",
+      "en": "Tended to the injured frog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50214",
+      "en": "Feed the hungry pony",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b97",
+      "en": "Tended to the injured rabbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01169",
+      "en": "Prunella Goldworthy can be found in the village of Long Cleeve.\\n\\nYou should talk to Prunella Goldworthy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1143",
+      "en": "Comforted the pig!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1146",
+      "en": "Comforted the hound!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1147",
+      "en": "Comforted the cow!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1149",
+      "en": "Fed the chicken!",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

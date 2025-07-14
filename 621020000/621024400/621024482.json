@@ -1,0 +1,161 @@
+{
+  "id": 621024482,
+  "txt": [
+    {
+      "id": "0x6a50251",
+      "en": "Talk to Faeron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01148",
+      "en": "Dolenthol can be found in Barad Elenath, the Star-gazers' Spire.\\n\\nYou should talk to Dolenthol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01149",
+      "en": "Faeron can be found in Barad Elenath, the Star-gazers' Spire.\\n\\nYou should talk to Faeron.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1b7",
+      "en": "The Circle of Madness has been invaded by Lhaereth's forces. Faeron thinks it prudent to discover what it is the winged-folk seek.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "'The Circle of Wisdom was well known for its gardens. Search it high and low.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "'Search for any mention of Morloth within tomes and scrolls in the Circle of Madness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa36",
+      "en": "TBD Merrevail Tier N2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "Faeron has asked you to find merrevail lieutenants and uncover orders from Lhaereth.\\n\\nYou should find and defeat Ogolúm, Durthúl, and Rhanarch within the Circle of Madness.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf6",
+      "en": "The Most Valuable Commodity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a0",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'I have a task for you, if you are prepared to venture forth.\\n\\n'We are few here, and are lacking in information more than anything else. In enemy territory, information is the most valuable commodity. I need someone to find and remove lieutenants of the enemy and search them for any orders from Lhaereth. I believe you are best suited to this task as you have experience fighting the merrevail, and you are among the most skilled in our forces.'\\n\\nYou ask Faeron if he has a task in mind for Dolenthol, as you can vouch for his skill in combat.\\n\\n'Dolenthol? I do not believe I am acquainted with him. Is he the Ithilien Ranger who arrived with you? If you say he is skilled, I will have him assist me with establishing message and supply lines with the lower tiers and Faramir's camp. Worry not, I will allow no harm to come to your friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'Faeron will have me assist with establishing supply lines? Not quite the mission I was hoping for, but I understand the need. Be safe out there, [placeholder]. I will see you when you return.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85993",
+      "en": "'We are few here, and are lacking in information more than anything else. In enemy territory, information is the most valuable commodity.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85994",
+      "en": "''I was correct, she is looking for something, but I do not know who or what Morloth is. DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Collect Orders from Ogolúm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d85995",
+      "en": "'Not quite the mission I was hoping for, but I understand the need. DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Collect Orders from Durthúl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Collect Orders from Rhanarch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "'Find the Halls of Black Lore. Find a way in. Find its keeper.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Dolenthol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Defeat Ogolúm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Defeat Durthúl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Defeat Rhanarch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "'Welcome back, [placeholder]. What have you discovered?'\\n\\nYou show Faeron the orders Lhaereth issued to her lieutenants. He reads them with a puzzled expression.\\n\\n'I was correct, she is looking for something, but I do not know who or what Morloth is. The Halls of Black Lore, however... I have heard rumours of a great repository of dark knowledge held by the Witch-king somewhere in the city; this must be the same hall. If Lhaereth seeks this place, we must seek it as well.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

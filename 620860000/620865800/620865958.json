@@ -1,0 +1,863 @@
+{
+  "id": 620865958,
+  "txt": [
+    {
+      "id": "0x50b8d70",
+      "en": "log",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d71",
+      "en": "lu",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d72",
+      "en": "lug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d73",
+      "en": "lyg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d74",
+      "en": "mar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d75",
+      "en": "ming",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d76",
+      "en": "mod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d77",
+      "en": "mund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d78",
+      "en": "nald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d79",
+      "en": "nar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a80",
+      "en": "serk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a81",
+      "en": "si",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a82",
+      "en": "stan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a83",
+      "en": "star",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d80",
+      "en": "bog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a84",
+      "en": "stein",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d81",
+      "en": "brand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a85",
+      "en": "sten",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d82",
+      "en": "bud",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a86",
+      "en": "sur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d83",
+      "en": "bur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a87",
+      "en": "svin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d84",
+      "en": "dan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a88",
+      "en": "tan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d85",
+      "en": "di",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a89",
+      "en": "tar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d86",
+      "en": "din",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d87",
+      "en": "dod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d88",
+      "en": "dof",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d89",
+      "en": "drad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a90",
+      "en": "ter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a91",
+      "en": "thi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a92",
+      "en": "thil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a93",
+      "en": "thof",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d90",
+      "en": "dref",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a94",
+      "en": "thor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d91",
+      "en": "drid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a95",
+      "en": "ti",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d92",
+      "en": "dulf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a96",
+      "en": "til",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d93",
+      "en": "dun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a97",
+      "en": "trygg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d94",
+      "en": "ek",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a98",
+      "en": "ul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d95",
+      "en": "erk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8a99",
+      "en": "un",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d96",
+      "en": "far",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d97",
+      "en": "fast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d98",
+      "en": "fi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d99",
+      "en": "fig",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa0",
+      "en": "und",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa1",
+      "en": "vald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa2",
+      "en": "var",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa3",
+      "en": "vard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da0",
+      "en": "finn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa4",
+      "en": "vat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da1",
+      "en": "fot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa5",
+      "en": "verk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da2",
+      "en": "fred",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa6",
+      "en": "vett",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa7",
+      "en": "vi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da3",
+      "en": "frid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa8",
+      "en": "vid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da4",
+      "en": "frik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8aa9",
+      "en": "vif",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da5",
+      "en": "froth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da6",
+      "en": "fus",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da7",
+      "en": "gald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da8",
+      "en": "gand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8da9",
+      "en": "gar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8ab0",
+      "en": "vin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8ab1",
+      "en": "vind",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8ab2",
+      "en": "vir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8ab3",
+      "en": "vit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db0",
+      "en": "gard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db1",
+      "en": "garth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db2",
+      "en": "gaut",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db3",
+      "en": "geir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db4",
+      "en": "gest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db5",
+      "en": "gi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db6",
+      "en": "gils",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db7",
+      "en": "gin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db8",
+      "en": "gir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8db9",
+      "en": "gis",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d00",
+      "en": "nem",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d01",
+      "en": "ner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d02",
+      "en": "ni",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d03",
+      "en": "nir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d04",
+      "en": "olf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d05",
+      "en": "or",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d06",
+      "en": "ord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d07",
+      "en": "orm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d08",
+      "en": "rad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d09",
+      "en": "ran",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af0",
+      "en": "rand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af1",
+      "en": "rar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af2",
+      "en": "ren",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af3",
+      "en": "rid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af4",
+      "en": "rik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df1",
+      "en": "al",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af5",
+      "en": "rin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df2",
+      "en": "ald",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af6",
+      "en": "rod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df3",
+      "en": "ar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af7",
+      "en": "rok",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df4",
+      "en": "ard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af8",
+      "en": "rolf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df5",
+      "en": "bank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8af9",
+      "en": "rygg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df6",
+      "en": "bard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df7",
+      "en": "bein",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df8",
+      "en": "berg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8df9",
+      "en": "bi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d40",
+      "en": "golf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d41",
+      "en": "grim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d42",
+      "en": "gul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d43",
+      "en": "hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d44",
+      "en": "helm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d45",
+      "en": "i",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d46",
+      "en": "if",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d47",
+      "en": "ik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d48",
+      "en": "ik",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d49",
+      "en": "il",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d50",
+      "en": "in",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d51",
+      "en": "ing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d52",
+      "en": "kad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d53",
+      "en": "keg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d54",
+      "en": "kell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d55",
+      "en": "ket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d56",
+      "en": "ki",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d57",
+      "en": "kil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d58",
+      "en": "kon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d59",
+      "en": "kuld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d60",
+      "en": "lab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d61",
+      "en": "laf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d62",
+      "en": "lag",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d63",
+      "en": "lak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d64",
+      "en": "lang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d65",
+      "en": "laug",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d66",
+      "en": "leif",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d67",
+      "en": "lend",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d68",
+      "en": "li",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50b8d69",
+      "en": "lif",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

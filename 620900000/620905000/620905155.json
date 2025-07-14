@@ -1,0 +1,257 @@
+{
+  "id": 620905155,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'You were a blur of blade and hoof.  Your prowess will be recorded this day!  Floodwend is in your debt. You have the gratitude of all of Middle-earth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Floodwend Besieged",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Follow Elfhelm to the town gates. <rgb=#00FF00>Objective Completed (1/6)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e281",
+      "en": "'Ride forth! We will protect the town!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x854c111",
+      "en": "Mount your Warsteed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have defeated the Uruks at the gate.  Ride on! <rgb=#00FF00>Objective Completed (2/6)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e282",
+      "en": "'You must find that rider!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x854c112",
+      "en": "Rohirrim reinforcements have arrived!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "You have defeated some ambushers. Ride on! <rgb=#00FF00>Objective Completed (3/6)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Speak with Elfhelm before you. He will lead the way to the gates of Floodwend!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e283",
+      "en": "'Floodwend is safer now! Finish it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "You have defeated the remaining forces. Ride on! <rgb=#00FF00>Objective Completed (4/6)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Elfhelm has asked you to ride and push back the enemy forces.  The horses are dead, reinforcements are ariving late, and only you can stop the threat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e284",
+      "en": "'The rider must not be allowed to escape!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e285",
+      "en": "'Well done, friend to the Rohirrim.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "Floodwend is saved! <rgb=#00FF00>Objective Completed (5/6)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Continue through the valley. You must chase down the Nazgul rider.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e286",
+      "en": "'Your legend grows, hero!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "Congratulations! You are the hero of Rohan! <rgb=#00FF00>Objective Completed (6/6)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Continue through the valley. You must chase down the Nazgul rider.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x737e287",
+      "en": "'Get the Warg-riders!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "Time is up! Please try again later.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "At the end of the valley, waits the Nazgul rider.  Defeat him and reclaim Floodwend for Rohan!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Speak with Elfhelm again.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Objective 1: Speak to Elfhelm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Objective 2: Ride out and trample the unmounted forces.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Objective 3: Defeat the enemies on the road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Objective 4: Defeat the remaining enemies on the road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9315db2",
+      "en": "Quest Progress",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Objective 5: Defeat the Nazgûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Objective 6: Speak with Elfhelm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Don't let Rohirrim Captain die!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "You have [placeholder] seconds left in the demo",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed1ee21",
+      "en": "'The town will not withstand another attack. Grimbold claims you are our last hope!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The town of Floodwend has been besieged. You must do everything in your power to drive back the evil forces of Isengard and Mordor and save the town from imminent doom!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed1ee22",
+      "en": "'Follow me to the gate. From there you must ride!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed1ee23",
+      "en": "'Mount up and defeat the forces ahead.  Drive back everyone!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed1ee24",
+      "en": "'You did it! Well done!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1406e1",
+      "en": "'Is this all that Floodwend can muster? Pathetic.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed1ee25",
+      "en": "'Impressive!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1406e2",
+      "en": "'You will not make it out of this valley alive!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Grimbold told us he would send help.  You are it?  Where are the Riders of Rohan? Is there no one else who will come to our aid?  \\n\\n'You must succeed where othere could not, then.  You must drive back the evil of Mordor itself.  These forces are driven by a dark rider.  Come with me to the gates.  Then we ride from there!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

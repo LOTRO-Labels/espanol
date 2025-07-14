@@ -1,0 +1,983 @@
+{
+  "id": 620757429,
+  "txt": [
+    {
+      "id": "0x99c02d0",
+      "en": "Sort the tribe members by class.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6e9d0b",
+      "en": "Sort the kinship members by kinship rank.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x280262",
+      "en": "Remove the selected player from the kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ac5e85",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa705d75",
+      "en": "Sort the kinship members by name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34c8c8e",
+      "en": "Invite",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44196a4",
+      "en": "Remove",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f99c03",
+      "en": "Sort the kinship members by class.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42dc8f5",
+      "en": "Note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0c9304",
+      "en": "#1:[placeholder] has invited you to join #1:{her[f]|his[m]} kinship, #2:[placeholder]. Do you accept?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca236f2",
+      "en": "No member selected.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe4ced5",
+      "en": "0",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d888e0",
+      "en": "Sort the tribe members by their join date.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d7450",
+      "en": "Sort the tribe members by name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ece9ac",
+      "en": "Effect",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c58284",
+      "en": "Set MotD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x793131c",
+      "en": "Level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe55da14",
+      "en": "Remove the current leader and become the new leader of the kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3efac3c",
+      "en": "Kinship:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x634e972",
+      "en": "Demote the selected player to the next lower kinship rank.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfbf0df5",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfaf1cc",
+      "en": "Member Name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb173ae",
+      "en": "Update",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfba003c",
+      "en": "Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x703781c",
+      "en": "Sort the kinship members by level.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f63ec",
+      "en": "<u>Join Date</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b38f3c",
+      "en": "Members",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd373e82",
+      "en": "Visit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf01a9d5",
+      "en": "Demote",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x982e814",
+      "en": "Set kinship Leader successor to:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5e8280",
+      "en": "Group",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe713437",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36b2a62",
+      "en": "Successor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3a2640",
+      "en": "To create a tribe, you must attain sufficient rank and purchase a Tribe Charter from a \\qTribal Scrivener.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc930720",
+      "en": "#1:[placeholder] has invited you to join #1:{her[f]|his[m]} tribe, #2:[placeholder]. Do you accept?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa74db4e",
+      "en": "Are you sure you want to resign from your position?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d4604",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1acfa70",
+      "en": "The next Lifespan Rank of the tribe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b0aba5",
+      "en": "Leave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc0799c",
+      "en": "<u>Location</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0881f2",
+      "en": "No player selected.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc7ff8c",
+      "en": "Lvl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3cdd5",
+      "en": "Kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4998e24",
+      "en": "Are you sure you want to boot [placeholder]?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfac44c0",
+      "en": "Tribe:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x55a68ac",
+      "en": "Rank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77624c5",
+      "en": "Update Your Member Note.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa99ab4c",
+      "en": "Last On",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5efcd4",
+      "en": "Create the kinship using the specified name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40ca0d0",
+      "en": "Usurp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd79485c",
+      "en": "Online",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6497c45",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed64f10",
+      "en": "WARNING! Your tribe has fallen below the minimum number of members. It will be disbanded within five(5) days if the tribe does not have eight(8) or more members.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3085734",
+      "en": "As the leader or officer of the kinship, you may specify the Message of the Day and press this button to update it for all kinship members.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0ea8d0",
+      "en": "Resign from your position in the tribe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcc5c580",
+      "en": "As the leader of the tribe, you may select an officer from the list and name them your successor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x524f9dc",
+      "en": "Title",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa744db0",
+      "en": "Are you sure you want to quit the tribe?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42a31fe",
+      "en": "Online",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9015070",
+      "en": "Sort the kinship members by fellowship status.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5339b44",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7edb915",
+      "en": "This is the Message of the Day.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcfdfa0",
+      "en": "Are you really sure you want to disband your tribe?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c6f784",
+      "en": "As the leader of a kinship, you may choose to disband your kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b6603",
+      "en": "Dismiss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2acc5c2",
+      "en": "As the leader of the kinship, you may select an officer from the list and name them your successor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb1c1a3",
+      "en": "Sort the kinship members by their login status.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79a82a5",
+      "en": "Promote",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x788a755",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3bfc",
+      "en": "Residence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a87ce5",
+      "en": "Create",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e9d2d4",
+      "en": "Online",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70121fc",
+      "en": "<u>Status</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6af9cc",
+      "en": "Description",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68dcfd4",
+      "en": "Are you really sure you want to disband your kinship? This will also abandon your kinship house if you have one.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9465cfc",
+      "en": "Player Note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x354d610",
+      "en": "Extend tribe invite to:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1507e20",
+      "en": "Sort the tribe members by group status.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x328de80",
+      "en": "Are you sure you want to become the leader of your tribe?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3cdda20",
+      "en": "Tribe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x224b4f4",
+      "en": "Show Only Online Members",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87537d3",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87748ce",
+      "en": "Set",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9e00ec",
+      "en": "Lifespan Rank:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ad02e5",
+      "en": "Demote",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe0698c",
+      "en": "<u>Rank</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e812a0",
+      "en": "Set tribe Leader successor to:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58044a5",
+      "en": "The name of the kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64612c",
+      "en": "Renown:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00bdfb",
+      "en": "The current Lifespan Rank of the kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82730ae",
+      "en": "Resign",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf940040",
+      "en": "Sort the tribe members by in game location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x651acfb",
+      "en": "The next Lifespan Rank of the kinship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14fddc4",
+      "en": "The selected kinship member has not specified a primary residence.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82c8a85",
+      "en": "<Insert kinship name here>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26c3a23",
+      "en": "To create a kinship, visit one of the \\qClerks of Kinships\\q throughout the world and purchase a Kinship Charter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3354d4",
+      "en": "Extend kinship invite to:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x900f892",
+      "en": "Successor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdacf593",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63ed644",
+      "en": "WARNING! Your kinship has fallen below the minimum number of members. It will be disbanded within five(5) days if the kinship does not have eight(8) or more members. If you have a kinship house, it will also be abandoned.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba08d34",
+      "en": "Change View",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73cc56c",
+      "en": "Effects",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cba46c",
+      "en": "Ranks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b72a24",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20f961c",
+      "en": "<u>LFG</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16e1494",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c5b9e",
+      "en": "Resign",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf5af60",
+      "en": "Send a tribe Recruit message to the targetted player.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefcd470",
+      "en": "Create the tribe using the specified name.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd20a66c",
+      "en": "Next Lifespan Rank:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c1aa90",
+      "en": "Sort the tribe members by their login status.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7878bb",
+      "en": "Online(AFK)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f64c4c",
+      "en": "Expel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16fd440",
+      "en": "Promote the selected player to the next tribe rank.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8573c20",
+      "en": "As the leader or officer of the tribe, you may specify the Message of the Day and press this button to update it for all tribe members.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4408cc4",
+      "en": "Quit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49a7444",
+      "en": "Are you sure you want to quit the kinship?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdfbec4c",
+      "en": "Tell",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5616fd2",
+      "en": "Promote the selected player to the next kinship rank.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd50d125",
+      "en": "Promote",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3782820",
+      "en": "Sort the tribe members by level.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88fd3cc",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x486666c",
+      "en": "Message of the Day:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba9e780",
+      "en": "Transfer Leadership",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfff0ea4",
+      "en": "Resign from your position in the kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x421b06c",
+      "en": "Member",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf99d9cc",
+      "en": "<u>Member</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfaac2a5",
+      "en": "Member",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a328d0",
+      "en": "Are you sure you want to become the leader of your kinship?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b371b4",
+      "en": "Disband",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd70a4c",
+      "en": "Join Date",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5da1770",
+      "en": "Remove the current leader and become the new leader of the tribe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4417a4",
+      "en": "Add",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa17ffbc",
+      "en": "LFG",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadfacdc",
+      "en": "Message of the Day:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63f962c",
+      "en": "<u>Lvl</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82afd0c",
+      "en": "Members",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb05c454",
+      "en": "Disband",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf7cd0c",
+      "en": "Permissions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f78ae0",
+      "en": "As the leader of a tribe, you may choose to disband your tribe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdcb6b2e",
+      "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6c283c",
+      "en": "Sponsor:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fc7c85",
+      "en": "Member",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9d0640",
+      "en": "Sort the tribe members by tribe rank.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec8d885",
+      "en": "Sort the kinship members by their join date.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84bf5a2",
+      "en": "Send a kinship Recruit message to the targetted player.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a103c",
+      "en": "Location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1593b34",
+      "en": "The member travel skill can only be used when your kinship owns a house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44ada0",
+      "en": "The name of the tribe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e97110",
+      "en": "Demote the selected player to the next lower tribe rank.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8026700",
+      "en": "Remove the selected player from the tribe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd4d28f5",
+      "en": "None",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae506c5",
+      "en": "Invite",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x73ed3a4",
+      "en": "Are you sure you want to recruit [placeholder] into your kinship?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa6f93f1",
+      "en": "Sort the kinship members by in game location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78ca21c",
+      "en": "Time Remaining",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d74c2c",
+      "en": "Achievements",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdf420",
+      "en": "The current Lifespan Rank of the tribe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8dffb2",
+      "en": "Use your kinship travel skill to visit the selected kinship member's primary residence.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a2b32c",
+      "en": "<u>Class</u>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed3b010",
+      "en": "Are you sure you want to recruit [placeholder] into your tribe?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dafc",
+      "en": "Class",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd01143c",
+      "en": "10",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

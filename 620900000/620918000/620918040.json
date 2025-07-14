@@ -1,0 +1,395 @@
+{
+  "id": 620918040,
+  "txt": [
+    {
+      "id": "0x6e9a0f4",
+      "en": "Silver medals have been cashed out for a reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc623e50",
+      "en": "A new quickslot page is unlocked.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9fd7d9",
+      "en": "You have hit the cap for [placeholder]! Until you spend below the cap, you will be unable to earn any more!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfeda64",
+      "en": "Platinum medals have been cashed out for a reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16e5e60",
+      "en": "One of your items has reached the next level (It requires a re-forge)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdda585",
+      "en": "You have [placeholder] Race Change {credit[1]|credits} available to you. Click here to log out and proceed with the Race Change.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3afbb64",
+      "en": "Thank you for purchasing the Mordor expansion! Your Aria of the Valar level boost has been delivered to this character. The package in your inventory can be mailed to other characters on your account or placed in shared storage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d75780",
+      "en": "You may launch a private encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee7654e",
+      "en": "Due to being in [placeholder] state, rewards are reduced by [placeholder]%",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2cf073",
+      "en": "Adjustments have been made to the legacies on your legendary items.  As a result, all points spent on existing legacies have been refunded for some of your legendary items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9e39fe",
+      "en": "You are no longer qualified to own your house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xedc849e",
+      "en": "Your standing with [placeholder] has changed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ef9900",
+      "en": "You need to pay upkeep on your house",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x807ac34",
+      "en": "You have a new title!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccc3017",
+      "en": "View pending alerts!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc570f4",
+      "en": "The requirements for training [placeholder] have changed, you are not yet eligible. You have been refunded [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e568e0",
+      "en": "A quest has been automatically bestowed to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa749530",
+      "en": "Multiple Free Hobbit Presents Available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf117b4",
+      "en": "You have [placeholder] out of a maximum of [placeholder] items or stacks waiting to be accepted. Click here to view/accept/reject them! WARNING: If you hit the max, you will begin losing the oldest items in the list!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65734c4",
+      "en": "Password Alert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9cf94",
+      "en": "You have either been awarded an item or your medals have been forwarded to the next tier!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b9bae4",
+      "en": "You have a new title: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde4133",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd131904",
+      "en": "Gold medals have been cashed out for a reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x426b7c0",
+      "en": "Decorations and items in storage have been moved into escrow which is accessible to you at any Vault-keeper.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x762e8e0",
+      "en": "There are multiple dynamic layers of the area you are in.\\nIf you would like to transfer to the same layer as another player, join a fellowship and you will be able to transfer to the same layer as the fellowship leader by clicking on this alert.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9289610",
+      "en": "There are multiple dynamic layers of the area you are in.\\nOther players in your fellowship can transfer to the same layer as you by clicking on this alert.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9bcf94",
+      "en": "Another player is interested in grouping for [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ee8675",
+      "en": "You have [placeholder] rename {credit[1]|credits} available to you.  Click here to rename one of your characters.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84c567e",
+      "en": "One of your items is broken!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd5d7a0",
+      "en": "You may join a private encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54bdd90",
+      "en": "You Have Mail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42a85ee",
+      "en": "You need to choose a class specialization!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x506f633",
+      "en": "The Mounted Combat Trait Trees have been updated, so all your points and configurations have been reset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22aa970",
+      "en": "You need to pay upkeep on your kinship house",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ce2b94",
+      "en": "All incoming currency is being garnished by [placeholder]%, this includes loot, mail attachments and trades with other players.  This will continue until [placeholder] is collected.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc87d6b4",
+      "en": "The amount of experience needed to level has been reduced.  Upon your next gain of experience, your level will increase to match the updated level requirements.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8cc2de0",
+      "en": "There are multiple dynamic layers of the area you are in.\\nYou can transfer to the same layer as your fellowship leader by clicking on this alert.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa68c4b7",
+      "en": "Bronze medals have been forwarded to Silver medals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74ed17",
+      "en": "Your inventory is overfilled.  Items are being held in a hidden overflow area until you remove one or more items from your backpacks!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1409c0",
+      "en": "Free Gold Hobbit Present Available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3453f30",
+      "en": "You have more encounters available to you!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x825b204",
+      "en": "You have [placeholder] Race Change {credit[1]|credits} available to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x792ba50",
+      "en": "Free Silver Hobbit Present Available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc96ae43",
+      "en": "Your Class Trait Trees have been updated, so all your points and configurations have been reset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1123170",
+      "en": "You are queued for a private encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x587fd14",
+      "en": "Discovered Deed: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x518c2a5",
+      "en": "Your recent help request has been updated.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd64685e",
+      "en": "You have increased your reputation!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdda3e80",
+      "en": "Your house has been locked due to failure to pay upkeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ccf05c",
+      "en": "You've received a new Tell message. Please review your chat window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf210eb0",
+      "en": "Your kinship house has been locked due to failure to pay upkeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf359ff4",
+      "en": "You have reached the limit of daily tasks. You can reset or increase your daily limit from the Quest Log.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1777634",
+      "en": "Completed Deed: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed317c2",
+      "en": "One of your items is badly damaged!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe216f60",
+      "en": "One of your items has reached the next level",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa69b774",
+      "en": "Bronze medals have been cashed out for a reward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9cb70d4",
+      "en": "Your earning virtue has reached its current cap and can no longer gain virtue experience. Once all virtues have reached their current cap, you cannot gain more virtue experience until you gain more character levels.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7dfbd48",
+      "en": "You have hit the cap for [placeholder]! Click here to get a cap increase so you can earn more!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ae57b0",
+      "en": "You have acquired an item that starts a quest when used.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75ecf27",
+      "en": "Alerts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e8d537",
+      "en": "Silver medals have been forwarded to Gold medals",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5263",
+      "en": "You have some items pending from the LOTRO Store that failed to redeem. Click this alert to attempt to redeem them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb28f5d4",
+      "en": "Dismiss Alert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cc2b44",
+      "en": "Temporary access expiring soon",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

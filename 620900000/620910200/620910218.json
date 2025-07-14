@@ -1,0 +1,29 @@
+{
+  "id": 620910218,
+  "txt": [
+    {
+      "id": "0xa617264",
+      "en": "Your mount has its own vital display, with endurance and power bars that behave essentially the same way yours do.\\n\\nIf your mount's endurance reaches zero, you will be dismounted.\\n\\nIf your mount's power runs out, you will be unable to use any skills that rely upon it.\\n\\nWhile mounted all attacks that strike you will split their damage between you and your mount (usually at a ratio of 70%/30%), increasing your resilience to attacks. Be warned that some enemy attacks may damage your mount directly, ignoring you in an attempt to quickly dismount you.\\n\\nThe red bar at the bottom of the mount vitals is your mount's Fury display, which is a special resource for mounted combat.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0ff5",
+      "en": "UI: What are my mount vitals?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9200a74",
+      "en": "Thank you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0c783c",
+      "en": "Tutorial Instructions",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

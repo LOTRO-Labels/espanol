@@ -1,0 +1,839 @@
+{
+  "id": 621040188,
+  "txt": [
+    {
+      "id": "0xf26b195",
+      "en": "'Leave the hammer, Orc. This is Hrímil's command.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b6",
+      "en": "'An intruder!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b196",
+      "en": "'What is so special about this weapon, anyway?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b197",
+      "en": "'Hey! Who are you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b198",
+      "en": "'We don't take orders from Gorgar or from filthy goblins.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b199",
+      "en": "'Now you get out of here or we'll smash you into paste.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x827100",
+      "en": "'Now let's get out of here before Gorgar comes back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x827101",
+      "en": "'Glúrkub not mean to offend...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c0",
+      "en": "'Do you think dwarf prince really let Glúrkub go after this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x827102",
+      "en": "'...but he hope he never see you or dwarf-prince ever again!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c1",
+      "en": "'You think he can be trusted?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x827103",
+      "en": "'Good-bye, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c2",
+      "en": "'That very different from Orc-kind.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c3",
+      "en": "'He not seem that different to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c4",
+      "en": "'Glúrkub want nothing to do with war: neither for Orc nor dwarf.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c5",
+      "en": "'But here he is anyway.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c6",
+      "en": "'I guess we'll see after this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c7",
+      "en": "'That's what I afraid of.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c8",
+      "en": "'Dwarf not really different from Orc, if you look close.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271c9",
+      "en": "'Glúrkub want nothing to do with war: neither for Orc nor dwarf.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d0",
+      "en": "'But here he is anyway.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63a2f31",
+      "en": "'For now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d1",
+      "en": "'I guess we'll see after this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63a2f32",
+      "en": "'I need it not. My strength is my own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d2",
+      "en": "'So here the plan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63a2f33",
+      "en": "'My guards will ensure you dare not touch it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d3",
+      "en": "'After Gorgar goes to see Dragon, Glúrkub will go talk to guards.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d4",
+      "en": "'If anything go wrong, Glúrkub will shout the password.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Talk to Glúrkub in the Welkin-lofts",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d5",
+      "en": "'Then you run out of hiding spot and save Glúrkub!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Glúrkub in the hiding spot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d6",
+      "en": "'What should be password?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Glúrkub is in the hiding spot in the Welkin-lofts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Listen to Glúrkub explain the plan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d7",
+      "en": "'Hmmm...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Glúrkub is in the hiding spot in the Welkin-lofts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d8",
+      "en": "'Caves Deep and Dark? That easy, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271d9",
+      "en": "'Glúrkub spend much time in caves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Glúrkub has gone to execute his part of the plan: stealing the mithril hammer from the guards Gorgar left behind. You should remain in the hiding spot and not emerge unless Glúrkub gets into trouble and shouts the password.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Glúrkub has gone to execute his part of the plan: stealing the mithril hammer from the guards Gorgar left behind. You should remain in the hiding spot and not emerge unless Glúrkub gets into trouble and shouts the password.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Glúrkub has seized the mithril hammer and raced back to the hiding spot, where he waits to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "You and Glúrkub successfully carried out the plan to steal the mithril hammer and should now return to Prince Durin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e0",
+      "en": "'Sssh! Here come Gorgar!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e1",
+      "en": "'Chill North Wind? If you say so, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e2",
+      "en": "'Glúrkub not like breezes. Too cold.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e3",
+      "en": "'Strong Fortress Walls? I guess so, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e4",
+      "en": "'No fortress strong enough to keep out goblins, if you ask Glúrkub!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'I not know what to say, [placeholder]. I did not think dwarf-prince would honour agreement. Glúrkub happy to be wrong!\\n\\n'Lead the way, friend [placeholder]. Sooner Glúrkub far from here, the better!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e5",
+      "en": "'The Red Axe Drinks Deep? Bah. Bad password, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e6",
+      "en": "'Glúrkub not like axes or dwarves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Glúrkub has delivered the mithril hammer to Prince Durin, as he promised. The goblin now waits to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e7",
+      "en": "'Too late! It'll have to do... here come Gorgar!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'Thank you for bringing me this far, [placeholder]. I will go rest of the way from here.\\n\\n'Glúrkub look forward to life far from Gorgar, Hrímil, and Gundabad!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have come with Glúrkub to the Welkin-lofts to steal the mithril hammer wielded by Gorgar the Ruthless, and perhaps earn the goblin captive his freedom.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e8",
+      "en": "'I've got orders from Gorgar, you worm!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Prince Durin has commanded that Glúrkub be given safe passage away from Gundabad, and asked you to escort the goblin from Elderslade.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'I will not lie to you, [placeholder]: I am glad to see him go. Glúrkub was of some help to the Gabil'akkâ, but it could very easily have gone otherwise.'\\n\\nYou ask Glóin if he feels eyes upon the two of you, and he shakes his head.\\n\\n'I cannot say I do, my friend, but that means little. As the years pass I find more and more things similarly passing my notice! It would not surprise me to learn that Dwarves of the Gabil'akkâ watch us from afar, pondering our escort of Glúrkub to safety.'\\n\\nYou give Glóin a nod but keep your silence; the watchful presence has already departed, and you do not wish to worry the old dwarf unnecessarily.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271e9",
+      "en": "'He wants you in Durshulot, on the double!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "You have safely escorted Glúrkub past the dwarf-lines and out of Gundabad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Glúrkub stands among the trees not far from the hiding place you scouted.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Prince Durin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Talk to Glúrkub",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Escort Glúrkub from Gundabad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f0",
+      "en": "'Want to ask him when he comes back?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'We almost there, [placeholder]. You will see how helpful Glúrkub can be, and then your prince will let him go.\\n\\n'How funny: Glúrkub must steal a thing to earn his freedom!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Glúrkub outside Gundabad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f1",
+      "en": "'Maybe I tell him you refused his command?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f2",
+      "en": "'You too, hobgoblins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'This where we wait. Gorgar will be along soon, and after he leaves the shiny hammer behind, that is when Glúrkub earns his keep, and won't be kept any longer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f3",
+      "en": "'Uh...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f4",
+      "en": "'There's a cool breeze in the mountains?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f5",
+      "en": "'It is dark in the caves around here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'Now is my turn, [placeholder].\\n\\n'Remember! Do not leave hiding spot until you hear me say password!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f6",
+      "en": "'The castle has sturdy walls?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f7",
+      "en": "'There's a really dangerous axe!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f8",
+      "en": "'Password, [placeholder]! Password!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8271f9",
+      "en": "'Now for reason we come here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'I am sorry about that, [placeholder]... I forgot the password!\\n\\n'But all is well now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Answer Glúrkub's question: can the goblin trust Prince Durin?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'You have done well, [placeholder]... you and the goblin both.'\\n\\nDurin studies the clean, angular lines worked in the mithril of the hammer, marvelling at the ease with which he hefts the weapon.\\n\\n'Remarkable, my friend, truly remarkable. Gorgar will not be pleased to lose this! Let him howl his anger to the skies, while he can, for with this he will be undone, and every dwarf that suffered at his hands will be avenged!'\\n\\nDurin looks up from his study of the mithril hammer and considers the goblin standing before him.\\n\\n'Now to the matter of the goblin. Your kind are enemies of me and mine, Glúrkub, and you served our hated foe; you would have seen us all slain, if you could.\\n\\n'But you did not, and through your efforts you have aided the cause of the Gabil'akkâ. So too have you performed a great service to me personally, for the delivery of this mithril hammer has lifted my spirit and given to me a weapon unrivalled. For your service on my behalf I will grant you what you have said you sought: safe passage through the lines of war, and the freedom to establish your own dwelling far from Gorgar and his people, somewhere beyond the lands of my folk.\\n\\n'[placeholder] will see you brought through the lines, and where you go afterward is up to you. These are my thanks, and they are all you will receive, for I am unaccustomed to speaking words such as these to goblins.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Listen to Glúrkub",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Answer Glúrkub's question: what password should he use to call you from hiding if he gets into trouble?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Glúrkub has delivered the mithril hammer to Prince Durin, as he promised to do. How will the prince now respond?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Listen to Glúrkub and wait for Gorgar to climb to the peak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Glúrkub",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Watch Glúrkub carry out the plan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Watch Glúrkub carry out the plan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Glúrkub",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Return to Prince Durin with Glúrkub and the mithril hammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x207e2d1",
+      "en": "Just as you did in Câr Bronach, you feel a watchful presence observing you from afar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x207e2d2",
+      "en": "As before, the watchful presence departs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: A Theft of Freedom",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Glúrkub stands in the hiding spot near the path to the mountain's summit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Glúrkub stands in the hiding spot in the Welkin-lofts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Glúrkub has asked you if he can trust Prince Durin, and if you think the prince will let him go.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Glúrkub is in the hiding spot in the Welkin-lofts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Glúrkub has asked you what password he should use to call you forth from hiding if he gets into trouble.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c39ab1",
+      "en": "'Magnificent.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed77",
+      "en": "Wait for Glúrkub to retrieve the mithril hammer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed78",
+      "en": "Watch Glúrkub's departure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "You were seen too early, and the plan has failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4130e61",
+      "en": "'You will speak to the son of Bolg with respect, Hobgoblin!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4130e62",
+      "en": "'Glúrkub? What are... what are you doing here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4130e63",
+      "en": "'But he... he just left to see the Dragon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4130e64",
+      "en": "'He didn't say anything about new orders!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4130e65",
+      "en": "'No! No!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4130e66",
+      "en": "'Let's go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed85",
+      "en": "Follow Glúrkub to the hiding spot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082711",
+      "en": "'This way, this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082712",
+      "en": "'Here it is: the hidey spot!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot too early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082713",
+      "en": "'Okay, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot until Glúrkub shouts the password!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082714",
+      "en": "'Glúrkub needs to go over the plan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50256",
+      "en": "<rgb=#FF0000>Do not leave the hiding spot until Glúrkub shouts the password!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082715",
+      "en": "'It simple, really.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b0",
+      "en": "'What? What are you talking about?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082716",
+      "en": "'Gorgar come to meet with Dragon pretty soon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b1",
+      "en": "'What is wrong with this goblin?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082717",
+      "en": "'You stay here, and hide like timid mouse.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b191",
+      "en": "'Back again, Orc?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b2",
+      "en": "'Does it? Who cares?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082718",
+      "en": "'Glúrkub go and be big important hero!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b192",
+      "en": "'Who is Bolg or his son to us?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b3",
+      "en": "'Not to us, I wager.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8082719",
+      "en": "'Still some time to wait.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b193",
+      "en": "'We serve Hrímil, Mother of the Frost-horde.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b4",
+      "en": "'Who are you talking to? Someone else is here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf26b194",
+      "en": "'Ha! Ha ha ha!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26b19b5",
+      "en": "'He's not alone!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

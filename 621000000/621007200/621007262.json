@@ -1,0 +1,137 @@
+{
+  "id": 621007262,
+  "txt": [
+    {
+      "id": "0x6a502a6",
+      "en": "Talk to Galathril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Talk to Orring",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "Galathril's eyes widen as you hand her the rare flower.\\n\\n'Incredible, [placeholder]! This may be the last Nauthlandir! Just a moment, I will create an elixir from the nectar.'\\n\\nShe deftly extracts a few drops of nectar from the flower into a small glass phial, throws in a handful of dried herbs from a pouch at her hip, and swirls the mixture around. She stops the phial with a cork and hands it to you.\\n\\n'This will cure your friend's madness. Have him drink it.'\\n\\nShe sighs gently. You see worry in her eyes.\\n\\n'I feel you are on a dangerous path, friend. Please be careful. I will do my best to grow more Nauthlandir, in the event they are needed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "The Nauthlandir flower can possibly be found somewhere in Fangorn Forest.\\n\\nYou should find the Nauthlandir flower.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "You gently dig up the Nauthlandir flower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "Galathril resides within Lothlórien.\\n\\nYou should talk to Galathril.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "You help the old dwarf drink the elixir. Almost immediately the life returns to his eyes. He blinks a few times, and looks at you, disoriented.\\n\\n'Where am I? What happened?'\\n\\nYou explain the situation and tell him you think this was caused by the Secret Stone.\\n\\n'You must be right! That cursed stone! It draws the eye, and then steals your mind! I succumbed in a moment of weakness.... But that must have been years ago.'\\n\\nYou tell him that King Thorin III has bid you find it and deliver it to him.\\n\\n'Thorin III? He is the son of Dáin Ironfoot? Oh my, it HAS been years. If the King wishes it, it will be so. I am Orring, one of the few to know of the existence of Abnubuzûr, the Secret Stone. I was one of its guards, before the madness took me. You will need to find the key, and the keyhole, but I know not where either are. The stone has surely been moved since my time, but perhaps Rúnvarth still holds the key? Alas, I do not know where to find him, either. I am sorry I could not be more help. Good luck on your quest, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Orring can be found in Thorin's Hall.\\n\\nYou should bring the medicine to Orring.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa24",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "You have found a mad dwarf in Thorin's Hall that may somehow be related to the Secret Stone.\\n\\nHe asked you to find something in Nud-melek, inside Moria.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "Inside Moria, you found an old sketch of a flower.\\n\\nYou should find someone who knows something about this flower.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fa11",
+      "en": "The Mad Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Find a clue in Nud-Melek",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d165",
+      "en": "King Thorin III has asked you to try to locate an ancient relic known as the Secret Stone. But what dangers did the poem warn about? Can you solve this mystery on your own?\\n\\n<rgb=#FF0000>This difficult treasure hunt will require community teamwork and resources outside of the game itself. Good luck! </rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "You have found a very old dwarf, sitting in the dark by himself. His eyes are glazed over, and he rambles to himself.\\n\\n'The Stone.... The Stone! Where did I?.... Who's there?!'\\n\\nYou manage to calm him down, but he is no less incoherent in his ramblings.\\n\\n'Nud-melek.... Find it in Nud-melek!'\\n\\nHe slumps down and becomes unresponsive.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Find someone who knows something about the flower sketch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'Hail, friend. How can I help you?'\\n\\nYou hand her the flower sketch you found in Moria.\\n\\n'I know this flower, [placeholder].  It is known as Nauthlandir, Thought-clearer. Long ago, I used its powers to heal sicknesses of the mind. But, I'm afraid this species has all but died off as the forests have darkened. You found this in Moria?'\\n\\nYou tell her of the mad dwarf you found whose ramblings led you to this sketch. Her expression turns serious.\\n\\n'I know the madness you speak of, [placeholder]. Before the dwarves were exiled from Moria, they came to us seeking aid. Several of them showed signs of this madness, but they were unable to cure it with their own medicines. It was as if a darkness had taken them and stolen their very minds. They would not speak of the cause, but it was clearly something fell, and powerful.\\n\\n'If you are able to find the Nauthlandir flower, I will be able to draft a medicine for your dwarf friend. But, I'm afraid I have not seen it for hundreds of years. Seek it in Fangorn Forest. It prefers to grow in the lee of large stones. If you do find it, please gently remove it, roots and all. I may be able to save the species. Good luck.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Find the Nauthlandir",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "id": 620960625,
+  "txt": [
+    {
+      "id": "0x2f00ed3",
+      "en": "Grind ingredients into pigment using the grinding stone in Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ed4",
+      "en": "Add the pigment you created to the bucket of water in Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ed5",
+      "en": "Bring the ink to Bingo at Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Find Foul-maw's Den, south-east of Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'That was a brisk, enjoyable walk, and I have already noticed a change in the scenery as we leave the Golden Wood behind us. The trees here are still lovely, but they are smaller and their beauty is of a different sort than those in Lothlórien proper. I should write down my impressions before I forget to do so!'\\n\\nBingo takes out his jar of ink, removes the stopper, and stares inside with dismay.\\n\\n'My inkpot has quite run dry, [placeholder]! There is only enough ink remaining for the very briefest of descriptions, and that simply will not do!\\n\\n'Do you remember the books you brought to me from Pennasseth? One of them spoke at great length about the art of the Elves. They must know a thing or two about the importance of ink in creative endeavours, and perhaps can lend us an inkpot's-worth? Ask some of the folk here at Haldirith and see if any of them have an artistic bent and can help us, [placeholder]!'\\n\\n<rgb=#00FF00>Bert Bartleby has arrived at the outpost of Haldirith, in Thinglad along the Great River.</rgb>\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Find the Old Burrows, south of Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'I am ready to continue our journey! I have spoken with a few of the Elves here, and they have told me about a small outpost to the south of Lothlórien. The outpost is called Haldirith, and the folk there can guide us as we move south along the banks of the Great River.\\n\\n'Are you ready to go, [placeholder]? I am very curious to see the scenery, and am hoping for a little more sunshine than the grim canopy of Mirkwood provided us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'It is a pleasure to meet you, [placeholder], and I sympathize with the plight of your friend Bingo. For the ink to run dry when the ideas still flow is truly a sad occurrence, one with which I am all too familiar!\\n\\n'I must confess that I do not have an inkpot for your friend, for this outpost is a place of watchfulness, not of creation, but I may still be able to help. You see, I know of a way to make a high-quality ink from ingredients found along the banks of the Anduin.\\n\\n'If you grind up a certain type of dark mud with special river-side reeds, you can obtain a thick pigment. Adding water to this pigment will produce a high-quality ink that should serve your friend well. If you do as I instruct, he will be writing again with little delay.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'The Elves here must know a thing or two about the importance of ink in creative endeavours, and perhaps can lend us an inkpot's-worth? Ask some of the folk here at Haldirith and see if any of them have an artistic bent and can help us, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'I do not have an inkpot for your friend, for this outpost is a place of watchfulness, not of creation, but I may still be able to help. You see, I know of a way to make a high-quality ink from ingredients found along the banks of the Anduin.\\n\\n'If you grind up a certain type of dark mud with special river-side reeds, you can obtain a thick pigment. Adding water to this pigment will produce a high-quality ink that should serve your friend well. If you do as I instruct, he will be writing again with little delay.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'My belly is delightfully full, and I am ready to continue our journey! I have spoken with a few of the Elves here, and they have told me about a small outpost to the south of Lothlórien. The outpost is called Haldirith, and the folk there can guide us as we move south along the banks of the Great River.\\n\\n'Are you ready to go, [placeholder]? I am very curious to see the scenery, and am hoping for a little more sunshine than the grim canopy of Mirkwood provided us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "Talk to Bingo in Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'It would have been more convenient to borrow an inkpot, but this will work just as well. And perhaps it will be fun, too!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Bingo now has a full belly and is excited to continue his journey into the lands south of Lothlórien, along the banks of the Great River.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Bingo at Haldirith, in Thinglad along the Great River",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Find an Elf at Haldirith willing to help you with Bingo's ink shortage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Collect river-side reeds north-east of Haldirith ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Collect dark mud north-east of Haldirith ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Talk to Maervadhor at Haldirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "'To the south you can find the Old Burrows, which were once the home to peaceful creatures of nature. They have recently been claimed by ferocious Wargs, so if Bingo wishes to see them he would be wise to do so with caution!\\n\\n'To the south-east you will find Foul-maw's Den, where lives a mighty bear grey of coat but black-hearted. You would be wise to stay away from Foul-maw, but he is of tremendous size and an encounter with him might make for a thrilling chapter in Bingo's book.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56845",
+      "en": "'This place smells awful, [placeholder]! I will certainly have my work cut out for me when coming up with synonyms for 'foul-smelling!'\\n\\n'I will meet you back at Haldirith!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56846",
+      "en": "'What a thrill, [placeholder]! I have never been this close to a Warg before. It would be difficult to be any closer than this, without being in the very belly of the creature!\\n\\n'I will meet you back at Haldirith!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a0",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Bingo has decided to travel along the banks of the Great River, south of Lothlórien, and wants to meet you at the Elf outpost of Haldirith, in Thinglad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'This place smells awful, [placeholder]! I will certainly have my work cut out for me when coming up with synonyms for 'foul-smelling!''",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "Bingo has asked you to speak to the Elves at Haldirith, in Thinglad along the Great River, about the possibility of borrowing an inkpot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'What a thrill, [placeholder]! I have never been this close to a Warg before. It would be difficult to be any closer than this, without being in the very belly of the creature!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a6",
+      "en": "'Something occurred to me while we were exploring the Old Burrows and Foul-maw's Den, [placeholder]. There is an outpost of Rohan not far from here, but Maervadhor did not suggest that we pay a visit to the folk there. They are neighbours, but I wonder if there is some bad blood between them?\\n\\n'It would have been rude to ask him, so I do not regret failing to investigate further. But I think I would like to pay a call on these neighbours when we set forth again. It would be nice to get a full picture of the situation here along the Great River for my book!'\\n\\n<rgb=#FF0000>Next week: 'Unusual Friends' (Recommended Level: 72)</rgb>\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "River-side reeds and dark mud can be found to the north-east of Haldirith, along the banks of the Great River.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1163",
+      "en": "The Old Burrows have been overrun with Wargs. Bingo writes feverishly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Maervadhor has told you to collect a number of ingredients which you can use to make a high-quality ink. The next step involves grinding them into pigment at a stone in Haldirith.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1164",
+      "en": "Foul-maw's Den reeks of bear and decaying meat. Bingo writes feverishly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'You found the ingredients? I am pleased to see that did not take too much time. Grind the reeds and the mud into a paste to form a dark pigment.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'How goes the ink-making, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Maervadhor explained the ink-making process to you, and the next step is to add the pigment you created to the nearby bucket of water.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'I will get to work writing once again. Could you ask Maervadhor if there are any points of interest nearby that would suit my book? Be sure to tell him that I am writing an account that should be both exciting and true, [placeholder], so I hope any place he suggests will be ripe for adventure!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'Now that you have made a dark pigment, you should add it to the bucket of water to form the ink Bingo has requested. You are nearly there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'Is the ink nearly ready?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "Bingo is at the Elf-outpost of Haldirith, in Thinglad on the banks of the Great River.\\n\\nYou have replenished Bingo's supply of ink, and should learn what the hobbit wishes to do next.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "Collected river-side reeds ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'What high-quality ink! I cannot believe you were able to make such a fine ink so quickly, and with such common ingredients! This must be the ingenuity of the Elves, truly!\\n\\n'I will get to work writing once again. Could you ask Maervadhor if there are any points of interest nearby that would suit my book? Be sure to tell him that I am writing an account that should be both exciting and true, [placeholder], so I hope any place he suggests will be ripe for adventure!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b7",
+      "en": "'Yes, that does seem to have turned out quite well. You have a talent for the production of ink, my friend!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1172",
+      "en": "Collected dark mud ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "Maervadhor is at the Elf-outpost of Haldirith, in Thinglad, along the banks of the Great River.\\n\\nBingo has asked for Maervadhor's recommendation of exciting places to visit along the Great River.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "'Bingo wants to know of interesting places to explore along the Great River? Well, there are a few locations he might find exciting, but I cannot guarantee his safety. I suppose if he has come this far from his home, he must be a formidable adventurer... or be in the company of one, [placeholder]!\\n\\n'To the south you can find the Old Burrows, which were once the home to peaceful creatures of nature. They have recently been claimed by ferocious Wargs, so if Bingo wishes to see them he would be wise to do so with caution!\\n\\n'To the south-east you will find Foul-maw's Den, where lives a mighty bear grey of coat but black-hearted. You would be wise to stay away from Foul-maw, but he is of tremendous size and an encounter with him might make for a thrilling chapter in Bingo's book.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "You grind the ingredients into a dark pigment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "You add the pigment to the water, forming a thick ink",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "Maervadhor recommended that Bingo explore the Old Burrows, to the south of Haldirith, and Foul-maw's Den, to the south-east of Haldirith, if he seeks adventures worth writing.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "Bingo is at the Elf outpost of Haldirith, in Thinglad along the banks of the Great River.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "The Banks of the Great River",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

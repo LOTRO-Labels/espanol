@@ -1,0 +1,635 @@
+{
+  "id": 620808204,
+  "txt": [
+    {
+      "id": "0xff44b83",
+      "en": "'I leave you now, hopeless and broken.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff44b84",
+      "en": "'Let us go, Mordrambor. Angmar awaits my return.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33373f1",
+      "en": "'You have fought well, but it is time we end this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33373f2",
+      "en": "'Behold the power of Narchuil reborn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6723001",
+      "en": "'Work them harder! We must clear this doorway.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33373f3",
+      "en": "'Mordrambor? What madness is this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33373f4",
+      "en": "'Mordrambor, lord of Angmar? You seek above your station, fool!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3dc1de4",
+      "en": "A booming voice echoes, \\qMistress Amarthiel, the true lord of Angmar requests your presence.\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x185ce11",
+      "en": "'Stand aside? Fool! See the power of Narchuil reborn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33373f5",
+      "en": "'Narchuil is mine once more and none shall stand against me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xced4690",
+      "en": "'Now, Amarthiel, once Champion of Angmar, will you stand aside for Angmar's true lord?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33373f6",
+      "en": "'Speak plainly, Mordrambor, or I shall end your miserable life!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'I was a fool to be deceived so easily by Amarthiel, and it has led to this. There is hope, however, for she left me alive. Perhaps if she can be hindered from reforging Narchuil, Narmeleth may be reclaimed.\\n\\n'To enter into Tham Mírdain, you will need to defeat the Gorthorog who holds the keys to the forges. His name is Strok, and he is a mighty foe.\\n\\n'Hurry, [placeholder], there is little time to lose!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "Amarthiel pays you no mind, for her grief is all-consuming. Although she has suffered terribly at the hands of her former allies, she may yet pose a threat to the North. You must take her away as a prisoner of the Free Peoples and leave her to their mercy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e2c741",
+      "en": "'Thank you, my lord.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d111",
+      "en": "'You have sacrificed much to arrive here, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e2c742",
+      "en": "'I have long awaited this day, Mistress.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c91",
+      "en": "'Your choice comes as no surprise to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d112",
+      "en": "'Yet all of your efforts were for naught. You are too late.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e2c743",
+      "en": "'Allow me now to relieve thee of thy burden.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c92",
+      "en": "'Indeed the Witch-king foresees all things.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d113",
+      "en": "'Narchuil has been forged anew!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e2c744",
+      "en": "'Cease thy struggles!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c93",
+      "en": "'He knew regaining Narchuil would lead you into folly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d114",
+      "en": "'However, I do not wish to seem ungrateful.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e2c745",
+      "en": "'Narchuil is mine!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c94",
+      "en": "'Narchuil is powerful, true, but it holds no sway over me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d115",
+      "en": "'For you have proven a boon companion in all my labours.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c95",
+      "en": "'My power flows from the Lord of the Nazgûl himself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d116",
+      "en": "'So I will allow you to be the first to fall before Narchuil reborn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c96",
+      "en": "'Now behold your undoing!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d117",
+      "en": "'Come now. Claim your reward.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6293c97",
+      "en": "'Mordrambor, your prize awaits.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0f351",
+      "en": "'Mistress Amarthiel, the true lord of Angmar requests your presence.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0f352",
+      "en": "'Oh no, Mistress, thou dost not take my meaning!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0f353",
+      "en": "'I spoke not of myself, but of another. As I said, Angmar's true lord bids thee to come before him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0f354",
+      "en": "'Come then, Mistress. I will bring thee into my lord's presence and put an end to your questions.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda0f355",
+      "en": "'Let us first make certain this rabble dare not disturb us....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0ea035",
+      "en": "'Uuh...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf47d651",
+      "en": "'Thou shalt see for thyself. Look to the skies!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14ed324",
+      "en": "The Scout sniffs the air.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced461",
+      "en": "'Foolish Amarthiel, my spirit is bound to the Witch-king!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf47d652",
+      "en": "'Behold, the Master of Angmar!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced462",
+      "en": "'It would take more than an Elf-sword wielded by a worthless Ranger to defeat me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced463",
+      "en": "'Although formless, my spirit remained in my master's service. In his dark city I was re-clothed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced464",
+      "en": "'I knelt before him, seeking both forgiveness and permission to exact my revenge.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced465",
+      "en": "'He bid me wait, wishing to see how his realm fared under your command.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced466",
+      "en": "'He was not pleased.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced467",
+      "en": "'Seeing his growing displeasure, I entered into a pact with Mordrambor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced468",
+      "en": "'In return for his betrayal of you, I would permit him to take Narchuil for his own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdced469",
+      "en": "'He readily agreed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dac51",
+      "en": "'The Mistress foresaw that you would come.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dac52",
+      "en": "'She said you have proven most resourceful in the past.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67230f1",
+      "en": "'Have you still not found your missing slave?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0dac53",
+      "en": "'However, I fear that resourcefulness will not avail you this time....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67230f2",
+      "en": "'It'll be your back that gets the lash if you don't find him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb1",
+      "en": "'Stay your hand!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4381691",
+      "en": "'Good, more bodies for the pile.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb2",
+      "en": "'Your words have no power over me, Mordirith, for I know your true name.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Find Amarthiel somewhere within Tham Mírdain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4381692",
+      "en": "'Let's hope you have more fight in you than Saruman's trash!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb3",
+      "en": "'I remember when your armies routed Angmar on the fields of Fornost.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Defeat the doorwarden, Strok",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb4",
+      "en": "'I remember the brave king who foolishly rode forth to Minas Morgul and was lost.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Enter Tham Mírdain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb5",
+      "en": "'I remember when you were called Eärnur and were the Witch-king's most hated foe.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Find the ring-forges of Tham Mírdain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb6",
+      "en": "'You shall pay for what you have done to my daughter, beast!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Confront Amarthiel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8edddb7",
+      "en": "'Narmeleth... only... Dúnachar....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Follow Amarthiel and Mordrambor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e2ed41",
+      "en": "'Good, my servant, now finish your task.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2d8531",
+      "en": "'Father!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e2ed42",
+      "en": "'End her life!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e2ed43",
+      "en": "'Laerdan, I am surprised to see you here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e2ed44",
+      "en": "'Have you not failed your daughter enough already?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e2ed45",
+      "en": "'Silence! That name means nothing to me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e2ed46",
+      "en": "'Mordrambor! Take his voice!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "A gravely wounded Laerdan lies at the base of the bridge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Defeated Strok",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "Entered Tham Mírdain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "Discovered the ring-forges of Tham Mírdain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79b09b1",
+      "en": "'Hurry you wretch, we must know what relics lie within!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79b09b2",
+      "en": "'It's the lash for you if you don't hurry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d811",
+      "en": "'Now, Mordrambor, you see the power of Narchuil!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79b09b3",
+      "en": "'Put your back into it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c5d812",
+      "en": "'Come, tell me: who is this \\qMaster of Angmar\\q of whom you spoke?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79b09b4",
+      "en": "'You miserable wretch, work harder!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13855c1",
+      "en": "'Mordirith! How is this possible?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Doom of the North",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have arrived near the ruins of Tham Mírdain, the Ring-forges of Eregion, where Amarthiel intends to reforge Narchuil. You must find the means to put an end to her plan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d27763",
+      "en": "'Come Angmarim! Defend me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70da191",
+      "en": "'As you command.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70da192",
+      "en": "'With great pleasure, my lord.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70da193",
+      "en": "'Ha! It is thou who hast met thy end!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "Although gravely wounded, Laerdan still breathes shallowly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "You must find Amarthiel before she can reforge Narchuil.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "You have found Laerdan lying within the entrance to Tham Mírdain, gravely wounded. You should learn from him what happened.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Laerdan instructed you to find and defeat the Gorthorog Strok, who bears the keys to Tham Mírdain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "You should use the keys you recovered from Strok to gain entry into Tham Mírdain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "You must find the ring-forges of Tham Mírdain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff44b81",
+      "en": "'What a touching scene.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "You must confront Amarthiel at the ring-forges of Tham Mírdain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff44b82",
+      "en": "'I could not have devised a more perfect punishment for you, Amarthiel.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Amarthiel was interrupted by the arrival of the Black Númenórean Mordrambor. You should follow them to learn what new evil has arisen.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

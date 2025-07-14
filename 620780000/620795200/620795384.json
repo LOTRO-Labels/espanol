@@ -1,0 +1,107 @@
+{
+  "id": 620795384,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "You find a box of broken keys buried beneath the leafy bush",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You search beneath the bush but find nothing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have recovered the diary of Sara Oakheart, and it may contain the secret to Narchuil's location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Listen to this, [placeholder]:\\n\\n\\qL fears the worst. I will carry out his wishes by breaking the keys to Sithad -- the stones of Tâl Bruinen are heavy and will serve -- and hiding them.\\q\\n\\n'I do not know where Sithad may be, but it sounds as if Laerdan was keeping this \\qN,\\q Narchuil, within its walls, and at some point Sara broke the keys to this place and hid them. And look at this, further in:\\n\\n\\q...must stand at the stairs of Sithad, looking up towards the entrance. Turn to the left and walk forward to the wall, and then turn right and follow the curve until you see four pillars through two pillars. Walk between the two and look to the right of the four. I will leave the keys always in the shade.\\q\\n\\n'I wonder now if Sithad is not an antiquated name for a place we already know, [placeholder]? Language changes over time, and Laerdan has lived for many years; the name by which he knows one place may not be that which it is called by others. As I say the names aloud, it comes to me that Sithad bears something of a resemblance to Delossad, does it not?\\n\\n'I think we have deciphered the first part of the riddle, friend [placeholder]! Go to Delossad and use the journal to locate the hidden keys of which Sara has written. I am sure it is the place!' ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Delossad is located south-east of Echad Candelleth, in Tâl Bruinen.\\n\\nCandelleth is sure that she has solved the riddle posed by the diary of Sara Oakheart, believing that the place of which she writes, Sithad, is an earlier form of the name Delossad, the ruins south-east of Echad Candelleth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'I am greatly heartened by your success and by my reading of the clues! I am sure that Narchuil is within Delossad, [placeholder], and one of the keys within this box will open the way for us!\\n\\n'A jeweller of great repute lives in Imladris. Her name is Merilos, and she will be able to remake these keys for us. Be warned: she is stern and slow to befriend, and while she will certainly help us, she will likely ask for some service in return. She does not gift her work freely, for it is of great value and precious.\\n\\n'Look for Merilos in Imladris, at the Spire of Meeting. Bring her this box of broken keys and ask her to mend them. I wish you good fortune in this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Candelleth is at her camp in Tâl Bruinen.\\n\\nYou have recovered a box of broken keys from beneath a bush at the ruins of Delossad, known as Sithad in days now gone. You should bring the box to Candelleth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "The jeweller Merilos is at the Spire of Meeting in Rivendell.\\n\\nYou have found a box full of broken keys buried sometime in the past at Delossad by Sara Oakheart and should bring them now to the jeweller Merilos, at Candelleth's insistence, to be remade.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'I am certain I am right, [placeholder]. \\qSithad\\q must have been an earlier form of \\qDelossad,\\q the name by which we now know those ruins.\\n\\n'Go to Delossad and follow the instructions within Sara Oakheart's journal to find the location of the keys of which she has written!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'You found nothing? I was certain this was the place!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'You will find Merilos at the Spire of Meeting, in Imladris. Ask her to remake the broken keys, if she can, and she will do it. She may ask something in return, but that is her right as a jeweller of unequaled skill.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'I will be able to remake about half of these keys. The rest are completely beyond repair. Are you satisfied with this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'You do not have anything for me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Search for the keys mentioned in the diary of Sara Oakheart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Bring box of broken keys to Candelleth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Bring box of broken keys to Merilos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 11, Chapter 9: The Diary of Sara Oakheart",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

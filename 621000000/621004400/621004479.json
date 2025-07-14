@@ -1,0 +1,137 @@
+{
+  "id": 621004479,
+  "txt": [
+    {
+      "id": "0xeb01195",
+      "en": "Tancram is in the Hall of the King.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Tancram asked you to defeat your foes in Lhingris before meeting up with Fairdal, north of the cross-roads east of Cirith Ungol, in Rath Cail.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Now that you have faced many foes in Lhingris, you should find Fairdal north of the cross-roads east of Cirith Ungol, in Rath Cail, and hear his report.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'Forgive me, [placeholder], I am out of breath. I have been running, and I need a moment to catch my wind. You want my report? Here it is.\\n\\n'Something terrible crept up on me while I was leaning against one of the dead trees that inhabit this awful place. It put such fear into me that I was compelled to run until my breath gave out and I could run no further. Even now I can see the spectre of the hideous sight that surprised me so.\\n\\n'What was it, you ask? It was spiders, [placeholder], a whole pile of the things. Can I leave Lhingris yet?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'You want to hear my report?\\n\\n'I got caught in a web! I did not think I would ever get free! I can still feel its clutching tendrils... it was terrible! I thought the spiders of Lhingris were bad, and now I think they are worse! When you return to Gondor, tell them that I have done everything I can hope to do here, and it is time for me to come back. Will you do that? This web-business would be the last straw for me, if every spider I've seen hadn't already been!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'You want to hear my report? I'll tell you what it is!\\n\\n'Spiders. There are spiders here! What am I supposed to say?\\n\\n'When you return to Gondor, can you ask if I can return from Lhingris? I think I have seen everything I need to see!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'I will give you my report, but only if you tell the people back home that it is time for me to leave Lhingris. I am ready to return to Gondor!\\n\\n'Here is my report: there are spiders here. Spiders! More spiders than you've ever seen! Now go tell Tancram it is time for me to come back to the city!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'You want my report?\\n\\n'There weren't very many spiders! I could hardly believe it! It seemed as if my luck had finally changed, and the winds of light and hope had swept into Lhingris!\\n\\n'But then I turned around, and there were dozens and dozens of spiders, after all. When you return to Gondor, can you ask if I can leave Lhingris yet?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Talk to Tancram in the Hall of the King",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'You are here for my report? Well, here it is.\\n\\n'I finally saw something other than spiders! It was a dwarf, and he seemed to enjoy being around the terrible things! His name was Atli. Perhaps he can scout for Gondor, and I can return home? Just make the suggestion, [placeholder], that's all I ask. How long must I remain in this land of crawling spiders?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Fairdal north of the cross-roads east of Cirith Ungol, in Rath Cail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'You defeated many foes in Lhingris? Now find Fairdal north of the cross-roads east of Cirith Ungol, in Rath Cail. Make sure he still lives. Then hear his report and bring it back to me, and we can decide what should next be done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Scouts were sent throughout Gorgoroth so that Gondor will be well-informed on the situation in the Black Land, and they send back reports every few days. One of these scouts, Fairdal, is not as reliable at sending his reports, and we have had to send adventurers into Lhingris from time to time in order to check on him.\\n\\n'Defeat enemies in Lhingris, and after you have done that, find him north of the cross-roads east of Cirith Ungol, in Rath Cail. Make sure he still lives. Then hear his report and bring it back to me, and we can decide what should next be done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1190",
+      "en": "Defeated enemies in Lhingris ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'You have returned, and I trust that you have Fairdal's report?'\\n\\nYou relay the message given to you by Fairdal in great detail, leaving nothing out. When you are finished, Tancram nods.\\n\\n'Spiders, eh? That sounds about right. Well, we will give him a few more days of scouting before we call him back to Gondor, just to be sure that we know what is going on in Lhingris. Come back tomorrow for more work, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Defeat enemies in Lhingris ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d167",
+      "en": "Tancram asked you to check in on Fairdal, who was ordered to investigate Lhingris.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'Defeat enemies in Lhingris, and after you have done that, find Fairdal north of the cross-roads east of Cirith Ungol, in Rath Cail. Make sure he still lives. Then hear his report and bring it back to me, and we can decide what should next be done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Daily Request: News From Lhingris",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

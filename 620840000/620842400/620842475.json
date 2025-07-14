@@ -1,0 +1,743 @@
+{
+  "id": 620842475,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "You have weathered another attack by the spiders of the Scuttledells and should speak now to Achardor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6a3831",
+      "en": "'Good. Let us waste no time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "The way Cúcheron scouted is not safe, and now the Elf must be defended from the spiders that chase him. Ensure that Mazog is not slain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8d5841",
+      "en": "'My wounds are severe!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14982e1",
+      "en": "'Cúcheron went this way to scout if it be safe.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14982e2",
+      "en": "'Wait... what is that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Quick thought and quicker action, [placeholder]! I have come to expect both from you, and it is fortunate for my continued good health that this is so!\\n\\n'We cannot take Mazog that way. The spiders become increasingly dense in that direction, and I saw some great bulk moving behind the spiders. There is terrible menace that way.\\n\\n'Achardor and I will remain on guard here with Mazog; the spiders have woven great webs behind Issuriel as she passed to the north-east. Clear the way of webs and find Issuriel, and we will follow afterwards.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'For good or ill, we must walk this dangerous road, [placeholder]; our path lies through the Scuttledells.\\n\\n'The rest of our company have gone on ahead and will hold the way for you to bring the prisoner to each of them. Spiders and black dogs are everywhere, so remain alert!\\n\\n'You are familiar already with the support I can provide: I can make our foes bleed out their life-blood, or I can support you with power or morale. Let me know which you desire by shouting your commands for me by this banner.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'We may not have much time. Ensure that Mazog's shackles are secure and bring him ahead to where Achardor and Cúcheron await. The sooner we emerge from this web-infested warren, the better for all of us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'This is not how this was supposed to end, [placeholder]. Not only has our charge been poisoned by the venom of Saebereth, but so too has Issuriel. There may not be hope of survival for either of them.\\n\\n'We cannot proceed any further like this. We must go to the nearest outpost of the Malledhrim, to recover from this sad development.\\n\\n'If we can recover, [placeholder]. If we can.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I am so glad to see you, [placeholder]! I thought being here on a mission of such importance would give to me bravery enough... but here among the webs my courage fades, and I just wish to be home.\\n\\n'It was wisdom to come this way, for we needed secrecy, but here in the dark it is difficult for me to truly know it. I will rely upon you to provide me commands by using this Malledhrim banner. I will support you as I did in the Drownholt: with power, with morale, or with a bit of both. Together, my courage will be the greater against the spiders of this place.\\n\\n'We are not alone! They return!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Something is wrong. Can you feel it? This place is not safe!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "Issuriel has been grievously injured and is swooning just on the edge of consciousness. Her eye-lids flutter weakly, but she does not seem to recognize you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'You fought well, and the creatures have been repelled. Perhaps this road will not be as perilous as I feared after all.\\n\\n'Cúcheron and Issuriel went ahead, each in a different direction, to scout which way we should proceed.\\n\\n'They have not returned.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'I do not like this place, [placeholder]; better to have taken the straight road east to Dol Guldur than to stumble about in these spider-haunted woods! Already I have slain many of the creatures, and I heard Cúcheron's bow singing to the north-west after he went that way.\\n\\n'That argument is ended, though, and now that we are forced to walk this road, I will do my duty to the Lord and Lady of Lórien and to this Hidden Guard.\\n\\n'We will fight together! Make use of this Malledhrim banner to provide commands to me: either to support you entirely with offence or defensively, or with a pleasing blend of the two!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65f3a01",
+      "en": "'Your legs may be bound, but mine are not!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafb75a1",
+      "en": "Issuriel and Mazog have both been grievously injured, their fates uncertain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f53ff1",
+      "en": "'I will support your defensive abilities, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f53ff2",
+      "en": "'I will support you offensively, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f53ff3",
+      "en": "'I will support you offensively and defensively!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26d9ac1",
+      "en": "'A few spiders do not frighten me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26d9ac2",
+      "en": "'If you are frightened, [placeholder], you can turn around.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26d9ac3",
+      "en": "'If I was weak like you, [placeholder], I would not be caught dead out here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26d9ac4",
+      "en": "'Or maybe I would! Ha ha ha!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "Cúcheron has been saved, thanks to yours and Achardor's efforts, and Mazog remains a prisoner of the Hidden Guard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced11",
+      "en": "Issuriel is somewhere along Râd Iorist, to the north-east of Achardor and Cúcheron. The spiders of the Scuttledells have woven webs behind her, and they must be cut away if the Elves are to join her with the prisoner.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced12",
+      "en": "Issuriel's position within Râd Iorist has come under attack by the spiders of the Scuttledells. She must be defended.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced13",
+      "en": "Achardor has arrived at Issuriel's position along Râd Iorist, with Mazog in tow.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced14",
+      "en": "Issuriel has a bad feeling about something and wants to speak to you even as her nervousness grows.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced15",
+      "en": "Achardor needs your help to break free of the webs and to follow Issuriel and Mazog deep into the forest of the Scuttledells.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced16",
+      "en": "Issuriel has been grievously injured by the spiders of the Scuttledells and lies swooning beneath the light of the full moon. Mazog too has suffered an injury and seems to be in the same state.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced17",
+      "en": "The Hidden Guard fights for its survival against the spiders of the Scuttledells, even while one of its number and its charge succumb to the poison of the spiders' master.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced18",
+      "en": "The path of the Hidden Guard along Râd Iorist has ended in disaster: Issuriel and Mazog have both been poisoned, and now the very success of the mission is endangered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Sigileth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Defend Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Defend Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Sigileth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Secure Mazog's shackles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Quickly follow Mazog through the woods of the Scuttledells",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Achardor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Use the Malledhrim banner to issue support commands to Achardor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Defend Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfdb6a2",
+      "en": "'I cannot continue! My wounds are too great!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "'Cúcheron and Sigileth have remained behind, for the moment. They will ensure that no spiders can surprise us from the rear.\\n\\n'The rest of us will move forwards as a group. This way is full of danger, and now we are too far in to turn back! We must continue forwards!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852591",
+      "en": "'Let us go, [placeholder]. We will limp now in defeat to Ost Galadh, where the Golden Host have established an outpost. I cannot believe we have come to this disastrous end!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852592",
+      "en": "'You have done it, [placeholder]! We are free of the webs and can now follow Issuriel and Mazog before they come to harm!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852593",
+      "en": "You pull sticky, clinging webs from the loops of Mazog's shackles, and the Orc stares at you impassively.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93eafb1",
+      "en": "'[placeholder], over here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a18bf1",
+      "en": "'This way! We will make our stand in this hidden place!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Mazog has fallen! The errand of the Hidden Guard has ended in failure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a18bf2",
+      "en": "'Give me your courage, [placeholder]! Together, we will stand and fight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Mazog has fallen! The errand of the Hidden Guard has ended in failure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a18bf3",
+      "en": "'At last, their attacks cease!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "Mazog has fallen! The errand of the Hidden Guard has ended in failure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "Mazog has fallen! The errand of the Hidden Guard has ended in failure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "Issuriel has fallen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "Achardor has fallen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "Achardor has fallen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x341d1c1",
+      "en": "'We are under attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x341d1c2",
+      "en": "'I cannot move! The webs are too strong!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x341d1c3",
+      "en": "'Do you think you can get free, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x341d1c4",
+      "en": "'Keep trying to break free!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x341d1c5",
+      "en": "'You did it, [placeholder]! Quickly, help me get free!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfb531",
+      "en": "The words of Galadriel before her Mirror surface in your memory.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfb532",
+      "en": "'I see great webs strung beneath the trees.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64c4081",
+      "en": "'Cúmaeth is ready also!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfbb31",
+      "en": "'Chattering, evil shapes approach. Your bow longs to sing...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4761b1",
+      "en": "'This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4761b2",
+      "en": "'Issuriel! Issuriel!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf015e11",
+      "en": "'We have made it. Issuriel, are you hurt?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Mazog in the Web",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb45911",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbd5091",
+      "en": "Saebereth, Queen of the Saewethil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2466b21",
+      "en": "'You are not alone! We will stand with you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2466b22",
+      "en": "'Lanchigil and Egnassigil long for battle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1704de1",
+      "en": "'I do not know if we can face this foe, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1704de2",
+      "en": "'But we will die honourably, as members of the Hidden Guard!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1704de3",
+      "en": "'Sigileth! Cúcheron!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1704de4",
+      "en": "'The creature is dead... but what victory is this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe05d211",
+      "en": "'Oh no!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe05d212",
+      "en": "'Mazog is escaping!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe05d213",
+      "en": "'[placeholder], my legs have not been bound by the webs! I will get Mazog back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe05d214",
+      "en": "'I am not afraid anymore!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The Hidden Guard has begun the dangerous journey through the Scuttledells along Râd Iorist.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c40",
+      "en": "Talk to Achardor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c41",
+      "en": "Wait for Issuriel to decide what to do",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c42",
+      "en": "Talk to Issuriel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bae1c1",
+      "en": "'I am fine.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c43",
+      "en": "Help Achardor break free of the binding webs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c44",
+      "en": "Defend Achardor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c45",
+      "en": "Check on the wounded Issuriel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda25ab1",
+      "en": "'Those are no spiders. More foes approach, and at great speed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c46",
+      "en": "Defend Achardor and the Hidden Guard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda25ab2",
+      "en": "'We have earned a brief respite.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c47",
+      "en": "Defend Achardor and the Hidden Guard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c48",
+      "en": "Talk to Sigileth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfb631",
+      "en": "'A friend in peril, her life's blood mingling with venom and remorse.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Defend Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Talk to Achardor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Defend Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Defend Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Talk to Cúcheron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Talk to Issuriel beyond the webs to the north-east",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94283b1",
+      "en": "'Get ready, [placeholder]! Here they come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c56",
+      "en": "Wait for Achardor to arrive with Mazog",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94283b2",
+      "en": "'The onslaught ceases! This may be our chance, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c57",
+      "en": "Defend Issuriel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60524d1",
+      "en": "'Not this way! Not this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c58",
+      "en": "Defend Issuriel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfbc31",
+      "en": "'There are too many, Hunter, even should all your arrows find their marks.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60524d2",
+      "en": "'Now I will stand and fight!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c59",
+      "en": "Follow Achardor, Issuriel, and Mazog deeper into the Scuttledells ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2a3431",
+      "en": "'I need to rest!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9a11bb1",
+      "en": "'That was much too close, friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Issuriel went to scout the other path, to the north-east. I hope she did not encounter as much danger as did I, for both her sake and ours! You will need to break the webs along the way, for spiders have woven them behind her, and we will need a clear path if we are to bring Mazog that way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Issuriel and Cúcheron went ahead to scout which way we can bring the prisoner. You see the result of Cúcheron's errand; we must hope that Issuriel fared better on hers.\\n\\n'Travel to the north-east, breaking the webs along the way, until you reach Issuriel. We will need the way to be clear if we are to bring Mazog there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Sigileth is waiting to speak with you along Râd Iorist, in the Scuttledells.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Sigileth's position within Râd Iorist is under attack by the spiders of the Scuttledells. You must defend Sigileth and Mazog.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "You have weathered a first attack by the spiders along Râd Iorist and should speak now to Sigileth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The time has come to bring Mazog further along Râd Iorist, though the woods be haunted by spiders.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Achardor is holding vigil along Râd Iorist, the dangerous road to Dol Guldur that has been chosen by the Hidden Guard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Achardor is waiting for you to provide a support command for him by using his Malledhrim banner.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Achardor's position along Râd Iorist has come under attack by the spiders of the Scuttledells. You must defend Mazog from their attack!",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

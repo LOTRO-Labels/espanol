@@ -1,0 +1,485 @@
+{
+  "id": 620925362,
+  "txt": [
+    {
+      "id": "0x2f00ed1",
+      "en": "Read the proclamation aloud at the entrance courtyard in the north-west of the city",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd730860",
+      "en": "You have failed to cow the growling dissenter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e68",
+      "en": "You dropped Ethryth's belongings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e22",
+      "en": "Read the proclamation aloud at the stairs north-west of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'You agreed to help an old woman carry her belongings to the Dunharrow waggon? You should do that at once!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Convince Colinan to obey the word of Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50244",
+      "en": "Convince Herith to obey the word of Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'I heard you read the words of Théoden King, and I know everyone who is not going to fight needs to leave Edoras. But those men over there were laughing, and I heard them insult the name of the King!\\n\\n'You are not going to let them escape justice, are you? Everyone has to obey the word of Théoden King!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Éowyn has given you a proclamation to read at the market north of Meduseld, to prepare the people of Edoras to leave the city.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1199",
+      "en": "Anwynd grumbles, but reluctantly agrees to leave Edoras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'How did the people react to the proclamation? Return to the entrance courtyard in the north-west of the city and see.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'There are many things to do before the people of Edoras can leave for Dunharrow. My uncle's command must be brought to the townsfolk, waggons must be loaded with provisions, belongings gathered, and there are like to be some naysayers who refuse to follow the King's will.\\n\\n'Take this proclamation and read it before the people at several locations throughout the city. Start with the market north of the Meduseld steps, and then work down through the streets of Edoras. Word will spread quickly; it has already begun to do so! But the King's command must be brought to the people so the preparations for their departure can be made. Not everyone will be pleased with this, [placeholder]. Be kind, if you can, but keep your resolve strong. This must be done. Théoden King has commanded it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Convince Baduhild to obey the word of Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'What gives you the right to order us out of our homes? Maybe those are the commands of Théoden, and maybe they are not. Maybe they are the words of Gandalf! Maybe the Wizard is working against us, and just wants our treasures for himself! Do they not say that trouble follows him wherever he goes?\\n\\n'I will teach you a lesson, [placeholder]! I will teach you what happens when you do the bidding of Wizards!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'They were insulting the King! They cannot be allowed to do that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Éowyn has a great number of things to do before the people of Edoras can be evacuated to Dunharrow, and she needs your help to see them done.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Several of the people at the market north of Meduseld need to be convinced of the wisdom of Éowyn's plan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'Read the proclamation I gave you aloud before the people of Edoras. It contains Théoden King's command to leave the city. Not all of the townsfolk will be happy to hear it, but they will need to obey the word of their king.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Éowyn has given you a proclamation to read at the top of the stairs, north-west of Meduseld, to prepare the people of Edoras to leave the city.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Ethryth atop the stairs north-west of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'You read the proclamation aloud? Return and see if the people have consented to do as their king commands.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5024",
+      "en": "Read the proclamation at DIRECTIONS TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Pick up Ethryth's belongings",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "You read the proclamation aloud, and a small child seeks to catch your eye",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Ethryth is atop the steps north-west of Meduseld, and has sought to catch your eye.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Derláf at the entrance courtyard in the north-west of Edoras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'Do you have the time to spare an old woman, tidings-bearer? I have heard the commands of Théoden King, and would obey, but it has been many years since Ethryth felt the bloom of youth, and I do not have the strength I once did. My belongings are bundled in this crate, but I cannot carry it down the hill to the Dunharrow waggon without help. The waggon is to the north of here, if you follow the road.\\n\\n'Can you bring my possessions to the waggon north of here? Just follow the road. Ethryth will be in your debt.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50256",
+      "en": "Talk to a growling dissenter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1152",
+      "en": "You successfully cowed the growling dissenter!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1153",
+      "en": "This market is a good place to read the proclamation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Ethryth's belongings are at the top of the stairs north-west of Meduseld. The waggon to Dunharrow is near the outside walls to the north of Ethryth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1154",
+      "en": "By these stairs is a good place to read the proclamation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'I hope it is not too much trouble for you to carry my belongings to the Dunharrow waggon. It is north of here, along the road.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1155",
+      "en": "This entrance courtyard is a good place to read the proclamation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "'Read the proclamation I gave you aloud before the people of Edoras. It contains Théoden King's command to leave the city. Not all of the townsfolk will be happy to hear it, but they will need to obey the word of their king.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "You read the proclamation aloud, and several people nearby begin to mutter darkly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1157",
+      "en": "By these stairs is a good place to read the proclamation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aed661",
+      "en": "'I yield! I yield!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fccf1",
+      "en": "'Oh, you will pay dearly for speaking to me in this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b2",
+      "en": "You read the proclamation aloud, and an old woman seeks to catch your eye",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fccf2",
+      "en": "'Now you will pay dearly!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Convince Anwynd to obey the word of Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fccf3",
+      "en": "'No one talks to me like that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fccf4",
+      "en": "'Now you will suffer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56847",
+      "en": "'You read the proclamation aloud? Return and see if the people have consented to do as their king commands.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'Read the proclamation I gave you aloud before the people of Edoras. It contains Théoden King's command to leave the city. Not all of the townsfolk will be happy to hear it, but they will need to obey the word of their king.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'You read the proclamation aloud? Return and see if the people have consented to do as their king commands.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Growling dissenters insulted the King at the courtyard near the north-west entrance to Edoras.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e115",
+      "en": "You read the proclamation, and several people nearby begin to mutter darkly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a01",
+      "en": "Cow the growling dissenter with force",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01140",
+      "en": "Éowyn has given you a proclamation to read by the entrance courtyard in the north-west, to prepare the people of Edoras to leave the city.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1165",
+      "en": "After a brief discussion, Colinan agrees to leave Edoras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1166",
+      "en": "Herith listens to your words and eventually agrees to obey the King",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "'Read the proclamation I gave you aloud before the people of Edoras. It contains Théoden King's command to leave the city. Not all of the townsfolk will be happy to hear it, but they will need to obey the word of their king.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01143",
+      "en": "A small child, Derláf, has sought to get your attention.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'What gives you the right to order us out of our homes? Maybe those are the commands of Théoden, and maybe they are not. Maybe they are the words of Gandalf! Maybe the Wizard is working against us, and just wants our treasures for himself! Do they not say that trouble follows him wherever he goes?\\n\\n'I will teach you a lesson, little child! I will teach you what happens when you do the bidding of Wizards!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'Did you encounter trouble when you read the proclamation aloud before the people?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01148",
+      "en": "Éowyn has given you a proclamation to read at the two stairs south of the north-west entrance, to prepare the people of Edoras to leave the city.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'You have done as I asked? Good. It will be some time before all the people are ready to leave Edoras, but every journey must begin with preparation, especially one as important as this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01152",
+      "en": "Several of the people at the courtyard with two stairs need to be convinced of the wisdom of Éowyn's plan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1179",
+      "en": "You read the proclamation aloud, and several people nearby begin to grumble",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01158",
+      "en": "Éowyn is outside Meduseld, in Edoras.\\n\\nYou have helped prepare the people of Edoras prepare to leave their city, and should return to Éowyn with a report of your success.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ec0",
+      "en": "Read the proclamation aloud at the courtyard with two stairs, south of the north-west entrance to the city",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7308a7",
+      "en": "'You have nothing for me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e11",
+      "en": "Read the proclamation aloud at the market north of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "Baduhild reluctantly agrees to leave the city",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ec9",
+      "en": "Return the proclamation to Éowyn outside Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ad7",
+      "en": "Carry Ethryth's belongings to the Dunharrow waggon, north of her location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "You leave Ethryth's belongings on the waggon, as she asked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 11, Chapter 8: People of Edoras",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

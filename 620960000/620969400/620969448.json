@@ -1,0 +1,725 @@
+{
+  "id": 620969448,
+  "txt": [
+    {
+      "id": "0x9b56848",
+      "en": "'From Bâr Tarnaher the Rangers of Ithilien have launched many strikes upon the Orcs. Go with Legolas and Gimli to Bâr Tarnaher, north-west of here, and learn what the Rangers there know of the road ahead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "Retrieve Ranger supply caches east and north of Bâr Tarnaher ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01159",
+      "en": "Bâr Tarnaher is north-west of Henneth Annûn.\\n\\nThe Rangers of Bâr Tarnaher have launched many attacks upon the Orcs from that ruin, and may know of any dangers to the Host of the West on the road ahead.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50266",
+      "en": "Talk to Gimli at Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "Talk to Maegur at Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50268",
+      "en": "Talk to Unréth at Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "'The soldiers that came with us, Unréth of Rohan and Maegur of Gondor, well, they have become increasingly more and more troubled as the day wore on. I have given some thought to how I might ease their minds, but my skill is with axes, not with speech-craft!\\n\\n'Perhaps you can do something to ease their worries, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56853",
+      "en": "'I am no coward, [placeholder], but I have to ask if there is any wisdom in this march to Mordor! I would serve King Elessar in all things and do whatever he commands, but I fear that he does not know what it is he asks of us!\\n\\n'I thought his host was of a goodly size when we marched through Osgiliath, but now that we have crossed into the wild I see that it is smaller than I thought at first. It can be no match for the armies of Mordor!\\n\\n'I will die for Gondor, if I must for Gondor to survive, but I do not want to lay down my life needlessly! If this march is folly, as I deem it to be, how can it be the King's command? How will six thousand fallen soldiers at the Black Gate save Gondor? It cannot! It cannot!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'[placeholder], I am a man of Rohan and will do as Éomer King commands, but my resolve is tested with every step towards the Black Land of Mordor! Is it true that our commanders do not hope to achieve victory through battle? Why then must we throw our lives away?\\n\\n'I would do anything for the Mark, and gladly, but would it not be better to take these soldiers and man a strong defence at Minas Tirith? There are strongholds in Rohan at which we could last for years if need be! I fought at the Hornburg, and am well-tested by the battle that was fought there.\\n\\n'An unnatural dread seizes my heart, but there is more to this than fear! I cannot believe that Éomer King or King Elessar of Gondor would so easily throw their lives away, and ours with them. How can this be their choice, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56855",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'What did you learn at Bâr Tarnaher, my friend?'\\n\\nYou tell Aragorn that the Nazgûl fly high above the clouds and out of sight, but they are keeping pace with the host. You tell him too that their fearful presence, and the nature of the mission itself, is having an effect upon his soldiers, sapping them of their courage.\\n\\n'I have noticed this as well, [placeholder]. I cannot blame these men if their hearts quail at the thought of this painful mission. I will not willingly command them to throw their lives away for the merest of chances, though I know how important that chance may be.\\n\\n'Find soldiers here at Henneth Annûn and see if you can reassure them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56858",
+      "en": "'I think you should return to Aragorn and tell him about the worries of these men, [placeholder]. He must not be surprised if they abandon him when he needs them most, and he finds himself standing alone outside the Black Gate of Mordor.\\n\\n'Well, alone except for you, me, and Gimli. We will not run, of course.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50270",
+      "en": "Travel to Bâr Tarnaher, north-west of Henneth Annûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50272",
+      "en": "Talk to Legolas at Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50277",
+      "en": "Talk to Bregaras at Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56860",
+      "en": "'At Faramir's instruction, his Rangers placed hidden caches of supplies throughout Ithilien. It seems to me that we should retrieve these supplies, for the time of the Rangers is surely coming to an end. If King Elessar finds victory or defeat at the Black Gate, there will be little need for such caches in the woodlands.\\n\\n'Find the hidden supply caches east and north of Bâr Tarnaher and bring them back here, and we can distribute their contents among King Elessar's soldiers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01171",
+      "en": "Rangers of Ithilien hid supply caches east and north of Bâr Tarnaher.\\n\\nBregaras asked you to retrieve Ranger supply caches and bring them back to Bâr Tarnaher.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56869",
+      "en": "'The soldiers that came with us, Unréth of Rohan and Maegur of Gondor, well, they have become increasingly more and more troubled as the day wore on. I have given some thought to how I might ease their minds, but my skill is with axes, not with speech-craft!\\n\\n'Perhaps you can do something to ease their worries, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Inspire terror in Dagorlad foes <rgb=#00FF00>(Enemy Mood: Unaware)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Inspire terror in Dagorlad foes <rgb=#00FF00>(Enemy Mood: Apprehensive)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Inspire terror in Dagorlad foes <rgb=#00FF00>(Enemy Mood: Fearful)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Inspire terror in Dagorlad foes <rgb=#00FF00>(Enemy Mood: Frightened)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Talk to BAR TARNAHER RANGER TBD <rgb=#00FF00>(Enemy Mood: Terrified)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56873",
+      "en": "'From Bâr Tarnaher, the Rangers of Ithilien have launched many strikes upon the Orcs. Go with Legolas and Gimli to Bâr Tarnaher, north-west of here, and learn what the Rangers there know of the road ahead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56874",
+      "en": "'I thought I heard something high above us, [placeholder], and I felt a shadow pass across my heart. I know this feeling. It was on the banks of the Anduin that I felled one of the flying beasts. It must have proved only an inconvenience for its terrible rider, for I know their number and all were seen on the Pelennor.\\n\\n'The Nazgûl are flying above us, just out of sight. They watch the progress of Aragorn's host as it moves north toward Dagorlad. Gimli and I, and you, know of these creatures, but we know also that they can be fought. Not all of Aragorn's soldiers may believe this, and I fear that such feelings of dread as the Nazgûl inspire will grow in the breast of each man. Will their loyalty hold, or will the fear of Sauron's servants cause them to break ranks and flee as cowards?\\n\\n'My father does not think highly of Man, but I have seen your own courage and that of Aragorn, and it teaches me that perhaps he underestimates your people.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56875",
+      "en": "'I thought I heard something high above us, [placeholder], and I felt a shadow pass across my heart. I know this feeling. It was on the banks of the Anduin that I felled one of the flying beasts. It must have proved only an inconvenience for its terrible rider, for I know their number and all were seen on the Pelennor.\\n\\n'The Nazgûl are flying above us, out of even our sight. They watch the progress of Aragorn's host as it moves north toward Dagorlad. Gimli and I, and you, know of these creatures, but we know also that they can be fought. Not all of Aragorn's soldiers may believe this, and I fear that such feelings of dread as the Nazgûl inspire will grow in the breast of each man. Will their loyalty hold, or will the fear of Sauron's servants cause them to break ranks and flee as cowards?\\n\\n'My father does not think highly of Man, and neither do many of our kind. And yet, we have both seen the courage they can wield, have we not? Will it be enough?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859d7",
+      "en": "'Go to Bâr Tarnaher and learn what the Rangers know of the road ahead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56876",
+      "en": "'I thought I heard something high above us, [placeholder], and I felt a shadow pass across my heart. I know this feeling. It was on the banks of the Anduin that I felled one of the flying beasts. It must have proved only an inconvenience for its terrible rider, for I know their number and all were seen on the Pelennor.\\n\\n'The Nazgûl are flying above us, just out of sight. They watch the progress of Aragorn's host as it moves north toward Dagorlad. Gimli and I, and you, know of these creatures, but we know also that they can be fought. Not all of Aragorn's soldiers may believe this, and I fear that such feelings of dread as the Nazgûl inspire will grow in the breast of each man. Will their loyalty hold, or will the fear of Sauron's servants cause them to break ranks and flee as cowards?\\n\\n'My father does not think highly of Man, but I have seen your own courage, and it teaches me that perhaps he underestimates your people. Not all are descendents of Beorn, but perhaps they are still filled with courage and bravery even so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859d8",
+      "en": "'Go to Bâr Tarnaher and learn what the Rangers know of the road ahead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d859d9",
+      "en": "'The Nazgûl are flying above us, out of sight. I feel their presence.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1a7",
+      "en": "With the ambush of the Orcs and the Easterlings now foiled, Aragorn sets his sights upon the road ahead.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Do not let my assessment challenge your resolve, my friend. That the Enemy believes he has us at a disadvantage means that he prepares to seize the bait and fall into the trap we have set for him. We must not give him any sign that his real danger lies elsewhere, or we will endanger more than our own lives. All of Middle-earth will be at risk.\\n\\n'And so we continue. There is a tower to the north-west of Henneth Annûn, a ruin called Bâr Tarnaher. From there the Rangers of Ithilien have launched many strikes upon the Orcs. Go with Legolas and Gimli to Bâr Tarnaher and learn what the Rangers at that place know of the road ahead.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1130",
+      "en": "Maegur's courage fails, and he looks to you for reassurance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1131",
+      "en": "Unréth's courage fails, and he looks to you for reassurance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Talk to BAR TARNAHER RANGER at the ruins of Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Find and collect hidden caches throughout the ruins of Bâr Tarnaher ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Talk to BAR TARNAHER RANGER at the ruins of Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Aragorn at his camp on the Dagorlad border",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'I thought I heard something high above us, [placeholder], and I felt a shadow pass across my heart. I know this feeling. It was on the banks of the Anduin that I felled one of the flying beasts. It must have proved only an inconvenience for its terrible rider, for I know their number and all were seen on the Pelennor.\\n\\n'The Nazgûl are flying above us, just out of sight. They watch the progress of Aragorn's host as it moves north toward Dagorlad. Gimli and I, and you, know of these creatures, but we know also that they can be fought. Not all of Aragorn's soldiers may believe this, and I fear that such feelings of dread as the Nazgûl inspire will grow in the breast of each man. Will their loyalty hold, or will the fear of Sauron's servants cause them to break ranks and flee as cowards?\\n\\n'My father does not think highly of Man, but I have seen the courage they can wield. Will it be enough?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b0",
+      "en": "Legolas is at the ruin of Bâr Tarnaher, in North Ithilien.\\n\\nYou have come to the ruin of Bâr Tarnaher, but Legolas has found something amiss.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "'There's something up there, watching us even now? I don't like the sound of that.'\\n\\nBregaras shudders and scans the sky for some sign of the Nazgûl, but can see nothing. He sighs heavily and shakes his head.\\n\\n'At Faramir's instruction, his Rangers placed hidden caches of supplies throughout Ithilien. It seems to me that we should retrieve these supplies, for the time of the Rangers is surely coming to an end. If King Elessar finds victory or defeat at the Black Gate, there will be little need for such caches in the woodlands.\\n\\n'Find the hidden supply caches east and north of Bâr Tarnaher and bring them back here, and we can distribute their contents among King Elessar's soldiers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'I hope the Nazgûl do not cause us any further trouble as we move closer to Mordor, but I fear for the resolve of Aragorn's men.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "Bregaras is at Bâr Tarnaher, north-west of Henneth Annûn in North Ithilien.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1143",
+      "en": "Retrieved hidden Ranger supply cache ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ee4",
+      "en": "Deposit the collected supplies near Bregaras at Bâr Tarnaher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b6",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1145",
+      "en": "You become aware that Gimli has been trying to capture your attention",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a9",
+      "en": "'Leave the supplies you retrieved right there and we can redistribute them to King Elessar's soldiers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Bregaras asked you to leave the supplies you collected at Bâr Tarnaher.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01103",
+      "en": "Aragorn is at Henneth Annûn, in North Ithilien.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1151",
+      "en": "Legolas motions for you to halt, and his eyes search the sky",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e35",
+      "en": "Deposit the contents of the hidden caches at BAR TARNAHER RANGER's location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50212",
+      "en": "Talk to Aragorn at Henneth Annûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50214",
+      "en": "Talk to Aragorn at Henneth Annûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 7, Chapter 8: Resolve",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1159",
+      "en": "Bregaras motions to you, desiring to speak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50216",
+      "en": "Talk to Aragorn at his camp on the border of Dagorlad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859520",
+      "en": "'Find the hidden supply caches and bring them back here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3791910",
+      "en": "'I fear for my courage, but I will stand my ground!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859521",
+      "en": "'I fear for the resolve of Aragorn's men.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859522",
+      "en": "'Find the hidden supply caches and bring them back here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859523",
+      "en": "'Leave the supplies you retrieved right there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859524",
+      "en": "'The soldiers that came with us have become increasingly troubled.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859525",
+      "en": "'I will die for Gondor, if I must, but I do not want to die needlessly!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859526",
+      "en": "'If we do not seek victory, why then must we throw our lives away?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859527",
+      "en": "'Perhaps you can do something to ease their worries.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859528",
+      "en": "'What did you learn at Bâr Tarnaher, my friend?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859529",
+      "en": "'I think you should return to Aragorn and tell him about the worries of these men.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56815",
+      "en": "'Let us move forward along the road, north to the border of Dagorlad! We will establish a camp at the woods' edge, and make ready for the final leg of the march to Mordor.\\n\\n'I will speak with you at our camp on the border of Dagorlad, when we arrive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379191",
+      "en": "'I hope you are right...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379192",
+      "en": "'Your words reassure me. I thank you for them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379193",
+      "en": "'I wish I had your hope, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50246",
+      "en": "Reassure worried soldiers at Henneth Annûn ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379194",
+      "en": "'From where does your bravery spring?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379195",
+      "en": "'I do not know if I have your courage, but I will try.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379196",
+      "en": "'I will do my best to carry on.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01140",
+      "en": "Gimli is at Bâr Tarnaher, in North Ithilien.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379197",
+      "en": "'Are we marching to our deaths?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859550",
+      "en": "'I cannot blame these men for their fear.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379198",
+      "en": "'Is there no other way?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859551",
+      "en": "'I will speak with you at our camp on the Dagorlad border, when we arrive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01142",
+      "en": "Unréth and Maegur are at Bâr Tarnaher.\\n\\nGimli noticed that the soldiers that came with you to Bâr Tarnaher have become increasingly troubled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5379199",
+      "en": "'Must we march to the Black Land? Is there no other way?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1192",
+      "en": "You collect a number of supplies from the hidden cache",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01146",
+      "en": "Aragorn is at Henneth Annûn, in North Ithilien.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "You set down the contents of the hidden caches by BAR TARNAHER RANGER",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01149",
+      "en": "Soldiers of Aragorn's host can be found at Henneth Annûn.\\n\\nAragorn asked you to try and bolster the courage of his men.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "'I cannot blame these men if their hearts quail at the thought of this painful mission. I will not willingly command them to throw their lives away for the merest of chances, though I know how important that chance may be.\\n\\n'Find soldiers here at Henneth Annûn and see if you can reassure them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56842",
+      "en": "'Thank you for your efforts, [placeholder]. I have given some thought to the problem of what to do if more men prove faint of heart as we approach Mordor. It will soon be put to the test, I think.\\n\\n'Let us move forward along the road, north to the border of Dagorlad! We will establish a camp at the woods' edge, and make ready for the final leg of the march to Mordor.\\n\\n'I will speak with you at our camp on the border of Dagorlad, when we arrive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01151",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'We are close to the Black Land of Mordor now, my friend. May our courage not desert us, and may our friends have the chance they need, though it cost us our lives.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56845",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "Aragorn is at his camp on the border between Dagorlad and North Ithilien.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

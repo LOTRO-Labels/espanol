@@ -1,0 +1,95 @@
+{
+  "id": 621039109,
+  "txt": [
+    {
+      "id": "0x6a502a6",
+      "en": "Use the Call Radhril skill and talk to Radhril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'I see, the spiders have certainly infested these tunnels in the deepest sections of the old mines. Let us continue and be on the look-out for any spider nests. We should be able to cull their numbers by destroying the nests. We should also search for any of the brood-mothers lurking about. The webs are thick. Watch your step!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Defeat Writhenset brood-mothers ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Use the summoning horn at the beginning of the tunnel to summon Radhril to your side.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "You should talk to Radhril.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Destroy spider nests ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "Destroyed spider nests ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "You should defeat Writhenset brood-mothers and destroy spider nests.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "Defeated Writhenset brood-mothers ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have been tasked with defeating the spider menace within the mines of Writhenset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'I commend your efforts, [placeholder]! Come, let us return and report our success to the Free Peoples.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "You should return to the entrance of the spider tunnels.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Return to the spider tunnel entrance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Mission: Brooding in the Depths",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Pick up the summoning horn",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

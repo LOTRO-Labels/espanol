@@ -1,0 +1,911 @@
+{
+  "id": 620893420,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nCandaith is waiting for you on the shore of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nGolodir stands before you on the shore of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58bf1",
+      "en": "'I will not rest until he dies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b95fb1",
+      "en": "'Lothrandir resists. That is all he knows, and he will never submit to his captors.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58bf2",
+      "en": "'Mordirith!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b95fb2",
+      "en": "'I fear he does not know any better.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58bf3",
+      "en": "'No, that's not right...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58bf4",
+      "en": "'Lheu Brenin!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58bf5",
+      "en": "'You...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58bf6",
+      "en": "'...must...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c70",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'In your hands, the bow of Galadriel is deadly indeed, Legolas! The entire company is in your debt. Did you mark how the shadow's fall dismayed the Orcs on the far shore? I feel they will not attack us again tonight.\\n\\n'My guess is that our clever waterman set them on us. We have evaded his tricks thus far. May our fortune hold!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c71",
+      "en": "You are held in the grip of a dream. Listen to Boromir on the banks of Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "Boromir stands apart from the rest of the group, staring across the water to the far bank, but every now and then his eyes drift in the direction of the hobbits.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c72",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'I am fine, Sam. I felt a chill in my heart, and the pain in my shoulder reminded me of... well, it is gone now, nothing more than a passing memory. I think we will be fine for a while. The Orcs that attacked from the other shore were dismayed by the fall of... whatever that shadow may have been.\\n\\n'And yet, every paddle-stroke on the River brings us further south, and as it does my heart sinks southward still. Tonight the bow of Legolas saved us, but for how long will our fortune hold?\\n\\n'I am sorry, Sam. I do not want you to worry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c73",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f19801",
+      "en": "'You will never escape!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'It was a good shot, Legolas, I will give you that. But up close? Nothing can best an axe in the hand of one of Durin's Folk. If that winged shadow had come just a hair lower I would have proven it, and you would have saved an arrow!\\n\\n'Your gift has proved useful, I grant that, but when I can make use of the Lady Galadriel's gift to me you will see a thing of wonder and beauty!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c74",
+      "en": "You are held in the grip of a dream. Examine the enormous sword that rises from the swamp before you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Sneaking and creeping, precious! Floating and hiding, no splishing and splashing! Like the fishes, gollum! Gollum!'\\n\\nThe creature Gollum stares past you with its eyes like lamps, but even in the grip of the dream you feel a chill at the thought you might be seen.\\n\\n'Are you a nice fishy? Tasty? We need to keep up our strength, gollum, gollum. We can't take the precious if our handses are too weak to wrap and squeeze... we needs our strength.\\n\\n'Tasty fishy. Eat, and then we follows the precious, gollum! Gollum!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c75",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfab7531",
+      "en": "'How much hardship will our friends face before the end?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Our journey leads us from danger into greater danger! To have lost Gandalf, to be pursued by Orcs from behind and to paddle into them ahead... what awaits us further down the river?\\n\\n'And Gollum is still behind us. If he were not so cunning, perhaps I could catch him with an arrow, but it seems he has learned something about staying alive.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfab7532",
+      "en": "'So much has been lost already.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'How are you feeling, Pip? When that winged shadow came out from behind that cloud, I thought we were done for. I was wrong, though! Thank goodness for the quick wits and quicker bow-strings of Elves!\\n\\n'I don't want to think too much about that dark shape, at least, not tonight! Maybe the memory will be less frightening in the daylight tomorrow.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfab7533",
+      "en": "'He lost a daughter, and he almost lost himself.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'Gimli says that shape we saw in the sky was a Balrog. You don't think it was, do you, Merry? I didn't get a good look at it, but that's what Gimli said. A Balrog, he said. You don't think it was, do you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'What is it, Mister Frodo? You do not look well, and have not since we came back to the shore. That shape won't be coming back, I wager. Legolas saw to that with his arrows, he did, and a good thing it was, too!\\n\\n'You clutched your shoulder when it appeared, and looked to be in a great deal of pain. Are you sure you are feeling all right?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8e7c1",
+      "en": "'[placeholder]! Where are you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8e7c2",
+      "en": "'I cannot see you... [placeholder], where are you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8e7c3",
+      "en": "'Who is that? What is that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8e7c4",
+      "en": "'Something is coming!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8e7c5",
+      "en": "'[placeholder], where are you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d8e7c6",
+      "en": "'So... cold...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced00",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced01",
+      "en": "You are held in the grip of a dream.\\n\\nA giant sword rises from the misty swamp before you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced02",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd94a791",
+      "en": "'The darkness is all around you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd94a792",
+      "en": "'It flies with winged speed to endanger our secret purpose!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd94a793",
+      "en": "'[placeholder]! You must come to Lothlórien!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd94a794",
+      "en": "'Come to Lothlórien... and bring the Ghost.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nLothrandir stands before you on the shore of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced11",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nCalenglad stands before you on the shore of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced12",
+      "en": "Your mind is disturbed by troubling dreams.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced13",
+      "en": "You are held in the grip of a dream.\\n\\nCandaith stands before you once more, looking puzzled about something.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0e051",
+      "en": "'I will be fine, Sam. Whatever that creature was, it is gone now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced14",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc96b581",
+      "en": "'Death!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced15",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced16",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x809221",
+      "en": "'Die.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced17",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced18",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852580",
+      "en": "'You cannot hope to defeat me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced19",
+      "en": "You are held in the grip of a dream.\\n\\nFamiliar faces have emerged from the fog of sleep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a735c1",
+      "en": "'The only one who can save Lothrandir now... is Lothrandir.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "You are held in the grip of a dream. Search the camp for survivors",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a735c2",
+      "en": "'Calenglad?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "You are held in the grip of a dream. Stay on your guard!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "You are held in the grip of a dream. Search the camp for survivors",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "You are held in the grip of a dream. Walk with Candaith for as long as he remains",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "You are held in the grip of a dream. Talk to Candaith before he goes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "You are held in the grip of a dream. Follow Candaith to the gate before he leaves you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "You are held in the grip of a dream. Talk to Candaith before he goes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "You are held in the grip of a dream. Confront your foe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "You are held in the grip of a dream. Talk to Candaith at the gate before he goes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "Calenglad stares out at the lake, his eyes glassy. He takes no notice of you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852591",
+      "en": "Candaith looks around at the corpse-strewn camp.\\n\\n'Your journey must have been an arduous one, [placeholder], if this is the tapestry of your dreaming! May you find restful sleep at the end of your road, my friend, for I fear you will have little of that for a while.\\n\\n'Walk with me a ways, [placeholder]. There are some things we need to discuss.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcae8d1",
+      "en": "Gun Ain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852592",
+      "en": "'Do not lose sight of who you are, my friend, and do not despair. I would give my life a thousand times to be even the smallest help to Aragorn, my chieftain. That is what it means to be one of the Dúnedain.\\n\\n'It was no different for these men of Rohan, or for their Prince. They strove to protect their people, and would do so again if given the opportunity. Weep for the need of it, but do not mourn their choice. I know they must be content.\\n\\n'Someone comes. Let us meet him at the gate, and keep him from further disturbing your rest!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9782c61",
+      "en": "'Gwindeth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852593",
+      "en": "'He is your own foe to face, [placeholder]. I will not be able to help you stand against him, and you will be on your own. Let the knowledge that you have already proven the stronger lighten your heart and bring you courage!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15603e1",
+      "en": "'Ssss... they were here, yes, precious.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9782c62",
+      "en": "'Gwindeth, are you there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852594",
+      "en": "'Your thoughts turn to your friends, but remember you are held in the grip of your dreams. Nothing you have seen here is real, [placeholder]. I am sure our friends will be fine.'\\n\\nCandaith does not sound as certain as you might wish, and you cannot help but wonder if that is proof of your own worrying doubt or something more.\\n\\n'What is this place, [placeholder]? That river could be the Anduin, but... have you ever seen this place? I wonder what has called it to your memory?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9782c63",
+      "en": "'I should not have left you, Gwindeth!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852595",
+      "en": "'Your dreaming mind roams far afield, [placeholder]. Asleep, you are much like a Ranger. I hope you do not mind my saying so.'\\n\\nCandaith chuckles, but the pleasant familiarity of the sound rings hollowly in the still air of the dream, and is soon gone.\\n\\n'Our friends have their own road now, [placeholder]. May they reach Aragorn in time to be of use to him! It is my hope the most dangerous leg of their journey is behind them, but I fear it is not so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9782c64",
+      "en": "'It was a mistake! I am not strong enough for this duty!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852596",
+      "en": "Golodir stands before you, tall and proud, but his eyes burn with fire and his lip is twisted into a sneer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9782c65",
+      "en": "'Candaith... Braigiar... so many of my friends...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852597",
+      "en": "Lothrandir stands before you, struggling against his bonds, but his eyes show no sign of despair. Defiance shines from those wells of blue, and his mouth is a resolute line.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9782c66",
+      "en": "'I failed them. But I will not fail you, my love!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Nothing moves within Grimbold's camp",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852598",
+      "en": "You know Théodred did not die at this place, but the sight of the fallen Prince still fills you with regret and with worry for the future of his kingdom.\\n\\nThe dream holds you in its grip, and refuses to let you go.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You sense a sudden presence where there was none!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852599",
+      "en": "As you stare at Nona's lifeless body lying among the mist and the reeds, you feel the waking world beginning to rip away the veil of sleep from your eyes...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee0f3e1",
+      "en": "'Death is all around you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee0f3e2",
+      "en": "'I felt it on the Forsaken Road, and I feel it here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee0f3e3",
+      "en": "'But you must not abandon hope, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee0f3e4",
+      "en": "'Even the darkest night is followed by the dawn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee0f3e5",
+      "en": "'All of us have left someone behind.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee0f3e6",
+      "en": "'That is why we brave the darkness. We fight so they may see the dawn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a1ece1",
+      "en": "Your friends are gone, but something else has come",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2305221",
+      "en": "'I am worried about you, Mister Frodo!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeddfa31",
+      "en": "'Hurry! This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77ce5b1",
+      "en": "'No, Boromir. We cannot stop tonight. It is too dangerous to stay here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77ce5b2",
+      "en": "'The Orcs have retreated, for now... but we are still being watched.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59d2201",
+      "en": "'He is close.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Troubled Dreams",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59d2202",
+      "en": "'Steady, [placeholder]. His weapon is fear! Do not be afraid!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb7701",
+      "en": "Mordirith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b5fec1",
+      "en": "'This way, [placeholder]. Golodir has passed beyond your help.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Your sleep is troubled by dreams of ill omen. Do they hold any significance, or are they just dreams?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa68b1",
+      "en": "'Other of our friends dwell in your thoughts, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c40",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c41",
+      "en": "Explore this strange place with Candaith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c42",
+      "en": "You are held in the grip of a dream. Talk to Candaith.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c43",
+      "en": "You are held in the grip of a dream. Listen to Samwise Gamgee on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c44",
+      "en": "You are held in the grip of a dream. Listen to Frodo Baggins on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c45",
+      "en": "You are held in the grip of a dream. Listen to Merry Brandybuck on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c46",
+      "en": "Listen to Peregrin Took on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c47",
+      "en": "You are held in the grip of a dream. Listen to Aragorn on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c48",
+      "en": "Listen to Legolas on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c49",
+      "en": "Listen to Gimli on the banks of the Anduin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10c2141",
+      "en": "'I think you might be asleep, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c3a2d1",
+      "en": "Candaith the Ranger stands before you, an eyebrow raised in amusement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf35331",
+      "en": "As you touch the sword, vivid colour returns to the world",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf35332",
+      "en": "You are all alone. Candaith is gone. Your friends are gone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf35333",
+      "en": "You hear someone stumbling through the reeds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "You are held in the grip of a dream. Talk to Morflak and resist your fear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "You are held in the grip of a dream. Defeat Morflak and conquer your fear",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "You are held in the grip of a dream",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15db51",
+      "en": "'Aragorn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "You are held in the grip of a dream. Walk with Candaith along the shores of Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15db52",
+      "en": "'I will take the first watch. The little folk need their rest.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "You are held in the grip of a dream. Talk to Candaith on the shore of Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15db53",
+      "en": "'They have been through much tonight.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf15db54",
+      "en": "'Aragorn, we cannot --'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c56",
+      "en": "You are held in the grip of a dream. Talk to Golodir on the shore of Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c57",
+      "en": "You are held in the grip of a dream.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c58",
+      "en": "You are held in the grip of a dream. Walk with Candaith and see what he shows you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6443111",
+      "en": "'But your duty...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c59",
+      "en": "You are held in the grip of a dream. Talk to Calenglad on the shore of Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6443112",
+      "en": "'No, I forbid it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x343c481",
+      "en": "'Someone else is here, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6443113",
+      "en": "'Stop!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x343c482",
+      "en": "'The time has come for me to leave you again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6443114",
+      "en": "'Calenglad!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x343c483",
+      "en": "'Goodnight, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nNo living person seems to be left in Grimbold's camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nNo living person seems to be left in Grimbold's camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nYou have encountered Candaith, and even though you know you are asleep, it is still painful to see him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nYou have encountered Candaith, and even though you know you are asleep, it is still painful to see him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fb6711",
+      "en": "'[placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nCandaith is waiting for you by the entrance to Grimbold's camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fb6712",
+      "en": "'You will never escape me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Your mind is disturbed by troubling dreams.\\n\\nMorflak looms large in your memory, casting his shadow over all things.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fb6713",
+      "en": "'My hatred lives on!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Your mind is disturbed by troubling dreams.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

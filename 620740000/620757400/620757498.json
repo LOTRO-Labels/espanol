@@ -1,0 +1,101 @@
+{
+  "id": 620757498,
+  "txt": [
+    {
+      "id": "0xef88857",
+      "en": "[placeholder]: You have #1:[placeholder] #1:{completion[1] | completions} remaining.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5b920c5",
+      "en": "All chest locks have expired.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x447a3d5",
+      "en": "Lockable Raids:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9613f5",
+      "en": "Raid Chest Lock Info:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x449206c",
+      "en": "You must supply and interval override greater than or equal to 2 minutes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf18ff89",
+      "en": "[placeholder]d - [placeholder]h - [placeholder]m",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88ecab9",
+      "en": "[placeholder] - Flag [placeholder] - Resets in [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca3a4a4",
+      "en": "Successfully removed all raid lock info.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fd0972",
+      "en": "Cannot clear raid lock info while in a private encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94487b4",
+      "en": "Successfully updated the PES raid update interval.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b2a208",
+      "en": "[placeholder] does not match the fellowship's raid flags.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72ca414",
+      "en": "[placeholder] resets in: [placeholder]d - [placeholder]h - [placeholder]m.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x438f369",
+      "en": "[placeholder] - Resets [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x99db0e5",
+      "en": "The lock for [placeholder] has expired.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c61c57",
+      "en": "[placeholder]: You have #1:[placeholder] favoured #1:{completion[1] | completions} remaining.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fd9c05",
+      "en": "Raid Lock Info:",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

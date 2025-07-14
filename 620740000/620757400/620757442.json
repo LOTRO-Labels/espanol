@@ -1,0 +1,6653 @@
+{
+  "id": 620757442,
+  "txt": [
+    {
+      "id": "0x5e9f242",
+      "en": "Mobile Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fcae85",
+      "en": "Ambient Environment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x501b074",
+      "en": "There is already an item decorating that spot, you must remove it before trying to place a new decoration there.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97634f5",
+      "en": "Placed decorations and items that were left in shared housing storage, except for those bound to other players, can be found in your existing housing storage chests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x710b1e5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x691e3f2",
+      "en": "You grant #1:[placeholder] permission to decorate your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dd9cb5",
+      "en": "* [placeholder] housing storage slots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x631aa70",
+      "en": "* [placeholder] additional weeks of prepaid upkeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd72b1e0",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbedcd04",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd72b1e1",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd72b1e2",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd72b1e3",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed4d3d1",
+      "en": "Test1 ID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd72b1e4",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed4d3d2",
+      "en": "Test2 ID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd72b1e5",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed4d3d3",
+      "en": "Test3 ID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed4d3d4",
+      "en": "Test4 ID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d721",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d722",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d723",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d724",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d725",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d726",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf066f1",
+      "en": "Small Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d727",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf066f2",
+      "en": "Stately Small Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd311c5",
+      "en": "You vacate your [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d728",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf066f3",
+      "en": "Deluxe Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad5d729",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf066f4",
+      "en": "Stately Deluxe Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb7f3590",
+      "en": "Kinship Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8aed7d5",
+      "en": "Fence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed92050",
+      "en": "Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36601",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36602",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36603",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36604",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8298cd",
+      "en": "Mobile Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36605",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36606",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36607",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36608",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e36609",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b26b0",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b26b1",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b26b2",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b26b3",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b26b4",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf126884",
+      "en": "You have purchased a kinship house.  Your new kinship address is [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0b26b5",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8088ed",
+      "en": "Mobile Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2687c2",
+      "en": "You must be level [placeholder] or higher to buy a house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8f7005",
+      "en": "Storage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7aab774",
+      "en": "Upkeep Required",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb68561",
+      "en": "Standard House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb68562",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee740",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54980e1",
+      "en": "Standard House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54980e2",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee750",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee751",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x935f124",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee752",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee753",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee754",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee755",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb452860",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee756",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb452861",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee757",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb452862",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee758",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb452863",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cee759",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x793931",
+      "en": "Hut",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb452864",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x793932",
+      "en": "Cottage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb452865",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x793933",
+      "en": "House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63d6b05",
+      "en": "To Whom it May Concern,\\nWe regret to inform you that the Kinship House at [placeholder] has been locked due to non-payment of necessary maintenance fees. While your house is locked you lose all benefits of house ownership, including access to storage, decorations, travel skill, and vendor discounts. You can regain access to it at anytime by paying a restoration fee until the house is foreclosed. The restoration fee will increase each week that payment is overdue.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x793934",
+      "en": "Lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x793935",
+      "en": "Mansion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd4652",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b40800",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2856702",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb15b629",
+      "en": "You don't have enough money for this transaction.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ae42e5",
+      "en": "That item, [placeholder], cannot be used as a decoration at that location!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a2b82",
+      "en": "You have not paid the upkeep for your [placeholder] yet.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8e5344",
+      "en": "Your item, [placeholder], cannot be used as a decoration!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2768b84",
+      "en": "Slotting this [placeholder] will permanently bind it to your character! Are you sure you want to do this?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba54e7",
+      "en": "Are you certain you wish to vacate your [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x953f042",
+      "en": "You grant #1:[placeholder] permission to store items in your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x925fcb0",
+      "en": "The Founder of your Kinship, [placeholder], has chosen to abandon the [placeholder] of your Kinship!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86910a4",
+      "en": "Greetings!\\nWe are writing to inform you that your last upkeep credit has been consumed. Please make deposit of additional funds before the next upkeep payment.\\nThank you, and have a wonderful day!\\n\\n-The Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4da3c26",
+      "en": "Elf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfc358b",
+      "en": "The hook you are trying to use appears to be invalid, please report this as a bug!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b40",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b41",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafea1a2",
+      "en": "Floor Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa31",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b42",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d298a2",
+      "en": "Greetings,\\n\\nThis message is to let you know that some housing information has been transferred.\\n\\n[placeholder]\\n\\n[placeholder]\\n[placeholder]\\n\\n[placeholder]\\n\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa32",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b43",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa33",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b44",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa34",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b45",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa35",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b46",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa36",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b47",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa37",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b48",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa38",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b49",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94cfa39",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8b44e",
+      "en": "Add",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ea9480",
+      "en": "Kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fe2a57",
+      "en": "The upkeep for your [placeholder] is almost due!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe055002",
+      "en": "Your kinship must wait [placeholder] before you can purchase another kinship house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b50",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b51",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b52",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30740",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b53",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30741",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c1",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b54",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30742",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c2",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b55",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30743",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c3",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b56",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30744",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c4",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30745",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8856722",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c5",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30746",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c6",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3357b0",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30747",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c7",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30748",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c8",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee71",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30749",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x697d9c9",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x935fd84",
+      "en": "Premium Home Abandoned",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee72",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee73",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee74",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee75",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee76",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee77",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9448b5e",
+      "en": "You've been evicted from your [placeholder] because you've failed to meet the owner qualifications.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee78",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30750",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17cee79",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30751",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30752",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30753",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30754",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x258da9e",
+      "en": "Do you wish to abandon your old house?  You can only own one house per account.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b6b825",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30755",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee81a80",
+      "en": "(1 hour)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30756",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa1",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee81a81",
+      "en": "(2 hours)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30757",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa2",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee81a82",
+      "en": "(3 hours)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30758",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa3",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee81a83",
+      "en": "(4 hours)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30759",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa4",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa5",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa6",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa7",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa8",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4803fa9",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30760",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30761",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30762",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30763",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30764",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30765",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30766",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30767",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30768",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30769",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48f511c",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff30770",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8c7d3c",
+      "en": "#1:[placeholder] has denied the Kinship permission to decorate #1:{his[m]|her[f]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b921",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b922",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b923",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b924",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b925",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b926",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b927",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7dad1f4",
+      "en": "Visit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b928",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x491b929",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65b1cc4",
+      "en": "#1:[placeholder] boots you from #1:{his[m]|her[f]} house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b1",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3c9412",
+      "en": "You do not own a house to boot visitors from!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b2",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b3",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b4",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b5",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbacd05e",
+      "en": "You've been evicted from your [placeholder] because you've failed to pay its upkeep.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf597fe7",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b6",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8129b63",
+      "en": "Your kinship is too small.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b7",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b8",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa209b9",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f25a4e",
+      "en": "Decoration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf14122",
+      "en": "An error occurred while trying to detect visitors in your house!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58cf933",
+      "en": "You boot all visitors not on your guest list out of your house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b1",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b2",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b3",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b4",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48a9352",
+      "en": "Door Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b6",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b7",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b8",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc08a5b9",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9200",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d5da43",
+      "en": "#1:[placeholder] has denied you permission to store items in #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d078d2",
+      "en": "#1:[placeholder] contributes #2:[placeholder] silver towards your #3:[placeholder]#3:{'s|'[s]} upkeep.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe393315",
+      "en": "Everyone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9201",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9202",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9203",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72ea025",
+      "en": "You have been evicted from your [placeholder]\\n.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9204",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9205",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9206",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9207",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9208",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9209",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9210",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9211",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2515554",
+      "en": "You have restored your qualifications to own your [placeholder].  You are no longer in danger of being evicted.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42711",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9212",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42712",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9213",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42713",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9214",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42714",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9215",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42715",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9216",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4080892",
+      "en": "Mobile Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42716",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9217",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42717",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9218",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42718",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9219",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc42719",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9220",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9221",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9222",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9223",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9224",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9225",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9226",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3336c64",
+      "en": "To Whom it May Concern,\\nWe regret to inform you that the Kinship House at [placeholder] has been locked due to non-payment of necessary maintenance fees. While your house is locked you lose all benefits of house ownership, including access to storage, decorations, travel skill, and vendor discounts. The property will be held for you indefinitely, and you can regain access to it at anytime by paying a restoration fee. The restoration fee will increase each week that payment is overdue.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9227",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9228",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9229",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4f88ab",
+      "en": "You were unable to get close enough to the designated location to place the decoration or furnishing!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebf98e5",
+      "en": "You boot all visitors out of your house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9230",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9231",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xecc7826",
+      "en": "You can't add yourself as a guest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2256432",
+      "en": "You grab yourself by the collar and try to hurl yourself through the door, but it just doesn't seem to work...\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x873a696",
+      "en": "You may not add yourself as a guest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9232",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9233",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x625eba4",
+      "en": "Upkeep is [placeholder] silver every [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9234",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b9235",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2e4e5d",
+      "en": "You do not have permission to use that hook.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77af883",
+      "en": "Permissions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2aa6905",
+      "en": "Your old housing escrow has been versioned into the new housing escrow!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca0",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca1",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca2",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca3",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9285f90",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca4",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9285f91",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9285f92",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca6",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca7",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca8",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85ca9",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d85cb0",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7bedbc",
+      "en": "#1:[placeholder] is no longer granting the Kinship access to #1:{his[m]|her[f]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f605b2",
+      "en": "You have been evicted from the [placeholder] of your Kinship!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5476dcc",
+      "en": "Attached you will find a quantity of Premium Housing Writs that can be applied to the purchase of a new premium home similar to your old personal house at [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdba7172",
+      "en": "You deny #1:[placeholder] permission to decorate your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b82992",
+      "en": "Mobile Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a45241",
+      "en": "Burrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a45242",
+      "en": "Den",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a45243",
+      "en": "Dwelling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a45244",
+      "en": "Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8f41a3",
+      "en": "Use Decorations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a45245",
+      "en": "Great Smial",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee529c2",
+      "en": "[placeholder] is not currently visiting your house, you cannot kick them out.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x135c0d1",
+      "en": "Standard House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271e0",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x135c0d2",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa43cad5",
+      "en": "Kinship Home Locked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe449411",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe449412",
+      "en": "Deluxe Mead Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4915435",
+      "en": "Ambient Environment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x543c904",
+      "en": "You have just abandoned your house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f0",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f1",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f2",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5be44a2",
+      "en": "You have chosen to vacate the [placeholder] of your Kinship!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f3",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f4",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f5",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f6",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f7",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f8",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366000",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4271f9",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366001",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366002",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366003",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366004",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366005",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48df11c",
+      "en": "Outside Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x446f872",
+      "en": "The storage is restricted to the owner.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366006",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366007",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366008",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366009",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7bd6f54",
+      "en": "Fire Pit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9c84b0",
+      "en": "Maintenance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366010",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390800",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390801",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390802",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390803",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390804",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390805",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390806",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6689e55",
+      "en": "Storage Keeper",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390807",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390808",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390809",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1ae339",
+      "en": "Availability: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366020",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366021",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366022",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390810",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366023",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390811",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366024",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390812",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366025",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390813",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366026",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390814",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5deb10",
+      "en": "Members of your Kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366027",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390815",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366028",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390816",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366029",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390817",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390818",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390819",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90ead84",
+      "en": "Kinship Home Locked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366030",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366031",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366032",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390820",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366033",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390821",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366034",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390822",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366035",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390823",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366036",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390824",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366037",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390825",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366038",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390826",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe366039",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390827",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390828",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390829",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71e22b7",
+      "en": "To Whom it May Concern,\\nWe are writing to inform you that the Kinship House at [placeholder] is scheduled for repossession due to non-payment of necessary maintenance fees. To avoid foreclosure, please pay the restoration fee promptly.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x193c88d",
+      "en": "Mobile Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1a8d84",
+      "en": "You have purchased a house.  Your new address is [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x275343",
+      "en": "#1:[placeholder] has granted you permission to store items in #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390830",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390831",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390832",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390833",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390834",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9ca2d0",
+      "en": "Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390835",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b21934",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390836",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce0",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390837",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce1",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390838",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58ef680",
+      "en": "Your Kinship founder, [placeholder], has been evicted from the [placeholder] of your Kinship because the ownership qualifications are no longer met!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce2",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9390839",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce3",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce4",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce6",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce7",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd490cbc",
+      "en": "[placeholder]\\nHome of [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce8",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7ce9",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e13fdb",
+      "en": "You can only decorate with items that you possess!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64b7cf0",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c1",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c2",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c3",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c4",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c6",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c7",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c8",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2d85c9",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34f2804",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87b80d2",
+      "en": "You deny #1:[placeholder] permission to store items in your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e1b794",
+      "en": "Upkeep information for [placeholder]:\\n   [placeholder]\\n   [placeholder]\\n   [placeholder]\\n   [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e540",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e541",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33571",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e542",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33572",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x84cbbf4",
+      "en": "You are not qualified to purchase this [placeholder].  Consult the owner qualifications posted in the for sale note on the [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e543",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33573",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e544",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33574",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33575",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33576",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33577",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33578",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2992c40",
+      "en": "Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa33579",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e4e8f0",
+      "en": "The Founder of your Kinship, [placeholder], has been evicted from the [placeholder] of your Kinship!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3952b95",
+      "en": "You will be evicted on [placeholder] if you do not pay your upkeep!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e550",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e551",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e552",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e553",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e554",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e555",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65838d",
+      "en": "You may not add any more guests.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e556",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e557",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e558",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a3e559",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf030b75",
+      "en": "You are no longer in Decoration Mode.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x651b9f4",
+      "en": "To Whom it May Concern,\\nWe regret to inform you that the Kinship House at [placeholder] has been foreclosed due to non-payment of necessary maintenance fees. The property has been reclaimed and will be offered for sale to the public within a few days.\\n\\nAll of the decorations and items in storage have been moved into escrow which is accessible to you at any Vault-keeper. These items will persist forever.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x74ec665",
+      "en": "Everyone (global access)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4ef207",
+      "en": "You no longer meet the qualifications to own your [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e3c10",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e3c11",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3e3c12",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6529f1",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6529f2",
+      "en": "Deluxe Mead Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39870fc",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82dd9f5",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f81115",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1210fd",
+      "en": "Mobile Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd900bc2",
+      "en": "Owner",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x103e157",
+      "en": "Kinship Home Foreclosure Pending",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67fd78e",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfeed482",
+      "en": "You have evicted [placeholder] from the [placeholder] of their Kinship, placing it into foreclosure.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ca0975",
+      "en": "You are now in Decoration Mode.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f5715",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a173b3",
+      "en": "You pay #1:[placeholder] silver towards the upkeep of your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ebf762",
+      "en": "Unable to find a player by the name [placeholder]!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37c025",
+      "en": "Fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6665b00",
+      "en": "Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2ac42",
+      "en": "Kinship Member",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b64434",
+      "en": "Kinship Home Foreclosed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f12112",
+      "en": "Mobile Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93908e0",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8115a15",
+      "en": "Home Locked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f1",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f2",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f3",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f4",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62f511c",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f5",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f6",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f7",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f8",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9285f9",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a40385",
+      "en": "Your old housing storage has been versioned into the new housing storage!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dacdde",
+      "en": "The upkeep for your [placeholder] has been collected.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc786ff0",
+      "en": "Attached you will find a quantity of Premium Housing Writs that can be applied to the purchase of a new premium home similar to your old Kinship House at [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c216b4",
+      "en": "Upkeep was last collected on [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75f8100",
+      "en": "your fellowship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x861a532",
+      "en": "You remove #1:[placeholder] as a guest of your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732071",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732072",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd76701",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732073",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd76702",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732074",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd76703",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732075",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd76704",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732076",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5534754",
+      "en": "You have just abandoned your kinship house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd76705",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732077",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732078",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd732079",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65e9ec",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0121",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c7efd5",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a5b80",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0122",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0123",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0124",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0125",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0126",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0127",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0128",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41f0129",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefd7cde",
+      "en": "Remove",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47d6245",
+      "en": "Next upkeep collection is on [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c6bb05",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b1",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b2",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b3",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a594c4",
+      "en": "The request to boot [placeholder] from your house has failed!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b4",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b5",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b6",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b7",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b8",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x54fc074",
+      "en": "To Whom it May Concern,\\nYour property at address [placeholder] has been vacated and will shortly be offered for sale to the public.\\n\\nAttached you will find a quantity of Premium Housing Writs that can be applied to the purchase of a new premium home.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b9",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc1",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc2",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3fc7ae",
+      "en": "Human",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc3",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc4",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc5",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc6",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc7",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45281",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc8",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45282",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc9",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45283",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45284",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45285",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45286",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45287",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45288",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b45289",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9376cc0",
+      "en": "[placeholder] has granted the Kinship access to the Kinship [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8eb3e74",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0ecca3",
+      "en": "You can't add a good race as a guest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7825634",
+      "en": "You enter the house as a guest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e0",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e1",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc0f4447",
+      "en": "Home Foreclosure Pending",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e2",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e3",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e4",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2fd905",
+      "en": "Placed decorations and items that were left in shared housing storage, except those bound to other players, can be found in your Escrow storage. To access them, contact an Escrow Broker found in any Neighbourhood and many settlements around Middle Earth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e5",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe20dd85",
+      "en": "Since you already own a house, the following credit(s) have been applied:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e6",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e7",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e8",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72e9",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77b1255",
+      "en": "Upkeep is overdue, it was due on [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba05311",
+      "en": "Fence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba05312",
+      "en": "Fence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a0",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a1",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a2",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a3",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5d72f0",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a4",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8055ce",
+      "en": "Eviction countdown:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a5",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a6",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5553812",
+      "en": "Planter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3c0",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a7",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3778d6e",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a8",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60a9",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96e82d2",
+      "en": "Welcome to [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b1",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b2",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b3",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b4",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4f40e1",
+      "en": "Hut",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b5",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4f40e2",
+      "en": "Cottage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b6",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c60b0",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4f40e3",
+      "en": "House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b7",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4f40e4",
+      "en": "Lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b8",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4f40e5",
+      "en": "Mansion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61fd4b9",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2abcbd5",
+      "en": "Kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d0",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d1",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79a4e52",
+      "en": "You enter your house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d2",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d3",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d4",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d5",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d6",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d7",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8971304",
+      "en": "To Whom it May Concern,\\nWe regret to inform you that the personal residence at [placeholder] has been foreclosed due to non-payment of necessary maintenance fees. The property has been reclaimed and will be offered for sale to the public within a few days.\\n\\nAll of the decorations and items in storage have been moved into escrow which is accessible to you at any Vault-keeper. These items will persist forever.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d8",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cfa3d9",
+      "en": "Floor Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f6df15",
+      "en": "You boot [placeholder] from your house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x71739f2",
+      "en": "You add #1:[placeholder] as a guest of your #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4883990",
+      "en": "[placeholder] has granted the Kinship permission to access the storage in the Kinship [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4889941",
+      "en": "Fire Pit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4889942",
+      "en": "Fire Pit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4889943",
+      "en": "Fire Pit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4889944",
+      "en": "Fire Pit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4889945",
+      "en": "Fire Pit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8dad869",
+      "en": "Buy House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x743f0a0",
+      "en": "[placeholder] has granted the Kinship permission to decorate the Kinship [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f4bef0",
+      "en": "[placeholder] has denied the Kinship permission to decorate the Kinship [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e51",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e52",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e53",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf2f45b4",
+      "en": "[placeholder] [placeholder] (FORECLOSED)\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e54",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e55",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e56",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e57",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e58",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a3e59",
+      "en": "Kinship Keep Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb1",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb2",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb3",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb4",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb5",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb6",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf6ecf5",
+      "en": "Ambient Environment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c3c1e3",
+      "en": "Your alignment is too low.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb7",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb8",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa48bb9",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcdf9a71",
+      "en": "Kinship Keep Stables",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbaba7f0",
+      "en": "[placeholder] has denied the Kinship access to the Kinship [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3071",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3072",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3073",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3074",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3075",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3076",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3077",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3078",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff3079",
+      "en": "Universal Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18bb501",
+      "en": "Standard House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18bb502",
+      "en": "Stately House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18bb503",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e01",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e02",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38d5f91",
+      "en": "Standard House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e03",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87997f5",
+      "en": "You do not own a house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38d5f92",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29a8e94",
+      "en": "Light",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e04",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e05",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x369cb53",
+      "en": "#1:[placeholder] has denied you permission to decorate #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e06",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e07",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e08",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12f9e09",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fc8885",
+      "en": "Ambient Environment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x653ff85",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea8b085",
+      "en": "[placeholder] is already a guest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89cbab3",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff5a7c",
+      "en": "#1:[placeholder] has granted the Kinship permission to decorate #1:{his[m]|her[f]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42770e4",
+      "en": "[placeholder] does not exist.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615641",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615642",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615643",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615644",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615645",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee5f754",
+      "en": "[placeholder], [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2762f25",
+      "en": "The foreclosure period on the old [placeholder] of your Kinship has expired, you no longer have access to it.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615646",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615647",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615648",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc615649",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939081",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939082",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939083",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1433dd1",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939084",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1433dd2",
+      "en": "Deluxe Mead Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939085",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939086",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe019655",
+      "en": "We wish you all the best settling in on [placeholder].\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939087",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939088",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6939089",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf684677",
+      "en": "Housing",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c800b4",
+      "en": "You contribute #1:[placeholder] silver towards the upkeep of #2:[placeholder]#2:{'s|'[s]} #3:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd35f8a0",
+      "en": "Your Kinship founder, [placeholder], has been evicted from the [placeholder] of your Kinship because upkeep has not been paid!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f5c6a4",
+      "en": "Hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcccd00",
+      "en": "Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b40",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62ddfb4",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b41",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b42",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b43",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b44",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe89a4c1",
+      "en": "Standard Estate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b45",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd80c634",
+      "en": "This [placeholder] must be purchased before you can pay its upkeep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe89a4c2",
+      "en": "Stately Estate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b46",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c1",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe89a4c3",
+      "en": "Deluxe Estate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b47",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c2",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b48",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c3",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cea975",
+      "en": "You enter the house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b49",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c4",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c6",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c7",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf571b02",
+      "en": "Mobile Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c8",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc98de20",
+      "en": "your kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa64b7c9",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b50",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b51",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82310be",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b52",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b53",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b54",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b55",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b56",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b57",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b58",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b59",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe9a40f5",
+      "en": "Furniture Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2bfc1",
+      "en": "Bower",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2bfc2",
+      "en": "Abode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2bfc3",
+      "en": "Haven",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51a0672",
+      "en": "Kinship Keep Stables",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28e5d45",
+      "en": "#1:[placeholder]#1:{'s|'[s]} [placeholder] Upkeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2bfc4",
+      "en": "Manor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f51b60",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfedf8f3",
+      "en": "[placeholder], [placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd2bfc5",
+      "en": "Estate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd175e75",
+      "en": "There are no visitors in your house to boot at this time.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66281d9",
+      "en": "Pay Upkeep",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36f4f40",
+      "en": "[placeholder] has denied the Kinship permission to access the storage in the Kinship [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3753c2",
+      "en": "The hook is restricted to the owner.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb65b112",
+      "en": "Kinship Officer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x747315",
+      "en": "You have paid [placeholder]/[placeholder] silver upkeep in advance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1cd4ec7",
+      "en": "Ceiling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5ed0e0",
+      "en": "Deluxe Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4444b4c",
+      "en": "#1:[placeholder] has granted the Kinship permission to access the storage in #1:{his[m]|her[f]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1494e5",
+      "en": "---",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e8004",
+      "en": "The item you were trying to decorate with seems to have vanished!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b261",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b262",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156480",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b263",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24ea4",
+      "en": "Home Locked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdfc017d",
+      "en": "Mobile Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156481",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b264",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156482",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b265",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156483",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b266",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156484",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b267",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156485",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b268",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156486",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb0b269",
+      "en": "Short Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xecec83",
+      "en": "You can't add a monster as a guest.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156487",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156488",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156489",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1dd555",
+      "en": "everyone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6156490",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cd74b2",
+      "en": "You evict #1:[placeholder] from #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c1acb2",
+      "en": "You must provide a valid player name to boot someone from your house!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d101a5",
+      "en": "To Whom it May Concern,\\nWe regret to inform you that the personal residence at [placeholder] has been locked due to non-payment of necessary maintenance fees. While your house is locked you lose all benefits of house ownership, including access to storage, decorations, travel skill, and vendor discounts. You can regain access to it at anytime by paying a restoration fee until the house is foreclosed. The restoration fee will increase each week that payment is overdue.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf56f185",
+      "en": "You may not decorate that hook with that item.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61189d2",
+      "en": "You must wait [placeholder] before you can purchase another premium house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b99f4",
+      "en": "You must unequip [placeholder] before you can use it as a decoration!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x475d20c",
+      "en": "Total: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3bdc56",
+      "en": "Dwarf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc10ce2",
+      "en": "Upkeep Paid: [placeholder]/[placeholder]\\nCollected On: [placeholder]\\nEvicted On: [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01200",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01201",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01202",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01203",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xefda844",
+      "en": "[placeholder] [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01204",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01205",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01206",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01207",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01208",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01209",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc1ee42",
+      "en": "Kinship Leader",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa48bbb0",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b00",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa48bbb1",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b01",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa48bbb2",
+      "en": "Window Style",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b02",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01210",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b03",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01211",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b04",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01212",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b05",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01213",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe843fd4",
+      "en": "[placeholder] ([placeholder]), You are not qualified to purchase this.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b06",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01214",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b07",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01215",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b08",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01216",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b09",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01217",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01218",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1b53a2",
+      "en": "Column Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01219",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b10",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b11",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5977b5",
+      "en": "When you next purchase a house, the following credit(s) will be applied:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b12",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01220",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b13",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01221",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b14",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01222",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b15",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01223",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b16",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01224",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b17",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01225",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac21850",
+      "en": "Kinship House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a74701",
+      "en": "Stately House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b18",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f01226",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4daf9b2",
+      "en": "[placeholder]\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a74702",
+      "en": "Luxurious House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b19",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc40",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b20",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc41",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b21",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc42",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b22",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc43",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b23",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc44",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b24",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc45",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b25",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc46",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b26",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc47",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b27",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc48",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b28",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc49",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b29",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcc61a5",
+      "en": "[placeholder] ([placeholder]), Cost To Reacquire: [placeholder]\\nUpkeep: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca8cd7c",
+      "en": "Wall Hook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc50",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b30",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc51",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b31",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc52",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b32",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc53",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b33",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfb7073",
+      "en": "#1:[placeholder] has granted you permission to decorate #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc54",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b34",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6bfc55",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b35",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cd512c",
+      "en": "Floor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b36",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x345a2b3",
+      "en": "Changes to the restoration fee schedule",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b37",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b38",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4b39",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x75a8325",
+      "en": "We invite you to visit a Neighbourhood Housing Broker and find your new dream home today!\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x635603c",
+      "en": "#1:[placeholder] has denied the Kinship permission to access the storage in #1:{his[m]|her[f]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x77c0f1c",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b2cf52",
+      "en": "Tsk tsk tsk... #1:[placeholder] is an administrator, shame on you for trying to boot #1:{him[m]|her[f]}!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c1",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c2",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c3",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c4",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c5",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c6",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c7",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c8",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d3e3c9",
+      "en": "Column Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c2b025",
+      "en": "You no longer have permission to be in that house, you were booted out.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d631d1",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d631d2",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d631d3",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d631d4",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea58460",
+      "en": "Attached you will find the funds required to purchase a Kinship House similar to your old home at [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d631d5",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e040",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b11",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac31fd4",
+      "en": "#1:[placeholder] has added you as a guest of #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b12",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b13",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b14",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b15",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36294c5",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b16",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf97eb1",
+      "en": "Steading",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e050",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b17",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf97eb2",
+      "en": "Hold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e051",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b18",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf97eb3",
+      "en": "Fastness",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e052",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x599b2a4",
+      "en": "To Whom it May Concern,\\nWe regret to inform you that the personal residence at [placeholder] has been locked due to non-payment of necessary maintenance fees. While your house is locked you lose all benefits of house ownership, including access to storage, decorations, travel skill, and vendor discounts. The property will be held for you indefinitely, and you can regain access to it at anytime by paying a restoration fee. The restoration fee will increase each week that payment is overdue.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad72b19",
+      "en": "Adjustable Door-frame",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf97eb4",
+      "en": "Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e053",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf97eb5",
+      "en": "Grand Hall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e054",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e055",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e056",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e057",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e058",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5239b65",
+      "en": "Everyone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9e059",
+      "en": "Floor Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1558fc1",
+      "en": "Door Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1558fc2",
+      "en": "Door Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1558fc3",
+      "en": "Door Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1558fc4",
+      "en": "Door Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1558fc5",
+      "en": "Door Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f1501",
+      "en": "Test1 Category",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f1502",
+      "en": "Test2 Category",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f1503",
+      "en": "Test3 Category",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef4c84b",
+      "en": "You must first purchase the house before using its hooks.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87e2da4",
+      "en": "Someone has been removed from your guest list because the character was deleted.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd688d93",
+      "en": "Bypassing house restrictions.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7af5693",
+      "en": "[placeholder] [placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3b6f655",
+      "en": "You have reacquired the [placeholder] for your Kinship by paying the overdue upkeep amount of [placeholder] silver.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad76701",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad76702",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad76703",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad76704",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad76705",
+      "en": "Ambient Music",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c20",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c21",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c22",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c23",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c24",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c25",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c26",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c27",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c28",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c29",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33e1d73",
+      "en": "To Whom it May Concern,\\nWe are writing to inform you of recent changes to the restoration fee for your locked house. Starting now, the fee will increase each week that payment is overdue.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c30",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c31",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c32",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c33",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f9d71",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c34",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f9d72",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97d9c35",
+      "en": "Wall Surface",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f9d73",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b71442",
+      "en": "Wall Colour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f9d74",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82f9d75",
+      "en": "Doormat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320780",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc0",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d67414",
+      "en": "#1:[placeholder] has removed you as a guest of #1:{his[m]|her[f]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc1",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc323935",
+      "en": "Furniture",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc2",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc3",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x803fa00",
+      "en": "Long Adjustable Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc4",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc5",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc6",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ad4894",
+      "en": "Home Foreclosed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc7",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc8",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bc9",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x613d4d4",
+      "en": "Kinship Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320790",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320791",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320792",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320793",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bd0",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320794",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320795",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320796",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x865fa21",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320797",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x865fa22",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320798",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9996ec",
+      "en": "Attached you will find the funds required to purchase a personal house similar to your old home at [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x865fa23",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7320799",
+      "en": "Huge Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x865fa24",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x865fa25",
+      "en": "Enormous Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0fbb2",
+      "en": "You must wait [placeholder] before you can purchase another house.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x931bbd1",
+      "en": "Standard House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x931bbd2",
+      "en": "Deluxe House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabdf68e",
+      "en": "[placeholder] ([placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be0",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be1",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be2",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be3",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be4",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be5",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be6",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be7",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be8",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4be9",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b4e077",
+      "en": "To Whom it May Concern,\\nWe are writing to inform you that the personal residence at [placeholder] is scheduled for repossession due to non-payment of necessary maintenance fees. To avoid foreclosure, please pay the restoration fee promptly.\\n\\nSincerely,\\nThe Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b7189c",
+      "en": "#1:[placeholder] has granted the Kinship access to #1:{his[m]|her[f]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c601",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c602",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2193c92",
+      "en": "Mobile Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c603",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x867670c",
+      "en": "Wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c604",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf0",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c605",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf1",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c606",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf2",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1011f4",
+      "en": "[placeholder] is not a guest in your guest list.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c607",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf3",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c608",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf4",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe76c609",
+      "en": "Hitching Post",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf5",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf6",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf7",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf8",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fd4bf9",
+      "en": "Yard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x191b1f4",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc94cf05",
+      "en": "You purchase the [placeholder] for [placeholder] silver.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f52c90",
+      "en": "Placed decorations and items that were left in shared housing storage and were bound to other players have been returned to their proper owners.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4915235",
+      "en": "Ambient Environment",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb03014",
+      "en": "Failed to boot one or more visitors from your house!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaafb6a4",
+      "en": "#1:[placeholder] has been removed from your guest list because #1:{he[m]|she[f]} was deleted.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x303195",
+      "en": "Ambient Environment (Cave)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe22c475",
+      "en": "[placeholder] ([placeholder]), Price: [placeholder]\\nUpkeep: [placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd297ae5",
+      "en": "Housing Authority",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

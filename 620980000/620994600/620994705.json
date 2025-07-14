@@ -1,0 +1,779 @@
+{
+  "id": 620994705,
+  "txt": [
+    {
+      "id": "0xeb01155",
+      "en": "DNT TALK TO MERRY",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x969f9e1",
+      "en": "'Look, up there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "You hear a gruff, familiar throat being cleared behind you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01156",
+      "en": "Go up the northern path from the hobbits' picnic in Udûn and see if you can find what Merry heard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "DNT TALK TO PIPPIN",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e0",
+      "en": "Look for the source of the sound",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502922",
+      "en": "Look for a northward path ahead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502924",
+      "en": "DNT summon merry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "DNT TALK TO MERRY",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "'All this wandering about in the realm of the Dark Lord is well enough, though I don't see why another troll-hole laden with Elven blades hasn't presented itself just yet. But I will not keep this up with our stomachs growling, when so many fine provisions are weighing down my pack.\\n\\n'You wanted to turn northward, Merry. Why don't we head up that way and stop at that flat bit, there? It doesn't look like anyone should bother us, and we'll restore ourselves properly before moving on.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502926",
+      "en": "DNT summon pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e5",
+      "en": "<rgb=#FF00FF>Listen</rgb> to the half-orcs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011881",
+      "en": "Pippin has suggested moving to a flat spot just north of the main road in Udûn, and stopping to eat some and rest up. \\n\\nIf you should get separated from Pippin or Merry, use their horns to call them back to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01160",
+      "en": "DNT TALK TO MERRY",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56853",
+      "en": "'DNT LET'S HAVE A PICNIC, HOBBIT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502928",
+      "en": "DNT summon merry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e7",
+      "en": "Talk to Merry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b21",
+      "en": "'...come all this way with news to sell, and we will find a buyer...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be0",
+      "en": "DNT Pippin comes running back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e9",
+      "en": "Talk to Pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01163",
+      "en": "Three travel-worn half-orcs stand on the ledge above you, north of the main road in Udûn, talking amongst themselves. You should <rgb=#FF00FF>listen</rgb> to hear some more.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b23",
+      "en": "'...hear we've got news about the wizard and what's going on in the halflings' lands, they'll pay, just you wait...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be3",
+      "en": "this spot looks lnice",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689c2",
+      "en": "'Did you hear that too? I am hardly sure of myself, but I thought I heard something... something voice-like, coming from uphill.\\n\\n'Quickly and quietly, friends, let us see what it was - if it was anything at all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b26",
+      "en": "'...halflings are all they care about in - gah! What was that? A spy, might be. Best be moving on, boys.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be5",
+      "en": "DNT merry returns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "Three travel-worn half-orcs stand on the ledge above you, north of the main road in Udûn, talking amongst themselves. You should continue to listen <rgb=#FF00FF>listen</rgb> to their conversation.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be7",
+      "en": "DNT pippin returns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502930",
+      "en": "DNT summon pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f0",
+      "en": "Explore to the cross-roads",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be9",
+      "en": "DNT merry returns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f1",
+      "en": "Blow Pippin's horn to call him back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502933",
+      "en": "Talk to Merry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f2",
+      "en": "<rgb=#FF00FF>Sit</rgb> down and share in the meal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50276",
+      "en": "<rgb=#FF00FF>Listen</rgb> to the half-orcs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56860",
+      "en": "'DNT - WOWWEE HOBBIT FRIEND'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf1",
+      "en": "DNT pippin returns",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56865",
+      "en": "Merry looks uncharacteristically pale.\\n\\n'I have lost my appetite for food, and adventure, and any promise of treasure or gold, Pippin. Let us call it a day and head back, shall we?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Pippin and Merry are north of the main road in Udûn. \\n\\nYou should talk to Merry and Pippin about the trio of half-orcs you just overheard.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56866",
+      "en": "'DNT OKAY HOBBITS FALL BACK'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568912",
+      "en": "'Go on ahead, [placeholder]. If I really did hear something, it is just up the path here. Pippin and I will be just behind you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568914",
+      "en": "'Hush, both of you. I want to hear some more!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "DNT RETURN TO MERRY AND PIPPIN",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56869",
+      "en": "'There you are, [placeholder]! We had been looking for you. What happy luck that you are here now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "DNT RETURN TO PIPPIN AND MERRY",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568918",
+      "en": "'Wizard? Halfling lands? And that voice. I would have sworn it was one of Bill Ferny's friends, come all the way to Mordor.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56871",
+      "en": "'DNT SHUSH LISTEN SOME MORE'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a1",
+      "en": "Merry has suggested going a bit further along the main road in the Udûn valley, and then look for a way that turns north.\\n\\nIf you should get separated from Pippin or Merry, use their horns to call them back to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56872",
+      "en": "'DNT OH HAI HOBBIT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e0",
+      "en": "'Then our little plan is advanced? I knew we could count on you, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e1",
+      "en": "'Imagine how it must have looked with all the Dark Lord's armies gathered there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e2",
+      "en": "'To that the first cross-roads - then we shall see what we shall see and decide what to do from there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e3",
+      "en": "'Which do you think we shall stumble over first, adventure or treasure?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56879",
+      "en": "'DNT WOWEE, DID THEY SAY THAT?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e4",
+      "en": "'No sign of either treasure or adventure here, but then I suppose we've only just started. If you ask me, we ought to head up the road and have a look at all the soldiers' tents there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Both Aragorn and Éomer can be found outside of the Black Gate, in the area of the Slag Hills.\\n\\nMerry and Pippin have asked you to ask Aragorn and Éomer for permission to venture into Mordor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e5",
+      "en": "'Think of it, [placeholder]. We are on the other side. The front porch of the Enemy, you might say, though I am awfully glad he isn't home, nor shall be!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Gandalf has appeared nearby to Aragorn and Éomer, outside the Black Gate in the Slag Hills, and has made it clear that he wishes to talk to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502951",
+      "en": "DNT blow THIS whistle to call back Pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e6",
+      "en": "'All these empty tents only put me in mind of what horrible things war and strife are. Perhaps we should see some of the forgeworks. Let us go on a bit and look for a path heading north.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e7",
+      "en": "'Well for one, I hardly imagined the noise - or the stench!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "Talk to Aragorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e8",
+      "en": "'Well, what is it, Pippin?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689e9",
+      "en": "'I say we set down on that flat patch I saw, just north of the main road and behind some tents. It would be the perfect place to have a bite to eat and restore our weary limbs.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Talk to Éomer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502955",
+      "en": "Explore to the soldiers' camps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502957",
+      "en": "DNT blow this whistle to call back Merry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'DNT - HAI HOBBIT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502959",
+      "en": "DNT blow this whistle to call back Pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Merry and Pippin persist in their determination to venture into Mordor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'DNT - BLAH'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "DNT TALK TO GANDALF",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "DNT MEET THE HOBBITS OUTSIDE THE CAMP",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'DNT - HAI HOBBIT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x977ecf1",
+      "en": "'A good start. Let us make for all those soldiers' tents up the road.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x977ecf2",
+      "en": "'This is all very dreary, somehow. Let's go up away and see if we can turn north.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x977ecf3",
+      "en": "'What was that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'The two periain, Meriadoc and Peregrin, were here not long past, looking for you. They returned to Bâr Thorenion, but implored that you should join them as soon as you could.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f6",
+      "en": "'Well! You can see what a hard time of things we have been having, Pippin and I. Still, I worry his head may fall off of his shoulders, for how swift and how often it's been turning this way and that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x977ecf4",
+      "en": "'Ah, just my stomach growling again. I think we should talk seriously, my friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Explore to the cross-roads",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f7",
+      "en": "'Will you ask permission for us? We would go ourselves only - somehow it would all be better if you would do it. Aragorn and Éomer are likely just outside the Black Gates, in the Slag Hills.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f8",
+      "en": "'Pippin is joking, of course. I am not the least bit ashamed to ask, but he is. Oh, just humour him.\\n\\n'And before you go, be sure to see the gardens and the baths. It is beyond remarkable, is what it is!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "DNT oh please please you've got to help us get permission to go",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'Poke their noses into Mordor? That is exactly how they put it, I imagine. Well, to be honest, I would mislike the thought of those two going in alone. But if you will promise to stay close by and look after them, then they have my blessing. \\n\\n'To Pippin I do grant leave.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "You should return to Merry and Pippin in Bâr Thorenion with word that they have Aragorn and Éomer's blessings to go into Mordor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'DNT - I GIVE PERMISSION'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'Master Merry Holdwine wishes to see Mordor? I would not deny him it, for all that he has done and been through!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "DNT TALK TO GANDALF",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1136",
+      "en": "DNT there they are",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Return to Merry and Pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b1",
+      "en": "You should meet Merry and Pippin at the Foothold encampment in Udûn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "You should explore down in the Udûn valley, as far as the first cross-roads, with Merry and Pippin.\\n\\nIf you should get separated from Pippin or Merry, use their horns to call them back to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118d4",
+      "en": "You should explore further along the main road in the Udûn valley, where the mass of soldiers' tents begins.\\n\\nIf you should get separated from Pippin or Merry, use their horns to call them back to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a9a1",
+      "en": "DNT 'A meal is just the thing!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "You should talk to Pippin, who says his stomach is growling.\\n\\nIf you should get separated from Pippin or Merry, use their horns to call them back to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a9a2",
+      "en": "DNT 'So many tents. Let us find a path that leads up north.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12a9a3",
+      "en": "DNT 'So this is mordor. Just think of it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01100",
+      "en": "You should talk to Pippin and Merry in Bâr Thorenion.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'They said yes? I knew they would! Pippin and I have packed our packs. With the help of all these friendly big folk, we are well-provisioned indeed.\\n\\n'Let us meet within - what's that they call it - the Foothold in Udûn?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'DNT - OH HAI HOBBIT'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e178",
+      "en": "DNT LOOK DOWN UPON THE HALFORCS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1157",
+      "en": "DNT MORE OF WHAT HTEY SAID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50214",
+      "en": "Talk to Gandalf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 2: A First Furtive Foray",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50218",
+      "en": "Meet at the Udûn Foothold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50219",
+      "en": "Blow Merry's horn to call him back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b92",
+      "en": "DNT Merry comes running back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b93",
+      "en": "DNT Pippin comes trotting back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1164",
+      "en": "DNT  YOU OVERHEAR SOME VOICES",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b96",
+      "en": "DNT they look around here some, too",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b98",
+      "en": "DNT Merry comes running back",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "DNT WHAT THEY SAID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56811",
+      "en": "'We have talked it over and made up our minds, Merry and I - but say, before I go into all that, look around you. See what those big folk have done to the place! It's hard to believe we were just here, when it was quite an old ruin. It's no ruin now. Gandalf must have been quite desperate to turn our heads away from Mordor if he felt the need to drag us here before they'd gone to work.\\n\\n'Ah, silly me! But Mordor is exactly why we wanted to talk to you. We have not abandoned the idea of going only... well... we were hoping you might ask Éomer and Aragorn on our behalf. You see, we've got some things to attend to here before we set off. And if you ask me, Merry couldn't bear to see the disappointed look on Éomer's face if he should disapprove the idea.\\n\\n'Will you do it? They have both been carrying on their kingly business around the Black Gates. You will find them just outside, in the Slag Hills, I imagine.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56815",
+      "en": "'A word with you, [placeholder]. I know well enough that I have done little to hinder Merry and Pippin an excursion into Mordor. I hope I have lent some gravity to it, however. More importantly, I would ask you to stick by them.\\n\\n'On this point, I ask a favour of you. Take them into Udûn when you go, and keep a sharp eye open for things that do not belong there. I have some reason to believe you may find something of interest to you and to our two meddling friends, if you do.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56817",
+      "en": "'Pippin and I have just been enjoying the view, wondering if you'd ever arrive! We might as well start on down there, I suppose. Well, no point in loitering, now. Let's be off!\\n\\n'What do you say we make our way to the first cross-roads on down into the valley? You can make it out from here, only just.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "'DNT PIPPIN QUICKLY LAYS OUT A BLANKET AND MEAL'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "<rgb=#FF00FF>Sit</rgb> down and share in the meal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1185",
+      "en": "DNT YOU FIND SOME THINGS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "DNT CONTINUE EXPLORING",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502902",
+      "en": "Stop for a bite to eat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50247",
+      "en": "DNT LOOK DOWN UPON THE HALFORCS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502905",
+      "en": "Find Pippin in Bâr Thorenion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc0",
+      "en": "DNT WHAT THEY SAID",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc3",
+      "en": "The two hobbits quickly lay out a considerable amount of food on a thin Gondorian quilt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc4",
+      "en": "You have only begun eating when Merry looks up, startled",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01147",
+      "en": "You should <rgb=#FF00FF>sit</rgb> down with Pippin and Merry at their Mordor picnic spread, off the main road in Udûn, and share in the meal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Talk to Pippin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01151",
+      "en": "You should talk to Merry, at the picnic spread in Udûn, and find out what startled him.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

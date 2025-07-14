@@ -1,0 +1,653 @@
+{
+  "id": 620774850,
+  "txt": [
+    {
+      "id": "0x64050d5",
+      "en": "Chieftain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe620c5",
+      "en": "Hobbit Kinship Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3134ace",
+      "en": "Warmonger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4366f55",
+      "en": "Bone-speaker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa262fe5",
+      "en": "Founder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0801de",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fe4365",
+      "en": "Blogmal Tribe Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1a8b65",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fb7130",
+      "en": "Your tribe has the Tarkrip theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf2d77e",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa022975",
+      "en": "Lord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a5adc5",
+      "en": "Tarkrip Tribe Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4041b15",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3082985",
+      "en": "Mixed Tribe Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ff494e",
+      "en": "Officer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaeb01e5",
+      "en": "Provost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb59a2de",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x43307f5",
+      "en": "Seneschal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63f5cf5",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x979b02e",
+      "en": "Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a91c5e",
+      "en": "Provost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fdfdb5",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbed4dfe",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17ccbfe",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb90ec5",
+      "en": "Father",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa86f24e",
+      "en": "Leader",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf98f65",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d8d36e",
+      "en": "Founder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd072085",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fb2b5",
+      "en": "Tûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x942f255",
+      "en": "Einior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2258065",
+      "en": "Chief",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x968ee2e",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91b935e",
+      "en": "Lord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fe6635",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee8677e",
+      "en": "Overseer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4ee4de",
+      "en": "Chief",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb19ff45",
+      "en": "Leader",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f4695",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90ad15e",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40274ee",
+      "en": "Ancestor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5bfc5e",
+      "en": "Founder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd16016e",
+      "en": "Einior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2ebc65",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4513ca5",
+      "en": "Watcher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9ee000",
+      "en": "Your kinship has the Dwarf theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcecab9e",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2892cee",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5ff1be",
+      "en": "Bone-speaker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46cee10",
+      "en": "Your kinship has the Mixed theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa91b44e",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6251720",
+      "en": "Your kinship has the Elf theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9410cd5",
+      "en": "Founder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf0b00",
+      "en": "Your tribe has the Mixed theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85f1835",
+      "en": "Overseer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a2a6c5",
+      "en": "Warmonger",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c6dfde",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfde99e",
+      "en": "Chieftain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca4c1de",
+      "en": "War-boss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x881f4fe",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38d2f0e",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x896b2fe",
+      "en": "Battle-master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ee1d75",
+      "en": "Founder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fb44ae",
+      "en": "Field-master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebc530",
+      "en": "Your kinship has the Hobbit theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa013d55",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2661c5",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a1b2e5",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x885ef5",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe584bb5",
+      "en": "Dwarf Kinship Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d57d05",
+      "en": "Sentinel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd080ca5",
+      "en": "Warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2260c45",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0ab0be",
+      "en": "Watcher",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd2a45e",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1166a0",
+      "en": "Your tribe has the Blogmal theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd77d8d5",
+      "en": "Mixed Kinship Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc297bbe",
+      "en": "Seneschal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5f1afe",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c02665",
+      "en": "Field-master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b0b45e",
+      "en": "Caun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61ebf20",
+      "en": "Your kinship has the Man theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe20ffe",
+      "en": "Tûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23bde55",
+      "en": "War-boss",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64ed66e",
+      "en": "Sentinel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x938b5be",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8df47de",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe3957e",
+      "en": "Master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc9c895",
+      "en": "Ongburz Tribe Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19904e5",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbdb5195",
+      "en": "Warlord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x370e7f0",
+      "en": "Your tribe has the Ongburz theme applied.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17e625e",
+      "en": "Voluntary Assistant Chief",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa944b5",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa887845",
+      "en": "Voluntary Assistant Chief",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfafb45",
+      "en": "Battle-master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3020cce",
+      "en": "Grunt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82fa915",
+      "en": "Master",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x846b3b5",
+      "en": "Man Kinship Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd09a96e",
+      "en": "Founder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1b1b765",
+      "en": "Ancestor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c6b425",
+      "en": "Elf Kinship Theme",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6ac1d4e",
+      "en": "Warlord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x489ca4e",
+      "en": "Father",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaec9b65",
+      "en": "Caun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd066d5",
+      "en": "Officer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2511255",
+      "en": "Recruit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x830bd35",
+      "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

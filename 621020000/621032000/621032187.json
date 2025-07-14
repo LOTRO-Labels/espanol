@@ -1,0 +1,251 @@
+{
+  "id": 621032187,
+  "txt": [
+    {
+      "id": "0xab9ba20",
+      "en": "DNT 6 Man instance detected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba21",
+      "en": "DNT 12 Man instance detected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba22",
+      "en": "DNT 24 Man instance detected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba51",
+      "en": "DNT - Activating Rez Counter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba23",
+      "en": "DNT Group size >3 or no size detected, disabling difficulty.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba52",
+      "en": "DNT - Incrementing Rez Counter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba53",
+      "en": "DNT - Deactivating Rez Counter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba24",
+      "en": "DNT In Ettenmoors, Difficulty suppressed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba25",
+      "en": "DNT In Osgilliath, Difficulty suppressed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba54",
+      "en": "DNT You're in a mission, suppressor removed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba26",
+      "en": "DNT PVP Reward 7 Granted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba55",
+      "en": "DNT Applying Landscape Difficulty Effect",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba27",
+      "en": "DNT PVP Reward 8 Granted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba56",
+      "en": "DNT Dispelling Difficulty Effect",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba28",
+      "en": "DNT PVP Reward 9 Granted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba57",
+      "en": "DNT solo instance detected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba29",
+      "en": "DNT PVP Reward 10 Granted",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba58",
+      "en": "DNT Duo instance detected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba59",
+      "en": "DNT3 Man instance detected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba00",
+      "en": "Running Script_PVP_War_Event",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba01",
+      "en": "DNT PVP Event Version Change detected! Clearing event data from player.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba30",
+      "en": "DNT Script_PVP_Quest_Locking beginning check!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba02",
+      "en": "DNT PVP Event Version Mismatch - cleaning up settings and clearing quests.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba31",
+      "en": "DNT Team 1 questgiver is not locked, checking for new state.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba03",
+      "en": "DNT World Event is OFF! Cleaning up.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba32",
+      "en": "DNT Team 1 questgiver is locked, checking for new state.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba04",
+      "en": "DNT Version check passed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba33",
+      "en": "DNT Team 1 unlocked check hit default node. No change.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba05",
+      "en": "DNT Running quest callback...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba34",
+      "en": "DNT Team 1 locked check hit default node. No change.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba06",
+      "en": "DNT ...quest callback complete.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba35",
+      "en": "DNT Team 2 questgiver is locked, checking for new state.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba07",
+      "en": "You are NOT in a private instance!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba36",
+      "en": "DNT Team 2 locked check hit default node. No change.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba08",
+      "en": "You proabably ARE in a private instance!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba37",
+      "en": "DNT Team 2 questgiver is not locked, checking for new state.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba09",
+      "en": "I can't see server block properties from script! Curses!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba38",
+      "en": "DNT Team 2 unlocked check hit default node. No change.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92f7675",
+      "en": "You are in a Zone of Truce. PvP disabled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xab9ba39",
+      "en": "DNT Ready to check Team 2.......?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d452a5",
+      "en": "You are now PVP enabled.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

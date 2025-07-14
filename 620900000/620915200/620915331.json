@@ -1,0 +1,359 @@
+{
+  "id": 620915331,
+  "txt": [
+    {
+      "id": "0xc41c475",
+      "en": "'Our first destination is Harwick, in the Wold? I am ready, [placeholder]. Lead and I will follow. Aldor Harding may have learned something of the state of Wildermore since his messenger made for Snowbourn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c476",
+      "en": "'If you are going to Wildermore, I want to come as well. I grew up there, and if something has happened... well, I do not have any ties keeping me here any longer.\\n\\n'I gave away all my possessions, however, and will need them back if I am to travel with you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c477",
+      "en": "'Looking back now I know I should not have abandoned my goods, but I could not see beyond the sunset. Cast out by Théoden King and forbidden to return... that is all the life I have known for many years! To have it taken away, and so suddenly... I simply could not envision caring about anything ever again.\\n\\n'I was wrong. I care about my home, stranger. I care about Wildermore, though I have not seen it for many years. I want to know what has happened to it, and for that I need my map. Speak to the children of Snowbourn; I think one of them will have it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c478",
+      "en": "'I hope this boy does not get himself into trouble on account of my map! Leave by the south gate and stop him before he runs afoul of something dangerous!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c479",
+      "en": "'Something has happened within Wildermore, and whatever it may be is sure to endanger Harwick next. You must find out what threat it poses to us and put a stop to it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbef1dd1",
+      "en": "'Where did you maggots get off to? Looking for easy pickings and not sharing 'em with the boss?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'While you were attempting to ease Gléowine back to sobriety, Corudan and I learned some troubling news.\\n\\n'Have you ever been to the lands of Wildermore, west of the Wold? I myself have not, but it seems that something might have befallen the people there. A messenger in the night from Harwick brought Reeve Fastred worrisome tidings: that no word has come out of Wildermore for some weeks. It is not a long journey from Harwick to Wildermore, so something must be keeping Harding's men from reporting back to him. I think we should go to Wildermore and see what has happened. I suspect Saruman's hand in this.'\\n\\nSomething catches Horn's eye, and he starts suddenly.\\n\\n'Master Gléowine! What is it? Are you feeling better?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'What do you want? Can you not see how busy I am?'\\n\\nThe child laughs, but keeps dancing. You explain that you're looking for Gléowine's map, and would appreciate any information about its location.\\n\\n'I remember that old man! He went off to the tavern after setting down his belongings by the wall over there. A bag of clothes there was, and a bundle of bread and cheese. I hope he does not expect his food back, because my friends ate it all!\\n\\n'Britred took the map before any of us could get at it, and he said he was going to use it to go on an adventure to save Rohan. You just missed seeing him by minutes. He left by this gate here. Maybe you can catch up to him and ask for the map back.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'I am in favour of this journey to Wildermore, [placeholder], if you are. We should go where we are needed, and if messages have ceased passing the bounds, I say we learn why.\\n\\n'I will see about procuring Gléowine's bag of sundries, but I leave the reconstruction of his harp and the finding of his map in Horn's able hands, and your own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'I will not keep my master from travelling with us, [placeholder], as long as he understands the danger. If I learned of trouble in Eaworth, I would not long remain in idle safety. I would travel there to learn if anything could be done for my home. It must be the same for Gléowine.\\n\\n'I will return his harp and learn what befell as he made the journey to Snowbourn, if you will seek for the map he abandoned. Ask the children of Snowbourn. They are sometimes the surest form of information in the city, for they see all and go unnoticed. One of them may know what happened to Gléowine's map.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I think we are ready to depart. My master has his map and the other possessions he will need, and I have arranged for a fresh horse for him to ride.\\n\\n'I spoke with Reeve Fastred while you were outside the city. He remains as stubborn as ever, refusing to entertain the idea that he could more easily defend his people on the other side of the river. The message from Harwick was just as I had heard second-hand: portentous and frightening. No word has come to Harwick from Wildermore for many days, and Harding desired men and horses from Fastred to investigate.\\n\\n'Before we go to Wildermore, we must travel to Harwick, in the Wold, and speak with Aldor Harding. I must give him the unfortunate tidings that Fastred has no men to spare. He sends us, and that is all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Britred has fallen!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Our road runs into Wildermore, as we knew it must. See on the map where it leads?'\\n\\n<rgb=#FF0000>Completing this quest will unlock an optional interlude from Gléowine's map.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "Britred tosses you the map, and runs back to Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "Gléowine stares at you with haunted eyes. It would seem something has cut through the stupor caused by his drink.\\n\\n'Something has happened in Wildermore? I... I was born in a small town there, and have not been back for years, but... if something has happened...\\n\\n'There is no reason for me to stay here, stranger. If you are going to investigate Wildermore, I would travel with you and... it is young Horn with you, is it not? He has a man's face and build now, but I still remember the years spent teaching him the lessons of history and the ways of music. He was... not the most diligent of students. I jest, of course. Who among us can say he was?\\n\\n'I abandoned my harp somewhere in the wild and gave away my other possessions when I thought I would have no further need for them. I cannot travel with you until I have them back again. Most of them were mere sundries, but there was a map I should not have given away. I feel foolish now, for it was a rare and precious thing and belongs not in the keeping of children.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "An optional Interlude has been unlocked for Gléowine's map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbef14d1",
+      "en": "'The little one thinks it's a hero, does it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'Yes? What word from Fastred, so far away and comfortable?'\\n\\nHarding snorts when you tell him Fastred has sent the four of you to aid him in investigating Wildermore.\\n\\n'I appreciate your help, of course, [placeholder], but if Fastred thinks you are his to send he is mistaken! This does not satisfy his obligation. I am Aldor of the Northmarch! If my lands are threatened, all our lands are endangered!\\n\\n'We have heard naught from Wildermore for many days now. The last party to travel that road consisted of several brave men: Widfara, a rider of some repute, and my own son Léodwig. He would have returned, if no others did. His courage is not what I would wish. But he too remains missing!\\n\\n'Learn what has befallen my men and what evil has taken hold of Wildermore. That land is too near to Harwick for any of us to rest easy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'What do you want? You want this map? Well, you cannot have it! It came to me, and now I need it if I am going to find my way out of Rohan.\\n\\n'I am going on an adventure, you see! I am going to save Rohan, and Théoden King is going to make me a lord, and then no one will have to be sad anymore.\\n\\n'But none of that will happen without this map! So you cannot have it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Horn and Corudan have learned some troubling news about the region of Rohan called Wildermore, and that has done for Gléowine what your various remedies could not.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbef13d1",
+      "en": "'There's a morsel! What's it doing outside the walls?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Talk to Gléowine outside the Mead Hall of Harwick, in the Wold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Gléowine by the barracks in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Corudan by the barracks in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Horn by the barracks in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Arnwi by the south gate of Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Find Britred south of Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Defend Britred from the uruks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Bring the map to Gléowine by the barracks in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacc0ee1",
+      "en": "'My adventure begins! For Snowbourn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Talk to Horn by the barracks in Snowbourn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacc0ee2",
+      "en": "'Maybe you had better take this map. Adventuring is tough work!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Talk to Aldor Harding in the Mead Hall of Harwick, in the Wold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xacc0ee3",
+      "en": "'Phew, I am really tired... maybe I should rest a bit... oh no! Here comes another one!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Gléowine is by the barracks in Snowbourn.\\n\\nGléowine has been brought back to sobriety by something, and seems ready to talk to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Horn and Corudan are by the barracks in Snowbourn.\\n\\nGléowine wants to travel with you to investigate what has happened in Wildermore, but first he needs some of the possessions he gave away while in the depths of his despair.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "One of the children of Snowbourn may know where to find Gléowine's map.\\n\\nGléowine wishes to travel with you to investigate the curious silence that has enveloped Wildermore, but first he wants you to recover the map he abandoned.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Britred left on an adventure by the south gate of Snowbourn. How far south did he get on his quest?\\n\\nYou were told that Britred took Gléowine's map and went on an adventure. If you find him, he may return the map to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Gléowine is by the barracks in Snowbourn.\\n\\nYou have recovered Gléowine's map and should return it to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Horn is by the barracks in Snowbourn.\\n\\nYou have returned Gléowine's map and should now speak with Horn about your preparations to travel to Wildermore.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Aldor Harding is in the Mead Hall of Harwick, in the Wold.\\n\\nFastred has no men to spare in an investigation of Wildermore, and has sent you to give Harding the unfortunate tidings.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced8",
+      "en": "Gléowine is on the wooden porch outside the Mead Hall in Harwick, in the Wold.\\n\\nGléowine wishes to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "'Ah, you found my map! Thank you! I hope it was not too much trouble.'\\n\\nGléowine unrolls the parchment and wistfully traces a finger along its surface.\\n\\n'The life of a minstrel is more than just music and songs, [placeholder]. I served in the court of Théoden King for so long I came to forget the roads I walked in my youth. But now, well into my elder years I will once again tread the roads of Rohan, and live the travelling life. How many of the places on this map will I see before my feet stop once more, and for good?\\n\\n'Who can say? Yet I know what I, Gléowine, can say: I am pleased to make the journey with friends, both old and new.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'My friend Britred left Snowbourn by the south gate, and said he was going on an adventure! If you hurry you might catch up to him before he goes too far!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852591",
+      "en": "'Where is my map?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'I see you found Gléowine's map. That did not take very long at all, [placeholder]. I have just returned from collecting his bag of sundries, and it was quite a task to accomplish!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Gléowine is not a young man, and his skill at riding may be relatively untested. I hope he is able to keep up with us on the road.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'We ride for Harwick, in the Wold? Perhaps Aldor Harding has learned something of the state of Wildermore since he dispatched his messenger hither.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'It appears that Gléowine may be feeling better. Time heals, after all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'If Gléowine's map was so precious to him, why did he abandon it? Is that the way of Man, to give up hope at the first sign of sorrow or hardship?\\n\\n'Ah, I know it is not. Our travels with Horn have shown me that the race of Man has some resilience in it, after all! But it is not so with everyone, perhaps.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c47",
+      "en": "'The boy left Snowbourn by the south gate? You should catch up to him, if you can, and ask for him to return Gléowine's map.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c470",
+      "en": "'We should ride for Harwick, in the Wold. We will speak with Aldor Harding and learn if he has any more information about what is going on in Wildermore.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c48",
+      "en": "'Master Gléowine, are you feeling better?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c471",
+      "en": "'Speak to the children of Snowbourn. It could be that one of them knows what became of Gléowine's map.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 10, Chapter 3: No Word from Wildermore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c49",
+      "en": "'You found my master's map! Very good!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c472",
+      "en": "'My master will not forgive himself if any harm comes to the boy on account of that map. Leave Snowbourn by the south gate and recover the map from this would-be adventurer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c473",
+      "en": "'I think Harding took it rather well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c474",
+      "en": "'The prospect is a daunting one, but I believe I am ready for a bit of travel.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

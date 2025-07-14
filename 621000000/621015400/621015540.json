@@ -1,0 +1,557 @@
+{
+  "id": 621015540,
+  "txt": [
+    {
+      "id": "0xda4b073",
+      "en": "'F12' will hide all User Interface elements.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b074",
+      "en": "'Ctrl' + 'F1' through 'F6' will show and hide individual inventory bags.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b076",
+      "en": "Use the HELP option on the System menu to access FAQs, request support, or file a bug (F7). ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0740",
+      "en": "Is the User Interface too small? Too big? Change its scale in the UI Settings tab of the Options Panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b078",
+      "en": "Use 'Alt+F10' to toggle your lantern while outside at night.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0741",
+      "en": "Press 'Ctrl' + 'T' or use inventory toggle lock mode to enable or disable the sell lock status of an item in your inventory.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0742",
+      "en": "At Level 15, you can buy your own house! Visit a Housing Broker near Michel Delving, South of Bree, Duillond, Thorin's Halls, or at Bree's Boar Fountain.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0743",
+      "en": "When your Kinship reaches Lifespan Rank 7, your Leader can purchase a special Kinship House.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0744",
+      "en": "When you own a home you can decorate it, purchase extra storage, and invite your friends to come and visit.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0745",
+      "en": "Owning a house in a Neighbourhood gives you a discount to the vendors there. Remember to buy local!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0746",
+      "en": "Want to let your friends into your house? You can manage Permissions from the House tab of the Character Journal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0747",
+      "en": "Don't forget to maintain your house. Pay upkeep by the week or a couple in advance from the House panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0748",
+      "en": "You can open the House Management UI from the Character panel (C). Use it to pay upkeep.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0749",
+      "en": "Mark enemies more quickly! You can now bind the fellowship target marking commands to any key.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0750",
+      "en": "You can toggle floating player, NPC, and item names by pressing the 'N' key.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0751",
+      "en": "You can change all tooltips to be mouse relative by modifying your Options (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0752",
+      "en": "You can disable involuntary emotes in the Options panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0755",
+      "en": "Tired of getting tutorial pop-ups? You can toggle them off in the Options Panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0757",
+      "en": "You can toggle off visual notification for combat responses as an option in the Options Panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0758",
+      "en": "There is an option to view the vitals of your Target's Target in the Option Panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0759",
+      "en": "There is an option to display your skill queue in the Options Panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0760",
+      "en": "You can drag and drop items into the Auction 'Item Name' field to populate it with the name for searches.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0761",
+      "en": "Enable the 'Always Loot All' option in 'UI Settings' to automatically take the contents of containers you open.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0762",
+      "en": "Enable combat state break notices in 'Combat Options' to see who is breaking roots or dazes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0763",
+      "en": "Skirmishes, an instance type unlockable at Level 20, scale to your level and group size.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0764",
+      "en": "Ctrl-J opens your Instance Finder panel and allows you to join dungeon instances and Skirmishes from anywhere in the world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0765",
+      "en": "Marks, Medallions and Seals can be used to purchase gear and traits at a Skirmish Camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0770",
+      "en": "Deeds that are advanced by using offensive skills do not advance when used on trivial difficulty (grey) monsters.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0771",
+      "en": "Keep up with the latest in Middle-earth fashion. You can use the outfit system to customize your look.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0772",
+      "en": "When you 'Equip' an item to an outfit system slot, you don't need to keep the item equipped to keep its appearance!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0773",
+      "en": "You can bind a key to an outfit allowing you to switch cosmetic outfits instantly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0774",
+      "en": "You can enable or disable the ability to fire ranged weapons while running via the Combat Options menu in the Options Panel (Ctrl-O)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0776",
+      "en": "Right-click on the ring next to a quest in the quest tracker to bring up quest tracker options. Find quests near your current location or select a quest for quest guide guidance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0777",
+      "en": "Right-click on a ring in the quest tracker and pick 'Find Others On Quest' to help find people working on that quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0778",
+      "en": "You can use 'Ctrl' + 'right-click' on almost any item icon in the game to create an examination link for the chat window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0779",
+      "en": "You can preview dye colours on clothing in the Dressing Room UI.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0780",
+      "en": "Complete Class Deeds to earn Class Trait Points!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0781",
+      "en": "In order to craft an item, you must have the right tool, the proper ingredients, and be near the appropriate crafting facility.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0782",
+      "en": "Press 'X' to toggle Target Lock-on Mode for your camera.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0783",
+      "en": "Type '/stuck' + 'Enter' or '/unstuck' + 'Enter' to free your character from a stuck location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0785",
+      "en": "Visit the forums at www.lotro.com to keep up on the latest news updates, game information, and community discussions.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07990",
+      "en": "There are many exclusive items available from the LOTRO Store.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07991",
+      "en": "Check the LOTRO Store for weekly sales on specific items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0792",
+      "en": "You can automatically hide the crafting panel when creating new items if you toggle the option on the crafting panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07993",
+      "en": "Many crafting recipes permit you to create different versions of an item from the same recipe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07994",
+      "en": "Visit Lalia's Market near the Boar Fountain in Bree to purchase select cosmetic clothing items and sets.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07995",
+      "en": "Press 'Shift' + 'C' to bring up the Collections Panel. See what Mounts, Cosmetic Pets, and Emotes you have and have yet to collect!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0796",
+      "en": "The Deed seal will change from grey to red in your Deed Log when the Deed has been completed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07997",
+      "en": "You may own a standard house and also any number of premium houses. Each Kinship, however, may only have a single Kinship house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07998",
+      "en": "Talk to a housing broker at Bree's Boar Fountain, in Dol Amroth, or in Minas Tirith to visit a premium housing neighbourhood on the Cape of Belfalas in Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0798",
+      "en": "'Ctrl' + '\\' will allow you to move your vitals and other user interfaces on the screen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b07999",
+      "en": "Lockboxes contain gear, cosmetics, and other useful items. Get keys from the LOTRO Store to open them.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0799",
+      "en": "In a Raid, the Social panel can be used to configure which vitals you want to see.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07a0",
+      "en": "Press 'Enter' or '/' to type in the chat window.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07a1",
+      "en": "The default movement mode is running. Press 'Insert' to toggle between running and walking modes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07a6",
+      "en": "Vault-keepers grant access to your bank, where you can store up to 30 items. Additional storage space can also be purchased.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07a8",
+      "en": "Visit the Quest Grouping tab on the Social Panel (O) to find other players who want to group up for a specific quest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07a9",
+      "en": "You can modify the volume of player generated music in the Option Panel (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07b1",
+      "en": "The Quests/Deeds Tracker allows you to display the current objectives of up to five quests or deeds at any given time.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07b3",
+      "en": "Press 'T' to display the Crafting Panel, where you can view all the details related to creating your own items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07b5",
+      "en": "Press 'Shift + L' to display the Deed Log, where you can view completed deeds and the rewards that you can receive.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07b7",
+      "en": "Press the 'Num Lock' key to toggle autorun ON or OFF.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b07b8",
+      "en": "In most instances, you will find an option to leave an Instance by right clicking on your portrait.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079c0",
+      "en": "Key Mapping in the Options panel will allow you to reset default key mappings and bind common actions to your favorite key. Dismount / Remount, select next item, follow selection, and the /music system notes are some favourites.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079c1",
+      "en": "'Alt' + 'R' will open the Filter Panel, allowing you to filter out unwanted loot, quests or sounds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079c2",
+      "en": "Control chat window opacity and the sizes and colors of different types of chat text in the Options Panel - Chat tab.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079c7",
+      "en": "You can change the hover-over delay until a tooltip appears in the Options Menu (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0711",
+      "en": "Avoidances increase your chances of avoiding attacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0712",
+      "en": "Resistances increase your chances of avoiding certain harmful effects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0713",
+      "en": "Mitigations reduce the amount of damage you take from specific damage-types.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0714",
+      "en": "You can improve the skills and strengths of your Skirmish Soldier by purchasing new Traits and Skills at the Skirmish Trainer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0715",
+      "en": "Your characters have access to a shared storage vault that allows them to share inventory items.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0716",
+      "en": "Additional Shared Storage slots can be unlocked on the LOTRO Store.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0717",
+      "en": "Your characters have access to a Wardrobe that allows them to cosmetically share clothing and armour.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0718",
+      "en": "98 Additional Wardrobe slots can be unlocked from the LOTRO Store.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4b0719",
+      "en": "Many instances are scalable to your level and include unique rewards at different tiers (CTRL-J).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e0",
+      "en": "In the Options panel you can enable a directional selection arrow to guide you to your selection (Ctrl-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e1",
+      "en": "In the Options panel you can enable skill target forwarding to use appropriate skills on your target's target.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e2",
+      "en": "You can control the visibility and display density of frills (grasses, flowers, reeds) in the Options panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e3",
+      "en": "You can disable rain or snow by toggling precipitation effects in the Options panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e6",
+      "en": "Showing your selection's target vitals can be used for targeting and can be useful when skill target forwarding is enabled. Enable it in the Options panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e7",
+      "en": "In the Options panel you can enable an assist window that displays targets specified by the fellowship leader (CTRL-O).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e8",
+      "en": "You can enable movement assistance in combat to move you to your skill's target in the Options panel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079e9",
+      "en": "In the Options panel you can toggle 'move to use' to determine whether you move toward your selection when you try to use it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f0",
+      "en": "If you frequently play with the same friends, set auto-fellow by right-clicking a character name in the friends tab of the social panel. If both characters have this option set you will automatically be fellowed at login whenever your friend is also logged in.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f1",
+      "en": "'Alt + F' will open a find items dialog. You can use it to search for a full or partial item name in all open storage panels (inventory, vault, shared storage, etc).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f2",
+      "en": "'/raid locks' will list all raids or instance chests currently locked for your character along with reset time information.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f3",
+      "en": "Right-click your character portrait display to select a custom frame, toggle various UI panels, or engage with the music system if you have an instrument equipped.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f4",
+      "en": "You can control in-game voice chat volume for any fellowship member individually by clicking on the audio icon on their fellowship vital to display a volume slider.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f5",
+      "en": "'/ui layout save' will allow you to save your current ui layout to a file on your computer. Use '/ui layout load' to restore a layout or load it on another computer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b079f6",
+      "en": "The search field in many panels (skills, options, quest log, deed log, titles) will reduce the displayed items to only those matching your search.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda4b072",
+      "en": "The 'H' key will pin the tooltip you are currently viewing. You can pin multiple tooltips at once, which can be useful for tracking and quickly selecting foes or friends.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

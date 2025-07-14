@@ -1,0 +1,185 @@
+{
+  "id": 621105769,
+  "txt": [
+    {
+      "id": "0xeb011a0",
+      "en": "You arrived at the mouth of the river Talmûri told you about. Investigate the area and see if you can find any clues as to what may be causing the water to be poisoned.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a9",
+      "en": "The tracks are faded but appear to lead further up the river",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "You found more tracks along the river. Investigate them to see what you can learn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "A Tainted Flow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "You spot some tracks near the mouth of the river. Maybe they hold some clues",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "Talmûri has asked for your help investigating claims of a poisoned water source in the area. Travel north-west to the mouth of the river to see if you can find any clues as to the cause of the tainted water.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Continue your search up the river",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'Oh, [placeholder]. I am glad to see you. We are in need of help from someone with your skills.\\n\\n'There is a river to the north-west of here, and there have been claims that the water coming from it is being poisoned. With the recent attacks by Bârshud II, farmers here fear it may be the work of Ekhamâti soldiers. We would not stand a chance against them if the rumours are true. Can you investigate the river and see if you can find anything?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Search further up the river",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'You have returned! Did you find the source of the poisoned water?'\\n\\nYou inform Talmûri of the dead animals you found and that you removed them.\\n\\n'Animal carcasses you say? So it was not Ekhamâti soldiers after all? That is a relief to hear, and I am glad you were able to remove them. Our waters should flow clean again soon. Thank you, kind [placeholder] for all your help.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b2",
+      "en": "Tracks investigated ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Remove animal carcasses ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b5",
+      "en": "You see more tracks along the river. These appear less faded than the others",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "You arrived at the mouth of the river Talmûri told you about. Investigate the area and see if you can find any clues as to what may be causing the water to be poisoned.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d12",
+      "en": "Talmûri has asked for your help investigating claims of a poisoned water source in the area. She suspects it may be the work of Ekhamâti soldiers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Return to Talmûri in Burukíri and let her know it wasn't Ekhamâti soldiers poisoning the river, it was only animal carcasses that began to rot in the water.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "You found tracks near the mouth of the river Talmûri told you about. They pointed further upstream. Follow the river to see if you can find any more indications of the poison's source.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Investigate tracks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Location 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "You found more tracks along the river. Investigate them to see what you can learn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50294",
+      "en": "Reach location 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1192",
+      "en": "These tracks appear to be from an animal. They continue to point upstream",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Investigate tracks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5026",
+      "en": "Return to Talmûri in Burukíri",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "You found more tracks that point even further upstream. You have to be getting close now. Follow the river to find the source of the poison.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Reach the mouth of the river",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "You discovered the source of the poisoned water to be rotting animal carcasses. Remove them to stop river's water from being tainted.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a0",
+      "en": "Tracks investigated ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a4",
+      "en": "You see two animal carcasses. That must be the source of the poisoned water",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "Animal carcasses removed ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

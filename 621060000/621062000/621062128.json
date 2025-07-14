@@ -1,0 +1,791 @@
+{
+  "id": 621062128,
+  "txt": [
+    {
+      "id": "0x8e11bd2",
+      "en": "<rgb=#FF0000>Oh no, all of the finale fireworks have launched early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb366683",
+      "en": "'Many trolls fell by our deeds.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb366684",
+      "en": "'Those trolls on the rocks above us nearly ambushed us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x495cb81",
+      "en": "'We are not far from my farm! You should visit again some time!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb366685",
+      "en": "'Did you hear that? That is the sound of a job well done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x495cb82",
+      "en": "'I still think about all those cursed Orcs you helped me escape from, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x495cb83",
+      "en": "'It was a terrible time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502922",
+      "en": "Set up the fireworks display at the first launch location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502925",
+      "en": "Thwart nosey hobbits",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502926",
+      "en": "<rgb=#FF0000>The volunteer must finish their task!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be0",
+      "en": "Picked up fireworks crates ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502929",
+      "en": "Pick up more fireworks crates ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011884",
+      "en": "Talk to Gandalf the Grey to launch the fireworks display.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be3",
+      "en": "The fireworks display is getting there!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be4",
+      "en": "Thwarted nosey hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be7",
+      "en": "<rgb=#FF0000>The volunteer has given up!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502932",
+      "en": "Set up the fireworks display at the second launch location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502934",
+      "en": "<rgb=#FF0000>The volunteer must finish their task!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3edcf81",
+      "en": "'Hullo there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3edcf82",
+      "en": "'Do you remember that time I'd gotten myself into a spot of trouble?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502937",
+      "en": "Pick up even more fireworks crates ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb09f275",
+      "en": "'Let's launch those fireworks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3edcf83",
+      "en": "'Those tricky bugans looked like me but shared no blood!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19f00e1",
+      "en": "'I apologize if I have kept you waiting! I am here now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf0",
+      "en": "Picked up fireworks crates ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19f00e2",
+      "en": "'Let us begin!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf3",
+      "en": "The fireworks display is really coming together!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf5",
+      "en": "<rgb=#FF0000>The volunteer has given up!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bf8",
+      "en": "Picked up fireworks crates ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb1aaf51",
+      "en": "'Mae govannen.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a1",
+      "en": "Set up the fireworks display at the first launch location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3e811",
+      "en": "'All right. Let's go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3e812",
+      "en": "'Do you remember that hellish place of worms where we first met?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3e813",
+      "en": "'I still curse those blood-smelling beasts!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3e814",
+      "en": "'It was not luck but skill that saved us that day.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d3e815",
+      "en": "'It was my pleasure to help. It was no trouble at all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97a58e1",
+      "en": "'What dangerous explosives shall we be handling today!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a8",
+      "en": "Pick up more fireworks crates from the cart.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x97a58e2",
+      "en": "'I never have thought we would meet again, and such a distance from the Deep Descent!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4575da1",
+      "en": "'I do not like this Man. Be on your guard!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502953",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502956",
+      "en": "Talk to Gandalf the Grey",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00dde1",
+      "en": "'I regret to inform you that I have mistakenly lit the fire fireworks a bit early!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118b1",
+      "en": "Set up the fireworks display at the second launch location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00dde2",
+      "en": "'I did not intend for this to happen!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502959",
+      "en": "Pick up fireworks crates ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00dde3",
+      "en": "'I'm sorry, sorry, so sorry about this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc00dde4",
+      "en": "'My goodness, you succeeded!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118b6",
+      "en": "Pick up even more fireworks crates from the cart.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3d53e1",
+      "en": "'I would have been here sooner. Farm chores had delayed me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3d53e2",
+      "en": "'Time to work. This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118b9",
+      "en": "Set up the fireworks display at the final launch location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'A wonderous celebration indeed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f5",
+      "en": "'Well done, well done indeed! Now, let the celebration commence!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e2ab21",
+      "en": "'Fine, I will leave. Good day.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e2ab22",
+      "en": "'If you could get the fireworks celebration underway, that would be splendid!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e2ab23",
+      "en": "'No time for questions?! I suppose there is a first time for everything!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x668a951",
+      "en": "Encounter: An old ruffian hermit demands answers!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c35c81",
+      "en": "'Who is this Man?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x668a952",
+      "en": "Encounter Complete: You have resolved the noise complaint!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118d4",
+      "en": "Talk to Gandalf the Grey.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118d8",
+      "en": "Pick up fireworks crates from the cart.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94557e1",
+      "en": "'Let's get to it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d2ce81",
+      "en": "'I never have thought we would meet again, and such a distance from the Deep Descent!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a68381",
+      "en": "'Oi! That fellow seems unfriendly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d2ce82",
+      "en": "'Do you remember that time I almost became goblin-stew?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d2ce83",
+      "en": "'We certainly made goblin-stew out of those goblins!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d2ce84",
+      "en": "'I also made my father proud that day in returning safe and sound.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d2ce85",
+      "en": "'Thank you for your help.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90099d1",
+      "en": "'Hullo! Where are you going?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2862d61",
+      "en": "'It is I, Lalia, your prince! Ha ha, I jest!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90099d2",
+      "en": "'That is a lot of fireworks you have got there! Is that dangerous?!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2862d62",
+      "en": "'I thank you for returning my cloak to my Pa, Bob!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x90099d3",
+      "en": "'Are you setting up for the fireworks celebration?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2862d63",
+      "en": "'I was in a terrible state upon the Barrow-downs. Ghastly figures were everywhere in the mist!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2862d64",
+      "en": "'We were lost and Butterbur's stories became more than real, and more than I bargained for!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1ad001",
+      "en": "'Oh my! I forgot the show hadn't started yet and lit the fireworks early!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1ad002",
+      "en": "'Oh dear.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1ad003",
+      "en": "'You will prevail!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd1ad004",
+      "en": "'Ha! I knew you could do it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe736071",
+      "en": "'Do you remember the half-orcs of Barad Morlas?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b97",
+      "en": "The first volunteer has arrived to assist with the fireworks display!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe736072",
+      "en": "'I do not like to recall the time they captured me, yet I remember your deeds led to my escape.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe736073",
+      "en": "'Our heroics made certain the half-orcs of Barad Morlas took not another captive!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe736074",
+      "en": "'Thank you for your assistance in setting up this fireworks celebration!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fa991",
+      "en": "'Hail, Hobbit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa55281",
+      "en": "'Greetings!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff9a5e1",
+      "en": "'I might have gotten a bit carried away and lit the fireworks early.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa55282",
+      "en": "'I'll do my best to keep up.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff9a5e2",
+      "en": "'This isn't good.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff9a5e3",
+      "en": "'I've made a mistake, haven't I.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff9a5e4",
+      "en": "'Well done! Well done indeed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "What a perfect evening for a fireworks celebration!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82eb501",
+      "en": "'This will be fun!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x132d21",
+      "en": "'I have even more questions for you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x132d22",
+      "en": "'Do you think the weather will hold out for the celebration?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x132d23",
+      "en": "'How high in the sky has a firework ever flown?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8e1",
+      "en": "'I'll do my best to keep up.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8e2",
+      "en": "'All my talk about my sword and I did not even bring it with me today!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8e3",
+      "en": "'Do not worry, my family's prized sword is safe and sound.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8e4",
+      "en": "'Seems I'm not useless without my sword after all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdc8e5",
+      "en": "'I best be off then. I ain't had a myself a square meal since breakfast!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e17a1",
+      "en": "'Ah, there you are. Right on time!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dbfa11",
+      "en": "'I am here to assist!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e17a2",
+      "en": "'Well done! Another helper should be arriving in a moment or two.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4dbfa12",
+      "en": "'Follow me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e17a3",
+      "en": "'This is as far as I will bring the cart. Come see me after you have finished.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502900",
+      "en": "Set up the fireworks display at the final launch location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e17a4",
+      "en": "'Ah ha!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502902",
+      "en": "<rgb=#FF0000>The volunteer must finish their task!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502906",
+      "en": "Talk to Gandalf the Grey to launch the fireworks display",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502908",
+      "en": "<rgb=#FF0000>Do not let all of the finale fireworks launch early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc1",
+      "en": "The fireworks display is ready to launch!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc3",
+      "en": "<rgb=#FF0000>The volunteer has given up!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd1",
+      "en": "'The Elf's tales are preventing you from setting up the fireworks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd2",
+      "en": "'Gandalf and his fireworks cart have come to assist you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd3",
+      "en": "'The helper's tales are preventing you from setting up the fireworks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd4",
+      "en": "'With the fireworks finally secure, the fireworks celebration can begin!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc7",
+      "en": "The fireworks celebration has begun!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a5",
+      "en": "'Greetings, [placeholder]. I am glad you have come to assist with this evening's fireworks display.\\n\\n'The display will be well attended, for many have come to Bree Town to view tonight's marvellous celebration. We must not disappoint them! Let us now carefully set up the fireworks display. We must be both careful and quick, for the sun is setting.\\n\\n'Do not worry, you will not be alone in your endeavours this evening. I have requested additional assistance from our many friends. Now then, let us begin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd5",
+      "en": "'Quickly, stop the fuses from reaching the fireworks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502911",
+      "en": "<rgb=#FF0000>Do not let all of the finale fireworks launch early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd6",
+      "en": "'The fuses have reignited!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bc9",
+      "en": "<rgb=#FF0000>Oh no, all of the finale fireworks have launched early!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3618fd7",
+      "en": "'You have successfully stopped all the fireworks from being lit early!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7b7271",
+      "en": "'I am here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7b7272",
+      "en": "'All right. Let's go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11bd0",
+      "en": "Thwarted nosey hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb366681",
+      "en": "'We are much less haggard from our encounters on today's errand!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1fae5",
+      "en": "A Flurry of Fireworks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb366682",
+      "en": "'Do you remember all the trolls that we encountered?''",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

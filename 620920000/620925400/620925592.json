@@ -1,0 +1,365 @@
+{
+  "id": 620925592,
+  "txt": [
+    {
+      "id": "0xa8e1191",
+      "en": "You retrieve a pile of iron goods from the barrel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a31",
+      "en": "Carry the barrel of iron goods from Helm's Dike to Aragorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e25",
+      "en": "Use the mat near Aragorn to sort through the iron goods",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50240",
+      "en": "Talk to Gamling at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'There you are, my friend! I am glad to see you before I leave. I am going to ride from the Dike and see what I can tell of Saruman's forces. There may be some weakness in their ranks we will be able to exploit, but until I see his armies on the march all we have is rumour and fear. I will return before long, and tell you what I have seen.\\n\\n'Do not fear! I will return before the battle is joined, and perhaps with news that can help us. Stand strong and inspire the Men of Rohan, [placeholder]! I know you will not let them down.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'Corudan wished to speak with you before he left to scout the forces of Saruman. He said he would wait for you at Helm's Dike.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "With a third of the goods set out on the mat, you see little of use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Pick up the barrel of iron goods near Gamling, in Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'We have been fortunate so far, [placeholder]. Farmers of Westfold have brought more iron goods for us to use. Carry one of these barrels of iron goods to your friend Aragorn, outside the walls of the Hornburg. He has been sorting through the barrels for anything of use in preparing the defences.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'I will see you again. I will only be gone for a short time, and will return before the battle is joined.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50245",
+      "en": "Talk to Aragorn outside the keep of the Hornburg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'Aragorn will be pleased to receive another barrel of iron goods. Bring it to him outside the keep of the Hornburg.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Barrels of iron goods from the farmers of Westfold can be found outside the keep of the Hornburg, near Aragorn.\\n\\nAragorn has asked you to sort through an iron goods barrel using one of the nearby sorting mats.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Use the mat near Aragorn to sort through the iron goods",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'I am glad more barrels of iron are coming into the Deep, but there is no certainty that we will be able to make use of their contents. It is worth the wager. Thank you for bringing this all the way here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'Weapons are in short supply here. Erkenbrand had a small amount for the garrison, but his men took most of the weapons and armour with them when they rode to the Fords, and most of them have not returned. Théoden has called for the people of the Westfold to send as many iron goods as they can spare to the Deep. It is not much, but we may be able to fashion weapons and crude armour from these iron goods in the hours we have before the battle is joined.\\n\\n'Search through one of the barrels of iron goods, and sort its contents on the nearby mat. Any strong iron could be useful, but we need to know what we have available.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'You should return to Aragorn outside the keep of the Hornburg and see what else needs to be done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Aragorn is desperate to ensure that the Hornburg is well-defended before Saruman's forces arrive.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "You can use one of the mats near Aragorn to sort the iron goods contributed by the farmers of Westfold.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'The farmers of Westfold have contributed barrels of iron goods. Sort through the iron goods on the nearby mats, for there may be some use we can make of their contents.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to Éomer outside the keep of the Hornburg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Pick up one of the training dummies near Éomer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'I have had an idea, friend. While watching the men training, I realized something interesting: from a great distance, I could not tell if a man was training with a straw dummy or if his opponent was merely parrying his blows without a great deal of motion. If I, with the keen eyes of my people, could not tell the difference, what would one of Saruman's ill-bred minions make of it?\\n\\n'I think we should carry some training dummies to the top of the wall, [placeholder]. It will make our numbers seem the greater, and any arrow wasted upon a dummy is one which could have struck a fighting man. That is a trade worth any amount of heavy lifting!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'Éomer has had a very cunning idea. I think you should speak with him and help carry it out. It is very clever and may save some lives before the Orcs realize what we have done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Legolas is atop the wall.\\n\\nYou have carried a training dummy to the top of the wall and Legolas has caught your eye.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Retrieve iron goods from a barrel near Aragorn, outside the keep of the Hornburg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'That is a clever idea, if it proves successful. Unless Saruman's armies turn aside for some reason I cannot tell, they will arrive at the Deep during the hours of darkness. They will not be able to tell the difference between these dummies and the defenders atop the wall until they get very near to the wall. And by then I will have claimed many lives of Orcs.\\n\\n'I spoke for a time with your friend Corudan. I met his sister when we stayed in Lothlórien. If Sigileth were here, with her deadly knives, the Orcs would have a great deal to fear! While I am wishing for unlikely happenstance, why not hope for the arrival of an army of my own kin? That would be a sight indeed! But they are far from here, and have their own concerns and their own lands to defend. The Rohirrim are on their own. They will have to make do with two Elves, one dwarf, and two Men.\\n\\n'Speaking of Corudan, he wanted me to send you to him. He rode down to the Dike, and said he wished to see the approaching armies with his own eyes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Talk to Legolas atop the wall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'You should check on your Elf friend atop the wall, where you brought the training dummy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50259",
+      "en": "Talk to Corudan by his horse at Helm's Dike",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Corudan has gone down to the Dike, beyond the walls of the Hornburg.\\n\\nLegolas told you that Corudan planned to scout the armies of Saruman, and you should speak to him before he leaves.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Use the mat near Aragorn to sort through the iron goods",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a2",
+      "en": "'Use the mat right over there to sort through the iron goods contributed by the farmers of Westfold. There may be something we can use in the defence, and if there is I want to be certain we find it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Gamling is at Helm's Dike.\\n\\nThere is always work to be done to get ready for battle, and Gamling will tell you what he needs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "Gamling has asked you to carry a barrel of iron goods from Helm's Dike to Aragorn outside the keep of the Hornburg.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e91",
+      "en": "You drop the training dummy. It will do no good here",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a6",
+      "en": "'Use the mat right over there to sort through the iron goods contributed by the farmers of Westfold. There may be something we can use in the defence, and if there is I want to be certain we find it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Aragorn is outside the keep of the Hornburg, and wishes to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1164",
+      "en": "You set down the barrel of iron goods, and Aragorn nods gratefully",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'I think we should carry some training dummies to the top of the wall, [placeholder]. It will make our numbers seem the greater, and any arrow wasted upon a dummy is one which could have struck a fighting man. That is a trade worth any amount of heavy lifting! Pick up one of the dummies and carry it to the top of the wall by your friend Legolas.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56855",
+      "en": "'That is a clever idea, if it proves successful. Unless Saruman's armies turn aside for some reason I cannot tell, they will arrive at the Deep during the hours of darkness. They will not be able to tell the difference between these dummies and the defenders atop the wall until they get very near to the wall. And by then I will have claimed many lives of Orcs.\\n\\n'I spoke for a time with your friend Corudan. I met his sister when we stayed in Lothlórien. If Sigileth were here, with her deadly knives, the Orcs would have a great deal to fear! While I am wishing for unlikely happenstance, why not hope for the arrival of an army of our own kin? That would be a sight indeed! But they are far from here, and have their own concerns and their own lands to defend. The Rohirrim are on their own. They will have to make do with three Elves, one dwarf, and one Man.\\n\\n'Speaking of Corudan, he wanted me to send you to him. He rode down to the Dike, and said he wished to see the approaching armies with his own eyes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'That is a clever idea, if it proves successful. Unless Saruman's armies turn aside for some reason I cannot tell, they will arrive at the Deep during the hours of darkness. They will not be able to tell the difference between these dummies and the defenders atop the wall until they get very near to the wall. And by then I will have claimed many lives of Orcs.\\n\\n'I spoke for a time with your friend Corudan. I met his sister when we stayed in Lothlórien. If Sigileth were here, with her deadly knives, the Orcs would have a great deal to fear! While I am wishing for unlikely happenstance, why not hope for the arrival of an army of my own kin? That would be a sight indeed! But they are far from here, and have their own concerns and their own lands to defend. The Rohirrim are on their own. They will have to make do with two Elves, one dwarf, a hobbit, and a Man. It is to be hoped that will be enough!\\n\\n'Speaking of Corudan, he wanted me to send you to him. He rode down to the Dike, and said he wished to see the approaching armies with his own eyes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'That is a clever idea, if it proves successful. Unless Saruman's armies turn aside for some reason I cannot tell, they will arrive at the Deep during the hours of darkness. They will not be able to tell the difference between these dummies and the defenders atop the wall until they get very near to the wall. And by then I will have claimed many lives of Orcs.\\n\\n'I spoke for a time with your friend Corudan. I met his sister when we stayed in Lothlórien. If Sigileth were here, with her deadly knives, the Orcs would have a great deal to fear! While I am wishing for unlikely happenstance, why not hope for the arrival of an army of my own kin? That would be a sight indeed! But they are far from here, and have their own concerns and their own lands to defend. The Rohirrim are on their own. They will have to make do with two Elves, two dwarves, and one Man.\\n\\n'Speaking of Corudan, he wanted me to send you to him. He rode down to the Dike, and said he wished to see the approaching armies with his own eyes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "You can use one of the mats near Aragorn to sort the iron goods contributed by the farmers of Westfold.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "You set the dummy atop the wall and hope it will draw fire away from the defenders",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b9",
+      "en": "'Use the mat right over there to sort through the iron goods contributed by the farmers of Westfold. There may be something we can use in the defence, and if there is I want to be certain we find it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "You can use one of the mats near Aragorn to sort the iron goods contributed by the farmers of Westfold.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "With most of the goods set on the mat, you still see little of use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a20",
+      "en": "Carry the training dummy to the top of the wall by Legolas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "Éomer is outside the keep of the Hornburg.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "With all of the goods set on the mat, you see one or two useable pieces",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "Éomer has asked you to carry one of the nearby training dummies up to the wall by Legolas, the better to draw fire away from the defenders.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Book 13, Chapter 2: Final Preparations",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

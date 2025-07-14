@@ -1,0 +1,65 @@
+{
+  "id": 620775744,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "this will test failure detection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b6d014",
+      "en": "You have failed the quest",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "thanks for talking to me",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "talking again",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Detection Failure",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "This will test detection failure.  If you are detected at any time by the hotspot this quest should fail",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "you failed due to the completer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "you failed due to the hotspot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Being detected by the Quest Completer will fail this objective.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "the quest completer should NOT fail this objective",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

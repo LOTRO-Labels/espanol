@@ -1,0 +1,335 @@
+{
+  "id": 620916697,
+  "txt": [
+    {
+      "id": "0xceb0113",
+      "en": "The farmers are gathering near the barn, and are concerned that Ragnold may not be safe. He was on the far side of the farm when the western side was attacked.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "The Warg-riders at Edsig's Farm were disrupted by your efforts, and their organized raids on the farms should stop. The farmers should finally be able to repair Thrymm's Farm and begin work on the fields.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "The rebuilding of Thrymm's Farm is underway. Oter has brought tools to the fields, and would like your help preparing the fields to produce crops for Forlaw.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Follow Oter to the centre of Thrymm's Farm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'A few of the tools you collected were in pretty good shape, and should help us prepare these fields. Torwulf and Siric took tools out to the far field with them to begin working. Lets hurry over there to help them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Something isn't right. This eerie silence gives me the chills.... It got awfully quiet, as if every bug and animal in the area stopped making sounds just now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'We are in trouble. They have us surrounded! The only way we can survive is to fight. There is no way we can escape this time....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Follow Oter to the western fields",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b0",
+      "en": "<rgb=#FF0000>You let Torwulf die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "<rgb=#FF0000>You let Siric die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b2",
+      "en": "<rgb=#FF0000>You let Ragnold die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Defeat Warg-riders from the south ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e112",
+      "en": "Warg-riders defeated ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "Warg-riders defeated ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Oter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Ragnold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Defeat Warg-riders from the west ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Oter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Defend Thrymm's Farm from the final assault",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Observe what Laudh has to say",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c60",
+      "en": "'These farmers evaded me, but will be my captives now. Captain, kill this [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c61",
+      "en": "'Núrzum is indestructible, and with his artifact he will easily conquer Wildermore.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c62",
+      "en": "'There is nothing you can do to stop him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Speak to Oter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c63",
+      "en": "'You are strong, but that captain can be replaced. It was a test, and he failed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "<rgb=#FF0000>Do not let any farmers die</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c64",
+      "en": "'Despite your \\qvictory\\q, these pesky farmers are mine. You will not stop me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c65",
+      "en": "'Go tell that old man that more of his land has fallen... or you can stay and burn with this farm.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c66",
+      "en": "'Either way, Wildermore will fall to Núrzum and his weapon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c67",
+      "en": "'Run toward the barn! We will gather and fight there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a6c68",
+      "en": "'I hope my brother is all right!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The rebuilding of Thrymm's Farm is underway. Oter has brought tools to the fields, and would like your help preparing the fields to produce crops for Forlaw.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Cut?  Do I need this?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "The farmers were prepared to begin working the fields, but the enemy has begun a surprise attack on Thrymm's Farm!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae2",
+      "en": "<rgb=#FF0000>You let Oter die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Oter and the others have been cornered near the barn. The enemy is burning the farm to the ground. The chances of the farmers escaping and making a run for Forlaw are slim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae3",
+      "en": "<rgb=#FF0000>You let Torwulf die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0fad3",
+      "en": "'We need to stay together if we are to survive this night. There are too many, and they are setting our farm on fire!\\n\\n'My brother is on the far side of this farm unprotected. Please come with me to protect him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Laudh has sent the captain of this band of Warg-riders to attack you and the farmers. He seems intent on capturing the farmers for some nefarious purpose.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae4",
+      "en": "<rgb=#FF0000>You let Siric die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Laudh is capturing the farmers and leaving you at Thrymm's Farm, to either die there or to inform Forlaw of what happened. He is convinced Núrzum will kill you eventually.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba3fae5",
+      "en": "<rgb=#FF0000>You let Ragnold die!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "The enemy is attacking from the south and are trying to trap you and the farmers on Thrymm's Farm while they burn it down.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced8",
+      "en": "The western road is swarming with Warg-riders, and the farmers were forced to retreat toward the barn. They need to stick together if there is any chance to survive this attack.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c1",
+      "en": "'We need to stick together!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c2",
+      "en": "'Warg-riders are coming up the road from the south!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c3",
+      "en": "'What is that sound? Warg-riders! Here they come!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c4",
+      "en": "'There are too many, and they are setting our farm on fire!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c5",
+      "en": "'There are too many. RUN!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c6",
+      "en": "'Ragnold, come to us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c7",
+      "en": "'I'll go guard the barn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c8",
+      "en": "'You cannot escape. We have you surrounded.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x203a6c9",
+      "en": "'You fought bravely here, but you cannot hope to stop Núrzum.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Thrymm's Farm",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

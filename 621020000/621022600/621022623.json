@@ -1,0 +1,341 @@
+{
+  "id": 621022623,
+  "txt": [
+    {
+      "id": "0x2f00ed3",
+      "en": "Bring the glass shard to Gandalf inside the Beorninghús",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e21",
+      "en": "Give the mould to the metalworker by the forges in Járnfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'The key is forged? Then let us see if it opens the box I found in the same place as the mould. I assumed the box belonged to my mother and contained her decorative jewels, but perhaps it is not so.\\n\\n'I have set it on the table there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'My work is finished. I suppose you should bring the newly-forged key to Khîl Tale-spinner.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'Well? Does the key fit in the lock or not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'A shard of glass, no more than a hand's breadth in size? This is the treasure? I do not know what I expected, [placeholder], but I expected more than this! It seems quite ordinary. Why would anyone lock this away, and then break the key?\\n\\n'You told me you were acquainted with Gandalf the Wizard. Perhaps he will know what to make of this broken glass, if there is anything to make of it. I fear you will be wasting his time, but if you think he will not mind it you should ask him anyway. Where has he gone?'\\n\\nYou tell Khîl that Gandalf recently spent some time in the lands far to the south, but the Wizard intended to journey north once again alongside a waggon. He is likely to be at the Beorninghús by now.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'I see the matter of the broken key has captured your interest, as it has mine. I have studied it closely, but that examination revealed no distinguishing marks upon its surface, and no clue to its origin. The top of the key appears to have been broken off, but several teeth remain. Not enough to match the key with a particular lock, however, and unlikely to open it should we chance upon the correct one. Pity.\\n\\n'I will give it back to you, with the hope that you may find someone who knows about this key, or others like it.'\\n\\nGandalf leans on his staff and looks away over the encampment.\\n\\n'I have been thinking about Gothmog's words. He said he was given this key by a Morgul-slave, and it would unlock a weapon that could not be overcome? I cannot imagine what this weapon might be, but we must not let it fall into the hands of evil. And there is another thing, [placeholder]. I get the sense that Gothmog himself did not know what this key might unlock. If he knew the location of such a weapon, would he not claim it at once? But he told you he searched in vain.\\n\\n'There is something peculiar about all this. Good luck, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'The bones of Isildur have come part of the way, but I travelled ahead of the waggon to once again test Grimbeorn's hospitality. He is prone to grumbling, but the meals he serves are without compare on this side of the Misty Mountains. Did you learn anything about the broken key given to you by Gothmog?'\\n\\nYou tell Gandalf what transpired in Járnfast and show him the glass shard you obtained from the locked box in Khîl's home. He studies it closely.\\n\\n'Hmm... a broken piece of glass? This does not appear to be a weapon of any kind. Is it possible Gothmog's key might have unlocked more than one container? Unless...'\\n\\nGandalf holds the shard up to his eye and squints through it.\\n\\n'The glass is cloudy, as if it contains something which obscures my vision. It moves from side to side as I stare at it, almost like...'\\n\\nGandalf looks up suddenly, and clutches at the Black Book hanging from his belt. He flips it open and peers through the shard of glass at one weathered page.\\n\\n'There is hidden writing here, [placeholder]! It is as I suspected from the very outset! I did not think we could find the means to reveal it, but you have done so!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Gothmog gave you a broken key as he died, but you do not know what it might have unlocked when whole. Unless your guess is wrong, it seems as if Gothmog himself did not know.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Metalworkers can be found on the lower level of Járnfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Wait for the metalworker to forge a key using the mould",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'What a surprise, my friend! I did not expect to see you again, and because we are so close I will forgive your unheralded intrusion into my home! Ah, just a jest, a jest! You are welcome here at any time. How goes the examination of the Black Book written by my thrice-great grandfather Vóin? Do not forget that it belongs to me, and if it proves valuable I would welcome payment equivalent to its value.'\\n\\nKhîl gestures at the runes on the walls.\\n\\n'When we first discovered this place it frightened me, but I have found myself coming in here more and more often. I find that the aura here calms and relaxes me. It is not so for Lord Náin! He is still not happy about this chamber, but it is so old and my claim to this home of my forebears is so clear that he dares not do anything about it. For that the Lord of the Iron Hills has my respect, and the stillness of my tongue. Many are the stories I might tell of him were it otherwise, true tales all, though he might not agree. So everyone is happy!\\n\\n'But what brings you here, [placeholder]?'\\n\\nYou show Khîl the broken key, and he studies it carefully.\\n\\n'Do you know something? I think I have seen this shape before. I cannot be certain, but... yes, it is worth a try! It will take me some time to dig it out again, but if you go to one of the metalworkers of Járnfast, I will meet you once I find it. Wait for me by the forges on the lower level of Járnfast, [placeholder]. There you will find the best, and the fastest, of Járnfast's metalworkers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'Have you learned anything about the broken key?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to the metalworker by the forges in Járnfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Talk to Khîl in the hidden chamber in his home",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'Yes, what can I do for you?'\\n\\nThe metalworker looks at you with surprise.\\n\\n'You mean you don't know? Oh, you're waiting for someone. Khîl Tale-spinner? This suddenly makes a great deal of sense. That Zhélruka...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Unlock the tiny locked box in the hidden chamber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e35",
+      "en": "Give the broken key to Khîl Tale-spinner in the hidden chamber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Khîl Tale-spinner is by the forges in Járnfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Talk to Khîl in the hidden chamber in his home",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'I found it, [placeholder]! When I was cleaning out my father's home, I chanced upon this mould and a small locked box. I thought little of these artifacts, and put them away with the rest of the odds and ends. But look at this!'\\n\\nKhîl holds out a small casting mould with a hollow in the shape of a key. The broken key given to you by Gothmog rests comfortably within the indentation.\\n\\n'Using this mould, the metalworkers here could fashion a duplicate of this key, and I warrant it will unlock the box I found, or I am no Zhélruka! Give the mould and these instructions to this fine dwarf, and once the key is forged I will meet you back in the hidden chamber!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "The metalworkers are by the forges on the lower level of Járnfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'This should not take long. I will have a new key forged for you in just a short while.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'I will meet you back at the hidden chamber when the key is forged!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'Disturb me not while I work! This may look easy, but I assure you it is not!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "The metalworker is by the forges on the lower level of Járnfast. He should have finished forging the key by now.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Find someone who knows about the broken key",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'Here you go. May this key unlock whatever it is you seek to unlock.\\n\\n'If the container be of Zhélruka make, perhaps it is better for me to hope that this key will properly lock it away, and rid us of whatever madness Khîl Tale-spinner weaves now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Talk to a metalworker by the forges on the lower level of Járnfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Khîl Tale-spinner by the forges on the lower level of Járnfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Khîl Tale-spinner has returned to the hidden chamber built by his thrice-great grandfather Vóin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Gandalf intended to travel north with the casket containing the bones of Isildur, and should have arrived at the Beorninghús by now. You should bring him the glass shard you found within the tiny locked box from Khîl's home.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01140",
+      "en": "Khîl Tale-spinner is in the hidden chamber built by his thrice-great grandfather Vóin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'Gothmog said he was given this key by a Morgul-slave, and it would unlock a weapon that could not be overcome? I cannot imagine what this weapon might be, but we must not let it fall into the hands of evil. And there is another thing, [placeholder]. I get the sense that Gothmog himself did not know what this key might unlock. If he knew the location of such a weapon, would he not claim it at once? But he told you he searched in vain.\\n\\n'There is something peculiar about all this. Good luck, friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'I think I have seen this shape before. I cannot be certain, but... yes, it is worth a try! It will take me some time to dig it out again, but if you go to one of the metalworkers of Járnfast, I will meet you once I find it. Wait for me by the forges on the lower level of Járnfast. There you will find the best, and the fastest, of Járnfast's metalworkers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'I think you will be wasting the Wizard's time with this. It is just a piece of broken glass. How disappointing!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "You must find someone who knows what the broken key might once have unlocked. But who could hold that secret?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Is it possible that Khîl Tale-spinner might know something about the broken key given to you by Gothmog?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "Khîl Tale-spinner smiles a greeting at you as you approach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "Khîl Tale-spinner hurries toward you, and the metalworker falls silent",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "The metalworker hands you the newly-forged key",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1179",
+      "en": "Gandalf may know what to make of the strange glass shard. Look for him at the Beorninghús",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "The metalworker needs some time to fashion a new key using the mould provided by Khîl Tale-spinner.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "Khîl gives you the mould that matches the broken key",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "Khîl told you about a tiny locked box that he thought his mother used to store jewels, but perhaps it is far older than that...\\n\\nHe has placed it on the table in the hidden chamber, and waits for you to try the newly-forged key in its lock.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "The newly-forged key should now be ready",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "The key clicks in the lock. Inside the box you find a small shard of glass, and nothing else",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Epilogue: An Incomplete Key",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

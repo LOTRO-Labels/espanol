@@ -1,0 +1,83 @@
+{
+  "id": 620904957,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "You are now free to wander in Harwick",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "A guard has spotted you! Prepare to be expelled from Harwick....",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Captain Agelmund has warned you against any unwelcome visits to Harwick that would expressly go against Harding's mandate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Harding is suspicious of outsiders; you aren't the first to meet his ire, and you won't be the last. He clearly does not trust you right now, but think of it this way: At least he did not throw you in jail! I think it is best for you to stay out of Harwick for a little while.\\n\\n'You are now tasked with aiding me, and I won't have you venturing into Harwick on my watch.\\n\\n'Do not disappoint me, [placeholder], or Harding will hear of it.'\\n\\n<rgb=#FF0000>WARNING: Once accepted, this quest cannot be cancelled until you have proven yourself worthy of Harding's trust. Until then, you are to be flagged as an outsider.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "You have been flagged by Captain Agelmund as a trespasser in Harwick.\\n\\nIf you venture into that city, beware the guards -- for you are on notice, and they will banish you on sight.\\n\\n<rgb=#FF0000>To earn Harding's favour, you must assist Captain Agelmund, Sergeant Hubyrt, and Cíllan. Only they can help you gain your welcome to Harwick.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'I am truly sorry for my earlier distrust of you, [placeholder]. I have been scarred by many years of witnessing evil and cruelty in my lands, and the protection of my folk has been my greatest task.\\n\\n'I name you Knight of the Wold, and bid you welcome to my city, as I should have done when first we met!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Thane Harding is in the Mead Hall of Harwick.\\n\\nYou should speak with the Thane, now that you are no longer on notice.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Enter Harwick at your own risk while on notice",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Speak with Thane Harding",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "See to the needs of the refugees of Langhold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Help the guard outside of Harwick's Stables",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "On Notice!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Return to Captain Agelmund at Feldburg",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

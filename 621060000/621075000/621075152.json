@@ -1,0 +1,161 @@
+{
+  "id": 621075152,
+  "txt": [
+    {
+      "id": "0xb568913",
+      "en": "'Welcome to Imloth Melui. If you are here to help, I ask that you seek out Chief Healer Brunil in the Hall of the Gentle Hand. She has been asking for help with something.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568914",
+      "en": "'Ah, [placeholder]! I heard you were quite instrumental in assisting with the defence against the Enemy. I wonder if I might press you into service for something less grandiose, yet just as important to me.\\n\\n'One of my staff has gone missing. Rendis oversaw the care of the medical texts here in the Hall. She always took her job very seriously, so I was quite surprised when she vanished one day, along with many important texts.\\n\\n'I took her for a traitor, but I recently found a note she left behind which might explain her disappearance. Unfortunately, it is written in a medical shorthand unfamiliar to me. Will you take the note to her old teacher? You can find him in the potions wing here in the Hall. He may be able to translate it for us. You will find the note on the table, just there.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011874",
+      "en": "After speaking with Therien and Brenion, you gained some information about Rendis's actions the day she disappeared. You should let Atharon know what you've learned.\\n\\nAtharon is in the Hall of the Gentle Hand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568918",
+      "en": "'Why hello. Yes, I am Atharon. You say you may have a clue to the whereabouts of Rendis? Well, give it here.'\\n\\nYou hand over the encrypted note, which he squints at, nodding.\\n\\n'This is written by Rendis, but I am not sure it helps much. 'Tis merely a list of items she planned to purchase from the market! See here, she planned to speak with Therien and Brenion. Why don’t you seek them out and see what Rendis wanted? They may have some idea of her whereabouts.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e5",
+      "en": "Talk to Brunil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029e6",
+      "en": "Pick up the note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01153",
+      "en": "Merenir has asked you to speak with Chief Healer Brunil in Imloth Melui's Hall of the Gentle Hand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf3",
+      "en": "The Encrypted Note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011885",
+      "en": "Upon reading the encrypted note, Atharon has suggested that you check the market to speak with merchants Rendis mentioned she was going to see.\\n\\nYou should talk to the bag maker and the provisioner in the Imloth Melui market.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d1786",
+      "en": "A shy librarian of Imloth Melui has gone missing, along with numerous invaluable medical texts from the Hall of the Gentle Hand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d1729",
+      "en": "TBD - Atop the towers of the great wall, Rammas Echor, fly the black banners of King Elessar. Time, weather, and war have ripped and shredded their once proud edges.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f1",
+      "en": "Talk to Brenion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f3",
+      "en": "Talk to Therien",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568900",
+      "en": "'Aye, Rendis came by. Haven’t seen her for some time though. She bought seeds and quite a few sacks of grains, breads, and dried meats... and vegetables enough for a feast! Carted it all away without even inviting me to whatever party she was throwing. Now that I think of it, perhaps she wasn’t the one throwing the party. You see, her living quarters were off that way, but she carted off that way!'\\n\\nThe merchant points first towards the east and then to the west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029f7",
+      "en": "Return to Atharon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568902",
+      "en": "'Rendis? Why I haven’t seen 'er in weeks. A fortnight at least... maybe longer, maybe. She was looking for a sturdy bag. Brought a few books of different sizes along - trying 'em out for size, she was. Went with what I call the Big Brown Sack. Sturdy straps on that one. Good for hiking and over-nighting. And books too, apparently. Not sure why anyone would need so many books as all that.\\n\\n'Say - can I interest you in a bag? How's about a sack?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568905",
+      "en": "'You return! Tell me what you discovered. Is Rendis found?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011895",
+      "en": "Brunil has asked you to pick up the encrypted note.\\n\\nThe note is next to Brunil, in the Hall of the Gentle Hand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf00e1a9",
+      "en": "Talk to Atharon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595b0",
+      "en": "'You say you may have an clue to the whereabouts of Rendis? Well, give it here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011899",
+      "en": "Brunil has asked you to bring a note written in a medical shorthand to Atharon, who she thinks can decipher the script.\\n\\nAtharon is in the potions wing of the Hall of the Gentle Hand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595b1",
+      "en": "'You return! Tell me what you discovered. Is Rendis found?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595b2",
+      "en": "'Aye, she came by. Haven’t seen her for some time though.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8595b3",
+      "en": "'Rendis? Why I haven’t seen ‘er in weeks.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859588",
+      "en": "'If you are here to help, I ask that you seek out Chief Healer Brunil in the Hall of the Gentle Hand.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd859589",
+      "en": "'I heard you were quite instrumental in assisting with the defence against the Enemy.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

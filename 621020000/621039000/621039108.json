@@ -1,0 +1,107 @@
+{
+  "id": 621039108,
+  "txt": [
+    {
+      "id": "0x6a502a6",
+      "en": "Use the Call Radhril skill and talk to Radhril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'These half-orcs do not just guard the entrances to the mines. This is a mining operation as well. First, we should find and defeat the overseers of this mining operation. I am sure there will be one stationed at each Delf. We should also destroy what tools they have brought to excavate the mine. I am ready when you are.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Defeat the half-orc overseer ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Use the summoning horn outside the East-delf to summon Radhril to your side.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "You should talk to Radhril.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Destroy mining supplies ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "Destroyed mining supplies ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Destroy mining carts ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "You should defeat half-orc overseers and destroy mining supplies and mining carts.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "Defeated the half-orc overseer ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "Destroyed mining carts ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have been tasked with defeating the half-orc forces gathered at the entrances to the mines of Writhenset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'I commend your efforts, [placeholder]! Come, let us return and report our success to the Free Peoples.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "You should return to the small cabin near the East-delf.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Return to the small cabin near the East-delf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Mission: Invaders on the Delf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Pick up the summoning horn",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

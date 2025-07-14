@@ -1,0 +1,371 @@
+{
+  "id": 620965563,
+  "txt": [
+    {
+      "id": "0xa8e1137",
+      "en": "Took the bucket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf0",
+      "en": "Best Banners Forward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Return to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01172",
+      "en": "You should place the cleaned, wet banners on the poles to dry.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a34",
+      "en": "Bring the bucket to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502955",
+      "en": "Take banners out of the bucket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Take the empty bucket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01176",
+      "en": "You should wash the banners in the bucket of water.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502958",
+      "en": "Hang banners up to dry ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50246",
+      "en": "Fill the bucket at the well",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01178",
+      "en": "Bargwen is in the southern end of Ost Rimmon.\\n\\nYou should talk to Bargwen now that the banners are washed and hung on the poles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1145",
+      "en": "Hung banner on the pole ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a2",
+      "en": "'Go on. Put them in the water, wash them, and hang them up to dry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a4",
+      "en": "'Well? Wash them and hang them up to dry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Gather the banners ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1153",
+      "en": "DNT gather dirty banners ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d1b1",
+      "en": "Lady Glánhar wishes for banners to be hung on Ost Rimmon's walls to deter enemies from an assault.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "'Let me see them. Fah! These are filthy. At least by some miracle they are not moth-eaten. Still, they must be washed. There is a bucket. Take it to the well and bring some water. I will prepare the things we need.\\n\\n'The well is back in the centre of Ost Rimmon, where Lady Glánhar stands.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e85",
+      "en": "You dropped the bucket of water!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a7",
+      "en": "'You're almost done. You need but hang the cleaned banners on the poles.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1157",
+      "en": "DNT clean banners in water ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50260",
+      "en": "Pick up the pile of dirty banners",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50261",
+      "en": "Put the banners in the bucket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50264",
+      "en": "Hang banners on the poles ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be5",
+      "en": "You place the bucket next to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50267",
+      "en": "Wash the banners",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d6ae02",
+      "en": "Bring the bucket to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50210",
+      "en": "Talk to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa502924",
+      "en": "Fill the bucket at the well",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b91",
+      "en": "The water darkens quickly from the banners' dirt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "'Our straw soldiers look fearsome, [placeholder], but something is missing. What is it? Ah, I know. The banners are not hanging. True, they have not hung in many years, but I feel that they must hang now. It tells the barbarians and Orcs out there that we have not abandoned this place and are not hiding. It will make them think again about attempting an assault!\\n\\n'I ask you to return to Bargwen and aid her in restoring the banners to their places. That is all.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01143",
+      "en": "Bargwen is located in the southern end of Ost Rimmon.\\n\\nGo to Bargwen and tell her of Lady Glánhar's wish to restore the banners to the walls.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1167",
+      "en": "You place the bucket next to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b93",
+      "en": "The water darkens even more as the banners become clean",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50214",
+      "en": "Return to Lady Glánhar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'What does she want now? The banners, is it? I should have guessed she would choose the most laborious task short of scrubbing the stables. I have you to help me at least... do I not?\\n\\n'The banners will be stored in the store-house. Bring them to me and we will see what state they are in.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01146",
+      "en": "You should gather the stored banners from the store-house in Ost Rimmon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b96",
+      "en": "Took the banners from the bucket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50271",
+      "en": "Talk to Bargwen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01149",
+      "en": "You should bring the banners to Bargwen, who is in the east end of Ost Rimmon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50272",
+      "en": "DNT gather dirty banners ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b99",
+      "en": "Hung banner up to dry ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50276",
+      "en": "DNT clean banners in water ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a0",
+      "en": "You should place the cleaned, wet banners on the poles to dry.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a1",
+      "en": "You should take the bucket and and fill it at the well in the centre of Ost Rimmon, then bring it back to Bargwen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01152",
+      "en": "You should take the bucket and and fill it at the well in the centre of Ost Rimmon, then bring it back to Bargwen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "Gathered a banner ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb0118a7",
+      "en": "You should bring the banners to Bargwen, who is in the southern end of Ost Rimmon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f5e533",
+      "en": "You dropped the bucket of water!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01158",
+      "en": "You should talk to Bargwen, who is in the southern end of Ost Rimmon.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56869",
+      "en": "'You have given me a moment's rest and not complained. Not loud enough for it to reach my ears, at any rate. I thank you. I myself could never get work done without complaining.\\n\\n'Now I will rouse myself and see that these are properly hung. You may tell Lady Glánhar it is taken care of. Brag of your accomplishments if it suits you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01159",
+      "en": "DNT wash teh banners",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01101",
+      "en": "You should return to Lady Glánhar in the centre of Ost Rimmon and tell her that the banners are ready and will be hung shortly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56813",
+      "en": "'The banners were no trouble? Good. Bargwen is a tireless worker, is she not? Now, at last, I feel we're beginning to present a proud and fearsome face to any foe who creeps up to our door.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56815",
+      "en": "'Go back to Bargwen, please, and assist her in restoring the banners to the walls.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56816",
+      "en": "'The banners are stored in the store-house. When you've gathered them, bring them here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689d6",
+      "en": "'The well is back in the centre of Ost Rimmon, where you came from. Take the bucket there, fill it, and return to me. Honestly, I did not think I would need to repeat each step to you as if you were a child!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56870",
+      "en": "'Good. I have laid all the things out. Take the pile of dirty banners and put them in the water. Wash each one well and then place them on the poles to dry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56818",
+      "en": "'The well is back in the centre of Ost Rimmon, where you came from. Take the bucket there, fill it, and return to me. Honestly, I did not think I would need to repeat each step to you as if you were a child!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "You should put the dirty banners in the bucket of water to wash them.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

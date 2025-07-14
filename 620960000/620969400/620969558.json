@@ -1,0 +1,323 @@
+{
+  "id": 620969558,
+  "txt": [
+    {
+      "id": "0x6a50296",
+      "en": "Talk to Dagoras north of Cirith Negen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Attack the Orc leader at Cirith Negen to signal the other Rangers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ae3",
+      "en": "Accompany Gimli as he (quietly) dispatches the enemy picket",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Survive combat until the Rangers can attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'We have victory! The enemy has been dispersed, and will no longer pose a threat to the Host of the West!\\n\\n'Thank you for your heroism, [placeholder]! I must thank your friend Gimli as well, both for the swing of his axe and the stillness of his tongue during our approach. I know that your people enjoy to bellow when combat is nigh, and keeping your quiet must not have been easy!\\n\\n'We have all done a service for Aragorn this day. I am glad to have made the road safe for the host.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Gimli is standing off the road north of Cirith Negen, waiting to attack the enemy ambushers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'Let us return to Aragorn and report of our success.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'We have come the long way 'round Cirith Negen, [placeholder], and now we are in position to surprise the Orcs and Easterlings before they can attack Aragorn's host.\\n\\n'We will descend upon them in full-throated fury, and send them screaming back to their own lands, or to death!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Your attack on the Orc leader at Cirith Negen will be the signal for Dagoras and the other Rangers to begin the full assault.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have come with Legolas, Gimli, and a number of Rangers to the northern side of Cirith Negen in order to disrupt the Orc and Easterling ambush.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "You need to survive until the Rangers can finish their attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'The Rangers are in position, [placeholder], and so too are the Elves. Now we just need someone to give the signal to attack.\\n\\n'Why don't you walk down the road behind Cirith Negen and let our enemies know they have been outmaneuvered? The time for stealth is over, now that we are ready to launch the attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'We have victory! The enemy has been dispersed, and will no longer pose a threat to the Host of the West!\\n\\n'Thank you for your heroism, [placeholder]! I must thank your friend Gimli as well, both for the swing of his axe and the stillness of his tongue during our approach. I know that dwarves enjoy to bellow, and keeping his quiet must not have been easy!\\n\\n'We have all done a service for Aragorn this day. I am glad to have made the road safe for the host.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08edb4",
+      "en": "Prepare to attack the ambushers with Gimli and Legolas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "You have been spotted by the ambushers, and ruined the plan!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a9",
+      "en": "You have been spotted by the ambushers, and ruined the plan!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "You have met up with Dagoras in the woods north of Cirith Negen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "The Rangers have launched their attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13b1fb1",
+      "en": "'Hey!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13b1fb2",
+      "en": "'We're under attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "You and the Rangers have turned the tables on the ambushers at Cirith Negen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf9b0c1",
+      "en": "'Your attack will be the signal for the rest of us, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf9b0c2",
+      "en": "'The threat has passed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe858ef1",
+      "en": "'Victory!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe858ef2",
+      "en": "'The day is ours!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d31731",
+      "en": "'Well fought, my brother!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe858ef3",
+      "en": "'Let that be a warning to the foes of King Elessar!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd3b801",
+      "en": "'No, Gimli!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd3b802",
+      "en": "'We must maintain our secrecy and remain quiet as we approach.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd3b803",
+      "en": "'The Orcs will have a picket north of the pass. You and [placeholder] need to defeat them... silently!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c001",
+      "en": "'What? But Gandalf said he wanted us to make noise!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd3b804",
+      "en": "'Maybe you could whisper your battle cries, Gimli!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c002",
+      "en": "'You cannot expect me to charge into battle without a battle-cry, Legolas!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd3b805",
+      "en": "'Well done, Gimli! You were as quiet as anyone should have expected, my friend!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c003",
+      "en": "'Whisper! Harrumph.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c004",
+      "en": "'All right, [placeholder]. Let us find these enemy pickets. Quietly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c005",
+      "en": "'Orcs are close, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c006",
+      "en": "'Very good!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c007",
+      "en": "'Another scout!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "The tables have been turned!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c008",
+      "en": "'I think we've been unnoticed so far, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c009",
+      "en": "'There are foes nearby!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Talk to Dagoras north of Cirith Negen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "<rgb=#FF0000>Gimli must not be defeated!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "<rgb=#FF0000>Do not get too close to Cirith Negen before the Rangers are in position</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c0040",
+      "en": "'Someone else approaches!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c0041",
+      "en": "'Finally, no more sneaking around! Let's go, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "<rgb=#FF0000>Do not get too close to Cirith Negen before the Rangers are in position</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x76c0042",
+      "en": "'This is no enemy! It is the Ranger Dagoras.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Ambush",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Talk to Gimli north of Cirith Negen",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

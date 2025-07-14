@@ -1,0 +1,71 @@
+{
+  "id": 620893407,
+  "txt": [
+    {
+      "id": "0x150d6c3",
+      "en": "<rgb=#FF0000>This quest will fail if you complete Call of Honour before completing Dishonoured Dead</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Is it not revolting? The Dead have no honour...cursed they were for betraying their lord, yet still they have no honour and fight for none. Instead they barter with brigands and thieves.\\n\\n'How I wish we could banish them from this place so I would not have to endure their accursed presence. But wait! Perhaps we can! Perhaps you would be willing to do so?\\n\\n'Drive them out, every one...that is all I ask. Let Stangard deal with these rebel spirits! When you have done this deed, speak with young Eowils, who watches Atburg for us...he will relay your news.'\\n\\n<rgb=#FF0000>NOTE: If you take this quest, you will begin Bagmund's Dishonoured Dead line and will be unable to accept Wynstan's Call of Honour line.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Ha! So much for those honourless devils! Well done, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Dishonoured Dead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Bagmund is appalled by the presence of the Oathbreakers at Atburg. Despite their noble heritage as Men of Gondor, he despises them for the betrayal they performed in ages past and for the dishonourable deeds they commit on behalf of the brigands.\\n\\n<rgb=#FF0000>NOTE: If you take this quest, you will begin Bagmund's Dishonoured Dead line and will be unable to accept Wynstan's Call of Honour line.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Defeated shades ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "<rgb=#FF0000>Failed Dishonoured Dead</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Defeat shades ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Shades can be found at Atburg, south-east of Aculf's camp in the Rushgore.\\n\\nBagmund has asked you to banish the shades from Atburg and the Rushgore.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Eowils outside Atburg in the Rushgore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Eowils is outside Atburg in the Rushgore, south-east of Aculf's camp.\\n\\nBagmund asked you to report your successes to the scout Eowils.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

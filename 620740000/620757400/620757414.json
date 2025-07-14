@@ -1,0 +1,317 @@
+{
+  "id": 620757414,
+  "txt": [
+    {
+      "id": "0x9864d54",
+      "en": "You have used up all your charges of [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cfdacc",
+      "en": "You cancel training [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e87113",
+      "en": "You can't train or untrain scrolls.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70496a5",
+      "en": "You have finished training [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xef38a64",
+      "en": "You have acquired the [placeholder] skill.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf1786f3",
+      "en": "Put a description of smokers here.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3113632",
+      "en": "You cannot advance this skill without a trainer.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed12c0",
+      "en": "Are you sure you want to logout before changing which stat you're training?  You are currently training a stat which cannot be raised any higher, because it is at the maximum for your level.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb66d6c",
+      "en": "You are getting better at [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ebc0c4",
+      "en": "You gain 1 point of [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xadccca5",
+      "en": "Your level has changed to [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcaefb63",
+      "en": "Warning:  Untraining this skill may result in a level loss.  Continue?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcbdf73",
+      "en": "You have earned [placeholder] bonus matched virtue xp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaffed23",
+      "en": "You have obtained max increments for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc4d16f4",
+      "en": "You have gained 1 point of [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc33aad4",
+      "en": "You cannot untrain skills which are already untrained.  Perhaps you meant to use the training slot instead?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c7c704",
+      "en": "You receive [placeholder] quest points.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87c8b87",
+      "en": "Are you sure you want to untrain [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb9e89ae",
+      "en": "You begin training [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x110da84",
+      "en": "You have acquired the Trait: [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4b4153",
+      "en": "Put a description of soldier here.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb050d4",
+      "en": "You cannot train skill which are already trained.   Perhaps you meant to use the untraining slot instead?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x39758a4",
+      "en": "Your [placeholder] Virtue Trait has changed to level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79b6763",
+      "en": "You have earned [placeholder] bonus virtue xp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4cabf5",
+      "en": "Soldier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d4d6ce",
+      "en": "Are you sure you want to stop [placeholder] [placeholder] and switch to [placeholder] [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeeff9ee",
+      "en": "You begin untraining [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe44af04",
+      "en": "You cannot gain any more [placeholder] points at your current level.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62a2114",
+      "en": "You have gained [placeholder] experience points for the [placeholder] Virtue Trait.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x970284",
+      "en": "You have acquired the skill: [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff9cd94",
+      "en": "You have acquired the Passive Skill: [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xea2f3f3",
+      "en": "MonsterClass",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x237c027",
+      "en": "training",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x82bfa94",
+      "en": "You have acquired [placeholder] which has replaced the [placeholder] skill.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x478a67",
+      "en": "Are you sure you want to cancel training [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf186e55",
+      "en": "Smoker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf916044",
+      "en": "Are you sure you want to logout without training a stat?  (Stat training continues while you're off-line.)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cb7bf5",
+      "en": "You have completed a stat training session.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x286e54",
+      "en": "Your [placeholder] is improving.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaeec933",
+      "en": "Your trained pool has no empty slots.  You must untrain a skill first.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x119f343",
+      "en": "The consummate man-at-arms, a Soldier can use wide variety of weapons and armour.  As he follows the path of Virtue or descends into Corruption, a Soldier may eventually choose the way of the noble Knight or the self-serving Tyrant.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5d80f9c",
+      "en": "You have obtained the max level for [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5c98b4",
+      "en": "You are getting better at [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19031b7",
+      "en": "untraining",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x11a19e5",
+      "en": "Soldier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0df91c",
+      "en": "You cancel untraining [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc23bc04",
+      "en": "Skill removed: [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cc6df4",
+      "en": "You begin training your [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x208c255",
+      "en": "You have finished untraining [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed3a86c",
+      "en": "Are you sure you want to advance [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ba73c7",
+      "en": "Are you sure you want to cancel untraining [placeholder]?\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1db4384",
+      "en": "You advance [placeholder] to [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

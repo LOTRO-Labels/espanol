@@ -1,0 +1,545 @@
+{
+  "id": 620953997,
+  "txt": [
+    {
+      "id": "0xbaf7bc2",
+      "en": "Merit awarded: defender survived",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44f07a2",
+      "en": "'I'll help, too!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44f07a3",
+      "en": "'Good. Now if only we can fend off these Corsairs...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3afa01",
+      "en": "Lead Elrohir and the guards up the stairs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3afa02",
+      "en": "Elladan has raised the gate. Join him on the other side.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3afa03",
+      "en": "Lead Elrohir and Elladan on to the piers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a32451",
+      "en": "'There is the winch. Let us open this gate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a32452",
+      "en": "'As fast as I can, your lordship.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a32453",
+      "en": "'We've drawn attention. Defend the winch!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x244f075",
+      "en": "'It is done. The gate is raised!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Gate Winch must survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d7a782",
+      "en": "<rgb=#00FF00>Stage Complete. Merit Awarded.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Siege weapons built and defended",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27585e4",
+      "en": "Zagarôth has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Kisung Teng defeated swiftly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Zagarôth defeated swiftly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c0ab14",
+      "en": "Kisung Teng has been defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf31956",
+      "en": "Merit awarded: winch above low health.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Defend the winch while the winch operator raises the Great Gate for Aragorn's force.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Rout the pillagers throughout Pelargir on the way to joining Aragorn at the piers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Hold Aragorn's flank as he confronts the main Corsair host.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "[placeholder] citizens protected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "The Oathbreakers have swept over the Corsair host, driving them back in supernatural terror.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "[placeholder] supplies protected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "Rout the pillagers in Pelargir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfe8cd9",
+      "en": "Victory! Pelargir is retaken.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Hold Aragorn's flank",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Brace yourself",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3255c",
+      "en": "Merit awarded: winch at high health",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4677e91",
+      "en": "Aragorn and his forces wait on us, my friends!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4677e92",
+      "en": "<rgb=#44AAAA>We've been spotted. Defend the winch!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4677e93",
+      "en": "And behold - there they are!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d18",
+      "en": "The Corsairs waste time sacking Pelargir. Sneak into the city  with a small advance party and clear a path for Aragorn's gathered host.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>empty</rgb> Merit Rating.\\n\\n<rgb=#FF0000>Gain Merit from:</rgb>\\n- Keep defenders alive\\n- Keep the Gate Winch from taking damage\\n- Defend citizens\\n- Defend resources\\n- Build and defend siege weapons\\n- Defeat Epic Foes quickly",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4677e94",
+      "en": "Now we take the high road and meet with Aragorn at the piers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4677e95",
+      "en": "Build a Catapult by the upper stairs to combat the Corsairs below.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5c1293",
+      "en": "Black Numenorean Zagarôth has joined the troops fleeing your way.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53feac4",
+      "en": "'Now we take the high road and meet with Aragorn at the piers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7312228",
+      "en": "<rgb=#FF0000>The winch has been destroyed! You have failed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7422f91",
+      "en": "<rgb=#FF0000>Elrohir has fallen! You have failed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7422f92",
+      "en": "<rgb=#FF0000>Elladan has fallen! You have failed.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x677e900",
+      "en": "'It lies on us to keep the Corsairs from both.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf38161",
+      "en": "'Brother!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fbbc94",
+      "en": "DNT TBD TEST",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf38162",
+      "en": "'Come. We must reach the piers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf38163",
+      "en": "'Indeed we must. But first, come and see.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf38164",
+      "en": "'Pillagers, everywhere. Let us rout them, then. Aragorn wishes to face the entire Corsair host.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Retaking Pelargir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcf38165",
+      "en": "'An excellent plan!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b78010",
+      "en": "'They come! Ready yourselves!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Reach the winch to the Great Gate so it can be opened for Aragorn's force.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x69d28e9",
+      "en": "'It is won. The Corsair host is in full defeat.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1e18922",
+      "en": "'There! Aragorn has arrived. Now it begins.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccfac41",
+      "en": "'Right then, gears a-turning!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccfac42",
+      "en": "'Gate this big... don't open with a song...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccfac43",
+      "en": "'Now we're getting somewhere... not done mind you, but somewhere...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xccfac44",
+      "en": "'Almost there... almost!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4b212",
+      "en": "'The winches to open the Great Gate lie straight ahead, my lord.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4b213",
+      "en": "'Then let us go - with all haste!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4b214",
+      "en": "'Aragorn and his forces wait on us, my friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c4b215",
+      "en": "'Then let us go!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aea841",
+      "en": "'Your lordships! We've found a number of unarmed citizens - and valuable supplies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4aea842",
+      "en": "'It lies on us to keep the Corsairs from both.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c9a7b3",
+      "en": "Corsair Captain Kisung Teng has joined his men against you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18928b1",
+      "en": "'And behold - there is Aragorn, there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7801",
+      "en": "'This way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18928b2",
+      "en": "'Come! This way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7802",
+      "en": "'The pillagers are routed. On to join Aragorn at the piers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18928b3",
+      "en": "'Excellent work! Join us at the piers!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7803",
+      "en": "'Brother, help me throw this gate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18928b4",
+      "en": "'Onward! Onward! Into the city!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7804",
+      "en": "'Onward!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x18928b5",
+      "en": "'Draw up!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63c4b21",
+      "en": "'Within Pelargir's walls, just as you promised!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7805",
+      "en": "'Hail! Aragorn bade us watch for you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7806",
+      "en": "'Well met! Let us go together, friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xac9e261",
+      "en": "'Now come! By Isildur I call you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1be61e1",
+      "en": "Great Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7807",
+      "en": "'This is the place.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1be61e2",
+      "en": "Rout Pillagers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7808",
+      "en": "'We must defend this spot so that Aragorn's forces are not flanked.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56b7809",
+      "en": "'We are seen!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1be61e3",
+      "en": "Pelargir Piers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe189291",
+      "en": "'Look, below!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5021",
+      "en": "Defend the gate winch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe189292",
+      "en": "'The dead. The dead fulfill their oath at last.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe189293",
+      "en": "'Brace yourselves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5023",
+      "en": "Reach the winch to the Great Gate",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5024",
+      "en": "[placeholder] defenders survived",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Elrohir and Elladan must survive the battle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5027",
+      "en": "Gate winch protected from harm",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

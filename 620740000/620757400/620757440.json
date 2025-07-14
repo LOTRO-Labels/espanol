@@ -1,0 +1,683 @@
+{
+  "id": 620757440,
+  "txt": [
+    {
+      "id": "0xc3dc4c4",
+      "en": "You have failed to teleport to the same layer as your fellowship leader.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcd3c0fd",
+      "en": "You need at least #1:[placeholder] available #1:{slot[1]|slots} in your inventory to run this command right now.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa546ae",
+      "en": "Auto move is now ON.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7083e4",
+      "en": "You are seeing damage text.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa9c03b4",
+      "en": "You must select a target to follow!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe875a6e",
+      "en": "You have been halted by an admin and are now unable to move or act.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x560a3a7",
+      "en": "Your inscription is too long.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e79825",
+      "en": "A Game Administrator needs to talk with you. Please immediately open a chat window where you can read /tell messages. Then respond to the Administrator.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd013699",
+      "en": "You have injured yourself in a fall!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe06dbd",
+      "en": "[placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c6af09",
+      "en": "grey",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31baf94",
+      "en": "You must provide inscription text.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x942499e",
+      "en": "You have used this command too recently, please try again later.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6e0a5e",
+      "en": "brown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfd8d64",
+      "en": "You are not seeing damage text of others.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc6af73e",
+      "en": "green",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2738605",
+      "en": "You are seeing damage text of others within [placeholder] metres.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb776544",
+      "en": "You are not seeing damage text.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x251014e",
+      "en": "Add failed, You must prepend the alias with a semicolon!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x907ff15",
+      "en": "18px tall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d0c474",
+      "en": "Shortcut to [placeholder] added in location [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x199fce4",
+      "en": "There is no such alias as \\q[placeholder]\\q.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c6d475",
+      "en": "blue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ba09dc",
+      "en": "You collapse from injuries sustained in a fall!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x653c172",
+      "en": "Listing predefined aliases...\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42d33de",
+      "en": "You do not have permission to inscribe that.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c84925",
+      "en": "Successfully reclaimed [placeholder]...\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd2347d7",
+      "en": "Now entering [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdd529ad",
+      "en": "[placeholder] tells you '[placeholder]'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa852845",
+      "en": "Group chat is not currently available for your Raid.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c495e",
+      "en": "Location [placeholder] is not valid.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x513b233",
+      "en": "[placeholder][placeholder]{{keepspaces}}",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d0325",
+      "en": "[placeholder] [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5f10f05",
+      "en": "You are already named that!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf568fa5",
+      "en": "Account Status: [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7a7f79",
+      "en": "The following types are valid filter settings:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14aafc2",
+      "en": "Invalid tab number. Please choose a tab between 1 and [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x40cf227",
+      "en": "You haven't played this character for long enough to use this chat channel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3da5f32",
+      "en": "Listing user-defined aliases...\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc829c7d",
+      "en": "You are not eligible for any items that can be reclaimed.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1b2b64",
+      "en": "You are seeing damage text of others.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8c1cc4",
+      "en": "red",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x31ae954",
+      "en": "Maximum number of aliases ([placeholder]) has been reached.  Failed to add alias. \\q[placeholder]\\q is NOT mapped to \\q[placeholder]\\q\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf8464c3",
+      "en": "Add failed, You must have a semicolon and at least one other character\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58b1187",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcfd3674",
+      "en": "You have unlocked the movie '[placeholder]'.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x645db6e",
+      "en": "You have nothing selected.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x30f81e4",
+      "en": "Alias added: \\q[placeholder]\\q = \\q[placeholder]\\q\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b29da5",
+      "en": "You will no longer see numbers over your shortcuts.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca8f425",
+      "en": "Remove failed. You can NOT change this predefined alias!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x875a626",
+      "en": "You are no longer halted.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdaa3995",
+      "en": "You successfully inscribe the item.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x920c8cb",
+      "en": "[placeholder] is away. \\q[placeholder]\\q\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d444b5",
+      "en": "You will now see numbers over your shortcuts.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6330e5",
+      "en": "Cannot add shortcut to text.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x13b5fe5",
+      "en": "purple",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf176d24",
+      "en": "Cannot add shortcut to [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x163e893",
+      "en": "Your name has been changed successfully.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b08c24",
+      "en": "You are no longer protected by the milestone's magic\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53b8bb3",
+      "en": "[placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7765aa4",
+      "en": "Added [placeholder] to tab [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x132576",
+      "en": "Auto target is now OFF.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x680c98e",
+      "en": "Started following.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x765dec3",
+      "en": "Cannot add shortcut to \\q[placeholder]\\q because it is not an alias.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xace0055",
+      "en": "23px tall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c1298b",
+      "en": "pink",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa69cb67",
+      "en": "[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b3d465",
+      "en": "[placeholder] was successfully renamed to [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6cec2d",
+      "en": "16px tall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9350afe",
+      "en": "You cannot teleport to that location",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8c54055",
+      "en": "22px tall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e87d54",
+      "en": "You cannot follow [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4329b64",
+      "en": "Failed to add alias. \\q[placeholder]\\q is NOT mapped to \\q[placeholder]\\q\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d236d4",
+      "en": "Teleportation finished.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9520e67",
+      "en": "You have used this command too recently, you must wait [placeholder] before you can use this command again.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc789c7",
+      "en": "You are on [placeholder] server [placeholder] at [placeholder]. Game timestamp [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a0cb77",
+      "en": "You take [placeholder] impact damage!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa334055",
+      "en": "NOTE: You are only allowed to send messages to the 'Advice' area chat channel.  To access the other area chat channels you need to upgrade to a retail account.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47a65f4",
+      "en": "There was an error changing your name. Please try again with a different name.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd936d14",
+      "en": "All aliases removed.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80c98a6",
+      "en": "Stopped following.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc21d3b7",
+      "en": "You have been playing for: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc19ac25",
+      "en": "white",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c95f42",
+      "en": "Unable to modify tab [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb01325e",
+      "en": "Auto target is now ON.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x447b9ae",
+      "en": "Location [placeholder] is not valid.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa546a36",
+      "en": "Auto move is now OFF.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44971e5",
+      "en": "Your personal description has been updated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x92f36f5",
+      "en": "Add failed, You can NOT change this predefined alias!\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48c9ddf",
+      "en": "Account Status is unavailable.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e1ed2d",
+      "en": "Unknown parameter: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x64c4f95",
+      "en": "Group chat is not currently available for your Fellowship.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc9b144",
+      "en": "Rename failed: The name you have selected is not a valid name.  Please try again with a different name.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb809e63",
+      "en": "alias \\q[placeholder]\\q = \\q[placeholder]\\q\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd5a6364",
+      "en": "Shortcut to \\q[placeholder]\\q added in location [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45c51a5",
+      "en": "Removed [placeholder] from tab [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa93fc4",
+      "en": "Alias removed: \\q[placeholder]\\q.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7644f17",
+      "en": "Settings for tab [placeholder]:\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ffa462",
+      "en": "You have teleported to the same layer as your fellowship leader.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf637884",
+      "en": "Reclaimed [placeholder] out of [placeholder] eligible items.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6e0304",
+      "en": "You are now protected by the milestone's magic.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa806c53",
+      "en": "[placeholder]: [placeholder]: [placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bdfba7",
+      "en": "yellow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b87817",
+      "en": "Congratulations! You are now level [placeholder]! You have #1:[placeholder] available experience #1:{point[1]|points} and #2:[placeholder] skill #2:{credit[1]|credits} to spend.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee42833",
+      "en": "[placeholder]: [placeholder], [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x16a7f15",
+      "en": "Cannot add shortcut.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9434f64",
+      "en": "You are not currently in the world.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xffd053",
+      "en": "You do not have any rename credits.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88d41ec",
+      "en": "14px tall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a5f455",
+      "en": "20px tall",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dfa995",
+      "en": "You cannot inscribe that.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca0c352",
+      "en": "Rename failed: The name you have selected is already taken.  Please try again with a different name.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe0913a4",
+      "en": "World broadcast from [placeholder]: [placeholder]\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

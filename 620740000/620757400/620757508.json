@@ -1,0 +1,383 @@
+{
+  "id": 620757508,
+  "txt": [
+    {
+      "id": "0x1480d95",
+      "en": "Space",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3922077",
+      "en": "Right Arrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaf23b",
+      "en": "Numlock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d5ecd8",
+      "en": "Num /",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe141f5e",
+      "en": "Windows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a3f855",
+      "en": "Esc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a4fa0",
+      "en": "Button 0",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3673797",
+      "en": "Left Arrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a4fa1",
+      "en": "Button 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe142e54",
+      "en": "Next",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a4fa2",
+      "en": "Button 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a4fa3",
+      "en": "Button 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47343a4",
+      "en": "Right Shift",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98a4fa4",
+      "en": "Button 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38a2395",
+      "en": "Num /",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e7f464",
+      "en": "Insert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe147f5e",
+      "en": "Windows",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe142e05",
+      "en": "Mute",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc984053",
+      "en": "Num =",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e13a64",
+      "en": "End",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe144f0e",
+      "en": "Page Down",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe140294",
+      "en": "Left Alt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cbd202",
+      "en": "Num Enter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe144820",
+      "en": "Page Up",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1361fb",
+      "en": "Backspace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe13903e",
+      "en": "Down",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe146294",
+      "en": "Right Alt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd833c",
+      "en": "Left Ctrl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe13d895",
+      "en": "Home",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4d8f03",
+      "en": "Num +",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe97355",
+      "en": "Backspace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa430",
+      "en": "Num 0",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa431",
+      "en": "Num 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38e8495",
+      "en": "Delete",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e14812",
+      "en": "Tab",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa432",
+      "en": "Num 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x48e14a0",
+      "en": "Up",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa433",
+      "en": "Num 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41343a4",
+      "en": "Left Shift",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa434",
+      "en": "Num 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa435",
+      "en": "Num 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa436",
+      "en": "Num 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa437",
+      "en": "Num 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa438",
+      "en": "Num 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1469334",
+      "en": "Right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2da200b",
+      "en": "Caps Lock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eaa439",
+      "en": "Num 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c75047",
+      "en": "Down Arrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14152d5",
+      "en": "Left Alt",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46e147e",
+      "en": "Enter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47cfe1c",
+      "en": "ScrLk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d24903",
+      "en": "Num -",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4cd835c",
+      "en": "Right Ctrl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa0e9807",
+      "en": "Up Arrow",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x148a091",
+      "en": "SysRq",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe140d34",
+      "en": "Left",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa4db6c2",
+      "en": "Num *",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c5ecb1",
+      "en": "Num ,",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8df406c",
+      "en": "Num .",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1361d3",
+      "en": "Apps",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd74c874",
+      "en": "Num .",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1442295",
+      "en": "Pause",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x14526a2",
+      "en": "Prior",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

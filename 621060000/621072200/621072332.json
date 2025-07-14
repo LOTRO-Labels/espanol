@@ -1,0 +1,275 @@
+{
+  "id": 621072332,
+  "txt": [
+    {
+      "id": "0xeb011a1",
+      "en": "Tarneth can be found in Tinnudir, on the shores of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'Did you notice anything interesting in the course of your survey, [placeholder]?'\\n\\nYou tell Tarneth that based on your survey, some of the markings on Naegir's map appear to correspond to islands on Lake Evendim. However, the locations provided appear to denote islands and other land that has since been overtaken by the waters of Lake Evendim. Tarneth takes the map, and studies it once again.\\n\\n'Wait a moment, if that marking is correct, I think we may have found the wreck of the Ectheldur! There is no time to explain, [placeholder]. There is an island near one of these markings, and I suspect we will find what we seek there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Tarneth has asked you to survey Lake Evendim from several locations using her spy-glass.\\n\\nYou should travel to Tinnudir, the Eavespires, Men Erain, and the isle of Tyl Ruinen and survey Lake Evendim. You can survey Lake Evendim near each of the dock-masters at these locations.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Examine Naegir's map",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Tarneth can be found in Tinnudir, on the shores of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Travel to the Eavespires",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'From what we have learned, the tomb-robbers have gathered at Rantost. If the wreck of the Ectheldur were there, we would have found it long ago, so they must have some other purpose in the ruins.\\n\\n'It is no simple journey to reach Rantost, but you are a practised Mariner, are you not? Lake Evendim is vast, indeed, but it is a mere drop in the Great Sea.\\n\\n'Drive out the tomb-robbers at Rantost and see if any of them are carrying anything of note. It seems they must again be reminded that they have no claim to the ruins of Arnor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Travel to Tinnudir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a7",
+      "en": "You should examine Naegir's map and see if you notice anything else that Tarneth missed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "You have surveyed Lake Evendim from Tyl Ruinen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "Defeated tomb-robbers at Rantost ([placeholder]/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'Come, my friend! We must reach the Ectheldur before the tomb-robbers figure it out for themselves!'\\n\\n<rgb=#FF0000>This is a Solo quest, and cannot be completed with a Fellowship.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "You have surveyed Lake Evendim from Men Erain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'I can hardly believe that we found the Ectheldur, let alone recovered Alwedion's forestaff, but we must keep secret what we have learned this day, my friend. The Blue Lady has long been a friend to the Dúnedain, and we must repay her kindness in turn. I only hope that one day Gwindeth will deem it safe enough to lower the waters of Lake Evendim and that Annúminas might one day have its beauty restored.\\n\\n'You have done a great service to the Dúnedain, [placeholder], and your deeds will not soon be forgotten. A Mariner of your skill and expertise will be a great ally in the days to come, my friend. I expect we shall call upon you again soon!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e00",
+      "en": "Deliver the strange map to Tarneth in Tinnudir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "You have arrived at Men Erain and you can now survey Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Travel to Tyl Ruinen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b6",
+      "en": "This tomb-robber appeared to be carrying a strange map!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e33",
+      "en": "Talk to Tarneth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d13",
+      "en": "The Rangers of the North in Evendim have long sought for the wreck of the Ectheldur, the ancient banner-ship of Annúminas, but their efforts have not gone unnoticed by a band of tomb-robbers from the South.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Tomb-robbers can be found at Rantost, on the northern islands of Lake Evendim.\\n\\nTarneth has asked you to defeat the tomb-robbers at Rantost and see why they have begun to search the old ruins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Tarneth can be found in Tinnudir, on the shores of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Defeat tomb-robbers at Rantost ([placeholder]/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'What is this? A map? Some sort of plan?\\n\\n'From what I can tell, it looks like there was some great deluge long ago, and that the Lake has never receded. But how can that be? Why don't you take a closer look at it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Tarneth can be found in Tinnudir, on the shores of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e09",
+      "en": "Talk to Tarneth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50293",
+      "en": "Defeat tomb-robbers at Rantost (8/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Tomb-robbers can be found at Rantost, on the northern islands of Lake Evendim.\\n\\nTarneth has asked you to defeat the tomb-robbers at Rantost and see why they have begun to search the old ruins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Tarneth can be found in Tinnudir, on the shores of Lake Evendim.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1199",
+      "en": "You have arrived at Tyl Ruinen and you can now survey Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Talk to Tarneth and search for the wreck of the Ectheldur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Survey Lake Evendim from Tyl Ruinen",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5029",
+      "en": "Talk to Tarneth in Tinnudir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "You have surveyed Lake Evendim from the Eavespires",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "You have surveyed Lake Evendim from Tinnudir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1172",
+      "en": "You have arrived at the Eavespires and you can now survey Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Travel to Men Erain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Survey Lake Evendim from Men Erain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "You have arrived at Tinnudir and you can now survey Lake Evendim",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Survey Lake Evendim from the Eavespires",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'I am not certain what to make of this, my friend. I would ask that you travel around the edges of Lake Evendim to survey its waters and make note of what you find. There is something unusual about this tide!\\n\\n'I think you shall need to survey Annúminas from a few locations to make sense of these markings. You should begin your survey here in Tinndur, and then continue your work in the Eavespires, Men Erain, and on the isle of Tyl Ruinen. That should be enough! Here, you may borrow my spy-glass to aid in your survey, but do take care of it. It is quite valuable to me!\\n\\n'You are no stranger to such work, are you? Very good. I shall await your return, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Survey Lake Evendim from Tinnudir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa1",
+      "en": "The Fate of the Ectheldur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "Indeed, Lake Evendim appears to have risen, but these markings seem to point to Annúminas",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

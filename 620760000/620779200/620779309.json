@@ -1,0 +1,131 @@
+{
+  "id": 620779309,
+  "txt": [
+    {
+      "id": "0x81f3681",
+      "en": "Collected fennel seeds ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Longo Daegmund's dog Gar appears to have come down ill, and Longo is worried about him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'Hoy there, do you know anything about dogs? Gar here has been feeling poorly since yesterday, and he won't eat a bite. I fetched him some fresh water from the well, and he just turns away!\\n\\n'Maybe you could help me? Eldo Swatmidge knows a fair bit about animals, and he might have an idea about what's wrong with Gar. He lives quite a bit east of town, almost on the edge of the Midgewater Marshes, and I don't think Gar would be up for the walk. Just take the road east out of town to the Widow Froghorn's farm, then north from there and down the hill to the east.\\n\\n'Eldo is a bit of a queer sort, but he loves dogs, so he can't be that bad, right? I'd appreciate anything he could do to help Gar!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Eldo Swatmidge lives east of Staddle and north and east of Widow Froghorn's farm.\\n\\nLongo Daegmund has asked you to speak with Eldo Swatmidge about his dog's illness and learn if there is some remedy he knows that may cure him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'What? Gar is sick? Why, he came from one of my Wanetta's litters!\\n\\n'My own dogs occasionally eat something that doesn't set quite right with 'em. When they do I've got a herbal remedy my grandfather taught me that helps clear it right up. I have most everything on hand, but I'll be needing fennel seeds to finish it up proper.\\n\\n'Fennel grows in the Midgewater Marshes, but it's hard to find because the Neekerbreekers have a fancy for it. It might be easier to find a Neekerbreeker that still has fennel caught in its pincers, than to find a fresh plant. Bring the seeds back to me, and I will mix up a remedy for Gar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Neekerbreekers can be found most commonly in the southern Midgewater Marshes. Eldo Swatmidge's farm is west of the Marshes and east of Staddle.\\n\\nLongo Daegmund sent you to speak with Eldo Swatmidge about a cure for Gar, his dog, but Eldo is missing the fennel seeds he needs to make the remedy. Eldo tells you that the Neekerbreekers have an affinity for fennel, and it may be possible to find some caught in their pincers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Longo Daegmund and his dog Gar are by Ferdibrand Took's waggon just west of the town square in Staddle.\\n\\nEldo has prepared a herbal remedy to cure Longo's dog Gar of the illness troubling him and told you to have the dog drink it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'You shouldn't dawdle here. Gar needs that remedy I made for him. Go back to Staddle and give it to him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'That remedy should make him feel a lot better!\\n\\n'Good boy, Gar! That'll do it! You must have eaten something that disagreed with you, that's all. Here, you can wash that remedy down with -- hey now, what's this?\\n\\n'I drew this water from the town well this morning, but it sure smells odd! Is this what made Gar sick?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Longo Daegmund is next to his dog, Gar, by Ferdibrand Took's waggon west of the town square of Staddle.\\n\\nLongo is waiting expectantly to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Eldo lives east of Staddle, almost on the edge of the Midgewater Marshes. Take the eastern path from the town square until you reach the widow Froghorn's farm, and follow the line of fences north, then down the hill to the east to Eldo's place.\\n\\n'If anyone will know what's wrong with Gar, he will. I'm sure of it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'You've brought me the fennel seeds? Good, good, give them here, and I'll boil them up with the rest of this.\\n\\n'There we go. Take this remedy to Gar and let him drink it. He may not much like it, but make sure he drinks it all the same. He should recover soon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'You're looking for fennel seeds to help Gar? Thank you, [placeholder], but please hurry! I can't stand to see my poor old dog feeling so down!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'Neekerbreekers in the Midgewater Marshes often get fennel tangled up in their pincers. If you can retrieve some seeds, I can make a remedy that should help Gar.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Bring the fennel seeds to Eldo Swatmidge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'You've brought a herbal remedy from Eldo? Quickly, give it to Gar! I do hope it helps him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "Gar sniffs at the herbal remedy, and then laps some of it up. He slowly drinks the rest of the mixture.\\n\\nLongo looks at you expectantly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Collect fennel seeds ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Bring Eldo's herbal remedy to Gar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "Gar looks at you unhappily. He does seem to be very ill.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Ailing Hound",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

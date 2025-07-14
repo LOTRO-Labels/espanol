@@ -1,0 +1,41 @@
+{
+  "id": 620828573,
+  "txt": [
+    {
+      "id": "0x5a4ad05",
+      "en": "You failed to receive the unique item. Item already exists in your inventory!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3bcb2d5",
+      "en": "You fail to open the sealed writ. Inconceivable!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2390b75",
+      "en": "The sealed writ has already been opened.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Sealed Writ of Annúminas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x57ac5e2",
+      "en": "[placeholder] opened the Sealed Writ of Annúminas and received: [placeholder]!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2555e96",
+      "en": "You open the Sealed Writ of Annúminas and find: [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

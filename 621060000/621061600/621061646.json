@@ -1,0 +1,383 @@
+{
+  "id": 621061646,
+  "txt": [
+    {
+      "id": "0x6a50295",
+      "en": "Talk to Ravaedron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Talk to Ravaedron outside Fernbrake Cot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6ae2",
+      "en": "Fight alongside Himeinior in defence of Ravaedron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Knock on the door to Fernbrake Cot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Weather the storm of the Stagshorns' displeasure with Ravaedron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "Himeinior has agreed to help Ravaedron with his latest scheme, and is waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5398a81",
+      "en": "'He's in for it now!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5398a82",
+      "en": "'Aye, that's true! And I would have it no other way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5398a83",
+      "en": "'I liked the other one better.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5398a84",
+      "en": "'I jest! I jest!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'Did Ravaedron tell you how long this would take? Because he gave me no indication, and this is not the only task I have set before me today!\\n\\n'Let us hope this takes minutes and not hours.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "You have come with Ravaedron to Fernbrake Cot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5398a85",
+      "en": "'Wait... Orcs? Wargs?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Ravaedron has come up with another scheme he hopes will make things right with the Stagshorns.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5398a86",
+      "en": "'You should have painted those!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'Our next destination is Fernbrake Cot, [placeholder]. With your help I will set this right.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Ravaedron has asked you to knock on the door to Fernbrake Cot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'I needs must prepare, [placeholder]. You knock on the door while I make ready.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea1",
+      "en": "'I will give that Elf a piece of my mind!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea2",
+      "en": "'No! You listen to me, Ravaedron!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea3",
+      "en": "'We are not so long-lived as you, but we are not children.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Ravaedron has invited you and the Stagshorns to follow him around the side of Fernbrake Cot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea4",
+      "en": "'We did not befriend you so we would be made safe in the Angle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea5",
+      "en": "'We did not want paintings, or gifts!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea6",
+      "en": "'It is YOU that we will miss, Ravaedron.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea7",
+      "en": "'You must be the most thick-headed of all your people!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Ravaedron has finished whatever he was doing, and is now ready to thank you for your help.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea8",
+      "en": "'It is beautiful, Ravaedron.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d0aea9",
+      "en": "'It will brighten the room for all who look upon it, and warm their hearts.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "You have drawn the unenviable task of weathering the storm of the Stagshorns' displeasure with Ravaedron.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61c9531",
+      "en": "'Wargs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61c9532",
+      "en": "'Still holding up, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61c9533",
+      "en": "'This had better be worth it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61c9534",
+      "en": "'Orcs? What could be next?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61c9535",
+      "en": "'Ah, it was nothing, Ravaedron. The merest exercise!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb1",
+      "en": "'[placeholder]? What is it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb2",
+      "en": "'You have come back with Ravaedron?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb3",
+      "en": "'If anything, you have set an example of danger for Bran.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb4",
+      "en": "'We cannot pretend to understand what you have endured, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb5",
+      "en": "'But we will not try to make you stay.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb6",
+      "en": "'Another? You must be joking!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb7",
+      "en": "'You have outdone yourself, my friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb8",
+      "en": "'It shall hang by the fireplace in Fernbrake Cot from now on, Ravaedron.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a1ffb9",
+      "en": "'That's my Bran!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9be0f50",
+      "en": "'Thank you, my friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9be0f51",
+      "en": "'And my thanks go to [placeholder] and the Rangers of Tornhad as well!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Follow Ravaedron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c2db01",
+      "en": "Ravaedron has returned from his task",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9be0f52",
+      "en": "'I could have painted nothing of worth while under threat from Orc and warg!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f1",
+      "en": "'I have completed my task, Himeinior, and I thank you both for protecting me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e53",
+      "en": "Himeinior has been defeated, and you have failed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f2",
+      "en": "'My friends. If you will hear my words...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f3",
+      "en": "'Well... I have made you another painting.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f4",
+      "en": "'Come with me, my friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f5",
+      "en": "'My first gift to you was just a painting, but this one is something more.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f6",
+      "en": "'It reflects what I will truly miss:'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f7",
+      "en": "'Quiet afternoons in Fernbrake Cot with my dearest friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f8",
+      "en": "'Keep it, or not. But the memory of those days brings a smile to my face.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19be0f9",
+      "en": "'Perhaps it will do the same for you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Lasting Friendship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Talk to Himeinior",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

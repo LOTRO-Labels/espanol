@@ -1,0 +1,857 @@
+{
+  "id": 620865965,
+  "txt": [
+    {
+      "id": "0x8ec7470",
+      "en": "neth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7471",
+      "en": "nir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7472",
+      "en": "nor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7473",
+      "en": "nui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7474",
+      "en": "nuir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7475",
+      "en": "od",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7476",
+      "en": "old",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7477",
+      "en": "on",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7478",
+      "en": "ond",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7479",
+      "en": "or",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73c0",
+      "en": "ui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73c1",
+      "en": "ul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73c2",
+      "en": "ur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7481",
+      "en": "am",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7482",
+      "en": "an",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7483",
+      "en": "ant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7484",
+      "en": "arth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7485",
+      "en": "as",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7486",
+      "en": "ath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7487",
+      "en": "bant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7488",
+      "en": "bar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7489",
+      "en": "ben",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d0",
+      "en": "thad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d1",
+      "en": "than",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d2",
+      "en": "thar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d3",
+      "en": "thas",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d4",
+      "en": "thil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d5",
+      "en": "thir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d6",
+      "en": "thol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d7",
+      "en": "thon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d8",
+      "en": "thor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73d9",
+      "en": "thorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e0",
+      "en": "ron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e1",
+      "en": "ros",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e2",
+      "en": "rusc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e3",
+      "en": "ruth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e4",
+      "en": "ryn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e5",
+      "en": "suil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e6",
+      "en": "sul",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e7",
+      "en": "tal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e8",
+      "en": "tar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73e9",
+      "en": "tel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f0",
+      "en": "raph",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f1",
+      "en": "ras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f2",
+      "en": "raw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f3",
+      "en": "reg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f4",
+      "en": "ren",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f5",
+      "en": "reth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f6",
+      "en": "rif",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f7",
+      "en": "rin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f8",
+      "en": "rod",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec73f9",
+      "en": "rom",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7400",
+      "en": "marth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c0",
+      "en": "gor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7401",
+      "en": "mir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c1",
+      "en": "gorn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7402",
+      "en": "mor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c2",
+      "en": "gos",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7403",
+      "en": "morn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c3",
+      "en": "gost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7404",
+      "en": "moth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c4",
+      "en": "gud",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7405",
+      "en": "mun",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c5",
+      "en": "gund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7406",
+      "en": "mund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c6",
+      "en": "gyl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7407",
+      "en": "mur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c7",
+      "en": "had",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7408",
+      "en": "narth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c8",
+      "en": "hael",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7409",
+      "en": "nel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74c9",
+      "en": "ham",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7410",
+      "en": "lind",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7411",
+      "en": "lith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d0",
+      "en": "fast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7412",
+      "en": "lon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d1",
+      "en": "fin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7413",
+      "en": "long",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d2",
+      "en": "fuir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7414",
+      "en": "lor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d3",
+      "en": "gal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7415",
+      "en": "los",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d4",
+      "en": "gam",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7416",
+      "en": "lost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d5",
+      "en": "gar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7417",
+      "en": "luin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d6",
+      "en": "gil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7418",
+      "en": "lung",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d7",
+      "en": "gol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7419",
+      "en": "mal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d8",
+      "en": "gold",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74d9",
+      "en": "gon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7420",
+      "en": "ir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7421",
+      "en": "ith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e0",
+      "en": "dol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7422",
+      "en": "lach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e1",
+      "en": "dor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7423",
+      "en": "laith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e2",
+      "en": "dreth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7424",
+      "en": "lan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e3",
+      "en": "dui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7425",
+      "en": "lang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e4",
+      "en": "dur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7426",
+      "en": "las",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e5",
+      "en": "eb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7427",
+      "en": "leb",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e6",
+      "en": "eg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7428",
+      "en": "leg",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e7",
+      "en": "en",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7429",
+      "en": "lin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e8",
+      "en": "eth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74e9",
+      "en": "fair",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7430",
+      "en": "harn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7431",
+      "en": "hil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f0",
+      "en": "beth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7432",
+      "en": "hir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f1",
+      "en": "bor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7433",
+      "en": "hith",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f2",
+      "en": "born",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7434",
+      "en": "hon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f3",
+      "en": "car",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7435",
+      "en": "iar",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f4",
+      "en": "dal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7436",
+      "en": "iath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f5",
+      "en": "dam",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7437",
+      "en": "in",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f6",
+      "en": "dan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7438",
+      "en": "ion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f7",
+      "en": "derch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7439",
+      "en": "ior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f8",
+      "en": "dil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec74f9",
+      "en": "dir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7380",
+      "en": "orn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7381",
+      "en": "ost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7382",
+      "en": "oth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7383",
+      "en": "phant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7384",
+      "en": "pharn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7385",
+      "en": "phir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7386",
+      "en": "phor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7387",
+      "en": "rad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7388",
+      "en": "ram",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ec7389",
+      "en": "rant",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

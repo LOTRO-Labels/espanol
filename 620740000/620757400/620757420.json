@@ -1,0 +1,209 @@
+{
+  "id": 620757420,
+  "txt": [
+    {
+      "id": "0xdfbcc95",
+      "en": "You were revived in an area which is too dangerous for you. You have been teleported to your current home location.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x585d494",
+      "en": "You are already incapacitated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9056695",
+      "en": "misadventure[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6596374",
+      "en": "[placeholder] is attempting to revive you. Do you accept?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd537d59",
+      "en": "{The[!n]} ^[placeholder] defeated you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd0c71a4",
+      "en": "You have been incapacitated. You cannot retreat until the fight has ended.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbb43476",
+      "en": "You cannot use this command as a monster player, since that would lead to the permanent death of your character.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa678005",
+      "en": "someone[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8544d3d",
+      "en": "You have defeated {the[!n]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51b59b9",
+      "en": "#1:{The[!n]} #1:^[placeholder] incapacitated #2:{the[!n]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc741413",
+      "en": "You have been incapacitated by a monster player. Do you want to retreat from battle? You will automatically retreat in [placeholder] seconds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x229a0ed",
+      "en": "You have incapacitated {the[!n]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7a60f24",
+      "en": "You are already defeated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x710a627",
+      "en": "something[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa182947",
+      "en": "Your mighty blow topples {the[!n]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15365a4",
+      "en": "You have been revived.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x753a9e5",
+      "en": "You have been incapacitated by misadventure.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf54d3a4",
+      "en": "^[placeholder] has been revived.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdd65c4",
+      "en": "You have been incapacitated. Do you want to retreat from battle? You will automatically retreat in [placeholder] seconds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15ee8b7",
+      "en": "Your mighty blow defeated {the[!n]} [placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3615c39",
+      "en": "{The[!n]} ^[placeholder] incapacitated you.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8d5564",
+      "en": "#1:{The[!n]} #1:^[placeholder] has succumbed to #1:{his[m]|her[f]} wounds.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x909e864",
+      "en": "[placeholder] has been defeated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e0fcb9",
+      "en": "[placeholder] is attempting to revive you. Do you accept?\\n\\nYou will automatically retreat in [placeholder] seconds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc17834",
+      "en": "You have [placeholder] vitae.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8b57118",
+      "en": "#1:{The[!n]} #1:^[placeholder] died.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22d1a84",
+      "en": "You have been defeated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72eeca3",
+      "en": "You succumb to your wounds. \\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf36539",
+      "en": "#1:{The[!n]} #1:^[placeholder] defeated #2:{the[!n]} #2:[placeholder].\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6763119",
+      "en": "somebody[n]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8987fd7",
+      "en": "You have died. As a monster player, your death is permanent, and this character will be deleted. You will automatically logout in [placeholder] seconds. Logout Now?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfdd2e34",
+      "en": "You can't awaken unless you're defeated.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe635574",
+      "en": "#1:{The[!n]} #1:^[placeholder] has been destroyed.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c364a4",
+      "en": "You have awoken.\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": 621035667,
+  "txt": [
+    {
+      "id": "0x9b56881",
+      "en": "'What are you doing? Have you got something in your eye?'\\n\\n<u>Imák, Stout-axe Survivor of Mordor</u>\\n<rgb=#FFFF00>Perception (Smell):</rgb> 90\\n<rgb=#FFFF00>Trap Construction:</rgb> 80\\n<rgb=#FFFF00>Hardiness:</rgb> 95\\n<rgb=#FFFF00>Resolve:</rgb> 90\\n\\n'I trust you are suitably impressed by what you have seen? Life in the pits of Mordor was hard, and not every Stout-axe had the fortune to escape the chains of Sauron. But those that did were made strong, toughened by the experience. So it was with me. Those who did not suffer in Mordor were not tempered as I was!\\n\\n'<rgb=#00FF00>Appraise</rgb> Venko and see if I am wrong! It is no competition, of course. I am merely curious.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'What is it? What can you tell of me, [placeholder]?'\\n\\n<u>Venko, Zhélruka Home-seeker</u>\\n<rgb=#FFFF00>Axe-wielding:</rgb> 60\\n<rgb=#FFFF00>Sword-wielding:</rgb> 75\\n<rgb=#FFFF00>Hardiness:</rgb> 80\\n<rgb=#FFFF00>Resolve:</rgb> 80\\n\\n'Yes? You seem to be developing an eye for skill! It is true, I am not as accomplished with axes as I am with swords. The sword is a Zhélruka weapon. We will swing axes, if that is what we have at hand, but we do not prefer them. Let the Longbeards prize their axes; we will use whatever is necessary to achieve victory, whether that be sword, axe, or knife.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Yrsa is inside the lodge, waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'You have a good eye, friend. With practice perhaps you will become even more skilled at the art of appraisal.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Are you surprised to learn I possess such skill in the healing arts and mastery of herb-lore? You should not be. Were you to exercise your powers of observation, you should be able to discern such skills in others. Indeed, I believe it is a latent ability you already possess.\\n\\n'Yrsa can tell you more. Consider such training as she can provide a repayment for aiding my son Vídar with his chores. Aye, he told me you were an able fighter, and was pleased to have the company.\\n\\n'My wife came inside to inquire about the ravens. Find her in the other room and see what she can teach you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Imák in Limlók",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Yrsa has asked you to try and <rgb=#00FF00>appraise</rgb> her skills.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Find Venko by the south-east entrance to Limlók and <rgb=#00FF00>appraise</rgb> his skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'Well? Let us see if Yrsa has trained you well in the art of appraisal. What can you tell of me?'\\n\\n<u>Runerik Knotbeard, Beorning Chief of Limlók</u>\\n<rgb=#FFFF00>Skin-changing:</rgb> 95\\n<rgb=#FFFF00>Herbalism:</rgb> 85\\n<rgb=#FFFF00>Hardiness:</rgb> 85\\n<rgb=#FFFF00>Resolve:</rgb> 85\\n\\n'You have made good progress, [placeholder]. So too have the injured ravens. I am pleased to tell you that with time enough to rest, they should fully recover from their wounds. They were fortunate for my knowledge of herbs and for your quick action: the flood-broom tea has already counteracted the poison.\\n\\n'Your agreement to care for these ravens had another effect: it caused me to change my own appraisal of you. You are welcome to remain in Limlók, if you wish, and so too can these dwarves. But I hold firm to one thing. I refuse to host an entire company of dwarves in my village! You need no special skill at appraisal to know I mean it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'You wish to learn the art of appraisal, by which you may determine the skills and abilities of the people you meet? It is not difficult to learn the basics, but it does take some practice if you are to become a master of observation. The trick is to relax your eye and consider every aspect of your subject as a unified whole: every detail is in some way related to the larger sum that is your subject.\\n\\n'Try it on me, [placeholder]. Look at me and <rgb=#00FF00>appraise</rgb> my skills, and I will tell you if you succeed to my satisfaction.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Runerik thinks you may be able to develop one of your latent abilities, and wants you to consult with his wife Yrsa for further instruction along that line.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Talk to Venko in Limlók",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Yrsa is inside the lodge, waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "<rgb=#00FF00>Appraise</rgb> Runerik Knotbeard outside the lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Runerik Knotbeard outside his lodge in Limlók",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "Yrsa waits for your assessment of her skills and abilities. You consider what you have learned.\\n\\n<u>Yrsa Spearwife, Beorning Woman of Limlók</u>\\n<rgb=#FFFF00>Skin-changing:</rgb> 95\\n<rgb=#FFFF00>Observation:</rgb> 90\\n\\nShe sighs as your provide your account, but there is humour in it.\\n\\n'You say I have great skill at skin-changing? Whatever gave you that idea? Ah, it is only a jest. Try it once again, and perhaps you can notice details you missed before. The signs are there for one who knows what to seek. <rgb=#00FF00>Appraise</rgb> me once again, and concentrate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Practice makes perfect! Yrsa has asked you to once again try and <rgb=#00FF00>appraise</rgb> her skills.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Yrsa is inside the lodge, waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Glóin is in Limlók, wondering why you have been studying him so closely.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Talk to Yrsa Spearwife inside her lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'Yes? To what do I owe such scrutiny?'\\n\\n<u>Glóin, Hero of the Lonely Mountain</u>\\n<rgb=#FFFF00>Axe-wielding:</rgb> 80\\n<rgb=#FFFF00>Fire-making:</rgb> 95\\n<rgb=#FFFF00>Hardiness:</rgb> 90\\n<rgb=#FFFF00>Resolve:</rgb> 85\\n\\n'Ah ha! You are practicing the art of appraisal! My cousin Balin was quite skilled at that, and Thorin relied on both his observant eye and his wisdom. It is a pity what happened to him in the end.\\n\\n'You should <rgb=#00FF00>appraise</rgb> the other members of our travelling party! Begin with Imák, for I think he will be the most difficult to read.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "<rgb=#00FF00>Appraise</rgb> Yrsa Spearwife inside the lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "Glóin wants you to <rgb=#00FF00>appraise</rgb> Imák's skills. Imák is on the western side of Limlók.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Talk to Yrsa Spearwife inside her lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Once again <rgb=#00FF00>appraise</rgb> Yrsa Spearwife inside the lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Yrsa Spearwife inside her lodge",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Find Glóin in Limlók and <rgb=#00FF00>appraise</rgb> his skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Glóin in Limlók",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Find Imák on the western side of Limlók and <rgb=#00FF00>appraise</rgb> his skills",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Imák wants you to <rgb=#00FF00>appraise</rgb> Venko's skills. Venko is by the south-east entrance of Limlók.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Venko is in Limlók, and he is suspicious of the recent attention you have given him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a6",
+      "en": "'My wife came inside to inquire about the ravens. Find her in the other room and see what she can teach you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "'Try it on me, [placeholder]. Look at me and <rgb=#00FF00>appraise</rgb> my skills, and I will tell you if you succeed to my satisfaction.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a8",
+      "en": "'Try once more, and perhaps you will notice details you missed before. The signs are there for one who knows what to seek. <rgb=#00FF00>Appraise</rgb> me once again, and concentrate.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Runerik Knotbeard is outside his lodge and interested to know your appraisal of his skills.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56850",
+      "en": "Yrsa waits patiently for your second assessment. You consider what you have learned.\\n\\n<u>Yrsa Spearwife, Beorning Woman of Limlók</u>\\n<rgb=#FFFF00>Skin-changing:</rgb> 95\\n<rgb=#FFFF00>Observation:</rgb> 90\\n<rgb=#FFFF00>Hardiness:</rgb> 80\\n<rgb=#FFFF00>Resolve:</rgb> 90\\n\\nShe nods, pleased at your success.\\n\\n'You have done well, [placeholder], and will improve with time and practice! Why not try this on your dwarf friends next? If they are like others I have known, they will be interested in your appraisal of their talents. You may find it useful to learn of their strengths and weaknesses, as well, for there is little doubt that danger still lies ahead of you all.\\n\\n'After you have done that, perhaps you can impress my husband with your newfound talent.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "'Why not try this on your dwarf friends next? If they are like others I have known, they will be interested in your appraisal of their talents. You may find it useful to learn of their strengths and weaknesses, as well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "'You should <rgb=#00FF00>appraise</rgb> the other members of our travelling party! Begin with Imák, for I think he will be the most difficult to read.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56853",
+      "en": "'What are you doing? Have you got something in your eye?'\\n\\n<u>Imák, Stout-axe Survivor of Mordor</u>\\n<rgb=#FFFF00>Perception (Smell):</rgb> 90\\n<rgb=#FFFF00>Trap Construction:</rgb> 80\\n<rgb=#FFFF00>Hardiness:</rgb> 95\\n<rgb=#FFFF00>Resolve:</rgb> 90\\n\\n'I trust you are suitably impressed by what you have seen? You know that life in the pits of Mordor was hard, and not every Stout-axe had the fortune to escape the chains of Sauron. But those that did were made strong, toughened by the experience. So it was with us! Those who did not suffer in Mordor were not tempered as we were!\\n\\n'<rgb=#00FF00>Appraise</rgb> Venko and see if I am wrong! It is no competition, of course. I am merely curious.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'<rgb=#00FF00>Appraise</rgb> Venko and see if I am wrong! It is no competition, of course. I am merely curious.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "Yrsa has asked you to try and <rgb=#00FF00>appraise</rgb> Glóin's skills. The old dwarf should be somewhere outside in Limlók.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Imák is in Limlók, and he wants to know why you have subjected him to such scrutiny.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "Remembering the words of Yrsa, you decide to next appraise Runerik Knotbeard",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "The real test of your appraisal ability will be to <rgb=#00FF00>appraise</rgb> Runerik Knotbeard outside his lodge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 3.3: An Eye for Skill",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

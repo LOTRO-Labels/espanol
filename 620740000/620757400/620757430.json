@@ -1,0 +1,41 @@
+{
+  "id": 620757430,
+  "txt": [
+    {
+      "id": "0xa02d739",
+      "en": "The item you tried to transmute was not in your inventory.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf70f745",
+      "en": "The item you tried to transmute has no value.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe960af9",
+      "en": "Adding [placeholder] {piece[1]|pieces} of Gold.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x66650cc",
+      "en": "There is no room in your inventory for a money stack.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x52f7558",
+      "en": "Your money bag is full.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17f0839",
+      "en": "You are too busy to do that.\\n",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

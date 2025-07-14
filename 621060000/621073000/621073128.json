@@ -1,0 +1,473 @@
+{
+  "id": 621073128,
+  "txt": [
+    {
+      "id": "0x9b56880",
+      "en": "'Welcome to my home, [placeholder]. I offer you what hospitality I can, though it cannot hope to match that of the King in Minas Tirith. What brings you so far from the White City?'\\n\\nYou tell Sirgon that King Elessar has sent you to help heal the hurts of the war and to prepare the way for his own tour of the kingdom.\\n\\n'That is a worthy purpose. The war... the war may be ended, but the scars it left behind cut deep. How fare the towns within my purview?'\\n\\nReluctantly, you tell Sirgon the people of Glaniath have proposed that he step down as Lord of Lebennin and leave the lordship to his son Faltharan, and show him the tokens they cast for that purpose.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'Maybe the people of Glaniath are right, [placeholder].\\n\\n'The days of my youth are far behind me now. Who will follow a leader so easily captured in war, as I was by the Men of Harad? Respect is hard to gain, but easy to lose. There were moments I despaired, and thought Lebennin would be better served if I never returned.'\\n\\nSirgon sighs heavily and looks you in the eye.\\n\\n'This was not supposed to be my life. Meet me in my room of keepsakes, to the north. I want to show you something.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "Collected tokens cast by folk of Glaniath ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Arvellon is in the centre of Glaniath, and Legolas believes you should speak with him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50246",
+      "en": "Examine Sirgon's keepsakes and listen to what he has to say about them",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'I was once the master of the fleets of Gondor, [placeholder]. I sailed across the Bay of Belfalas at the direction of the Steward, and brought the might of Gondor to bear wherever it was needed. I remember the smell of the salt on the spray, the cry of the gulls overhead, the wind in my hair, the rocking of the ship's deck beneath my feet.\\n\\n'When I was held captive during the war, I feared for my family and for the people in my charge... but I am shamed to admit that I also feared I would die on land. I was a man of the sea, [placeholder], but in recent days I have felt penned up in this city, in this kingdom, in my very title. \\qLord of Lebennin!\\q Rather would I be once again the Lord of Ships, the Lord of Tide and Wave!\\n\\n'See the keepsakes I have gathered in my life, and know what I have come to miss.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'While Gimli and I waited for you to arrive, a resident of this town came to speak with us. Arvellon, he is called, and he was most interested to learn we plan to continue on to Pelargir. The matter that occupies his thought may be of interest to King Elessar.\\n\\n'Speak with Arvellon and see what you think. He should be near the centre of town.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Arvellon in the centre of Glaniath, in King's Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Collection boxes can be found beside stone buildings on the outskirts of Glaniath.\\n\\nArvellon asked you to gather the tokens cast by townspeople of Glaniath in support of his proposal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Talk to Gimli by the entrance to Glaniath, in King's Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'You are welcome to Glaniath, my friend, and on the King's business, no less! It is remarkable how much can change in the matter of mere months!\\n\\n'The war left its mark upon Lebennin, and I expect it has done the same in other areas of Gondor. But here it marked us deep, for Sirgon our lord was captured by the Haradrim, and while he was freed from their bonds the experience changed him. I fear he is no longer suited for rule, and it would be just for the King to permit him to step down. Faltharan, his son, is fully capable of following his father as Lord of Lebennin.\\n\\n'I have called for families of Glaniath to cast tokens in favour of this proposal. Will you gather these tokens from the collection boxes around town so Lord Sirgon will see how many families support my proposal?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Legolas and Gimli wish to return soon to Minas Tirith with word of what you discovered, but first they wish to consult with Sirgon, Lord of Lebennin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Arvellon is in the centre of Glaniath, waiting for you to return with the tokens cast in support of his proposal.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Travel to the eastern entrance of Pelargir, south-west of Glaniath, in King's Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Captain Thandor by the eastern entrance to Pelargir",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Enter Sirgon's Manor in Pelargir and find its lord",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'So many tokens have been cast in support of my proposal! This is nearly all!\\n\\n'I want you to understand that folk of Glaniath hold no ill will toward Sirgon in their hearts. His experience was a mournful one, and it is wrong to expect him to carry on without harm. Let him cede the rule of Lebennin to his son Faltharan. That will be best for him, and it will be best for the lands he must govern. I am certain King Elessar will approve, but we must take single steps first. Sirgon served Gondor, and with the war finished he has earned a peaceful rest, and should take it with our gratitude.\\n\\n'As you are going soon to Pelargir, you will bring these tokens to him and show him the mind of Glaniath's families, yes?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2e5a781",
+      "en": "'I see...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Wait for Sirgon to speak",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Gimli is by the entrance to Glaniath.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Talk to Sirgon in his manor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'I did not understand this proposal when Arvellon told it to us, and I still do not. He expects Sirgon to simply abandon the lordship of Lebennin because a few families thought he should? No dwarf would do this.\\n\\n'At any rate, the sooner we go to Pelargir the sooner we will return to Minas Tirith with the tidings we sought. We have heard plenty of whispers and rumours, but little in the way of real danger. I suppose that is good, but it is also a pity, for my axe needs swinging!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Talk to Sirgon inside his manor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Meet Sirgon in his room of keepsakes, to the north",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Talk to Sirgon in his room of keepsakes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1150",
+      "en": "'These stuffed birds were a wedding gift from an old friend, drowned at sea.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Sirgon inside his room of keepsakes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Captain Thandor is in the square by the eastern entrance to Pelargir, in King's Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1151",
+      "en": "'I traded for this gem in a seaside market, twenty years ago. It remains as brilliant today!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'It brings me joy to see you return to Pelargir, my friend, with the spectre of war behind us!\\n\\n'You wish to see Sirgon, Lord of Lebennin? His manor is down the street to the west. He will be pleased to see you, I imagine, but be warned that his captivity during the war left its mark upon him and his spirit is not as vital as once it was.\\n\\n'He is still strong and stern, do not mistake me! But he is changed, and weariness lies upon his brow.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1152",
+      "en": "'No, I never saw this creature alive! I recovered its bones on a southern voyage.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Talk to Faltharan inside Sirgon's room of keepsakes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Sirgon's Manor is located down the street to the west of the north-east entrance of Pelargir, in King's Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1153",
+      "en": "'I have taken many an enemy's shield in battle. I display some of them here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1154",
+      "en": "'This fellow set one of my ships alight with evil sorcery. Now I keep an eye upon him here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "'As you are going soon to Pelargir, you will bring these tokens to him and show him the mind of Glaniath's families, yes?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1155",
+      "en": "'A friend gave me a number of tapestries depicting friendship between Gondor and Rohan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "'At any rate, the sooner we go to Pelargir the sooner we will return to Minas Tirith with the tidings we sought. We have heard plenty of whispers and rumours, but little in the way of real danger. I suppose that is good, but it is also a pity, for my axe needs swinging!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1156",
+      "en": "'This tapestry depicting Folca and the Boar was a gift. The Rohirrim hold him in great esteem.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56842",
+      "en": "'You wish to see Sirgon, Lord of Lebennin? His manor is down the street to the west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Arvellon in the centre of Glaniath, in King's Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1157",
+      "en": "'This creature crawled upon my deck while we were in port. Now his head hangs upon my wall!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1158",
+      "en": "'Would you believe I found this bear far to the south, in a land of snow and ice? It is true!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'Meet me in my room of keepsakes, to the north. I want to show you something.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Collect tokens from the boxes in Glaniath ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56845",
+      "en": "'See the keepsakes I have gathered in my life, and know what I have come to miss.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "Sirgon rests on a bench inside his manor, thinking about the tidings you brought to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "Sirgon has come to a decision, and is ready to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Sirgon has asked to meet you in his room of keepsakes, to the north, where he will speak with you further.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "Sirgon stands in his room of keepsakes, appraising his treasured memories.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "Sirgon has suggested that you examine the keepsakes he acquired over a long life at sea.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1167",
+      "en": "'I found this fellow just off the Langstrand, a few years ago. He sings beautifully.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "'The Uruk who wore this boarded my ship just off the Shield Isles. Now it is mine.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1169",
+      "en": "'The armour of my first slain Orc. Had I perished, my armour might be in a case like this one.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a0",
+      "en": "Sirgon considers the treasured memories in his room of keepsakes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56858",
+      "en": "'Speak with Arvellon and see what you think. He should be near the centre of town.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'So many memories.\\n\\n'Perhaps my son should succeed me. It took the folk of Glaniath to make me realize something I think I have known for these past few months, but did not express. My heart does not belong on land. I wish to sail again, [placeholder]!\\n\\n'I can better serve King Elessar from the deck of a ship, as I did in prior years. Faltharan should rule in Lebennin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Faltharan stands within his father's room of keepsakes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56859",
+      "en": "'Will you gather tokens from the collection boxes around town so Lord Sirgon will see how many families support my proposal?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'My father has been seized by one of his moods again, I see. He has always suffered from the call of the gulls, the pull of the sea, but it has been worse in recent days.\\n\\n'I do not desire to rule in Lebennin, but I will do so if that is my father's wish, and the will of the King.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b4",
+      "en": "'Faltharan should rule in my stead, if the King will have him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "Sirgon appears to have come to a decision",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "Sirgon's son Faltharan has joined you in the room of keepsakes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "The port city of Pelargir is to the south-west of Glaniath, in King's Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ec3",
+      "en": "Talk to Sirgon in his manor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Sirgon rests on a bench inside the entrance to his manor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "Captain Thandor hails you in greeting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "Sirgon nods at you as you approach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 1.5: The Lord of Lebennin",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

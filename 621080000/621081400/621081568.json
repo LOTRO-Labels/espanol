@@ -1,0 +1,191 @@
+{
+  "id": 621081568,
+  "txt": [
+    {
+      "id": "0xeb011a0",
+      "en": "Tegwyn asked you to use En Garde on the training dummy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a1",
+      "en": "Press the 'J' key to open the traits panel. Choose a 'specialization' for your class to gain new skills and abilities. Don't worry, you can always change your mind later!\\n\\nAfter you choose a specialization, use <rgb=#00ff00>Dramatic Flourish</rgb>, <rgb=#00ff00>Feint</rgb>, or <rgb=#00ff00>Thrum of the Sea</rgb> on the training dummy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Prologue, Chapter 2: Skills of an Adventurer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'That was a decent show, I suppose.'\\n\\nTegwyn struggles to suppress any show of excitement.\\n\\n'One more! Show me one more skill of yours, and make it incredible!'\\n\\nYou consider what you should demonstrate to Tegwyn. Dramatic Flourish is a Finisher Swordplay skill which gives a potent Critical Hit buff. This damaging Swordplay finisher requires you to be in a fore-ward state of Balance, which you can achieve by using offensive skills. Or perhaps you could demonstrate Feint, which is a quick reaction that provides unique Swordplay bonuses. Or you might show off Thrum of the Sea, which dazes your target, preventing them from moving or using skills, as long as they are not awoken by taking damage.\\n\\n<rgb=#00CCCC>HINT</rgb>: Press the 'J' key to open the traits panel. Choose a 'specialization' for your class to gain new skills and abilities. Don't worry, you can always change your mind later!\\n\\nAfter you choose a specialization, use <rgb=#00ff00>Dramatic Flourish</rgb>, <rgb=#00ff00>Feint</rgb>, or <rgb=#00ff00>Thrum of the Sea</rgb> on the training dummy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Well? I'm ready for you to show off your combat skills... and if you impress me, I'll give up this Uruk sword. It had better be a good demonstration, or the bargain is done!'\\n\\nYou explain that a Mariner leans on basic attacks like <rgb=#00ff00>Thrust</rgb> to deal damage and shift your balance fore-ward. Tegwyn nods.\\n\\n'Interesting. Well, let's see it! That's what this training dummy is for, after all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Use <rgb=#00ff00>Dramatic Flourish</rgb>, <rgb=#00ff00>Feint</rgb>, or <rgb=#00ff00>Thrum of the Sea</rgb> on the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "Used <rgb=#00ff00>Thrust</rgb> on the training dummy ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Talk to Tegwyn by the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'That was pretty good, I suppose....\\n\\n'Fine! You've upheld your side of our bargain, [placeholder], and I will do the same. Here's Madthrug's weapon, as I promised. You'll bring it back to that Ranger for me, I expect? Mother and father will be pleased, but I still say I could have handled such a weapon!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b3",
+      "en": "Tegwyn reluctantly hands you the Uruk's blade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'You recovered the Uruk blade from Tegwyn before he hurt himself with it? Very well done, [placeholder].'\\n\\nMeneldir gets a faraway look in his eye, and gazes over the surrounding wall of Mossward.\\n\\n'I remember being that age, and dreaming only of adventure, of excitement. I was not so very different from young Tegwyn when I was a boy growing up in the Angle of Mitheithel, where my people dwell. I do not judge him harshly for taking the sword, and I hope you will not either. His parents busy themselves with the work of fortifying Mossward's defences, and I daresay they remain unaware of the boy's mischief. I will not tell them if you do not, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Tegwyn by the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Tegwyn agreed to relinquish the Uruk sword if you are able to impress him with a demonstration of your combat ability.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "Used <rgb=#00ff00>En Garde</rgb> on the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'I'm ready for you to show off your combat skills!'\\n\\nYou explain that a Mariner leans on basic attacks like <rgb=#00ff00>Thrust</rgb> to deal damage and shift your balance fore-ward. Tegwyn nods.\\n\\n'Interesting. Well, let's see it! That's what the training dummy is for!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Tegwyn is waiting for you to demonstrate your combat ability by using <rgb=#00ff00>Thrust</rgb> on the training dummy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'You upheld your side of the bargain, [placeholder], and so have I. Now take that blade to the Ranger before I change my mind! I still say I could have handled it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "You have fulfilled your end of the bargain. Will Tegwyn relinquish the Uruk's blade to you, as he agreed?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Use <rgb=#00ff00>Thrust</rgb> on the training dummy ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Meneldir is by the east gate of Mossward.\\n\\nNow that you have recovered the Uruk blade, you should bring it to Meneldir.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "Talk to Tegwyn by the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "Used <rgb=#00ff00>Dramatic Flourish</rgb>, <rgb=#00ff00>Feint</rgb>, or <rgb=#00ff00>Thrum of the Sea</rgb> on the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Use <rgb=#00ff00>En Garde</rgb> on the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50299",
+      "en": "Use <rgb=#00ff00>TBD SKILL C 1</rgb>, <rgb=#00ff00>TBD SKILL C 2</rgb>, or <rgb=#00ff00>TBD SKILL C 3</rgb> on the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e14",
+      "en": "Bring the Uruk blade to Meneldir by the east gate of Mossward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "You have demonstrated a basic Mariner attack to Tegwyn. Will he relinquish the Uruk's blade to you, as he agreed?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "You have demonstrated how to use En Garde. Will Tegwyn relinquish the Uruk's blade to you, as he agreed?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a0",
+      "en": "Used <rgb=#00ff00>TBD SKILL C 1</rgb>, <rgb=#00ff00>TBD SKILL C 2</rgb>, or <rgb=#00ff00>TBD SKILL C 3</rgb> on the training dummy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'That was all right, I guess. But surely you have more powerful attacks at your disposal?'\\n\\nYou explain that a Mariner can first use <rgb=#ffff00>En Garde</rgb> to increase the power of Thrust. When you use a Swordplay skill like En Garde, you gain a bonus to your next Swordplay skill. Each Swordplay skill will give a bonus to a small number of other skills, so you should use them carefully in order to maximize their effectiveness. On its own, En Garde will simply refresh your Steady buff, but it will improve Thrust, if Thrust is the next Swordplay skill you use.\\n\\n'Wow, I want to see that!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'That was a decent show, I suppose.'\\n\\nTegwyn struggles to suppress any show of excitement.\\n\\n'One more! Show me one more skill of yours, and make it incredible!'\\n\\nYou consider what you should demonstrate to Tegwyn. Dramatic Flourish is a Finisher Swordplay skill which gives a potent Critical Hit buff. This damaging Swordplay finisher requires you to be in a fore-ward state of Balance, which you can achieve by using offensive skills. Or perhaps you could demonstrate Feint, which is a quick reaction that provides unique Sword-play bonuses. Or you might show off Thrum of the Sea, which dazes your target, preventing them from moving or using skills, as long as they are not awoken by taking damage.\\n\\n<rgb=#00CCCC>HINT</rgb>: Press the 'J' key to open the traits panel. Choose a 'specialization' for your class to gain one of these new skills and abilities. Don't worry, you can always change your mind later!\\n\\nAfter you choose a specialization, use <rgb=#00ff00>Dramatic Flourish</rgb>, <rgb=#00ff00>Feint</rgb>, or <rgb=#00ff00>Thrum of the Sea</rgb> on the training dummy.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'That was all right, I guess. But surely you have more powerful attacks at your disposal?'\\n\\nYou explain that a Mariner can first use <rgb=#ffff00>En Garde</rgb> to increase the power of Thrust. When you use a Swordplay skill like En Garde, you gain a bonus to your next Swordplay skill. Each Swordplay skill will give a bonus to a small number of other skills, so you should use them carefully in order to maximize their effectiveness. On its own, En Garde will simply refresh your Steady buff, but it will improve Thrust, if Thrust is the next Swordplay skill you use.\\n\\n'Wow, I want to see that!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

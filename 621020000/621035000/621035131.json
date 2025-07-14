@@ -1,0 +1,353 @@
+{
+  "id": 621035131,
+  "txt": [
+    {
+      "id": "0x6a50297",
+      "en": "Defeat Taurogrim ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'We're close now. We should get off the road to avoid being seen by Orc-patrols.\\n\\n'The plan is to head towards the bridge while avoiding as many Orcs as we can and get a better look at the main gates. Stay close to me, and if we are spotted, do not let them call for their allies! Strike them down quickly! We don't want the Orcs knowing we're here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "Defeated the Orc patrol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'We need to keep moving. Someone might come to investigate the noise. Are you ready to continue?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Ausma must survive!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'They were outmatched. If they were smart, they would have sent someone to alert the rest to our presence, and summoned reinforcements. But they are Orcs, and their misplaced pride got the better of them.\\n\\n'Now that we are near, let's see what the main gates look like.'\\n\\nShe peers across the river and grimaces at what she sees.\\n\\n'Certainly crawling with Orcs, but not much in the way of barriers. That big one there must be Gorgar. We must assume this crowd is only a small fraction of the Orcs living inside the mountain, as well. I have seen, and heard, enough. Let's get out of here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'Let me know when you are ready to return to Annâk-khurfu with Scout-master Ausma!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d18",
+      "en": "The gates of Gundabad are heavily fortified. Only by approaching with stealth will you remain unseen….",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Follow Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Defeat the Taurogrim in Grazadh-gropor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Talk to Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "DNT - Speak to TBD to begin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Defeat the Orc patrol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa7",
+      "en": "Mission: The Main Gates",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "Defeated Taurogrim ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01140",
+      "en": "You have successfully scouted the main gates without alerting the Orcs.\\n\\nYou should talk to Ausma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01143",
+      "en": "You are near the gates of Gundabad.\\n\\nYou should follow Ausma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a0",
+      "en": "You have arrived close to the main gates of Gundabad.\\n\\nYou should talk to Ausma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Follow Ausma as she sneaks towards the main gates of Gundabad.\\n\\nWatch out for Orc patrols!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "You have successfully defeated the Orcs before they alerted the rest of the enemy forces.\\n\\nYou should talk to Ausma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc50",
+      "en": "'What?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc51",
+      "en": "'Hah! A couple of little lost pushdugs! Get 'em, boys!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "You have been spotted by a patrolling Orc!\\n\\nYou should defeat the patrol before they alert the others!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc52",
+      "en": "'Orcs of Urbhármokh! Hear me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "You see many Orcs across the river, including what must be Gorgar!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc53",
+      "en": "'Our old foes, the dwarves, gather and ready for war!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc1",
+      "en": "'Who's sneaking around in the dark out here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc54",
+      "en": "'They seek to exterminate us like vermin, to rip us from our Mountain-home!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc2",
+      "en": "'What? Intruders!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc55",
+      "en": "'I, Gorgar the Ruthless, Son of Bolg, will never let that to happen! I will protect us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc3",
+      "en": "'Why do we have to spend all night patrolling out here? I'm hungry!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc56",
+      "en": "'Blood and glory await us in battle, boys!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc4",
+      "en": "'Because Gorgar says so, idiot! You disobey him, you're going to end up as warg-food.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2bcc57",
+      "en": "'Orcs, prepare for war!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc5",
+      "en": "'Gorgar thinks the dwarves are preparing for war, and might come sneaking up here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc6",
+      "en": "'Dwarves? Sneaking? Hah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Follow Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc7",
+      "en": "'What do you boys think about those hobgoblins? The boss acts real strange around them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Talk to Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc8",
+      "en": "'You're better off keeping your nose out of it. They seem... what is it, warg?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b3",
+      "en": "Follow Ausma as she sneaks towards the main gates of Gundabad.\\n\\nWatch out for Orc patrols!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c2bcc9",
+      "en": "'Smell... something... [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Follow Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b5",
+      "en": "Ausma has stopped to overhear the Orcs talking.\\n\\nYou should stay out of sight and listen to the Orcs.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "Ausma has been incapacitated! You are forced to retreat!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Overhear the conversation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "You have been spotted!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Defeat the attackers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Ausma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "You have been sniffed out by a warg!\\n\\nYou should defeat the attackers before they alert the others!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "Ausma signals for you to stop",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "The warg has noticed you!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34adc21",
+      "en": "'This way. We can use these rocks for cover.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34adc22",
+      "en": "'Hold. Someone's coming.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "Defeated the attackers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34adc23",
+      "en": "'Hold. A few Orcs talking nearby. Let us listen in.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34adc24",
+      "en": "'That's what happens when you underestimate a Stout-axe! Come, we're near Gundabad now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34adc25",
+      "en": "'Uh oh, here they come. Best get ready for a fight.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

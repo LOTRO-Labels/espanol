@@ -1,0 +1,245 @@
+{
+  "id": 621010502,
+  "txt": [
+    {
+      "id": "0xeb01171",
+      "en": "You have found the weapons convoy sacked, and many dwarves dead.\\n\\nYou should talk to the survivor, Vílur Strayfoot.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'Aye, collapsing the stair might be the best way to prevent the Easterlings from bolstering their numbers. More are entering the Ironfold every day. \\n\\n'Please tell Lord Náin that a convoy from Hammerstead never arrived. I fear the Easterlings ambushed them along the road.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'Perhaps collapsing the stair is the right answer, but I caution Lord Náin to do nothing without the council of Thorin Stonehelm, our King in Erebor, and our allies in Dale. The Stair is the main road into the East, and any action we take will surely affect them as well. This is much to consider before acting.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01173",
+      "en": "Vílur Strayfoot has warned you that an attack on Hammerstead is imminent!\\n\\nYou should travel to Hammerstead!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56858",
+      "en": "'It seems the Dwarves of the Ironfold are torn on what to do, as am I. I will have to think on this in solitude. In the meantime, I have work for you. \\n\\n'That convoy from Hammerstead was a shipment of weapons. Hógur's concern is justified. If it is as he fears, and the Easterlings have attacked it, my hand may be forced. I ask that you discover what became of this convoy by visiting the path it should have taken, and return to me as swiftly as you can.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Hammerstead is under attack by the Easterlings!\\n\\nYou should find the captain of the guard, Lóssi.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56860",
+      "en": "'Hmph. Let us collapse the stair and keep those Easterlings out of our land!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50259",
+      "en": "Talk to Lord Náin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01150",
+      "en": "You should talk to Lord Náin, who can be found at his seat in Járnfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01151",
+      "en": "The convoy of weapons was coming from Hammerstead, north-west of Járnfast.\\n\\nYou should find some sign of the convoy on the path from Hammerstead.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf3",
+      "en": "TBD Járnfast 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e1faf4",
+      "en": "The Easterling Menace",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50262",
+      "en": "Talk to Vílur Strayfoot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Talk to Lóssi",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1163",
+      "en": "This is what remains of the weapons convoy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b9",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1166",
+      "en": "Hammerstead is under attack!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'The Easterlings... ambushed us! They stole the weapons! Hammerstead! You must warn Hammerstead! I will live, just go! It is Lóssi, Captain of the Guard you want. He must be told!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56874",
+      "en": "'I have heard that the Easterling refugees no longer have a home to return to. If we collapse the stair, would not that leave them stranded?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56875",
+      "en": "'Those Easterlings are nothing but trouble, and bad for business! Throw them all out, I say!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01161",
+      "en": "Lord Náin has asked you to speak to his advisors in Járnfast.\\n\\nYou should talk to Aldin, Hógur, and Féli.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56847",
+      "en": "'Vílur Strayfoot sent you? Yes, we could use some help! These Easterlings have been harassing us since the convoy left, and we are pinned down!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56876",
+      "en": "'We cannot collapse the stair. There are Zhélruka Dwarves coming that way. I would not have it said we treated fellow dwarves this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01162",
+      "en": "Lord Náin has asked you to gauge the opinions of the citizens of Járnfast.\\n\\nYou should talk to Járnfast citizens.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56877",
+      "en": "'Aye, collapsing the stair may be the only solution. We must protect ourselves from the Easterlings.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56878",
+      "en": "'I am unsure, [placeholder]. It seems there are reasons for and against collapsing the stair. I trust Lord Náin to make the right decision.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a7",
+      "en": "'Aye, I am still alive. Had someone told you otherwise? I fought at Erebor, and though my father and King Brand both fell, I survived... mostly intact.'\\n\\nHe gestures to his metal ear and agate eye.\\n\\n'The ones responsible for these paid dearly. \\n\\n'Though we suffered heavy losses, we were victorious. The Easterlings failed to sack either Járnfast or Erebor. However, instead of fleeing back East with their tails between their legs like the dogs they are, they stayed put!\\n\\n'They are holed up in the Dalish village, Utterby. You no doubt passed it on the way here. Perhaps we could easily deal with just the small remaining host from the battle, but more Easterlings are constantly streaming up the stair at Skald's Drop and adding to that host! It is only a matter of time before their numbers overwhelm what we have here in the Ironfold. More bloodshed seems unavoidable.\\n\\n'I have decisions to make. Difficult decisions. We could collapse the stair, and prevent more Easterlings from entering the Ironfold, but it would also cut off legitimate trade into the Dale-lands, and the route of the Zhélruka clan. And, if rumours are to be believed, the Easterlings are fleeing something terrible and they no longer have a home to which they may return. Aye, the Longbeards would be sympathetic to that plight, or at least they should be.\\n\\n'Please speak with my advisors, and the citizens of Járnfast. Hear their words, and relay them back to me. This matter is one that must be carefully considered.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50270",
+      "en": "Talk to Féli",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56879",
+      "en": "'I agree something should be done about Utterby, but collapsing the stair seems rather rash!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Find any sign of the convoy",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50273",
+      "en": "Talk to Járnfast Citizens",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50245",
+      "en": "Travel to Hammerstead",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50248",
+      "en": "Talk to Aldin",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d146",
+      "en": "Náin the Slakeless, Lord of Járnfast, has many decisions to make regarding the Easterling host that occupies his lands.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50249",
+      "en": "Talk to Hógur",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1146",
+      "en": "The Dwarves of Járnfast have not reached a consensus of opinion",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56855",
+      "en": "'Collapsing the stair? He cannot! There are Zhélruka Dwarves, distant cousins of ours, passing that way. We could not do something so low to other dwarves, even under the circumstances!'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

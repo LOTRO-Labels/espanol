@@ -1,0 +1,113 @@
+{
+  "id": 620924215,
+  "txt": [
+    {
+      "id": "0xa8e11b0",
+      "en": "You have secured the siege schematics",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "[placeholder] crate of supplies destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have defeated the assault upon the store-houses",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "[placeholder] store-houses destroyed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50293",
+      "en": "[placeholder] supplies protected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2d102",
+      "en": "'Siege Schematics? I'll make sure they are secured.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2d103",
+      "en": "'When the time comes to strike back, these schematics will prove valuable.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x320c2ce",
+      "en": "'It is important to keep our plans from the enemy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "The invading army has overrun the wall and is attempting to raid and pillage the various resources found within the Deep. The store-houses and stockpiles of supplies must be protected from the vandals. The Rohirrim Siege schematics remaining in the coomb must be carried to a secure location, or they risk falling into the enemy's hands.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Partial</rgb> Merit Rating.\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n* Supply crate is destroyed\\n* Store-house is destroyed\\n\\n<rgb=#FF0000>Moderate Merit Loss:</rgb>\\n* Store-house guard is defeated\\n \\n<rgb=#00FF00>Major Merit Gain:</rgb>\\n* Schematics are delivered to the water-mill\\n* Supplies protected from all enemy waves\\n* Store-houses protected from all enemy waves",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50294",
+      "en": "[placeholder] siege schematics secured",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e114",
+      "en": "<rgb=#FF0000>The enemy has taken the siege schematics</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The equipment store-houses and stockpiles of supplies must be secured before the invading army can destroy them. Schematics can be picked up and stored at the water-mill. The larger provisions must be defended from direct attacks.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "<rgb=#FF0000>The enemy has destroyed a crate of supplies</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e117",
+      "en": "<rgb=#FF0000>The enemy has destroyed a store-house</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Defend the supplies and store-houses from waves of enemies ([placeholder]/7)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "A guard has been defeated ([placeholder]/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Do not allow the guards to be defeated ([placeholder]/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "A Pillage Denied",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

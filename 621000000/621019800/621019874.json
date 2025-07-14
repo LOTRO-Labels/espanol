@@ -1,0 +1,131 @@
+{
+  "id": 621019874,
+  "txt": [
+    {
+      "id": "0xd9b5687",
+      "en": "'Yes?'\\n\\nYou tell Atta that Ríkmar sent you to speak to him about the demon he claims haunts the Vales of Anduin.\\n\\n'I'm sure he did. Someone comes along who might convince old, mad Atta that it's only a legend? No... I don't think so.'\\n\\nAtta lets out a gruff chuckle.\\n\\n'My people fear things they don't understand. There are no demons in this world, no creatures of the mind... not in the way my people think of them! And what I fear is no demon... it is something much worse!'\\n\\nAtta raises an eyebrow.\\n\\n'Don't you have anything to say for yourself? Fine... then listen!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "Atta can be found in Hultvís.\\n\\nRíkmar has told you to speak to a Woodman named Atta, the eldest man in Hultvís, who has refused to leave the settlement since the days of his youth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Atta can be found in Hultvís.\\n\\nLong met with derision and pity by his own people, Atta has refused to speak of what troubles him for many years. Perhaps if you aid him and earn his trust, he will be more willing to share his tale.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "Talk to Atta",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Atta can be found in Hultvís.\\n\\nYou have helped Atta by laying traps in the woods outside Hultvís. You should return to Atta and see if he is more willing to speak of what troubles him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'You've set the traps, have you?\\n\\nAtta's eyes narrow.\\n\\n'Indeed, I hunt a creature called... the Snatcher.\\n\\n'The Snatcher was here long before I was born, and it has never left! It has eluded my people for many years, but still it watches... waiting for me to grow too comfortable in my old age.\\n\\n'But I will not let it take me like the others!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50294",
+      "en": "Talk to Atta and complete 'Old and Mad'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Atta can be found in Hultvís.\\n\\nAtta has told you of a terrible creature that once haunted the vales, but he dares not to speak its true name. You should aid him with another task and speak to the children of Hultvís to learn more of the creature called Ubb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50295",
+      "en": "Talk to Atta and complete 'Spirits of the Taken'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Talk to Atta",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Atta can be found in Hultvís.\\n\\nYou have learned more of Ubb from the children of Hultvís, and you have banished a number of sorrowful spirits in Avabárg. You should return to Atta.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'Perhaps I misjudged you, [placeholder].'\\n\\nAtta shuffles uncomfortably.\\n\\n'It is difficult for me to speak of it, but if you wish to hear the tale of the night I met... Úbil, I will tell you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'You have done much for the people of Hultvís, [placeholder], but I would ask one last thing of you.\\n\\n'The eldest of our people, Atta, claims that he encountered some sort of demon in his youth.  Ever since, he has refused to leave Hultvís, but none of us have ever seen the creature! And how could we? He claims the creature can move unseen!\\n\\n'Many look upon him with pity, but some of my people have been needlessly cruel to him. I do not know what to believe! When the forest was still Mirkwood, I spied many evil things beneath its eaves and I have been told that demons dwell among the reeds of the Rushgore... but the creature Atta has described is unlike any of them. It's as if he believes that Old Mad Ubb is real! Whatever the truth of his memories may be, it has brought him great pain.\\n\\n'He has grown wary of his own people over the years, and I do not blame him. Perhaps one as well-travelled and learned as you might convince Atta to speak of the demon.\\n\\n'Will you speak to him, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d13",
+      "en": "Long met with derision by some of the people of Hultvís, Atta insists that he speaks true of the old legends and fears the return of a terrible creature that once haunted the vales.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa2",
+      "en": "A Demon of the Mind",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5028",
+      "en": "Talk to Atta",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5029",
+      "en": "Talk to Atta and complete 'Skulking the Wood'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

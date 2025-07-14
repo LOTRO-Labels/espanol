@@ -1,0 +1,995 @@
+{
+  "id": 620878081,
+  "txt": [
+    {
+      "id": "0x211d59c",
+      "en": "Your assigned role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x62501f1",
+      "en": "You cannot confirm while in this area. Please leave this area to confirm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4839fa2",
+      "en": "You must select at least one Tier",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb6912",
+      "en": "Healer: You will heal your fellowship, concentrating on keeping your allies at high morale.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29b5124",
+      "en": "The bonus effect you will receive has been adjusted accordingly.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6def382",
+      "en": "Your fellowship is too large to select that size.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e8c2dd",
+      "en": "You have submitted a confirmation for the Instance Finder queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca53ee2",
+      "en": "Specific",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x68f6862",
+      "en": "You must be the leader to select configuration.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xad57fb6",
+      "en": "Configure your Instance Finder Request.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a77ef5",
+      "en": "Waiting for your group to confirm entry to Instance Finder.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5e76594",
+      "en": "You have been matched by Instance Finder too recently so you cannot use it again yet.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd14a952",
+      "en": "Healer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e9aa90",
+      "en": "Join the queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4839005",
+      "en": "You must select at least one Type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x51935b2",
+      "en": "Tier is not available with currently selected Type(s).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d5e075",
+      "en": "Your potential Instance Finder match has decided to leave. You have been placed back into the queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x481e014",
+      "en": "You cannot confirm while in combat. Please end your fight to confirm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9ac52d5",
+      "en": "Leave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f08470",
+      "en": "You must select an encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe37d3e4",
+      "en": "You cannot confirm while you are travelling. Please dismount to confirm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79881e8",
+      "en": "All Skirmishes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37dcc31",
+      "en": "I",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc521770",
+      "en": "Ready",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9439c75",
+      "en": "Type: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2792b45",
+      "en": "Legacy of Morgoth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37dcc32",
+      "en": "II",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x12d87c5",
+      "en": "You are no longer in the queue because you or one of your friends has left.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37dcc33",
+      "en": "III",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d70202",
+      "en": "Unable to join because you are not logged on yet.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88c340c",
+      "en": "Tier:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2cf854",
+      "en": "Create the selected encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe30c9c",
+      "en": "Your selected roles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3a2235",
+      "en": "Specific",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7dc6c28",
+      "en": "Skirmish",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3eecec4",
+      "en": "Select and configure a specific instance for your current group.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7c0231",
+      "en": "Solo Group Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7c0232",
+      "en": "Duo Group Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7c0233",
+      "en": "Three Man Group Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd054d8c",
+      "en": "Leave Queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9f62b72",
+      "en": "You are not eligible to enter Skirmishes until you complete the Skirmish tutorial. Visit one of the Skirmish Camps found throughout Middle-earth for more information.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96e3c24",
+      "en": "Refuse to enter the queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf7c0236",
+      "en": "Six Man Group Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5627867",
+      "en": "Performing this action will cause you to leave the Instance Finder queue. Are you sure you want to leave the queue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x516b732",
+      "en": "The selected level is not valid for the current encounter at this difficulty tier. This difficulty tier must be run at level [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc11057c",
+      "en": "Select Tiers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa43bb45",
+      "en": "You are currently waiting to confirm to enter the queue, click me to open the Confirm page.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x701058c",
+      "en": "Select Type",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd21afce",
+      "en": "You are waiting to be teleported into an encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd948fc",
+      "en": "Get Encounters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20baee0",
+      "en": "You will not currently receive Featured Instance rewards. The instance must be played at level 100 or above, and the rewards can be earned once daily.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78a1a15",
+      "en": "You or one of your fellows has taken too long to confirm. You have been removed from Instance Finder.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf6303c",
+      "en": "Level:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b9fed",
+      "en": "You are currently waiting to confirm, left-click me to open the Confirm page.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd222734",
+      "en": "This is the role that you have been assigned.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e23b7d",
+      "en": "You are currently waiting for others to confirm, click me to open the Confirm page and see the current status.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcabe00",
+      "en": "You are currently waiting in the queue, so you cannot confirm yet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c73555",
+      "en": "[placeholder] ( Link Lost )",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81e700c",
+      "en": "Collapse All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93f4ba4",
+      "en": "This works just like the simple tab but allows you to opt in or out of specific instances before it finds you matches.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f0db25",
+      "en": "You are currently waiting for fellows to confirm before entering the queue, click me to open the Confirm page.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5002f37",
+      "en": "Are you sure you want to leave the queue?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x638a9e5",
+      "en": "(Unknown Player)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc196990",
+      "en": "You are not currently in a state where you can confirm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x390f52c",
+      "en": "Join",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ecc105",
+      "en": "Confirm Role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83af31c",
+      "en": "Shows how many encounters were selected out of how many possible encounters given the configuration selections.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd37ee0",
+      "en": "You have already confirmed and are now waiting for others to confirm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd059310",
+      "en": "Abandon",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x101a6c5",
+      "en": "[placeholder] has chosen to leave the Instance Finder queue, so your request has been removed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd0264c",
+      "en": "Confirm",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd07e5b5",
+      "en": "Non-Scaling Instance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb05e722",
+      "en": "Waiting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa965e22",
+      "en": "The selected level is not valid for the current encounter. For this encounter please select a level within the range of [placeholder] and [placeholder].",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb714482",
+      "en": "You must select at least one encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc273b4",
+      "en": "Select the type of instance you want to play and instance finder will match you up with other players and create an instance for you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5b48dc",
+      "en": "Seasonal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3030f72",
+      "en": "Unknown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb105b5",
+      "en": "Instance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xca80702",
+      "en": "You cannot join Instance Finder right now because you have entered too many encounters recently.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x363b925",
+      "en": "Currently waiting in the queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2354685",
+      "en": "Grey Mountains instances",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53538bc",
+      "en": "[placeholder]/[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb62d525",
+      "en": "Waiting for Instance Finder to find matches for you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba22b42",
+      "en": "Other",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x88b96e5",
+      "en": "Refuse",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xafc2014",
+      "en": "You are currently waiting in the queue. It is safe to close this window. To leave the queue, click the \\qLeave\\q button.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e5df45",
+      "en": "You or one of your fellows do not meet the level requirements for this Type.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x431010e",
+      "en": "You are currently waiting to be teleported into an encounter.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5be5405",
+      "en": "You have refused to confirm your role for the Instance Finder request. The request will be cancelled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7cd06d4",
+      "en": "35/99",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa247b20",
+      "en": "Click to select this week's Featured Instance. Play at cap level to earn premier equipment and from level 100 to cap for other rewards. Completable daily with optional reset.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e5f6ac",
+      "en": "No Bonus Effect",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94393d2",
+      "en": "Tier: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4970852",
+      "en": "Your request is currently being processed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x28ac480",
+      "en": "Launch the selected encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x149894e",
+      "en": "The players have been assigned roles as follows:\\n[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x10107fc",
+      "en": "Select Sizes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc5eba4",
+      "en": "Support: You will support your fellowship, concentrating on buffing allies, debuffing enemies, as well as assisting with damage and healing.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1ed9630",
+      "en": "Waiting for all the matched players to confirm their assigned roles.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa4e0f4",
+      "en": "You have been matched by Instance Finder for a [placeholder]-player encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x955f03c",
+      "en": "Rewards",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x19127d5",
+      "en": "Found a match. Waiting in the encounter queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbcfc634",
+      "en": "Your Instance Finder Request has been removed from the queue because your fellowship has changed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa124415",
+      "en": "[placeholder] has confirmed {his[m]|her[f]} role for the Instance Finder request.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbe42aa3",
+      "en": "Epic Battles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd59dc45",
+      "en": "Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x172bc22",
+      "en": "Simple",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb81c05",
+      "en": "Damage: You will deal damage for your fellowship, concentrating on killing your foes as quickly as you safely can.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf73c197",
+      "en": "Your configuration has been updated to remove the following buttons because there were no selected encounters matching them:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f40e1",
+      "en": "1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f40e2",
+      "en": "2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f40e3",
+      "en": "3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfd90d95",
+      "en": "Waiting",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe7107e0",
+      "en": "Leave the queue",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6c30b6c",
+      "en": "Featured Instance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfaeca7c",
+      "en": "Launch Now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f40e6",
+      "en": "6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x58b7154",
+      "en": "You cannot join Instance Finder Queue while in a Raid.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x317e275",
+      "en": "Select specific instances you wish to join",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26a8b0c",
+      "en": "Choose an encounter to launch",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6959ed5",
+      "en": "[placeholder] has refused to confirm {his[m]|her[f]} role for the Instance Finder request. The request will be cancelled.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61146b7",
+      "en": "Your selected configuration options have been updated based on your selected encounters.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe69d452",
+      "en": "Your class is not eligible for this role.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8e5ff5",
+      "en": "You have successfully submitted a request to leave the Instance Finder queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7c9eae3",
+      "en": "All Epic Battle instances",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7639b5",
+      "en": "All scaling Classic instances",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x373a6c2",
+      "en": "Only the leader of a fellowship can attempt to join the Instance Finder queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8056e23",
+      "en": "Configuration option does not have any valid encounters associated with it. Please see the Specific panel for more specific information.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8944ea4",
+      "en": "You cannot confirm while you are incapacitated. Please revive to confirm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x420d5e4",
+      "en": "This is the role selection that you have confirmed. You need to leave the queue and start over to make any changes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x483b165",
+      "en": "You must select at least one Size",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4f393f2",
+      "en": "Advanced",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42040b0",
+      "en": "Unable to launch the selected encounter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d74364",
+      "en": "Unable to join because one or more fellows are link dead.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44ad165",
+      "en": "You have successfully submitted a request to join the Instance Finder queue.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x384e56c",
+      "en": "Expand All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7b69c10",
+      "en": "The following members of your fellowship are not eligible to run this encounter:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e92952",
+      "en": "Size is not available with currently selected Type(s).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b472d3",
+      "en": "In order to join Instance Finder queue, all members of the fellowship should be close enough to each other in level.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb82013",
+      "en": "You cannot confirm while managing your traits. Please close the Trait Trainer to confirm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x599faf2",
+      "en": "You must select a role for your class.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc334604",
+      "en": "You have been matched and are currently waiting in the encounter queue. It is safe to close this window. To leave the queue, click the \\qLeave\\q button.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1861062",
+      "en": "[placeholder]:[placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf790ee1",
+      "en": "Tier I difficulty is available on all private encounters.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x437a95c",
+      "en": "Time remaining to confirm:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbbe1895",
+      "en": "Defence: You will tank for your fellowship, keeping the monsters' attention away from your allies.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x91cc2d0",
+      "en": "Confirm your role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf790ee2",
+      "en": "Tier II difficulty is available on all Skirmishes and some instances.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf790ee3",
+      "en": "Tier III difficulty is available only for Skirmishes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5ef290c",
+      "en": "Time to launch:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5d7a17",
+      "en": "WARNING: Accepting this invite will cause you to leave the Instance Finder queue!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8130302",
+      "en": "Your join request is currently being processed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x943bd15",
+      "en": "Size: ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x539ef74",
+      "en": "Support",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x49c28ec",
+      "en": "Size:",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb4354e4",
+      "en": "Your pending Instance Finder Request has been cancelled because your fellowship has changed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x89e4d15",
+      "en": "You are currently waiting in the encounter queue, left click alert to open the Confirm page.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c3872c",
+      "en": "Instance Finder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1abda45",
+      "en": "You are currently waiting in queue, left click alert to open the Confirm page.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5421c45",
+      "en": "Defence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f24c1c",
+      "en": "Confirm Your Role",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2175fec",
+      "en": "Instance Finder Bonus -- [placeholder]",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x428950",
+      "en": "You cannot confirm while inside a private encounter. Please leave your encounter to confirm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7df9cf0",
+      "en": "Reset to earn your Featured Instance rewards again today.  Note: Featured Challenge quests will not be reset.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

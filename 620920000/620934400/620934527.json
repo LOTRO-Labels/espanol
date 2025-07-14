@@ -1,0 +1,287 @@
+{
+  "id": 620934527,
+  "txt": [
+    {
+      "id": "0xfa8e118",
+      "en": "Placed ore in the second cart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Working the Mine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Repair the tracks (0/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e119",
+      "en": "Placed ore in the third cart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Repair the tracks (2/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Talk to the Mine Overseer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Collect pickaxes ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Talk to Gifemund",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Deliver pickaxes ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Place ore in the first cart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'I have put together a list of tasks which I believe you can accomplish. Once they are completed, I will consider your obligation to me fulfilled and you will be free to return to Gifemund.\\n\\n'The first task is simple. I received a shipment of new pickaxes, and the workers near the top of the mine are in need of replacements. Take these up to them and hurry back...we have much to get done.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Repair the tracks (1/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Collect ore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b5",
+      "en": "Delivered pickaxes ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'That was an easy one, and you still managed to take too long. There is too much work to do!\\n\\n'This next task will be a little more difficult. The workers have gathered a fair amount of ore down here, but it needs to be loaded into the carts. Three carts need to be loaded, so you will need to be quick about it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'You took long enough! I am glad that you are only temporary help, because you would not last in this mine a day more.\\n\\n'This last task will be the most difficult, but perhaps you are up to the challenge...though I doubt it. Those scoundrels from lower Woodhurst keep damaging my track at night, and I think that they may have the stolen stakes that keep it in place. I need you to repair the track.' ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Ore has been gathered at the bottom of Wid Isernore.\\n\\nYou should load the collected ore into the carts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "Repaired the tracks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Ore has been gathered at the bottom of Wid Isernore.\\n\\nYou should load the collected ore into the carts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "The new shipment of pickaxes is near the Mine Overseer, near the bottom of Wid Isernore.\\n\\nThe Mine Overseer asked you to collect the new shipment of pickaxes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Ore has been gathered at the bottom of Wid Isernore.\\n\\nYou should load the collected ore into the carts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Ore has been gathered at the bottom of Wid Isernore.\\n\\nYou should load the collected ore into the carts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d15",
+      "en": "The Mine Overseer appears to be taking advantage of your presence by having you perform additional tasks for him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50290",
+      "en": "Place ore in the third cart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50291",
+      "en": "Talk to the Mine Overseer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Gifemund awaits your return in the ore-refinery building near the centre of Woodhurst.\\n\\nThe Mine Overseer instructed you to return to Gifemund.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'Very well, that is all I require of you. You are free to return to Gifemund. Good day to you, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "The Mine Overseer is at the bottom of Wid Isernore.\\n\\nYou should return to the Mine Overseer and inform him that you finished the tasks he assigned to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1190",
+      "en": "Repaired the tracks (1/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "The workers in need of the new pick-axes are near the top of Wid Isernore.\\n\\nThe Mine Overseer told you to take the new shipment of pickaxes to the workers in need of replacements.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50294",
+      "en": "Talk to the mine overseer",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "Repaired the tracks (2/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Ore has been gathered at the bottom of Wid Isernore.\\n\\nYou should load the collected ore into the carts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1192",
+      "en": "Repaired the tracks (3/3)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50296",
+      "en": "Collect ore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50297",
+      "en": "Repair the tracks ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Collect ore",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "Ore has been gathered at the bottom of Wid Isernore.\\n\\nYou should load the collected ore into the carts.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "The Mine Overseer is at the bottom of Wid Isernore for your next task.\\n\\nYou should return to the Mine Overseer for your next task.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "The Mine Overseer is at the bottom of Wid Isernore.\\n\\nYou should return to the Mine Overseer for your next task.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5027",
+      "en": "Place ore in the second cart",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "The track runs from Wid Isernore towards Woodhurst.\\n\\nThe Mine Overseer wants you to repair the track.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "Collect pickaxes ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "The track runs from Wid Isernore towards Woodhurst.\\n\\nThe Mine Overseer wants you to repair the track.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "The track runs from Wid Isernore towards Woodhurst.\\n\\nThe Mine Overseer wants you to repair the track.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'You have proven your loyalty. The Overseer can be a true task-master, but you look none the worse for wear. \\n\\n'I am on the cusp of making my first step towards the seat of Woodhurst. Before I do, however, I think the time has come to obtain a different perspective...one might say a unique perspective. I believe she can help me ensure that my affairs are in order....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a6",
+      "en": "Placed ore in the first cart",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

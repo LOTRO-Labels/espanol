@@ -1,0 +1,155 @@
+{
+  "id": 620874906,
+  "txt": [
+    {
+      "id": "0xd085252",
+      "en": "'I've heard such wonderful things about you from Ned, Carlo, and Odo! They said your food was the best they've tasted all week, and that's saying something. Hobbits sample many fine foods, and often. You have impressed me, [placeholder]. I believe you are ready to advance as an artisan cook.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'I haven't eaten in a full two hours! My friends were supposed to sup with me, but they need to find me first. I'm the best hider in all the Shire, you see, so it may be a while yet before I can take my meal.\\n\\n'Thank you most kindly for this bite! I was near to collapsing from hunger.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Crafting: Artisan Cook",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Oh, how wonderful! I needed this delivery because I ate my wife's pie-filling, you see. I needed to replace it quickly. I hope she doesn't notice. Usually I eat the pie-crusts, but I do so love strawberry-pie!\\n\\n'That strawberry-filling really does smell most remarkable. May...may I have a taste?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I have a hungry patron who ordered beef stew, but I'm all out! Thank you so much for delivering this, [placeholder]. I hear you are a very skilled cook...well on your way to surpassing expert level, even! It looks delicious.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have cooked hard tack rations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'That beef stew was delicious...I've told Jewel as much.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have cooked strawberry pie-filling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'Oh dear, I've eaten my wife's pies. Don't tell her!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "You have cooked beef stew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "The crafting recipes you must create can be found in your crafting panel.\\n\\nYou should craft the three recipes required by Jewel Underhill for your growth as a Cook.\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'This will tide me over until my friends find me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Hobbits in need of the food you cooked can be found throughout Michel Delving.\\n\\nYou should bring your cooked goods to the hobbits in Michel Delving.\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'You need to make hard tack rations, strawberry pie-filling, and beef stew.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Jewel Underhill can be found in the Crafting Area of Michel Delving.\\n\\nYou should return to Jewel Underhill with the news that your cooked foods were greatly appreciated by the local hobbits.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'Take the hard tack rations to Odo Pipes, the strawberry pie-filling to Ned Diggins, and the beef stew to Carlo Blagrove.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Execute the recipe for hard tack rations",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Execute the recipe for strawberry pie-filling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Execute the recipe for beef stew",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Deliver the hard tack rations to Odo Pipes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Bring the strawberry pie-filling to Ned Diggins",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Deliver the beef stew to Carlo Blagrove",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Return to Jewel Underhill with news of your success",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have been sent to an expert crafting vendor to have your own expertise appraised before moving on to artisanship.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'You have been sent to me at an important time in your journey as a crafter, [placeholder]. As I'm sure you've noticed, you are very close to becoming an artisan cook.\\n\\n'Artisans can no longer execute their recipes at ordinary ovens; instead, they must use the superior oven, like this one beside me.\\n\\n'Before granting you access to artisan recipes, I want to make sure that you are truly proficient as an expert. I would like you to execute three recipes and deliver the goods you make to folk who have need of it. They will tell me if what you make is evidence that you have achieved true proficiency as an expert.'\\n\\n<rgb=#FF0000>WARNING: All items required for this quest must be kept intact, and should not be consumed in the completion of a larger recipe.\\n\\nIf you use one of your required Quest Items as an ingredient, you will not be able to complete the quest until you make a new one!</rgb>",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

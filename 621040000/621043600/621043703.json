@@ -1,0 +1,23 @@
+{
+  "id": 621043703,
+  "txt": [
+    {
+      "id": "0xda44875",
+      "en": "Innate Strength: Intimidating Presence",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Quick Attacks grant the buff 'Innate Strength: Intimidating Presence', increasing the Brawler’s ability to generate threat.\\n\\nIf a Quick Attack is performed while 'Innate Strength: Intimidating Presence' is still active, the buff is instead advanced to a higher tier, to a maximum of Tier 4.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554671",
+      "en": "Tier 1: +5% Threat Generated\\nTier 2: +10% Threat Generated\\nTier 3: +15% Threat Generated\\nTier 4: +20% Threat Generated",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

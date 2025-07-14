@@ -1,0 +1,503 @@
+{
+  "id": 620880809,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "You have not seen this Angmarim woman since you left the north-lands. When last you saw her, she had been cast out by her clan for dishonouring them. Her name was taken from her, and she became known as Gun Ain: without name.\\n\\nShe survived in the wastes of Forochel by stealing food from the Lossoth hunters once their prey was felled. Lothrandir gave her a bag of food to last until she could rebuild the wreckage of her life.\\n\\nWhat is she doing here?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Well, you're here. This is as far as I go. Follow the stairs straight up and don't wander. The Old Man will know if you do!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'We have much to discuss, [placeholder]. I am Saruman the Wise, and I know much that might surprise you, but still there are mysteries. I need your help.\\n\\n'Together, we can learn much that would otherwise remain hidden. There is much we could accomplish.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'Why do you reject this course? Can you not see that it is futile to continue this fools' charade?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I will bring you to Morflak. But soon I will kill you, and I will kill your friend Lothrandir, and I will earn my new name. My master has promised.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "No! You cannot give in to despair!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96b0451",
+      "en": "'Where do you think you're going, sneak?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd595571",
+      "en": "'Any haste you possessed is spent.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8337fd1",
+      "en": "'You truly are a burglar at heart, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x45d285",
+      "en": "Urbhár",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x868e871",
+      "en": "'Do not forget that your friend Lothrandir is at my mercy.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have been called to Orthanc to appear before the Wizard Saruman.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd595572",
+      "en": "'I saw to that when you were still in the Enedwaith.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8337fd2",
+      "en": "'Did you think to prowl unnoticed throughout Orthanc?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x868e872",
+      "en": "'If you tell me what I want to know, he will not be harmed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd595573",
+      "en": "'I learned of your purpose from the dwarf Nár.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8337fd3",
+      "en": "'Nothing moves within this tower without my knowing of it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x868e873",
+      "en": "'Tell me everything you know about the Ring.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ffc3f0",
+      "en": "'Gandalf knew something of it, and you knew Gandalf.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ffc3f1",
+      "en": "'I know the Ring was in the hands of a halfling. Where is it now?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd595574",
+      "en": "'After you left his home, I had no further need for him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8337fd4",
+      "en": "'I want to help you, [placeholder]. We have much to discuss.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3b7f11",
+      "en": "The voice of Saruman has an odd quality to it. You must <rgb=#FF0000>/resist</rgb> its power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ffc3f2",
+      "en": "'I can be very generous to those who serve me. I can give you anything you seek.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd595575",
+      "en": "'He was quite himself when he died, another life lost in your wake.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3b7f12",
+      "en": "Saruman's voice is mockingly cruel. You must <rgb=#FF0000>/resist</rgb> its power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ffc3f3",
+      "en": "'Come forth, Gun Ain.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf3b7f13",
+      "en": "Saruman's voice is strangely convincing. You must <rgb=#FF0000>/resist</rgb> its power",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "<rgb=#FF0000>Resist</rgb> the power of Saruman's voice (use <rgb=#FF0000>/resist</rgb>)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Listen to Saruman within Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Listen to Saruman within Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Talk to Gun Ain",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Listen to Saruman within Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Talk to Fâsh inside Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Explore the tower of Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc31a3e1",
+      "en": "'Is your thirst for knowledge so strong, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e87ee1",
+      "en": "The words of Galadriel before her Mirror surface in your memory.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Listen to Saruman within Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc31a3e2",
+      "en": "'I see it in your eyes, Lore-master. I can help you quench that thirst.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e87ee2",
+      "en": "'A great tower in moonlight, a shadow against the sky.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Saruman in the tower of Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc31a3e3",
+      "en": "'Many are the tomes I have collected over the long years of my service in Middle-earth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e87ee3",
+      "en": "'The stairs are watched.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "<rgb=#FF0000>Resist</rgb> the power of Saruman's voice (use <rgb=#FF0000>/resist</rgb>)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc31a3e4",
+      "en": "'They are at your disposal, if you wish it. But we will speak first of other matters.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e87ee4",
+      "en": "'I cannot see how you come to this place, Burglar... nor how you could leave it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Listen to Saruman within Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e87ee5",
+      "en": "'But the Mirror shows many things, and not all of them may come to pass.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Saruman in the tower of Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf6a3dd1",
+      "en": "'Come closer, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "<rgb=#FF0000>Resist</rgb> the power of Saruman's voice (use <rgb=#FF0000>/resist</rgb>)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f1",
+      "en": "'You have left a trail of hatred behind you, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Listen to Saruman within Orthanc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f2",
+      "en": "'Gun Ain followed your company down from the north, biding her time.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f3",
+      "en": "'Sometimes she lost your trail, but always she would find it again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d23951",
+      "en": "'I am here, my lord.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1fee51",
+      "en": "'Follow the steps. It won't be my head if you poke your nose where it don't belong.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x164fa31",
+      "en": "The words of Galadriel before her Mirror surface in your memory.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f4",
+      "en": "'That is when I found her.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d23952",
+      "en": "'You will give me my name? Once I kill [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x164fa32",
+      "en": "'The prize of knowledge, it waits, ripe for the taking.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f5",
+      "en": "'She did my work in Enedwaith and Dunland, and for that she will be rewarded.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x164fa33",
+      "en": "'A library at the pinnacle of the black spire, secrets untold.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f6",
+      "en": "'Yes. You will no longer be Gun Ain. But not yet.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x164fa34",
+      "en": "'Enemies without...and within....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f9d0f7",
+      "en": "'I want you to consider my offer, [placeholder]. You will work for Morflak while you decide.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x164fa35",
+      "en": "'How far will your heart take you for limitless knowledge, Lore-master?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Fâsh has brought you inside Orthanc and is waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "You have been summoned inside Orthanc to present yourself to Saruman and have been ordered not to stray from the path.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Saruman has brought you to a library within his tower of Orthanc.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "The power of Saruman's voice is seductive, his words convincing. You find yourself nodding in agreement.\\n\\nYou must <rgb=#FF0000>resist</rgb>. You must not succumb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "The power of Saruman's voice is seductive, his words convincing. You find yourself nodding in agreement.\\n\\nYou must <rgb=#FF0000>resist</rgb>. You must not succumb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "The power of Saruman's voice is seductive, his words convincing. You find yourself nodding in agreement.\\n\\nYou must <rgb=#FF0000>resist</rgb>. You must not succumb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "The power of Saruman's voice is seductive, his words convincing. You find yourself nodding in agreement.\\n\\nYou must <rgb=#FF0000>resist</rgb>. You must not succumb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced8",
+      "en": "The power of Saruman's voice is seductive, his words convincing. You find yourself nodding in agreement.\\n\\nYou must <rgb=#FF0000>resist</rgb>. You must not succumb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "The power of Saruman's voice is seductive, his words convincing. You find yourself nodding in agreement.\\n\\nYou must <rgb=#FF0000>resist</rgb>. You must not succumb.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "You have not seen the Angmarim once known as Avair since you were in Forochel. Her name was taken from her, and now she serves Saruman as Gun Ain, 'Without Name.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd38db71",
+      "en": "'Your own endeavour has ended in defeat, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced11",
+      "en": "You have not seen the Angmarim once known as Avair since you were in Forochel. Her name was taken from her, and now she serves Saruman as Gun Ain, 'Without Name.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd38db72",
+      "en": "'You have ridden a long road, but have accomplished nothing.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd38db73",
+      "en": "'And what has it cost you? The lives of friends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd38db74",
+      "en": "'Abandon this foolish journey, [placeholder]. Join me in my pursuit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: In the Presence of Saruman",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

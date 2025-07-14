@@ -1,0 +1,383 @@
+{
+  "id": 620996349,
+  "txt": [
+    {
+      "id": "0xa8e1191",
+      "en": "The sound of raised voices comes from within Fushaum Bal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e22",
+      "en": "Bring the orders concerning Nargroth to Harthalín outside Fushaum Bal <rgb=#00FF00>(The orders can be read from your inventory)</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "You tell Harthalín what the spirit in the stone showed to you, and she spends a moment in thought.\\n\\n'From your description it sounds to me that this skull will be found in the prison of Naerband, south of the Ghâshghurm. But why would this spirit wish for you to find this skull, [placeholder], if that is truly what it wants?\\n\\n'I can see no immediate harm from completing this task, but remain alert. Spirits such as the one bound to this stone have a reputation for deceit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Talk to Harthalín outside Nargroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ed9",
+      "en": "Bring the scorched skull to the watching-stone outside Nargroth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "You place the skull at the base of the stone, and the images return.\\n\\nOnce again you see the prison of Naerband, but something this time is different. It takes you a moment to reconcile what has changed, but held in the grip of the spirit it is impossible to tell how long the moment might have been. The prison stands in the shadow of Orodruin, and then you see it: the southern slope of the Mountain is intact; the Ghâshghurm has not yet been made.\\n\\nThe images flicker behind your eyes, and you see that Naerband is filled with prisoners. Downtrodden Nurnhoth, rebellious Easterlings, and Haradrim deserters rattle the cages of their cells. Their jailors walk the corridors of Naerband, and they tap their weapons on the iron doors, and they scrape their blades on the iron walls, and they tap their boots on the iron floor. You are seized by a sensation of eager anticipation, but it does not belong to you. It comes from the whispering spirit, and fills you with revulsion and dread.\\n\\nThen the Mountain blazes, and the southern slope explodes in a shower of rock and flame. The torrent flows inexorably down the side of Orodruin, and the rocky plain becomes a lake of fire: the Ghâshghurm.\\n\\nThe images become sharper and more distinct, as if the spirit seeks to draw your attention. At last you understand. As the lava pooled at the foot of Orodruin, the iron prison of Naerband became super-heated by its proximity to the lake of fire. Naerband became more than a prison. It became an oven.\\n\\nYou close your eyes to shut out the sight, and at last the spirit relents, its price paid.\\n\\n'Zaghárog,' it says to you: the name of the spirit in the stone.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "Defeated Easterlings in Talath Úrui ([placeholder]/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'I do not trust this spirit, but perhaps we can make use of it to learn that which we seek and be safely away before it works some treachery upon us!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'What did you see, [placeholder]?'\\n\\nYou recount the terrible images, and Harthalín glares at the watching-stone with disgust.\\n\\n'It is a spirit fell and cruel, of that there can be no mistake. Am I right in thinking that you have paid its price?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'Mithrandir spoke at length to me about the Gúrzyul, but much of what he had to say was speculation. We do not know very much about them.\\n\\n'They seem to have been Black Númenóreans that swore to serve Sauron during the later years of the Second Age, before the Last Alliance of Elves and Men besieged Barad-dûr. Many were the cruel Men who sought to serve the Dark Lord in those days, but few only won his favour. Mithrandir would not say how he came to know this, but he believes Sauron bled his favourites with the edge of Gulthauk, his prized morgul-knife.\\n\\n'They need no longer fear the passage of time, for by this act they were made Deathless. They are like to the Nazgûl, but lesser in power, and unlike those wraiths they can be slain. There will be no returning from death for such as they.\\n\\n'I understand you wish to add to our store of knowledge concerning the Gúrzyul? I will travel with you into Talath Úrui. Let us first find the  settlement of Fushaum Bal. Reports indicate it is a lawless settlement on the south-western side of Orodruin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Easterlings can be found around Fushaum Bal, in Talath Úrui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'It is so strange to me, [placeholder]. This place is both alike to and very different from when I last was here at the close of the Second Age. For all the tumult within its heart, Orodruin seemed as if it would always endure. And yet, even the Mountain of Fire has changed since then: the southern face blown open, a lake of fire spilt onto the plain.\\n\\n'This settlement was not here then, but I recognize its type. Military encampments have a sense of order and of place about them. Well do I know it, for I served beneath High King Gil-galad at Dagorlad and during the Siege!\\n\\n'But once the campaign is ended, all such order is discarded alongside the attention of the commanders. This settlement, Fushaum Bal, has that air about it. Many inhabit it now, and lawlessness runs rampant, but some of the Easterlings within might be high enough in the hierarchy to have information of use to us. Hunt them down around Fushaum Bal and its environs, and see what they might know of the Gúrzyul.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Easterlings can be found around Fushaum Bal, in Talath Úrui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Find the road that leads to Nargroth, on the eastern side of Talath Úrui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to the spirit in the stone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56890",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "You found a crumpled parchment on the body of an Easterling in Talath Úrui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Nargroth, the Caverns of Fire, can be found on the eastern side of Talath Úrui, beyond the Ghâshghurm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Find the scorched skull in a cell within the prison of Naerband <rgb=#00FF00>using the information in your quest journal</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'Do you feel that? Something lurks within this statue! I sense it watching us.\\n\\n'Use caution, [placeholder]! Watching-stones are oft the home of fell spirits, bound there for eternity, and they bear no love for such as we!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "A watching-stone outside the Caverns of Fire has taken an interest in you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Meet up with Harthalín outside Fushaum Bal, in Talath Úrui",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "The carven stone is dreadful in form, and it does not seem out of place within Gorgoroth. But there is something else that sets it apart, a cold and watchful presence. And then, there is more: a voice that whispers in your head. Images rise unbidden behind your eyes. They are drained of colour, as if the one who creates them has no knowledge of shade or hue.\\n\\nYou see a place of darkness, and a tiny point of light flickering high above. Then, below, there is a knife held in a cruel fist. It descends in an arc, and blood flows from a wound. The darkness deepens.\\n\\nThe voice in your head speaks no words, but you are suddenly awash on a questioning sea.\\n\\nYou recover your own words enough to reply, 'Yes, the Gúrzyul.'\\n\\nThe interrogative waves vanish as quickly as they had arrived. In their place is an overwhelming sensation: the promise of knowledge and secrets held close for centuries. As you try to express that such knowledge will be welcome, it is whisked cruelly away, dangled just out of reach.\\n\\nThe giving sensation is gone, replaced with a taking desire. You see a prison in your mind's eye, and the details are so clear you know it is a real place. The spirit shows you a certain cell in this prison, and a scorched skull in one corner. The images fade, and the whispering voice returns. It speaks a single word, but the word is enough. The word is 'want.'\\n\\nYou are released from the spirit's hold and the whispering in your head fades away. The presence remains, regarding you silently.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "The spirit in the stone outside Nargroth showed you the location of a scorched skull within a cell in Naerband. If you understood its wish correctly, it has promised to tell you about the Gúrzyul if you return with the skull.\\n\\nYou witnessed that Naerband consists of three large chambers, connected by hallways and subdivided by walls and iron bars. The skull is on the floor of a cell in the south-western corner of the largest, northernmost chamber. The iron door to the cell was half-open, and you saw flame-spirits floating over the fog-covered floor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56840",
+      "en": "The presence remains within the stone: Zaghárog, watching you silently, waiting.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Harthalín outside Fushaum Bal",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56843",
+      "en": "'I understand you wish to add to our store of knowledge concerning the Gúrzyul? I will travel with you into Talath Úrui. Let us first find the settlement of Fushaum Bal. Reports indicate it is a lawless settlement on the south-western side of Orodruin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'Lawlessness runs rampant throughout Fushaum Bal, but some of the Easterlings within might be high enough in the hierarchy to have information of use to us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Defeat Easterlings in Talath Úrui ([placeholder]/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56845",
+      "en": "'Lawlessness runs rampant throughout Fushaum Bal, but some of the Easterlings within might be high enough in the hierarchy to have information of use to us.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56846",
+      "en": "'This is the road that leads to Nargroth, but I have discovered something else that might prove of use to us, [placeholder]. There is a watching-stone a short distance to the north of here, and I sense that it may have seen something concerning the Gúrzyul!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Defeat Easterlings in Talath Úrui (7/8)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'Only the Ghâsh-hai might be high enough in the hierarchy to have any information of use to us. Hunt them down around Fushaum Bal and its environs, and see what they might know of the Gúrzyul.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a3",
+      "en": "'What did you find, [placeholder]?'\\n\\nHarthalín takes the parchment and reads it. When she is done, she gazes off to the east.\\n\\n'So Urudanî Stonemaiden was one of the Gúrzyul, after all. I thought it possible, for she was a Black Númenórean and fought against us during the Siege of Barad-dûr. But she had not been seen since then; I thought she was dead.\\n\\n'There is something else familiar in these orders. Nargroth, the Caverns of Fire, are located on the eastern side of Orodruin. If the Ghâsh-hai reported to Urudanî at Nargroth, we may learn more if we dare the caverns. It will not be easy to reach them, for when the southern face of Orodruin exploded, it created a lake of fire between here and there: the Ghâshghurm.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'If the Ghâsh-hai reported to Urudanî at Nargroth, we may learn more if we dare the caverns. It will not be easy to reach them, for when the southern face of Orodruin exploded, it created a lake of fire between here and there: the Ghâshghurm.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d168",
+      "en": "Harthalín wishes to see the slopes of Orodruin again, disbelieving that Sauron is truly gone, and will accompany you as you search Talath Úrui for knowledge of the Gúrzyul.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "The lawless settlement of Fushaum Bal is south-west of Orodruin, in Talath Úrui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56854",
+      "en": "'Use caution, [placeholder]! Watching-stones are oft the home of fell spirits, bound there for eternity, and they bear no love for such as we!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "The images return: you see the prison once again, and know that it is the prison of Naerband, south of the Ghâshghurm. Once again the spirit shows you the certain cell, and the scorched skull in the corner. Then the images recede, but the watchful presence remains.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01148",
+      "en": "A watching-stone outside the Caverns of Fire has taken an interest in you, and awaits delivery of the skull you agreed to bring to it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b2",
+      "en": "'If you wish to add to our store of knowledge concerning the Gúrzyul, I will travel with you into Talath Úrui. Let us first find the  settlement of Fushaum Bal. Reports indicate it is a lawless settlement on the south-western side of Orodruin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "Harthalín is outside Fushaum Bal, in Talath Úrui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b5",
+      "en": "'Only the Ghâsh-hai might be high enough in the hierarchy to have any information of use to us. Hunt them down around Fushaum Bal and its environs, and see what they might know of the Gúrzyul.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'It is so strange to me, [placeholder]. This place is both alike and very different from when I last was here at the close of the Second Age. You succumbed to your wound before the Siege was well underway, but I spent years on the black plain before Barad-dûr. For all the tumult within its heart, Orodruin seemed as if it would always endure. And yet, even the Mountain of Fire has changed since then: the southern face blown open, a lake of fire spilt onto the plain.\\n\\n'This settlement was not here then, but I recognize its type, and so must you. Military encampments have a sense of order and of place about them. Well do we know it, [placeholder]! Did we not serve beneath High King Gil-galad at Dagorlad?\\n\\n'But once the campaign is ended, all such order is discarded alongside the attention of the commanders. This settlement, Fushaum Bal, has that air about it. Many inhabit it now, and lawlessness runs rampant, but some of the Easterlings within might be high enough in the hierarchy to have information of use to us. Hunt them down around Fushaum Bal and its environs, and see what they might know of the Gúrzyul.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "The prison that was shown to you is called Naerband",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01151",
+      "en": "Harthalín is by the watching-stone outside Nargroth, on the eastern side of Talath Úrui.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "Malice emanates from the skull. Scorched by heat, it has neither splintered nor cracked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "You find a scorched parchment clutched in the hand of the fallen Easterling",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "You feel a presence regard you from within the carven stone",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7308b4",
+      "en": "'There is nothing for me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 3.3: The Gúrzyul",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

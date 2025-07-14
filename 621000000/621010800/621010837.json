@@ -1,0 +1,893 @@
+{
+  "id": 621010837,
+  "txt": [
+    {
+      "id": "0x6a50263",
+      "en": "Search the house of Khîl's father for some means of opening the secret door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50265",
+      "en": "Talk to Khîl by the secret door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4492602",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "You reach under this corner of the table and feel a series of small scratches that merit closer inspection. You study the scratches and discover a crude picture of what seems to be a bed, with a line emanating from its very centre.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50269",
+      "en": "Help Khîl discover the words that will open the door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "You reach under the corner of the table and disturb an insect that flies away, buzzing angrily. You doubt the insect knows anything about the secret door so you let it escape.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56858",
+      "en": "It is impossible to tell exactly when this illustration might have been painted. An armoured dwarf commands his warriors to assault a forest encampment of Orcs against a backdrop of flames. Is this a painting of Mirkwood, or other woods entirely?\\n\\nYou feel around the edges of the frame and behind the painting for a hidden lever or other device, but find nothing.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01168",
+      "en": "Khîl is standing in front of the secret door, but it remains closed.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50276",
+      "en": "Return to Khîl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56860",
+      "en": "'What's that? You found a secret lever hidden in one of the beds? This is preposterous, [placeholder]! What secrets did my father keep in this house, and did my mother know about them? No, I cannot believe that dear Zéma knew anything about secret levers and chambers and hidden doors!\\n\\n'I heard a loud snap earlier. It must have been when you pulled that secret lever. Something must have changed, but what?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50279",
+      "en": "Talk to Khîl by the secret door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56862",
+      "en": "This chest used to be locked, but now it stands open and reveals its contents: glittering gold and shining gemstones. The riches are impressive, but you are not here for the fortunes of Khîl's forebears. Instead you reach into the treasure and feel around the edges until you find a small recess on the inside of the chest. You press the indentation and hear Khîl give a whoop of triumph from the other room.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01171",
+      "en": "Khîl has asked you to search his father's house for some means of opening the secret door he discovered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01174",
+      "en": "Khîl stands by the secret door, studying the runes that appeared on its face.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56866",
+      "en": "'These are Zhélruka runes, the runes of my people! Alas, I have not studied them for many years, and they are not as understandable to me as they should be. My father Bránit always thought I should pay more attention to my learning. Was it because of this?\\n\\n'Ah, how could it be? He died before telling me anything about this secret door, and I was no longer welcome in his house.\\n\\n'But I think I can read these runes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01177",
+      "en": "Khîl is standing in front of the secret door, trying to learn the words that will open it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56870",
+      "en": "You reach under this corner of the table and find it covered in a film of ancient dust. The feeling of the dirt on your fingers is very unpleasant, and you wipe it off on your clothes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56871",
+      "en": "You reach under this corner of the table and feel a series of small scratches that merit closer inspection. You study the scratches and discover a crude picture of what seems to be a bed, with a line emanating from its very centre.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56872",
+      "en": "You reach under the corner of the table and disturb an insect that flies away, buzzing angrily. You doubt the insect knows anything about the secret door so you let it escape.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56873",
+      "en": "You reach under the corner of the table and find only dust. Even so, it does not dissuade you from your search and you only relent when you are certain this corner of the table holds no secrets.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edc0",
+      "en": "'Vóin... what did you do?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edc1",
+      "en": "'These runes...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "It is impossible to tell exactly when this illustration might have been painted. An armoured dwarf commands his warriors to assault a forest encampment of Orcs against a backdrop of flames. Is this a painting of Mirkwood, or other woods entirely?\\n\\nYou feel around the edges of the frame and behind the painting for a hidden lever or other device, but find nothing.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edc2",
+      "en": "'There is a book here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'DNT - Blah! Crate Stack A!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edc3",
+      "en": "'It is bound in black leather.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'DNT - Blah! Crate Stack B!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edc4",
+      "en": "'This is Sauron's symbol!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'DNT - Blah! Ore Barrow!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edc5",
+      "en": "'This book is from the Land of Mordor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'DNT - Blah! Moved Desk!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "You cannot move the heavy stone of the bed by yourself, but you inspect its sides and back for hidden sigils or devices and find none. Reaching under the mattress, you disturb only dust and long-dead insects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "This bed is too heavy to move. You search all around its sides and back but find only cobwebs and dust, and nothing suspicious.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56887",
+      "en": "You reach under this corner of the table and find it covered in a film of ancient dust. The dirt smears and you wipe it off on your clothes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'DNT - Blah! Table Corner 2!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Search the house of Khîl's father for some means of opening the secret door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'DNT - Blah! Table Corner 3!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Search the house of Khîl's father for some means of opening the secret door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'I have not been back here for many years. My father Bránit and I had a falling out and he told me never to return. He died some time after that, neither of us having apologised, and I could not bring myself to come back.\\n\\n'But when I did live in this house, I never knew of anything like this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd0",
+      "en": "'Ah, yes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd1",
+      "en": "'Tázko.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd2",
+      "en": "'It is hopeless.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd3",
+      "en": "'You cannot be serious, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd4",
+      "en": "'Fine.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd5",
+      "en": "'My thrice-great grandfather's name was... it was...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Khîl has brought you to his father's house. He is consumed with worry about something he discovered there.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd6",
+      "en": "'Vóin?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1130",
+      "en": "The chest is locked and you can find no way to open it",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd7",
+      "en": "'I don't believe it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd8",
+      "en": "'We have no choice, [placeholder]. Let's go.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a5",
+      "en": "Khîl has brought you to his father's house. He is consumed with worry about something he discovered there.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edd9",
+      "en": "'Stay close, [placeholder]. I do not like this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a8",
+      "en": "Khîl has asked you to search his father's house for some means of opening the secret door he discovered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Khîl has asked you to search his father's house for some means of opening the secret door he discovered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Khîl in his father's house",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede0",
+      "en": "'[placeholder], it's not working.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede1",
+      "en": "'What's that? You think my father might not have made this door?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Listen to Khîl's explanation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede2",
+      "en": "'It is true that others of my family lived here before Bránit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede3",
+      "en": "'Perhaps my grandfather is responsible for it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede4",
+      "en": "'My grandfather, Vélek!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede5",
+      "en": "'No... my great grandfather?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede6",
+      "en": "'Státor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a4",
+      "en": "Thinking the ore-filled barrow might contain a hidden lever or other mechanism, you search it closely but find nothing out of the ordinary. It rolls on its front wheel and is not rooted to the floor as you might have expected.\\n\\nAt last you dig around in the contents of the barrow, but your search reveals nothing suspicious.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede7",
+      "en": "'This is useless, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "You inspect the desk Khîl moved away from the wall and note the scrapes on the floor caused by the movement. The drawer contains nothing of interest, and although you search beneath and behind the heavy stone of the desk, you find no apparatus that might connect it to the secret door.\\n\\nThe desk does not appear to be involved with opening the door, and served only to keep its location a secret from idle eyes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede8",
+      "en": "'You don't think this chamber is even older than my great-grandfather, do you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50ede9",
+      "en": "'What was my twice-great grandfather's name? I barely remember it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf0",
+      "en": "'Well, I myself have told tales of doors just like this! They can always be opened!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf1",
+      "en": "'I beg you to help me search for a way to open this one, my friend!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf2",
+      "en": "'I heard a loud click, but the door is still closed. What changed, I wonder?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "You reach under the corner of the table and find only dust. Even so, it does not dissuade you from your search and you only relent when you are certain this corner of the table holds no secrets.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf3",
+      "en": "'[placeholder]! Something is happening! Get out here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed1",
+      "en": "'This way, [placeholder], this way!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf4",
+      "en": "'I think these runes say...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed2",
+      "en": "'Up here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf5",
+      "en": "''Speak the name of he who carved me.''",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01102",
+      "en": "Khîl has discovered the word that opens the secret door: Vóin, the name of his great-great-great-grandfather.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed3",
+      "en": "'Do you see it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf6",
+      "en": "'Well, here I go, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed4",
+      "en": "'There is a door here, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf7",
+      "en": "'Bránit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed5",
+      "en": "'I moved the desk to clean behind it, and that's when I saw the seam in the wall.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf8",
+      "en": "'Hmm. Bránit.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed6",
+      "en": "'You can see it, right? I am not going mad?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50edf9",
+      "en": "'Bránit!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01106",
+      "en": "Khîl has discovered the word that opens the secret door: Vóin, the name of his great-great-great-grandfather. Now he wishes to explore the chamber.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed7",
+      "en": "'Why would my father Bránit need a secret door inside his house?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1154",
+      "en": "The stone bench is heavy, but you study it closely and find nothing unusual",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed8",
+      "en": "'What could lie within this hidden chamber?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb050ed9",
+      "en": "'Brrrr! I have given myself a chill, [placeholder]!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1155",
+      "en": "This table bears the scuff-marks of heavy use but nothing of use to you now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01108",
+      "en": "Khîl is inside the hidden chamber in his father's house.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1157",
+      "en": "You are disappointed to see that the hidden door remains closed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50213",
+      "en": "Talk to Khîl outside the secret door",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: The Hidden Chamber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50215",
+      "en": "Explore the hidden chamber with Khîl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50219",
+      "en": "Talk to Khîl inside the hidden chamber",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0112",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1160",
+      "en": "These crates contain assorted home goods, and you find nothing suspicious among them",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b92",
+      "en": "This chest contains old clothes that likely once belonged to Khîl's mother",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Khîl has asked you to search his father's house for some means of opening the secret door he discovered.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1165",
+      "en": "The metal-banded chest contains only rags and moth-eaten clothes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1166",
+      "en": "The metal-banded chest contains only rags and moth-eaten clothes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1167",
+      "en": "Behind these crates you find that a young Khîl scratched his name in the wall, but nothing useful",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "This small stack of crates contains broken pieces of wood and metal, and nothing of use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1169",
+      "en": "The grain in these sacks has long since rotted. The sacks themselves hide nothing of note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7761da1",
+      "en": "The Black Book of Mordor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56814",
+      "en": "'I am pleased we managed to open the door, but I tremble to think what may lie beyond it! And why should the name of my thrice-great grandfather prove the secret to its opening? My family is long-lived, but Vóin died almost a thousand years ago, if I remember the lineage aright; his name is rarely spoken in my family, and were I not a teller of tales with an iron-clad memory I might not have remembered it at all!\\n\\n'Why did Vóin delve this hidden chamber? What terrible secrets might lie within?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "The grain in these sacks has long since rotted. The sacks themselves hide nothing of note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "The stone bench is heavy, but you study it closely and find nothing unusual",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "This table bears the scuff-marks of heavy use but nothing of use to you now",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1175",
+      "en": "You stretch your arm beneath the mattress and find nothing unusual within reach",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "The chest is locked and you can find no way to open it",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1177",
+      "en": "Stretching further you find a hidden lever, which you pull. There is a snap elsewhere in the house!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1179",
+      "en": "You search among the crates, but find nothing of note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d151",
+      "en": "Khîl has found something in his father's house that fills him with worry, and he has asked for your help to investigate it.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "You search among the crates, but find nothing of note",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1183",
+      "en": "These crates contain assorted home goods, and you find nothing suspicious among them",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "The metal-banded chest contains only rags and moth-eaten clothes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "This chest contains old clothes that likely once belonged to Khîl's mother",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1188",
+      "en": "Behind these crates you find that a young Khîl scratched his name in the wall, but nothing useful",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "This small stack of crates contains broken pieces of wood and metal, and nothing of use",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a0",
+      "en": "'Did Vóin write in this book? Many of the pages are blank, but the writing within seems to be of many different languages; one of them seems to be in the Zhélruka mode. But what would my thrice-great grandfather have to do with artifacts of Mordor? I do not like this, [placeholder]!\\n\\n'We must tell Lord Náin about this. We have no choice!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a1",
+      "en": "'Take a look at these runes, [placeholder]! What do they say? My father Bránit always thought I should pay more attention to my learning. Was it because of this?\\n\\n'Ah, how could it be? He died before telling me anything about this secret door, and I was no longer welcome in his house.\\n\\n'But I think I can read these runes.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689a4",
+      "en": "You reach under this corner of the table and find it covered in a film of ancient dust. The dirt smears and you wipe it off on your clothes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "The secret to opening this door must be somewhere within the house",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56841",
+      "en": "Thinking the ore-filled barrow might contain a hidden lever or other mechanism, you search it closely but find nothing out of the ordinary. It rolls on its front wheel and is not rooted to the floor as you might have expected.\\n\\nAt last you dig around in the contents of the barrow, but your search reveals nothing suspicious.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed94",
+      "en": "Follow Khîl to the source of his upset",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56842",
+      "en": "You inspect the desk Khîl moved away from the wall and note the scrapes on the floor caused by the movement. The drawer contains nothing of interest, and although you search beneath and behind the heavy stone of the desk, you find no apparatus that might connect it to the secret door.\\n\\nThe desk does not appear to be involved with opening the door, and served only to keep its location a secret from idle eyes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56843",
+      "en": "You cannot move the heavy stone of the bed by yourself, but you inspect its sides and back for hidden sigils or devices and find none. Reaching under the mattress, you disturb only dust and long-dead insects.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "This bed is too heavy to move. You search all around its sides and back but find only cobwebs and dust, and nothing suspicious.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

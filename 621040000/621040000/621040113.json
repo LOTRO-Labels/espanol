@@ -1,0 +1,335 @@
+{
+  "id": 621040113,
+  "txt": [
+    {
+      "id": "0xa8e1190",
+      "en": "This chest contains many papers, but none bearing Eskil's name",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "Your search proves fruitless, revealing no sign of Eskil's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1193",
+      "en": "Stáli the Hewer arrives, a shrewd look on his face. Fastrith and Eskil follow at a distance",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'What do you think, [placeholder]? I believe we could argue that despite the specific references to King Dáin, it was always intended that his part in the agreement should transfer to any King Under the Mountain that should follow him. After all, this agreement was created with war already visible upon the horizon, and King Dáin was not one to shy away from conflict! Perhaps if we petition King Thorin Stonehelm...'\\n\\nFastrith shakes her head.\\n\\n'No, it is too long a journey back to Erebor, and I know Stáli would not agree to make it. I would need to take the journey, and my brother would remain endangered by his master's whims while I made the trip. We need a more immediate remedy, [placeholder]!\\n\\n'Wait. What about that section there, where Eskil is obligated to nominate a substitute to carry out his duties in the event that he becomes ill or... maimed...? He still has all his limbs, praise Durin, but I would say he is indeed sick... sick of carrying out such dangerous errands for his master! But who can replace my brother in his apprenticeship until we can petition King Thorin to cancel the agreement? I know just the person!'\\n\\nFastrith stares at you, challenge lighting a fire in her eyes.\\n\\n'Me, [placeholder], I speak of myself! I will do it! I am not afraid of a few Orcs, and I have always been more courageous than my brother, dear though he is to me. And I would not mind learning what I might about sculpting, either. What does Stáli have to say about this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "Stáli brandishes the contract with a flourish",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'A substitute apprentice? I don't know about this... I have become quite fond of the lad, after all. But now that you mention it, the meals he made were always undercooked, and he never cleaned the corners of my workshop as thoroughly as he should have....\\n\\n'Fine! I accept Eskil's sister Fastrith as my apprentice in his stead, but I will deduct a portion of her weekly stipend to cover my inconvenience! I am doing you all a favour! Don't expect another!\\n\\n'And this is what I expect: for Fastrith to find me the Zabad'ibîn wherever they have been taken! Only then will I be happy about this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'It is a perfect solution!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'I thought I saw you here, friend. I returned to Zarkul-sulûn to bring more dwarves and supplies back with me to Gundabad. We can walk back together.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Stáli the Hewer's luggage can be found upstairs in Zarkul-sulûn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'Yes, yes. Remember that I am doing all of you a favour.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "<rgb=#FF0000>You will automatically travel to Zarkul-sulûn when you accept this quest.</rgb>\\n\\n'Aye, that's the spirit! There must be some way to free my brother from this dangerous apprenticeship. Who could have anticipated that working for a sculptor would send him among such Orc-infested dangers? Mere months ago, when he agreed to work for Stáli, I thought the worst of his worries would be living up to his epithet of Bloodthumb!\\n\\n'By hitting his thumb with a chisel, [placeholder], that's what I mean. You get it? Lovely.\\n\\n'Anyway, Stáli has not fully moved into Gundabad yet, and his luggage remains in Zarkul-sulûn. What do you say to searching his baggage for my brother's contract, and studying it for some loophole that will free Eskil from his service? If you go at once, we can do our best to keep Stáli from learning of this regrettable, but necessary, intrusion!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "You hear footsteps approaching.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Examine Eskil's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "DNT - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Fastrith Hawkfeast is interested in finding some way to free her brother Eskil Bloodthumb from his apprenticeship to Stáli the Hewer.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0118",
+      "en": "Stáli the Hewer has returned to Zarkul-sulûn, and he holds Eskil's contract out for your study.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5687",
+      "en": "'I know why you're here, [placeholder], and if you think I have to release my apprentice from his obligations, you are gravely mistaken!\\n\\n'Study the contract if you like! I have it right here, for I keep such things on my person at all times... you never know when someone might try to make such a binding agreement \\qmysteriously\\q vanish!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Eskil Bloodthumb in Zarkul-sulûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "Preamble and Naming of the Parties\\n========================\\nLet it be known to all in the Lonely Mountain and its environs, and to every inhabitant of dwarfdom throughout this Middle-earth, that on this the third day of October, Dáin II Ironfoot, King Under the Mountain, did recognize and witness this agreement between two parties come before him.\\n\\nThe parties are named as follows, with due identification presented and accepted in the sight of King Dáin. Party the first: Stáli the Hewer, noted sculptor and artist of great renown, resident of Tumnu-dûm, the dwelling-halls, known herein as the Sculptor. Party the second: Eskil Bloodthumb, noteworthy accomplishments asked for by the first party but none were offered by the second and are therefore omitted; also a resident of Tumnu-dûm, the dwelling-halls, known herein as the Apprentice.\\n\\nAs a matter of course, the King Under The Mountain expressed his opinion that the parties enter into this agreement of apprenticeship of their own free wills, and that no undue influence was exercised upon either party.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to Fastrith Hawkfeast in Zarkul-sulûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Durin on the lower level of Zarkul-sulûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Stáli the Hewer has returned to Zarkul-sulûn, and he holds Eskil's contract out for your study.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Talk to Stáli the Hewer in Zarkul-sulûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "Section the First: Duties of the Apprentice\\n===========================\\nThe duties of the Apprentice shall not be limited in any way by the omission of any particular duty in this section, but shall be deemed to include any such reasonable responsibilities that shall be suggested by the Sculptor. The meaning of \\qreasonable\\q for this section, and for any following section, shall be interpreted as \\qthe course most likely to be favoured by the will of Dáin II, King Under the Mountain.\\q\\n\\nThe duties of the Apprentice shall include, but be not limited to, the following responsibilities:\\n\\nOne (1): Acquisition of materials for the creation of any works of art required by the Sculptor, purchased with supplied coin. Any excess coinage is to be returned promptly and without fail. Upon discovery of such a failure, the excess will be tallied and deducted from the Apprentice's weekly stipend (see Section the Second).\\n\\nTwo (2): Thorough weekly cleaning of workshop space in order to foster creative work on the part of the Sculptor. Any spots missed in the cleaning shall be tallied and a percentage deducted from the Apprentice's weekly stipend (see Section the Second).\\n\\nThree (3): Timely preparation of meals for the Sculptor, no earlier than eight in the morning for breakfast and no later than six of the clock for dinner; drinks to be made upon request. The Sculptor does not like berries of any kind on his plate, but he is partial to honey and any products made from it, such as mead. The appearance of berries anywhere near the Sculptor's table will be noted, and a deduction made from the Apprentice's weekly stipend (see Section the Second).\\n\\nFour (4): Praise to be made for the Sculptor's work (when appropriate). Private criticism of such work will be noted, and a deduction made from the Apprentice's weekly stipend (see Section the Second). Public criticism will be noted twice, and count double.\\n\\nFive (5): In the event of illness or maiming that causes the Apprentice to be unable to carry out his duties, be they daily or weekly in nature, he is to provide a substitute for the day or week in question. If the substitute is found lacking, such deficiency will be noted and a deduction made from the Apprentice's weekly stipend (see Section the Second). Similarly, if the Apprentice is deemed to be contagious and refuses to nominate a substitute, that will also be grounds for a deduction from his weekly stipend.\\n\\nSix (6): Greeting guests of the Sculptor and assessing who is to be admitted and who is deemed unwelcome. The Sculptor's time is valuable and not to be wasted! Special consideration is to be given to those who bring gifts for the Sculptor, especially mead. The discovery that mead might have been given as a gift should the guest have been informed beforehand by the Apprentice will be met with disappointment, which is worse than anger. Disappointment in this case will take the form of a deduction from the Apprentice's weekly stipend (see Section the Second).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01183",
+      "en": "Stáli the Hewer has returned to Zarkul-sulûn, and he holds Eskil's contract out for your study.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "You find no sign of Eskil's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "Stáli the Hewer has returned to Zarkul-sulûn, and he holds Eskil's contract out for your study.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56896",
+      "en": "'DNT - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "Eskil Bloodthumb stands on the upper level of Zarkul-sulûn, looking resigned to his fate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56898",
+      "en": "'It sounds bad, [placeholder], doesn't it?\\n\\n'I'm thinking, but I see no way out of it! Does it really say that the only way to get out of the contract is to deliver a signed paper to King Dáin? But he is dead! He died at the gates of the Lonely Mountain during the siege that ended the war before this one!\\n\\n'I suppose there is nothing to be done. I will be bound to this apprenticeship until my dying day... and that could very well be THIS day, or at the very latest on the morrow!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "You hear footsteps approaching",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "Fastrith Hawkfeast stands on the upper level of Zarkul-sulûn, seeking to gain your attention.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Stáli the Hewer upstairs in Zarkul-sulûn",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Examine Eskil's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Examine Eskil's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Examine Eskil's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "Stáli the Hewer is on the upper level of Zarkul-sulûn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01194",
+      "en": "Prince Durin is on the lower level of Zarkul-sulûn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56851",
+      "en": "'Stáli has not fully moved into Gundabad yet, and his luggage remains in Zarkul-sulûn. What do you say to searching his baggage for my brother's contract, and studying it for some loophole that will free Eskil from his service? If you go at once, we can do our best to keep Stáli from learning of this regrettable, but necessary, intrusion!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56852",
+      "en": "Section the Second: Duties of the Sculptor\\n===========================\\nThe duties of the Sculptor shall only include responsibilities here listed. This is their full extent:\\n\\nOne (1): The Sculptor shall provide a weekly stipend of coin to the Apprentice, modified as described above in Section the First.\\n\\nTwo (2): The Sculptor shall provide instruction in the art of sculpting and the preparation of fine artwork (as time allows and at the Sculptor's inclination, informed by whether the Apprentice displays a natural propensity for the subject. This propensity is to be assessed by the Sculptor and by no other, save the King Under the Mountain, should the Apprentice choose to frivolously spend the king's time in this manner).",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56853",
+      "en": "Section the Third: Ending the Agreement\\n==========================\\nThis agreement shall be binding for each of the listed parties, Apprentice and Sculptor alike, and it shall continue in effect until such time as Sculptor delivers to Dáin II, King Under the Mountain, a signed parchment containing the desire of both parties to terminate it. Without such a delivery, this agreement will continue in perpetuity.\\n\\nMay it be a fruitful and satisfactory apprenticeship for both parties!\\n\\nWitnessed on this day the Third of October,\\nin the Year 3018,\\nwith seals affixed,\\nin the Hall Under the Mountain,\\nby Dáin II Ironfoot,\\nKing Under the Mountain\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56855",
+      "en": "'I suppose....'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56856",
+      "en": "'It is a perfect solution!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56857",
+      "en": "'I suppose...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "Stáli the Hewer has returned to Zarkul-sulûn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "With that settled, you should speak with Durin downstairs before returning to Gundabad",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "Hmmm....",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "Well...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Search Stáli's luggage for Eskil Bloodthumb's contract",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1183",
+      "en": "Hmmm?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "Well...?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "Fastrith coughs politely",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 6.6: The Fine Print",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

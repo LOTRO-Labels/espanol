@@ -1,0 +1,293 @@
+{
+  "id": 620757681,
+  "txt": [
+    {
+      "id": "0xd085251",
+      "en": "'It's strange you should be asking after Rollo, especially at this moment. The tweens came to see me, upset by the lack of effort the Bounders are doing here in Buckland with regard to the strange Big Folk moving about.\\n\\n'I told them the Bounders were doing all they could to keep that unsavoury lot out of Buckland, but the pair were adamant about being heard and kept yammering on about the Old Forest. I warned them to stay clear of the forest because Toly, our wood-cutter, said that things there are queerer than ever.\\n\\n'Tweens can be foolish, and I fear that the pair have been more foolish than normal. Doderic knows his way to Bald Hill and not much further. If you're going to be looking for Rollo, you'd best start with Doderic, and you might as well tell him that I'm waiting for him, too!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'You found him! He's coming back soon, and I can finish all I set out to do.\\n\\n'For that, you deserve something. It may not be much, I fear. But here, please take it, if it is of use to you. You have no idea how much you have helped me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'Uncle Saradoc is waiting for me? That bodes ill. I wish Rollo would hurry along. I cannot leave until he returns. We were chasing a brigand through here -- we saw him sneaking about the gate and thought we'd best do the Bounders' job for them.\\n\\n'I confess that I lost my nerve as we crested this hill, and I saw the full scope of the Forest. Rollo is a different sort though, always comfortable to wander through these winding trails.\\n\\n'There is an abandoned cottage along the Withywindle, south-east of here. He made mention of heading that way, but that seems like hours ago. Perhaps you could find him there and tell him to hurry on back?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'So glad to know that Rollo is all right! That's such a relief!\\n\\n'What is this? Maggot's notes to Celandine, and there are some references here that make it seem....\\n\\n'No wonder he wanted to recover these from that Man. Here, take them on to Celandine. She should see what Rollo thinks of her.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'He... he tried to kill me! \\qI'll gut you like a fish, and then your girl,\\q he said, \\qOr I'll make certain you never see your lovely again.\\q I didn't mean for this to happen! But he threatened Celandine. I couldn't let him hurt her, could I? All I wanted was to get the notes I wrote for Celandine from him.\\n\\n'You can't treat people like that. Good, honest hobbits, we are... didn't want to hurt nobody. I'm going to stay here and give him an honest burial at least. Could you tell Doderic that I'm all right? But please... don't tell him about any of this, will you? Could you take these too... show them to Doderic, he'll understand.\\n\\n'I just... this doesn't feel the way I thought it would.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "You have spoken to Doderic",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Oh! These are notes on the Old Forest from Rollo Maggot. Oh my, the boy is sweet on me it seems.\\n\\n'He is such a wonderful lad, I had never noticed this before. Thank you, [placeholder]. I will be certain to put these to good use.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3682",
+      "en": "You have delivered Rollo's Notes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'I do so hope to get those notes on the Old Forest. Though the last one ended poorly, I long for another adventure.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3683",
+      "en": "These muddy footprints are much too large to have been left by a hobbit",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'I surely would like to learn more about the Old Forest since my trip to Archet turned out so poorly.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3684",
+      "en": "Two sets of footprints disturb the mud behind the cottage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'Oh, that son of mine. Leaf off the same tree, for sure. He should have told me what he was doing. But all that matters now is he's safe and hale.\\n\\n'Thank you, kindly, for taking a load off my mind. You'll always be welcome on a Maggot's farm!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3685",
+      "en": "Bloody footprints lead off to the north",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3686",
+      "en": "There are many bootprints in the mud behind the cottage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3687",
+      "en": "Many willow-fronds are scattered in the lee of the stone, some flecked with drops of red",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "Wilmac Brandybuck, Maggot's farmhand, sent you to Brandy Hall to speak with Saradoc Brandybuck, and the Master of Brandy Hall warned you of Rollo and Doderic's musings.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3688",
+      "en": "Muddy bootprints scar the wet earth, but some of the prints are smaller",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3689",
+      "en": "There is no sign of Rollo Maggot in the Bonfire Glade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Find Doderic Brandybuck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Find Rollo Maggot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Doderic Brandybuck at Bald Hill",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Deliver Rollo's notes to Celandine Brandybuck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "You have delivered Rollo's notes to Celandine Brandybuck",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Talk to Wilmac Brandybuck in Newbury",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Doderic Brandybuck may be at Bald Hill in the Old Forest, east of the Bonfire Glade.\\n\\nMaggot's Farmhand sent you to Brandy Hall to look for Farmer Maggot's son Rollo. Saradoc Brandybuck has suggested that his nephew Doderic may have taken Rollo out to the Old Forest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c0",
+      "en": "There is no sign of Rollo Maggot in the Bonfire Glade.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Rollo Maggot may be found at an abandoned cottage near the Withywindle, south-east of Bald Hill. It is reached by heading west through the Shifting Wood, then turning south and south-east.\\n\\nDoderic Brandybuck is worried about his friend Rollo Maggot, who chased after a brigand into the Forest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c1",
+      "en": "Bloody footprints lead off to the west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Doderic Brandybuck is waiting at Bald Hill to the north of the cottage, east of the Bonfire Glade.\\n\\nYou found Rollo Maggot standing over the corpse of a Man. He asked you to return to Doderic Brandybuck and tell him that he is all right, and there is no need to worry. He also asked you not to tell Doderic what happened with the brigand.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1f368c2",
+      "en": "Bloody footprints lead off to the west.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Celandine can be found on the border of Newbury and Crickhollow in the northern part of Buckland.\\n\\nYou found Rollo Maggot standing in shock over the corpse of a brigand, but he seemed unharmed. He asked that you show his notes to Doderic, and Doderic suggested that you bring them to his cousin Celandine.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Wilmac Brandybuck is just inside the Hay Gate in Newbury, the northern section of Buckland.\\n\\nWilmac Brandybuck still knows nothing of Rollo's whereabouts. You should speak with him to put his mind at ease.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Rollo Maggot has asked you to return to Doderic Brandybuck and tell him that he is all right, and there's no need to worry. He also asked you not to tell Doderic what happened. Doderic should still be on Bald Hill, east of the entrance to the Forest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Return to Farmer Maggot at his farm in the Marish and let him know that his son Rollo is safe.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "'I should never be placed in the world.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'You should speak to poor Wilmac, just a bit north of here, he is likely worried sick over Rollo's disappearance.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852591",
+      "en": "'Have you news of Rollo, then?'\\n\\nFarmer Maggot shakes his head as you tell the story.\\n\\n'Oh, that son of mine. Leaf off the same tree, for sure. Obstinate little-- He should have told me what he was doing. But all that matters now is he's safe and hale.'\\n\\n'Thank you, kindly, for taking a load off my mind. You'll always be welcome on a Maggot's farm!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c42",
+      "en": "'I haven't seen another hobbit this deep in the woods in a good many years. Though I did hear some noises from the treeline to the east. You may want to check in that direction.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c43",
+      "en": "'Rollo told me he figured the brigand went south-east of here, towards an abandoned cottage near the Withywindle. You have to find him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c44",
+      "en": "'So glad to know that Rollo is all right! That's such a relief!\\n\\n'You should take these notes to Celandine... it will be a wondrous moment when she sees these.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c45",
+      "en": "'I'm sorry... I'm not feeling very well. I need to bury... to bury the body. Tell Doderic that I'm fine, but... please don't tell him about this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c46",
+      "en": "'I'm sorry... I'm not feeling very well. I need to bury... to bury the body. Tell my Pa that I'm fine, but... please don't tell him about this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c47",
+      "en": "'Those boys -- my nephew Doderic and Maggot's boy Rollo -- might have gone off into the Old Forest. They are probably poking around and getting into all manner of trouble, if I know those boys!\\n\\n'You might be able to find them at Bald Hill, which lies east of the Bonfire Glade.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc41c470",
+      "en": "'I suppose now that you've learned Rollo is all right, all's well as ends well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c48",
+      "en": "'Oh good, you've found Doderic, at least! Now for that Maggot boy, Rollo. Odd what Doderic told you.\\n\\n'I suppose you should go to that abandoned cottage Doderic told you of and see if you can find Rollo.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Old Forest Investigation",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c49",
+      "en": "'Oh good you've found him. I'm glad to know he's safe!\\n\\n'I suppose you had best go tell Doderic as well, since he'll be anxious to know if Rollo is safe or not.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

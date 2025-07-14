@@ -1,0 +1,1625 @@
+{
+  "id": 620969661,
+  "txt": [
+    {
+      "id": "0xc95a9a4",
+      "en": "Move Forward (Camera)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa13ca1",
+      "en": "QuickBar 1 Visibility ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7022650",
+      "en": "Map Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae5dd45",
+      "en": "Select Fellow 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae0ed14",
+      "en": "Toggle HUD On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21c3f71",
+      "en": "Chat Panel 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1002ed0",
+      "en": "Quickslot Page Up",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ae6695",
+      "en": "Select Fellow 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21c3f72",
+      "en": "Chat Panel 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xee52ccc",
+      "en": "Kinship Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x465a728",
+      "en": "Bag 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb577f57",
+      "en": "Stop Playing Song",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d196b",
+      "en": "Voice Push to Talk",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc2ef9d2",
+      "en": "Previous Attacker",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf69d1b",
+      "en": "Reward Track",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x65942c0",
+      "en": "Detach Tooltip",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc0",
+      "en": "Quickslot 30",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc1",
+      "en": "Quickslot 31",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc2",
+      "en": "Quickslot 32",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1a96347",
+      "en": "Follow Selection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc3",
+      "en": "Quickslot 33",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3451f93",
+      "en": "Select Nearest NPC",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc4",
+      "en": "Quickslot 34",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468532",
+      "en": "Play Note G#2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc5",
+      "en": "Quickslot 35",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468533",
+      "en": "Play Note G#3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc6",
+      "en": "Quickslot 36",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468534",
+      "en": "Play Note G#4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468832",
+      "en": "Play Note C#2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc7",
+      "en": "Quickslot 37",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468833",
+      "en": "Play Note C#3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc8",
+      "en": "Quickslot 38",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468834",
+      "en": "Play Note C#4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fc9",
+      "en": "Quickslot 39",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8881",
+      "en": "Present Outfit 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8882",
+      "en": "Present Outfit 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8883",
+      "en": "Present Outfit 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf4e6314",
+      "en": "Move Forward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ae2ad8",
+      "en": "Select Fellow 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8884",
+      "en": "Present Outfit 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2ed25",
+      "en": "Assist Fellow 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd0",
+      "en": "Quickslot 40",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8885",
+      "en": "Present Outfit 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd1",
+      "en": "Quickslot 41",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8886",
+      "en": "Present Outfit 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd2",
+      "en": "Quickslot 42",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8887",
+      "en": "Present Outfit 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd3",
+      "en": "Quickslot 43",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xabf8888",
+      "en": "Present Outfit 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd4",
+      "en": "Quickslot 44",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd5",
+      "en": "Quickslot 45",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37c106c",
+      "en": "Skirmish Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd6",
+      "en": "Quickslot 46",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd7",
+      "en": "Quickslot 47",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f5ab33",
+      "en": "Reposition UI",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd8",
+      "en": "Quickslot 48",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fd9",
+      "en": "Quickslot 49",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5c56934",
+      "en": "[placeholder] Skill Assist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe0",
+      "en": "Quickslot 10",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe1",
+      "en": "Quickslot 11",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe2",
+      "en": "Quickslot 12",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe3",
+      "en": "Quickslot 13",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe4",
+      "en": "Quickslot 14",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746842",
+      "en": "Play Note C2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe5",
+      "en": "Quickslot 15",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746843",
+      "en": "Play Note C3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe6",
+      "en": "Quickslot 16",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746844",
+      "en": "Play Note C4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe7",
+      "en": "Quickslot 17",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746845",
+      "en": "Play Note C5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe8",
+      "en": "Quickslot 18",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100fe9",
+      "en": "Quickslot 19",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15b9a6c",
+      "en": "Loot All",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa950ed",
+      "en": "Dressing Room",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff0",
+      "en": "Quickslot 20",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x21b740",
+      "en": "Help Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff1",
+      "en": "Quickslot 21",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff2",
+      "en": "Quickslot 22",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x29c7de",
+      "en": "Quickslot Page Down",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e1d113",
+      "en": "Track Nearby Quests",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff3",
+      "en": "Quickslot 23",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff4",
+      "en": "Quickslot 24",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746852",
+      "en": "Play Note D2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff5",
+      "en": "Quickslot 25",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746853",
+      "en": "Play Note D3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff6",
+      "en": "Quickslot 26",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746854",
+      "en": "Play Note D4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff7",
+      "en": "Quickslot 27",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff8",
+      "en": "Quickslot 28",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100ff9",
+      "en": "Quickslot 29",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56bcc35",
+      "en": "Toggle Target Lock-on Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6fbd3d5",
+      "en": "Reputation Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d8fb7",
+      "en": "Crafting Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e51093",
+      "en": "Traits Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x808cf14",
+      "en": "Dismount / Remount",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746862",
+      "en": "Play Note A2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746863",
+      "en": "Play Note A3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ae2b0f",
+      "en": "Select Fellow 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746864",
+      "en": "Play Note A4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8ec61c",
+      "en": "Raid Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2031d19",
+      "en": "Pan Camera Out",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf534f09",
+      "en": "Mithril Coin Auction House",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x46ecce7",
+      "en": "Toggle Alert Overflow Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746872",
+      "en": "Play Note B2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746873",
+      "en": "Play Note B3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2a41c",
+      "en": "Fellowing Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34ae609",
+      "en": "Filters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746874",
+      "en": "Play Note B4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x70de2e3",
+      "en": "Titles Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x37f3b94",
+      "en": "Select Next Tracked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a93d4",
+      "en": "Turn Right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x194dd5e",
+      "en": "Toggle First/Third Person",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746882",
+      "en": "Play Note G2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746883",
+      "en": "Play Note G3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3733a3",
+      "en": "Toggle Deed Log On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ff16c4",
+      "en": "Select Previous Tracked",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6746884",
+      "en": "Play Note G4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xebdb921",
+      "en": "Quickbar 5 Visibility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5b2685",
+      "en": "Assist Fellow 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78190a4",
+      "en": "Item Link To Chat Entry",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22cdbd4",
+      "en": "Rotate Camera Right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9799d3d",
+      "en": "Select Previous Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3a10195",
+      "en": "Toggle Music Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9461930",
+      "en": "Chat Page Up",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed92f51",
+      "en": "QuickBar 3 Visibility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe443664",
+      "en": "Toggle Instance Finder - Advanced",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1dcc6e7",
+      "en": "Chat Beginning",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x778c395",
+      "en": "Drop Camera",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3e59d8",
+      "en": "Assist Fellow 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x224730",
+      "en": "Jump",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3ae0873",
+      "en": "This Options Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67468a2",
+      "en": "Play Note E2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67468a3",
+      "en": "Play Note E3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ba4bb3",
+      "en": "Select Next NPC",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67468a4",
+      "en": "Play Note E4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f3cf7c",
+      "en": "Friends Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468a32",
+      "en": "Play Note A#2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468a33",
+      "en": "Play Note A#3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdbf43d5",
+      "en": "Lock/Unlock Quickslots",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468a34",
+      "en": "Play Note A#4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb602325",
+      "en": "Walk Mode",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc3f8a54",
+      "en": "Chat End",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x451c78d",
+      "en": "Select Nearest Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33e6025",
+      "en": "Toggle Skill Queue On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67468b2",
+      "en": "Play Note F2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67468b3",
+      "en": "Play Note F3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6dc9313",
+      "en": "Skills Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x67468b4",
+      "en": "Play Note F4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100160",
+      "en": "Next Quickslot Shelf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5335554",
+      "en": "Screenshot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d53cc2",
+      "en": "Plugin Manager Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd83644",
+      "en": "Toggle Quest panel On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xce4197c",
+      "en": "Wallet",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3e5a0f",
+      "en": "Assist Fellow 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8f407d",
+      "en": "Multi-use Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2a2015",
+      "en": "Select Fellow 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2622280",
+      "en": "Pitch Camera Up",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x142ee79",
+      "en": "Hobbit Presents",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8978625",
+      "en": "Select Previous Foe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1bfbb92",
+      "en": "Select Nearest Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x392b373",
+      "en": "Find Items",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa2de08e",
+      "en": "Previous Selection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7637fb",
+      "en": "Lock Run Forward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f00",
+      "en": "Quickslot 70",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe3bc355",
+      "en": "Toggle Instance Finder - Simple",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f01",
+      "en": "Quickslot 71",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x87b1aac",
+      "en": "Group Stage Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf2464b",
+      "en": "Inventory Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f02",
+      "en": "Quickslot 72",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa89072b",
+      "en": "Enable Item Sell Lock",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9612e3",
+      "en": "Move Backwards",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbc7cd19",
+      "en": "Inventory Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x465a4ff",
+      "en": "Bag 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe2a3ca1",
+      "en": "QuickBar 2 Visibility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xba4853d",
+      "en": "Select Next Item",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd70218d",
+      "en": "IM Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1d7f084",
+      "en": "Assist",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2030d34",
+      "en": "Turn Left",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f20",
+      "en": "Quickslot 50",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f21",
+      "en": "Quickslot 51",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f22",
+      "en": "Quickslot 52",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f23",
+      "en": "Quickslot 53",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec79284",
+      "en": "Strafe Right",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f24",
+      "en": "Quickslot 54",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6454285",
+      "en": "Bag 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f25",
+      "en": "Quickslot 55",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f26",
+      "en": "Quickslot 56",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f27",
+      "en": "Quickslot 57",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x464a84",
+      "en": "Pan Camera In",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f28",
+      "en": "Quickslot 58",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6c033c",
+      "en": "Toggle Autoattack",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f29",
+      "en": "Quickslot 59",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ba35a5",
+      "en": "Select Next Foe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae5db42",
+      "en": "Select Fellow 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xec0b921",
+      "en": "Quickbar 4 Visibility",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb8f5d76",
+      "en": "Select Self",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f30",
+      "en": "Quickslot 60",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb82f3c5",
+      "en": "Show Damage",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d8ef5c",
+      "en": "Social Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f31",
+      "en": "Quickslot 61",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56a1512",
+      "en": "Cosmetic Outfit Selection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f32",
+      "en": "Quickslot 62",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f33",
+      "en": "Quickslot 63",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f34",
+      "en": "Quickslot 64",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f35",
+      "en": "Quickslot 65",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbf679e",
+      "en": "Show Remote Quest Actions",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f36",
+      "en": "Quickslot 66",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa7a0cdb",
+      "en": "Rotate Camera",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f37",
+      "en": "Quickslot 67",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f38",
+      "en": "Quickslot 68",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1100f39",
+      "en": "Quickslot 69",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1c62f83",
+      "en": "Show Names",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xcbb9e57",
+      "en": "Housing Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468932",
+      "en": "Play Note D#2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468933",
+      "en": "Play Note D#3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468934",
+      "en": "Play Note D#4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9e7c34",
+      "en": "Pending Loot",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468f32",
+      "en": "Play Note F#2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3e2eb22",
+      "en": "Assist Fellow 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468f33",
+      "en": "Play Note F#3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd3c64d3",
+      "en": "Clear search filters",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7468f34",
+      "en": "Play Note F#4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x221f4be",
+      "en": "Pitch Camera Down",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7026945",
+      "en": "Use Selection",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fc9961",
+      "en": "Top [placeholder] Manoeuvre",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fc9962",
+      "en": "Bottom [placeholder] Manoeuvre",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fc9963",
+      "en": "Left [placeholder] Manoeuvre",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4fc9964",
+      "en": "Right [placeholder] Manoeuvre",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x26a91b9",
+      "en": "MailBox",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x38a8542",
+      "en": "Destiny Point Perks Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8838564",
+      "en": "Reset Camera",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9adb09",
+      "en": "Reply",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2fd0462",
+      "en": "Select Next Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfe44c73",
+      "en": "Allegiance Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60a9005",
+      "en": "Toggle LOTRO Store On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a5dcd5",
+      "en": "Bag 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbfbb8db",
+      "en": "Toggle MyLOTRO On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5847e39",
+      "en": "Toggle Instance Finder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4203662",
+      "en": "Camera",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x34de079",
+      "en": "Present Main Inventory",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e8999c",
+      "en": "Hobby Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x17ce",
+      "en": "Previous Quickslot Shelf",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd8f062",
+      "en": "Toggle Radar On/Off",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa800039",
+      "en": "Epic Battles",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb72a60c",
+      "en": "Mounts Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6bb965c",
+      "en": "Character Journal Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c9eb1e",
+      "en": "Toggle Instance Finder",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f0dd24",
+      "en": "Strafe Left",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x22269b4",
+      "en": "Rotate Camera Left",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8979a33",
+      "en": "Select Previous NPC",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f1",
+      "en": "Quickslot 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f2",
+      "en": "Quickslot 2",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f3",
+      "en": "Quickslot 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f4",
+      "en": "Quickslot 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f5",
+      "en": "Quickslot 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f6",
+      "en": "Quickslot 6",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80506b2",
+      "en": "Select Previous Player",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f7",
+      "en": "Quickslot 7",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f0b33c",
+      "en": "Legendary Items Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f8",
+      "en": "Quickslot 8",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa1100f9",
+      "en": "Quickslot 9",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x61a6f9e",
+      "en": "Chat Page Down",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc8e7f5e",
+      "en": "Reputation Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4646b65",
+      "en": "Bag 1",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6454482",
+      "en": "Bag 4",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb774109",
+      "en": "Collections",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3450185",
+      "en": "Select Nearest Foe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc5f0c9c",
+      "en": "Mounted Combat Panel",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x288b6e4",
+      "en": "Logout",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x72737",
+      "en": "Select Nearest Fellow",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

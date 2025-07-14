@@ -1,0 +1,113 @@
+{
+  "id": 621039103,
+  "txt": [
+    {
+      "id": "0x6a502a6",
+      "en": "Use the Call Radhril skill and talk to Radhril",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a5",
+      "en": "'Let us proceed with caution. We do not yet know why Svalfang wanders through the Wildwood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Find Svalfang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b2",
+      "en": "Use the summoning horn at the east side of the hill to summon Radhril to your side.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b4",
+      "en": "You should talk to Radhril.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Defeat Svalfang",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "You have defeated Svalfang!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b7",
+      "en": "You should find Svalfang.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1189",
+      "en": "The giant looks quite angry!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "You have been tasked with defeating the Hill Giant, Svalfang, in the Wildwood.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'I commend your efforts, [placeholder]! Come, let us return and report our success to the Free Peoples.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x396e681",
+      "en": "'Where is my gold, Orcs?! I thought we had a deal! Show yourselves to me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "You should defeat Svalfang.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x396e682",
+      "en": "'Aid me, my pets!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Mission: Svalfang's Stand",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x396e683",
+      "en": "'Catch this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Pick up the summoning horn",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

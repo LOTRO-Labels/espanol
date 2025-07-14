@@ -1,0 +1,137 @@
+{
+  "id": 621001693,
+  "txt": [
+    {
+      "id": "0xb568953",
+      "en": "'Good. Now, listen closely. If the whispers are true, there are signal flags placed around the near basin of Udûn. Taken together, these symbols and signs, understood only by the forge-workers of this place, convey a message.\\n\\n'For instance, a half-circle might be taken to mean dawn, or perhaps dusk, and three close lines might be taken for a meeting. A raised arm might be taken for taskmaster and one bent like a snake might be water - or drink. In truth, I know not.\\n\\n'If you will go and make a study of these banners, however, I feel certain that together we may get to the root of it and so discover what plans the lurking dwellers of this place are making behind our backs. It is sure to be something treacherous and harmful to Gondor!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb5689f5",
+      "en": "'A most intriguing riddle has come to us. Perhaps a riddle of great importance. Who can say? A dying Nurnhoth - those are the Mordor slave-men, you see - told us of a secret plan among the forge-labourers of Udûn. Stranger still, it is all arranged in a voiceless code!\\n\\n'The poor soul could tell us little else before he passed, save that the plan should take place soon.\\n\\n'How inconvenient that our Captain has not returned and that he left clear orders that we were to hold the camp until he did! No, Mulnír, I do not think he is lost or in peril. I fear what this plan will be. I fear that it will come and go before there is any chance to find it out. And what will happen if it does?\\n\\n'Ah, good [placeholder], you will unravel this riddle for me, won't you? Someone must!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568926",
+      "en": "DNT LET ME TELL YOU ABOUT THESE FLAGS",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568955",
+      "en": "'If you will go and make a study of these banners, I feel certain we will solve the riddle of this meeting and what mischief it portends.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b60",
+      "en": "Under the signal flag, a slave of Nurn looks up at you with bright but pained eyes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568928",
+      "en": "'Ah, you return. You have looked and looked, yes? And you have seen. I see it is so! Kurtil, I am named. And you are... [placeholder], yes? It is well. Now tell me what you know and what you have learned.'\\n\\nYou tell the slave what Barathron thought they were and what he thought they might mean, and he frowns. You relate, to the best of your memory, what signal flags you found in the basin and a thin smile appears on his pained mouth. You get the uneasy impression that he may be learning more from you than you are from him.\\n\\nAt last, he nods.\\n\\n'Keen eyes and swift legs. But are you help or are you hurt? Help, I think and no, no not cruel. Not... deceiving. Then I will offer help for your help. What I know of Udûn, so too will you know. And in truth, of Udûn I know much.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011857",
+      "en": "The Nurnhoth slave is lying on the southern edge of the Udûn basin, up atop a wooden structure.\\n\\nYou should return to the slave of Nurn you found by the signal flag.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b06",
+      "en": "DNT FLAG A",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b08",
+      "en": "DNT FLAG B",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b09",
+      "en": "DNT FLAG C",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b66",
+      "en": "Found signal flags ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa83c41",
+      "en": "'Wonder what they mean? Go and look at them.  Then come back to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029a4",
+      "en": "Talk to Barathron",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b10",
+      "en": "DNT FLAG D",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78d1791",
+      "en": "Word of a secret meeting among the dwellers of Udûn has reached the Foothold camp.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11b13",
+      "en": "DNT FLAG 3",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa1",
+      "en": "Whispers and Signs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029d9",
+      "en": "Return to the lying slave",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa5029c4",
+      "en": "Find signal flags ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011822",
+      "en": "You should talk to Barathron in the Foothold camp in Udûn to learn more about the riddle he wishes to solve.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb568951",
+      "en": "'Know what that is?' \\n\\nHis eyes turn up to the signal flag. He speaks in clean, confident Westron.\\n\\n'I would say that you do, yes. But... they tell no tales to you, no. Not yet, they do not. When you have seen them all and you have returned to me, then there will be much to say. Much to tell, yes? I think so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb011868",
+      "en": "You should look for signal flags in the western half of the Udûn basin.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

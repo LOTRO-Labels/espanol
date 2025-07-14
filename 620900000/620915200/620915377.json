@@ -1,0 +1,461 @@
+{
+  "id": 620915377,
+  "txt": [
+    {
+      "id": "0x6d77287",
+      "en": "'Careful, Horn! It might be an Orc!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d10",
+      "en": "'It desires to be with you, I know it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77288",
+      "en": "'A shrew!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d11",
+      "en": "'Horn...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d12",
+      "en": "'Please keep it. I am Wadu's Ghost no longer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d1",
+      "en": "'I did not, Horn. I did not look for you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d2",
+      "en": "'What?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d3",
+      "en": "'I did not know you would be in this village. I came here for supplies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d4",
+      "en": "'We have enough to spare.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d5",
+      "en": "'You are welcome to them, as you were before, Nona.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d6",
+      "en": "'I cannot travel with you again, Horn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'I feel eyes on us, [placeholder], but I cannot tell if they be hostile or friendly eyes. Stay on your guard.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'One look at Nona's face told me she had not been prepared to see Horn in Dunfast. She has not yet resolved her feelings for him. Caring for the injured folk she mentioned may have caused her to delay in resolving her thoughts, or perhaps it is so difficult a riddle she needs more time to untangle a solution, even without the distraction of responsibility.\\n\\n'Horn may appear inconsolable, but he need not despair. I have not given up on our Dunlending fire-brand, and neither should he.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d7",
+      "en": "'Why do you say that?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'From here Dunfast looks much as I remember it, but... where are all the people? Let us walk into the village and see if anyone remains who can tell us what happened!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d8",
+      "en": "'There is a city to the north. I found people there, dying in the snow.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'That is the woman who has taken Horn's heart from him? He has spoken of her a great deal to me since we have been journeying together, but not once did he mention she was a Dunlending tribes-woman!\\n\\n'And she came to this town, the town of my childhood, seeking to steal its goods and provisions?'\\n\\nGléowine shakes his head.\\n\\n'Ah, I remember what it was like to be young, when blood and passions flared in spring-time. I am not fit to judge them. If Horn misses her so, I hope she will reconsider her dismissal of him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4a8b0d9",
+      "en": "'I brought them safely to a cave in the mountains.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I think I have found the location of our mysterious watcher, [placeholder]. There is someone hiding in this bush. Be ready for anything, and I will seize this person before he can pose a threat!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x81f3681",
+      "en": "Nona stares at you with haunted eyes, a look of surprise on her face",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'Thank you, [placeholder]. It is better to be safe and to bruise one's dignity a small amount than to be surprised by some dangerous foe, is it not?\\n\\n'This time it was a shrew. Next time it might be a hidden enemy. Perhaps Corudan can flush the next watcher out of hiding, and I will be the one laughing?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'I don't understand, [placeholder]. It has been days since last I beheld Nona, and my affection for her has only grown during that time. The fondness she felt for me before we came to Eaworth... has it gone? Did I imagine it? I cannot have!'\\n\\nHorn is greatly distressed, but you have no easy words of comfort.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'I do not know what to think, [placeholder]. That reunion did not proceed as I might have wished.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86ea5a1",
+      "en": "'[placeholder], what have you found?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86ea5a2",
+      "en": "'Nona!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86ea5a3",
+      "en": "'You came back!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You are investigating what has happened to Dunfast, the village where Gléowine was born.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86ea5a4",
+      "en": "'You must have tracked us for many days to find us in Wildermore!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b6af81",
+      "en": "'I am not so certain, Horn. I feel as if we are being watched.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Talk to Horn in Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b6af82",
+      "en": "'What have you found, Horn?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Talk to Corudan in Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4b6af83",
+      "en": "'That would be a small Orc indeed to fit inside that bush.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Talk to Gléowine in Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Walk with Gléowine to investigate Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Gléowine outside Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Corudan in Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Explore Dunfast with Horn, Corudan, and Gléowine",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Talk to Horn in Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Be ready for anything! Horn is prepared to seize the mysterious watcher in Dunfast",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Help Horn brush himself off and salvage his dignity",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "You sense someone staring at the four of you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Listen to what befell Nona after she left your fellowship in the Entwash Vale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Gléowine is outside the village, waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Corudan senses that you are being watched.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Horn, Corudan, and Gléowine are exploring Dunfast, and you should do the same.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Horn believes he has found Corudan's mysterious watcher, and is ready to seize the opportunity to reveal it!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Horn is ready to seize the mysterious watcher in Dunfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Horn could use your help to stand up and salvage as much of his dignity as possible.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "You still sense a watchful presence in Dunfast, and should find who or what it is that watches.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced8",
+      "en": "Nona has returned, but she does not seem happy to see you. What will this mean for Horn?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Horn is down-hearted following your encounter with Nona in the empty village of Dunfast.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc821",
+      "en": "'I think we are alone.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc822",
+      "en": "'Ah, what have we here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d00",
+      "en": "'They are still too weak to survive on their own.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc823",
+      "en": "'Be ready! I am going to frighten our watcher out of hiding.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d01",
+      "en": "'I came to this village to steal food and supplies for them.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc824",
+      "en": "'I am ready for anything.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d02",
+      "en": "'I cannot adventure with you any longer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc825",
+      "en": "'Could you give me a hand, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d03",
+      "en": "'When they are stronger...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d04",
+      "en": "'I will promise nothing, Horn. I am sorry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc826",
+      "en": "'Very funny, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d05",
+      "en": "'Nona, it is good to see you again. How can we help the people in your care?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5fc827",
+      "en": "'Ah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d06",
+      "en": "'I have been looking for root vegetables like the ones of Dunland.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d07",
+      "en": "'[placeholder] knows of them. They have curative properties.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d08",
+      "en": "'I need to get back.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8b0d09",
+      "en": "'Nona! You left your brother's sword with me. Let me return it.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77281",
+      "en": "'When I left Dunfast I was a young man, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77282",
+      "en": "'So much of my life was ahead of me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77283",
+      "en": "'Look, over here! Someone disturbed these sacks!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Unnatural Winter",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77284",
+      "en": "'Do you see anyone?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77285",
+      "en": "'This is the house of my childhood.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d77286",
+      "en": "'Was it always this size? It seemed much larger to me then.'",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

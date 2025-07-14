@@ -1,0 +1,563 @@
+{
+  "id": 620903380,
+  "txt": [
+    {
+      "id": "0x5a3ced8",
+      "en": "Nona is sitting by the camp-fire, waiting to tell her story.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Nona is telling a story by the camp-fire.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3466d01",
+      "en": "'Let us rejoin our companions, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3466d02",
+      "en": "'It is a good fire, and built quickly, Horn.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7aa6b1",
+      "en": "'This is the kindness of the horse-lords, is it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xae2de01",
+      "en": "'Thank you, Corudan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7aa6b2",
+      "en": "'He did say that, and I say he spoke true, but it does not seem an uncommon trait among the horse-lords.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'That is far enough for today, [placeholder]. Horn has already seen to the fire, so now we may sup and take some rest before the night-watches begin.\\n\\n'We will leave in the morning, at first light. It is not good to travel further south on Anduin at night, unless the need is considerable. The waters become treacherous the nearer you get to Sarn Gebir.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'I think that is enough tale-spinning for one night, [placeholder]. I will take the first watch, and I will wake you when it is your turn.\\n\\n'We will set out again at first light.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'We have some time before we should begin the night-watches, [placeholder]. Would you find some tale-telling agreeable? I find that the weaving of a good story among companions around a fire can be a pleasant way to pass the time.\\n\\n'Have a seat and listen, [placeholder]. I will begin, and perhaps our companions will have a tale to share as well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'You are fortunate to have friends among the Elves, [placeholder]. I would not want to make this journey without a guide, and Corudan appears to know what he is doing.\\n\\n'But it is not seemly for a Man of Rohan to mingle with Elves, as you saw in Stangard. Of his kind my people have little to say but this: \\qlong-lived and dangerous.\\q\\n\\n'They have more to say of the folk of Dunland, but none of it is kind and I will not disturb the girl's ears with any of it. I regret Nona's ill welcome at Stangard when she had need of aid, though I understand its root. Her people and mine have a long and unhappy history. I have no quarrel with her personally, but our shared friends and duties make us allies, nothing more than that.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I shall go next. My tale concerns King Fengel of Rohan, the grandfather of Théoden King. It is a sad tale, given the happenings of late, but you may find it interesting.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'This is what she carved into the stone:\\n\\n'Feckless Fengel, fool I name thee,\\nGrief shall be the get of thy greed.\\nNo lord of your line shall long live,\\nUpon thy seat no son shall settle.\\nKin and kingdom your craving hath killed,\\nUntil the might of the Mark is mended.\\nWyrgende.'\\n\\nHorn sighs heavily and continues.\\n\\n'King Fengel was furious, and he ordered Wyrgende's body burned and the stone destroyed, but no man of his company could move her, and every hammer and mattock they set to the stone shattered on contact.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'The Elf-queen was right to send this guide with us, [placeholder]. He knows the waters and how to keep a boat afloat, which is more than the daughter of Suvulch knows. Were it up to me, I would lead us south on dry land, with springy turf underfoot and no fear of foundering.'\\n\\nNona lowers her voice, a rare event for the Dunlending woman.\\n\\n'The boat is not large enough to keep us from speaking, [placeholder], but as you saw, this horse-lord managed to avoid addressing me in any way once we were on the river. If he has a grievance with me, tell him to air it so I may respond appropriately: with words or with Wadu's sword! I have become tired of his ability to look all around him but not in my direction, whatever direction that happens to be!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "'I do not have the flowery words or turns of phrase that Corudan and this man Horn have, [placeholder]. I write my tale in the hide of my enemies, with Wadu's sword as my quill!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'We will leave at first light. For now you should get some rest.\\n\\n'In the morning we will continue our journey down the Anduin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3f5b921",
+      "en": "'Now... die...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83a13d1",
+      "en": "You speak of fighting alongside Prince Théodred at the Fords of Isen.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x83a13d2",
+      "en": "You speak of his valiant last stand, and of Morflak's death at the hands of Elfhelm.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "Corudan is by the camp-fire, waiting to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Join Corudan at the fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Corudan",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Talk to Horn by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Nona by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Listen to Corudan's tale",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Talk to Corudan by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Corudan and decide upon a tale to share",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Talk to Horn by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Listen to Horn's story",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80a13d1",
+      "en": "You speak of your time in the Rushgore with Nona, and of Horn's role in saving her life.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b6bea1",
+      "en": "'Who are you, crone, to beg from the crown?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93eaef1",
+      "en": "'Is that so? I wager you cannot hit this wooden target from fifty paces.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x80a13d2",
+      "en": "You speak too of Galadriel's belief that Nona's wound was not caused by a morgul blade.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b6bea2",
+      "en": "'If you seek warm food in your belly, find some churl whose bed lies unwarmed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b6bea3",
+      "en": "'Or find some game and kill it yourself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0093c1",
+      "en": "'I have no story to tell.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2ca8a61",
+      "en": "'Rohirrim! Our foes lie before us! Send them back to Saruman!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0093c2",
+      "en": "'The sword came to my brother Wadu. He used it to slay a great beast.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0093c3",
+      "en": "'It was a great Gwiber, the mighty dragon-spawn of the mountains.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcd1b21",
+      "en": "'Everyone has a story, Nona.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0093c4",
+      "en": "'There is much about my land and people you do not know!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcd1b22",
+      "en": "'What was this beast? A large animal of some kind? A bear?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf0093c5",
+      "en": "'He was.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcd1b23",
+      "en": "'Can it be? I know of no such creature!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfcd1b24",
+      "en": "'That may be so, Nona. I am sorry if I have offended you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c1",
+      "en": "'King Fengel came to the throne when he was very young, and he ruled for fifty years.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x825de1",
+      "en": "'My power flows from the Lord of the Nazgûl himself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c2",
+      "en": "'Though long, his rule was ill-starred: he was prone to greed and made many enemies.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c3",
+      "en": "'In the last winter of his reign, he was hunting north of the Entwade on a cold afternoon.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c4",
+      "en": "'An elderly woman stumbled into his camp. She was lost and hungry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c5",
+      "en": "'King Fengel threw his own dagger at her feet and sent her away into the dark night.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xbd84f61",
+      "en": "You decide to keep the tale of your adventures to yourself.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c6",
+      "en": "'The King's men were horrified, and they searched for the woman.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c7",
+      "en": "'They found her at dawn, frozen to death at the foot of a tall boulder, the King's dagger still in her hand.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6042cd0",
+      "en": "'The wound festered, and King Fengel died of poisoned blood on the first day of Spring.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c8",
+      "en": "'She had carved a curse into the face of the stone, along with her name: WYRGENDE.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6042cd1",
+      "en": "'Many in Rohan thought the curse was ended, but now that Prince Théodred is gone...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x96042c9",
+      "en": "'King Fengel himself assailed the stone with his sword until the blade shattered, and a shard pierced his thigh.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6042cd2",
+      "en": "'Well, that is the end of the tale, for now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9431a21",
+      "en": "'With this axe of mithril, not even the ruler of this tower can keep Mazog a prisoner!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa96c6a1",
+      "en": "'A scrap of bread, if you please, my mighty lord. I am lost, and cold, and hungry.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa9e981",
+      "en": "You speak of the part you played standing against the Shadows of Angmar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa9e982",
+      "en": "You speak of the False King and of the Champion of Angmar.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaa9e983",
+      "en": "After a time you come to the end of your story.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c501",
+      "en": "'I grew up in the Golden Wood, but I spent most of my time exploring the wilderness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c502",
+      "en": "'My sister Sigileth stayed in Lórien for long years, but not in idleness.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: A Journey by Boat",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c503",
+      "en": "'My skill was with the bow, but hers was with knives.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c504",
+      "en": "'She made them herself, and each was deadlier than the last.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c505",
+      "en": "'I returned from a journey once, convinced I had become the greatest of archers.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c506",
+      "en": "'I accepted and strode fifty paces. When I turned to fire, I saw that my sister was right!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c507",
+      "en": "'She had hewn the target at its base, and it had fallen into the grass!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c508",
+      "en": "'We laughed and laughed.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d6c509",
+      "en": "'That is my tale. Do you have one to share, [placeholder]?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa506d81",
+      "en": "'Horn did say that Fengel was a foolish king.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have travelled by boat down the Anduin in the company of Nona, Horn, and Corudan, but must camp for the night before you proceed further.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f1f581",
+      "en": "'What is the origin of the sword you bear? The horse motif is not of your people.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7f1f582",
+      "en": "'Your brother must have been a great man to defeat such a foe.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Listen to Horn's story",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Talk to Horn by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Talk to Nona by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Listen to Nona's story",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Talk to Corudan by the camp-fire",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3c41c41",
+      "en": "'Do you have a story to share?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa59e981",
+      "en": "You speak of your role fighting evil in Dol Guldur alongside the Golden Host.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Corudan is waiting to speak with you beside the river where you have stopped for the night.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa59e982",
+      "en": "You speak of Mazog and the axe Zigilburk, and of Sigileth's heroic end.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Horn and Nona are sitting on opposite sides of the camp-fire by the Anduin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Corudan is sitting by the camp-fire.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Corudan is sitting by the camp-fire.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "Horn is sitting by the fire.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "Listen to Horn tell his story of King Fengel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Horn is waiting to finish the story of King Fengel and Wyrgende the crone.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

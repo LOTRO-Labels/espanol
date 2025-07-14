@@ -1,0 +1,737 @@
+{
+  "id": 620905626,
+  "txt": [
+    {
+      "id": "0xb23d5e5",
+      "en": "'Your commands have the weight of a breeze in the grass to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced8",
+      "en": "You have come before the seat of Théoden, King of Rohan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e6",
+      "en": "'Gríma!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced9",
+      "en": "Gríma has called you forth to speak to him.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e7",
+      "en": "'Pah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e8",
+      "en": "'I know what it is you seek, Gríma! For Rohan, and for yourself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e9",
+      "en": "'Well, you shall have none of it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86eca50",
+      "en": "'I say that is further proof of its wisdom, then! Gríma's words are nothing to me.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x86eca51",
+      "en": "'Will you let us in to see my uncle? You know who I am, Háma.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085251",
+      "en": "'I do not understand why I must leave my bow with this man, [placeholder]. Do they not trust my word as an Elf? If I say I will do no harm to their King, no harm will come to him from my hand.\\n\\n'It is not that I am offended. It is just that we went to some trouble to recover this bow the last time it left my possession, and I do not believe you could win a similar wager to get it back again!'\\n\\nCorudan laughs.\\n\\n'Ah, I will leave it here with this man Háma. The Rohirrim seem so afraid of Elves I believe I could make a frightful face at one of them and cow him into returning my bow, if it came to that.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085252",
+      "en": "'Look there, [placeholder]. Behold the Golden Hall of Meduseld, seat of my uncle Théoden, the King of Rohan. We will speak with him and obtain a decree the Reeves will be unable to ignore. They must move their people across the Entwash where we can better protect them! A decree by Théoden King will be more difficult for them to ignore, I deem.'\\n\\nÉomer looks momentarily discomfited.\\n\\n'I rode north with my Éored to hunt the Orcs against my uncle's wishes. He may still be displeased, but we must hope that he will forgive the disobedience for its happy result: the death of the Orcs.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085253",
+      "en": "'I am sorry you must be inconvenienced in this way, [placeholder]. Do not blame Háma for it. He is simply doing his duty. The safety of the King must come before all, and keeping the weapons of strangers outside the hall can help ensure it.\\n\\n'It was never like this in days of old, however. I sense the influence of Gríma in this.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085254",
+      "en": "'I will leave Nona's sword with Háma, for I trust the Doorward of Théoden and know him to be an honourable man. He will see to it that the blade is returned to me after our audience.\\n\\n'I do not like to be without it for even a moment, but I will do as Théoden King requires.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085255",
+      "en": "'I am Háma, the Doorward of Théoden. You have come to the Golden Hall of Meduseld in the presence of Éomer, nephew of the King, and you are as welcome here as he himself be, if he speaks well of you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085256",
+      "en": "'If you will leave your weapons outside the hall, I will bring you inside to see Théoden King.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085257",
+      "en": "'I have seen enough, [placeholder]! It is as I feared when my uncle forbade me to pursue the Orcs. His will is not his own! It is Gríma's doing!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085258",
+      "en": "Gríma studies you with piercing eyes, and you feel distinctly uncomfortable. How much knowledge of your imprisonment in Isengard did Saruman share with his nefarious agent?\\n\\nYou learned in the caverns below Isengard that Gríma is a pawn of Saruman... but does Gríma know that you know it?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd085259",
+      "en": "'Come with me. I will bring you before Théoden King.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029311",
+      "en": "'It is my master Gléowine! He taught me the craft when I was young.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029312",
+      "en": "'What has he done?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029313",
+      "en": "'No!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca1",
+      "en": "'This way, my friends. We will speak with my uncle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029314",
+      "en": "'Théoden King, the men of Stangard still stand strong.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca2",
+      "en": "'These are good men, trusted with the protection of Théoden King and his family.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029315",
+      "en": "'But your land is beset by dangers! You must open your eyes and see!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca3",
+      "en": "'I hope you are ready to climb, my friends!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029316",
+      "en": "'I speak the truth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca4",
+      "en": "'Aye, and destroyed them all!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd029317",
+      "en": "'Théoden King, you must release Éomer. Rohan needs him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca5",
+      "en": "'Something is not right, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca6",
+      "en": "'I see the influence of Gríma Wormtongue everywhere.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca7",
+      "en": "'We will set things right.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca8",
+      "en": "'Háma, I have come with these three companions to see my uncle.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x186eca9",
+      "en": "'These are unusual times, Háma. Some would say they require more friends, rather than fewer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3081",
+      "en": "'Enough of this, bard!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3082",
+      "en": "'You are guilty of spreading lies and deceit throughout Edoras!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60e7411",
+      "en": "'He will call you before him when he is ready for you. Until then you must wait.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3083",
+      "en": "'Guards! Seize this man! Cast him from Edoras, never to return!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3084",
+      "en": "'You dare return here after flouting the King's command not to pursue the Orcs?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3085",
+      "en": "'I speak with the King's voice!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3086",
+      "en": "'See how you trouble the King? Your presence is painful to him.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3087",
+      "en": "'Guards! Guards!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa3ced10",
+      "en": "You stand before the seat of Théoden, King of Rohan, but it is his advisor Gríma that will decide your fate.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3088",
+      "en": "'I will speak with Háma about this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23d5ef0",
+      "en": "'Listen to me, all of you! Can you not see that Rohan has been left undefended?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf9c3089",
+      "en": "'Nephew of the King or not, you should have left your blade outside!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23d5ef1",
+      "en": "'This man has done it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23d5ef2",
+      "en": "'It will not last, Gríma!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23d5ef3",
+      "en": "'One day you will be cast out in disgrace, Wormtongue!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23d5ef4",
+      "en": "'I hope I am there to see it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5839341",
+      "en": "'This way.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c1",
+      "en": "Walk with Éomer to the gates of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c2",
+      "en": "Talk to Éomer in Edoras",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c3",
+      "en": "Attain permission to enter the Golden Hall of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c4",
+      "en": "Talk to Háma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c5",
+      "en": "Talk to Horn in front of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c6",
+      "en": "Talk to Corudan in front of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c7",
+      "en": "Talk to Éomer in front of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c8",
+      "en": "Talk to Háma in front of Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x150d6c9",
+      "en": "Walk with Háma to your audience with Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x852590",
+      "en": "Gríma stares at you with those piercing eyes.\\n\\n'You were fortunate, [placeholder],' he says, the shadow of a half-smile creasing his lips.\\n\\n'That will not happen again.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59da6a1",
+      "en": "'Lord Éomer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59da6a2",
+      "en": "'Look!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59da6a3",
+      "en": "'Lord Éomer, did you find the Orcs you sought?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x59da6a4",
+      "en": "'Careful now.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a0",
+      "en": "'Have you forgotten the Curse of Wyrgende?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a1",
+      "en": "'It claimed the life of your son, and it will claim Éomer's life as well.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a2",
+      "en": "'It is the order of the King that this rabble be cast into the dungeon alongside Éomer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a3",
+      "en": "'Yes, Lady Éowyn. You speak with wisdom that befits your beauty.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a4",
+      "en": "'The three of you are banished from Edoras.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a5",
+      "en": "'You are forbidden to again cross the Entwade, and must remain east of the river.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a6",
+      "en": "'If you disobey this command, you will suffer the penalty of death.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85665e1",
+      "en": "'Éomer, these are unusual companions you bring to Edoras.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308a7",
+      "en": "'Be thankful for the mercy of Théoden, King of Rohan.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85665e2",
+      "en": "'That is not what Gríma would say.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x85665e3",
+      "en": "'Yes, Éomer, you and your friends may pass. I ask only that they leave their weapons outside.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b0",
+      "en": "'Take him to the dungeons! He is a danger to the King!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b1",
+      "en": "'Bring Éomer to the dungeon, and cast Gléowine from Edoras.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b2",
+      "en": "'You there, [placeholder], come here.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b3",
+      "en": "'Éomer is accompanied by the lowest sort of companions, Théoden King.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b4",
+      "en": "'What should be their fate?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b5",
+      "en": "'And who else do I see with you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b6",
+      "en": "'Has Stangard fallen? Have the Easterlings razed it?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b7",
+      "en": "'How else to explain why Horn has come before the King?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b8",
+      "en": "'Silence! You speak the same treasons as Gléowine your master.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9c308b9",
+      "en": "'My King, you know not to set any hope upon Éomer.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Instance: Night Falls on Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x33d632e",
+      "en": "You have come with Éomer to Edoras to speak with his uncle Théoden, the King of Rohan.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ef1e1",
+      "en": "'Éomer!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ef1e2",
+      "en": "'Uncle, you must not worry yourself so.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ef1e3",
+      "en": "'Éomer! Be wise!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ef1e4",
+      "en": "'Éomer, stop!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e49de1",
+      "en": "'My King, I have always served you faithfully and well!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb2ef1e5",
+      "en": "'Gríma, have mercy! Their crime is that of Gléowine, not that of my brother.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e49de2",
+      "en": "'I have been your minstrel for many years! It has been my honour and privilege...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e49de3",
+      "en": "'Théoden King, please listen to me!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e49de4",
+      "en": "'I would never speak against you, my King! I did not mean...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c50",
+      "en": "Talk to Háma inside Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7e49de5",
+      "en": "'My King! Please!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c51",
+      "en": "Wait for your audience with Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c52",
+      "en": "Talk to Éomer in Meduseld",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c53",
+      "en": "Listen as Éomer speaks with Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c54",
+      "en": "Talk to Gríma",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491981",
+      "en": "'Faithfully...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x50d6c55",
+      "en": "Witness the will of Théoden",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491982",
+      "en": "'My minstrel... Gléowine...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491983",
+      "en": "'Éomer... sister-son...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491984",
+      "en": "'Gríma... the Orcs! The Orcs...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491985",
+      "en": "'Easterlings... grave threat...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491986",
+      "en": "'Éomer...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc491987",
+      "en": "'Théodred...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced1",
+      "en": "Éomer is standing on the approach to Meduseld, the Golden Hall, and wishes to speak with you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced2",
+      "en": "Háma, the door-ward of Théoden, is before the gates of Meduseld and needs to approve your entrance before you can see the King.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced3",
+      "en": "Your companions are outside Meduseld and have been asked to leave their weapons with Háma.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e1",
+      "en": "'Enough!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced4",
+      "en": "Háma is before the gates of Meduseld, waiting to take your weapons.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e2",
+      "en": "'Uncle!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced5",
+      "en": "You have come into Meduseld with Háma, seeking an audience with Théoden.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e3",
+      "en": "'I have returned from the hunt! The Orcs are destroyed!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced6",
+      "en": "It is not yet time for your audience with Théoden. You will be called before him when he is ready for you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb23d5e4",
+      "en": "'The King's command? To my memory it was your command, Gríma Wormtongue.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5a3ced7",
+      "en": "Éomer is ready to confront Théoden and his advisor Gríma Wormtongue.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

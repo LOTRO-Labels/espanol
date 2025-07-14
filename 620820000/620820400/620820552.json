@@ -1,0 +1,455 @@
+{
+  "id": 620820552,
+  "txt": [
+    {
+      "id": "0x4d51da2",
+      "en": "'Attack them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe5fd53",
+      "en": "You successfully disable the alarm, but your cover has been blown!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6e8b911",
+      "en": "'Hmmph...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb821791",
+      "en": "'You there! What are you doing here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb821792",
+      "en": "'Let me see your orders!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x23ae203",
+      "en": "'Let's see how you handle my poisoned blades!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb821793",
+      "en": "'This is a restricted area!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc58c783",
+      "en": "'What are you idiots doing still standing there? I thought I told you to get back to work!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b29524",
+      "en": "The Orc looks in your direction...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x669f841",
+      "en": "'Huh? Who's been messing with this?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb11311",
+      "en": "'You have arrived at the perfect time!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x669f842",
+      "en": "'The alarm doesn't work!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb11312",
+      "en": "'You have the honour of witnessing the power of my warriors before Lothlórien!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x669f843",
+      "en": "'No alarm? I'll have to handle this myself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x728bc94",
+      "en": "'Hey, wait a second... you guys aren't Orcs!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb11313",
+      "en": "'Show them how you'll kill those wretched Elf Archers!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x400e623",
+      "en": "The Orc eyes you suspiciously...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa30aa2",
+      "en": "'Anyways...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa30aa3",
+      "en": "'Very well...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5739ba1",
+      "en": "'Intruders!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x971d5e1",
+      "en": "'Sir! How are you today sir?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5739ba2",
+      "en": "'Sound the alarm!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x971d5e2",
+      "en": "'Sir! I am here to serve you sir!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5739ba3",
+      "en": "'To arms!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x971d5e3",
+      "en": "'Sir! No sign of the intruders sir!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d5eda1",
+      "en": "'This armour's too heavy! It's time to show you my true strength!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc1d531",
+      "en": "'Sir! You're looking... hmm...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7407632",
+      "en": "Once Commander Greb is killed, you can use this chest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc1d532",
+      "en": "'Sir, do you have clearance to be here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc1d533",
+      "en": "'Sir, there are intruders in the stronghold! You must be... careful...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2a8414f",
+      "en": "'All right! Lunch time is over! Get back to work!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4545585",
+      "en": "You fail to disable the alarm and your cover has been blown!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf379361",
+      "en": "'Sir... you look strange...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x778e141",
+      "en": "'#-1:[placeholder] What's that smell? Smells like #-1:{an[E]|a} [placeholder]...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf379362",
+      "en": "'Sir! Permission to inspect you sir!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d5e4a1",
+      "en": "'This armour hampers my reflexes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x778e142",
+      "en": "'Hmmm...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x802c8b5",
+      "en": "As the Moria Sentry falls he lets forth a terrible wail that echoes throughout the halls.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf379363",
+      "en": "'Sir... are you sure you're supposed to be here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4d5e4a2",
+      "en": "'Do to them what you shall do to the trees of Lórien!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x778e143",
+      "en": "'Who are you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2c5934",
+      "en": "'Now you shall witness my defences...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x802e8b5",
+      "en": "The Moria Sentry lets out a blood curdling wail which shakes the very floor. Urgent voices echo through the halls.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x63602b4",
+      "en": "The Sentry has activated the alarm!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x802f8b5",
+      "en": "The Moria Sentry cries even louder than the first as he falls. Hopefully his cries have fallen upon deaf ears.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xed081b3",
+      "en": "'Who goes there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb754314",
+      "en": "'You shall not pass!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x484d512",
+      "en": "'Bah! My blades have lost their edge!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x484d513",
+      "en": "'You fools are stronger than you look!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7973f1",
+      "en": "'Let me see your papers...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36c6931",
+      "en": "'Fools! I'll have to handle this myself...'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20ae5c1",
+      "en": "'We have intruders in our stronghold.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7973f2",
+      "en": "'Are you new here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x36c6932",
+      "en": "'If you can't stand the heat, get out of my kitchen!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x94862d4",
+      "en": "'Now I will school you in the ways of the warrior!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x20ae5c2",
+      "en": "'They may be disguised as Chief Guards. Don't let any pass.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7973f3",
+      "en": "'Are you sure you're supposed to be here?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8ab11a5",
+      "en": "'No more games! Prepare to fall to my flaming axe!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x25af6e4",
+      "en": "'Get them!!!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x473abc7",
+      "en": "Once General Talug is killed, you can use this chest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x47460ea",
+      "en": "Once Vrarz the Cook is killed, you can use this chest.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b47e1c",
+      "en": "The mess hall is filled with ravenous Orcs devouring their meals. Only an Orc would dare set foot in here...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe8d9a81",
+      "en": "'Only Commander Greb has clearance to pass here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x295f5d3",
+      "en": "You successfully disable the alarm and your cover is still intact.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb11e12",
+      "en": "'Ha! I don't know how you've made it this far, but your journey ends here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb11e13",
+      "en": "'Bar the doors! Let none of them escape!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xff4dd3f",
+      "en": "'Yes sir!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6136c5e",
+      "en": "'Fools! Don't just stand there! Help me!!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6245d65",
+      "en": "You fail to disable the alarm, but your cover is still intact.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb8c261",
+      "en": "'Intruders! Intruders in the mess hall!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb8c262",
+      "en": "'Who dares interrupt our meal? Get them!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xdb8c263",
+      "en": "'Hey! A fresh meal has walked right to us boys!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15904d3",
+      "en": "'Wait! Come back! There are intruders in our midsts!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x93eb10f",
+      "en": "'Who dares interrupt me?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc30b6e",
+      "en": "The Orc stops staring at you.",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

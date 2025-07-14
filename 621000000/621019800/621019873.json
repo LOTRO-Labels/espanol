@@ -1,0 +1,173 @@
+{
+  "id": 621019873,
+  "txt": [
+    {
+      "id": "0x9b568b4",
+      "en": "'Who are you and why do you stand before me? Speak quickly, or you will know the wrath of the line of Beorn!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "The path to the ruins of Hadhodiant can be found in north-west Woodsedge.\\n\\nYou discovered a slain Orc at the foot of the path to the ruins of Hadhodiant. Its wounds were deep and not unlike those made by a skin-changer. You should follow the path to the ruins of the old bridge and search for Hárskor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b6",
+      "en": "'[placeholder]... can it really be so?\\n\\n'It has been... a long time, cousin.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a3",
+      "en": "Hárskor can be found at the ruins of Hadhodiant.\\n\\nYou have found Hárskor alive, if battle-weary, at the ruins of Hadhodiant. You should speak to him and learn what has happened.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5681",
+      "en": "'Well?'\\n\\nYou introduce yourself to Ríkmar and explain that you have not been sent by Grimbeorn with provisions, but instead to search for a Beorning named Hárskor who was thought to have arrived in Hultvís some days ago.\\n\\n'I am sorry, [placeholder]. Hultvís has suffered greatly since the end of the war and many mouths have gone unfed to preserve what little rations we have left. Even so, I won't abandon the skin-changers. Many of their kind fought and died to protect us against the Orcs, and the Woodmen will aid them in return. If Grimbeorn sent Hárskor on his errand, he has either become lost or some trouble has found him under the eaves of the forest. Alas, it is not the way of the skin-changers to lose the path in the vales. What has become of him? And what has become of the provisions he bore?\\n\\n'It is curious that Grimbeorn chose to send you instead of one of his kin. He does not often entrust such matters to outsiders. Perhaps he sees something of himself in you!\\n\\n'Here, let me mark your map. If Hárskor met with some trouble on the road to Hultvís, you must find him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Search the path to the ruins of Hadhodiant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b1",
+      "en": "You find no sign of Hárskor, but the scent of honey lingers in the air...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Examine the slain Orc",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Hárskor at the ruins of Hadhodiant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'Well?'\\n\\nYou introduce yourself to Ríkmar and explain that you have not been sent by Grimbeorn with provisions, but instead to search for another Beorning named Hárskor who was thought to have arrived in Hultvís some days ago.\\n\\n'I am sorry, [placeholder]. Hultvís has suffered greatly since the end of the war and many mouths have gone unfed to preserve what little rations we have left. Even so, I would not abandon one of your kin in his time of need. I don't need to remind you that many of your kind fought and died to protect us against the Orcs, and the Woodmen will aid them in return. If Grimbeorn sent Hárskor on his errand, he has either become lost or some trouble has found him under the eaves of the forest. Alas, you know as well as I do that it is unlike a skin-changer to lose the path in the lands of his ancestors. What has become of him, I wonder? And what of the provisions he bore?\\n\\n'Who better to search for him than one of the line of Beorn? Here, let me mark your map. If Hárskor met with some trouble on the road to Hultvís, you must find him!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50289",
+      "en": "Follow the path to the ruins of Hadhodiant",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b6",
+      "en": "A honey-cake? As you pause to examine it, a sudden rustling betrays an ambush!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b9",
+      "en": "You find no evidence that a waggon has passed across the Old Ford...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d13",
+      "en": "Ríkmar of the Woodmen has grown fearful that Hárskor and the provisions he bore have fallen into the hands of Orcs still lurking in Woodsedge.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "The crossway to the old forest road can be found by following the road to the north of Hultvís.\\n\\nRíkmar has suggested that you begin your search for Hárskor at the crossway to the old forest road.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50292",
+      "en": "Find the source of the scent at the crossway",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01187",
+      "en": "The source of the scent can be found somewhere around the crossway to the old forest road.\\n\\nYou searched the crossway to the old forest road as Ríkmar suggested, but found no sign of Hárskor. However, you notice a curious scent lingering in the air.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "His hair matted with black blood, Hárskor looms over a group of slain Orcs",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50298",
+      "en": "Search the Old Ford",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01190",
+      "en": "The Old Ford can be found far to the north-west of Hultvís.\\n\\nYou found no sign of Hárskor at the crossway, but you learned that Orcs are trapping the roads in Woodsedge. You should continue to the next location that Ríkmar marked on your map: the Old Ford.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd6a5025",
+      "en": "Search the crossway to the old forest road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "The road into the Beorning-lands can be found by following the road north from Hultvís.\\n\\nYou found no sign of Hárskor or that he crossed the Old Ford. You should continue to follow the road north toward the Beorning-lands and search for Hárskor at the path to the ruins of Hadhodiant.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01198",
+      "en": "The slain Orc can be found on the side of the road through Woodsedge near the path to the ruins of Hadhodiant.\\n\\nYou have discovered the mauled remains of an Orc near the path to the ruins of Hadhodiant. You should examine its corpse before continuing your search.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a3",
+      "en": "You notice a slain Orc lying on the side of the road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "The mauled Orc has been rent by countless claw marks and deep gashes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x24c4181",
+      "en": "'Hah, I told you it would work! This one'll taste much better than those awful cakes!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfa8e116",
+      "en": "DNT",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x78e1fa2",
+      "en": "Beneath the Eaves",
+      "es": "",
+      "es (fem)": ""
+    }
+  ]
+}

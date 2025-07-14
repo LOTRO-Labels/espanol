@@ -4,13 +4,13 @@
     {
       "id": "0x619a44",
       "en": "Trying to repair items too quickly.. Please slow down with your requests.",
-      "es": "",
+      "es": "Intentando reparar objetos demasiado rápido.. Por favor, reduzca la velocidad de sus solicitudes.",
       "es (fem)": ""
     },
     {
       "id": "0xf9ed4e4",
       "en": "Repair All",
-      "es": "",
+      "es": "Reparar todo",
       "es (fem)": ""
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "0x3cf23e8",
       "en": "Tough",
-      "es": "",
+      "es": "Resistente",
       "es (fem)": ""
     },
     {
@@ -46,13 +46,13 @@
     {
       "id": "0xdd88a95",
       "en": "Brittle",
-      "es": "",
+      "es": "Frágil",
       "es (fem)": ""
     },
     {
       "id": "0x9cb5eec",
       "en": "Substantial",
-      "es": "",
+      "es": "Sustancial",
       "es (fem)": ""
     },
     {
@@ -64,13 +64,13 @@
     {
       "id": "0x33c9ffb",
       "en": "Weak",
-      "es": "",
+      "es": "Débil",
       "es (fem)": ""
     },
     {
       "id": "0x638a014",
       "en": "Repair Shop",
-      "es": "",
+      "es": "Taller de Reparación",
       "es (fem)": ""
     },
     {
@@ -82,25 +82,25 @@
     {
       "id": "0x1d07d15",
       "en": "NPC is unavailable.",
-      "es": "",
+      "es": "El NPC no está disponible.",
       "es (fem)": ""
     },
     {
       "id": "0x5297e94",
       "en": "Repair",
-      "es": "",
+      "es": "Reparar",
       "es (fem)": ""
     },
     {
       "id": "0xb968799",
       "en": "Flimsy",
-      "es": "",
+      "es": "Endeble",
       "es (fem)": ""
     },
     {
       "id": "0x154a0b9",
       "en": "You do not have enough money to make the repair.\\n",
-      "es": "",
+      "es": "No tienes suficiente dinero para realizar la reparación.\\n",
       "es (fem)": ""
     }
   ]

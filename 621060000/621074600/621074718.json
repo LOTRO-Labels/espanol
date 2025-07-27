@@ -9,7 +9,7 @@
     },
     {
       "id": "0x33d632e",
-      "en": "Builds and deploys a battering ram when used outside of Tírith Rhaw or Lugazag<rgb=#FF000>Cannot be placed too near other siege equipment.</rgb>",
+      "en": "Builds and deploys a battering ram when used at Tírith Rhaw or Lugazag.\\n\\n<rgb=#00FF00>Battering Rams can only be used on offence.</rgb>\\n\\n<rgb=#FF0000>Battering Rams can only attack gates and doors.</rgb>",
       "es": "",
       "es (fem)": ""
     },

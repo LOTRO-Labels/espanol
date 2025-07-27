@@ -2,8 +2,356 @@
   "id": 621105532,
   "txt": [
     {
+      "id": "0xeb01155",
+      "en": "Your pursuit of the Song begins.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x41d6a23",
+      "en": "Fight alongside Jajax in Umbar-môkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe6d0402",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb214571",
+      "en": "'You may want to stand back.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb214572",
+      "en": "'Rothog?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x44bc420",
+      "en": "'Let me out of here! You must let me out!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Jajax has suggested that you search the bodies of the slain guards to see if either of them have the keys to the gaol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7932c92",
+      "en": " ",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "Belondor and Rothog entered the gaol from a hatch downstairs that leads to Umbar-môkh. Now you should find your way downstairs to escape!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Tatháta stands by the hatch leading to Umbar-môkh.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Belondor stands by the hatch leading to Umbar-môkh.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Tatháta stands by the hatch leading to Umbar-môkh.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "The path of your escape leads into Umbar-môkh.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01189",
+      "en": "You and Jajax have escaped from the gaol, but there are foes between you and the hidden harbour.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc1e7731",
+      "en": "'It would appear our prisoners have second thoughts.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01191",
+      "en": "Your foes now defeated, the way to the hidden harbour is open to you.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3178d11",
       "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01192",
+      "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56885",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01193",
+      "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56886",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Search the bodies of the slain guards for the keys to the gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Your allies stand ready to pursue the Song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a3",
+      "en": "Make your way downstairs to the hatch leading to Umbar-môkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5683",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Tatháta in the Fleetfast gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Belondor in the Fleetfast gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to Tatháta in the Fleetfast gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Descend into Umbar-môkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Jajax",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Remain alert",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Belondor in the Fleetfast gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Talk to Jajax",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc41",
+      "en": "'Thank you, oh thank you!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc42",
+      "en": "'You will not regret this!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Search the bodies of the slain guards for the keys to the gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc43",
+      "en": "'How can I ever repay you?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc44",
+      "en": "'I thought I would die in there!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc45",
+      "en": "'We are free? Can it be so?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc46",
+      "en": "'Hey! Let me out!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc47",
+      "en": "'You cannot leave me here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc48",
+      "en": "'Hey! Do you have the keys?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa750e1",
+      "en": "'Freedom is mine!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x644bc49",
+      "en": "'That Jajax thinks he knows so much!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa750e2",
+      "en": "'Why are you doing this? I cannot believe it!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa750e3",
+      "en": "'Is this a trick?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa750e4",
+      "en": "'Let me out!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa750e5",
+      "en": "'Where did you put the keys?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa750e6",
+      "en": "'You cannot leave us here!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4c7c771",
+      "en": "'Get them!'",
       "es": "",
       "es (fem)": ""
     },
@@ -15,7 +363,205 @@
     },
     {
       "id": "0xceb0112",
-      "en": "TBD - Blah!",
+      "en": "Jajax is in one of the cages of the Fleetfast gaol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0114",
+      "en": "There is a commotion outside the cage in the Fleetfast gaol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Belondor and Rothog have come to free you from the Fleetfast gaol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Jajax is in the Fleetfast gaol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Jajax has suggested that you search the bodies of the slain guards to see if either of them have the keys to the gaol.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x79f5e94",
+      "en": "You and Jajax have been overwhelmed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1171",
+      "en": "After travelling for a short distance, you hear the sound of foes ahead of you",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1176",
+      "en": "Tatháta's ship is moored in the hidden harbour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe125d51",
+      "en": "And so the ship Sotóka made for Gondor in pursuit of The Song and a desperate hope",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe125d52",
+      "en": "But some of those who sailed that way would never return",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x178d152",
+      "en": "Tidings from the city outside are cut off from the prisoners in the Fleetfast gaol. What is happening in Umbar Baharbêl?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1181",
+      "en": "This guard does not have the keys to the gaol",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "You found a ring containing keys to the cages in the Fleetfast gaol!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1184",
+      "en": "Tatháta and Jajax stand by the hatch leading to Umbar-môkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf67c91",
+      "en": "'What is happening out there?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Talk to Jajax in the ship Sotóka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf67c92",
+      "en": "'One of these guards might have the keys.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "Tatháta eyes you carefully",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50242",
+      "en": "Talk to Belondor in the ship Sotóka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf67c93",
+      "en": "'You should free us some friends on our way out!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50243",
+      "en": "Talk to Rothog in the ship Sotóka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf67c94",
+      "en": "'Attack!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50244",
+      "en": "Talk to Tatháta in her ship Sotóka",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf67c95",
+      "en": "'Ha ha ha ha! It is good to get my blood flowing again!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfc23211",
+      "en": "'Why have you not already left, Tatháta?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xaf67c96",
+      "en": "'Tatháta's ship is near!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50246",
+      "en": "Pursue the Song to Gondor",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01147",
+      "en": "You should board Tatháta's ship so you may pursue the Song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Talk to Jajax in Umbar-môkh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Make your way to the hidden harbour",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50258",
+      "en": "Board Tatháta's ship and go belowdecks",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01150",
+      "en": "Your allies stand ready to pursue the Song.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed96",
+      "en": "Pass the time as best you can",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe08ed98",
+      "en": "Follow Jajax",
       "es": "",
       "es (fem)": ""
     }

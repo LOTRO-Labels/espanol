@@ -2,31 +2,49 @@
   "id": 621106495,
   "txt": [
     {
-      "id": "0xeb011a0",
-      "en": "TBD - Blah!",
+      "id": "0x2f00e25",
+      "en": "Return the script to Satagêra at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56880",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "Atâlsi hands you a pass with a wax seal to give the Mûmak keeper",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Satagêra is at EMAX DUL HUB TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1199",
+      "en": "Shâdugan Gânda gives you a grim smile",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x9b56886",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xda44875",
-      "en": "Chapter 16.9: Satagêra's Masterpiece",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56888",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56889",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
@@ -38,14 +56,62 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6a502a0",
+      "en": "Talk to Shâdugan Gânda at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0116",
+      "en": "Atâlsi is at EMAX DUL HUB TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Talk to Satagêra at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56889",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd9b5684",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x3178d11",
+      "en": "Têrkar's Travellers are willing to help you gain access to the inner keep of the guarded city of Emax Dûl, but the plan is not without its dangers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd9b5685",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Shâdugan Gânda, the keeper of the Mûmakil, is at TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Read the new portion of the script Satagêra gave to you",
       "es": "",
       "es (fem)": ""
     },
@@ -62,8 +128,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6a502a6",
+      "en": "Find Inkanûsh at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to Inkanûsh at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Ulishár at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56890",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Talk to Mashkânu at TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -74,14 +164,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0xeb01182",
+      "en": "You have only known Têrkar's Travellers for a short time, but you are reasonably certain they would want you to <rgb=#00FF00>point</rgb> at the largest of the Mûmakil.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e37",
+      "en": "Bring the pass to Shâdugan Gânda, the keeper of the Mûmakil",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56893",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x3178d11",
-      "en": "TBD - Blah!",
+      "id": "0xeb01184",
+      "en": "Shâdugan Gânda, the keeper of the Mûmakil, is at TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -92,14 +194,8 @@
       "es (fem)": ""
     },
     {
-      "id": "0xceb0113",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01182",
-      "en": "TBD - Blah!",
+      "id": "0xeb01186",
+      "en": "Satagêra is at EMAX DUL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -110,74 +206,62 @@
       "es (fem)": ""
     },
     {
-      "id": "0xeb01184",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
       "id": "0x9b56898",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xceb0116",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01186",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0119",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
       "id": "0xeb01189",
-      "en": "TBD - Blah!",
+      "en": "Satagêra has given you some fresh pages of her script to read.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Satagêra at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Talk to Atâlsi at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "<rgb=#00FF00>Point</rgb> at the Mûmak you want",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01191",
-      "en": "TBD - Blah!",
+      "en": "Satagêra is at EMAX DUL HUB TBD, waiting for your response to her script.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01193",
-      "en": "TBD - Blah!",
+      "en": "Inkanûsh has gone to TBD to think about the plan.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01195",
-      "en": "TBD - Blah!",
+      "en": "Inkanûsh stands at TBD, deep in thought.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01197",
-      "en": "TBD - Blah!",
+      "en": "Mashkânu is at TBD.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56880",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56882",
-      "en": "'TBD - Blah!'",
+      "id": "0xeb011a0",
+      "en": "Ulishár is at TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -194,8 +278,20 @@
       "es (fem)": ""
     },
     {
-      "id": "0x9b56884",
-      "en": "'TBD - Blah!'",
+      "id": "0xa8e1182",
+      "en": "Satagêra hands you some fresh pages of her script",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1187",
+      "en": "Inkanûsh stands at TBD, deep in thought",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 16.9: Satagêra's Masterpiece",
       "es": "",
       "es (fem)": ""
     }

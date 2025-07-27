@@ -3,13 +3,19 @@
   "txt": [
     {
       "id": "0xda44875",
-      "en": "Exposed Throat",
+      "en": "Bleeding Jugular",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x33d632e",
-      "en": "Earns the skill: Exposed Throat.",
+      "en": "Exposed Throat leaves enemies bleeding.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554671",
+      "en": "Exposed Throat applies the Bleeding Jugular bleed.",
       "es": "",
       "es (fem)": ""
     }

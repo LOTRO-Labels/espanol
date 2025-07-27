@@ -2,14 +2,26 @@
   "id": 620809579,
   "txt": [
     {
+      "id": "0x6554678",
+      "en": "+[placeholder]s Cash Out Stun Duration",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xda44875",
-      "en": "Debuffing Gamble 5",
+      "en": "Scrapper's Gamble 5",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554672",
+      "en": "-[placeholder] Incoming Damage",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x6554673",
-      "en": "-[placeholder] Attack Damage",
+      "en": "+[placeholder] Damage",
       "es": "",
       "es (fem)": ""
     }

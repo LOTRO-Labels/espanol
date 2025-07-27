@@ -3,13 +3,13 @@
   "txt": [
     {
       "id": "0xceb0114",
-      "en": "You are to go to the training dummies behind the totems in Gramsfoot and use your skills so that you might familiarize yourself with how to fight the enemy.\\n\\n<rgb=#00FF00>Remember, you cannot attack or use skills while you are <rgb=#FFFF00>marching</rgb>. You will need to disable the skill <rgb=#FFFF00>March!</rgb></rgb> to begin attacking or use other skills.</rgb>",
+      "en": "You are to go to the training dummies behind the totems in Gramsfoot and use your skills so that you might familiarize yourself with how to fight the enemy.\\n\\n<rgb=#00FF00>Remember, you cannot attack or use skills while you are <rgb=#FFFF00>Marching</rgb>. You will need to disable the skill <rgb=#FFFF00>March!</rgb></rgb> to begin attacking or use other skills.</rgb>",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xd9b5689",
-      "en": "'Ha! Don't you feel special, you little wretch? Oh... I hit a training dummy, look at me!\\n\\n'Pathetic!\\n\\n'Out there, in the 'moors, the enemy hits back! And most time they don't use pillows filled with feathers. Except maybe the rat-folk. Oh... and them rat-folk is good eatin'.'\\n\\nUglash seems lost in thought for a moment.\\n\\n'Oh... what? I've got no more to teach you - for now.'",
+      "en": "'It is good to know you can listen to an Orc and do as they ask. You will be asked, rather rudely by many others out here in the Ettenmoors. Pay them little mind. They are a war-weary lot.\\n\\n'Be warned, mistress, in the 'moors, the enemy hits back! Hard. Except maybe the rat-folk. Oh... and them rat-folk is good eatin'. You ever tried one?'\\n\\nUglash seems lost in thought for a moment.\\n\\n'Oh... what? I've got no more to teach you - for now.'",
       "es": "",
       "es (fem)": ""
     },
@@ -21,13 +21,13 @@
     },
     {
       "id": "0xceb0118",
-      "en": "You have used both a ranged and a melee skill on a target dummy and should return to Uglash at Gramsfoot.",
+      "en": "You have used two skills on a target dummy and should return to Uglash at Gramsfoot.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xfa8e115",
-      "en": "You struck a blow with Piercing Attack",
+      "en": "You struck a blow with Wisp of Acid",
       "es": "",
       "es (fem)": ""
     },
@@ -39,13 +39,13 @@
     },
     {
       "id": "0xfa8e116",
-      "en": "You struck a blow with Tainted Kiss",
+      "en": "You struck a blow with Acid-spike",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xd6a5023",
-      "en": "Successfully use <rgb=#FFFF00>Piercing Attack</rgb> on training dummy Kelsen, Jalessa, or Light training-dummy Orion",
+      "en": "Successfully use <rgb=#FFFF00>Wisp of Acid</rgb> on training dummy Kelsen, Jalessa, or Light training-dummy Orion",
       "es": "",
       "es (fem)": ""
     },
@@ -57,7 +57,7 @@
     },
     {
       "id": "0xd6a5027",
-      "en": "Successfully use <rgb=#FFFF00>Tainted Kiss</rgb> on a target dummy",
+      "en": "Successfully use <rgb=#FFFF00>Acid-spike</rgb> on a target dummy",
       "es": "",
       "es (fem)": ""
     },

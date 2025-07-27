@@ -45,13 +45,13 @@
     },
     {
       "id": "0xa502954",
-      "en": "Defeat the bridge from attacking Defilers ([placeholder]/[placeholder]) ",
+      "en": "Defend the bridge from attacking defilers ([placeholder]/[placeholder])",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xa502956",
-      "en": "Defend the stair from attacking Captains ([placeholder]/[placeholder])",
+      "en": "Defend the stair from attacking captains ([placeholder]/[placeholder])",
       "es": "",
       "es (fem)": ""
     },
@@ -80,8 +80,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x8e11be4",
+      "en": "Defended the stair from attacking captains ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xa0deb02",
       "en": "\\qNo quittin! We'll make 'em all squirm!\\q",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e11be5",
+      "en": "Defended the bridge from attacking defilers ([placeholder]/[placeholder])",
       "es": "",
       "es (fem)": ""
     },
@@ -147,7 +159,7 @@
     },
     {
       "id": "0x8e11b98",
-      "en": "The Stairs are under attack!",
+      "en": "The stairs are under attack!",
       "es": "",
       "es (fem)": ""
     },
@@ -159,7 +171,7 @@
     },
     {
       "id": "0x8e11b99",
-      "en": "The Bridge is under attack!",
+      "en": "The bridge is under attack!",
       "es": "",
       "es (fem)": ""
     },

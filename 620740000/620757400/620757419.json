@@ -716,6 +716,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xae4a542",
+      "en": "You must provide the new name for the kinship.\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xda3cf44",
       "en": "exit",
       "es": "",
@@ -1054,6 +1060,12 @@
     {
       "id": "0xa3ebcf4",
       "en": "kinship",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3d83c25",
+      "en": "Renaming kinship...\\n",
       "es": "",
       "es (fem)": ""
     },
@@ -1408,6 +1420,12 @@
     {
       "id": "0xebcf310",
       "en": "tribe",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7618975",
+      "en": "rename",
       "es": "",
       "es (fem)": ""
     },

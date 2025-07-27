@@ -2,50 +2,158 @@
   "id": 621106331,
   "txt": [
     {
-      "id": "0xceb0113",
-      "en": "TBD - Blah!",
+      "id": "0xda44875",
+      "en": "Chapter 14.11: The Raiders Pursued",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Follow the escaping Utûgi north-west to the Hill of the Mother",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'The surviving Utûgi fled from Sul Madásh in the direction of the Hill of the Mother. Blighted though she be, I fear the damage such creatures might do to the old tree in their wrath.\\n\\n'Hurry there and ensure they inflict no harm upon her, [placeholder].'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Examine the corpse of the dead Utûgi warrior",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Examine the corpse outside Laivárth... and survive",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'Hurry to the Hill of the Mother and ensure the fleeing Utûgi inflict no harm upon her!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Talk to Irsinith at the Hill of the Mother",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'Terrible creatures with the mien of Orcs approached the Hill of the Mother not long ago.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Find the fleeing Utûgi warriors near Laivárth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Talk to Shadalith in Laivárth",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xd9b5688",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0115",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01181",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0117",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01182",
-      "en": "TBD - Blah!",
+      "en": "'A party of great brutish Orcs approached the Hill of the Mother not long ago, shouting harsh cries and moving at great speed. I hid behind Amûma for fear they would discover me, but before they espied me they were discovered by something else!'\\n\\nIrsinith smiles grimly.\\n\\n'A mass of spiders boiled from the underbrush and fell upon the Orcs. The ones you see there perished immediately; the rest of the raiding-party escaped further to the west. It is possible they might encounter Laivárth, but I suspect their preoccupation with the attacking spiders may hide the grove from their discovery.\\n\\n'It is said that a terrifying spider dwells somewhere within the forest, Badharál the Gorger by name. I never believed I would be glad to see the arrival of Badharál's spawn, but on this day I must confess I was!\\n\\n'Still, I am glad they did not turn their attention upon me. Perhaps Amûma shielded me from discovery.'",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x9b56890",
-      "en": "'TBD - Blah!'",
+      "en": "'The rest of the raiding-party escaped further to the west, in the direction of Laivárth.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b7",
+      "en": "Examine Shadalith's bucket in Laivárth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Shadalith in Laivárth",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'Ah, my friend! It is good to see you again! I was hoping you would return to Laivárth so I could tell you what I have learned from my experimentation with the samples of the blight you brought to me.'\\n\\nShadalith pauses dramatically.\\n\\n'The blight hates buckets! See for yourself!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Inkanûsh asked you to pursue the Utûgi raiders before they cause further harm to the Kintai of Adagím.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01181",
+      "en": "The other Utûgi warriors perished outside the grove of Laivárth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'The blight samples you brought to me have had an adverse effect upon my bucket!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "The Utûgi escaped to the north-west. That way lies the Hill of the Mother!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Since you have returned to the grove of Laivárth, you should speak to Shadalith and see if everything is all right.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'The bucket fell apart a short time after you left, [placeholder]. Perhaps the samples of the blight interacted with the water in a curious way? The combination seems to have undone the sealings between the slats of my bucket... and now I need a new bucket. I may have learned something, but what I have learned remains a mystery to me. Such is the way of wisdom, I suppose.\\n\\n'You need not worry about my problems, friend. Judging from the sounds of battle I heard before you arrived, I deem that you have plenty of your own! Thank you for visiting Laivárth again and checking in on me! Return to Sul Madásh with my friendship.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "One of the Utûgi succumbed to its wounds not far from the Hill of the Mother.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01184",
-      "en": "TBD - Blah!",
+      "en": "Shadalith wanted you to see what happened to her bucket in Laivárth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'You have accounted for all of the fleeing Utûgi raiders? Good, good, good. Then it should be safe for us to continue southward into Kighân without fear that we leave Sul Madásh in peril if they were to return.\\n\\n'I have enlisted the aid of a guide to show us the way further south into Mûr Ghala. You have already met him, [placeholder]. His name is Ulishár.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Irsinith may have seen what befell the Utûgi raiding-party as it approached the Hill of the Mother.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Shadalith is in the grove of Laivárth.",
       "es": "",
       "es (fem)": ""
     },
@@ -56,74 +164,56 @@
       "es (fem)": ""
     },
     {
-      "id": "0xeb01186",
-      "en": "TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56893",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56895",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
       "id": "0xeb01188",
-      "en": "TBD - Blah!",
+      "en": "Inkanûsh is waiting in Sul Madásh for you to return with news of the raiding-party of Utûgi.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "The creature that slew the Utûgi warriors has come back for you!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "You survived your encounter with the spawn of Badharál",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1198",
+      "en": "Shadalith's bucket has fallen apart, spilling its water everywhere",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a0",
+      "en": "Talk to Inkanûsh in Sul Madásh",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01196",
+      "en": "The remaining Utûgi warriors escaped to the north-west, heading for the grove of Laivárth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a2",
+      "en": "One of the Utûgi, at least, succumbed to his wounds",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x9b56880",
-      "en": "'TBD - Blah!'",
+      "en": "'Thank you for visiting Laivárth again and checking in on me! Return to Sul Madásh with my friendship.'",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56897",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56899",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x3178d11",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5682",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5684",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xda44875",
-      "en": "Chapter 14.11: The Raiders Pursued",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5686",
-      "en": "'TBD - Blah!'",
+      "id": "0xa8e11a4",
+      "en": "This warrior of the Utûgi died not to blade or arrow, but to something else",
       "es": "",
       "es (fem)": ""
     }

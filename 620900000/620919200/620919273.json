@@ -3,6 +3,12 @@
   "txt": [
     {
       "id": "0xd13bc71",
+      "en": "+[placeholder] Effects Removed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd13bc72",
       "en": "-[placeholder]s Hide in Plain Sight Cooldown",
       "es": "",
       "es (fem)": ""
@@ -15,13 +21,25 @@
     },
     {
       "id": "0x33d632e",
-      "en": "The skill Hide in Plain Sight has a reduced cooldown.",
+      "en": "Learn to disappear from enemies more frequently, and remove some negative effects when you do so.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x6554671",
+      "en": "+[placeholder] Effects Removed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554672",
       "en": "-[placeholder]s Hide in Plain Sight Cooldown",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554673",
+      "en": "-[placeholder]s Cooldown within Instances",
       "es": "",
       "es (fem)": ""
     }

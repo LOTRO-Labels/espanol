@@ -2,20 +2,140 @@
   "id": 621106364,
   "txt": [
     {
-      "id": "0xceb0113",
-      "en": "TBD - Blah!",
+      "id": "0xa8e11a9",
+      "en": "Amêsh leaps from hiding, unaware of your lack of surprise",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "Chapter 15.10: A Brigand-Haunted Road",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Repair the brigand-tampered signpost at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50282",
+      "en": "Repair the brigand-tampered signpost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'An Shêru, the Height of the Sky, was once known for the loveliness of its high forests and flowering meads, but no longer. Now the plateau is parched and dry, a cracked waste among the high peaks of the Mûr. If Inkanûsh is correct that other vaults of the Thardúth remain, this would seem to be a likely place for them.\\n\\n'The road that runs from Zajâna to An Shêru has a reputation for danger. We must remain alert for brigands as we make our way north-west.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b2",
+      "en": "Talk to Rahâzi at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Continue further on to TBD along the road to An Shêru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Collect blades from brigands at BRIGAND CAMP TBD ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'We must remain alert for brigands as we make our way toward An Shêru.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Examine the suspicious signpost at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Collect bows from BRIGAND CAMP TBD ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50287",
+      "en": "Examine the suspicious signpost at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'Our paths cross once again, [placeholder], and it seems they each lead to the Height of the Sky!\\n\\n'Shâra Mizâdi entrusted me and two of her soldiers to scout the plateau of An Shêru ahead of her army. We have not yet climbed high enough and already we have run afoul of brigands. I see you have as well!\\n\\n'The bandits came from the TBD. If you deprive them of blades and bows with which they trouble folk on the road, you will be aiding the Shâra and any others who must travel this way. We can meet up at TBD where the road leads into An Shêru and discuss our further plans.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'Deprive those brigands of the blades and bows with which they trouble folk on the road, and we can meet up at TBD where the road leads into An Shêru.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "The road to An Shêru has a reputation for danger, but that is the way you must go.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01180",
-      "en": "TBD - Blah!",
+      "en": "Rahâzi has arrived in the company of two Hamâti soldiers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b8",
+      "en": "There is something suspicious about this signpost",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'Those brigands would surely have known not to trouble Shâra Mizâdi or her army, but most travellers have neither her numbers nor her ferocious mien! It is good you have shown them the road is not undefended.\\n\\n'I felt a chill when I arrived here, and my companions say they felt the same. I suspect more than brigands haunt these ruins.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b9",
+      "en": "Shouting defiantly, a brigand leaps out of hiding!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "The road to An Shêru leads north-west of Zajâna. You should begin by going to TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "The brigand camp BRIGAND CAMP TBD is located at TBD.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xceb0115",
-      "en": "TBD - Blah!",
+      "en": "Something strikes you as suspicious about the signpost at TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01184",
+      "en": "Rahâzi asked you to meet up with her party at HALLOWS HUB TBD in An Shêru.",
       "es": "",
       "es (fem)": ""
     },
@@ -27,73 +147,79 @@
     },
     {
       "id": "0xceb0117",
-      "en": "TBD - Blah!",
+      "en": "The road to An Shêru leads north-west of Zajâna. You should continue on your way to TBD.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xeb01182",
-      "en": "TBD - Blah!",
+      "id": "0x2f00e38",
+      "en": "Bring the blades and bows to Rahâzi at HALLOWS HUB TBD in An Shêru",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xceb0118",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01184",
-      "en": "TBD - Blah!",
+      "en": "Brigands may have tampered with the signpost at TBD as well.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xceb0119",
-      "en": "TBD - Blah!",
+      "en": "You should repair this signpost at TBD as you repaired the other.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56891",
-      "en": "'TBD - Blah!'",
+      "id": "0xa8e1191",
+      "en": "As you step back to admire your work, you feel eyes upon you",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56893",
-      "en": "'TBD - Blah!'",
+      "id": "0x6a50296",
+      "en": "Travel to TBD on the road to An Shêru",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56895",
-      "en": "'TBD - Blah!'",
+      "id": "0xa8e1194",
+      "en": "Collected blades ([placeholder]/[placeholder])",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x3178d11",
-      "en": "TBD - Blah!",
+      "id": "0xa8e1196",
+      "en": "Collected bows ([placeholder]/[placeholder])",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xd9b5682",
-      "en": "'TBD - Blah!'",
+      "id": "0xeb01191",
+      "en": "If Dagûrum had allies, leaving the signpost as it is may help them ambush other travellers. You should repair the signpost and ruin their plans.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xd9b5684",
-      "en": "'TBD - Blah!'",
+      "id": "0xa8e11a0",
+      "en": "You survived Dagûrum's ambush, but he may have allies",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xda44875",
-      "en": "Chapter 15.10: A Brigand-Haunted Road",
+      "id": "0xa8e11a3",
+      "en": "You repair the signpost, making the road more safe for travellers",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "Brigands appear to have tampered with this signpost as well",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a8",
+      "en": "You survived Amêsh's ambush",
       "es": "",
       "es (fem)": ""
     }

@@ -14,6 +14,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd2acfd4",
+      "en": "Angmar claims Tírith Rhaw and begins the construction of a gate. We must respond!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3daccfe",
       "en": "DNT - This controls the speed of scalar respawn in Ered-Luin, the higher the number, the faster the landscape respawn.",
       "es": "",
@@ -22,6 +28,24 @@
     {
       "id": "0x376acb5",
       "en": "The Shadowed Cave has opened!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35aaa21",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35aaa22",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35aaa23",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -44,8 +68,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0x35aaa24",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35aaa25",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8d0821",
       "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35aaa26",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -62,14 +104,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x35aaa27",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8d0823",
       "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x35aaa28",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8d0824",
       "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x35aaa29",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -123,7 +183,7 @@
     },
     {
       "id": "0x73a3532",
-      "en": "Good work, curs! That door will slow an attack against Lugazag!",
+      "en": "Good work, curs! That gate will slow an attack against Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -170,6 +230,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2bede74",
+      "en": "We need one more delivery to complete the gate at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xc1b8ab5",
       "en": "",
       "es": "",
@@ -190,6 +256,12 @@
     {
       "id": "0xc1b8ab6",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fa16c5",
+      "en": "Deploy the battering rams at Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -225,7 +297,13 @@
     },
     {
       "id": "0xd3a3512",
-      "en": "Lugazag's crown is defended by a door!",
+      "en": "Lugazag's crown is defended by a gate!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9332915",
+      "en": "DNT - Monster Play Reward Track Status. Warning: setting to false could reset track progress.",
       "es": "",
       "es (fem)": ""
     },
@@ -272,6 +350,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x36dde34",
+      "en": "Overwhelm Tírith Rhaw, now! Do not let them seal the gate!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8ef75b7",
       "en": "Hard Tack of Thorin's Hall is now recruiting volunteers.",
       "es": "",
@@ -286,6 +370,12 @@
     {
       "id": "0xaa27e07",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9332925",
+      "en": "DNT - Monster Play Reward Track Status. Warning: setting to false could reset track progress.",
       "es": "",
       "es (fem)": ""
     },
@@ -332,8 +422,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x9332935",
+      "en": "DNT - Monster Play Reward Track Status. Warning: setting to false could reset track progress.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xa5e8ee5",
       "en": "DNT - Controls the configuration of available tiers for Kidzul Kalah 6man.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xace6964",
+      "en": "Hold the forward camp near Lugazag! Deny the Free People access to the tunnels!",
       "es": "",
       "es (fem)": ""
     },
@@ -346,6 +448,18 @@
     {
       "id": "0x114f2bc",
       "en": "DNT - The Great Bridge has been defended by the forces of Gondor!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f7b8fe",
+      "en": "One more delivery, maggots! Then the cauldron of Tírith Rhaw is done!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8d53fc4",
+      "en": "For the Free People! We control the forward camp near Lugazag.",
       "es": "",
       "es (fem)": ""
     },
@@ -458,6 +572,72 @@
       "es (fem)": ""
     },
     {
+      "id": "0xf36c221",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c222",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c223",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c224",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c225",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5cd00d5",
+      "en": "Angmar's forces upgraded the gate of Lugazag a fourth time!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c226",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d01425",
+      "en": "The hero of Grothum has returned!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c227",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c228",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf36c229",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x2a4b4a4",
       "en": "",
       "es": "",
@@ -525,13 +705,19 @@
     },
     {
       "id": "0x775bbd2",
-      "en": "Lugazag will need to be sieged! Angmar builds doors!",
+      "en": "Lugazag will need to be sieged! Angmar builds a gate!",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xa6501bc",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b23355",
+      "en": "We can surely defend Tírith Rhaw with a fully reinforced gate!",
       "es": "",
       "es (fem)": ""
     },
@@ -560,8 +746,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0xde14fc1",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xfc804d7",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde14fc2",
+      "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
       "es (fem)": ""
     },
@@ -578,6 +776,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xde14fc3",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x43c4405",
       "en": "DNT - Sets the Breeland Wildwood SwitchState Generators to be active.",
       "es": "",
@@ -590,8 +794,50 @@
       "es (fem)": ""
     },
     {
+      "id": "0xde14fc4",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde14fc5",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b23f55",
+      "en": "We have reinforced the gate of Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde14fc6",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde14fc7",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xc4ddd15",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde14fc8",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xde14fc9",
+      "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
       "es (fem)": ""
     },
@@ -782,8 +1028,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0x8f160ae",
+      "en": "Your efforts aid the forging of the Cauldron at Tírith Rhaw. We are half done.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x68eab45",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1221435",
+      "en": "Hunt down the slayer of the hero of Grothum!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8a1ab54",
+      "en": "Work faster, maggots! We are halfway to finishing the gate at Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -826,6 +1090,12 @@
     {
       "id": "0x3726d02",
       "en": "Tracks which unique rings have been found.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4323ea4",
+      "en": "Angmar has taken the Visage of Gil-gâlad! Prevent them from defiling the honoured visage!",
       "es": "",
       "es (fem)": ""
     },
@@ -902,6 +1172,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x1d3a5e",
+      "en": "Good work, worms! Get that cauldron built and ready to rain boiling oil on the rats.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xb142b9c",
       "en": "DNT - Good work, maggots! The Great Bridge is ours!",
       "es": "",
@@ -922,6 +1198,12 @@
     {
       "id": "0x4dde72e",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb34f835",
+      "en": "I am impressed. The gate of Lugazag is fully reinforced!",
       "es": "",
       "es (fem)": ""
     },
@@ -950,8 +1232,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0xcdcc9e4",
+      "en": "We have taken the Visage of Gil-gâlad!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8b1a615",
       "en": "#-1:[placeholder] The Free Peoples have #-1:{not begun[51,0]|nearly finished[1]|begun} the assault on Rhunendin.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x98118a5",
+      "en": "The hero of Hoarhallow has returned!",
       "es": "",
       "es (fem)": ""
     },
@@ -980,6 +1274,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x7cf8334",
+      "en": "The Free People have taken the Visage of Sauron!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xe14692",
       "en": "Preparations Made for War: [placeholder]/[placeholder]\\n\\nThe Orcs of Moria are massing for war, and the Elves of Lórien must make ready their preparations to repel the assault.",
       "es": "",
@@ -988,6 +1288,12 @@
     {
       "id": "0xbf267ec",
       "en": "The Invaders of Annúminas have reclaimed Clorhir!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb26355",
+      "en": "Angmar's forces reinforce the gate at Tírith Rhaw a second time!",
       "es": "",
       "es (fem)": ""
     },
@@ -1042,6 +1348,12 @@
     {
       "id": "0xe4cae75",
       "en": "DNT - Should be true for the launch of U15 to give level 100 players a vector to Central Gondor.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2606c54",
+      "en": "Angmar claims the forward camp near Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -1166,6 +1478,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xc71d78e",
+      "en": "You fools! The Free People have nearly finished their cauldron at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3fda2f3",
       "en": "DNT - Controls the number of players that are currently enrolled in the Chetwood forester crafting event.",
       "es": "",
@@ -1192,6 +1510,12 @@
     {
       "id": "0x6beb97c",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x367de34",
+      "en": "You feckless wretches! The Free People are building at Tírith Rhaw. Take the tower, now!",
       "es": "",
       "es (fem)": ""
     },
@@ -1228,6 +1552,12 @@
     {
       "id": "0xa8beddc",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53c00d5",
+      "en": "Angmar's forces reinforce the gate at Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -1334,6 +1664,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xdd94134",
+      "en": "Gather faster, worms! We will soon be able to seal the gate at Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x41eed43",
       "en": "Should be true for the launch of U15.2 to turn on Worldbosses in Angmar.",
       "es": "",
@@ -1366,6 +1702,12 @@
     {
       "id": "0x311f825",
       "en": "The Free People claim the Isendeep Outpost!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3416484",
+      "en": "The Free People have taken the Visage of Sauron! Hunt the filthy carrier down!",
       "es": "",
       "es (fem)": ""
     },
@@ -1444,6 +1786,12 @@
     {
       "id": "0x32e5481",
       "en": "We have lost Shrak Mauruk! You had better get it back!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4ecd534",
+      "en": "We control the entrance to The Underseaths near Tírith Rhaw.",
       "es": "",
       "es (fem)": ""
     },
@@ -1569,7 +1917,13 @@
     },
     {
       "id": "0xfd663c2",
-      "en": "We defend Tírith Rhaw with a sturdy door!",
+      "en": "We defend Tírith Rhaw with a sturdy gate!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5df5894",
+      "en": "The Free People are halfway to building the gate at Lugazag. Stop them, worms!",
       "es": "",
       "es (fem)": ""
     },
@@ -1600,6 +1954,12 @@
     {
       "id": "0xf642154",
       "en": "DNT - Driven control combining system ripcord and green endgame flora bonus.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6b23455",
+      "en": "The gate of Tírith Rhaw is stronger thanks to your efforts!",
       "es": "",
       "es (fem)": ""
     },
@@ -1658,6 +2018,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x7b5fb34",
+      "en": "You worthless curs! The Free People claimed the forward camp near Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3ef3978",
       "en": "The outpost in the south has fallen to forces from the Delving of Frór.",
       "es": "",
@@ -1683,7 +2049,7 @@
     },
     {
       "id": "0x74c27b5",
-      "en": "Grodris' ire is raised! She is landed and prepared to fight!",
+      "en": "",
       "es": "",
       "es (fem)": ""
     },
@@ -1754,6 +2120,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x8f5901e",
+      "en": "Angmar's forces are forging a cauldron at Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xe57d3d2",
       "en": "The Free People claim the River Outpost!",
       "es": "",
@@ -1766,8 +2138,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0xb1164d0",
+      "en": "Angmar dropped the Visage of Gil-gâlad! Return it!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x4bb7ed5",
       "en": "DNT - Controls the configuration of available tiers for 12man instances in Gundabad.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd7e43c5",
+      "en": "We defiled the Visage of Gil-gâlad in the Hoarfall!",
       "es": "",
       "es (fem)": ""
     },
@@ -1796,6 +2180,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x7b51227",
+      "en": "Be wary of the gate at Tírith Rhaw. The enemy has filled the cauldron!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xa94338c",
       "en": "",
       "es": "",
@@ -1804,6 +2194,12 @@
     {
       "id": "0x1506284",
       "en": "DNT - Driven int counter for igneous endgame geodes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x590d485",
+      "en": "Angmar defiled the Visage of Gil-gâlad in the Hoarfall! Their allies grow stronger.",
       "es": "",
       "es (fem)": ""
     },
@@ -1838,8 +2234,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd64974b",
+      "en": "DNT - Used to end the initial window of time to complete the final 6-,am encounter 'challenge' of Emax Dul 6man Instance in Mur Ghala on Tier 3.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x30a3727",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15270d5",
+      "en": "Keep going, maggots. One upgrade to the gate of Tírith Rhaw is not enough!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xf5b1137",
+      "en": "The Cauldron at Tírith Rhaw is filled!",
       "es": "",
       "es (fem)": ""
     },
@@ -1888,6 +2302,12 @@
     {
       "id": "0x4713512",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1a8745",
+      "en": "We have reinforced the gate of Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -1994,6 +2414,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2b20713",
+      "en": "Grodris' ire is raised! She is landed and prepared to fight!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x6d46837",
       "en": "The Gift of the Carrock is now at Dâr-gazag.",
       "es": "",
@@ -2008,6 +2434,12 @@
     {
       "id": "0xbe321c5",
       "en": "DNT - Controls the available tiers for Sant Lhoer 3player in Angmar Reborn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe600d45",
+      "en": "You vermin deserve to be gutted! You let the Free People reinforce the gate at Tírtih Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -2048,6 +2480,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x58ede74",
+      "en": "We are halfway to the completion of the gate at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xc2e1f22",
       "en": "Hylje-leiri",
       "es": "",
@@ -2066,6 +2504,18 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd294134",
+      "en": "Get wood and ore to Tírith Rhaw! Seal the gate. Give us advantage against the enemy!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd54c6d4",
+      "en": "One more delivery and we will finish the gate at Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3510645",
       "en": "DNT - Sets the Hithaeglir SwitchState Generators to be active.",
       "es": "",
@@ -2080,6 +2530,12 @@
     {
       "id": "0x3f05912",
       "en": "The River Outpost has fallen to forces from the Delving of Frór.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb66dfc4",
+      "en": "Get the forward camp near Lugazag back from the enemy, or I will stomp out your innards!",
       "es": "",
       "es (fem)": ""
     },
@@ -2114,6 +2570,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6594554",
+      "en": "Angmar's forces have completed half of the gate at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xdc3edf3",
       "en": "DNT - Controls location of daily worldboss placement",
       "es": "",
@@ -2122,6 +2584,12 @@
     {
       "id": "0x1c1a43c",
       "en": "The forces of evil will descend upon Forochel in 15 minutes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd12f47",
+      "en": "Angmar fills the cauldron of Lugazag with boiling oil!",
       "es": "",
       "es (fem)": ""
     },
@@ -2152,6 +2620,12 @@
     {
       "id": "0x97d5722",
       "en": "The gates to Angmar will open in 15 minutes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8fa36c5",
+      "en": "You pathetic wretches! Do not let the Free People reinforce Lugazag again!",
       "es": "",
       "es (fem)": ""
     },
@@ -2228,8 +2702,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x4109641",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xce2f026",
       "en": "DNT - Is this ringwraith currently active?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4109642",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -2240,14 +2726,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x4109643",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xce2f028",
       "en": "DNT - Is this ringwraith currently active?",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x4109644",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xce2f029",
       "en": "DNT - Is this ringwraith currently active?",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4109645",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -2264,8 +2768,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x4109646",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4109647",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4109648",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3482bd8",
       "en": "Angmar's forces lay claim to the outpost in the south.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4109649",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -2288,14 +2816,38 @@
       "es (fem)": ""
     },
     {
+      "id": "0x366de34",
+      "en": "The Free People relentlessly build their gate at Tírith Rhaw. Stop them!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5942c45",
+      "en": "DNT - LI2 reward track season 14 status. Warning: setting to false could reset track progress.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x223ec37",
       "en": "DNT - When enabled allow players to obtain the main quests for the event to be acquired.",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x16d60d5",
+      "en": "One more push now, you filth! The gate of Tírith Rhaw is near fully reinforced!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xae62d92",
       "en": "The Battle Before the Rammas Deluon\\n",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53b00d5",
+      "en": "Angmar's forces reinforce the gate at Lugazag a second time!",
       "es": "",
       "es (fem)": ""
     },
@@ -2308,6 +2860,12 @@
     {
       "id": "0xe9e6cc",
       "en": "DNT - We have lost the Bridge of Ornendil! Get it back, on the double!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe1fe745",
+      "en": "We have further reinforced the gate of Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -2344,6 +2902,12 @@
     {
       "id": "0xfef1012",
       "en": "DNT - Determines whether or not the forester crafting events are available in the game world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x611ff2e",
+      "en": "Take the Mine! Take Tírith Rhaw! Stop the Free People from building that cauldron!",
       "es": "",
       "es (fem)": ""
     },
@@ -2516,6 +3080,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x3a1ab54",
+      "en": "Good work, worms! The door at Lugazag will be ready in no time!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x2826582",
       "en": "",
       "es": "",
@@ -2524,6 +3094,12 @@
     {
       "id": "0x149fcb5",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6f5b8fe",
+      "en": "We will cook the Free People at the gate of Tírith Rhaw. Keep working!",
       "es": "",
       "es (fem)": ""
     },
@@ -2540,8 +3116,62 @@
       "es (fem)": ""
     },
     {
+      "id": "0xc7ad78e",
+      "en": "Maggots! The Free People are half-finished with their cauldron at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad01",
+      "en": "A rift into shadows has been torn and the Grim Southron issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad02",
+      "en": "A rift into shadows has been torn and the Forsaken Reaver issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad03",
+      "en": "A rift into shadows has been torn and the Gloom of Nurn issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x2783015",
       "en": "DNT - Monster Play Reward Track Status. Warning: setting to false could reset track progress.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad04",
+      "en": "A rift into shadows has been torn and the Black Blade of Lebennin issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e1",
+      "en": "An icy chill falls across the land as the Grim Southron stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad05",
+      "en": "A rift into shadows has been torn and the Bane of Rhûn issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e2",
+      "en": "An icy chill falls across the land as the Forsaken Reaver stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad06",
+      "en": "A rift into shadows has been torn and the High Sorcerer of Harad issues their challenge to the heroes of Middle-earth!",
       "es": "",
       "es (fem)": ""
     },
@@ -2552,8 +3182,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x7d924e3",
+      "en": "An icy chill falls across the land as the Gloom of Nurn stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad07",
+      "en": "A rift into shadows has been torn and the Woe of Khand issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xaf2635",
       "en": "DNT - Used to emergency shut off Bratha Tasakh in Remmorchant Raid",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e4",
+      "en": "An icy chill falls across the land as the Black Blade of Lebennin stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x60dad08",
+      "en": "A rift into shadows has been torn and the Cursed Rider issues their challenge to the heroes of Middle-earth!",
       "es": "",
       "es (fem)": ""
     },
@@ -2564,14 +3218,50 @@
       "es (fem)": ""
     },
     {
+      "id": "0x7d924e5",
+      "en": "An icy chill falls across the land as the Bane of Rhûn stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x1ecd69c",
       "en": "DNT - Good work, maggots! The Harbor Bridge is ours!",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x60dad09",
+      "en": "A rift into shadows has been torn and the Witch-king issues their challenge to the heroes of Middle-earth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e6",
+      "en": "An icy chill falls across the land as the High Sorcerer of Harad stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e7",
+      "en": "An icy chill falls across the land as the Woe of Khand stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x72a0154",
       "en": "Progress [placeholder]/[placeholder] of Arrow Shafts Collected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e8",
+      "en": "An icy chill falls across the land as the Cursed Rider stalks forth from the shadows...",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7d924e9",
+      "en": "An icy chill falls across the land as the Witch-king stalks forth from the shadows...",
       "es": "",
       "es (fem)": ""
     },
@@ -2584,6 +3274,12 @@
     {
       "id": "0x231079e",
       "en": "Iron for the Cauldron of Tirith Rhaw",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f150ae",
+      "en": "We have begun constructing a cauldron for Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -2630,6 +3326,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2783c25",
+      "en": "DNT - Monster Play Reward Track Status. Warning: setting to false could reset track progress.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8767b70",
       "en": "This is a test integer",
       "es": "",
@@ -2666,6 +3368,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x705b9c5",
+      "en": "DNT - Controls the available tiers for Emax Dul 6man in Mur Ghala",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x39bfe42",
       "en": "",
       "es": "",
@@ -2684,6 +3392,36 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6fab8fe",
+      "en": "Hold positions at the Isendeep and Tírith Rhaw. The cauldron at the tower is half done!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c1",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc7fd78e",
+      "en": "You worthles slugs! Stop the Free People from making a cauldron at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c2",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c3",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x2fc27ee",
       "en": "Victory for Sauron! The men have been driven out of Osgiliath!",
       "es": "",
@@ -2696,8 +3434,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x15027c4",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x76c4812",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c5",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -2708,8 +3458,38 @@
       "es (fem)": ""
     },
     {
+      "id": "0x15027c6",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c7",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x8440bb1",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c8",
+      "en": "DNT -Messaging only",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8f4901e",
+      "en": "Angmar is half finished with their cauldron at Tírith Rhaw. Press them at the mine and tower!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15027c9",
+      "en": "DNT -Messaging only",
       "es": "",
       "es (fem)": ""
     },
@@ -2804,6 +3584,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x86d8915",
+      "en": "We cleansed the Visage of Sauron in the Hoarfall!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd12c8ce",
       "en": "Your attacks have been succesful. It is time to return to the Ettenmoors.",
       "es": "",
@@ -2846,6 +3632,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x90f0e14",
+      "en": "Good work, sluggards! The forward camp near Tírith Rhaw is ours!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xbb703c",
       "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
@@ -2860,6 +3652,12 @@
     {
       "id": "0x519a55b",
       "en": "DNT - Used to end the initial window of time to complete the final 6-man encounter 'challenge' of Gundabad on Tier 3.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x56e00d5",
+      "en": "Angmar's forces have upgraded the gate at Lugazag a third time!",
       "es": "",
       "es (fem)": ""
     },
@@ -2948,6 +3746,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x7f3a927",
+      "en": "The Cauldron at Lugazag is filled!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xcb32aec",
       "en": "The Free Peoples control [placeholder]/[placeholder] outposts in the Ettenmoors.",
       "es": "",
@@ -2972,14 +3776,50 @@
       "es (fem)": ""
     },
     {
+      "id": "0xe603245",
+      "en": "Maggots! Flies! You let the Free People complete upgrades on the gate at Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x53000d5",
+      "en": "Angmar's forces have completed upgrades on the Gate of Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x4e3aea5",
+      "en": "The Free People cleansed the Visage of Sauron in the Hoarfall! Their allies grow stronger.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x5af7c45",
       "en": "",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0xb32f835",
+      "en": "Keep it up, maggots! Make that gate sturdy!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe603e45",
+      "en": "Fools! You let the Free People reinforce the gate at Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xb59addc",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xace24",
+      "en": "Angmar's forces have nearly finished the gate at Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -2998,6 +3838,18 @@
     {
       "id": "0x3d24f44",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb2b355",
+      "en": "Angmar's forces have completed upgrades on the Gate of Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d5d857",
+      "en": "Good work, maggots! The Cauldron of Lugazag roils with burning oil!",
       "es": "",
       "es (fem)": ""
     },
@@ -3194,6 +4046,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd094134",
+      "en": "One more delivery, you worthless slugs, and the gate of Tírith Rhaw slams closed!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xaf26e5",
       "en": "DNT - Used to emergency shut off Shelob in Remmorchant Raid",
       "es": "",
@@ -3308,6 +4166,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x24ccf2e",
+      "en": "We have nearly completed the cauldron at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x3d18437",
       "en": "",
       "es": "",
@@ -3370,6 +4234,12 @@
     {
       "id": "0x110b585",
       "en": "DNT - Setting False turns off exterior mall door and disables all other mall world events.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x465ee30",
+      "en": "We dropped the Visage of Gil-gâlad Get it back!!",
       "es": "",
       "es (fem)": ""
     },
@@ -3494,6 +4364,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x8f270ae",
+      "en": "Tírith Rhaw's gate will soon have a cauldron for greater defence. Rejoice!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b313a1",
       "en": "DNT - Controls the decay/spawn rate of the each lesser ring.",
       "es": "",
@@ -3590,8 +4466,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x1594504",
+      "en": "Angmar's forces have nearly finished the gate at Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9ded51e",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6d3a5e",
+      "en": "Keep going, maggots! Soon the enemy will bathe in hot oil.",
       "es": "",
       "es (fem)": ""
     },
@@ -3628,6 +4516,12 @@
     {
       "id": "0x5cfd7d2",
       "en": "Angmar's forces have taken Tirith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd13faa7",
+      "en": "Be wary of the gate at Lugazag. The enemy has filled the cauldron!",
       "es": "",
       "es (fem)": ""
     },
@@ -3782,6 +4676,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x9811ba5",
+      "en": "Good work! You may have some worth!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x41a9d7e",
       "en": "DNT - Control for blue endgame flora.",
       "es": "",
@@ -3802,6 +4702,12 @@
     {
       "id": "0x311f4c7",
       "en": "The Free People claim the Hithlad Outpost!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6115f2e",
+      "en": "Stop the Free People! They are forging a cauldron at Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -3844,6 +4750,12 @@
     {
       "id": "0xb40e553",
       "en": "A game of Stomp-a-Shrew is about to begin in Duillond!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27acf2e",
+      "en": "Collect more from the mines and we will complete the cauldron at Lugazag.",
       "es": "",
       "es (fem)": ""
     },
@@ -3908,6 +4820,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd67c6d4",
+      "en": "We are halfway to constructing the gate at Tírith Rhaw. Do not relent!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xbf27cec",
       "en": "A brave band of warriors has claimed Tirband for the Wardens of Annúminas!",
       "es": "",
@@ -3956,6 +4874,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xeb315e0",
+      "en": "The filthy Free People dropped the Visage of Sauron! Return it!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xdc425a4",
       "en": "DNT - Driven control combining system ripcord and brown endgame flora bonus.",
       "es": "",
@@ -3992,6 +4916,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x82b8be",
+      "en": "Angmar has completed half of the cauldron. Reclaim the Isendeep or Lugazag to stop them!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xa3f77",
       "en": "The Fragment of Mordirith is now at Dâr-gazag.",
       "es": "",
@@ -4022,6 +4952,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xc110574",
+      "en": "This world will close on August 31, 2025. Please transfer your monsters to one of our 64-bit worlds before that date to continue playing.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xaf12425",
       "en": "The Lost Ring-lore of Eregion\\n",
       "es": "",
@@ -4046,6 +4982,18 @@
       "es (fem)": ""
     },
     {
+      "id": "0xfd3a5e",
+      "en": "Finish the job, maggots. We will cook the Free People at the gate of Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1331955",
+      "en": "The hero of Hoarhallow is defeated!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x66c991c",
       "en": "",
       "es": "",
@@ -4060,6 +5008,12 @@
     {
       "id": "0x3d18ad1",
       "en": "The Eastern Wharf has fallen to the armies of Sauron!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x27fcf2e",
+      "en": "Continue your efforts. The cauldron of Lugazag is half complete!",
       "es": "",
       "es (fem)": ""
     },
@@ -4136,6 +5090,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xe1ad745",
+      "en": "Excellent work! We have further reinforced the gate of Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x1e5585d",
       "en": "DNT - Controls location of daily worldboss placement",
       "es": "",
@@ -4154,14 +5114,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0xb6ff835",
+      "en": "Keep pushing, worms! The gate of Lugazag is almost fully reinforced!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x966267c",
       "en": "The Masters of Mordor have reclaimed Meremband!",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0xe603f45",
+      "en": "Stop the reinforcement of Tírith Rhaw, or I'll stomp out your guts!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x2724295",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x7594554",
+      "en": "Angmar's forces are building a gate at Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -4192,6 +5170,12 @@
     {
       "id": "0x62689cc",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa85ae24",
+      "en": "Angmar rises! They claim the forward camp near Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -4352,6 +5336,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6b20d55",
+      "en": "You have done well reinforcing Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x89d8075",
       "en": "DNT - Controls location of daily worldboss placement",
       "es": "",
@@ -4366,6 +5356,12 @@
     {
       "id": "0xf0f0362",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xe4d5355",
+      "en": "Be stalwart, allies! We must prevent another reinforcement of the gate at Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -4424,6 +5420,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x8fa86c5",
+      "en": "Pathetic curs! Get Lugazag back before the Free People further reinforce their position!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xca5101e",
       "en": "Iron for the Cauldron of Lugazag",
       "es": "",
@@ -4472,8 +5474,8 @@
       "es (fem)": ""
     },
     {
-      "id": "0x9c7d925",
-      "en": "An icy chill falls across the land as one of the Nine stalks forth from the shadows...",
+      "id": "0x143e5b4",
+      "en": "This world will close on August 31, 2025. Please transfer your characters to one of our 64-bit worlds before that date to continue playing.",
       "es": "",
       "es (fem)": ""
     },
@@ -4492,6 +5494,12 @@
     {
       "id": "0x781f7a5",
       "en": "DNT - Controls which tiers (if any) of the Wildwood Instances are available",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc85d00",
+      "en": "We dropped the Visage of Sauron! Recover and cleanse it!",
       "es": "",
       "es (fem)": ""
     },
@@ -4544,6 +5552,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x58f5894",
+      "en": "Oy, Maggots! The Free Peoples are building a gate at Lugazg. Stop them!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xc340ab5",
       "en": "DNT - Controls spawn rate of blue plants for the flora endgame.",
       "es": "",
@@ -4570,6 +5584,12 @@
     {
       "id": "0xad3f712",
       "en": "The forces of evil are returning to the Ettenmoors. Angmar is safe for now.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2b2c314",
+      "en": "[placeholder] seeks glory for Angmar! Defend him, worms!",
       "es": "",
       "es (fem)": ""
     },
@@ -4724,14 +5744,62 @@
       "es (fem)": ""
     },
     {
+      "id": "0xc483a01",
+      "en": "The Grim Southron has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc483a02",
+      "en": "The Forsaken Reaver has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc483a03",
+      "en": "The Gloom of Nurn has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc483a04",
+      "en": "The Black Blade of Lebennin has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x6a081e",
       "en": "Iron for the Cauldron of Tol Ascarnen",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0xc483a05",
+      "en": "The Bane of Rhûn has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc483a06",
+      "en": "The High Sorcerer of Harad has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc483a07",
+      "en": "The Woe of Khand has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x4475505",
       "en": "DNT - Controls the available tiers for Thaurisgar 3player in Angmar Reborn.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xc483a08",
+      "en": "The Cursed Rider has fallen in battle!",
       "es": "",
       "es (fem)": ""
     },
@@ -4760,6 +5828,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xc483a09",
+      "en": "The Witch-king has fallen in battle!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xfafc365",
       "en": "",
       "es": "",
@@ -4768,6 +5842,12 @@
     {
       "id": "0xbc7d565",
       "en": "DNT - LI2 reward track season 3 status. Warning: setting to false could reset track progress.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb24355",
+      "en": "Persevere! Do not let Angmar's forces reinforce their gate at Tírtih Rhaw again!",
       "es": "",
       "es (fem)": ""
     },
@@ -4790,6 +5870,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xb40f835",
+      "en": "I am nearly impressed, knaves. The gate at Lugazag is reinforced.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x77b25b1",
       "en": "",
       "es": "",
@@ -4798,6 +5884,12 @@
     {
       "id": "0xce15025",
       "en": "DNT - Flips true to signal the opening of the ringwraith arena portal, and false to signal the end.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda1ab54",
+      "en": "One more delivery, you worthless slugs, and the gate of Lugazag slams closed!",
       "es": "",
       "es (fem)": ""
     },
@@ -4815,7 +5907,7 @@
     },
     {
       "id": "0x55de442",
-      "en": "Good work! This door will help defend Lugazag!",
+      "en": "Good work! This gate will help defend Lugazag!",
       "es": "",
       "es (fem)": ""
     },
@@ -4826,8 +5918,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0xe1bc745",
+      "en": "The gates of Lugazag are fully reinforced. Prepare for a siege!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x82d050c",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x5dede74",
+      "en": "We have begun reinforcing Lugazag with a gate!",
       "es": "",
       "es (fem)": ""
     },
@@ -4862,8 +5966,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x8ffe6c5",
+      "en": "Those curs have reinforced the gate of Lugazag again! What are you lazy maggots doing?!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xbf277ec",
       "en": "A brave band of warriors has claimed Clorhir for the Wardens of Annúminas!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xfb27355",
+      "en": "Angmar's forces reinforce the gate at Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -4876,6 +5992,12 @@
     {
       "id": "0x13998ce",
       "en": "DNT - Control for red endgame flora.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9db4964",
+      "en": "DNT - Broadcasts for closing worlds",
       "es": "",
       "es (fem)": ""
     },
@@ -4900,6 +6022,12 @@
     {
       "id": "0xb9916be",
       "en": "DNT - Determines whether or not the forester crafting events are available in the game world.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1331455",
+      "en": "The hero of Hoarhallow has returned!",
       "es": "",
       "es (fem)": ""
     },
@@ -4946,6 +6074,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xe603445",
+      "en": "No more! Siege Tírith Rhaw before they reinforce it again!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x63b733e",
       "en": "",
       "es": "",
@@ -4958,6 +6092,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd66c6d4",
+      "en": "We need more material to complete the gate at Tírith Rhaw!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x5d663c2",
       "en": "We reinforce the interior of Tírith Rhaw!",
       "es": "",
@@ -4965,7 +6105,7 @@
     },
     {
       "id": "0x8a21b61",
-      "en": "The Free Peoples have claimed the outpost near the river...get it back, you maggots!",
+      "en": "The Free Peoples have claimed the outpost near the river... get it back, you maggots!",
       "es": "",
       "es (fem)": ""
     },
@@ -4977,7 +6117,7 @@
     },
     {
       "id": "0x8a21b62",
-      "en": "The Free Peoples have claimed the outpost near the river...get it back, you maggots!",
+      "en": "The Free Peoples have claimed the outpost near the river... get it back, you maggots!",
       "es": "",
       "es (fem)": ""
     },
@@ -4989,7 +6129,7 @@
     },
     {
       "id": "0x8a21b63",
-      "en": "The Free Peoples have claimed the outpost near the river...get it back, you maggots!",
+      "en": "The Free Peoples have claimed the outpost near the river... get it back, you maggots!",
       "es": "",
       "es (fem)": ""
     },
@@ -5078,6 +6218,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x91844ab",
+      "en": "DNT - Used to end the initial window of time to complete the final encounter 'challenge' of Adagim Raid Instance in Mur Ghala on Tier 3.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xb59f1b5",
       "en": "DNT - Controls max Fornost level when we_server_pe_lvl_scaling_limited.wc is true.",
       "es": "",
@@ -5162,6 +6308,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x532b8be",
+      "en": "The cauldron at Lugazag is nearly complete. Make haste!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x87fb9c",
       "en": "",
       "es": "",
@@ -5216,6 +6368,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0xd3acfd4",
+      "en": "Angmar has finished half of the gate at Tírith Rhaw. Reclaim the tower!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xcacbd8",
       "en": "Angmar's forces lay claim to the outpost in the south.",
       "es": "",
@@ -5224,6 +6382,12 @@
     {
       "id": "0x3474bb2",
       "en": "Angmar's forces lay claim to the River Outpost.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9d01925",
+      "en": "The hero of Grothum is defeated!",
       "es": "",
       "es (fem)": ""
     },
@@ -5246,6 +6410,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2ae6595",
+      "en": "DNT - Controls the available tiers for Adagim Raid in Mur Ghala",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xde99fbc",
       "en": "Celeband, the Silver Court",
       "es": "",
@@ -5254,12 +6424,6 @@
     {
       "id": "0x29e0b43",
       "en": "DNT - This controls the speed of scalar respawn in Lonelands, the higher the number, the faster the landscape respawn.",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x72c4839",
-      "en": "One of the Nine has fallen in battle!",
       "es": "",
       "es (fem)": ""
     },
@@ -5330,6 +6494,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6b23e55",
+      "en": "The reinforcement of Tírith Rhaw will deter the enemy!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x7e4d007",
       "en": "DNT - Controls which gundabad missions are available each day",
       "es": "",
@@ -5342,8 +6512,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2d61681",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61682",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61683",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xcefea9e",
       "en": "Progress [placeholder]/[placeholder] of Iron Collected",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61684",
+      "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
       "es (fem)": ""
     },
@@ -5360,8 +6554,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2d61685",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9404392",
       "en": "Angmar's forces lay claim to the outpost near the river.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61686",
+      "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
       "es (fem)": ""
     },
@@ -5372,8 +6578,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0x2d61687",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61688",
+      "en": "DNT - Activates the Ringwraith Server Event.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xf21375c",
       "en": "The gates to Forochel will open in 15 minutes.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2d61689",
+      "en": "DNT - Activates the Ringwraith Server Event.",
       "es": "",
       "es (fem)": ""
     },
@@ -5402,20 +6626,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0xe1a3745",
+      "en": "We defend Lugazag with a near fully reinforced gate!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xbdb93b5",
       "en": "DNT - Sets Umbar Arena Randomization",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x2beba1c",
-      "en": "DNT - Controls location of daily worldboss placement",
+      "id": "0xf85db44",
+      "en": "Angmar's forces have taken the Grimwood Lumber Camp!",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xf85db44",
-      "en": "Angmar's forces have taken the Grimwood Lumber Camp!",
+      "id": "0x2beba1c",
+      "en": "DNT - Controls location of daily worldboss placement",
       "es": "",
       "es (fem)": ""
     },
@@ -5438,12 +6668,6 @@
       "es (fem)": ""
     },
     {
-      "id": "0x6260da5",
-      "en": "Shadows grow deeper across Middle-earth, as somewhere a rift into darkness has been torn...",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
       "id": "0xa07cad4",
       "en": "DNT - Sets the Genesis Effects for Rare Monsters to Active.",
       "es": "",
@@ -5458,6 +6682,18 @@
     {
       "id": "0x88c153",
       "en": "DNT - Should be true for the launch of U15.2 to turn on Worldbosses in Forochel.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xb35f835",
+      "en": "You wretches are proving valuable. Lugazag's gate is reinforced.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x42b1784",
+      "en": "[placeholder] seeks glory for Angmar! Defend him, worms!",
       "es": "",
       "es (fem)": ""
     },
@@ -5510,6 +6746,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x15250d5",
+      "en": "One more push now, you filth! The gate of Tírith Rhaw is near fully reinforced!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x66e494c",
       "en": "",
       "es": "",
@@ -5529,7 +6771,7 @@
     },
     {
       "id": "0x1365442",
-      "en": "Siege Tírith Rhaw and tear down the Free People's door!",
+      "en": "Siege Tírith Rhaw and tear down the Free People's gate!",
       "es": "",
       "es (fem)": ""
     },
@@ -5558,8 +6800,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0xcbb60b7",
+      "en": "Good work, maggots! The Cauldron of Tírith Rhaw roils with burning oil!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x23d4e6e",
       "en": "DNT - Controls location of daily worldboss placement",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x1221935",
+      "en": "The hero of Grothum has returned!",
       "es": "",
       "es (fem)": ""
     },
@@ -5594,8 +6848,14 @@
       "es (fem)": ""
     },
     {
+      "id": "0x65b5d37",
+      "en": "Angmar fills the cauldron of Tírith Rhaw with boiling oil!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x1d2bb92",
-      "en": "Our gate at Tírith Rhaw is built!",
+      "en": "Tírith Rhaw is closed! The gate is built!",
       "es": "",
       "es (fem)": ""
     },
@@ -5636,14 +6896,32 @@
       "es (fem)": ""
     },
     {
+      "id": "0x56f5894",
+      "en": "Stop the Free People from sealing the gate of Lugazag!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x7b97a8b",
       "en": "DNT - Used to end the initial window of time to complete the final 12-man encounter 'challenge' of Urashdar Raid in Ikorban on Tier 5.",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x6114f2e",
+      "en": "The Free People are half done with their cauldron at Tírith Rhaw. Fight harder!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x6d8d064",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x15280d5",
+      "en": "I may not be wiping your innards off my boots! Good work reinforcing the gate of Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -5720,6 +6998,12 @@
       "es (fem)": ""
     },
     {
+      "id": "0x52b8be",
+      "en": "Angmar begins forging a cauldron at Lugazag. Stop them!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xdf1e547",
       "en": "The Free People claim the Hithlad Outpost!",
       "es": "",
@@ -5758,6 +7042,12 @@
     {
       "id": "0xb0f72b3",
       "en": "",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x8e7901e",
+      "en": "Angmar has nearly completed their cauldron at Tírith Rhaw!",
       "es": "",
       "es (fem)": ""
     },
@@ -5824,6 +7114,12 @@
     {
       "id": "0x1c1483",
       "en": "We are losing The Palace of Eldacar, you worthless mongrels!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x152b0d5",
+      "en": "Tírith Rhaw will hold with this reinforcement. Do not falter, sluggards!",
       "es": "",
       "es (fem)": ""
     },

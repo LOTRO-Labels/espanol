@@ -2,254 +2,392 @@
   "id": 621106356,
   "txt": [
     {
+      "id": "0x9b56880",
+      "en": "'We will not allow this to delay us overmuch; Inkanûsh will certainly understand, will he not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50241",
+      "en": "Talk to Glorfindel at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
+      "en": "'We can all use a good laugh after what we went through in the north.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ed9",
+      "en": "Bring the empty coin-purse to Asharmûl at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56882",
+      "en": "'A friend of Ulishár is a friend of mine!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56883",
+      "en": "'Inkanûsh is a figure of legend and myth, an odd wanderer and a troublemaker. Are you perhaps mistaken?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56884",
+      "en": "'Zimêlkha and Asharmûl have gone in search of the villain, but until they return with the right purse I will not be satisfied.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Têrkar’s Travellers are at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56886",
-      "en": "'TBD - Blah!'",
+      "en": "'Asharmûl and Zimêlkha can recover the stolen purse from the Ordâkh-controlled district of the city, but they will welcome your help if you offer it. Look for them at TBD.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'When I knew Têrkar, it was customary after a performance for the company to gather at the nearest tavern to spend a portion of the day's coins on ale. I would like to see if that remains the case, [placeholder]! Let us look for them at TBD.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Ulishár is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'Who seeks Zimêlkha?'\\n\\nYou explain that you are a friend of Ulishár the Kinta, and that Satagêra suggested you lend your aid to retrieve the stolen coinpurse.\\n\\n'Has our playwright's opinion of our skill fallen so low that she thinks we two unable to retrieve this stolen purse? Atâlsi should have kept a closer watch on it! She knows how often thieves think to rob us of our hard-earned profit!\\n\\n'What say you, Asharmûl?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'When I knew Têrkar, it was customary after a performance for the company to gather at the nearest tavern to spend a portion of the day's coins on ale. I would like to see if that remains the case, [placeholder]! Let us look for them at TBD.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
+      "en": "Ulishár is delighted to have encountered the theatre troupe that aided him during his escape from captivity, but he is troubled by their fewer numbers.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "The playwright Satagêra is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Find Têrkar’s Travellers at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'I have spoken to Satagêra, and it is as I feared. Her husband Têrkar perished in the north, as did several others of the troupe. The fire-eater Zurûsh, the twins Dârjo and Orukhíl... no word has come back of Khazín or Urûnam, but Imalêkh fears they must also have died in battle. She was wounded during the retreat before the mighty city and saw them no more.\\n\\n'But the tidings are not all sad. Zimêlkha was held in reserve at the river-city and saw no fighting; her soldiers were driven south as Gondor advanced. And a fortunate star must shine upon Mashkânu, for Satagêra tells me he was wounded in the forest early during the fighting, and was not made to march upon Minas Tirith.\\n\\n'I mourn for the friends who were so kind to me, [placeholder], and I honour their memory! Despite this sorrow, my heart fills to once again see those of Têrkar's Travellers who remain to bring joy to the folk of Shagâna!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Ulishár at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'I am Satagêra, the widow of Têrkar, and I am the playwright for this company of travelling players. I am pleased to meet any friend of Ulishár, for the Kinta is dear to us all, as he was to my husband. It was Têrkar's Travellers that smuggled him from the captivity of Ordâkh before most of our company were sent to war, did he tell you that?'\\n\\nSatagêra smiles fondly.\\n\\n'\\qOne last act of defiance,\\q my Têrkar called it. I am glad we did as he bade, for Ulishár's treatment in that city was hard. I think he would not have survived among the Ordâkhai for many more months.\\n\\n'I invite you to speak with the others of my company. A cloud hangs over us this day, but do not let it trouble you. It is a private matter, and one we can handle ourselves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Talk to Satagêra in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5689",
+      "en": "'I mourn for the friends who were so kind to me, [placeholder], and I honour their memory! Despite this sorrow, my heart fills to once again see those of Têrkar's Travellers who remain to bring joy to the folk of Shagâna!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Imalêkh in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a8",
+      "en": "Talk to Jêsamin in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50250",
+      "en": "Talk to Atâlsi in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Têrkar’s Travellers are at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Talk to Mashkânu in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Talk to Ulishár at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'I am Imalêkh, trick archer and juggler of the company, and it is a pleasure to meet any friend of Ulishár. Satagêra insists upon writing villainous roles for me: the deadly marksman who threatens the heroes, the brooding lieutenant of the evil king. I have prevailed upon her to give me something romantic next time, something bawdy!\\n\\n'We can all use a good laugh after what we went through in the north. I keep hoping Khazín or Urûnam will stroll up and demand a drink, but there has been no word. They were most skilled with their blades, but the foes arrayed against us were terrifying and numerous: frightening, mounted demons, bellowing for death.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Talk to Satagêra in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56892",
+      "en": "'A friend of Ulishár is a friend of mine! I am called Jêsamin, and I am a singer, tumbler, juggler, and player of drums for Têrkar's Travellers. What is it that you can do?'\\n\\nYou tell Jêsamin that you are a [placeholder] and an adventurer, and ask where she is from.\\n\\n'I live on the dusty road, friend, but I count myself among the Zajâni. I have not seen very many in Shagâna that look as I do, but that is fine with me! When Satagêra has need of someone to play a child, a goblin, or the legendary trickster Kêph, she can rely upon Jêsamin, for few indeed are as she is!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50253",
+      "en": "Find Asharmûl and Zimêlkha at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'I am the wardrobe-master of the company, and am called Mashkânu.'\\n\\n'I caught sight of you from the stage, stranger. Who is the hooded man with whom you watched the performance?'\\n\\nYou answer that your companion is the Wizard Inkanûsh, and he may have taken issue with his portrayal in the play. Mashkânu's eyes narrow.\\n\\n'Inkanûsh is a figure of legend and myth, an odd wanderer and a troublemaker. Are you perhaps mistaken?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'I am Atâlsi. Like Satagêra and our former leader Têrkar, I am from Zajâna.'\\n\\nThe woman falls silent, but her eyes remain active, scanning the crowds.\\n\\n'Forgive me if I seem distracted. I collect the coins for our performances, and during our latest it seems some quick-fingered thief replaced our purse with one of similar heft and weight, but different contents: grey stones instead of shiny coins. Zimêlkha and Asharmûl have gone in search of the villain, but until they return with the right purse I will not be satisfied.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50255",
+      "en": "Talk to Zimêlkha at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56895",
+      "en": "'I invite you to speak with the others of my company. A cloud hangs over us this day, but do not let it trouble you. It is a private matter, and one we can handle ourselves.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50256",
+      "en": "Talk to Asharmûl at TBD in Zajâna",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01186",
+      "en": "Ulishár is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50257",
+      "en": "Retrieve the coin-purse from the Ordâkh-controlled district",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56897",
+      "en": "'Can we not help my friends recover their stolen purse of coins? I feel badly that the theft occurred as we watched the performance, and we noticed it not!\\n\\n'What says Satagêra to this? I have only ventured with you for a short time, [placeholder], but already I know you for one who helps others when the chance comes!\\n\\n'We will not allow this to delay us overmuch; Inkanûsh will certainly understand, will he not?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01188",
+      "en": "The playwright Satagêra is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56899",
+      "en": "'Asharmûl and Zimêlkha are capable of retrieving our stolen purse, but if you are willing to lend them your aid I will not refuse it.\\n\\n'This is not the first time such a theft as occurred, and it will not be the last. Look for them at TBD, for the thief is likely to have fled for the Ordâkh-controlled district of the city.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56844",
+      "en": "'A friend of Ulishár is a friend of mine! I am called Jêsamin, and I am a singer, tumbler, juggler, and player of drums for Têrkar's Travellers. What is it that you can do?'\\n\\nYou tell Jêsamin that you are a [placeholder] and an adventurer, and that in the north you are called a [placeholder]. You ask where she is from, and if she has ever heard of a land called the Shire.\\n\\n'Shire? No, that name is not familiar to me. I live on the dusty road, friend! You are one of the few I have encountered in Shagâna that looks as I do... I hope you are not seeking to join the company? When Satagêra has need of someone to play a child, a goblin, or the legendary trickster Kêph, she can rely upon Jêsamin, and no other!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56845",
+      "en": "'A friend of Ulishár is a friend of mine! I am called Jêsamin, and I am a singer, tumbler, juggler, and player of drums for Têrkar's Travellers. What is it that you can do?'\\n\\nYou tell Jêsamin that you are a [placeholder] and an adventurer, and that in the north you are sometimes called a River Hobbit. You ask where she is from, and if she has ever heard of a land called the Shire, or of the Misty Mountains.\\n\\n'Shire? No, that name is not familiar to me. And rare indeed is the mountain of Shagâna to be crowned in mist, friend! I live on the dusty road! You are one of the few I have encountered beside the Mûr that looks as I do... I hope you are not seeking to join the company? When Satagêra has need of someone to play a child, a goblin, or the legendary trickster Kêph, she can rely upon Jêsamin, and no other!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56846",
+      "en": "'Who seeks Zimêlkha? Some friend of Jêsamin?'\\n\\nYou explain that you are actually a friend of Ulishár the Kinta, and that Satagêra suggested you lend your aid to retrieve the stolen coinpurse.\\n\\n'Has our playwright's opinion of our skill fallen so low that she thinks we two unable to retrieve this stolen purse? Atâlsi should have kept a closer watch on it! She knows how often thieves think to rob us of our hard-earned profit!\\n\\n'What say you, Asharmûl?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a0",
+      "en": "'There you are, [placeholder]. Inkanûsh sent me to bring word that he desires to speak with you.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568a1",
+      "en": "'If you ever have need of assistance, you can count upon the friendship of Têrkar's Travellers!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01195",
+      "en": "Asharmûl and Zimêlkha went to TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01197",
+      "en": "Zimêlkha is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1163",
+      "en": "Ulishár has spoken with his friends, and wears a mournful expression",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01199",
+      "en": "Asharmûl is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1168",
+      "en": "Asharmûl hands you a much heavier purse than the one you retrieved",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b0",
+      "en": "'For Têrkar we served as guardians and enforcers of the peace when trouble called, and now that he is gone we do the same for his widow Satagêra. She doubts not our skill, Zimêlkha. She sees opportunity.'\\n\\nAsharmûl points to the TBD.\\n\\n'If you retrieve the coinpurse from the Ordâkhai of this place, you will prove your friendship to Têrkar's Travellers. Hurry, now. The purse will be heavy with coin, for it contains all of our profit from the latest performance. The Zajâni love to hear about their resistance against Ordâkh, and they paid good coin for the privilege.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b1",
+      "en": "'Does Satagêra think we two cannot retrieve the stolen purse? What say you, Asharmûl?'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a2",
+      "en": "Asharmûl and Zimêlkha asked you to retrieve from the Ordâkhai the coin-purse containing the money Têrkar’s Travellers earned from their performance.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b3",
+      "en": "'Retrieve the coinpurse from the Ordâkhai of this place and you will prove your friendship to Têrkar's Travellers. Hurry, now. The purse will be heavy with coin, for it contains all of our profit from the latest performance. The Zajâni love to hear about their resistance against Ordâkh, and they paid good coin for the privilege.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a4",
+      "en": "The coin-purse you were sent to retrieve has been emptied of its contents by the Ordâkhai, but you should return it to Asharmûl at TBD anyway.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x9b568b5",
-      "en": "'TBD - Blah!'",
+      "en": "'The Ordâkhai emptied the purse they took from us before you could retrieve it? That is a shame, my new friend.'\\n\\nAsharmûl smiles at you, a twinkle in his eye.\\n\\n'While you kept their attention, Zimêlkha and I took the opportunity to rob them anew. I think you will find that the number of coins we retrieved perhaps exceeds the number they took from us, but that is the price of thinking one might outwit Têrkar's Travellers!\\n\\n'Bring this fresh, newly-heavy coinpurse to Atâlsi, with our regards. I think she will be pleased.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a6",
+      "en": "Atâlsi is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b7",
+      "en": "'Tell me you have retrieved the stolen coinpurse, friend, and that Asharmûl and Zimêlkha encountered no difficulty among the Ordâkhai.'\\n\\nYou place the coinpurse in her hand and Atâlsi almost drops it.\\n\\n'Thank you for your help, friend of Ulishár! But I must ask... did it always contain so many coins? I knew not that our performance was such a success! If you ever have need of assistance, you can count upon the friendship of Têrkar's Travellers!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b568b8",
+      "en": "'Bring that fresh, newly-heavy coinpurse to Atâlsi, with our regards. I think she will be pleased.\\n\\n'No, I trust you. You are a friend.'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011a9",
+      "en": "Glorfindel is at TBD in Zajâna.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1174",
+      "en": "You found the rest of Têrkar’s Travellers in the Ordâkh-controlled district",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1178",
+      "en": "The coin-purse feels empty, but you should return it all the same",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00ec0",
+      "en": "Bring the heavy coin-purse to Atâlsi at TBD in Zajâna",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xda44875",
       "en": "Chapter 15.8: Têrkar's Travelers",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb011a2",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56888",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568b7",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb011a4",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568b8",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5682",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb011a6",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5684",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb011a9",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5686",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5688",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5689",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56891",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56892",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56893",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x3178d11",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01180",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56894",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56895",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0113",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56897",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0115",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56899",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0117",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01186",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01188",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568a0",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568a1",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01195",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01197",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01199",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56880",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56881",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568b0",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56882",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568b1",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56883",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56884",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b568b3",
-      "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     }

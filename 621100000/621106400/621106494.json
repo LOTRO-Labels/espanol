@@ -2,8 +2,20 @@
   "id": 621106494,
   "txt": [
     {
+      "id": "0xa8e11a9",
+      "en": "The left-side approach to Emax Dûl is very TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xda44875",
-      "en": "Chapter 16.8: The Guarded City",
+      "en": "Chapter 16.8: A Guarded City",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b0",
+      "en": "Examine the TBD wall on the left side of Emax Dûl",
       "es": "",
       "es (fem)": ""
     },
@@ -14,14 +26,50 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6a502b2",
+      "en": "Talk to Glorfindel at TBD outside Emax Dûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50284",
+      "en": "Scout the right-side approach to Emax Dûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Inkanûsh at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd9b5684",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     },
     {
+      "id": "0x6a502b4",
+      "en": "Talk to Mashkânu at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50286",
+      "en": "Examine the TBD wall on the right side of Emax Dûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd9b5686",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Talk to Zimêlkha at EMAX DUL HUB TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -38,8 +86,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6a50288",
+      "en": "Scout the left-side approach to Emax Dûl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56891",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Jêsamin at EMAX DUL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Ulishár at EMAX DUL HUB TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -51,7 +117,7 @@
     },
     {
       "id": "0x3178d11",
-      "en": "TBD - Blah!",
+      "en": "With regret, Ulishár has bid farewell to Têrkar's Travellers so you can continue your urgent errand: scouting the approaches to the Ordâkhai-held Emax Dûl.",
       "es": "",
       "es (fem)": ""
     },
@@ -63,13 +129,13 @@
     },
     {
       "id": "0xceb0113",
-      "en": "TBD - Blah!",
+      "en": "The approach to Emax Dûl on the right side must be scouted for some weakness in the defences.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01182",
-      "en": "TBD - Blah!",
+      "en": "Mashkânu at EMAX DUL HUB TBD has an idea.",
       "es": "",
       "es (fem)": ""
     },
@@ -87,13 +153,13 @@
     },
     {
       "id": "0xceb0115",
-      "en": "TBD - Blah!",
+      "en": "The approach to Emax Dûl on the left side must be scouted for some weakness in the defences.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01185",
-      "en": "TBD - Blah!",
+      "en": "Zimêlkha is at EMAX DUL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -105,31 +171,55 @@
     },
     {
       "id": "0xceb0117",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel has also come to scout the defences of Emax Dûl.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xceb0119",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel fears that fighting your way in to Emax Dûl may be the only option available to you, but Inkanûsh at EMAX DUL HUB TBD will not like that answer.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01188",
-      "en": "TBD - Blah!",
+      "en": "Jêsamin at EMAX DUL HUB TBD knows what needs to be done.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1191",
+      "en": "Glorfindel quietly arrives as you survey the defences",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "Mashkânu clears his throat, drawing your attention",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1197",
+      "en": "Jêsamin claps her hands together",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01191",
-      "en": "TBD - Blah!",
+      "en": "Ulishár is at EMAX DUL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x9b56880",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a5",
+      "en": "The right-side approach to Emax Dûl is very TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -142,6 +232,12 @@
     {
       "id": "0x9b56883",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a7",
+      "en": "You find that TBD",
       "es": "",
       "es (fem)": ""
     }

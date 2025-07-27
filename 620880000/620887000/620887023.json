@@ -3,13 +3,19 @@
   "txt": [
     {
       "id": "0xda44875",
-      "en": "Protection by the Sword - Reactive",
+      "en": "Protection by the Sword",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x6554671",
-      "en": "If you parry or block an attack, the Guardian protecting you will be able to react.",
+      "en": "+[placeholder] Damage Bonus",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6554673",
+      "en": "",
       "es": "",
       "es (fem)": ""
     }

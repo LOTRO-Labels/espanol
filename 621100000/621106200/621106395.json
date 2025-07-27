@@ -2,50 +2,74 @@
   "id": 621106395,
   "txt": [
     {
+      "id": "0xda44875",
+      "en": "Chapter 16.4: The Vultures Circle",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50280",
+      "en": "Talk to Malgârzor in Ahâba",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50281",
+      "en": "Defeat vultures at VULTURE CAMP TBD ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50283",
+      "en": "Defeat Ordâkhai \\qvultures\\q at NORTHWEST ORDAKHAI CAMP TBD ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50285",
+      "en": "Defeat brigand \\qvultures\\q at NORTH BRIGAND CAMP TBD ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5685",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd9b5687",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xceb0113",
-      "en": "TBD - Blah!",
+      "id": "0x6a50287",
+      "en": "Talk to Malgârzor in Ahâba",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50288",
+      "en": "Talk to Rahâzi at Ahâba",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xd9b5689",
       "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01180",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0116",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01182",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0118",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01184",
-      "en": "TBD - Blah!",
       "es": "",
       "es (fem)": ""
     },
@@ -62,8 +86,38 @@
       "es (fem)": ""
     },
     {
+      "id": "0x3178d11",
+      "en": "Your companions are prepared to advance further into the Ordâkhai-held territory of Idagâl.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "The herdsman Malgârzor in Ahâba asked you to defeat \\qvultures\\q of different kinds.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56895",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11b9",
+      "en": "The village of Ahâba is very TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0113",
+      "en": "Ulishár stands by the road into Idagâl.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "The herdsman Malgârzor in Ahâba will be interested to hear that you dealt with the vultures, as well as the \\qvultures.\\q",
       "es": "",
       "es (fem)": ""
     },
@@ -74,32 +128,50 @@
       "es (fem)": ""
     },
     {
-      "id": "0x3178d11",
-      "en": "TBD - Blah!",
+      "id": "0xeb01184",
+      "en": "Rahâzi is at Ahâba in Idagâl.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xd9b5682",
-      "en": "'TBD - Blah!'",
+      "id": "0xceb0116",
+      "en": "Your next destination is the small village of Ahâba located at TBD in Idagâl.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xd9b5684",
-      "en": "'TBD - Blah!'",
+      "id": "0xceb0118",
+      "en": "The herdsman Malgârzor in Ahâba eyes you cautiously.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xd9b5685",
-      "en": "'TBD - Blah!'",
+      "id": "0x6a50297",
+      "en": "Talk to Ulishár on the road into Idagâl",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xda44875",
-      "en": "Chapter 16.4: Herdsmen of Ahâba",
+      "id": "0x6a50298",
+      "en": "Travel to the village of Ahâba at TBD in Idagâl",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a2",
+      "en": "Defeated vultures ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a4",
+      "en": "Defeated Ordâkhai \\qvultures\\q ([placeholder]/[placeholder])",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e11a6",
+      "en": "Defeated brigand \\qvultures\\q ([placeholder]/[placeholder])",
       "es": "",
       "es (fem)": ""
     }

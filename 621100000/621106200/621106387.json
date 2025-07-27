@@ -26,8 +26,20 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6a502b0",
+      "en": "Meet up with Glorfindel at CENTRAL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56889",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Talk to Glorfindel at CENTRAL HUB TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -38,8 +50,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0xa8e1180",
+      "en": "Retrieved fancy Ordâkhai blade from outside Damudûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xd9b5684",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1183",
+      "en": "Arshûk takes a deep breath",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b5",
+      "en": "Talk to Ulishár at CENTRAL HUB TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -62,8 +92,26 @@
       "es (fem)": ""
     },
     {
+      "id": "0x6a502b7",
+      "en": "Talk to Arshûk at CENTRAL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Glorfindel at CENTRAL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0x9b56892",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Retrieve a fancy Ordâkhai blade from outside Damudûr",
       "es": "",
       "es (fem)": ""
     },
@@ -75,13 +123,19 @@
     },
     {
       "id": "0x3178d11",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel suspects that Damudûr may have hidden the entrance to a lost vault of the Thardúth.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e32",
+      "en": "Travel to TBD and <rgb=#00FF00>look</rgb> towards Damudûr",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01181",
-      "en": "TBD - Blah!",
+      "en": "Arshûk is at CENTRAL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -93,7 +147,7 @@
     },
     {
       "id": "0xceb0113",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel suggested you meet at CENTRAL HUB TBD north of Damudûr.",
       "es": "",
       "es (fem)": ""
     },
@@ -105,13 +159,13 @@
     },
     {
       "id": "0xceb0115",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel is at CENTRAL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01184",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel is at CENTRAL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -123,55 +177,97 @@
     },
     {
       "id": "0xceb0117",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel asked you to approach Damudûr and <rgb=#00FF00>look</rgb> for some sign of the Thardúth.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01187",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel believes that if you retrieve a fancy Ordâkhai blade from outside Damudûr, you will convince Arshûk to tell you what he saw.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xceb0119",
-      "en": "TBD - Blah!",
+      "en": "Ulishár is at CENTRAL HUB TBD, waiting to speak with you.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01189",
-      "en": "TBD - Blah!",
+      "en": "Arshûk is at CENTRAL HUB TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1194",
+      "en": "The Ordâkhai have established a camp outside Damudûr",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1196",
+      "en": "Arshûk stares at you with wild, terrified eyes",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01191",
-      "en": "TBD - Blah!",
+      "en": "Arshûk gathers his courage.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01192",
-      "en": "TBD - Blah!",
+      "en": "Arshûk is in CENTRAL HUB TBD.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01194",
-      "en": "TBD - Blah!",
+      "en": "Ulishár is at CENTRAL HUB TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a2",
+      "en": "Wait for Arshûk to gather his courage",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01197",
-      "en": "TBD - Blah!",
+      "en": "Glorfindel is at CENTRAL HUB TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Talk to Arshûk in CENTRAL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a5",
+      "en": "Talk to Ulishár at CENTRAL HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a6",
+      "en": "Talk to Glorfindel at CENTRAL HUB TBD",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x9b56880",
       "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x2f00e21",
+      "en": "Bring the fancy Ordâkhai blade to Arshûk at CENTRAL HUB TBD",
       "es": "",
       "es (fem)": ""
     },

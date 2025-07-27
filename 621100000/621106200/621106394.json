@@ -2,73 +2,37 @@
   "id": 621106394,
   "txt": [
     {
-      "id": "0x9b56886",
+      "id": "0x2f00e23",
+      "en": "Hand the sword to Ulishár",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1192",
+      "en": "Ulishár stands beside the road, gazing eastward",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1195",
+      "en": "Defeated brigands for Ulishár ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56881",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0xda44875",
-      "en": "A Difficult Step",
+      "id": "0xa8e1197",
+      "en": "You hear Ulishár calling for you from the TBD",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56888",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5682",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5684",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5686",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xd9b5688",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56891",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56893",
-      "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x3178d11",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01180",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0x9b56894",
+      "id": "0x9b56884",
       "en": "'TBD - Blah!'",
       "es": "",
       "es (fem)": ""
@@ -80,8 +44,140 @@
       "es (fem)": ""
     },
     {
-      "id": "0xeb01182",
+      "id": "0x9b56886",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5682",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0115",
+      "en": "Ulishár stands beside the road, gazing eastward.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56888",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a1",
+      "en": "Pick up Mashdagâl's sword to accept his surrender",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5684",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x3178d11",
       "en": "TBD - Blah!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0117",
+      "en": "Ulishár spotted a camp of brigands to the east, and he believes you should oppose their plans before you continue westward.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5686",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xceb0119",
+      "en": "Ulishár spotted a camp of brigands to the east, and he believes you should oppose their plans before you continue westward.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a4",
+      "en": "Mashdagâl breaks into a run!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xd9b5688",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a7",
+      "en": "Talk to Ulishár at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01180",
+      "en": "Ulishár has prevented a brigand from escaping EAST BRIGAND CAMP TBD: a brigand with a familiar face.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502a9",
+      "en": "Meet with Ulishár on the eastern bank of the dry Usâl River at TBD in An Shêru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50251",
+      "en": "Talk to Ulishár on the eastern bank of the dry Usâl River at TBD in An Shêru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56891",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50252",
+      "en": "Cross to the western bank of the dry Usâl River at TBD in An Shêru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01182",
+      "en": "Mashdagâl is at TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56893",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a50254",
+      "en": "Talk to Ulishár on the western bank of the dry Usâl River at TBD in An Shêru",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x9b56894",
+      "en": "'TBD - Blah!'",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb01185",
+      "en": "At TBD, Mashdagâl has surrendered his sword to you.",
       "es": "",
       "es (fem)": ""
     },
@@ -92,8 +188,14 @@
       "es (fem)": ""
     },
     {
-      "id": "0xceb0115",
-      "en": "TBD - Blah!",
+      "id": "0xeb01187",
+      "en": "Ulishár has asked for the sword.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b1",
+      "en": "Meet with Ulishár at the cross-road south-west of HALLOWS HUB TBD",
       "es": "",
       "es (fem)": ""
     },
@@ -104,38 +206,44 @@
       "es (fem)": ""
     },
     {
-      "id": "0xeb01185",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0117",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xeb01187",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
-      "id": "0xceb0119",
-      "en": "TBD - Blah!",
-      "es": "",
-      "es (fem)": ""
-    },
-    {
       "id": "0xeb01189",
-      "en": "TBD - Blah!",
+      "en": "Mashdagâl moves suddenly, attempting to escape!",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b3",
+      "en": "Talk to Ulishár at the cross-road south-west of HALLOWS HUB TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b4",
+      "en": "Defeat brigands at EAST BRIGAND CAMP TBD ([placeholder]/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b6",
+      "en": "Defeat brigands at EAST BRIGAND CAMP TBD (4/5)",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b8",
+      "en": "Talk to Ulishár at TBD",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0x6a502b9",
+      "en": "Talk to Mashdagâl at TBD",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01190",
-      "en": "TBD - Blah!",
+      "en": "Ulishár is at TBD.",
       "es": "",
       "es (fem)": ""
     },
@@ -147,31 +255,73 @@
     },
     {
       "id": "0xeb01193",
-      "en": "TBD - Blah!",
+      "en": "Ulishár stands by the eastern bank of the dry Usâl River at TBD in An Shêru.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01195",
-      "en": "TBD - Blah!",
+      "en": "Ulishár is ready to meet you on the western bank of the dry Usâl River at TBD in An Shêru.",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0xeb01197",
-      "en": "TBD - Blah!",
+      "en": "Ulishár stands by the western bank of the dry Usâl River at TBD in An Shêru.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56881",
-      "en": "'TBD - Blah!'",
+      "id": "0x178d169",
+      "en": "Ulishár told you he was captured by the Ordâkhai in this area, and for him every step west is more difficult than the last.",
       "es": "",
       "es (fem)": ""
     },
     {
-      "id": "0x9b56884",
-      "en": "'TBD - Blah!'",
+      "id": "0xeb011a0",
+      "en": "Ulishár suggested that the two of you meet up at the cross-road south-west of HALLOWS HUB TBD.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1170",
+      "en": "Ulishár stands beside the dry river-bed",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1173",
+      "en": "Ulishár follows you across the river-bed, breathing deeply as he arrives",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1180",
+      "en": "Mashdagâl casts down his rusty blade",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1182",
+      "en": "Ulishár asks to see the surrendered sword",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xeb011b8",
+      "en": "Ulishár asked to meet you on the eastern bank of the dry Usâl River at TBD in An Shêru.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xa8e1186",
+      "en": "Ulishár chuckles as the brigand escapes",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
+      "id": "0xda44875",
+      "en": "A Difficult Step",
       "es": "",
       "es (fem)": ""
     }

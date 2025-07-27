@@ -2,6 +2,12 @@
   "id": 620950925,
   "txt": [
     {
+      "id": "0xd13bc71",
+      "en": "While inducting, you take reduced damage.",
+      "es": "",
+      "es (fem)": ""
+    },
+    {
       "id": "0xda44875",
       "en": "Plant Feet",
       "es": "",
@@ -15,7 +21,7 @@
     },
     {
       "id": "0x6554671",
-      "en": "Gain +5% to Evade Chance after standing still for 1.5s.\\n\\nMoving will break this bonus until you root once more.",
+      "en": "While inducting, you take -[placeholder] damage.",
       "es": "",
       "es (fem)": ""
     }

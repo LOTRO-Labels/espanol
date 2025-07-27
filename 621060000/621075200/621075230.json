@@ -3,13 +3,13 @@
   "txt": [
     {
       "id": "0xda44875",
-      "en": "Siege Deployed",
+      "en": "Siege Deployment Barred",
       "es": "",
       "es (fem)": ""
     },
     {
       "id": "0x33d632e",
-      "en": "Siege is already deployed.",
+      "en": "You are too close to another siege weapon to build here.",
       "es": "",
       "es (fem)": ""
     }

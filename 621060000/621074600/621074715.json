@@ -9,7 +9,7 @@
     },
     {
       "id": "0x33d632e",
-      "en": "Builds and deploys a ballista when used atop or outside of Tírith Rhaw or Lugazag.<rgb=#FF000>Cannot be placed too near other siege equipment.</rgb>",
+      "en": "Builds and deploys a ballista near, or in, the towers of Tírith Rhaw or Lugazag.\\n\\n<rgb=#00FF00>Ballista can only be deployed for defence.</rgb>\\n\\n<rgb=#FF0000>Cannot be placed too near other siege equipment.</rgb>",
       "es": "",
       "es (fem)": ""
     },

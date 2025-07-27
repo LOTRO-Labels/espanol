@@ -2,184 +2,154 @@
   "id": 621035853,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Strange Encounter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Examine the footprints",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "The bat carries a piece of paper in its claws. As you approach, it recoils but then tentatively chirps, dropping the paper at your feet.\\n\\nScrawled onto the paper are directions to an unnamed location, but nothing more.\\n\\nPerhaps you should ask scouts around Annâk-khurfu about this strange bat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Ask scouts about the bat ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'The bat carries useful information, to be sure, but it refuses to deliver messages to anyone other than Rékkur.'\\n\\nThe dwarf shudders.\\n\\n'Fine by me. I dislike the look of those creatures.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'Only a fool would trust everything the bat sends, and Rékkur is one such fool. I say this is a trick of the enemy's, to lure us in before striking!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'You should talk to Rékkur, the dwarf standing guard in front of Annâk-khurfu. He has a keen interest in that bat, though I doubt we'll have the resources to uncover the identity of its owner soon.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'Aye, the scouts have their doubts, but I know I've met that bat before.\\n\\n'Not long ago, Orcs ambushed our supply train. We escaped and made camp. The next morning, our wounds were treated and bandaged! Though I never saw the kind soul who had saved us, I noticed that bat hanging overhead.\\n\\n'The little one has gotten courageous, if it approached you and not me! What has it dropped off this time?'\\n\\nHe frowns at the note you show him.\\n\\n'The messenger wants you to travel to the ruins directly west of here -- Zarkul-sulûn. Find an overlook to the west of the path leading up to the ruins. Whatever is there may be important.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b9",
+      "id": 111477433,
       "en": "Go to the overlook",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e31",
+      "id": 49286705,
       "en": "Talk to Rékkur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "The scout holds a small, dead bat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "A bat has delivered you a cryptic note. Where could this lead?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "All of the scouts you talked to about the bat have mentioned Rékkur, a dwarf who may be interested in what you've found.\\n\\nHe stands guard in front of Annâk-khurfu.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "This note contains another location and an apology",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "The note contains directions to a specific location.\\n\\nAsking the scouts around Annâk-khurfu about this bat may give you some much-needed context.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "The note has brought you to the body of a dwarf scout near Zarkul-sulûn.\\n\\nYou should search the body and the immediate area for clues to what has transpired.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "Talk to Rékkur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Search the body",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1194",
+      "id": 177082772,
       "en": "Asked scouts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Read the note",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01193",
+      "id": 246419859,
       "en": "The note describes an overlook west of the path leading up to Zarkul-sulûn, a ruin west of Annâk-khurfu.\\n\\nRékkur has suggested that you venture to that location to see what's there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01196",
+      "id": 246419862,
       "en": "You have found a new note, as well as possible clues to this scout's death.\\n\\nRékkur will want to hear about your discoveries back at Annâk-khurfu.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a2",
+      "id": 177082786,
       "en": "Many footprints are Orkish, but the most recent set belongs to a Woman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a5",
+      "id": 177082789,
       "en": "The corpse of a dwarf scout lies on the ground",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "'What news, [placeholder]?'\\n\\nYou tell him of your discovery. His face falls when you describe the scout's appearance.\\n\\n'Alas, I knew him. Gáfin is -- was, I mean -- a dear friend. I'd been waiting for him to return. 'Tis a dark day indeed, but I'll mourn later.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

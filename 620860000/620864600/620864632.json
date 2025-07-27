@@ -2,130 +2,109 @@
   "id": 620864632,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Defeated wolves ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "There is a strange banner atop the stairs here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "The Wolf-master approaches. You must defeat him!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Strider would like you to earn the favour of Captain Brackenbrook if you can, so you find yourself offering your aid to a loyal soldier named Calder Cob.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You have aided in the defeat of the Blackwold Wolf-master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "You have defeated the Blackwold Wolf-master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Well well, if it isn't the rumour-monger! I've heard all about you, [placeholder].\\n\\n'As you can see for yourself, there aren't no brigands causing problems. It's the wolves that threaten us lately. They seem to have gathered around Bronwe's Folly, especially about the top of the ruins.\\n\\n'Brackenbrook sent you to assist me, and assist me you shall. I would like you to look into this wolf problem we are having.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Wolves can be found near Archet, and seem to be most concentrated around Bronwe's Folly.\\n\\nCalder Cob, a trusted soldier of Captain Brackenbrook, has asked you to look into Archet's wolf problem.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'H-how is it that you stand before me? A weakling like you defeated the Wolf-master? Bah! I would kill you myself if that fool Dirk Mudbrick weren't watching.\\n\\n'No matter. I do not fear exposure. Brackenbrook will never believe you. He thinks I have served him loyally since I was but a lad, the old fool.\\n\\n'Tell Brackenbrook whatever you like. But Archet WILL fall, and I'll make out with more gold than you can fathom! And you... you will die with the rest, if you do not make yourself scarce before tonight.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "You found a strange banner atop the ruins at Bronwe's Folly.\\n\\nYou should take a closer look at this banner....",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Calder Cob stands at the farm just down the road from Archet.\\n\\nBefore you go back to Strider, you should ask him why he tried to have you ambushed by Blackwolds.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'It's always interesting when a stranger comes into town squawking about nonsense. Such folk don't always meet happy ends.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Calder Cob stands at the farm just down the road from Archet.\\n\\nBefore you go back to Strider, you should ask him why he tried to have you ambushed by Blackwolds.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'No one will ever believe you, [placeholder]! You're a fool for thinking you can stop what's coming.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'I'd kill you if I could get away with it in front of the soldiers....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat wolves around Bronwe's Folly ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'Go whine to your Ranger friends, if you must. You'll not be able to stop the Blackwolds.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Search atop Bronwe's Folly for the source of the wolves",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Use the Blackwold Banner to summon the offender <rgb=#ffff00>(Do not leave the platform)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Ask Calder Cob why he set you up to be ambushed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Intro: The Wolves of the Ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

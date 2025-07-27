@@ -2,124 +2,104 @@
   "id": 620968162,
   "txt": [
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'The medicines are not ready. We have too few herbalists and too many wounded, by far! But here you are, just standing about. And to my eye, that means you have not enough to do. Well! If you wish to do some good instead of getting in the way, you will help the herbalists mix medicines. Edledhim, also called Sorrowfew, is needed most right now.\\n\\n'Of course, they will be too overwhelmed to give you instruction, so let me see to that. First, you will need to gather up some Trueleaf, Blushblade, and Snagbane. Then you must find a mixing table, mix them together in the correct proportion, and place them in phials. Do you understand? Good then. Off with you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Gather snagbane ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00ed0",
+      "id": 49286864,
       "en": "Mix edledhim at a mixing table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1182",
+      "id": 177082754,
       "en": "Gathered trueleaf ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01182",
+      "id": 246419842,
       "en": "The Houses of Healing can be found on the Sixth Circle of Minas Tirith.\\n\\nLook for trueleaf, blushblade, and snagbane within the High Hall, House of Remedies, or House of Rest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1b4",
+      "id": 24695220,
       "en": "The herbalists of the Houses of Healing are unable to mix medicine fast enough for the healers tending the ill and wounded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d158",
+      "id": 24695128,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e1184",
+      "id": 177082756,
       "en": "Gathered blushblade ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "Gathered snagbane ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01141",
+      "id": 246419777,
       "en": "Ioreth stands in the High Hall of the Houses of Healing, on the Sixth Circle of Minas Tirith.\\n\\nYou should return to Ioreth in the Houses of Healing and let her know you have prepared more edledhim.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b7",
+      "id": 246419895,
       "en": "DNT mix the medicines",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "Return to Ioreth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1189",
+      "id": 177082761,
       "en": "DNT the medicines are mixed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56852",
+      "id": 162883666,
       "en": "'There you are again! Still standing about? Oh, I see, so you've gone and mixed a batch of edledhim? Well, I am glad someone in these halls is doing their part!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50240",
+      "id": 111477312,
       "en": "Mix edledhim at a mixing table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01148",
+      "id": 246419784,
       "en": "Mixing tables can be found in the High Hall, House of Remedies, or House of Rest, on the Sixth Circle of Minas Tirith.\\n\\nFind a mixing table and combine the ingredients into edledhim.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1161",
+      "id": 177082721,
       "en": "Mixed edledhim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a1",
+      "id": 111477409,
       "en": "Gather trueleaf ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Mixing Medicines",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Gather blushblade ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

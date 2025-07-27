@@ -2,64 +2,54 @@
   "id": 620835831,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Armed with new knowledge and a clear recollection of the past, I must ask you to assist us in our first strides to reclaim this fallen refuge. Nearby, just to the north, there is a copse of trees before a golden gate. These trees were once one of the grandest sights in all of Edhelion. Now, sadly, they are a ghost of their former selves. Barren and blighted, these trees remind us of our failure and the betrayal wrought upon us by the Dourhands. \\n\\n'Worse still, they have become home to foul and twisted insects. We must eliminate those insects lest they infest new plantings, and there may yet be a way to save the ailing trees.\\n\\n'Go now and strike down the creatures plaguing the trees of Edhelion. Return to me when you have completed this task.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You are ready now to leave this place. Elrond has chosen another path for you, and I was here only to ensure that you were ready for the journey. I am confident now that you will prove everything we expect of you, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'You will find the insects near the copse of trees a short distance north of here. Destroy them, then return to me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Intro: Plague Among the Trees",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Prepared and armed with new skills, you are tasked now with a battle against the vile creatures that blight and plague the trees of Edhelion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Defeated insects near the trees of Edhelion ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat insects near the trees of Edhelion ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The insects may be found at the copse of trees north of Dorongúr Whitethorn, near the golden gate.\\n\\nDorongúr Whitethorn charged you with helping to reclaim the refuge of Edhelion by eliminating the insects that have made the nearby trees their home.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Dorongúr Whitethorn in Edhelion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Dorongúr Whitethorn is south of the trees.\\n\\nWith the insects defeated, you have proven yourself worthy to Dorongúr Whitethorn. You should return to him and tell him of your victory.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

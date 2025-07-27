@@ -2,196 +2,164 @@
   "id": 621011074,
   "txt": [
     {
-      "id": "0xa502806",
+      "id": 173025286,
       "en": "Talk to Tuhâl",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502807",
+      "id": 173025287,
       "en": "Listen to the conversation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011990",
+      "id": 184621456,
       "en": "You have been tasked with infiltrating Utterby!\\n\\nYou should talk to Náin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502808",
+      "id": 173025288,
       "en": "Talk to Náin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011993",
+      "id": 184621459,
       "en": "The time has come for Tuhâl of Chayasír to stand before Lord Náin and speak for the Easterling refugees.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011994",
+      "id": 184621460,
       "en": "Tuhâl is speaking to Lord Náin.\\n\\nYou should listen to the conversation.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76c90f3",
+      "id": 124555507,
       "en": "'Please, Lord Náin! Your skill as a warrior is legendary, but I must speak the truth, for the sake of my people!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e51",
+      "id": 113839697,
       "en": "'Lord Náin, I am Tuhâl of the Chayasír. I am but a refugee from the East!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e52",
+      "id": 113839698,
       "en": "'I am not a Jangovar! I surrendered as soon as I saw an opportunity! You must believe me, the Jangovar are forcing us to work and fight under threat to our families!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1fa3e8",
+      "id": 236954600,
       "en": "Instance: The Lord of Iron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e54",
+      "id": 113839700,
       "en": "'I have heard you plan to collapse the stair at Skald's Drop, but I implore you to reconsider! We are simple refugees, fleeing a terrible devastation!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e55",
+      "id": 113839701,
       "en": "'We have no home to return to, and you would be damning so many innocents to a terrible fate!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e56",
+      "id": 113839702,
       "en": "'We call that village Er Shamol. The Jangovar have imparted martial law over it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688f2",
+      "id": 190220530,
       "en": "'I apologize for putting this on your shoulders, [placeholder], but from what I have heard, you are more than capable of this task. Keep an eye on our \\qfriend\\q here. His words are convincing, but I am not quick to trust any foreigner. Do what you can from within to clear the innocents out and undermine their operation. I will come to finish the task when the time is right.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e57",
+      "id": 113839703,
       "en": "'Many innocents are there, being forced to work under terrible conditions. If you attack, they will surely die!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c90e58",
+      "id": 113839704,
       "en": "'Thank you, Lord Náin! We will not waste this chance!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688f4",
+      "id": 190220532,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xb5688f5",
+      "id": 190220533,
       "en": "'Wish me luck, friend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1670",
+      "id": 126686832,
       "en": "The time has come for Tuhâl of Chayasír to stand before Lord Náin and speak for the Easterling refugees.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x90e4bc8",
+      "id": 151931848,
       "en": "'We have no home to return to, and you would be damning so many innocents to a terrible fate!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf81",
+      "id": 71815041,
       "en": "'[placeholder], who is this Easterling you have brought before me? Is this one of those \\qJangovar\\q?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf82",
+      "id": 71815042,
       "en": "'But you were taken prisoner for your part in the attack on Hammerstead, were you not?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf83",
+      "id": 71815043,
       "en": "'\\qJangovar\\q, \\qChayasir\\q, it matters not to me. You are on my lands and occupying a village belonging to the Kingdom of Dale, our most important ally! Why should I not slay you where you stand for your insolence?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf85",
+      "id": 71815045,
       "en": "'You are foolish, but I hear the desperation in your words. The Longbeards know what it is like to have no home, to be wanderers.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf86",
+      "id": 71815046,
       "en": "'I will consider what you have said. But, something must be done about Utterby. I will NOT have these \\qJangovar\\q attacking my charges and stealing their craft!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf87",
+      "id": 71815047,
       "en": "'Despite my appearance and reputation, I am not a cold-hearted monster. I will give you and [placeholder] an opportunity to remove these innocents from the situation.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf88",
+      "id": 71815048,
       "en": "'The two of you will infiltrate Utterby. [placeholder], you will need to disguise yourself as one of these refugees. I will give you time to get the innocents out.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cf89",
+      "id": 71815049,
       "en": "'Then, I will come and deal with these interlopers myself. You had best hurry. You will not have long.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447cd84",
+      "id": 71814532,
       "en": "'You dare come into my keep and tell me what I should or should not do with my own lands?!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011983",
+      "id": 184621443,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa502801",
+      "id": 173025281,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xb5688e2",
+      "id": 190220514,
       "en": "'I am so relieved that Lord Náin heard my words. Now, we must come up with a plan.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

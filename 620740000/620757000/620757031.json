@@ -2,274 +2,229 @@
   "id": 620757031,
   "txt": [
     {
-      "id": "0xa19ca23",
+      "id": 169462307,
       "en": "(Not yet discovered)",
-      "es": "(Aún no descubierto)",
-      "es (fem)": ""
+      "es": "(Aún no descubierto)"
     },
     {
-      "id": "0xf1612e8",
+      "id": 253104872,
       "en": "Not enough money.",
-      "es": "No hay dinero suficiente.",
-      "es (fem)": ""
+      "es": "No hay dinero suficiente."
     },
     {
-      "id": "0x56cde3c",
+      "id": 91020860,
       "en": "Return to [placeholder]",
-      "es": "Volver a [placeholder]",
-      "es (fem)": ""
+      "es": "Volver a [placeholder]"
     },
     {
-      "id": "0xe2c21e4",
+      "id": 237773284,
       "en": "You do not meet the requirements to travel to this destination. Please examine the specific destination for additional information.",
-      "es": "No cumples los requisitos para viajar a este destino. Examina el destino específico para obtener información adicional.",
-      "es (fem)": ""
+      "es": "No cumples los requisitos para viajar a este destino. Examina el destino específico para obtener información adicional."
     },
     {
-      "id": "0xec8fb7f",
+      "id": 248052607,
       "en": "Travel for",
-      "es": "Viaja por",
-      "es (fem)": ""
+      "es": "Viaja por"
     },
     {
-      "id": "0x8c04f59",
+      "id": 146820953,
       "en": "You discovered the [placeholder] travel location.\\n",
-      "es": "Has descubierto el lugar de viaje [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Has descubierto el lugar de viaje [placeholder].\\n"
     },
     {
-      "id": "0xa6fe14c",
+      "id": 175104332,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x90aba6",
+      "id": 9481126,
       "en": "Your character has become liberated.  You are being teleported back to your last location.",
-      "es": "Tu personaje se ha liberado. Estás siendo teletransportado a tu última ubicación.",
-      "es (fem)": ""
+      "es": "Tu personaje se ha liberado. Estás siendo teletransportado a tu última ubicación."
     },
     {
-      "id": "0x99fa244",
+      "id": 161456708,
       "en": "Mithril Coins",
-      "es": "Monedas de Mithril",
-      "es (fem)": ""
+      "es": "Monedas de Mithril"
     },
     {
-      "id": "0x8624224",
+      "id": 140657188,
       "en": "You cannot travel from this encounter.",
-      "es": "No puedes viajar desde este encuentro.",
-      "es (fem)": ""
+      "es": "No puedes viajar desde este encuentro."
     },
     {
-      "id": "0x6090abe",
+      "id": 101255870,
       "en": "Your character has been imprisoned by a game administrator.",
-      "es": "Tu personaje ha sido encarcelado por un administrador del juego.",
-      "es (fem)": ""
+      "es": "Tu personaje ha sido encarcelado por un administrador del juego."
     },
     {
-      "id": "0xc423233",
+      "id": 205664819,
       "en": "Buy temp. access for",
-      "es": "Comprar temp. acceso para",
-      "es (fem)": ""
+      "es": "Comprar temp. acceso para"
     },
     {
-      "id": "0xd18f154",
+      "id": 219738452,
       "en": "You can already travel to this destination for free.",
-      "es": "Ya puedes viajar gratis a este destino.",
-      "es (fem)": ""
+      "es": "Ya puedes viajar gratis a este destino."
     },
     {
-      "id": "0x9a3ee04",
+      "id": 161738244,
       "en": "Not available",
-      "es": "No disponible",
-      "es (fem)": ""
+      "es": "No disponible"
     },
     {
-      "id": "0x269cc25",
+      "id": 40487973,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xee01ea4",
+      "id": 249568932,
       "en": "This route is not available for travel using Mithril Coins.",
-      "es": "Esta ruta no está disponible para viajar usando Monedas de Mithril.",
-      "es (fem)": ""
+      "es": "Esta ruta no está disponible para viajar usando Monedas de Mithril."
     },
     {
-      "id": "0xb1eac47",
+      "id": 186559559,
       "en": "Are you sure you want to set this location as your bind point for the [placeholder] skill?",
-      "es": "¿Estás seguro de que quieres establecer esta ubicación como tu punto de enlace para la habilidad [placeholder]?",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres establecer esta ubicación como tu punto de enlace para la habilidad [placeholder]?"
     },
     {
-      "id": "0x88177a1",
+      "id": 142702497,
       "en": "Lord Elrond must have sufficient knowledge of the lost Ring-lore of Eregion for you to use this route.",
-      "es": "Lord Elrond debe tener suficiente conocimiento de la historia de los anillos de Eregion para que puedas usar esta ruta.",
-      "es (fem)": ""
+      "es": "Lord Elrond debe tener suficiente conocimiento de la historia de los anillos de Eregion para que puedas usar esta ruta."
     },
     {
-      "id": "0xf506dcf",
+      "id": 256929231,
       "en": "Travel for",
-      "es": "Viaja por",
-      "es (fem)": ""
+      "es": "Viaja por"
     },
     {
-      "id": "0x9b876b4",
+      "id": 163083956,
       "en": "You purchased a ride to [placeholder] for [placeholder].\\n",
-      "es": "Has comprado un viaje a [placeholder] por [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Has comprado un viaje a [placeholder] por [placeholder].\\n"
     },
     {
-      "id": "0x7941c2c",
+      "id": 127147052,
       "en": "Region: ",
-      "es": "Región:",
-      "es (fem)": ""
+      "es": "Región:"
     },
     {
-      "id": "0x7895b9",
+      "id": 7902649,
       "en": "[placeholder] ([placeholder])",
-      "es": "[placeholder] ([placeholder])",
-      "es (fem)": ""
+      "es": "[placeholder] ([placeholder])"
     },
     {
-      "id": "0x740f624",
+      "id": 121697828,
       "en": "You have not yet discovered this destination.",
-      "es": "Aún no has descubierto este destino.",
-      "es (fem)": ""
+      "es": "Aún no has descubierto este destino."
     },
     {
-      "id": "0x1d0ce24",
+      "id": 30461476,
       "en": "Travel to this destination using money.",
-      "es": "Ir a este destino usando dinero.",
-      "es (fem)": ""
+      "es": "Ir a este destino usando dinero."
     },
     {
-      "id": "0x4b5fafc",
+      "id": 79035132,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x532afbc",
+      "id": 87207868,
       "en": "Get more Mithril Coins",
-      "es": "Consigue más monedas de Mithril",
-      "es (fem)": ""
+      "es": "Consigue más monedas de Mithril"
     },
     {
-      "id": "0xd7769d4",
+      "id": 225929684,
       "en": "Spend Mithril Coins to travel to the selected destination.",
-      "es": "Gasta monedas de Mithril para viajar al destino seleccionado.",
-      "es (fem)": ""
+      "es": "Gasta monedas de Mithril para viajar al destino seleccionado."
     },
     {
-      "id": "0xcff4664",
+      "id": 218056292,
       "en": "No Route Selected",
-      "es": "Sin ruta seleccionada",
-      "es (fem)": ""
+      "es": "Sin ruta seleccionada"
     },
     {
-      "id": "0xd982f84",
+      "id": 228077444,
       "en": "You spent [placeholder] to travel to [placeholder].\\n",
-      "es": "Has gastado [placeholder] para viajar a [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Has gastado [placeholder] para viajar a [placeholder].\\n"
     },
     {
-      "id": "0x768adc4",
+      "id": 124300740,
       "en": "Level too low.",
-      "es": "Nivel demasiado bajo.",
-      "es (fem)": ""
+      "es": "Nivel demasiado bajo."
     },
     {
-      "id": "0x17ffb5",
+      "id": 1572789,
       "en": "Use my travel web.",
-      "es": "Utiliza mi red de viajes.",
-      "es (fem)": ""
+      "es": "Utiliza mi red de viajes."
     },
     {
-      "id": "0x6efef04",
+      "id": 116387588,
       "en": "<rgb=#FFFF00>(Unbound)</rgb> Destination",
-      "es": "<rgb=#FFFF00>(No vinculado)</rgb> Destino",
-      "es (fem)": ""
+      "es": "<rgb=#FFFF00>(No vinculado)</rgb> Destino"
     },
     {
-      "id": "0x8fb7675",
+      "id": 150697589,
       "en": "Free",
-      "es": "Gratis",
-      "es (fem)": ""
+      "es": "Gratis"
     },
     {
-      "id": "0x7f54814",
+      "id": 133515284,
       "en": "No Route Selected",
-      "es": "Sin ruta seleccionada",
-      "es (fem)": ""
+      "es": "Sin ruta seleccionada"
     },
     {
-      "id": "0x320d014",
+      "id": 52482068,
       "en": "Undiscovered Route",
-      "es": "Ruta sin descubrir",
-      "es (fem)": ""
+      "es": "Ruta sin descubrir"
     },
     {
-      "id": "0x245d7c4",
+      "id": 38131652,
       "en": "You do not have enough money to travel to this destination.",
-      "es": "No tienes suficiente dinero para viajar a este destino.",
-      "es (fem)": ""
+      "es": "No tienes suficiente dinero para viajar a este destino."
     },
     {
-      "id": "0x250f084",
+      "id": 38858884,
       "en": "Discovered Route",
-      "es": "Ruta Descubierta",
-      "es (fem)": ""
+      "es": "Ruta Descubierta"
     },
     {
-      "id": "0x388a061",
+      "id": 59285601,
       "en": "Lord Elrond must have sufficient knowledge of the lost Ring-lore of Eregion for you to use this route.",
-      "es": "Lord Elrond debe tener suficiente conocimiento de la historia de los anillos de Eregion para que puedas usar esta ruta.",
-      "es (fem)": ""
+      "es": "Lord Elrond debe tener suficiente conocimiento de la historia de los anillos de Eregion para que puedas usar esta ruta."
     },
     {
-      "id": "0x56a7c1c",
+      "id": 90864668,
       "en": "Area:",
-      "es": "Área:",
-      "es (fem)": ""
+      "es": "Área:"
     },
     {
-      "id": "0xd0ce27e",
+      "id": 218948222,
       "en": "\\nOn expiration, you will be returned to [placeholder] ([placeholder]).\\n",
-      "es": "\\nAl expirar, serás devuelto a [placeholder] ([placeholder]).\\n",
-      "es (fem)": ""
+      "es": "\\nAl expirar, serás devuelto a [placeholder] ([placeholder]).\\n"
     },
     {
-      "id": "0xf4a924c",
+      "id": 256545356,
       "en": "Swift Travel",
-      "es": "Viaje Rápido",
-      "es (fem)": ""
+      "es": "Viaje Rápido"
     },
     {
-      "id": "0x3fd96b4",
+      "id": 66950836,
       "en": "Spend Mithril Coins to gain temporary access to the selected destination.",
-      "es": "Gasta monedas de Mithril para acceder temporalmente al destino seleccionado.",
-      "es (fem)": ""
+      "es": "Gasta monedas de Mithril para acceder temporalmente al destino seleccionado."
     },
     {
-      "id": "0x7803ee5",
+      "id": 125845221,
       "en": "Are you sure you want to set this location as your new bind point for the [placeholder] skill? This will replace the skill's current bind location of [placeholder]!",
-      "es": "¿Estás seguro de que quieres establecer esta ubicación como tu nuevo punto de vinculación para la habilidad [placeholder]? ¡Esto reemplazará la ubicación actual de vinculación de la habilidad [placeholder]!",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres establecer esta ubicación como tu nuevo punto de vinculación para la habilidad [placeholder]? ¡Esto reemplazará la ubicación actual de vinculación de la habilidad [placeholder]!"
     },
     {
-      "id": "0x481fbc4",
+      "id": 75627460,
       "en": "No Route Selected",
-      "es": "Sin ruta seleccionada",
-      "es (fem)": ""
+      "es": "Sin ruta seleccionada"
     },
     {
-      "id": "0x925f034",
+      "id": 153481268,
       "en": "Swift Travel",
-      "es": "Viaje Rápido",
-      "es (fem)": ""
+      "es": "Viaje Rápido"
     }
   ]
 }

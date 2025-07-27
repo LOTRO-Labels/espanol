@@ -2,112 +2,94 @@
   "id": 620879754,
   "txt": [
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Evan of the Falcon-clan is mistrustful of Elves and wants to be sure you know it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Not many Elves pass through Dunland, [placeholder]. I will not lead you false; for my part, there are three too many Elves in Tûr Morva right now.'\\n\\nEvan studies you closely, seeking a reaction of some kind.\\n\\n'I know what you think of my folk. You call us short-lived, cursed to a hard life in hard lands, while you enjoy many life-times of pleasure. But what do you know of us? What do you know of the history of my people? Ask those other Elves that came with you what they know of Dunland. I want to hear what they say.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Elladan is south of the Brenin's house, by the ruins of the ancient fort near Tûr Morva. Elrohir is on a small rise overlooking the lake, west of the entrance to Tûr Morva.\\n\\nEvan wants you to ask Elladan and Elrohir what they know about Dunland. He thinks they, and all Elves, look down on the shorter-lived races.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Well? Did those other Elves know even the smallest thing about the history of my land and its people?'\\n\\nEvan listens to your tactful distillation of the Elf-brothers' answers.\\n\\n'They know broad strokes. That is better than I expected. But they know nothing of the flavour! Spurned marriages, rebel armies, and finally a Dunlending power strong enough to avenge the injustices visited upon it by the King of Rohan! Do they know that mighty Wulf, son of the valiant Freca and greatest of all Dunlending warriors, claimed the Golden Hall and sat upon its throne?\\n\\n'So much for the Rohirrim! Only through deception and with a small force could they remove Wulf as lord of all the land! The history of Dunland is a full one, and you Elves know little of it.\\n\\n'But I am pleased to have taught you this much, at least: that there is more to know. Perhaps there can be an understanding between your people and mine after all. Go tell Penrod, to the north, that my previous misgivings have been lessened.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Evan is just inside the entrance to Tûr Morva.\\n\\nYou have spoken with Elladan and Elrohir concerning their knowledge of Dunlending history and should now report it to Evan. You may wish to be tactful.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Penrod is among the northern buildings of Tûr Morva.\\n\\nEvan has decided he is not as angry about Elves as he once was and wants you to tell Penrod.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Your friends, those other Elves...ask them how much they know about Dunland. Not much, I would wager! You Elves are all the same, always looking down on the shorter-lived peoples!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You spoke with Evan? Do not take his words much to heart. We do not see many Elves in Dunland, and some are rightly suspicious of such rarities.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Go tell Penrod that my misgivings are lessened. He is to the north.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'I will be honest, [placeholder]. I do not know a great deal about Dunland or its people. I know they claim right to lands in the kingdom of Rohan and hold the Rohirrim as bitter enemies. They are organized into clans led by charismatic leaders. The Hebog-lûth, the Falcon-clan, does not trust Saruman, but it seems other clans in Dunland have allied themselves with the Wizard.\\n\\n'Perhaps you should ask this Evan what he knows about the history of our people. I do not think he would do much better than I have done with his!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'I still think you should ask this Evan what he knows about the history of our people, [placeholder]. Not much, I would wager.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'This Dunlending thinks we do not respect his people or their history? What history? The most note-worthy event I ever heard tell of was the Dunlending invasion of Rohan, which did not last long and eventually ended in defeat.\\n\\n'You may not want to convey my opinion to this Evan, [placeholder]. I am grateful that his clan resists the promises of Saruman, but I am under no bond to admire their histories.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Elladan in Tûr Morva",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'I am glad that Evan's clan resists the promises of Saruman, [placeholder], but I will not pretend to care about the history of Dunland. That will have to be enough for him.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Elrohir in Tûr Morva",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Evan in Tûr Morva",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Penrod in Tûr Morva",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Full History",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

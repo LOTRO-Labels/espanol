@@ -2,118 +2,99 @@
   "id": 621044759,
   "txt": [
     {
-      "id": "0xb011882",
+      "id": 184621186,
       "en": "You have retrieved the stolen supplies.\\n\\nYou should return to Múta at Gabil-memâg, west of Durshulot.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689f6",
+      "id": 190220790,
       "en": "'Some amount of truth does exist within the Orc's words -- four smiths disappeared recently on their way to Gundabad, but we lost their trail. We eventually assumed they had perished.\\n\\n'Regardless of whether it's the whole truth, the Orc is a prisoner now and should be treated as such. I'll bring him back to Aslíf. No doubt Lord Náin will want to speak to you afterwards.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689c8",
+      "id": 190220744,
       "en": "'I-I didn't want to steal from you folks; I had to, on the Quartermaster's orders! Between the raiding hobgoblins and how this war's going, we haven't got enough supplies. And... I admit, I stole some of your supplies for myself too.\\n\\n'Just -- just don't kill me! I've got information on some dwarf smiths we've got as prisoners.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689e1",
+      "id": 190220769,
       "en": "'I do not trust this Orc. Have we considered that the missing smiths may be beyond saving -- that they were never prisoners to begin with?\\n\\n'It would be foolish to believe everything the Orc says, but Féli wants to interrogate him together.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "The Orc seems to be done rambling.\\n\\nYou should talk to Múta and figure out what to do with him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bc1",
+      "id": 148970433,
       "en": "Retrieved stolen supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011888",
+      "id": 184621192,
       "en": "Múta will return to Aslíf on the upper tier with the Orc as a prisoner.\\n\\nNáin will be interested to hear what you have to say about what happened.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b7",
+      "id": 184621239,
       "en": "Múta has captured the Orc thief.\\n\\nYou should talk to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502900",
+      "id": 173025536,
       "en": "Retrieve stolen supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1fa3f5",
+      "id": 236954613,
       "en": "Hunting a Thief",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bc4",
+      "id": 148970436,
       "en": "Upon seeing you, the Orc begins to ramble",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502903",
+      "id": 173025539,
       "en": "Return to Múta at Gabil-memâg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e152",
+      "id": 251715922,
       "en": "Talk to Náin in Aslíf",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d2",
+      "id": 184621266,
       "en": "In hopes of flushing out the thief, Múta has asked you to retrieve the remaining supplies at Durshulot.\\n\\nDurshulot sits on the middle tier, east of Gabil-memâg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502907",
+      "id": 173025543,
       "en": "Talk to Múta",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fab2",
+      "id": 149027506,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'We'll need to question the thief, and that means keeping him alive. From my observations, the Orc is a bit of a coward, preferring to flee rather than fight.\\n\\n'How about this: retrieve whatever is left of our supplies in Durshulot, on the middle tier to the east. The ensuing ruckus will flush the Orc out and allow me to corner him. We can meet back here once you're done.\\n\\n'If things go badly, or if I misjudged the Orc's cowardice, I'll have your back. Good luck.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d165",
+      "id": 24695141,
       "en": "Múta has tracked down the thief, but there may be more to the situation than meets the eye.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502939",
+      "id": 173025593,
       "en": "Talk to Shúkurz",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

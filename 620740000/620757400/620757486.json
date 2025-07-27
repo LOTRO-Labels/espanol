@@ -2,148 +2,124 @@
   "id": 620757486,
   "txt": [
     {
-      "id": "0x9c4f272",
+      "id": 163902066,
       "en": "There was an internal error, unable to obtain the necessary information a bou tthe sender.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd59c804",
+      "id": 223987716,
       "en": "Unable to find the item attached to this letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b9520d",
+      "id": 146362893,
       "en": "An internal error has occured. Unable to obtain the necessary information about the attached item.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8cde9c4",
+      "id": 147712452,
       "en": "You cannot request cash on delivery without an item attached to this letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4f3754",
+      "id": 206518100,
       "en": "This item cannot be mailed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x573bc2c",
+      "id": 91470892,
       "en": "You cannot attach an item you do not possess!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x813534",
+      "id": 8467764,
       "en": "Cash from Delivery",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38d6764",
+      "id": 59598692,
       "en": "An internal error has occured. Unable to obtain the necessary information about the recipient of this letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f2a925",
+      "id": 166897957,
       "en": "Your parcel to [placeholder] has been accepted. Enclosed is the requested money for the item.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0e6544",
+      "id": 202270020,
       "en": "NOTE: The attached item has been removed due to versioning.\\n\\n[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe287f84",
+      "id": 237535108,
       "en": "[placeholder] returned from mail fees.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29f4c77",
+      "id": 43994231,
       "en": "The letter's subject is too long.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ec3564",
+      "id": 166475108,
       "en": "You received [placeholder] in the mail.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a414",
+      "id": 369684,
       "en": "The recipient of this letter does not exist.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92463f5",
+      "id": 153379829,
       "en": "You do not have enough money to cover the cost of postage.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7c90dd7",
+      "id": 130616791,
       "en": "This letter's message is too long.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae9f3a2",
+      "id": 183104418,
       "en": "An internal error has occured.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ca35cb",
+      "id": 147469771,
       "en": "You cannot attach an item that is not in your backpack.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x939c922",
+      "id": 154781986,
       "en": "The Post Master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x53bfea7",
+      "id": 87817895,
       "en": "The letter's recipient name is too long.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbebdc4",
+      "id": 213827012,
       "en": "[placeholder] removed for mail fees.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde94e0d",
+      "id": 233393677,
       "en": "Failed to attach item. Please try again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8cf9d36",
+      "id": 147823926,
       "en": "You cannot send mail to yourself.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd190025",
+      "id": 219742245,
       "en": "Unable to pay the cost of postage.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

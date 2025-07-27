@@ -2,340 +2,284 @@
   "id": 621011254,
   "txt": [
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Talk to Débel in the New-lodes of Narathâk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Talk to Dori in the Hall Under the Mountain",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1193",
+      "id": 177082771,
       "en": "Dori stands before the throne of the King under the Mountain...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Meet Dori at Nori's home in Tumnu-dûm, the Dwelling-halls",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'At least Débel did not allow my brother's home to fall into disrepair....'\\n\\nDori glances around Nori's home and pauses upon a stack of papers piled on the dining table.\\n\\n'I think my brother left more hastily than he expected to, [placeholder]. Look!\\n\\n'There are papers piled upon the table, and I see other curiosities left about that I would like to examine. Take a look at those papers and see if my brother has left any hint of his course or the names of other dwarves that we might question.\\n\\n'Once you have done that, let us meet back here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'I do not understand, [placeholder].\\n\\n'What has compelled my brother to act so foolishly? He has lived a life of wealth in Erebor! He is the Keeper of the Coffers! Or he was....\\n\\n'Bah! I should have confronted him. I saw dwarves speaking with him in hushed tones, but I thought nothing of it. Nori is a dwarf of some repute, after all.\\n\\n'If only I knew the names of those dwarves, but... wait. I do recall one of them. This dwarf seemed to be of a line descended from both the Longbeards and the Zhélruka of the East. He was thin in the beard, but any dwarf would be proud to have such a moustache.\\n\\n'He is a miner, I think. Search for him in the New-lodes of Narathâk, and perhaps he will be better able to explain why my brother has left for Thikil-gundu.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Unlock the door to Nori's home and begin your search with Dori",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'My brother believes that because the great cold-drake was defeated that our old hoards lay unguarded? By dragons, perhaps, but the Orcs will not have abandoned them.\\n\\n'As the King under the Mountain said, Thikil-gundu is best forgotten. The Longbeards have found only misfortune and death in the Steel Keep. If I do not aid my brother, this expedition will be his doom.\\n\\n'We are forbidden from travelling to Thikil-gundu, but perhaps King Thorin will be merciful upon my family and allow me to pursue him into the Ered Mithrin. It is the only course!\\n\\n'Come, we must go at once!'\\n\\n<rgb=#FF0000>NOTE: When you continue this quest, you will swiftly travel to the Hall under the Mountain.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Examine notes left behind by Nori ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5023",
+      "id": 225071139,
       "en": "Find a dwarf matching Dori's description in the New-lodes of Narathâk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a0",
+      "id": 177082784,
       "en": "Dori shifts uncomfortably outside Nori's home...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Talk to the dwarf in the New-lodes of Narathâk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "After Vethúg's defeat at the gates of Erebor, Nori enlisted his kinsfolk to follow him to Thikil-gundu...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'Did I not say I was a dwarf of my word?\\n\\n'I knew very little of the plans of the Keeper of the Coffers, but I knew enough. He made for the Steel Keep of old... Thikil-gundu as it was once named in the tongue of the dwarves.\\n\\n'I could not follow him as he wished, but I offered to keep his home in order until his return. I have borne Nori's secret faithfully, but I do not wish to lose the favour of the King under the Mountain.\\n\\n'Here, take this key. Perhaps Nori left behind some clue for his brother to find....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'I do not appreciate your gaze. What business have you in the New-lodes?'\\n\\nYou explain to the dwarf that he matches the description of a dwarf Dori believed to be in league with Nori's secret expedition. The dwarf lets out a long sigh.\\n\\n'Very well... I am Débel. I am not so deeply involved as you might believe, but yes, I know of these things. I suppose the truth would come out sooner or later, but I had hoped it would be after Nori returned to Erebor.\\n\\n'I cannot give such information freely, but I can offer it for a trifle. If you were to clear out some of the deep-claws that have burrowed into the New-lodes, I give my word that I will share all I know of Nori and his expedition.\\n\\n'What do you say?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'You found the dwarf, did you? Very good! What did he have to say of my brother?'\\n\\nYou explain to Dori that Débel did not offer much in the way of new information, but he did offer up the key to Nori's home.\\n\\n'A key? My brother entrusted his key to this Débel before me? We shall have much to discuss when next I see him!\\n\\n'My brother was not one to leave things unorganised... he is the Keeper of the Coffers after all! However, if Nori has travelled to Thikil-gundu, I must know his course through the Ered Mithrin. They are unfriendly lands, now home only to Orcs and dragons.\\n\\n'It is to Tumnu-dûm we must go. Those are the dwelling-halls of Erebor, and it is there Nori makes his home.\\n\\n'I will await you outside his home. After all, you have the key!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "Seek an audience with King Thorin III Stonehelm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1b3",
+      "id": 24695219,
       "en": "After Nori secretly departed Erebor for the Ered Mithrin, Dori hopes to learn why his brother deceived both him and the King under the Mountain.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "The earth shakes as a deep-claw bursts forth!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "Talk to Dori before the throne of King Thorin III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b6",
+      "id": 111477430,
       "en": "Talk to King Thorin III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "Defeated deep-claws in the New-lodes of Narathâk ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "Talk to Dori",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a2",
+      "id": 162883746,
       "en": "'You have the spare key, yes?\\n\\n'Let us see what my brother left behind, [placeholder]. I hope it is of some use to us....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "You spot a dwarf matching Dori's description...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01144",
+      "id": 246419780,
       "en": "The New-lodes of Narathâk can be found in the entry hall of Erebor.\\n\\nBelieving him to be in league with Nori, Dori has asked you to find a dwarf of uncommon lineage in the New-lodes of Narathâk.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01145",
+      "id": 246419781,
       "en": "The strange dwarf can be found among the New-lodes of Narathâk.\\n\\nYou have found a dwarf matching Dori's description and should now speak to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01146",
+      "id": 246419782,
       "en": "Deep-claws have burrowed into the New-lodes of Narathâk.\\n\\nIn exchange for aiding him in repelling the deep-claws of Erebor, Débel has offered to share what he knows of Nori's secret expedition to Thikil-gundu.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01147",
+      "id": 246419783,
       "en": "Débel can be found among the New-lodes of Narathâk.\\n\\nYou have defeated many of the encroaching deep-claws in the New-lodes of Narathâk and should now return to Débel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01148",
+      "id": 246419784,
       "en": "Dori can be found among the upper levels of the Hall under the Mountain.\\n\\nYou have obtained a spare key to Nori's home in Erebor, and you should now return to Dori and tell him what you have learned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01149",
+      "id": 246419785,
       "en": "Nori's home can be found in Tumnu-dûm, the Dwelling-halls of Erebor.\\n\\nAfter learning that Nori left behind a spare key, Dori has asked you to meet him at Nori's home in Erebor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b4",
+      "id": 162883764,
       "en": "Dori seems fixated upon the King under the Mountain and barely seems to notice your approach.\\n\\n'King Thorin III Stonehelm, King under the Mountain, I beg leave to travel into the Ered Mithrin. You have forbidden Durin's Folk to return to the Steel Keep, Thikil-gundu, but that is not my purpose. I go in search of my brother, Nori!\\n\\n'I am a loyal dwarf of Erebor. I have fought and bled in its defence... from the Easterlings... from Bolg! All I ask is the chance to save Nori from his folly!\\n\\n'Will you grant me leave, King under the Mountain?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1170",
+      "id": 177082736,
       "en": "After countless hours of study, Nori learned that the hoarding-vault laid 'beneath the eyes of the Seven'...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b7",
+      "id": 162883767,
       "en": "'I hear your words, Dori of the Company.\\n\\n'Your deeds and those of your kin are not forgotten to any who dwell in Erebor, but Nori has acted in defiance of my edict. Whether his expedition is successful or not, there will be consequences for him.\\n\\n'I know well that your brother, Ori, was among those lost in Balin's expedition, and I know as well as you do that this bears a resemblance to our efforts to reclaim Khazad-dûm. Both Balin's expedition and the Iron Garrison have failed, and if future losses may still be prevented, they must be. And so, Dori, I grant you leave to follow your brother and put an end to his expedition.\\n\\n'You will travel on my behalf, but you will go in secret as your brother did. You may form a company of your own choosing, but do not spread word of this to any untrustworthy ears. In addition, I ask that you find the remains of Vethúg Wintermind. He flew from battle gravely wounded and passed into the Ered Mithrin, but I desire proof of his death.\\n\\n'Heed my words. Deliver Nori from his folly and retrieve for me a bone of Vethúg Wintermind. Only then will we speak of forgiveness....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1172",
+      "id": 177082738,
       "en": "After clearing the dust away, Nori drew forth his armour of old. The time had come!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'You have my truest gratitude, King under the Mountain. I will do as you have commanded.'\\n\\nDori turns to you.\\n\\n'What do you say, [placeholder]? Let us begin our preparations!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01150",
+      "id": 246419792,
       "en": "Nori's home can be found in Tumnu-dûm, the Dwelling-halls of Erebor.\\n\\nYou have arrived at Nori's home in Tumnu-dûm and should now use the spare key to gain entry.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01151",
+      "id": 246419793,
       "en": "Dori can be found inside Nori's home in Tumnu-dûm, the Dwelling-halls of Erebor.\\n\\nYou have gained entry to Nori's home and should now speak to Dori.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01152",
+      "id": 246419794,
       "en": "Notes can be found throughout Nori's home in Tumnu-dûm, the Dwelling-halls of Erebor.\\n\\nAfter noticing a number of scattered notes, Dori has asked you to begin your search of his brother's home by examining what Nori left behind.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01153",
+      "id": 246419795,
       "en": "Dori can be found inside Nori's home in Tumnu-dûm, the Dwelling-halls of Erebor.\\n\\nYou have examined many notes in Nori's home and they bear marks of a conspiracy to defy the King under the Mountain and seek the hoards of Thikil-gundu. You should inform Dori.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01154",
+      "id": 246419796,
       "en": "Dori can be found before the throne of King Thorin III in the Hall under the Mountain.\\n\\nDori intends to beg King Thorin III to allow him to seek his brother, Nori, in the Ered Mithrin. You should meet Dori before the throne of King Thorin III.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01155",
+      "id": 246419797,
       "en": "Dori can be found before the throne of King Thorin III in the Hall under the Mountain.\\n\\nKing Thorin III has granted Dori leave to pursue Nori into the Ered Mithrin, but Dori must now meet his terms. You should speak to Dori.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01156",
+      "id": 246419798,
       "en": "King Thorin III can be found before his throne in the Hall under the Mountain.\\n\\nDori has begged King Thorin III to grant him leave to pursue his brother into the Ered Mithrin. You should now speak to King Thorin III.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Talk to Dori in Nori's home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Examine notes left behind by Nori in his home ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1181",
+      "id": 177082753,
       "en": "Dori looks around the empty home of his brother...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Talk to Dori in Nori's home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1184",
+      "id": 177082756,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1185",
+      "id": 177082757,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "Nori consulted",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1187",
+      "id": 177082759,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1188",
+      "id": 177082760,
       "en": "Thikil-gundu was lost, Nori thought, but it was not the way of dragons to abandon their hoards...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1189",
+      "id": 177082761,
       "en": "Thikil-gundu had once possessed great wealth, Nori thought, and now it sat unguarded and unclaimed...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Marks of a Conspiracy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Defeat deep-claws in the New-lodes of Narathâk ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,58 +2,49 @@
   "id": 620878681,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "This cave-claw looks hungry. You should collect berries for it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "The hungry cave-claw looks less hungry.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "The hungry cave-claw still looks hungry.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Berries",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Collect berries for the hungry cave-claw.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected berries ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Return to the hungry cave-claw",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "You should collect berries in the Treasure Field for the hungry cave-claw.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Collect berries ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

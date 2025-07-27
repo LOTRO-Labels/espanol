@@ -2,16 +2,14 @@
   "id": 620898763,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Target Lock-on Toggle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376782",
+      "id": 137848706,
       "en": "You have toggled on 'Target Lock-on Mode.' When this mode is active, your camera will always face towards the location of your currently selected target. Toggling this mode on and off can be done via a hotkey, which may be remapped under the Camera section of the Key Mapping options. The default toggle hotkey is the 'X' key.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

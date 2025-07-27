@@ -2,832 +2,694 @@
   "id": 620842477,
   "txt": [
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "Bróin is down the hill from Achardor and the rest of the Hidden Guard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "Achardor is up the hill from Bróin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'There is little time to explain, [placeholder], so I must be quick! After you gave the Laidhris to Mazog and the more I dwelled upon it, the more I came to regret that necessity. If only another dose could be made!\\n\\n'I spoke with the Elf Barvessain atop the great tower here in Ost Galadh, and she said that more unmarked venom sacs of the Saewethil might be found, with time, but that the Sereglos flower is so rare that finding another one would be impossible. The conditions for such a flower to grow are so specific that only if the growing season could be slowed might such a flower still be found.\\n\\n'I walked through the forest for many hours, heading north, and passed into lands beyond the reach of the Golden Host. I walked, and walked, and walked, and just as I was about to turn back in defeat, I beheld a grave mound among the tangled undergrowth. A stream flowed by its side, and now and then droplets of the water splashed atop the mound, where, bursting forth, grew a single flower, still in season.\\n\\n'With this second Sereglos flower, and another unmarked venom sac, another dose of the Laidhris might be made!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'It is over, [placeholder]. So many have died, and still Bori languishes within the dungeons of Dol Guldur. How can we hope to fight such evil?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Lord Celeborn believed some of the Nazgûl had come to Dol Guldur, but did not know for certain which of the Nine had done so. Now we do, though it is of little comfort to us.\\n\\n'The Lieutenant of Dol Guldur commands the others; he is second only to the Witch-king, he who hailed from Angmar in the north. The Lieutenant of the Tower rules the fortress; it is he who struck down Achardor.\\n\\n'The Gloom of Nurn was a wild-man of that land; it is peopled now only by slaves of Mordor. He wields a war-hammer in battle.\\n\\n'I know nothing of the Black Blade save that he hailed once from Lebennin. He is fully a thrall now, as are all the Nazgûl, though it was not always so.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71bd861",
+      "id": 119265377,
       "en": "'The dwarf is not coming back.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "Sigileth ignores you, her face a mask of anger and grief. You decide to leave her be.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71bd862",
+      "id": 119265378,
       "en": "'But it is not difficult to see!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'I was most wrong about the dwarf Bróin, [placeholder]. I have come to regret my words about him, and perhaps about all dwarves. To make such a seemingly futile journey in search of the one thing that might save someone he barely knows, someone not even of his own race...he showed a fortitude I had thought only Elves could possess. And he did it with much less complaining than I have done!\\n\\n'But look at him. His journey north into the far reaches of Mirkwood has taken a toll even on his stout form; he needs to rest. The guards at the gate ahead will see his exhaustion as weakness, and we cannot afford that.\\n\\n'Will you tell him to remain here in such a way as to spare his feelings? He has proven himself to me and to the others for the rest of time; he has no need to accompany us the rest of the way. He helped Issuriel, and now I wish to help him save his cousin and the rest of the dwarves.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71bd863",
+      "id": 119265379,
       "en": "'We came here for him, but only our friends have died or are dying!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'Thank you, [placeholder]. It feels good to have a reason beyond revenge for this errand of ours. I still burn with hatred for the Orcs, but now too I desire to rescue the dwarves, whereas before it was only a vague purpose. \\n\\n'We will do this now for Bróin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71bd864",
+      "id": 119265380,
       "en": "'No, Cúcheron! I will not be silent!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8dd801",
+      "id": 244176897,
       "en": "'Do not do this! Kolfrangíz!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'None of those dwarves is Bori, [placeholder]? I thought not. They have been cruelly mistreated and seem close to death. Where is Bori?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71bd865",
+      "id": 119265381,
       "en": "'But he is not wrong, Cúcheron! Where is Bróin?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8dd802",
+      "id": 244176898,
       "en": "'Set me free! I will trouble none of your kind!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085258",
+      "id": 218649176,
       "en": "'I do not like this, [placeholder]. We must make Gorothúl turn Bori over to us, in addition to these three dwarves, or we will have failed. What can we do?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71bd866",
+      "id": 119265382,
       "en": "'What is this?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085259",
+      "id": 218649177,
       "en": "'I am sorry, [placeholder]. Give me just a moment....'\\n\\nBróin leans on his walking-stick and tries to catch his breath.\\n\\n'I walked many miles to the north in search of the Sereglos flower, and though I have my father's hardiness...it was still a most taxing journey. That it ended in success, and that Issuriel will recover from the Gwigael poison, was enough to give me further strength, but....\\n\\n'One more moment, friend. I will have my breath back in a moment....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4029a21",
+      "id": 67279393,
       "en": "'The Golden Host cannot think to stand against these three. It is hopeless.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x781aa1",
+      "id": 7871137,
       "en": "Gorothúl's spell is broken!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec9afa1",
+      "id": 248098721,
       "en": "'He is here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec9afa2",
+      "id": 248098722,
       "en": "'And here it is!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec9afa3",
+      "id": 248098723,
       "en": "'You need to drink this, Issuriel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec9afa4",
+      "id": 248098724,
       "en": "'There.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced10",
+      "id": 171765008,
       "en": "The gate-keeper of the gates of Dol Guldur is considering the offer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced11",
+      "id": 171765009,
       "en": "The Hidden Guard stands ready at the gates of Dol Guldur, waiting for the return of the Gate-keeper.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced12",
+      "id": 171765010,
       "en": "The Gate-keeper has called you past the gate of Dol Guldur to discuss the exchange of Mazog for the dwarf-prisoners.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced13",
+      "id": 171765011,
       "en": "Gorothúl has emerged from the fortress to negotiate the exchange of Mazog for the dwarf-prisoners.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced14",
+      "id": 171765012,
       "en": "Achardor is concerned about the terms of the deal as presented by Gorothúl.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced15",
+      "id": 171765013,
       "en": "Achardor is trying to decide what can be done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced16",
+      "id": 171765014,
       "en": "Gorothúl has used his powers to freeze you in place, as he did before Zabadgathol.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced17",
+      "id": 171765015,
       "en": "The exchange has been a failure, and you must escape...if you can!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced18",
+      "id": 171765016,
       "en": "The Hidden Guard has fled from the gates of Dol Guldur to regroup at Ost Galadh, its errand a failure.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Wait for the Hidden Guard to decide what can be done",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Wait for Bróin to give Issuriel the dose of Laidhris",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef81",
+      "id": 85127041,
       "en": "'I should have known this rabble was yours, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef82",
+      "id": 85127042,
       "en": "'These three dwarves will go free, and I will accept custody of the Orc called Mazog.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Travel with the Hidden Guard to the gates of Dol Guldur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef83",
+      "id": 85127043,
       "en": "'The dwarf called Bori is not part of this deal. I have offered you the lives of these three.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Talk to Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef84",
+      "id": 85127044,
       "en": "'I am receiving one prisoner, and you are receiving three. You think this to be unfair?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef85",
+      "id": 85127045,
       "en": "'Consult with your associate, [placeholder], if you must.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Talk to Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef86",
+      "id": 85127046,
       "en": "'Perhaps you are right. Perhaps the deal was rather uneven.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef87",
+      "id": 85127047,
       "en": "'These two for Mazog, then? Very well. If you are certain.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef88",
+      "id": 85127048,
       "en": "'Come here, Orc.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x512ef89",
+      "id": 85127049,
       "en": "'My powers are vast, but I must confess something to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852590",
+      "id": 8725904,
       "en": "'I do not want the guards at the gate to think we are weak, [placeholder]. They would not think so if they knew the distance I travelled, and in so short a time!'\\n\\nBróin laughs.\\n\\n'I wonder if that will be the main verse of \\qThe Glorious Tale of Bróin the Mighty,\\q after all? It did not seem so glorious when I was hurrying through the dark, tripping over stones and treacherous roots, searching for a flower that might not even exist in the world any longer.\\n\\n'Maybe my part in all this is over, [placeholder]. I do not want to hurt the negotiations for Bori. I will remain here and guard the rear. I trust that Achardor and the others will be able to fulfill this mission.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852591",
+      "id": 8725905,
       "en": "'Well, here we are, [placeholder]. Now we will see if this errand was not as foolhardy as first it seemed.\\n\\n'I will have Cúmaeth at the ready, in case we find our first belief justified!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
+      "id": 8725906,
       "en": "'Your offer does not interest me, [placeholder]. What use do I, Gorothúl, have for a useless Orc such as Mazog? Lord of Caves? He is lord of nothing! The dwarves crawl all over his caves like worms on mouldy bread! Bolg would be ashamed of his son, and Azog would slay him for dishonouring his family line!\\n\\n'But it would humour me to hold Mazog in the dungeons of this fortress until the world's ending, so he may have time to think about how he failed his Master.\\n\\n'I will accept your offer.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71c35e1",
+      "id": 119289313,
       "en": "'Achardor gave his life that we might have time to escape. We must not forget him!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852593",
+      "id": 8725907,
       "en": "'What is the meaning of this, [placeholder]? While you were recalling the scouts on the perimeter of Dol Guldur, the dwarf Bróin vanished from Ost Galadh. He told no one where he was going...and right on the eve of the exchange of Mazog for his kin!\\n\\n'You had spoken for him, [placeholder]. You failed to speak of his cowardice! Do all dwarves abandon their companions when the road turns treacherous?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852594",
+      "id": 8725908,
       "en": "'Look! Already Issuriel's strength returns! The Laidhris is working to fight the Gwigael poison!\\n\\n'I...I do not know what to say. While I railed at unjust fate, the dwarf combed the forest for many miles to find a way to save Issuriel! It should have been me, [placeholder]....\\n\\n'I cannot believe I was beginning to listen to the words of Mazog! Now there are no delays. We will go to the gates and exchange Mazog for the prisoners and be done with him at last!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec641a1",
+      "id": 247873953,
       "en": "'Over here...[placeholder]....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852595",
+      "id": 8725909,
       "en": "'It is no use, [placeholder]. We have failed. Let us go now inside Ost Galadh, though there be little we can do now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec641a2",
+      "id": 247873954,
       "en": "'Oh my....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec641a3",
+      "id": 247873955,
       "en": "'Traitorous dog!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec641a4",
+      "id": 247873956,
       "en": "'Can your sorcery match a dwarf's might?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec641a5",
+      "id": 247873957,
       "en": "'Achardor, no!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc718f5",
+      "id": 13048053,
       "en": "The Gloom of Nurn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637b9b1",
+      "id": 104315313,
       "en": "'What is this? Who dares approach this fortress?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637b9b2",
+      "id": 104315314,
       "en": "'An offer? What are the terms of this offer?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637b9b3",
+      "id": 104315315,
       "en": "'All dealings come through me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637b9b4",
+      "id": 104315316,
       "en": "'I cannot speak to this....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637b9b5",
+      "id": 104315317,
       "en": "'Wait here. You will answer to these trolls if you try anything suspicious!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637b9b6",
+      "id": 104315318,
       "en": "'This way, you lot.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a01",
+      "id": 251943425,
       "en": "'Why should he hold his tongue?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a02",
+      "id": 251943426,
       "en": "'He speaks words of truth!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3053f01",
+      "id": 50675457,
       "en": "'I wonder at his reluctance to join his friends.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a03",
+      "id": 251943427,
       "en": "'My kind have nothing but hatred for the dwarves.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3053f02",
+      "id": 50675458,
       "en": "'The Gate-keeper returns!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a04",
+      "id": 251943428,
       "en": "'But for the Elves, there was something else.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3053f03",
+      "id": 50675459,
       "en": "'You must show mercy!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a05",
+      "id": 251943429,
       "en": "'There was fear.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a06",
+      "id": 251943430,
       "en": "'My father spoke of Elves proud and terrible, as foes to be feared!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a07",
+      "id": 251943431,
       "en": "'Where are they now?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a08",
+      "id": 251943432,
       "en": "'Where are they now?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf045a09",
+      "id": 251943433,
       "en": "'No.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38cb101",
+      "id": 59552001,
       "en": "'We do not know that, Achardor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38cb102",
+      "id": 59552002,
       "en": "'Achardor....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38cb103",
+      "id": 59552003,
       "en": "'That is not so, Mazog. Quell your speech, or it will be quelled for you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38cb104",
+      "id": 59552004,
       "en": "'Bróin!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: The Exchange",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa64fa35",
+      "id": 174389813,
       "en": "The Lieutenant of Dol Guldur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45a0b0",
+      "id": 4563120,
       "en": "'It was the whim of dwarves that brought you here, and they have abandoned you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45a0b1",
+      "id": 4563121,
       "en": "'Latu gadhumúrz bagu!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x441a3d1",
+      "id": 71410641,
       "en": "Suddenly, you hear the voice of Galadriel inside your head!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x441a3d2",
+      "id": 71410642,
       "en": "'Fly! You cannot stand against this foe!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4394215",
+      "id": 70861333,
       "en": "Mistreated Prisoner",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "It is time at last to make the exchange of Mazog for the dwarf-prisoners. Many fates may be decided by the outcome of this negotiation....",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd391501",
+      "id": 221844737,
       "en": "'They stand before you! Your words are empty, prisoner!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd391502",
+      "id": 221844738,
       "en": "'The dwarf returns!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c40",
+      "id": 84765760,
       "en": "Survive and escape, if you can",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c41",
+      "id": 84765761,
       "en": "Talk to Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c42",
+      "id": 84765762,
       "en": "Talk to Cúcheron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c43",
+      "id": 84765763,
       "en": "Talk to Sigileth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x745a630",
+      "id": 122005040,
       "en": "'I cannot move!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12ef810",
+      "id": 19855376,
       "en": "'I do not possess the authority to treat with you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x745a631",
+      "id": 122005041,
       "en": "'I can move again!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12ef811",
+      "id": 19855377,
       "en": "'I am not the Master of this fortress! I am merely a guest!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x745a632",
+      "id": 122005042,
       "en": "'I defy you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12ef812",
+      "id": 19855378,
       "en": "'No, these are the Masters, and I did not consult them before making this deal.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x745a633",
+      "id": 122005043,
       "en": "'I defy you and your fell master!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12ef813",
+      "id": 19855379,
       "en": "'Therefore it must be rescinded. Archers!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd569b01",
+      "id": 223779585,
       "en": "'You are passing that gate, Mazog, willingly or unwillingly.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd569b02",
+      "id": 223779586,
       "en": "'They are not for your ears, Gate-keeper!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd569b03",
+      "id": 223779587,
       "en": "'Bróin! [placeholder]! Cúcheron! Now!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c50",
+      "id": 84765776,
       "en": "Follow the Hidden Guard to the Gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c51",
+      "id": 84765777,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c52",
+      "id": 84765778,
       "en": "Stand by the Hidden Guard as the Gate-keeper considers the offer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c53",
+      "id": 84765779,
       "en": "Talk to Cúcheron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c54",
+      "id": 84765780,
       "en": "Follow the Hidden Guard beyond the gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a61",
+      "id": 125065825,
       "en": "'Can I speak with you, [placeholder]?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a62",
+      "id": 125065826,
       "en": "'I do not. I think Mazog may find he has few friends beyond those walls.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c55",
+      "id": 84765781,
       "en": "Talk to Gorothúl",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a63",
+      "id": 125065827,
       "en": "'And I think he knows it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c56",
+      "id": 84765782,
       "en": "Listen to the negotiations",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a64",
+      "id": 125065828,
       "en": "'It is time to go.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c57",
+      "id": 84765783,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a65",
+      "id": 125065829,
       "en": "'Only those with the courage to do so and an offer to make.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c58",
+      "id": 84765784,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a66",
+      "id": 125065830,
       "en": "'Sigileth, it is fine.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c59",
+      "id": 84765785,
       "en": "Continue the negotiations",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a67",
+      "id": 125065831,
       "en": "'We come bearing the Orc Mazog, trespasser upon the kingdom of the dwarves.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a68",
+      "id": 125065832,
       "en": "'We seek to trade his life for the lives of the dwarves imprisoned within Dol Guldur.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7745a69",
+      "id": 125065833,
       "en": "'These terms are not acceptable, Gorothúl. Where is the dwarf Bori?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Elves of the Hidden Guard have a decision to make: to wait for Bróin to return or to bring Mazog to the gates of Dol Guldur without him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Elves of the Hidden Guard deal with frustration and the wicked words of Mazog as they decide what is to be done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Bróin has returned, but for what purpose did he leave Gadorgar without warning?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Achardor is waiting to speak with you about the upcoming exchange of Mazog for the dwarf-prisoners.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "The Hidden Guard has come to the gates of Dol Guldur with the prisoner Mazog in tow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Bróin is leaning on a walking-stick, waiting to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "Achardor has asked to speak with you before you proceed to the gate.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,508 +2,424 @@
   "id": 620757445,
   "txt": [
     {
-      "id": "0x7109414",
+      "id": 118526996,
       "en": "Homestead",
-      "es": "Caserío",
-      "es (fem)": ""
+      "es": "Caserío"
     },
     {
-      "id": "0xa42514b",
+      "id": 172118347,
       "en": "Knock",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8e1074",
+      "id": 244191348,
       "en": "Harlond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30018fe",
+      "id": 50338046,
       "en": "Linglen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4ab14b",
+      "id": 172667211,
       "en": "Stock",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x324d518",
+      "id": 52745496,
       "en": "Tuckborough",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7fb7075",
+      "id": 133918837,
       "en": "Just a House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe020f34",
+      "id": 235015988,
       "en": "Budgeford",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x388d364",
+      "id": 59298660,
       "en": "Archet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda3a625",
+      "id": 228828709,
       "en": "Cope",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x87ee32c",
+      "id": 142533420,
       "en": "Rivendell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x607e1be",
+      "id": 101179838,
       "en": "Gondamon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x27d5d33",
+      "id": 41770291,
       "en": "Brockenborings",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe12fb5e",
+      "id": 236125022,
       "en": "Waterdown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda398f5",
+      "id": 228825333,
       "en": "Bree",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4149514",
+      "id": 68457748,
       "en": "North Orod Cerin Outpost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8553228",
+      "id": 139801128,
       "en": "Mam Arokh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa491086",
+      "id": 172560518,
       "en": "Standelf",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa37165",
+      "id": 178483557,
       "en": "Staddle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86728f7",
+      "id": 140978423,
       "en": "Ban Creag",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c946d9",
+      "id": 80299737,
       "en": "Newbury",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa499c49",
+      "id": 172596297,
       "en": "Scary",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x498d862",
+      "id": 77125730,
       "en": "Sarnur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae7893e",
+      "id": 182946110,
       "en": "Esteldín",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x31804b3",
+      "id": 51905715,
       "en": "White Towers Estates",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa389617",
+      "id": 171480599,
       "en": "Arlew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x21ddb4c",
+      "id": 35511116,
       "en": "Nor Facill",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x308e5e8",
+      "id": 50914792,
       "en": "Limmidh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaec973c",
+      "id": 183277372,
       "en": "Thingal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c6aaae",
+      "id": 96905902,
       "en": "Hobbiton",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61d167c",
+      "id": 102569596,
       "en": "Thorin's Hall",
-      "es": "Mansión de Thorin",
-      "es (fem)": ""
+      "es": "Mansión de Thorin"
     },
     {
-      "id": "0x7432a5",
+      "id": 7615141,
       "en": "Timbroke",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61744cc",
+      "id": 102188236,
       "en": "Woodhall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6e1074",
+      "id": 225316980,
       "en": "Forlond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x20f07fd",
+      "id": 34539517,
       "en": "Nangendraim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8bc5e0b",
+      "id": 146562571,
       "en": "Red Bank",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb654198",
+      "id": 191185304,
       "en": "Dol Rudh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb20dad8",
+      "id": 186702552,
       "en": "Shar Dunakh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc824b5",
+      "id": 13116597,
       "en": "Hollow Home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd32914",
+      "id": 198387988,
       "en": "Twaflod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa0950f2",
+      "id": 168382706,
       "en": "Bywater",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3be62c2",
+      "id": 62808770,
       "en": "Medebar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3a6755",
+      "id": 171599701,
       "en": "Combe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe27430e",
+      "id": 237454094,
       "en": "Forsaken Inn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc6c87a5",
+      "id": 208439205,
       "en": "Farbottle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x46917dc",
+      "id": 73996252,
       "en": "Orodal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x487afde",
+      "id": 76001246,
       "en": "Raglan",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x328d5d",
+      "id": 3312989,
       "en": "Longbottom",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3b0053",
+      "id": 171638867,
       "en": "Dinas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6468ac5",
+      "id": 105286341,
       "en": "Long Cleeve",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82ac0d",
+      "id": 8563725,
       "en": "Mount Gram",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12d9b2",
+      "id": 1235378,
       "en": "Vinyafor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x490b028",
+      "id": 76591144,
       "en": "Brandarth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c3e3dd",
+      "id": 63169501,
       "en": "Eltham",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73553e5",
+      "id": 120935397,
       "en": "Hardbottle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f5df5e",
+      "id": 66445150,
       "en": "Hoblin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8276812",
+      "id": 136800274,
       "en": "Gaoth Dur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x179dcd3",
+      "id": 24763603,
       "en": "Annuminas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4a8c638",
+      "id": 78169656,
       "en": "Tarech",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7d0a5c",
+      "id": 8194652,
       "en": "Silithil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0abf18",
+      "id": 185253656,
       "en": "Aeglirath",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7fe0542",
+      "id": 134088002,
       "en": "Gellambar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8650a1e",
+      "id": 140839454,
       "en": "Talathen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74dcaf4",
+      "id": 122538740,
       "en": "Brethillad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc854c4c",
+      "id": 210062412,
       "en": "Overhill",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc79f1e4",
+      "id": 209318372,
       "en": "Celonlad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef6cc55",
+      "id": 251055189,
       "en": "Sackville",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a5444e",
+      "id": 27608142,
       "en": "Frogmorton",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x774583e",
+      "id": 125065278,
       "en": "Falthanen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf38b94",
+      "id": 15960980,
       "en": "Cirith Brand",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e782f4",
+      "id": 65503988,
       "en": "Haffod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9275182",
+      "id": 153571714,
       "en": "Grothmor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8005a8",
+      "id": 226493864,
       "en": "Gamwich",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5bcacce",
+      "id": 96251086,
       "en": "Nuinorn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44814",
+      "id": 228870164,
       "en": "Nant",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x95efe07",
+      "id": 157220359,
       "en": "Michel Delving",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98df18d",
+      "id": 160297357,
       "en": "Carn Dum",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6797ac4",
+      "id": 108624580,
       "en": "North-east Mithlond Outpost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda3b6c5",
+      "id": 228832965,
       "en": "Dore",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x95a5d3e",
+      "id": 156917054,
       "en": "Fornost Erain",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd880779",
+      "id": 227018617,
       "en": "Bucklebury",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe49204",
+      "id": 14979588,
       "en": "Mithlond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe944274",
+      "id": 244597364,
       "en": "Haysend",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x19cd674",
+      "id": 27055732,
       "en": "West Mithlond Outpost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

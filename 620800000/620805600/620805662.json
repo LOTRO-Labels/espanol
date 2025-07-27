@@ -2,40 +2,34 @@
   "id": 620805662,
   "txt": [
     {
-      "id": "0xfd8883b",
+      "id": 265848891,
       "en": "Spot Count: [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x35bb444",
+      "id": 56341572,
       "en": "Your proficiency in [placeholder] has been set to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x80fd104",
+      "id": 135254276,
       "en": "Your proficiency in [placeholder] has increased to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd82b92b",
+      "id": 226670891,
       "en": "Attempt Complete: bSuccess: [placeholder], nSpotCount: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb95ba5",
+      "id": 213474213,
       "en": "You have failed to spy a new bird.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcad5be5",
+      "id": 212687845,
       "en": "You have failed to catch anything.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

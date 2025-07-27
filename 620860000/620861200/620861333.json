@@ -2,22 +2,19 @@
   "id": 620861333,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Inventory Overflow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376781",
+      "id": 137848705,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376782",
+      "id": 137848706,
       "en": "Your backpack is overflowing! Most items cannot be obtained if your inventory is full, but certain, special items will enter the Overflow and will remain there until you clear up space for them in your inventory. Though they will remain in the Overflow indefinitely until you make room for them, they cannot be used until they enter your actual inventory.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

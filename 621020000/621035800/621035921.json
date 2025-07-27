@@ -2,100 +2,84 @@
   "id": 621035921,
   "txt": [
     {
-      "id": "0x6a502a8",
+      "id": 111477416,
       "en": "Talk to Aighrig",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a7",
+      "id": 162883751,
       "en": "'It may not be possible to stop the corruption of the bats living on Grytholm, but I cannot stand by and watch the Angmarim and Orcs do as they please. At the very least, we can put a dent in their efforts together.\\n\\n'The Angmarim call the bat-cave Tithzagáf. When I spied upon them, I noticed the Angmarim keeping infant bats in baskets. We should rescue the bats and defeat as many bat-keepers as we can.'\\n\\n<rgb=#FF0000>NOTE: When you continue this quest, you will swiftly travel to the island of Grytholm.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50250",
+      "id": 111477328,
       "en": "Use the whistle to summon Aighrig to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Defeat bat-keepers at Tithzagáf ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b6",
+      "id": 246419894,
       "en": "You should discuss plans with Aighrig.\\n\\nShe stands before the stairs to Annâk-khurfu.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00ed7",
+      "id": 49286871,
       "en": "Deliver the infant bats to Aighrig",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1172",
+      "id": 177082738,
       "en": "Defeated bat-keepers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "Rescue infant bats ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b9",
+      "id": 246419897,
       "en": "The cave Tithzagáf is located on the island of Grytholm, to the north-west of Annâk-khurfu.\\n\\nYou should defeat the bat-keepers there, as well as rescue infant bats from their influence.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1174",
+      "id": 177082740,
       "en": "Rescued infant bats ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "The island of Grytholm is deeply entrenched within enemy territory, but Aighrig may have a plan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Use the whistle to summon Aighrig to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56856",
+      "id": 162883670,
       "en": "'Lúkhag will be pleased to have new friends.\\n\\n'We will not raise them as the Angmarim -- and my father -- would have. Instead, we will teach them how to fend for themselves before releasing them. I cannot promise the bats will remain free afterwards, but better to have a chance than none at all.\\n\\n'I shall return to Annâk-khurfu with the bats. Thank you for standing by my side, [placeholder]; I will not forget it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01149",
+      "id": 246419785,
       "en": "You and Aighrig have rescued several infant bats from the Angmarim.\\n\\nYou should give the bats to Aighrig.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'It comforts me to know the truth behind Gáfin's death. Now that his efforts will not be in vain, he may finally rest. However... with our current resources, we cannot hope to drive the Angmarim out of Grytholm.\\n\\n'This situation is beyond me, but Aighrig knows better. I trust the both of you enough to know you can discuss these matters without my input.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Striking Grytholm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

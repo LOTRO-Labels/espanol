@@ -2,106 +2,89 @@
   "id": 620925396,
   "txt": [
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "<rgb=#FF0000>A darkwater has entered the water-mill</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Defeat the Orc defilers at the mill pond ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b2",
+      "id": 177082802,
       "en": "A defiler has been defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Orc Defilers have begun calling forth the turbulent spirits of those unfortunate enough to have perished within the Deep at battles long past. If they are allowed to continue their summons, the Rohirrim in the water mill may find themselves besieged by a rather unexpected adversary.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Full</rgb> Merit Rating\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n* Summoned darkwater spirit escapes the pond\\n* Darkwater spirit enters the water-mill\\n\\n<rgb=#00FF00>Minor Merit Gain:</rgb>\\n* Darkwater escaped from the pond is defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Do not allow darkwater spirits to enter the mill ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "A darkwater spirit has corrupted the mill ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "[placeholder] Darkwaters Escaped from the Pool",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "[placeholder] Darkwaters Entered the Water-mill",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "[placeholder] Escaped Darkwaters Defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e114",
+      "id": 262725908,
       "en": "<rgb=#FF0000>A darkwater has escaped the waters of the pond</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "White Hand defilers have gathered around the pond in the Deeping Coomb and are attempting to call forth disturbed spirits to assail the Rohirrim. Defeating the defilers will end the foul ritual, but the spirits will need to be dealt with once they have been called forth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "An Orc defiler has been defeated ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "A darkwater spirit has corrupted the mill ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat the Orc defilers at the pond ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "Escaped darkwater defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Do not allow darkwater spirits to enter the mill ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Defilers in the Water",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,76 +2,64 @@
   "id": 620922721,
   "txt": [
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "The enemy has brought totems of destruction to Helm's Deep. They must be stopped before they are able to cause destruction to all upon the wall.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "You have destroyed the enemy catapult",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "[placeholder] Totems Pulsed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e114",
+      "id": 262725908,
       "en": "<rgb=#FF0000>The wall has been hit by the enemy catapult</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Orcs are trying to plant banners upon the Deeping wall to help guide their catapults in hitting their target. The Orcs must be dealt with and their banners should be torn down to avoid further hits from siege weapons upon the wall.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "White-hand totem destroyed ([placeholder]/18)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "You have allowed the wall to be overwhelmed with totem spew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Destroy White-hand Totems or Defilers carrying totems ([placeholder]/18)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "A powerful White Hand defiler, Dagrí, has ordered his followers to place vile totems atop the wall. These totems are meant to bring destruction and cause widespread damage to the defenders still standing on the wall. \\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Full</rgb> Merit Rating.\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n- White-hand Totem planted on the wall\\n\\n<rgb=#FF0000>Moderate Merit Loss:</rgb>\\n- White-hand Totem spews its foul energy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Do not allow the totems to finish spewing their vileness ([placeholder]/2)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Vanguard Defilers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Destroy the enemy catapult",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

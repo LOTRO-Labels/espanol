@@ -2,100 +2,84 @@
   "id": 620846313,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "This gate is heavily guarded",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "This gate is only lightly guarded",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x19280a7",
+      "id": 26378407,
       "en": "'Did you hear something?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Elves of the Golden Host seek a way to cripple the Orcs of Durbúrz-stazg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a280a7",
+      "id": 27426983,
       "en": "'Garn...may be one of those bloody-handed Elves or their friends. No matter...doubt they'd try our gates again. Most of them have moved on.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Hail, [placeholder]! Falasgon was right to send you to me. The Orcs of Dol Guldur mustering in the Mirk-eaves were well nigh destroyed, but a few survived and have holed up in the ruins of their encampments, attempting to regroup against us.\\n\\n'One such encampment is Durbúrz-stazg, which lies just to the north of Echad Sirion. While the encampment was severely damaged in our first assault, it may still only be entered through two gateways.\\n\\n'Go north and find the gateways into Durbúrz-stazg and determine which one is the least heavily guarded; it is upon that gate that we shall lean our assault.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Durbúrz-stazg lies to the north of Echad Sirion.\\n\\nAemeldir has asked you to scout the gates of Durbúrz-stazg to determine which is the least guarded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You met resistance at both gates? Tell me more.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Aemeldir is at Echad Sirion, south of Durbúrz-stazg.\\n\\nYou should return to Aemeldir with the results of your patrol.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Scout the gates of Durbúrz-stazg; we must determine the best way into the camp.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Scout the southern gate of Durbúrz-stazg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Scout the eastern gate of Durbúrz-stazg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Aemeldir at Echad Sirion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "<rgb=#FF0000>look</rgb> at the eastern gate to determine its strength",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Lay of the Land",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Aemeldir at Echad Sirion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

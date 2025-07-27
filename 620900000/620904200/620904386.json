@@ -2,64 +2,54 @@
   "id": 620904386,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'While you were dealing with Sigeric, I took the opportunity to speak to some of the crofters. They alerted me to some rather grim news. Apparently, there is a vicious disease running rampant through the crops on some of the nearby crofts.\\n\\n'They cannot be certain what crops have been affected, but many may already be inside the city waiting to be consumed. To make matters worse, Fastred will not believe these claims and denies that there is any cause for alarm.\\n\\n'This is foolish, [placeholder]. I want you to inspect the stockpiles of crops throughout Snowbourn. The crofters said a darkened dust will be present on the tainted crops. If you find any of these crops, destroy them: we cannot risk another problem plaguing the Sutcrofts... not now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'It worries me greatly that so much was affected by the disease. I hope the people of this city do not soon find themselves in the same position as we did in Garsfeld. I am glad that you were able to yet again protect the people of the Sutcrofts.\\n\\n'Fastred must come to his senses... his people are in danger from a great many sources.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Tainted Crop",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Gísling is concerned that the people of Snowbourn may soon be the victim of a disease spreading through the nearby crofts. The crofters informed him that there may be tainted food supplies about town, but Fastred will not acknowledge the truth of the situation.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Destroyed tainted food-crates within Snowbourn ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "This crate's contents appear completely untouched",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Destroy tainted food-crates within Snowbourn ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Crates of food can be found scattered about Snowbourn.\\n\\nGísling wants you to investigate crates of food in Snowbourn for any sign of a rampant crop-disease.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Gísling",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Gísling can be found in northern Snowbourn.\\n\\nYou should return to Gísling and let him know that you have done as he asked.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

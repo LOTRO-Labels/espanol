@@ -2,22 +2,19 @@
   "id": 620908332,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Knocked Down",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have been hit by a Knock Down effect.  While under this effect your mounts turn rate is reduced by 60%.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Reduces mounted turning rate by [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,82 +2,69 @@
   "id": 620811240,
   "txt": [
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You've acquired your first advanceable item.  This quest will guide you through the process of taking care of your item.  It covers Identification, Equipping, Leveling, and Reforging.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "All your weapons are crap, now.  Time to start all over again!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Create eq_ia_test.wc and use npc_test_bestower.wc to identify it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Now that you've identified your first advanceable item, you should try it out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Your advanceable items like to grind levels, just like you, but they can't just run out and kill things on their own, so you have to help them.  Help your new sidekick out by getting him his first level.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Now that you've leveled your item once, go ahead and keep leveling it until it's time to reforge.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "A necessary step in the progression of your advanceable item is to reforge it at certain intervals.  Matt did this just to annoy people, there's no real purpose.  Okay, I lied...this unlocks new ways to improve your weapon and allows it to continue to advance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Identify an advanceable item.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Equip the item you identified.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Advance your item one level.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Level your advanceable item until it needs to be reforged.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Item Advancement Test 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Reforge your advanceable item.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

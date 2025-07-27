@@ -2,244 +2,204 @@
   "id": 621040114,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Eskil's Escape",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08eda4",
+      "id": 235466148,
       "en": "Remain on guard for more reinforcements",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to Trausti in Vatug-ronk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e59",
+      "id": 127884889,
       "en": "Trausti has been defeated!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Eskil beside the cage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb13aaa1",
+      "id": 185838241,
       "en": "'Trausti! [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'It's quiet here, [placeholder], except for the sound of the wood creaking and the groaning of the support beams above, overtaxed by their heavy loads.\\n\\n'Where are the guards? Where are Eskil's captors?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2533e0",
+      "id": 170210272,
       "en": "'This axe is simply not as good as the one I lost, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2533e1",
+      "id": 170210273,
       "en": "'I hope we find it soon. And Eskil too, of course.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'If you are here to slay Orcs, you have come too late! Ever since that cursed dragon arrived, raiding parties of hobgoblins have come through from time to time, but this last one was even worse than usual. It was all we could do to fight them off, and we paid for it!\\n\\n'Garn! We sent for reinforcements from Gorgar, but they have still not arrived! We should have killed that goblin of his when we had the chance, and paid the consequence! But he is gone, and my boys all slain.\\n\\n'The dwarf-prisoner? Glúrkub wouldn't let us eat him. Should have slain him anyway, and the goblin too. So what if Glúrkub had orders to keep him alive? He's still locked up, I expect. I don't think the hobgoblins were looking for him; they found me and the boys instead, and did us in. This injury could well be my last....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2533e2",
+      "id": 170210274,
       "en": "'Here they come, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'I will break the lock on Eskil's cell and release him. I do not think we will have much time before Gorgar's reinforcements get here, [placeholder]. Remain on guard!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2533e3",
+      "id": 170210275,
       "en": "'That seems to be all of them... and no sign of my missing axe!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Well, I am glad we rescued Eskil. But if we are to find my axe we will need to track down this Glúrkub, it seems. Fear not, Lofrík! He will not keep it for long!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2533e4",
+      "id": 170210276,
       "en": "'How fares Eskil?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'Thank you for rescuing me, [placeholder]! I knew I should not have come to Deepscrave... but what choice did I have?\\n\\n'My jailor was a goblin. Glúrkub he was called, I think, and the Orcs were afraid of him; it seemed to me that he must be high up in Gorgar's counsels. He forbade them from harming me. The last I saw of Glúrkub, he had Trausti's axe in his hand, but where he is now I do not know. After the hobgoblins attacked there was no more sign of him.\\n\\n'Thank you both for coming to save me! I know I do not deserve it... I am no warrior, and can be of little help to the Gabil'akkâ!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Trausti has vowed to rescue Eskil Bloodthumb from imprisonment in the depths of Vatug-ronk... and to find his stolen axe as well, if such a thing might be arranged.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "Trausti has come with you to search Vatug-ronk for Eskil Bloodthumb and his stolen axe.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'I think our fortune may hold true, [placeholder], for it sounds to me that Eskil may still be alive. I cannot imagine why this goblin Glúrkub might have had orders to keep him alive, but I will not trouble about it for now. It is enough that Eskil may yet live!\\n\\n'Follow me, friend. We will find him somewhere in Vatug-ronk. Perhaps these Orcs are too weary from battle with their supposed hobgoblin allies to stand against us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Something passed through the encampment of Vatug-ronk and slew the Orcs within. Those who remain are too weary or injured to offer much resistance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "You and Trausti have discovered where Eskil Bloodthumb is held captive within Vatug-ronk.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Talk to Trausti outside Vatug-ronk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Trausti wants to search Vatug-ronk for Eskil Bloodthumb.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ae2",
+      "id": 69036770,
       "en": "Fight alongside Trausti in Vatug-ronk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "You have defeated the reinforcements Gorgar sent to Vatug-ronk to deal with the hobgoblins. You should speak with Eskil to ensure he is safe and will recover from his ordeal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Talk to the weary Orc by the camp-fire and learn what befell the camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Talk to Trausti by the camp-fire",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ae8",
+      "id": 69036776,
       "en": "Fight alongside Trausti in Vatug-ronk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25331",
+      "id": 178410289,
       "en": "'This is most peculiar, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25332",
+      "id": 178410290,
       "en": "'Aha! There's someone to greet us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25333",
+      "id": 178410291,
       "en": "'That was a poor showing. What happened to these Orcs?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25334",
+      "id": 178410292,
       "en": "'You there! What happened here?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25335",
+      "id": 178410293,
       "en": "'Bah! I forgot to ask him about my axe!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25336",
+      "id": 178410294,
       "en": "'Have you seen my axe, villain?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25337",
+      "id": 178410295,
       "en": "'It has sentimental and monetary value!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25338",
+      "id": 178410296,
       "en": "'I do not think they have seen it, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6af1",
+      "id": 69036785,
       "en": "Defend Eskil Bloodthumb and Trausti from Gorgar's reinforcements",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa25339",
+      "id": 178410297,
       "en": "'There he is!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7dca3d1",
+      "id": 131900369,
       "en": "'But I am not so injured I cannot slay you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e53",
+      "id": 127884883,
       "en": "Trausti has been defeated!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,64 +2,54 @@
   "id": 620843760,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Within the depths of Sarnúr, a large company of cowardly Dourhands have fled and established a camp. Among them, a particularly foul brigand by the name of Glúmir has been attempting to gather relics of the ancient days. \\n\\n'If you travel to Sarnúr, would you seek out Glúmir, defeat him, and gather any rune-shards that he might possess?\\n\\n'Sarnúr can be found south of Thorin's Hall, deep beyond the ruins of Orodost, which is located on the western mountains of Ered Luin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Your deeds this day will be told to all who live within Thorin's Hall. \\n\\n'I will begin to study these rune-shards to determine the reason that Glúmir was gathering them. \\n\\n'If you are to travel again to Sarnúr, please come and find me, as I may ask you to recover more of these shards.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Collect the rune-shards for me, [placeholder]...I will reward you as best I may.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Retrieve Rune-shards",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "It is rumoured that there are many relics of the ancient days remaining in Sarnúr, which the Dourhands seek to recover.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Recovered a rune-shard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat Glúmir and recover the rune-shards",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Glúmir can be found in Sarnúr, south of Thorin's Hall, reached through the ruins of Orodost.\\n\\nRútur has asked you to find the Dourhand Glúmir, defeat him, and recover any rune-shards you may find.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Rútur in Thorin's Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Rútur is in Thorin's Hall, north of Sarnúr, just outside the Blue Stone Garrison.\\n\\nYou should bring the rune-shard to Rútur and tell him of Glúmir's defeat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

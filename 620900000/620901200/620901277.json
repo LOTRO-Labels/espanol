@@ -2,94 +2,79 @@
   "id": 620901277,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Defeated Orcs at the Sutcrofts barricade ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Defeated an Orc-leader at the Sutcrofts barricade ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Hestil asked Cúfaron to find another route through the East Wall that will improve their chances of survival.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Now that these lands are full of Orcs and other dangers, Hestil has asked me to find another route through the East Wall. We had planned to keep going north, but that does not seem as safe as it would have been if this land were empty. Instead, it is crawling with Orcs, and those unnatural swert-hounds are not to be trifled with either. Of course, you know that: you fought some of them too.\\n\\n'There may be another way through this land, [placeholder]. There is a canyon to the west that leads into an area of the Kingdom of Rohan known as the Sutcrofts. From a distance I saw the Orcs working to barricade that pass. I will go there with you, taking you by secret paths that I alone, as a hunter, can find!\\n\\n'Then you will defeat some of the Orcs at the barricade. That way, if we remain unable to progress north, at least we will have another option available to us. Hestil is sure to be pleased with that possibility, even if it means going into Rohan. Better the horsemen than more Orcs!'\\n\\n<rgb=#FF0000>You will automatically travel to the Sutcrofts Barricade in the East Wall when you accept this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The pass to the Sutcrofts is located south-west of Parth Galen and has been barricaded by the Orcs.\\n\\nYou need to defeat the Orcs to allow Hestil's company to pass.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You have returned from the pass into the Sutcrofts? I am glad you ran into little trouble there...only a few Orcs is all, correct?'\\n\\nCúfaron looks uncomfortable.\\n\\n'While you were gone, I spoke with Hestil, and it appears that she does not want to explore the west option at all. It seems that she is willing to risk the northward journey and does not want to go into Rohan at all. She says the horsemen do not treat outsiders very kindly.\\n\\n'I am sorry you went to the barricade for naught. I am all ready to rescue Drafli, if everybody else is ready.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Cúfaron is waiting to speak with you.\\n\\nYou have defeated Orcs at the barricade into the Sutcrofts and should return to tell Cúfaron.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Go to the pass into the Sutcrofts and defeat the Orcs at the barricade there. We need to keep that pass open to us in case we are not able to proceed north as Hestil had planned.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Well done, [placeholder]! Now, if we must, my band can travel west into the Sutcrofts. I know Hestil does not wish to, but there may be no other way. The huge gathering of Orcs in the East Wall may require us to deal with the horsemen of Rohan instead.\\n\\n'I will bring us back to Hestil's camp with my secret hunter knowledge of the best paths and trails to take throughout this land. I think I may remember the way... if you keep your eyes open and help me look for our footprints....'\\n\\n<rgb=#FF0000>You will automatically travel to Parth Galen in the East Wall when you complete this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'See? I have brought you here by hidden paths! I am a hunter of great skill and know how to move quickly through the wilderness.\\n\\n'The barricade is just over there, [placeholder]. Defeat the Orcs that guard it, then return here to me when you are done.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat Orcs at the Sutcrofts barricade ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Defeat an Orc-leader at the Sutcrofts barricade ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Return to Cúfaron and tell him of your success",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "You have spoken with Cúfaron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The West Option",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

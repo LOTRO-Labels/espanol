@@ -2,100 +2,84 @@
   "id": 620843247,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Scouted Drûmaudhul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Scouted Bidroi Maudhul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Scouted Prakûth-fulug",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Orcs of Moria have poured out into Fanuidhol, mustering for an assault upon the Golden Wood.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "Scouted Nardur-stazg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Bahanneth sent you, [placeholder]? He is correct...if we are to fully prepare for the war ahead, we must know what numbers are arrayed against us. I have a task for you, if you wish to aid us.\\n\\n'Journey north and west into Fanuidhol and scout the four northernmost encampments. There is a lumber camp called Drûmaudhul which lies west and a little to the north of here. Bidroi Maudhul can be found to the north of Drûmaudhul, as can Prakûth-fulug. Nardur-stazg lies to the north-west of Bidroi Maudhul and is one of the strongest encampments in Fanuidhol.\\n\\n'Scout each of the encampments, then return to me. I will reward you as I may, but expect a greater reward from Bahanneth.'\\n\\n<rgb=#FF0000>Note: While Fanuidhol Defence is active, Raingon will not be available for quest completion or comments. You will have to wait for Fanuidhol Defence to end to complete this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Drûmaudhul, Prakûth-fulug, Bidroi Maudhul, and Nardur-stazg all lie to the north-west of Talan Gwilith.\\n\\nRaingon has asked you to scout four Orc-encampments in Fanuidhol to determine their strength: Drûmaudhul. Prakûth-fulug, Bidroi Maudhul, and Nardur-stazg.\\n\\n<rgb=#FF0000>Note: While Fanuidhol Defence is active, Raingon will not be available for quest completion or comments. You will have to wait for Fanuidhol Defence to end to complete this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You have completed your patrol? Ah! Drûmaudhul is a strong encampment and supplies the Orcs with wood for their siege-engines, and Nardur-stazg is their chief encampment.\\n\\n'You should return to Bahanneth at once with this news.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Raingon is at Talan Gwilith, south-east of Fanuidhol.\\n\\nYou should return to Raingon with your report.\\n\\n<rgb=#FF0000>Note: While Fanuidhol Defence is active, Raingon will not be available for quest completion or comments. You will have to wait for Fanuidhol Defence to end to complete this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'What have you found thus far? That is not much...I need you to scout all four encampments: Drûmaudhul, Bidroi Maudhul, Prakûth-fulug, and Nardur-stazg.'\\n\\n<rgb=#FF0000>Note: While Fanuidhol Defence is active, Raingon will not be available for quest completion or comments. You will have to wait for Fanuidhol Defence to end to complete this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Scout Drûmaudhul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Scout Bidroi Maudhul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Scout Prakûth-fulug",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Scout Nardur-stazg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Determining Their Strength -- Northern Camps",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Raingon at Talan Gwilith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

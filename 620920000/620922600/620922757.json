@@ -2,130 +2,109 @@
   "id": 620922757,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Fortifications can be found around the gate at Helm's Dike.\\n\\nYou should examine the various fortifications of the Rohirrim.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Tell Gimli your observations of the fortifications at Helm's Gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "<rgb=#FF0000>(This quest must be finished before Théoden's company departs)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Well? What do you think, [placeholder]?'\\n\\nYou quietly relay your observations to Gimli.\\n\\n'I could not have said it better myself. There is good, strong rock here, but it is not enough. I fear for these men, doughty though they are.\\n\\n'Tonight I expect to make a great stand at the Hornburg, and if it is my last battle, I will take many an Uruk with me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Gimli stands at Helm's Gate in the southern Westfold.\\n\\nYou should speak with Gimli.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e115",
+      "id": 262725909,
       "en": "This fortification is strong, but it will not keep out a great host of fierce Uruk-hai ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Gimli is interested in the stability of the fortifications at Helm's Gate, and wishes to hear your opinion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e117",
+      "id": 262725911,
       "en": "The gate is well-kept and hardy, but could easily be crushed by enemy siege-craft",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Examine fortifications at Helm's Gate ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'It is good to see you again, [placeholder]! I know that you have acquired some expertise in your travels. Tell me: what do you think of these fortifications?\\n\\n'The Rohirrim claim that none can break the wall, and the Hornburg will be the safest place in all of Rohan. I have my own thoughts on the matter.\\n\\n'Will you have a look around and tell me what you think?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "Examine the gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Helm's Gate: Dwarf-expertise",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

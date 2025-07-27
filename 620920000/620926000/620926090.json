@@ -2,166 +2,139 @@
   "id": 620926090,
   "txt": [
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "This man has wounds from many weapons. He must have fought valiantly to his death",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "An injured Rohirrim appears to have hidden himself near the old palisade.\\n\\nYou should speak with the injured Rohirrim and learn what happened at this place.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Survivor at Flodgeheld",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "You found a pack with healing supplies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Talk to the injured Rohirrim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "TBD - message about the Rohirrim's death",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Find Flodgeheld",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'I have been able to further study the map you found. I determined that one of these markings represents an old fortification called Flodgeheld, which lies to the south-west of here along the Swiftwater River. We have not heard from the men who guard it for some time, and they are likely in trouble, have abandoned it, or are dead.\\n\\n'Please follow the river south-west and find out what state Flodgeheld is in, and if there are any survivors.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Look for survivors at Flodgeheld ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "You helped wrap the wounds, but he will need more time to heal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "This slain Rohirrim has nothing of use left upon him",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'You have my thanks, kind [placeholder]. My strength was fading quickly, and I am not sure how much longer I would have remained conscious. Once I am well enough, I will attempt to make my way to Woodhurst, but it will take time for these wounds to heal.\\n\\n'In the meantime, I could use your aid in other matters, if you wish to give it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "One of the two slain Rohirrim you found earlier should have supplies that would aid Wilberth, the injured man you found.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "Herefara has found that the map contains markings for an old fortification called Flodgeheld. It seems likely to have been attacked by the White Hand as was Brockbridge.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "The healing supplies you found will stop Wilberth's health from declining due to the injuries, but it will take some time for him to fully recover.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Wilberth would like to thank you for your aid, as he would probably have died not too long from now without help.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "Help bandage injured Rohirrim's wounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Talk to Wilberth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Search slain Rohirrim for healing supplies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Help bandage Wilberth's wounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01193",
+      "id": 246419859,
       "en": "Flodgeheld lies to the west of Brockbridge.\\n\\nFlodgeheld appears to have been attacked by the forces of the White Hand. You should scout the area for survivors.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01194",
+      "id": 246419860,
       "en": "Flodgeheld lies along the Swiftwater River to the south-west of Brockbridge.\\n\\nHerefara has asked you to go to Flodgeheld.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Search dead Rohirrim for healing supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a1",
+      "id": 177082785,
       "en": "You helped wrap the wounds, but Wilberth will need more time to heal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "You find that Flodgeheld has been attacked recently and should search for survivors",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "'You are not an Orc or Dunlending! I have need of your aid. I was convinced that I would die here. My wounds have grown worse, and I am weak.\\n\\n'Are you truly there or do my eyes play tricks upon me?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a8",
+      "id": 177082792,
       "en": "This Rohirrim tried to escape on foot, but was shot down from behind",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

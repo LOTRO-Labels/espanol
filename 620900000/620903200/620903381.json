@@ -2,142 +2,119 @@
   "id": 620903381,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You defeated an Orc in Thinglad ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You wager Corudan slew this Orc with his spare bow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You believe this Orc was slain by the sword Nona wields",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The first stage of your journey south with Corudan and Nona involves a brief stop in Thinglad to collect Corudan's bow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I am grateful for the healing arts of Galadriel and her people, and for the lady's willingness for me to see her city. But there is something strange about this place, and I must tell you the truth: it is no place for me. I want my feet upon the ground and my foes in front of me. This land of Elves is a long way from Enedwaith, a long way from my people.\\n\\n'I am ready to depart, [placeholder]. Perhaps things will feel more familiar to me as we journey south along the river.'\\n\\n<rgb=#FF0000>You will automatically travel to Haldirith in the Great River when you accept this quest.</rgb>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Corudan is in Thinglad, in the Great River.\\n\\nYou have come to Thinglad with Nona and Corudan, and should speak to Corudan, who wanted to recover the bow he lent to Fimloth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You did not find Corudan's bow? We did not either. He seemed surprised, but I was not. Whatever Orc took the bow must have known an Elf would come looking for it, and fled the area.\\n\\n'This Orc is lucky it did! For its hunters numbered three: [placeholder], Uch-lûth, and Elf! Flight alone could have saved it. I am sorry Corudan does not have his favourite bow, but I still enjoyed the hunt.\\n\\n'Do you think you can humour me on one count, [placeholder]? I understand we must hurry, but this should not take long.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Orcs can be found throughout Thinglad, alongside the Great River. Defeat them while Corudan and Nona do the same, and perhaps you will find Corudan's lost bow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Corudan is at Haldirith, in Thinglad.\\n\\nYou have searched for the Orc that took Corudan's bow, but did not find it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "Nona looks around Haldirith with interest, but says nothing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You did not find Corudan's bow? We did not either. He seemed surprised, but I was not. Whatever Orc took the bow must have known an Elf would come looking for it, and fled the area.\\n\\n'This Orc is lucky it did! For its hunters numbered three: two Elves, and a fierce warrior of the Uch-lûth! Flight alone could have saved it. I am sorry Corudan does not have his favourite bow, but I still enjoyed the hunt.\\n\\n'Do you think you can humour me on one count, [placeholder]? I understand we must hurry, but this should not take long.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Nona is in Haldirith, in Thinglad.\\n\\nYou should speak to Nona about her experience hunting with Corudan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "Nona looks at you with disappointment on her face, and you can tell that she has not found Corudan's bow either.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'I am not pleased about this, [placeholder]. I lent Fimloth my favourite bow to use while I remained in Lothlórien, and now she has lost it!'\\n\\nCorudan lowers his voice and turns to his apologetic friend.\\n\\n'No, Fimloth, I am not upset. If those Orcs were as numerous as you report, you were right to flee. A bow is a bow, and the lives of my friends come first! I will search the woods of Thinglad for the Orc that picked it up as you escaped.\\n\\n'Are you of a mind to join the hunt, [placeholder]? Your Dunlending friend has already agreed to fight the Orcs with me as well. Perhaps we can make a game of it! The first of us to find my lost bow will be the victor, but I shall be the happiest of all to have the bow back in my hands!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'You did not find the bow? Nona and I did not either. The Orc that seized it must have already left this area. Pity. This spare bow does not fire as accurately as my other did. I am still a deadly shot, [placeholder]. Do not worry on that score!\\n\\n'Did you know how dangerous Nona is in combat? I did not think the Dunlendings were more than barbaric hill-dwelling Men, but she is a deadly warrior indeed! I underestimated her, and will not do so again. If we are surprised by Orcs as we journey further along the Anduin, I will be glad to have her along!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'Search Thinglad for Orcs! The Dunlending girl and I will do the same. Whoever first finds my bow will be the victor in our little game.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat Orcs in Thinglad while Nona and Corudan hunt for the bow as well ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'Nona is quite a warrior. I did not expect it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Corudan in Haldirith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Nona in Haldirith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c45",
+      "id": 63183941,
       "en": "'This is a setback. This Elf gave his bow to someone, and that Elf lost it. This is why none but me wield Wadu's sword.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Nona in Haldirith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Book 7, Chapter 4: Along the Shore",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

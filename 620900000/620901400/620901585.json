@@ -2,70 +2,59 @@
   "id": 620901585,
   "txt": [
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>Completing Aiding the Eastemnet will cancel this quest</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The Easterlings trouble me, [placeholder]. They have set up a large encampment along the eastern shores of the Anduin, to the north near our guard-towers. I fear a large incursion is coming soon, and we may be ill-prepared to handle it.\\n\\n'I wish you to strike first. Enter this camp and bring the battle to the Easterlings. Let us not give them the opportunity to fight upon our shore.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'They will regroup, but a few days' respite is all we need to recover and heal our wounds.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Are you ready to cross the Anduin and enter the Ford?'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Ford: An Army from the East",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Easterlings have set up a massive encampment along the eastern shore of the Anduin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Defeated Easterlings at the Ford ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat Easterlings at the Ford ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Easterlings can be found at the Ford.\\n\\nWulfin has asked you to venture to the Ford and defeat the Easterlings encamped there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Wulfin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Wulfin can be found in Harwick.\\n\\nWulfin will be pleased to hear you disrupted the Easterling-camp at the Ford.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

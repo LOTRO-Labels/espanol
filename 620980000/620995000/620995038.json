@@ -2,268 +2,224 @@
   "id": 620995038,
   "txt": [
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Greith in the central chamber, just north of the geode",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "Search the southern chamber and return to Greith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'The key no longer bears the corruption of Mordor! You are welcome to keep it, [placeholder], as a memento of Thrótrun and her rune-keepers. The Chamber of Machurful will be locked no longer, in memory of the wrong that was done to them. Bring the key where you will, and may it serve you well!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Defeat Grotcleaver",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Search the rooms to the east",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a6",
+      "id": 246419878,
       "en": "Greith survived the battle with Grotcleaver, and wishes to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad421e1",
+      "id": 181674465,
       "en": "'Runes of power in the darkness.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'I cannot believe what we have found, [placeholder]. This must be the Chamber of Machurful, long believed forever lost! It was a place for the keeping of powerful rune-stones and the secrets of their use, but none still living knew where to find it! Before Moria fell into ruin, the most talented of rune-keepers might have known its location, but they are all long dead.\\n\\n'Ah, I understand. The door locks from the outside, for the secrets contained within the Chamber might be put to deadly use. Machurful must have been sealed when Durin died, and the key lost.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "<rgb=#FF0000>Greith must not be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad421e2",
+      "id": 181674466,
       "en": "'Secrets unseen for an age.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad421e3",
+      "id": 181674467,
       "en": "'A blast of warm air, and you turn to stare into yellow eyes.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'I found a tablet of stone by the geode, [placeholder], and it bears writing on its face. It appears to be a list of rune-keepers who served in the Chamber of Machurful. None of the names are familiar to me, save one: Thrótrun.\\n\\n'She was a rune-keeper of great renown, and many lessons of the art can be traced to her teachings. Thrótrun lived in Khazad-dûm during the time of Durin, but none knew of her fate. It was believed she perished during the fall of Moria, and it seems that is the case after all.'\\n\\nGreith scratches at his beard.\\n\\n'This list of rune-keepers has a solemn feel about it. The carving of runes takes time, even for a skilled artisan. I think this list was made to mark their deaths.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad421e4",
+      "id": 181674468,
       "en": "'You speak words of power, but still the eyes stare out of the darkness, unafraid.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'You found the skeletons of dwarves, but no Orc or goblin remains? I begin to worry that the rune-keepers fought among themselves, [placeholder]. By Durin's name I hope it is not so.\\n\\n'I have found more of Thrótrun's writing, and it may help us to understand what happened here. It seems that the rune-keepers were sealed away in the Chamber for their own protection. None knew the extent of what was happening. They believed that the shaking in the earth would not last; they did not know Moria would fall into darkness for a thousand years.\\n\\n'She writes of a dwarf named Orthvord, who took the key to Machurful and swore to keep it safe. He vowed he would return when the trouble had passed and let the rune-keepers out. But he never came back. Thrótrun writes that some of the others despaired, but she never told them what she believed in her heart: that Orthvord was slain, the key taken.\\n\\n'She was right, and eventually the key came into evil hands, but the one who took it did not know the door it unlocked. The key was taken into Mordor, and the rune-keepers were forgotten.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Talk to Greith in the central chamber, just east of the geode",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Talk to Greith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'Thrótrun and the rune-keepers could not leave the Chamber of Machurful, but I wonder if something managed to get in: an ancestor of the great beast that attacked us?'\\n\\nGreith sighs heavily, and strokes his beard.\\n\\n'Perhaps it would give them some joy, if they could see it, to know that the door was eventually opened. Would they be glad to know they are remembered, even too late? I hope so, [placeholder]. I hope so.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "You have unlocked a door in Khazad-dûm that has remained sealed for more than a thousand years.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Bodies lie in the northern chamber, but the shelves are undisturbed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Greith is in the central chamber, by the tremendous geode.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01182",
+      "id": 246419842,
       "en": "Grotcleaver, a tremendous deep-claw, has made its home in the Chamber of Machurful.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Greith has asked you to search the room to the north of the Chamber of Machurful.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa420051",
+      "id": 172097617,
       "en": "This passage is blocked by fallen stones",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c7361",
+      "id": 3961697,
       "en": "'[placeholder], what is that?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c7362",
+      "id": 3961698,
       "en": "'Well-fought, my bold friend!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c7363",
+      "id": 3961699,
       "en": "'You search the northern chamber, and I will inspect the central room.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c7364",
+      "id": 3961700,
       "en": "'There is a room to the east. You should search there, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Talk to Greith in the central chamber",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c7365",
+      "id": 3961701,
       "en": "'One chamber remains. Explore the room to the south, and I will keep searching here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Search the northern chamber",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1193",
+      "id": 177082771,
       "en": "Grotcleaver falls, last resident of Machurful",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1195",
+      "id": 177082773,
       "en": "Greith has been defeated!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1198",
+      "id": 177082776,
       "en": "The Key of the Forgotten has been cleansed of Mordor's corruption!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Greith is in the central chamber, just north of the geode.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Greith has asked you to search the room to the east of the Chamber of Machurful.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01197",
+      "id": 246419863,
       "en": "Greith is in the central chamber, just east of the geode.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01199",
+      "id": 246419865,
       "en": "Greith has asked you to search the room to the south of the Chamber of Machurful.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "Dwarves died here, but there is no sign of Orc-kind in these rooms",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Instance: Heirloom of Khazad-dûm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

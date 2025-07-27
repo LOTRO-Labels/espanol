@@ -2,292 +2,244 @@
   "id": 620793120,
   "txt": [
     {
-      "id": "0xa3a0bb7",
+      "id": 171576247,
       "en": "Withdraw",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8c369c",
+      "id": 227292828,
       "en": "Extra Storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe948484",
+      "id": 244614276,
       "en": "Rename",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf32adf4",
+      "id": 254979572,
       "en": "Unlock",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ee9e44",
+      "id": 99524164,
       "en": "Auto",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c0f4ac",
+      "id": 96531628,
       "en": "Display:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf735c23",
+      "id": 259218467,
       "en": "Move to Main Chest",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ac5004",
+      "id": 28069892,
       "en": "Main Chest",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc71e514",
+      "id": 208790804,
       "en": "To add items, drag and drop them here.\\nIf you are looking at a particular chest, items dragged in will be added to that chest. \\nIf an item could form a stack with an item in another chest, it will be added to that other chest and the view will shift accordingly.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce25705",
+      "id": 216160005,
       "en": "Item",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea19023",
+      "id": 245469219,
       "en": "Display items as icons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4271",
+      "id": 37569137,
       "en": "Chest 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d5d7b5",
+      "id": 47568821,
       "en": "Open Wardrobe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4272",
+      "id": 37569138,
       "en": "Chest 2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x452b815",
+      "id": 72529941,
       "en": "Delete",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4273",
+      "id": 37569139,
       "en": "Chest 3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4274",
+      "id": 37569140,
       "en": "Chest 4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4275",
+      "id": 37569141,
       "en": "Chest 5",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4276",
+      "id": 37569142,
       "en": "Chest 6",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4277",
+      "id": 37569143,
       "en": "Chest 7",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93f31c4",
+      "id": 155136452,
       "en": "Waiting to retrieve your items and capacity from the server.\\nThis may take a few seconds.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4278",
+      "id": 37569144,
       "en": "Chest 8",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23d4279",
+      "id": 37569145,
       "en": "Chest 9",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x13d8a74",
+      "id": 20810356,
       "en": "Display items as icons with text",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf2c720",
+      "id": 183682848,
       "en": "It will cost [placeholder] to increase your bank storage by 15 slots.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7b90d4",
+      "id": 209424596,
       "en": "Chest:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8043c5",
+      "id": 176178117,
       "en": "[placeholder] [placeholder] deleted.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x425d6d4",
+      "id": 69588692,
       "en": "Add Space",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d2904",
+      "id": 10299652,
       "en": "Submit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b3452c",
+      "id": 62080300,
       "en": "All",
-      "es": "Todos",
-      "es (fem)": ""
+      "es": "Todos"
     },
     {
-      "id": "0x65ffd1c",
+      "id": 106954012,
       "en": "Show all items",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7de79d7",
+      "id": 132020695,
       "en": "Are you sure you want to pay [placeholder] to unlock [placeholder] slots?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d42760",
+      "id": 64235360,
       "en": "Chest 10",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x600f859",
+      "id": 100726873,
       "en": "Show only [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba15df7",
+      "id": 195124727,
       "en": "Additional storage space can be unlocked for the following amount:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2642944",
+      "id": 40118596,
       "en": "Move to [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9804e57",
+      "id": 159403607,
       "en": "Additional storage space can be unlocked at level [placeholder] for the following amount:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeba76a7",
+      "id": 247101095,
       "en": "You have purchased all of the storage spaces available.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3bf017",
+      "id": 3928087,
       "en": "Are you sure you want to delete [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc4f58",
+      "id": 12341080,
       "en": "Search:",
-      "es": "Busca:",
-      "es (fem)": ""
+      "es": "Busca:"
     },
     {
-      "id": "0x311912c",
+      "id": 51482924,
       "en": "Storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59d4a74",
+      "id": 94194292,
       "en": "Chest",
-      "es": "Pecho",
-      "es (fem)": ""
+      "es": "Pecho"
     },
     {
-      "id": "0x48fd7fc",
+      "id": 76535804,
       "en": "Show All",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb497a0",
+      "id": 11835296,
       "en": "Not enough money to purchase storage upgrade (15 slots). Money needed: [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb120cd4",
+      "id": 185732308,
       "en": "Cancel",
-      "es": "Cancelar",
-      "es (fem)": ""
+      "es": "Cancelar"
     },
     {
-      "id": "0x2ace35c",
+      "id": 44884828,
       "en": "Cost:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4222fd4",
+      "id": 69349332,
       "en": "Open Character Vault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f8534b",
+      "id": 100160331,
       "en": "Open Shared Storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

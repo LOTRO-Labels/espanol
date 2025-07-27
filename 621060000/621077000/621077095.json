@@ -2,82 +2,69 @@
   "id": 621077095,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Dierna has asked you to investigate Aegollant, release captured deserters, and to cull the number of bandits in the area.\\n\\nAegollant is south-west of Arnach.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "The deserters have been freed and many bandits defeated. You should talk to Dierna.\\n\\nDierna is in Arnach.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "The Ranger does not acknowledge your arrival.\\n\\n'We need to investigate Aegollant. Scouts have reported an increased presence of bandits in the area looting and pillaging travellers along those roads.\\n\\n'To make matters worse, deserters have been captured by these bandits. Release them, and send them back home.'\\n\\nThe Ranger idles once again and looks past you as though you do not exist.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Dierna",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "Defeat Aegollant archers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "Dierna nods at you.\\n\\n'Well done.'\\n\\nDierna's face is obscured, but you can sense a brief smirk.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "Defeat Aegollant sneaks ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Dierna would like to investigate the recent appearance of bandits in Aegollant.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Free captured deserters ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1191",
+      "id": 177082769,
       "en": "Defeated Aegollant archers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "Deserters freed ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Wings of Vigilance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1193",
+      "id": 177082771,
       "en": "Defeated Aegollant sneaks ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,976 +2,814 @@
   "id": 620757426,
   "txt": [
     {
-      "id": "0x26e7fa9",
+      "id": 40796073,
       "en": "Invalid inventory category!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4e03fe",
+      "id": 172884990,
       "en": "Receiving #1:{the[!n]} #1:[placeholder] would exceed the text capacity limit for #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd5288d4",
+      "id": 223512788,
       "en": "That item is already involved in an inventory transaction!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xadb7fdd",
+      "id": 182157277,
       "en": "Remote item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x52b1927",
+      "id": 86710567,
       "en": "Quantity overflow!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x473a1ce",
+      "id": 74686926,
       "en": "#1:[placeholder] #1:{He[m]|She[f]|It} is broken.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ec5152",
+      "id": 149705042,
       "en": "Contents could not be reorganized because of a general inventory error.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa0b415",
+      "id": 262190101,
       "en": "You fail to give #1:{the[!n]} #1:[placeholder] to #2:{the[!n]} #2:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa54bebe",
+      "id": 173326014,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is already equipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x366293e",
+      "id": 57026878,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is controlled by someone or something else.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3915ed5",
+      "id": 59858645,
       "en": "You fail to pick up #1:{the[!n]} #1:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8c7f215",
+      "id": 147321365,
       "en": "Cannot take [placeholder] right now due to Fellowship looting policy...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7bcb8e",
+      "id": 259771278,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is already closed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8bddd3",
+      "id": 9166291,
       "en": "[placeholder] closed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaca80ab",
+      "id": 181043371,
       "en": "You do not meet the requirements to use that item in that way!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe04a95c",
+      "id": 235186524,
       "en": "Inventory slot full!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5beca39",
+      "id": 96389689,
       "en": "You are only able to remove items from that container!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da24ee",
+      "id": 81405166,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is not currently equipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x826c7e",
+      "id": 8547454,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} cannot be stacked.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x845233",
+      "id": 8671795,
       "en": "You get #1:{the[!n]} #1:[placeholder] from #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ddca6e",
+      "id": 98421358,
       "en": "#-1:[placeholder] You could not turn to face #-1:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75d255e",
+      "id": 123544926,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is broken.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8193315",
+      "id": 135869205,
       "en": "You fail to open #1:{the[!n]} #1:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3698e",
+      "id": 10709390,
       "en": "#-1:[placeholder] You could not reach #-1:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a0126e",
+      "id": 94376558,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is attuned to you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd83847e",
+      "id": 226722942,
       "en": "You are not of the correct race or sex.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3db3ede",
+      "id": 64700126,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} cannot be unequipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb64f8e",
+      "id": 246828942,
       "en": "#1:{The[!n]} #1:[placeholder] is full.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x844d423",
+      "id": 138728483,
       "en": "You're helpless!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x663c54",
+      "id": 6700116,
       "en": "You're not proficient with that equipment!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9070164",
+      "id": 151454052,
       "en": "Security check failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2505a2e",
+      "id": 38820398,
       "en": "You don't have {the[!n]} [placeholder] open.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7d794d5",
+      "id": 131568853,
       "en": "Acquiring #1:{the[!p]} #1:[placeholder] will bind #1:{it|them[p]} to you permanently. Do you wish to continue?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdeeb45e",
+      "id": 233747550,
       "en": "You cannot do that with broken items!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x312a18b",
+      "id": 51552651,
       "en": "You do not have permission to take that!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe501a14",
+      "id": 240130580,
       "en": "You have acquired: [placeholder].\\n",
-      "es": "Has adquirido: [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Has adquirido: [placeholder].\\n"
     },
     {
-      "id": "0x5df3f8e",
+      "id": 98516878,
       "en": "#-1:[placeholder] You don't have #-1:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61065ae",
+      "id": 101737902,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} cannot be removed from #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe58dd99",
+      "id": 240704921,
       "en": "Incompatible inventory category!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25864ae",
+      "id": 39347374,
       "en": "You cannot unequip items while you are swimming.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb83d65",
+      "id": 230178149,
       "en": "Contents could not be reorganized because there are no units to move.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c963be",
+      "id": 80307134,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xf1d27c4",
+      "id": 253568964,
       "en": "Transaction failed, completing it would violate text item limits!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30a6bd2",
+      "id": 51014610,
       "en": "Remote container!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6297cd3",
+      "id": 103382227,
       "en": "[placeholder] equipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x229ae4c",
+      "id": 36286028,
       "en": "All inventory slots are full!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10572bb",
+      "id": 17134267,
       "en": "Contents could not be reorganized because you may only reorganize the contents of your own backpack.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff26774",
+      "id": 267544436,
       "en": "Split failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7c31f53",
+      "id": 130228051,
       "en": "You receive #1:{the[!n]} #1:[placeholder] from #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdce3db4",
+      "id": 231620020,
       "en": "Not taking [placeholder], you must confirm binding...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd7e85",
+      "id": 13467269,
       "en": "Merge incompatible!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc673ba4",
+      "id": 208092068,
       "en": "[placeholder], [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6e863d",
+      "id": 191792701,
       "en": "Item removed: [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e8c9d4",
+      "id": 32033236,
       "en": "The target container is already involved in an inventory transaction!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x559910f",
+      "id": 89755919,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x37a1dee",
+      "id": 58334702,
       "en": "\\n",
-      "es": "\\n",
-      "es (fem)": ""
+      "es": "\\n"
     },
     {
-      "id": "0x6c70045",
+      "id": 113705029,
       "en": "Please enter '[placeholder]' into the confirmation box to destroy this item.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x42e76f5",
+      "id": 70153973,
       "en": "You fail to unequip #1:{the[!n]} #1:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3181594",
+      "id": 51910036,
       "en": "Incompatible inventory slot!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86be12e",
+      "id": 141287726,
       "en": "#-1:[placeholder] You cannot use #-1:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3106b5e",
+      "id": 51407710,
       "en": "#1:{The[!n]} #1:[placeholder] is not accepting items right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9591443",
+      "id": 156832835,
       "en": "You give #1:{the[!n]} #1:[placeholder] to #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97ae82e",
+      "id": 159049774,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} cannot be carried.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e0a18e",
+      "id": 31498638,
       "en": "You cannot equip items while you are swimming.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x665381e",
+      "id": 107296798,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is not in your control.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb2c887e",
+      "id": 187467902,
       "en": "Illegal inventory operation!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d76ee4",
+      "id": 30895844,
       "en": "Contents could not be reorganized because you are too busy doing something else right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5217555",
+      "id": 86078805,
       "en": "Contents could not be reorganized because the item is not in your possession.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa9b64",
+      "id": 16423780,
       "en": "The item, [placeholder], has expired and been destroyed from your inventory.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x99b0034",
+      "id": 161153076,
       "en": "Placement failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf979215",
+      "id": 261591573,
       "en": "#1:{The[!n]} #1:[placeholder] was empty.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x900b543",
+      "id": 151041347,
       "en": "You drop {the[!n]} [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd279237",
+      "id": 220697143,
       "en": "You're attacking!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6996582",
+      "id": 110716290,
       "en": "That item is reserved for someone else!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6ce64e",
+      "id": 225240654,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is in the midst of a transaction. Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7611e92",
+      "id": 123805330,
       "en": "container",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeff1443",
+      "id": 251597891,
       "en": "You move #1:{the[!n]} #1:[placeholder] from #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e0b20e",
+      "id": 31502862,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} cannot be equipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0dc85",
+      "id": 15785093,
       "en": "You fail to equip #1:{the[!n]} #1:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb1770e",
+      "id": 246511374,
       "en": "You died before you could do it.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe4fa64",
+      "id": 266664548,
       "en": "You cannot do that with attuned items!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11d9c0e",
+      "id": 18717710,
       "en": "This equippable item has no applicable VDesc for this character.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x20a1fce",
+      "id": 34217934,
       "en": "#-1:[placeholder] You cannot unequip #-1:{him[m]|her[f]|it} from that slot.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x247b39",
+      "id": 2390841,
       "en": "You cannot equip that category of item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaafdff4",
+      "id": 179298292,
       "en": "You are already in the middle of another inventory transaction!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3159f4e",
+      "id": 51748686,
       "en": "{The[!n]} [placeholder] is in use.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x31bf6cf",
+      "id": 52164303,
       "en": "Incompatible ammunition!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ff504",
+      "id": 10482948,
       "en": "Your #1:[placeholder] #1:{is|are[p]} damaged.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5da47be",
+      "id": 98191294,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} cannot be dropped right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8cfffe",
+      "id": 244121598,
       "en": "All the valid slots for this item are already filled. You might try unequipping one of the following: [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a8566e",
+      "id": 61363822,
       "en": "#-1:[placeholder] Too many people are using #-1:{him[m]|her[f]|it} right now.  Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd6c4de",
+      "id": 215401694,
       "en": "#-1:[placeholder] You already have #-1:{him[m]|her[f]|it}.\\n ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x106bf05",
+      "id": 17219333,
       "en": "You fail to receive #1:{the[!n]} #1:[placeholder] from #2:{the[!n]} #2:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x508d73e",
+      "id": 84465470,
       "en": "Your backpack does not have room for #1:{the[!n]} #1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64e7d85",
+      "id": 105807237,
       "en": "You fail to close #1:{the[!n]} #1:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9a85c5",
+      "id": 228230597,
       "en": "Contents could not be reorganized because the target stack is of different types of items.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb7e7cd7",
+      "id": 192838871,
       "en": "Item removed from [placeholder]: [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc5d7105",
+      "id": 207450373,
       "en": "Taking the contents of #1:{the[!n]} #1:[placeholder]...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff1eca7",
+      "id": 267512999,
       "en": "The target container is not accepting items!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a9a1a4",
+      "id": 145334692,
       "en": "entity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x556fe83",
+      "id": 89587331,
       "en": "You pick up {the[!n]} [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18127be",
+      "id": 25241534,
       "en": "There are no units to move.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfc71515",
+      "id": 264705301,
       "en": "You fail to drop #1:{the[!n]} #1:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ebd6a3",
+      "id": 49010339,
       "en": "[placeholder] unequipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3442785",
+      "id": 54798213,
       "en": "Are you sure you want to destroy [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ffe83e",
+      "id": 50325566,
       "en": "You are too busy right now. Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f3322e",
+      "id": 99824174,
       "en": "#1:[placeholder]#1:{'s|'[s]} [placeholder] {are[p]|has} broken.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c86ca4",
+      "id": 113798308,
       "en": "You have acquired: [placeholder]. Some currency was lost due to reaching the currency cap.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2679ba4",
+      "id": 40344484,
       "en": "You cannot do that with items that are being traded!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1342be",
+      "id": 202588862,
       "en": "You must unequip the following items first: [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5cc449e",
+      "id": 97272990,
       "en": "That belongs to someone else.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15eacbe",
+      "id": 22981822,
       "en": "#-1:[placeholder] You travelled before reaching #-1:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a10b14",
+      "id": 161549076,
       "en": "You cannot merge into an empty inventory slot!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb38a93e",
+      "id": 188262718,
       "en": "Your #1:[placeholder] #1:{has|have[p]} broken.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc93d4ae",
+      "id": 211014830,
       "en": "You failed to move close enough to #-1:[placeholder] #-1:{him[m]|her[f]|it}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd364ee",
+      "id": 13853934,
       "en": "You already have another container open.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xede9343",
+      "id": 249467715,
       "en": "[placeholder] opened.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9259e04",
+      "id": 153460228,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x46a0f64",
+      "id": 74059620,
       "en": "Cannot be contained!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x639f265",
+      "id": 104460901,
       "en": "You fail to put #1:{the[!n]} #1:[placeholder] in #2:{the[!n]} #2:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d354e",
+      "id": 5059918,
       "en": " #1:{The[!n]} #1:[placeholder] does not accept items.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd93c22e",
+      "id": 227787310,
       "en": "{The[!n]} [placeholder] does not accept those.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xacbcaf5",
+      "id": 181127925,
       "en": "Failed to take [placeholder]...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f8c704",
+      "id": 100189956,
       "en": "You're dead!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ea1f2c",
+      "id": 132783916,
       "en": "Precluded inventory slot full!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e6875e",
+      "id": 149325662,
       "en": "Server connexion problems. Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe5233",
+      "id": 16667187,
       "en": "You put #1:{the[!n]} #1:[placeholder] into #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde5579e",
+      "id": 233133982,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} does not go in that slot.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x181ba15",
+      "id": 25278997,
       "en": "Are you sure you want to destroy [placeholder]? <rgb=#FF0000>Warning: You purchased this item through the store.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa02324",
+      "id": 262152996,
       "en": "You are not able to dual-wield weapons!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb9fa3ce",
+      "id": 195011534,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is not in #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d55b45",
+      "id": 30759749,
       "en": "Cannot merge!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4f479b7",
+      "id": 83130807,
       "en": "Quantity underflow!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc79dd17",
+      "id": 209313047,
       "en": "You cannot do that while swimming!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x482975e",
+      "id": 75667294,
       "en": "#-1:[placeholder] You died before reaching #-1:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x77e81bb",
+      "id": 125731259,
       "en": "You do not have sufficient housing permissions to do that!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaed722e",
+      "id": 183333422,
       "en": "The item, [placeholder], has been destroyed from your inventory due to unique item constraints.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92d75df",
+      "id": 153974239,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x99fe53e",
+      "id": 161473854,
       "en": "#-1:[placeholder] #-1:{He[m]|She[f]|It} is attuned to #-2:[placeholder]#-2:{him[m]|her[f]|it}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3cab4",
+      "id": 146000564,
       "en": "Drop failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a84a5e",
+      "id": 111692382,
       "en": "You are too far away.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec0a744",
+      "id": 247506756,
       "en": "Maximum encumbrance exceeded!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dd0294",
+      "id": 31261332,
       "en": "Cannot split!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3289ae4",
+      "id": 52992740,
       "en": "Sanity check failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2dc0a43",
+      "id": 47974979,
       "en": "You cannot store quest items in the vault.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x643f265",
+      "id": 105116261,
       "en": "You fail to get #1:{the[!n]} #1:[placeholder] from #2:{the[!n]} #2:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7966cfb",
+      "id": 127298811,
       "en": "You are unable to put #1:{the[!n]} #1:[placeholder] into that backpack, it is full!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71cfefc",
+      "id": 119340796,
       "en": "Your contents could not be reorganized because you don't have room in your backpack.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe64ac93",
+      "id": 241478803,
       "en": "Contents updated successfully.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc6f634",
+      "id": 197588532,
       "en": "Gathered [placeholder] into the [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd67ab70",
+      "id": 224897904,
       "en": "Equipping #1:{the[!p]} #1:[placeholder] will bind #1:{it|them[p]} to you permanently. Do you wish to continue?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5457584",
+      "id": 88438148,
       "en": "Parenting failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b9505e",
+      "id": 112808030,
       "en": "{The[!n]} [placeholder] is in the midst of another transaction. Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xacf275e",
+      "id": 181348190,
       "en": "Those stacks are not compatible.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d0c15",
+      "id": 126684181,
       "en": "Are you sure you want to destroy [placeholder]?\\nWARNING: If you destroy this item, Quest\\n[placeholder]\\nwill be cancelled!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83ab415",
+      "id": 138064917,
       "en": "You fail to move #1:{the[!n]} #1:[placeholder] to #2:{the[!n]} #2:[placeholder]. [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8038b84",
+      "id": 134450052,
       "en": "Containment failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc700b9d",
+      "id": 208669597,
       "en": "item",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa28824",
+      "id": 10651684,
       "en": "Distance check failed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x378d3ee",
+      "id": 58250222,
       "en": "#-1:[placeholder] You do not have #-1:{him[m]|her[f]|it} open.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1be1e0e",
+      "id": 29236750,
       "en": "You could not unequip your [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b849a4",
+      "id": 95963556,
       "en": "Invalid inventory slot!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

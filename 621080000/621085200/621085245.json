@@ -2,190 +2,159 @@
   "id": 621085245,
   "txt": [
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Confront Sikaru",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Confront Krûha",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Confront Jakham",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Confront Grizagâr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73b852b",
+      "id": 121341227,
       "en": "'You think the Mutiny is over? You know nothing!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Confront Medêshi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73b855b",
+      "id": 121341275,
       "en": "'Curse you, [placeholder]! You bring only death to Umbar!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'After you returned, I sent my guards to investigate the rumours Zemirah spoke of, but unfortunately, the situation is far worse than I expected.\\n\\n'From what I have learned, six of Balakhôr's captains remain in the Sail-haven: Medêshi, Grizagâr, Jakham, Krûha, Sikaru, and Akhâd. How they all managed to survive the Mutiny is a mystery to me, but the Kindred of the Coins cannot abide traitors in Umbar Baharbêl. I am told that some of them can be found on the decks of their ships at the edges of the harbour, but others may still haunt the local taverns.\\n\\n'Need I tell you what must be done, [placeholder]? Confront them, and slay them to the last!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'It is done? Excellent!\\n\\n'It will take more than the Mutiny and time to wash away the stain of Balakhôr the Scourge, but you have done well to rid the Free City of his few remaining captains.\\n\\n'May their names and deeds be forgotten!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'Oh? One of the old man's lackeys finally grew a spine?'\\n\\nAkhâd sneers at you and slams his mug onto the table. After a tense moment, he barks at one of the tavern-workers.\\n\\n'Another round when this is done!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Eshmun, Captain of the Haven, can be found at the Harbour-warden's Tower in the Sail-haven of Umbar Baharbêl.\\n\\nYou have defeated all of Balakhôr the Scourge's loyal captains in the Sail-haven. You should return to Eshmun.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'What is this? You think I answer to you or that old fool, Eshmun?'\\n\\nSikaru glares at you.\\n\\n'No, you were dead the moment you stepped onto my ship!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "Medêshi, Grizagâr, Jakham, Krûha, Sikaru, and Akhâd can be found throughout the Sail-haven, either upon the decks of their ships in the harbour or lurking at one of the local taverns.\\n\\nEshmun has asked you to find, confront, and defeat Balakhôr the Scourge's loyal captains in Umbar Baharbêl.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d18",
+      "id": 51875096,
       "en": "Despite the success of the Sea-stone Mutiny, several captains still loyal to Balakhôr the Scourge have managed to entrench themselves in the Sail-haven of Umbar Baharbêl.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Talk to Eshmun at the Harbour-warden's Tower",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73b850b",
+      "id": 121341195,
       "en": "'Who are you to interfere?! Umbar is OURS!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Confront Akhâd",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73b853b",
+      "id": 121341243,
       "en": "'What happened at Pelargir is a Gondorian lie!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73b85cb",
+      "id": 121341387,
       "en": "'Vengeance for Balakhôr! The Scourge sails eternal!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73b85fb",
+      "id": 121341435,
       "en": "'Do you even know who I am?! You waste my time, fool!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ac0",
+      "id": 69036736,
       "en": "Defeat Sikaru",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ac1",
+      "id": 69036737,
       "en": "Defeat Krûha",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ac2",
+      "id": 69036738,
       "en": "Defeat Jakham",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ac3",
+      "id": 69036739,
       "en": "Defeat Grizagâr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ac4",
+      "id": 69036740,
       "en": "Defeat Medêshi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'YOU! I know you!'\\n\\nKrûha stares at you as if he has seen a ghost.\\n\\n'I was at Pelargir, [placeholder], but you don't remember me, do you? I know you serve the King of Gondor—that Elf-loving pretender! If you think the people of Umbar hate me, just wait until they learn who you really are!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'You dare threaten me? I've killed better than you for far less, [placeholder].'\\n\\nMedêshi glares at you and gestures to the others at the tavern.\\n\\n'Let these fools relish their so-called victory because when the Scourge returns—Balakhôr or no—we shall have Umbar for our own!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6af9",
+      "id": 69036793,
       "en": "Defeat Akhâd",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'I've lost, have I? Balakhôr is dead? You know nothing, [placeholder], and I will not be moved. Not by Eshmun, and certainly not by you!'\\n\\nGrizagâr scowls at you, and chuckles to himself.\\n\\n'The Sail-haven is ours by right!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "The Scourge's Captains",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'Who are you to speak to me? Some foreign puppet of the Kindred?'\\n\\nJakham smirks at you.\\n\\n'I should cut your tongue from your mouth!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,142 +2,119 @@
   "id": 620758787,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You find a ring",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You find a ring buried beneath the masonry.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Mayor of Bree received reports of a ghost in an alley, but none of the constables will investigate the rumour.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Hello there, are you looking for work? I've received complaints that there is a haunted alley here in Bree, and none of my brave constables want the job of looking into the rumours!\\n\\n'Now I'm sure it's nothing, but if you'll just take a look down this alley at night, it would help me prove to my constables that they are being childish. Just take the road south-east from here. A small alley will turn off to your right not far from the South-gate. Follow the alley to some old ruins, and you should find the place where the ghost was reported.\\n\\n'Oh, if you actually do find a ghost, well...get rid of it somehow!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The ruins the Mayor spoke of are in an alley not far from the South-gate, off to the right.\\n\\nMayor Tenderlarch has asked you to investigate the rumours of a haunted alley and put the concerns of the Bree constables to rest. He has asked you to visit the alley by night, as that is the only time the ghost has been reported.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "The shade seems unable to see you. It chants in a dull monotone: 'Alas...lost forever...never to be returned....\\n\\n'The ring...return the ring.... Beneath the barracks gate....\\n\\n'The black rock...hidden by the black rock....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The ring is hidden at a barracks gate, but there are no barracks in Bree. The shade also mentioned a black rock, however.\\n\\nPerhaps if you locate this lost ring the shade spoke of, it can rest. ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "The shade's alley is near the South-gate, in some old ruins.\\n\\nYou should take the ring you found to the shade and see if that appeases it. The shade likely will only appear in the alley at night.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Please investigate this absurd rumour for me. Some folk round Bree are superstitious.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "As you offer the ring to the shade, the spirit looks at you with a new light in its translucent eyes. 'The ring...the ring!\\n\\n'Ah! At last! Thou dost lift but one small burden from my tally of debts unpaid and oaths unfulfilled. With the return of this ring, I feel as if mists are clearing from before my eyes....\\n\\n'Bide thee a moment, and I will explain my presence here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Return with the ring to the Lost Shade. Remember that the Lost Shade only appears in his alley at night.\\n\\n(fixme: using a random angmar sword quest item for now until systems makes up the ring item)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Please do whatever the spirit asks, we don't want it wandering the streets in our town!\\n\\n'I know nothing of a barracks. There hasn't been such a thing in living memory! Perhaps Chief-watcher Grimbriar would know more. He is in charge of the constables, after all.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'The ring...return the ring....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Return with the ring to the Lost Shade. Remember that the Lost Shade only appears in his alley at night.\\n\\n(fixme: using a random angmar sword quest item for now until systems makes up the ring item)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'Please do whatever the shade asks. We don't want it wandering the streets in our town!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "As you offer the ring to the shade, the spirit looks at you with a new light in its translucent eyes. 'The ring...the ring!\\n\\n'Ah! At last! Thou dost lift but one small burden from my tally of debts unpaid and oaths unfulfilled. With the return of this ring, I feel as if mists are clearing from before my eyes....\\n\\n'Bide thee a moment, and I will explain my presence here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Investigate a ghost in Bree",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'The ring...return the ring....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "The shade seems unable to see you. It chants in a dull monotone: 'Alas...lost forever...never to be returned....\\n\\n'The ring...return the ring.... Beneath the barracks gate....\\n\\n'The black rock... hidden by the black rock....'\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Find the lost ring",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Return the ring to the shade.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c45",
+      "id": 63183941,
       "en": "'I don't know what all this ghost talk is about, but yes, I do believe that once the old kingdom had a barracks near here. Look for some old ruins to the west of here, in the...lower parts of the town -- near the Dwarf-quarter. There may well be a black rock amongst those ruins.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Haunted Alley",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

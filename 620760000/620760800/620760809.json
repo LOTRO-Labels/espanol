@@ -2,118 +2,99 @@
   "id": 620760809,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You assess the threat posed by this goblin camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You were seen by a goblin, and have failed your scouting mission!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You were seen by a goblin, and have failed your scouting mission!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Amarion is worried about the goblin presence in southern Annúndir and fears what will happen if the creatures learn of the refugees at Amon Raith.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e111",
+      "id": 262725905,
       "en": "The time for stealth is over, for a man nearby needs your help",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'We have enough food now to last a good while, but the people under my care will not be satisfied until they have reclaimed their lands from the Wargs and goblins that have invaded Annúndir.\\n\\n'We must be cautious. There is a camp of goblins on the slopes of the southern hills. Returning the refugees to their homes must start with the destruction of those goblins, but first I need to know their numbers.\\n\\n'Travel east into Annúndir and get as close to the goblin camp as you can without being seen. I do not want the goblins following you back to Amon Raith, so use stealth.'\\n\\n<rgb=#FF0000>NOTE: Take care to remain unnoticed by the enemy.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The goblins have established a camp on the southern hills of Annúndir, east of Amon Raith.\\n\\nAmarion has asked you to scout the goblin camp and assess the threat it poses to those under his care. He has warned you to take care. If a goblin sees you, it might track you back to Amon Raith.\\n\\n<rgb=#FF0000>NOTE: Take care to remain unnoticed by the enemy.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Thank goodness! I thought I was done for. I ran from the Wargs, and was ambushed by goblins instead.'\\n\\nYou explain that the way to Amon Raith is clear of goblins, and urge the man to head that way to come under Amarion's protection.\\n\\n'Thank you, [placeholder]! I will. You're not... you're not going further, are you?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The man in need of aid can be found just outside of the goblin stronghold in the central North Downs.\\n\\nYou should speak with the man.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The goblin camp is east of here, on the southern hills of Annúndir. Get as close to the camp as you can, without being seen by any of the goblins, and assess their numbers. Do not be spotted, for the creatures will be able to track you to Amon Raith!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'I am impressed by your scouting ability, friend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Approach the distraught man",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'We may be able to drive the goblins from Annundir after all.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Scout the goblin camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "<rgb=#FF0000>Avoid goblins</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>Avoid Stonehold Spear-hurlers</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'Ha!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Spying on the Goblins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Help!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

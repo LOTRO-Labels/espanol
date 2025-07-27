@@ -2,28 +2,24 @@
   "id": 620950435,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Composure",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Hearten becomes Composure, a self-only heal that heals the Beorning for a percentage of his or her Max Morale per tick.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Rally becomes a self heal called Composure",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554672",
+      "id": 106251890,
       "en": "prgsn_stringinfo_beorning_composure.wc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

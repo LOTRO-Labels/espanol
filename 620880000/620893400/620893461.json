@@ -2,70 +2,59 @@
   "id": 620893461,
   "txt": [
     {
-      "id": "0x223177e",
+      "id": 35854206,
       "en": "No",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c40ea4",
+      "id": 96734884,
       "en": "The vote to [placeholder] has been successfully confirmed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5af57f5",
+      "id": 95377397,
       "en": "dismiss [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc66718e",
+      "id": 208040334,
       "en": "Yes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x66b65a4",
+      "id": 107701668,
       "en": "The vote to [placeholder] has failed to pass.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8042085",
+      "id": 134488197,
       "en": "change loot quality threshold to [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x349d8ce",
+      "id": 55171278,
       "en": "You initiated a vote too recently. You can't initiate another vote for [placeholder] seconds.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xadeec24",
+      "id": 182381604,
       "en": "You have successfully initiated a vote to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64aaf14",
+      "id": 105557780,
       "en": "One of your group members has initiated a vote to [placeholder]. Do you agree? ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcef2085",
+      "id": 216998021,
       "en": "change loot rules to [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9e49b9",
+      "id": 228477369,
       "en": "You have been voted out of your group.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

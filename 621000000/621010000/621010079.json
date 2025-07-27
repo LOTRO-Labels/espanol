@@ -2,118 +2,99 @@
   "id": 621010079,
   "txt": [
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'What did you find in the pits of Dol Dhannen, [placeholder]?'\\n\\nYou tell Lady Galadriel that the lingering evils in the Room of Voices revealed Karazgar's intentions: to subjugate the dragons and drive out the peoples of the North that he might rule it himself for however long his life may last deprived of Sauron's power.\\n\\n'It seems you were guided to this place by the hand of the Uttermost West, and even if he did not return as I suspected, something of Karazgar remained here and it was meant that you should discover it.\\n\\n'I have spoken to King Thranduil, and we are in agreement. You would do well to return to the lands of the North at once. The King Under the Mountain must be told of what has happened, and he must prepare his people for what is to come.\\n\\n'Be swift, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "King Thorin III can be found before his throne in the Hall Under the Mountain in Erebor.\\n\\nYou have discovered that Karazgar did not return to Dol Guldur, but instead shadowy visions of his past remained among the lingering evils of Sauron within Gostador. You should return to King Thorin III and warn him that Karazgar may still lurk near to Erebor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "A weathered trap-door lies in the ruins of Dol Dhannen.\\n\\nYou found a weather trap-door leading into Gostador. You should descend into Gostador beneath Dol Dhannen and search for Karazgar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "Galadriel can be found within Dol Dhannen.\\n\\nYou have witnessed more of the shadowy impressions left upon the chamber by Sauron's evil and should now return to Galadriel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Talk to King Thorin III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Galadriel is standing before Dol Dhannen.\\n\\nYou have travelled to the ruins of Dol Guldur, now named Dol Dhannen, with Galadriel and her company. You should speak to her before beginning your search for Karazgar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Talk to Galadriel at Dol Dhannen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'Hail, [placeholder]!\\n\\n'You have been gone for some time! Tell me, what have you learned?'\\n\\nYou tell King Thorin III of your adventures in Caras Galadhon and Dol Dhannen. You explain that your vision bore fruit, and that while Karazgar may still be among the peoples of the North, his intentions and purpose have been made clear. You also urge King Thorin III to consider the Lady of the Wood's warning and prepare Durin's Folk for battle against Vethúg Wintermind.\\n\\n'I see. I had wished it untrue, but it seems Vethúg is fated to come to Erebor. We cannot know when he shall strike, but for now, we must remain on guard.\\n\\n'I shall send word to the Queen Regent and the Elvenking, and we shall soon speak on what is to be done.'\\n\\n\\n<rgb=#FF0000>Next week: 'Through the Eyes of Ravens'</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'We have come to Dol Dhannen, and it is as lifeless as the vision the Mirror revealed to me, but I would not have you search the ruins atop the hill.\\n\\n'Sigileth told me of the hidden chambers of Gostador beneath the tower where she dwelt after the battle against Mazog, and where Sauron regained his strength in the guise of the Necromancer. It is there you must go. \\n\\n'It is unlikely that the original passage into Gostador remains intact, so you will have to find another way into the pits of Dol Dhannen.\\n\\n'We shall remain on guard here. I shall send Sigileth to aid you if you do not soon return.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Explore Dol Dhannen and find a way into the depths of Gostador",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "You have discovered a weathered trap-door leading down into Gostador!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Gostador lies beneath the ruins of Dol Dhannen.\\n\\nYou have come to Dol Dhannen and should now seek a way into Gostador.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'I have gathered a small company to lead us to Dol Dhannen, [placeholder]. It is there you can seek the Weeping Warrior, Karazgar.\\n\\n'Lord Celeborn, King Thranduil, and I will guide you to the ruined hill. Sigileth has asked to accompany us on this journey as well, and I would not deny her in this.\\n\\n'Let us hope that whatever remains of legacy of the Necromancer in Dol Guldur will be at last ended this day.\\n\\n'We shall depart when you are prepared.'\\n\\n<rgb=#FF0000>NOTE: When you accept this quest, you will immediately travel to the razed ruins of Dol Guldur, Dol Dhannen.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d14",
+      "id": 51875092,
       "en": "Although Galadriel remains doubtful that Karazgar has returned to the ruins of Dol Guldur, she has mustered a company to aid you in your search for the Weeping Warrior in the depths of Dol Dhannen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Enter the trap-door and search for Karazgar in Gostador",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Whispers in the Pits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0111",
+      "id": 216727825,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Talk to Galadriel at Dol Dhannen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

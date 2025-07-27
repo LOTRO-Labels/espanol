@@ -2,76 +2,64 @@
   "id": 621008830,
   "txt": [
     {
-      "id": "0xeb01197",
+      "id": 246419863,
       "en": "A mop can be found near Hithlos in Felegoth.\\n\\nYou should retrieve the mop and assist Hithlos with his work.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01198",
+      "id": 246419864,
       "en": "Various spills and such can be found in and around the old jail cells in Felegoth.\\n\\nYou should clean up spills.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fad5",
+      "id": 149027541,
       "en": "Harpist By Day...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01159",
+      "id": 246419801,
       "en": "You have assisted Hithlos in his task.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d4",
+      "id": 190220756,
       "en": "You have assisted Hithlos in his nightly task of cleaning up spills and messes around Felegoth. Hopefully he will not forget the good deed you have done for him. Perhaps he will one day write a ballad about you!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be0",
+      "id": 148970464,
       "en": "Found the mop!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50271",
+      "id": 111477361,
       "en": "Completed",
-      "es": "Completado",
-      "es (fem)": ""
+      "es": "Completado"
     },
     {
-      "id": "0x8e11be2",
+      "id": 148970466,
       "en": "Cleaned up a mess ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'The wine was delicious and the music I have made was fit for the evening. Now, I must confess, my music is more of a hobby. My daily task is to clean the caverns. I should probably get to my task soon, but I am oh so sleepy. Must clean the cells this...'\\n\\nHithlos trails off and falls asleep. Perhaps you should assist him by performing his task for him. That would be a very kind thing to do for your new friend!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d165",
+      "id": 24695141,
       "en": "Hithlos needs to take a break from playing to perform his duties in Felegoth, that is if he had not so much to drink!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502921",
+      "id": 173025569,
       "en": "Clean up spills ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502923",
+      "id": 173025571,
       "en": "Retrieve Hithlos's mop",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

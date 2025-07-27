@@ -2,190 +2,159 @@
   "id": 620765160,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'We meet once again, [placeholder], and I must tell you that my spirits are raised by your presence! After you helped me fight off the Blackwold brigands that threatened my farm, I got to thinking. It isn't right for good people to live in fear. It was time for me to repay the favour you did me.\\n\\n'Travellers passing through Bree spoke of the Orc-raids against Trestlebridge, and I realized that this was where I was needed. If the Orcs dare show their ugly faces again, we'll turn them away and send them howling back across the Downs, I don't doubt it!\\n\\n'My son is here, too. He has a keen eye and is handy with his bow, if you remember. I'll stand over in the shade of that tower and keep my weapon at the ready!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'We have done it, [placeholder], and Trestlebridge is safe, for the moment. I do not think the Orcs will launch another attack for some time -- it is hard to remember, sometimes, that they, too, have need of rest. Though their masters may press them onward with whips and threats, even an Orc can succumb to exhaustion if pressed for too long in service of war.\\n\\n'Tell me when you are ready to return to the town, and we can await the return of Severin Wheeler. I hope his task went as well, and the farmers he left to save have survived their dangers.\\n\\n'Some of us were wounded this day, but still we stand against the Orcs, and will continue to do so for as long as it is necessary!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: A Guardian's Duty",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'You might not remember me, [placeholder], but I remember you! You helped my dad and me fight off the Blackwolds at our farm not so long ago. Cole Culvert would have been eating off our dishes and enjoying the fruits of our labours by now if it hadn't been for you... and don't think we don't appreciate it!\\n\\n'My dad got to thinking, and one day he just up and asked if I wanted to go with him to fight the Orcs. The way I see it, I'd rather fight Orcs up north, Trestlebridge way, if it means we can avoid fighting them in the streets of Bree-town, or in our own fields! Everyone's got to do his own part.\\n\\n'I've been practicing with this bow since I was just a boy, and I reckon I can fell a few Orcs before they get too close. I'll call out their positions from that rise over there, if they're so bold as to attack the town while we're here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'Are you ready to return to the town? We will await the return of Severin Wheeler and recount to him the great deeds that were done today!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have failed to defend Trestlebridge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'A guardian like yourself has also come to aid in the defence. His name is Hilton Harper, and I saw him checking the structure of the bridge not long ago. You should speak with him about the plan for defending this place, should the Orcs attack.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'It is a pleasure to meet a fellow guardian, [placeholder], and the defences will be stronger for your presence here!\\n\\n'I am ashamed to admit that not long ago I had given up hope -- the darkness that presses in on us seemed too great, and I was filled with despair. But a young captain showed me that hope always remains, even in situations most dire.\\n\\n'So I took up my sword once more and vowed to fight on in the defence of good people, even when all others have failed. I have come to Trestlebridge, last bulwark between Bree-land and the marauding Orcs of the north; I will defend this place until I can defend it no more. We will prevail, [placeholder], but we must remain alert. The Orcs could attack at any time, and if any reach the bridge, it is lost. Keep them away from the bridge at any cost!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have defended Trestlebridge from the marauding Orcs",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'The town is safe, for the moment, so I count it a victory, [placeholder]. The Orcs will attack again, and when they do we will be ready!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Severin Wheeler is standing by the Trestlebridge.\\n\\nSeverin Wheeler is waiting to assign you your position in the defence of the town.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'My dad was talking to another guardian a short time ago -- Harper, his name was. He's probably around here somewhere. You should speak to him about the plan for defending the town, should the Orcs choose to attack while Severin Wheeler is away.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Severin Wheeler told you that several men have come to aid in the defence of Trestlebridge.\\n\\nBefore he left to aid a group of farmers trapped in the North Downs, Severin Wheeler charged you with keeping any marauding Orcs away from the bridge. You should speak with the men nearby to assign them their positions.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'We have repelled the Orcs, for now, and we will repel them again if needed! I hope it is not for a while yet -- I need a good night's sleep!\\n\\n'My dad may be able to fight tirelessly, but I do not yet have his endurance, though I hope to claim I have his courage!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Hilton Harper is standing in front of the Trestlespan.\\n\\nHilton Harper is waiting to speak with you about organizing the defence of Trestlebridge.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Hilton Harper is outside Trestlebridge.\\n\\nHilton Harper is waiting to speak with you about your defence of the town.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2222201",
+      "id": 35791361,
       "en": "'My wounds are too great! I'm sorry, father!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x105e851",
+      "id": 17164369,
       "en": "'I will call out the position of any Orcs I see!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to defenders of Trestlebridge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to defenders of Trestlebridge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Prevent any Orcs from reaching the bridge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34b0831",
+      "id": 55248945,
       "en": "'My wounds are too great! I cannot fight on!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa00981",
+      "id": 178260353,
       "en": "'Stand firm, and I will return when I can!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Hilton Harper",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Hilton Harper",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x219db91",
+      "id": 35249041,
       "en": "'I see them! Orcs... to the north-west!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b2c591",
+      "id": 162710929,
       "en": "'What news of the Orcs?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Severin Wheeler has enlisted your help in the defence of Trestlebridge. The town is hard-pressed by the Orcs, and guardians are needed to keep them from crossing into Bree-land.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18fe491",
+      "id": 26207377,
       "en": "'Stay alert!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c1011",
+      "id": 7082001,
       "en": "'I am overwhelmed!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I received word that some farmers on the North Downs have holed up in a small cave and are requesting assistance from Trestlebridge. Before your arrival, I feared they would be lost, for I could not leave the town with so few defenders -- but with your timely arrival, I see now a chance to save those farmers.\\n\\n'I will ride to their defence, [placeholder], and I entrust the safety of Trestlebridge to you. If any Orcs attack while I am away, you must keep them away from the bridge at any cost! If the bridge is taken, we lose what small advantage we have. Do not let them reach the bridge!\\n\\n'A few men have pledged to aid in the defence. Speak to these hardy few and assign them their positions. I will see you again, if both our tasks lead to victory!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

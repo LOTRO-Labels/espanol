@@ -2,154 +2,129 @@
   "id": 621080478,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Isles: Elladan and Elrohir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'If you will return to the kergrim-infested ruin atop this island and retrieve my sword for me, I will see that you are rewarded. I also ask that you slay some more of the kergrim for me. They are disgusting creatures, spreading filth and disease, and they should not remain among the old ruins. It is not right.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Retrieve Yahîm's sword from the kergrim-infested ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'My brother and I thought to scout Bakhjâd and avoid the attention of the Corsair settlement we discovered in the island's interior, but it was not long before we heard the sound of someone calling for help from within the ruin atop this hill. We could not remain idle, [placeholder], you understand. We went to investigate and only then discovered that he was clearly a Corsair; by most accounting he is a foe of our mission, but we could not leave him to be devoured by the kergrim that threatened him.\\n\\n'We saved him and brought him back here. Have we done wrong?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'You are a friend of these Elves? I am not accustomed to speaking with such as they, but I cannot deny that if they had not come along I would now be dead.\\n\\n'My name is Yahîm, and I am not one to refuse aid when it is offered! It is true: I am a Corsair, and Mâr Naphra is my home, but I confess I am currently without a ship. If you hold a grudge against my kind, I understand it, but we are not currently at sea. On land can we not remain friendly?\\n\\n'I appreciate the timely intervention of these Elves, and I do not mean to be ungrateful... but when I followed them to safety I left my sword behind. If you will return to the kergrim-infested ruin atop this island and retrieve my sword for me, I will see that you are rewarded. The Elves seemed more interested in what I might know than what valuables I might give to them, if you take my meaning. I will tell you what I know about the Heirs of Castamir and the Kindred of the Coins... if you bring my sword to me at my home by the water on the eastern side of Mâr Naphra. Unless I have misjudged your intent, that is what you want to know, is it not?\\n\\n'If you will do this, can I ask for one more favour? Slay some more of the kergrim for me, will you? They are disgusting creatures, spreading filth and disease, and they should not remain among the old ruins. It is not right.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Talk to Elladan at Voyage's End",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'We saved him from the kergrim and brought him down here, though he is a Corsair and a foe of our mission. Have we done wrong?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Elrohir at Voyage's End",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'TBD - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'Watch yourself among the wrecks, [placeholder]. The kergrim are dangerous.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'Thank you for returning my sword to me. How would I make my living without it?'\\n\\nYahîm lowers his voice, and looks to either side before continuing in a hushed tone.\\n\\n'The life of a Corsair is not what it once was, I confess it. I blame the Heirs of Castamir for that, but when I do so I make sure not to do so loudly, or when not in the company of those I know well. I make an exception for you and for your Elf companions, for if you cannot trust those who save your life, who can you trust?\\n\\n'I promised you knowledge. Here it is: after the death of Balakhôr the Scourge in Gondor, his widow Saklaphêl thought to claim the rule of Umbar, acting as regent through their young son Balakhâd, but the rioting in the streets and the rise of the Kindred of the Coins caused her to abandon both that plan and the city; she fled to the Shield Isles, and now lives in exile here in Mâr Naphra. None see her. She issues orders to her servants through Galadaith, her spokesman. Supporters of the Heirs of Castamir believe she will organize the remaining Corsairs and attack the city and the Kindred who control it.\\n\\n'But I have heard there is a reason she cannot. Some say Balakhâd died during the fighting when the city fell, but others say that the Kindred hold him hostage, and Saklaphêl dares not attack the city for fear he will be slain.\\n\\n'Once again I thank you and those Elves for the rescue, and for the return of my sword. I hope my information is of help to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'Yahîm said you should bring his sword to him at his home by the water on the eastern side of Mâr Naphra. It may be he will know something useful about the Heirs of Castamir or the Kindred of the Coins. Once you have spoken with him, we will meet you back at the Wave-hunter.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Elladan and Elrohir have rescued a resident of the Shield Isles from danger, and he may share useful information with you if you help him further.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'This is a very strange adventure, [placeholder], where we must save our foes and rely upon what they can tell us to free our friends. My head spins, but I think Elrohir and I did the right thing. We could not leave Yahîm to be devoured by the kergrim, whether his allegiance is to the Heirs of Castamir or not. Corsair or no, he is still a Man, and he needed help.\\n\\n'My brother feels the same, I am certain of it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e04",
+      "id": 49286660,
       "en": "Bring Yahîm his sword at his home by the water on the eastern side of Mâr Naphra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'What did Yahîm have to say about the Heirs of Castamir and the Kindred of the Coins? Elladan and I would have rescued him no matter what information he had to share... but if his information is useful then so much the better.'\\n\\nYou tell Elrohir what the Corsair had to say, and he mulls it over for a moment.\\n\\n'He does not know if the son of Balakhôr and Saklaphêl is alive and held by the Kindred of the Coins, but I think we have seen enough to know that they are the type to take prisoners. It could be Thorongil and Corudan and Balakhâd are all being held in the same dungeon, the easier to keep an eye upon them. The Kindred can then use each of them as leverage upon their respective families and friends.\\n\\n'It is interesting, too, that Saklaphêl fled to Mâr Naphra. At least we will know from where the Heirs of Castamir might be organized, should they once again become a threat. It is worth keeping an eye upon, anyway. As if there was not enough to do already!\\n\\n'Thank you for helping us with Yahîm, [placeholder]. Elladan and I will see what else we can help with around here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Defeated kergrim among the ruins ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Elladan and Elrohir have saved Yahîm from danger, and he waits to speak with you in Bakhjâd.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'Once again I thank you and those Elves for the rescue, and for the return of my sword. I hope my information is of help to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Elladan and Elrohir have returned to the Wave-hunter in the Shield Isles.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "Yahîm has asked you to retrieve his sword from the kergrim den where he lost it, and to slay any of the creatures you can.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Yahîm waits for you to return his sword to him near his home by the water on the eastern side of Mâr Naphra.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Talk to Yahîm by Elrohir in Bakhjâd",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Defeat kergrim among the ruins ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a3",
+      "id": 177082787,
       "en": "This must be the sword Yahîm left behind when the Elves rescued him",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

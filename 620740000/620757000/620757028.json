@@ -2,184 +2,154 @@
   "id": 620757028,
   "txt": [
     {
-      "id": "0xe1b1784",
+      "id": 236656516,
       "en": "A new Title has been bestowed upon you, you may now be known as [placeholder]!\\n",
-      "es": "Se te ha otorgado un nuevo título, ¡ahora puedes ser conocido como [placeholder]!\\n",
-      "es (fem)": ""
+      "es": "Se te ha otorgado un nuevo título, ¡ahora puedes ser conocido como [placeholder]!\\n"
     },
     {
-      "id": "0xcdd0435",
+      "id": 215811125,
       "en": "Heritage",
-      "es": "Herencia",
-      "es (fem)": ""
+      "es": "Herencia"
     },
     {
-      "id": "0xda4ace4",
+      "id": 228895972,
       "en": "Test",
-      "es": "Prueba",
-      "es (fem)": ""
+      "es": "Prueba"
     },
     {
-      "id": "0x264a443",
+      "id": 40150083,
       "en": "Slayer Deed - Orc-kind",
-      "es": "Logro de Cazador - Orcos",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Orcos"
     },
     {
-      "id": "0xea9bdfe",
+      "id": 246005246,
       "en": "Slayer Deed - Unseen Evils",
-      "es": "Logro del Cazador - Males ocultos",
-      "es (fem)": ""
+      "es": "Logro del Cazador - Males ocultos"
     },
     {
-      "id": "0x72387c5",
+      "id": 119769029,
       "en": "Slayer Deed - Evil Peoples",
-      "es": "Logro de Cazador - Pueblos Malvados",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Pueblos Malvados"
     },
     {
-      "id": "0x78d0464",
+      "id": 126682212,
       "en": "You no longer meet the requirements for your active Title, it has been cleared.  You may wish to select a new active Title.\\n",
-      "es": "Ya no cumples con los requisitos para tu título activo, ha sido eliminado. Es posible que desees seleccionar un nuevo título activo.\\n",
-      "es (fem)": ""
+      "es": "Ya no cumples con los requisitos para tu título activo, ha sido eliminado. Es posible que desees seleccionar un nuevo título activo.\\n"
     },
     {
-      "id": "0xa3f5c49",
+      "id": 171924553,
       "en": "Hobby",
-      "es": "Afición",
-      "es (fem)": ""
+      "es": "Afición"
     },
     {
-      "id": "0xa37b72e",
+      "id": 171423534,
       "en": "Admin",
-      "es": "Admin",
-      "es (fem)": ""
+      "es": "Admin"
     },
     {
-      "id": "0x49f3634",
+      "id": 77542964,
       "en": "Slayer Deed - Giant-kind",
-      "es": "Logro de Cazador - Giantes",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Giantes"
     },
     {
-      "id": "0x3e86624",
+      "id": 65562148,
       "en": "One of your Titles has been revoked from you!\\n",
-      "es": "Uno de tus títulos ha sido revocado.\\n",
-      "es (fem)": ""
+      "es": "Uno de tus títulos ha sido revocado.\\n"
     },
     {
-      "id": "0x6498754",
+      "id": 105482068,
       "en": "Slayer Deed - The Dead",
-      "es": "Logro del Cazador - Los Muertos",
-      "es (fem)": ""
+      "es": "Logro del Cazador - Los Muertos"
     },
     {
-      "id": "0x4e9584c",
+      "id": 82401356,
       "en": "Slayer Deed - Troll-kind",
-      "es": "Logro de Cazador - Troles",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Troles"
     },
     {
-      "id": "0x246a438",
+      "id": 38183992,
       "en": "Skirmish",
-      "es": "Escaramuza",
-      "es (fem)": ""
+      "es": "Escaramuza"
     },
     {
-      "id": "0xc2393b5",
+      "id": 203658165,
       "en": "Slayer Deed - Free Peoples",
-      "es": "Logro del Cazador - Pueblos Libres",
-      "es (fem)": ""
+      "es": "Logro del Cazador - Pueblos Libres"
     },
     {
-      "id": "0x8300de7",
+      "id": 137367015,
       "en": "Crafting",
-      "es": "Elaboración",
-      "es (fem)": ""
+      "es": "Elaboración"
     },
     {
-      "id": "0xbe24cd5",
+      "id": 199380181,
       "en": "Pedigree",
-      "es": "Pedigrí",
-      "es (fem)": ""
+      "es": "Pedigrí"
     },
     {
-      "id": "0xce475c",
+      "id": 13518684,
       "en": "Slayer Deed - Ancient Evil",
-      "es": "Logro de Cazador - Mal Antiguo",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Mal Antiguo"
     },
     {
-      "id": "0x3cd0813",
+      "id": 63768595,
       "en": "Event",
-      "es": "Evento",
-      "es (fem)": ""
+      "es": "Evento"
     },
     {
-      "id": "0x978de34",
+      "id": 158916148,
       "en": "Deed",
-      "es": "Logro",
-      "es (fem)": ""
+      "es": "Logro"
     },
     {
-      "id": "0x2014540",
+      "id": 33637696,
       "en": "Kinship",
-      "es": "Hermandad",
-      "es (fem)": ""
+      "es": "Hermandad"
     },
     {
-      "id": "0xf97fad4",
+      "id": 261618388,
       "en": "You will now be known as [placeholder] to those you meet in your travels.\\n",
-      "es": "Ahora serás conocido como [placeholder] por aquellos que encuentres en tus viajes.\\n",
-      "es (fem)": ""
+      "es": "Ahora serás conocido como [placeholder] por aquellos que encuentres en tus viajes.\\n"
     },
     {
-      "id": "0xa48b874",
+      "id": 172537972,
       "en": "Quest",
-      "es": "Misión",
-      "es (fem)": ""
+      "es": "Misión"
     },
     {
-      "id": "0xa649ac5",
+      "id": 174365381,
       "en": "Slayer Deed - Corrupted Nature",
-      "es": "Logro del Asesino - Naturaleza Corrompida",
-      "es (fem)": ""
+      "es": "Logro del Asesino - Naturaleza Corrompida"
     },
     {
-      "id": "0x9945c1e",
+      "id": 160717854,
       "en": "Slayer Deed - Dragon-kind",
-      "es": "Logro de Cazador - Dragones",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Dragones"
     },
     {
-      "id": "0x49a7ac4",
+      "id": 77232836,
       "en": "Slayer Deed - Beast",
-      "es": "Logro de Cazador - Bestia",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Bestia"
     },
     {
-      "id": "0x4a5d2dc",
+      "id": 77976284,
       "en": "Social",
-      "es": "Social",
-      "es (fem)": ""
+      "es": "Social"
     },
     {
-      "id": "0x9e9bde4",
+      "id": 166313444,
       "en": "Slayer Deed - Spiders and Insects",
-      "es": "Logro de Cazador - Arañas e insectos",
-      "es (fem)": ""
+      "es": "Logro de Cazador - Arañas e insectos"
     },
     {
-      "id": "0xee20084",
+      "id": 249692292,
       "en": "One of your titles has changed!  You may now be known as [placeholder], instead of [placeholder].\\n",
-      "es": "Uno de tus títulos ha cambiado. Ahora puedes ser conocido como [placeholder], en lugar de [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Uno de tus títulos ha cambiado. Ahora puedes ser conocido como [placeholder], en lugar de [placeholder].\\n"
     },
     {
-      "id": "0x4a2c262",
+      "id": 77775458,
       "en": "Slayer Deed",
-      "es": "Logro del Cazador",
-      "es (fem)": ""
+      "es": "Logro del Cazador"
     }
   ]
 }

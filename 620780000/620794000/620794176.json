@@ -2,790 +2,659 @@
   "id": 620794176,
   "txt": [
     {
-      "id": "0xd3d4314",
+      "id": 222118676,
       "en": "Enter the name of the player to add.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa50e463",
+      "id": 173073507,
       "en": "Add to Favourites",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x44fb9ec",
+      "id": 72333804,
       "en": "Add",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3914e65",
+      "id": 59854437,
       "en": "No House Types",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ba3dac",
+      "id": 112868780,
       "en": "Use Decorations",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xebb8105",
+      "id": 247169285,
       "en": "Grants access to housing storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12a0614",
+      "id": 19531284,
       "en": "Upkeep is paid for this date.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8580d4c",
+      "id": 139988300,
       "en": "Group or Character Names:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x401af0c",
+      "id": 67219212,
       "en": "Apply",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x202e22e",
+      "id": 33743406,
       "en": "[placeholder], [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb221c3e",
+      "id": 186784830,
       "en": "Please type '[placeholder]' to abandon this house. NOTE: Houses cannot be recovered and currency will not be refunded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1665684",
+      "id": 23484036,
       "en": "Reset Z-axis translation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb134bc",
+      "id": 196162748,
       "en": "Housing Upkeep",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8d8274",
+      "id": 177046132,
       "en": "You do not currently have a kinship house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe79a29c",
+      "id": 242852508,
       "en": "Next Upkeep Deducted: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcbf2ac",
+      "id": 265024172,
       "en": "Please type '[placeholder]' to abandon this house. NOTE: Houses cannot be recovered and currency will not be refunded. You will be unable to purchase another classic house for [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa9b7e3c",
+      "id": 177962556,
       "en": "Cancel",
-      "es": "Cancelar",
-      "es (fem)": ""
+      "es": "Cancelar"
     },
     {
-      "id": "0x5a47f05",
+      "id": 94666501,
       "en": "You do not own a personal home. Another character on your account does and there is a limit of one personal house per-account.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ce69dc",
+      "id": 164522460,
       "en": "Cannot afford upkeep cost for mithril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdce5b75",
+      "id": 231627637,
       "en": "You do not own any housing.\\n\\nTo purchase a personal or premium home, visit a housing broker.\\n\\nTo purchase a kinship home, your kinship leader must visit a housing broker.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c6a1a5",
+      "id": 46571941,
       "en": "You do not own a personal house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49f14ac",
+      "id": 77534380,
       "en": "Visitor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x745ef8c",
+      "id": 122023820,
       "en": "Cost:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ac7c39",
+      "id": 111967289,
       "en": "Changes to permissions must be applied before they take effect",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x96141b4",
+      "id": 157368756,
       "en": "Purchase additional upkeep by the week for this house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2829464",
+      "id": 42112100,
       "en": "A lost item was returned to escrow!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1465684",
+      "id": 21386884,
       "en": "Reset X-axis translation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x397fe15",
+      "id": 60292629,
       "en": "Some House Types",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59889dd",
+      "id": 93882845,
       "en": "Please type '[placeholder]' to sell this house for [placeholder] Homesteading Coins. NOTE: Houses cannot be recovered once sold.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c5e66e",
+      "id": 46524014,
       "en": "Permissions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa7a382c",
+      "id": 175781932,
       "en": "Remove",
-      "es": "Quitar",
-      "es (fem)": ""
+      "es": "Quitar"
     },
     {
-      "id": "0xd1c232c",
+      "id": 219947820,
       "en": "Import Friends",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4d3f1c",
+      "id": 256720668,
       "en": "Mithril Unlock House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78a284",
+      "id": 7905924,
       "en": "This house is now locked.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x499681c",
+      "id": 77162524,
       "en": "Please type '[placeholder]' to abandon your kinship house. Note: You will not be able to purchase another kinship house for [placeholder]. Any currency spent on upkeep will not be refunded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x262a7bc",
+      "id": 40019900,
       "en": "Permissions for: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa7a406c",
+      "id": 175784044,
       "en": "Price: ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd9249e",
+      "id": 198780062,
       "en": "Maintenance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84cc85c",
+      "id": 139249756,
       "en": "For Sale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa0e942",
+      "id": 262203714,
       "en": "Return To Owner",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11751dc",
+      "id": 18305500,
       "en": "Deposit Upkeep",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75688ac",
+      "id": 123111596,
       "en": "Housing Storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3e10fc",
+      "id": 188616956,
       "en": "Mithril Deposit Upkeep",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x63ec2ac",
+      "id": 104776364,
       "en": "Kinship House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4427b32",
+      "id": 71465778,
       "en": "Currently visiting the home of [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a9539c",
+      "id": 111760284,
       "en": "Neighbourhoods",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e4a5bc",
+      "id": 132425148,
       "en": "Set All",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x137129c",
+      "id": 20386460,
       "en": "Lockout Date: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x879d945",
+      "id": 142203205,
       "en": "Home of [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5074e5",
+      "id": 189822181,
       "en": "Rotate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c4d2ac",
+      "id": 163893932,
       "en": "Escrow",
-      "es": "Depósitario",
-      "es (fem)": ""
+      "es": "Depósitario"
     },
     {
-      "id": "0x1b34b62",
+      "id": 28527458,
       "en": "Decoration",
-      "es": "Decoración",
-      "es (fem)": ""
+      "es": "Decoración"
     },
     {
-      "id": "0x73579ce",
+      "id": 120945102,
       "en": "Abandon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbcd74e0",
+      "id": 198014176,
       "en": "Returns a bound item to the owner's housing chest or escrow if no house is owned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x323014c",
+      "id": 52625740,
       "en": "Hide items bound to other characters",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd644bd5",
+      "id": 224676821,
       "en": "Your kinship does not own a home. To buy one, your kinship leader must visit a housing broker.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x40021ae",
+      "id": 67117486,
       "en": "Sell",
-      "es": "Vender",
-      "es (fem)": ""
+      "es": "Vender"
     },
     {
-      "id": "0x5c75554",
+      "id": 96949588,
       "en": "Pay the restoration fee to unlock your house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x363048c",
+      "id": 56820876,
       "en": "For Sale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f4df57",
+      "id": 133488471,
       "en": "Are you sure you want to send this decoration to its owner?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa0e7c",
+      "id": 16387708,
       "en": "Buy House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e5fb8d",
+      "id": 132512653,
       "en": "Purchase house at address '[placeholder]' for #1:[placeholder] Homesteading #1:{Coin[1]|Coins}?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x783bd7c",
+      "id": 126074236,
       "en": "Unlock House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84b28f4",
+      "id": 139143412,
       "en": "Purchase additional upkeep by the week for this house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c031b3",
+      "id": 29372851,
       "en": "Grants permission to use decoration items",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e99383",
+      "id": 132748163,
       "en": "Drag the appropriate decoration icon from your inventory into this slot.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ebbbfc",
+      "id": 82557948,
       "en": "Get more Mithril Coins",
-      "es": "Consigue más monedas de Mithril",
-      "es (fem)": ""
+      "es": "Consigue más monedas de Mithril"
     },
     {
-      "id": "0xbe6743c",
+      "id": 199652412,
       "en": "Upkeep Price:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d65b04",
+      "id": 30825220,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x6d2c5d",
+      "id": 7154781,
       "en": "Grants permission to manage permissions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe59210c",
+      "id": 240722188,
       "en": "Available Houses",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6bdb24",
+      "id": 7068452,
       "en": "You do not currently own a house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b277c3",
+      "id": 45250499,
       "en": "Allowed Categories:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7bef7a8",
+      "id": 129955752,
       "en": "You have purchased all of the storage spaces available",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfced2b4",
+      "id": 265212596,
       "en": "Upkeep is due by this date.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b0dbd4",
+      "id": 129031124,
       "en": "Pay the restoration fee in mithril to unlock your house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2589e75",
+      "id": 39362165,
       "en": "Cannot afford storage cost.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76f3d8c",
+      "id": 124730764,
       "en": "[placeholder]/[placeholder] Defined",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29c8aee",
+      "id": 43813614,
       "en": "When a house is abandoned, the decorations of that house are put into an escrow account that can be accessed here.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4fb535",
+      "id": 172995893,
       "en": "Your Kinship's Home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdbd49f9",
+      "id": 230509049,
       "en": "Refund [placeholder] for #1:[placeholder] #1:{upkeep[1]|upkeeps} not added.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x95f66cc",
+      "id": 157247180,
       "en": "Sell this property for:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e9f418",
+      "id": 166327320,
       "en": "Translate along the X-axis",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e9f419",
+      "id": 166327321,
       "en": "Translate along the Y-axis",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x787acd0",
+      "id": 126332112,
       "en": "Purchase last available upkeep?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x700e13c",
+      "id": 117498172,
       "en": "House will be foreclosed on [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e9f41a",
+      "id": 166327322,
       "en": "Translate along the Z-axis",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x685a924",
+      "id": 109422884,
       "en": "Filter houses by type.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdebe645",
+      "id": 233563717,
       "en": "Your kinship does not own a kinship house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd617a8c",
+      "id": 224492172,
       "en": "Purchase pushes Lockout Date to [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5bc4910",
+      "id": 96225552,
       "en": "Cannot afford upkeep cost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5da874b",
+      "id": 98207563,
       "en": "Cannot afford unlock cost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb56e245",
+      "id": 190243397,
       "en": "Grants permission to add and remove decoration items",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f3509c",
+      "id": 166940828,
       "en": "Decorate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23901ac",
+      "id": 37290412,
       "en": "All House Types",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1536a4",
+      "id": 1390244,
       "en": "Hides items bound to other characters",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xca7c04c",
+      "id": 212320332,
       "en": "Maintenance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b3fa23",
+      "id": 112458275,
       "en": "You do not have the funds to purchase this house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb584cc",
+      "id": 11896012,
       "en": "Housing Storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61787d4",
+      "id": 102205396,
       "en": "Save",
-      "es": "Guardar",
-      "es (fem)": ""
+      "es": "Guardar"
     },
     {
-      "id": "0x821af7c",
+      "id": 136425340,
       "en": "Upkeep is waived for VIP house owners and leaders",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2629935",
+      "id": 40016181,
       "en": "Your Kinship Home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2a570de",
+      "id": 44396766,
       "en": "Abandon Kinship House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf99680",
+      "id": 200906368,
       "en": "The decoration has been moved too far away from the house or its hook.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd85083c",
+      "id": 226822204,
       "en": "Manage Permissions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d90504",
+      "id": 114885892,
       "en": "Allows you to enter inside your house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd378b20",
+      "id": 221743904,
       "en": "Saves your decoration changes and closes this panel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa695d37",
+      "id": 174677303,
       "en": "NOTE: Any currency spent on upkeep will not be refunded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd86b783",
+      "id": 226932611,
       "en": "Remove from Favourites",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1dce84",
+      "id": 236834436,
       "en": "Reset Rotation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xefe5b8c",
+      "id": 251550604,
       "en": "Kinship Escrow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x139d584",
+      "id": 20567428,
       "en": "You have already maxed out the number of upkeeps you may purchase",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c10319",
+      "id": 62980889,
       "en": "Show Favourites Only",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7d24de",
+      "id": 259859678,
       "en": "Only the character who purchased this house may sell it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82fc925",
+      "id": 137349413,
       "en": "Your Home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12801c",
+      "id": 1212444,
       "en": "Personal House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa22f39c",
+      "id": 170062748,
       "en": "Ok",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7dff723",
+      "id": 132118307,
       "en": "To purchase a Personal or Premium House, you must have reached a level of at least [placeholder]. You are limited to one Personal house per account, but can purchase any number of Premium Houses.\\n\\nTo purchase a Kinship House, you must be the leader of a kinship that has reached a lifespan of at least [placeholder].\\n\\nUpkeep must be paid weekly or in advance for all houses, however upkeep of Premium Housing is waived for VIPs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d974a0",
+      "id": 165246112,
       "en": "There is no decoration slotted to this hook.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1471d4",
+      "id": 202666452,
       "en": "Make this house your primary residence",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x99c90e",
+      "id": 10078478,
       "en": "Permissions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd019bf4",
+      "id": 218209268,
       "en": "You made changes to permission without applying them. Do you want to apply your changes now? If you choose not to apply your changes, they will be lost.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b344ac",
+      "id": 78857388,
       "en": "Locked until restoration fee is paid.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd87cba0",
+      "id": 227003296,
       "en": "Grants permission to pay upkeep and unlock housing storage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf910ec",
+      "id": 184094956,
       "en": "House Types:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d785d9",
+      "id": 47678937,
       "en": "Removed [placeholder] for #1:[placeholder] #1:{upkeep[1]|upkeeps}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1bb4ece",
+      "id": 29052622,
       "en": "Please enter '[placeholder]' into the confirmation box to abandon your kinship house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5ac405",
+      "id": 257606661,
       "en": "Your House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf80b7a7",
+      "id": 260093863,
       "en": "Currently Visiting...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5e45d0",
+      "id": 190727632,
       "en": "Travel to this house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1765684",
+      "id": 24532612,
       "en": "Reset Y-axis translation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

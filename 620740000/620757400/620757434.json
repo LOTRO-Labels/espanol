@@ -2,208 +2,174 @@
   "id": 620757434,
   "txt": [
     {
-      "id": "0x4bf7b23",
+      "id": 79657763,
       "en": "Trade System reported general error ([placeholder]).\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d3ed34",
+      "id": 97774900,
       "en": "Trade finished.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4f3a1e4",
+      "id": 83075556,
       "en": "You cannot trade that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9d97e5",
+      "id": 245209061,
       "en": "[placeholder] wishes to trade with you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x189d23",
+      "id": 1613091,
       "en": "Trading items ...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c78255",
+      "id": 29852245,
       "en": "[placeholder] is currently fighting.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe143abb",
+      "id": 236206779,
       "en": "You do not have enough room in your pack for #2:{all[!1]} #2:[placeholder] #2:{more item[1]|items}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdbccc74",
+      "id": 230476916,
       "en": "You change the offer.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6213232",
+      "id": 102838834,
       "en": "You must offer something.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x94a5c17",
+      "id": 155868183,
       "en": "[placeholder] is already trading.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8915d89",
+      "id": 143744393,
       "en": "You don't have that much money to offer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe02b18b",
+      "id": 235057547,
       "en": "#1:[placeholder] does not have enough room in #1:{his[m]|her[f]|its} pack for #2:{all[!1]} #2:[placeholder] #2:{more item[1]|items}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23812e4",
+      "id": 37229284,
       "en": "Offer failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc165e7",
+      "id": 197223911,
       "en": "Someone is already trying to trade with you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x72e2414",
+      "id": 120464404,
       "en": "The trade was interrupted because the other player logged out, the trade may have been only partially completed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x69de0bb",
+      "id": 111009979,
       "en": "You can only trade items in your pack.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x62a7b07",
+      "id": 103447303,
       "en": "You are already opening trade negotiations.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68d8e82",
+      "id": 109940354,
       "en": "Your partner",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x17f0839",
+      "id": 25102393,
       "en": "You are too busy at the moment to trade. Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5fbf6f5",
+      "id": 100398837,
       "en": "Unable to trade with that character.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf62295e",
+      "id": 258091358,
       "en": "You must open trade first.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc33b75",
+      "id": 12794741,
       "en": "You must revoke something.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf6099e4",
+      "id": 257989092,
       "en": "You must wait before trading again.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc59b47",
+      "id": 197499719,
       "en": "You are already trading.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x42873e3",
+      "id": 69759971,
       "en": "You can only trade with other PCs.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb743b45",
+      "id": 192166725,
       "en": "There was a problem completing the trade.  All items returned to owners.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2179919",
+      "id": 35100953,
       "en": "#1:[placeholder] is too busy at the moment to trade. Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfdf49c2",
+      "id": 266291650,
       "en": "You must specify someone to trade with.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x917f5c2",
+      "id": 152565186,
       "en": "You are too far away from your partner to trade with them.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x32e8145",
+      "id": 53379397,
       "en": "You can't offer items that are destroyed when they are acquired.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0559e",
+      "id": 12604830,
       "en": "[placeholder] has a container open.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dacfb6",
+      "id": 31117238,
       "en": "You cannot trade with yourself.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8370f54",
+      "id": 137826132,
       "en": "Your partner has changed the offer.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc30185",
+      "id": 12779909,
       "en": "You cannot revoke that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

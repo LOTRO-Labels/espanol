@@ -2,304 +2,254 @@
   "id": 620757417,
   "txt": [
     {
-      "id": "0x911dc95",
+      "id": 152165525,
       "en": "No Fellowship Manoeuvre match for j00!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1761244",
+      "id": 24515140,
       "en": "<rgb=#00FF00>heal</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x744aef7",
+      "id": 121941751,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd2f8f2",
+      "id": 215152882,
       "en": "[placeholder] has broken the defences of [placeholder]!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf2f289",
+      "id": 200471177,
       "en": "<rgb=#C71585>parried</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb8d6e8b",
+      "id": 193818251,
       "en": "<rgb=#FF4500>blocked</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c52cd5",
+      "id": 163917013,
       "en": "[placeholder] scored a [placeholder] on #1:{the[!n]} #1:[placeholder] for [placeholder] [placeholder] damage to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb88bcb5",
+      "id": 193510581,
       "en": "<rgb=#DAA520>evaded</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x983e0d4",
+      "id": 159637716,
       "en": "<rgb=#008000>critical heal</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa23f102",
+      "id": 170127618,
       "en": "defender",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec791b4",
+      "id": 247959988,
       "en": "<rgb=#BC8F8F>avoided</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xafc2c94",
+      "id": 184298644,
       "en": "<rgb=#B22222>critical hit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x70d0e05",
+      "id": 118296069,
       "en": "<rgb=#EEE8AA>partially evaded hit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7174039",
+      "id": 118964281,
       "en": "<rgb=#DB7093>partially parried hit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x53c8716",
+      "id": 87852822,
       "en": "You have dropped your defences!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c167de",
+      "id": 96561118,
       "en": "[placeholder] has triggered anti-exploit mode. Correct the situation by moving into a reachable position. Failure to do so will cause the monster to reset.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x688b9",
+      "id": 428217,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x70afc3b",
+      "id": 118160443,
       "en": "<rgb=#FFD700>partially blocked hit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdafd9f5",
+      "id": 229628405,
       "en": "#1:{The[!n]} #1:[placeholder] scored a [placeholder] on #2:{the[!n]} #2:[placeholder] for [placeholder] [placeholder] damage to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa143684",
+      "id": 169096836,
       "en": "#1:{The[!n]} #1:[placeholder] was <rgb=#FFEBCD>deflected</rgb> trying to use [placeholder] on #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x692bc52",
+      "id": 110279762,
       "en": "You have broken the defences of [placeholder]!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb21fb65",
+      "id": 186776421,
       "en": "#1:{The[!n]} #1:[placeholder] applied a [placeholder] to #2:{the[!n]} #2:[placeholder] restoring #3:[placeholder] #3:{point[1]|points} to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd8c8b5",
+      "id": 232310965,
       "en": "Matched Fellowship Manoeuvre [placeholder], it's beatdown time!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb5b8f4",
+      "id": 213235956,
       "en": "[placeholder] has broken your defences!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe480540",
+      "id": 239600960,
       "en": "#1:{The[!n]} #1:[placeholder] scored a [placeholder] with [placeholder] on #2:{the[!n]} #2:[placeholder] for [placeholder] ([placeholder] from [placeholder] [placeholder]) [placeholder] damage to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x66c1615",
+      "id": 107746837,
       "en": "[placeholder] applied a [placeholder] to #1:{the[!n]} #1:[placeholder] restoring #2:[placeholder] #2:{point[1]|points} to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8421244",
+      "id": 138547780,
       "en": "<rgb=#FFFF00>benefit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaac2875",
+      "id": 179054709,
       "en": "someone",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd83d7e4",
+      "id": 226744292,
       "en": "<rgb=#808000>critical benefit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x901c894",
+      "id": 151111828,
       "en": "#1:{The[!n]} #1:[placeholder] was interrupted by #2:{the[!n]} #2:[placeholder]!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa68fa44",
+      "id": 174651972,
       "en": "#1:{The[!n]} #1:[placeholder] <rgb=#FFEBCD>missed</rgb> trying to use [placeholder] on #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x63c13c5",
+      "id": 104600517,
       "en": "[placeholder] has contributed [placeholder]...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4e3a22",
+      "id": 172898850,
       "en": "attacker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x936f34",
+      "id": 9662260,
       "en": "#1:{The[!n]} #1:[placeholder] tried to use [placeholder] on #2:{the[!n]} #2:[placeholder] but #2:{he[m]|she[f]|they[p]|it} #3:[placeholder] the attempt.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6f375",
+      "id": 11989877,
       "en": "#1:{The[!n]} #1:[placeholder] applied a [placeholder] with [placeholder] to #2:{the[!n]} #2:[placeholder] restoring #3:[placeholder] #3:{point[1]|points} to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6735c84",
+      "id": 108223620,
       "en": "[placeholder] was #1:[placeholder] by #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0042d5",
+      "id": 184566485,
       "en": "#1:{The[!n]} #1:[placeholder] scored a [placeholder] with [placeholder] on #2:{the[!n]} #2:[placeholder] for [placeholder] [placeholder] damage to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcba17c5",
+      "id": 213522373,
       "en": "#1:{The[!n]} #1:[placeholder] <rgb=#6495ED>reflected</rgb> [placeholder] [placeholder] damage to the [placeholder] of #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd56cf4e",
+      "id": 223792974,
       "en": "<UNKNOWN>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1cf55c",
+      "id": 1897820,
       "en": "#1:{The[!n]} #1:[placeholder] reflected #3:[placeholder] #3:{point[1]|points} restored to the [placeholder] of #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7f4344",
+      "id": 259998532,
       "en": "<rgb=#9400D3>devastating hit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcb3114",
+      "id": 264974612,
       "en": "<rgb=#BC8F8F>resisted</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf058704",
+      "id": 252020484,
       "en": "#1:{The[!n]} #1:[placeholder] applied a [placeholder] with [placeholder] on #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6958744",
+      "id": 110462788,
       "en": "#1:{The[!n]} #1:[placeholder] scored a [placeholder] with [placeholder] on #2:{the[!n]} #2:[placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8c5fbf5",
+      "id": 147192821,
       "en": "was immune to",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbcc6375",
+      "id": 197944181,
       "en": "The [placeholder] defeated #1:[placeholder] [placeholder] #1:{enemies | enemy[1]} with [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1caabd5",
+      "id": 30059477,
       "en": "[placeholder] has reneged!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5356994",
+      "id": 87386516,
       "en": "<rgb=#FF0000>hit</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xed5893e",
+      "id": 248875326,
       "en": "an unknown source",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3fc4a23",
+      "id": 66865699,
       "en": "You have lost [placeholder] points of temporary [placeholder]!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

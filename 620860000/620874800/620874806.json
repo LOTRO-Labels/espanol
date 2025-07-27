@@ -2,334 +2,279 @@
   "id": 620874806,
   "txt": [
     {
-      "id": "0xc41c475",
+      "id": 205636725,
       "en": "'Making the <rgb=#FF00FF00>leather pad</rgb> is simple. Make your way to the workbench and stitch it together. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c476",
+      "id": 205636726,
       "en": "'Good work, so far. Get your hands to work and stitch together that <rgb=#FF00FF00>rough cloth cloak</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c477",
+      "id": 205636727,
       "en": "'Grab your <rgb=#FF00FF00>tailoring tools</rgb> and make sure you have them equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you and make your way to the workbench.'\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'It looks as though you have strayed a little ways from home, [placeholder], and you want to learn the art of tailoring?\\n\\n'It seems, then, that you have come to the right place.\\n\\n'You want to speak with Jes by the workbench. He will be able to set you upon the path of the tailor.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Tailoring, is it? A fine choice for any dwarf! After all, we need to wear clothes.\\n\\n'Go over to the workbench and speak with Jes.\\n\\n'He will set you on the path to becoming another fine tailor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You are far from home, [placeholder]. We will honour your request and help you as you learn the art of tailoring.\\n\\n'Cannasgam, near the workbench, is an apprentice in the art of tailoring. If you are looking for guidance, I am certain that he will be willing to assist you with the fundamentals of the craft.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Sewing silken thread into finery and etching the softest leather has been the passion and calling of many Elves. It is nice to see that there are others who wish to learn this craft.\\n\\n'I have asked one of our promising novices to watch over and guide any new tailors towards learning the very basics of the profession. His name is Cannasgam, and he stands near the workbench here at the Terrace.\\n\\n'Speak with him, and he will teach you the very basics as he progresses in his own studies.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'You will find Halfred Bolger near the workbench here in the Crafting Area. \\n\\n'He is knowledgeable in the art of tailoring and is awaiting the arrival of new would-be tailors. \\n\\n'Speak with him if you are interested in learning and practicing the tailoring profession.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have made a leather pad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'Tailors are very plentiful and welcome here in the Shire. I have enlisted the aid of one of the finest novices in Michel Delving to assist each new apprentice.\\n\\n'You will want to speak with Halfred Bolger over near the workbench. He has volunteered his time and energy to teach all the new apprentices. Mind him well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have made a rough cloth cloak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'Well look at you. I do not often see your folk here, and when I do, I always find it a bit queer. Well, hobbits less so because of the hill.\\n\\n'Oh, I am sorry, you wish to know more of tailoring? It just so happens that there is a fine tailor in this very hall, still learning, but taking to the art very quickly. Her name is Sara Crabgrass, and you will find her by the workbench in the larger room.\\n\\n'Good day, [placeholder].'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085258",
+      "id": 218649176,
       "en": "'Tailoring is a goal worth pursuing, and there are many fine tailors here in Combe. I have secured the time and teaching of Sara Crabgrass, a novice tailor, but a fine student who is quickly refining her art, to teach all those who are looking to set out as tailors.\\n\\n'She can be found near the workbench, here in the Craft Hall of Combe.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085259",
+      "id": 218649177,
       "en": "'Hello, there. I hear that you are interested in learning the ways of a tailor. If so, you have come to the right place.\\n\\n'I will try not to move too quickly for you, but if I do, speak with me again to ask more pointed questions.\\n\\n'I almost forgot the most important thing for every new tailor -- ingredients. Everything you need to make a rough cloth cloak is inside this <rgb=#FF00FF00>crate</rgb>.'\\n\\n<rgb=#FF00FF00>Tailor vendors sell ingredients and recipes that are a vital part of any Tailor's training and continued work.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Tailors craft the normal dress worn by most free folk dwelling in Middle-earth. They are also proficient at crafting light and medium leather armour. A good tailor is always a welcome addition to the Crafting Guilds.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipes and deliver the correct items outlined in this quest. \\n\\nYou will need to execute the rough cloth cloak recipe and deliver the rough cloth cloak. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Speak with the Novice Tailor near the workbench in the crafting area",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "You have been provided with ingredients",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Tailor to collect the brushed light leather and one bolt of rough cloth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "You now have all the ingredients to make a rough cloth cloak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Using the ingredients you received, craft a <rgb=#FF00FF00>leather pad</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Using the ingredients you have, craft a <rgb=#FF00FF00>rough cloth cloak</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Bring the <rgb=#FF00FF00>rough cloth cloak</rgb> to the Novice Tailor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852580",
+      "id": 8725888,
       "en": "'Do you have the rough cloth cloak on you? I do not see it. I hope you did not tear it up in frustration or sell it for coin. I would like to inspect that work. You had best find a way to make another.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852581",
+      "id": 8725889,
       "en": "'Let me see what you have done.'\\n\\nHe examines the cloak closely.\\n\\n'An excellent piece of handiwork, [placeholder]. You did very well in making this cloak.\\n\\n'I think that this is a very good effort and proves that you are prepared to contine your work toward becoming a master tailor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852582",
+      "id": 8725890,
       "en": "'Do you have the Rough Cloak on you? I do not see it. I hope you did not tear it up in frustration or sell it for coin. I would like to inspect that work. Best find a way to make another.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "You should speak with the Novice Tailor to learn more about tailoring.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Novice Tailor provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute the rough cloth cloak recipe. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "#-1:[placeholder]#-1:{Halfred[O]|Cannasgam[L]|Jes[D]|Sara} provided you with the ingredients necessary to create a rough cloth cloak. First, however, you must prepare the <rgb=#FF00FF00>leather pad</rgb>.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Create the <rgb=#FF00FF00>rough cloth cloak</rgb>, as instructed by the Novice Tailor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the rough cloth cloak!</rgb> It is time to show your handiwork to your mentor, the Novice Tailor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852590",
+      "id": 8725904,
       "en": "'If you are looking for guidance in tailoring, then I am prepared to offer you direction.\\n\\n'If my methods are too fast, feel free to speak to me again, and I will answer any questions that you may have. I will do my best to provide you with clear direction. The first and most important step is having the proper ingredients.\\n\\n'I have kept some of these ingredients aside for purpose of providing to new tailors. Take this <rgb=#FF00FF00>crate</rgb> and let us begin.'\\n\\n<rgb=#FF00FF00>Tailor vendors sell ingredients and recipes that are a vital part of any Tailor's training and continued work.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'You should speak at once with the tailor trainer.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852591",
+      "id": 8725905,
       "en": "'Well, look here, another would-be tailor. I am pleased to meet you and looking forward to helping you get started.\\n\\n'If I go too fast or you need help at any point, you can ask me questions about tailoring, and I will do my best to provide you with clear direction. The first and most important step is having the proper ingredients.\\n\\n'I set aside a few for new tailors like yourself. Take this <rgb=#FF00FF00>crate</rgb> and let us begin.'\\n\\n<rgb=#FF00FF00>Tailor vendors sell ingredients and recipes that are a vital part of any Tailor's training and continued work.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'You should speak at once with the tailor trainer.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
+      "id": 8725906,
       "en": "'Hello, there. I hear that you are interested in learning the ways of a tailor. If so, you have come to the right place.\\n\\n'I will try not to move too quickly for you, but if I do, speak with me again to ask more pointed questions.\\n\\n'I almost forgot the most important thing for every new tailor -- ingredients. Everything you need to make a rough cloth cloak is inside this <rgb=#FF00FF00>crate</rgb>.'\\n\\n<rgb=#FF00FF00>Tailor vendors sell ingredients and recipes that are a vital part of any Tailor's training and continued work.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'You should speak at once with the tailor trainer.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852593",
+      "id": 8725907,
       "en": "'Let me see what you were able to do....'\\n\\nHe inspects the cloak with a discerning eye.\\n\\n'Your needlework is impressive -- very tight and even stitches, something not easily done. No folds in the fabric where there should be no folds, either. \\n\\n'I think that you have done very, very well, [placeholder]. I approve and declare you a novice tailor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'You should speak at once with the tailor trainer.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852594",
+      "id": 8725908,
       "en": "'Oh no, did you sell your rough cloth cloak? Well, I need to inspect one, so you had better find a way to make me another.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c45",
+      "id": 63183941,
       "en": "'Making the <rgb=#FF00FF00>leather pad</rgb> is simple. Make your way to the workbench and stitch it together. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852595",
+      "id": 8725909,
       "en": "'Let us see what you have gone and made.'\\n\\nHe rubs his hands over the fabric.\\n\\n'A fine effort, if I do say so myself. Your needlework is very tight and even. The fabric hangs loosely enough and shows no bunching.\\n\\n'You pass, [placeholder]. You are on your way towards becoming a master tailor!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c46",
+      "id": 63183942,
       "en": "'Good work, so far. Get your hands to work and craft that <rgb=#FF00FF00>rough cloth cloak</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852596",
+      "id": 8725910,
       "en": "'I hope you did not tear up your cloak. Or did you sell it for some meagre coin? Well...I cannot pass you without seeing your handiwork. Back to the workbench with you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c47",
+      "id": 63183943,
       "en": "'Grab your <rgb=#FF00FF00>tailoring tools</rgb> and make sure you have them equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you and make your way to the workbench.'\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c470",
+      "id": 205636720,
       "en": "'To make the rough cloth cloak you will need to open the <rgb=#FF00FF00>crate</rgb> of ingredients that I provided to you. Equip your <rgb=#FF00FF00>tailoring tools</rgb> and head to a workbench and begin tailoring.'\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852597",
+      "id": 8725911,
       "en": "'I see the cloak there on your person. May I see it?'\\n\\nHe takes a moment to admire your handiwork.\\n\\n'This is a well-crafted cloak. Your needlework is even and tempered, and the cloak will drape properly on the back. You are well on your way towards becoming a tailor. Well done, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c48",
+      "id": 63183944,
       "en": "'Making the <rgb=#FF00FF00>leather pad</rgb> is simple. Make your way to the workbench and stitch it together. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c471",
+      "id": 205636721,
       "en": "'Just open up that <rgb=#FF00FF00>crate</rgb> full of ingredients that I gave you, and you can start making the rough cloth cloak over by the workbench. Make sure to equip your <rgb=#FF00FF00>tailoring tools!</rgb>'\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852598",
+      "id": 8725912,
       "en": "'Have you forgotten something? I do not see the rough cloth cloak that you were supposed to deliver to me. You should return with one.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Introduction to Tailoring",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c49",
+      "id": 63183945,
       "en": "'You need to make the <rgb=#FF00FF00>rough cloth cloak</rgb> and return it to me for approval.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c472",
+      "id": 205636722,
       "en": "'Making the <rgb=#FF00FF00>leather pad</rgb> is simple. Make your way to the workbench and stitch it together. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852599",
+      "id": 8725913,
       "en": "'Let me see what you have done.'\\n\\nShe examines the cloak closely.\\n\\n'An excellent piece of handiwork, [placeholder]. You did very well in making this cloak.\\n\\n'I think that this is a very good effort and proves that you are prepared to continue your work towards becoming a master tailor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c473",
+      "id": 205636723,
       "en": "'Go on now and make that <rgb=#FF00FF00>rough cloth cloak</rgb>.'\\t\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c474",
+      "id": 205636724,
       "en": "'Just open up that <rgb=#FF00FF00>crate</rgb> full of ingredients that I gave you, and you can start making the rough cloth cloak over by the workbench. Make sure to equip your <rgb=#FF00FF00>tailoring tools!</rgb>'\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

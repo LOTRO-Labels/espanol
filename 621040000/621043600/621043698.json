@@ -2,22 +2,19 @@
   "id": 621043698,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Innate Strength: Deflecting Technique",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Balanced Attacks grant the buff 'Innate Strength: Deflecting Technique', increasing the Brawler’s chance to Parry.\\n\\nIf a Balanced Attack is performed while 'Innate Strength: Deflecting Technique' is still active, the buff is instead advanced to a higher tier, to a maximum of Tier 4.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Tier 1: +2.5% Parry chance\\nTier 2: +5% Parry Chance\\nTier 3: +7.5% Parry Chance\\nTier 4: +10% Parry Chance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

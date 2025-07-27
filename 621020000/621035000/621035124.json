@@ -2,376 +2,314 @@
   "id": 621035124,
   "txt": [
     {
-      "id": "0xa8e1191",
+      "id": 177082769,
       "en": "The Great Goblin has been defeated, but Gorgar has escaped",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Defeat Taurogrim ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Pick up the Summoning Horn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'Gorgar is in here somewhere, and should have a few of his own Orcs with him, but we don't know much else. We should be careful. Oh, and watch out for goblins. They're sneaky, and we could be swarmed by them very quickly. They don't call it Goblin-town for nothing.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'That's him over there, and what must be the new Great Goblin. Huh. This must be what Orcs consider \\qdiplomacy\\q. A locked gate stands in our way, and I don't see another way through. Here, take these and see if you can get it open.'\\n\\nShe hands you her lockpicks.\\n\\n'I know my dirty tricks have been rubbing off on you, don't deny it. Hórin and I will keep watch. Once this gate is open, we attack!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Let us return to Annâk-khurfu and report these events to Glóin!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a0",
+      "id": 177082784,
       "en": "Hórin and Ausma arrive at your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Use the Call Dwarves skill and talk to Ausma",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d18",
+      "id": 51875096,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e11a4",
+      "id": 177082788,
       "en": "You have found Gorgar and the new Great Goblin, but a gate blocks your path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a8",
+      "id": 177082792,
       "en": "The gate is open!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "You fail to open the lock",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d154",
+      "id": 24695124,
       "en": "Gorgar the Ruthless has been tracked to Goblin-town. Will you find and defeat him in time?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Defeat the Taurogrim in Grazadh-gropor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "Defeat Gorgar the Ruthless",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Talk to Ausma",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa7",
+      "id": 126754727,
       "en": "Mission: The Assassination of Gorgar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "Defeated Taurogrim ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc40",
+      "id": 204196928,
       "en": "'Dwarves? Here?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc41",
+      "id": 204196929,
       "en": "'If you really want to kill me so badly, let's see you try!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc42",
+      "id": 204196930,
       "en": "'These fools aren't worth my time! I leave them to you, Great Goblin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc43",
+      "id": 204196931,
       "en": "'I expect you to keep up your end of your bargain.... If you survive! Har!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc44",
+      "id": 204196932,
       "en": "'What? Gorgar? Uh oh.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc45",
+      "id": 204196933,
       "en": "'Goblins! Help! I am under attack!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc46",
+      "id": 204196934,
       "en": "'Ugh! I really hate... that... Gorgar....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "Ausma is clearly angry. Her fists are tightly clenched, teeth bared beneath her mustache. She takes a moment to breathe and calm down.\\n\\n'Damn that Gorgar! I swear, I will have his head yet! Let's get moving. We need to report this to Glóin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a5",
+      "id": 246419877,
       "en": "Use the summoning horn at the cave entrance to summon Hórin and Ausma to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a6",
+      "id": 246419878,
       "en": "You have arrived in Goblin-town with Hórin and Ausma.\\n\\nYou should talk to Ausma.\\n\\nIf you become separated, the summoning horn at the cave entrance to summon Hórin and Ausma to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a7",
+      "id": 246419879,
       "en": "Find Gorgar the Ruthless somewhere in Goblin-town.\\n\\n<rgb=#FF0000>If Ausma or Hórin are missing, and the Call Dwarves skill is not available, try using the /pet release command twice.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc50",
+      "id": 204196944,
       "en": "'I have already sent all the supplies I could spare, and your guards allowed them to be destroyed!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a8",
+      "id": 246419880,
       "en": "You have found Gorgar speaking with the new Great Goblin.\\n\\nYou should talk to Ausma.\\n\\n<rgb=#FF0000>If Ausma or Hórin are missing, and the Call Dwarves skill is not available, try using the /pet release command twice.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc51",
+      "id": 204196945,
       "en": "'Why should I also send my goblins?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc52",
+      "id": 204196946,
       "en": "'In return? You get to LIVE! Have I not made myself clear?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc53",
+      "id": 204196947,
       "en": "'You will send your forces north NOW, or I kill you and send them myself!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc1",
+      "id": 29539521,
       "en": "'Dwarves! Protect Gorgar!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc54",
+      "id": 204196948,
       "en": "'Ah! All right, all right! Just don't kill me! I've only been Great Goblin for a few weeks!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc2",
+      "id": 29539522,
       "en": "'You are not allowed in here! Go away!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc55",
+      "id": 204196949,
       "en": "'That's what I thought. Hmph. Weaklings. If not for your numbers, you wouldn't be worth my time.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc3",
+      "id": 29539523,
       "en": "'Great Goblin, I am giving you a chance to retain your title and add your forces to mine.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc56",
+      "id": 204196950,
       "en": "'Yes, yes, you're very big and strong! Please, just leave!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc4",
+      "id": 29539524,
       "en": "'This is your LAST chance.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc57",
+      "id": 204196951,
       "en": "'Who dares intrude on my negotiation?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc58",
+      "id": 204196952,
       "en": "'Dwarves?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc5",
+      "id": 29539525,
       "en": "'Why should I not just kill you, Orc? You're in Goblin-town! Totally outnumbered!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2bcc59",
+      "id": 204196953,
       "en": "'You must be the ones thwarting my plans!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b0",
+      "id": 246419888,
       "en": "Use Ausma's lockpicks to open the gate lock.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc6",
+      "id": 29539526,
       "en": "'Go ahead and try it, worm. I will slaughter anyone you send at me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc7",
+      "id": 29539527,
       "en": "'And if by some miracle you did manage to kill me, my Orcs will storm this place seeking revenge for the death of the Son of Bolg!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ec0d22",
+      "id": 82578722,
       "en": "'Your end has come, Gorgar!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Ausma",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc8",
+      "id": 29539528,
       "en": "'They will not stop until every last goblin lies dead, your kingdom reduced to rubble!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ec0d23",
+      "id": 82578723,
       "en": "'Gorgar got away....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Find Gorgar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b3",
+      "id": 246419891,
       "en": "The gate has been opened!\\n\\nYou should defeat Gorgar the Ruthless!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c2bcc9",
+      "id": 29539529,
       "en": "'...You make a good argument, Orc. But what do I get in return? Hmm?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ec0d24",
+      "id": 82578724,
       "en": "'This is taking too long! Let me show you how to open a door!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "The Great Goblin has been defeated, but Gorgar escaped with his life.\\n\\nYou should talk to Ausma.\\n\\nIf you become separated, the summoning horn at the cave entrance to summon Hórin and Ausma to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Ausma",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1182",
+      "id": 177082754,
       "en": "You open the lock with ease",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Open the gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34adc21",
+      "id": 55237665,
       "en": "'Yes, that's us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34adc22",
+      "id": 55237666,
       "en": "'I suppose that works, too.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

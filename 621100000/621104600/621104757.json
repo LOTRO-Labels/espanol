@@ -2,304 +2,254 @@
   "id": 621104757,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "TBD 'Greetings to you, stranger! Are you here to try out our obstacle course? Only the most experienced of riders will be able to master such a tricky path in the amount of time we have allotted.\\n\\n'The rules are very simple -- race through each gate, and you mustn't fall off your steed before the time runs out. When you see two gates next to one another, you must choose which path to take, be it high or low. The low path may be muddy, and the high is sure to be dry, but precarious indeed. There will be other hurdles to disrupt you as well.\\n\\n'Do you feel up for this challenge? Only the most spirited riders should even attempt such a feat! It is sure to be very dangerous, but you have a hardy look to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "TBD 'It is rare to see such excellent riding in these parts, [placeholder]! I am very impressed. Take these tokens in reward of your achievement!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have begun the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have begun the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3686",
+      "id": 136263302,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3687",
+      "id": 136263303,
       "en": "TBD Your steed is slowed by a sticky mire....",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "TBD The Anniversary Run is a time-honoured tradition in the Horsefields of Bree. Many challenges have been laid down to present a tricky course for the brave riders of Middle-earth who wish to demonstrate their mettle on horseback.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3688",
+      "id": 136263304,
       "en": "TBD You gain a burst of speed for your agile navigation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3689",
+      "id": 136263305,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c50",
+      "id": 84765776,
       "en": "TBD Race through the low sixth gate through sticky mud",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c51",
+      "id": 84765777,
       "en": "TBD Race through the high sixth gate over the precarious jump",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c52",
+      "id": 84765778,
       "en": "Race to the seventh gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c53",
+      "id": 84765779,
       "en": "Race to the eighth gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c54",
+      "id": 84765780,
       "en": "Cross the finish line before the time runs out",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c55",
+      "id": 84765781,
       "en": "Speak with TBD Race Master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Mount a race-horse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Mount a race-pony",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Cross the starting line to enter the race-track",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Race to the first gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Race to the second gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "TBD Race through the low third gate through sticky mud",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "TBD Race through the high third gate over the precarious jump",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Race to the fourth gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Race to the fifth gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x263c414",
+      "id": 40092692,
       "en": "'You should hurry and mount your horse, else you will fail the course!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "TBD The festival steeds can be found spoiling for the race in the stable at the Bree-fields Festival Grounds.\\n\\nYou should mount a steed to begin the race -- a pony if you are shorter in stature, or a horse if you are of a taller build.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c0",
+      "id": 32729280,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c1",
+      "id": 32729281,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c2",
+      "id": 32729282,
       "en": "TBD Your steed is slowed by a sticky mire....",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c3",
+      "id": 32729283,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c4",
+      "id": 32729284,
       "en": "TBD You gain a burst of speed for your agile navigation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c5",
+      "id": 32729285,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c6",
+      "id": 32729286,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c7",
+      "id": 32729287,
       "en": "TBD You have won the Bree-fields Anniversary Run",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c8",
+      "id": 32729288,
       "en": "You have lost the race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced10",
+      "id": 171765008,
       "en": "TBD The gates can be found by following the race-track at the Bree-fields' Festival Ground.\\n\\nYou must race through all the gates before the timer runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced11",
+      "id": 171765009,
       "en": "The finish line is near!\\n\\nYou must cross the finish line before the time runs out.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced12",
+      "id": 171765010,
       "en": "TBD Sally Threshing stands next to the finish line at the race-track in Bree.\\n\\nYou should speak with Sally Threshing and inform her of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "TBD The Shield Isles Midsummer Run",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

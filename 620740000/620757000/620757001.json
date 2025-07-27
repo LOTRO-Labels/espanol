@@ -2,3076 +2,2564 @@
   "id": 620757001,
   "txt": [
     {
-      "id": "0xffe9ffe",
+      "id": 268345342,
       "en": "Servants of the Iron Crown",
-      "es": "Siervos de la Corona de Hierro",
-      "es (fem)": ""
+      "es": "Siervos de la Corona de Hierro"
     },
     {
-      "id": "0xcbf47a6",
+      "id": 213862310,
       "en": "Shadow Wolf",
-      "es": "Lobo de las Sombras",
-      "es (fem)": ""
+      "es": "Lobo de las Sombras"
     },
     {
-      "id": "0x407fce3",
+      "id": 67632355,
       "en": "General of the Enemy",
-      "es": "General del enemigo",
-      "es (fem)": ""
+      "es": "General del enemigo"
     },
     {
-      "id": "0xda58874",
+      "id": 228952180,
       "en": "Balt-olog",
-      "es": "Balt-olog",
-      "es (fem)": ""
+      "es": "Balt-olog"
     },
     {
-      "id": "0xabd55e4",
+      "id": 180180452,
       "en": "Decayed",
-      "es": "Descompuesto",
-      "es (fem)": ""
+      "es": "Descompuesto"
     },
     {
-      "id": "0xcc34c32",
+      "id": 214125618,
       "en": "Muck-crawler",
-      "es": "Muck-crawler",
-      "es (fem)": ""
+      "es": "Muck-crawler"
     },
     {
-      "id": "0xd56a43c",
+      "id": 223781948,
       "en": "Merrevail",
-      "es": "Merrevail",
-      "es (fem)": ""
+      "es": "Merrevail"
     },
     {
-      "id": "0xdfd48d4",
+      "id": 234703060,
       "en": "Hill-beast",
-      "es": "Bestia de la colina",
-      "es (fem)": ""
+      "es": "Bestia de la colina"
     },
     {
-      "id": "0x6cae054",
+      "id": 113958996,
       "en": "Barrow-rat",
-      "es": "Rata de túmulo",
-      "es (fem)": ""
+      "es": "Rata de túmulo"
     },
     {
-      "id": "0x7551ad4",
+      "id": 123017940,
       "en": "Death-light Brood",
-      "es": "Cría de la Luz de la Muerte",
-      "es (fem)": ""
+      "es": "Cría de la Luz de la Muerte"
     },
     {
-      "id": "0x2f8bea3",
+      "id": 49856163,
       "en": "Long-grass",
-      "es": "Hierba larga",
-      "es (fem)": ""
+      "es": "Hierba larga"
     },
     {
-      "id": "0xa5df484",
+      "id": 173929604,
       "en": "Giant",
-      "es": "Gigante",
-      "es (fem)": ""
+      "es": "Gigante"
     },
     {
-      "id": "0x44003fe",
+      "id": 71304190,
       "en": "Minion",
-      "es": "Sirviente",
-      "es (fem)": ""
+      "es": "Sirviente"
     },
     {
-      "id": "0xdd770f8",
+      "id": 232222968,
       "en": "Ally of Drugoth the Death-monger",
-      "es": "Aliado de Drugoth el Mortífero",
-      "es (fem)": ""
+      "es": "Aliado de Drugoth el Mortífero"
     },
     {
-      "id": "0x384ae22",
+      "id": 59026978,
       "en": "Angmar",
-      "es": "Angmar",
-      "es (fem)": ""
+      "es": "Angmar"
     },
     {
-      "id": "0xccb7602",
+      "id": 214660610,
       "en": "Snow-spinner",
-      "es": "Cuchilla de nieve",
-      "es (fem)": ""
+      "es": "Cuchilla de nieve"
     },
     {
-      "id": "0x6e6cd98",
+      "id": 115789208,
       "en": "Boss Six",
-      "es": "Jefe Seis",
-      "es (fem)": ""
+      "es": "Jefe Seis"
     },
     {
-      "id": "0x4f08462",
+      "id": 82871394,
       "en": "Smuggler",
-      "es": "Contrabandista",
-      "es (fem)": ""
+      "es": "Contrabandista"
     },
     {
-      "id": "0x3a4b1c2",
+      "id": 61125058,
       "en": "Brawler",
-      "es": "Luchador",
-      "es (fem)": ""
+      "es": "Luchador"
     },
     {
-      "id": "0x4da657b",
+      "id": 81421691,
       "en": "Oak",
-      "es": "Roble",
-      "es (fem)": ""
+      "es": "Roble"
     },
     {
-      "id": "0x387b12",
+      "id": 3701522,
       "en": "Lake-skimmer",
-      "es": "Lago de skimmer",
-      "es (fem)": ""
+      "es": "Lago de skimmer"
     },
     {
-      "id": "0xc480399",
+      "id": 206046105,
       "en": "Ghâsh-hai",
-      "es": "Ghâsh-hai",
-      "es (fem)": ""
+      "es": "Ghâsh-hai"
     },
     {
-      "id": "0x2745b75",
+      "id": 41180021,
       "en": "Minion of Plague",
-      "es": "Sirviente de la peste",
-      "es (fem)": ""
+      "es": "Sirviente de la peste"
     },
     {
-      "id": "0xd503e65",
+      "id": 223362661,
       "en": "Brotherhood of Nature",
-      "es": "Hermandad de la Naturaleza",
-      "es (fem)": ""
+      "es": "Hermandad de la Naturaleza"
     },
     {
-      "id": "0x29860a7",
+      "id": 43540647,
       "en": "Minion of Shadow",
-      "es": "Sirviente de la sombra",
-      "es (fem)": ""
+      "es": "Sirviente de la sombra"
     },
     {
-      "id": "0x4da6884",
+      "id": 81422468,
       "en": "Rat",
-      "es": "Rata",
-      "es (fem)": ""
+      "es": "Rata"
     },
     {
-      "id": "0x1763ae8",
+      "id": 24525544,
       "en": "Cult of Drugoth",
-      "es": "Culto de Drugoth",
-      "es (fem)": ""
+      "es": "Culto de Drugoth"
     },
     {
-      "id": "0xb44a664",
+      "id": 189048420,
       "en": "Minion of Naerband",
-      "es": "Súbdito de Naerband",
-      "es (fem)": ""
+      "es": "Súbdito de Naerband"
     },
     {
-      "id": "0xf567f0e",
+      "id": 257326862,
       "en": "Dark Reflection",
-      "es": "Reflejo oscuro",
-      "es (fem)": ""
+      "es": "Reflejo oscuro"
     },
     {
-      "id": "0xa41f887",
+      "id": 172095623,
       "en": "King of Harad",
-      "es": "Rey de Harad",
-      "es (fem)": ""
+      "es": "Rey de Harad"
     },
     {
-      "id": "0x3589d04",
+      "id": 56139012,
       "en": "Blackwold",
-      "es": "Blackwold",
-      "es (fem)": ""
+      "es": "Blackwold"
     },
     {
-      "id": "0xda5e4c4",
+      "id": 228975812,
       "en": "Gnat",
-      "es": "Gnat",
-      "es (fem)": ""
+      "es": "Gnat"
     },
     {
-      "id": "0x527d048",
+      "id": 86495304,
       "en": "Barren-ash",
-      "es": "Ceniza de barril",
-      "es (fem)": ""
+      "es": "Ceniza de barril"
     },
     {
-      "id": "0xe6fa9a5",
+      "id": 242198949,
       "en": "Boss Five",
-      "es": "Jefe Cinco",
-      "es (fem)": ""
+      "es": "Jefe Cinco"
     },
     {
-      "id": "0xc923fdc",
+      "id": 210911196,
       "en": "Clutch of Nornagol",
-      "es": "Embrague de Nornagol",
-      "es (fem)": ""
+      "es": "Embrague de Nornagol"
     },
     {
-      "id": "0xbc7ce94",
+      "id": 197643924,
       "en": "Shadow-brood",
-      "es": "Cría sombría",
-      "es (fem)": ""
+      "es": "Cría sombría"
     },
     {
-      "id": "0xab90a2e",
+      "id": 179898926,
       "en": "Captain Trainer",
-      "es": "Instructor de Capitán",
-      "es (fem)": ""
+      "es": "Instructor de Capitán"
     },
     {
-      "id": "0x72f75a4",
+      "id": 120550820,
       "en": "Servant of the Red Eye",
-      "es": "Siervo del Ojo Rojo",
-      "es (fem)": ""
+      "es": "Siervo del Ojo Rojo"
     },
     {
-      "id": "0x4589f32",
+      "id": 72916786,
       "en": "Shadow-spinner",
-      "es": "Hilandera de sombras",
-      "es (fem)": ""
+      "es": "Hilandera de sombras"
     },
     {
-      "id": "0x70cb185",
+      "id": 118272389,
       "en": "Frost-horde",
-      "es": "Frost-horde",
-      "es (fem)": ""
+      "es": "Frost-horde"
     },
     {
-      "id": "0x2e68fa2",
+      "id": 48664482,
       "en": "Lore-master Trainer",
-      "es": "Instructor de Sabio",
-      "es (fem)": ""
+      "es": "Instructor de Sabio"
     },
     {
-      "id": "0xca3f532",
+      "id": 212071730,
       "en": "Leaf-crawler",
-      "es": "Oruga",
-      "es (fem)": ""
+      "es": "Oruga"
     },
     {
-      "id": "0x9c4f200",
+      "id": 163901952,
       "en": "Forces of Glimmerdeep",
-      "es": "Fuerzas de Glimmerdeep",
-      "es (fem)": ""
+      "es": "Fuerzas de Glimmerdeep"
     },
     {
-      "id": "0x2ffebeb",
+      "id": 50326507,
       "en": "Iron-beak",
-      "es": "Pico de hierro",
-      "es (fem)": ""
+      "es": "Pico de hierro"
     },
     {
-      "id": "0xe6fafa2",
+      "id": 242200482,
       "en": "Boss Four",
-      "es": "Jefe Cuatro",
-      "es (fem)": ""
+      "es": "Jefe Cuatro"
     },
     {
-      "id": "0x22fe1d2",
+      "id": 36692434,
       "en": "Snow-bear",
-      "es": "Oso de las nieves",
-      "es (fem)": ""
+      "es": "Oso de las nieves"
     },
     {
-      "id": "0x5a90b08",
+      "id": 94964488,
       "en": "Créoth",
-      "es": "Créoth",
-      "es (fem)": ""
+      "es": "Créoth"
     },
     {
-      "id": "0x3fbd25",
+      "id": 4177189,
       "en": "Shapag-hai",
-      "es": "Shapag-hai",
-      "es (fem)": ""
+      "es": "Shapag-hai"
     },
     {
-      "id": "0x244ef43",
+      "id": 38072131,
       "en": "Keeper of Books",
-      "es": "Cuidador de libros",
-      "es (fem)": ""
+      "es": "Cuidador de libros"
     },
     {
-      "id": "0x5a6c762",
+      "id": 94816098,
       "en": "Corcur",
-      "es": "Corcur",
-      "es (fem)": ""
+      "es": "Corcur"
     },
     {
-      "id": "0x9d51d3",
+      "id": 10310099,
       "en": "Trollshaws",
-      "es": "Trollshaws",
-      "es (fem)": ""
+      "es": "Trollshaws"
     },
     {
-      "id": "0x8ce63a7",
+      "id": 147743655,
       "en": "Grimfang Brood",
-      "es": "Cría de Grimfang",
-      "es (fem)": ""
+      "es": "Cría de Grimfang"
     },
     {
-      "id": "0x3a53f2",
+      "id": 3822578,
       "en": "Stone-crawler",
-      "es": "Oruga de piedra",
-      "es (fem)": ""
+      "es": "Oruga de piedra"
     },
     {
-      "id": "0x8984a12",
+      "id": 144198162,
       "en": "Forest-hunter",
-      "es": "Cazador forestal",
-      "es (fem)": ""
+      "es": "Cazador forestal"
     },
     {
-      "id": "0xaeb51e5",
+      "id": 183194085,
       "en": "Barrow-maple",
-      "es": "Arce de túmulo",
-      "es (fem)": ""
+      "es": "Arce de túmulo"
     },
     {
-      "id": "0xfd678d9",
+      "id": 265713881,
       "en": "Thrug-hai",
-      "es": "Thrug-hai",
-      "es (fem)": ""
+      "es": "Thrug-hai"
     },
     {
-      "id": "0x6c58044",
+      "id": 113606724,
       "en": "Harbour-rat",
-      "es": "Rata portuaria",
-      "es (fem)": ""
+      "es": "Rata portuaria"
     },
     {
-      "id": "0x1a6e14",
+      "id": 1732116,
       "en": "Harbinger of the Dead",
-      "es": "Presagio de la muerte",
-      "es (fem)": ""
+      "es": "Presagio de la muerte"
     },
     {
-      "id": "0x8ad85e",
+      "id": 9099358,
       "en": "Ghâshfra",
-      "es": "Ghâshfra",
-      "es (fem)": ""
+      "es": "Ghâshfra"
     },
     {
-      "id": "0xe1314cd",
+      "id": 236131533,
       "en": "Flame-worm",
-      "es": "Gusano de llama",
-      "es (fem)": ""
+      "es": "Gusano de llama"
     },
     {
-      "id": "0xae82369",
+      "id": 182985577,
       "en": "Armoury",
-      "es": "Armería",
-      "es (fem)": ""
+      "es": "Armería"
     },
     {
-      "id": "0xc6cc73e",
+      "id": 208455486,
       "en": "Mistress of Lamentation",
-      "es": "Señora de las lamentaciones",
-      "es (fem)": ""
+      "es": "Señora de las lamentaciones"
     },
     {
-      "id": "0x3ec86e2",
+      "id": 65832674,
       "en": "The Deceiver",
-      "es": "El Engañador",
-      "es (fem)": ""
+      "es": "El Engañador"
     },
     {
-      "id": "0x800c6e7",
+      "id": 134268647,
       "en": "Silent-paw",
-      "es": "Garra silenciosa",
-      "es (fem)": ""
+      "es": "Garra silenciosa"
     },
     {
-      "id": "0x834aeae",
+      "id": 137670318,
       "en": "Krahjarn",
-      "es": "Krahjarn",
-      "es (fem)": ""
+      "es": "Krahjarn"
     },
     {
-      "id": "0xdcc18fe",
+      "id": 231479550,
       "en": "Krahjarn Tribe",
-      "es": "Tribu Krahjarn",
-      "es (fem)": ""
+      "es": "Tribu Krahjarn"
     },
     {
-      "id": "0x5f8ce5c",
+      "id": 100191836,
       "en": "Hrímil",
-      "es": "Hrímil",
-      "es (fem)": ""
+      "es": "Hrímil"
     },
     {
-      "id": "0x8fe58d5",
+      "id": 150886613,
       "en": "Fire-drake",
-      "es": "Dragón de fuego",
-      "es (fem)": ""
+      "es": "Dragón de fuego"
     },
     {
-      "id": "0x98a8fae",
+      "id": 160075694,
       "en": "Minion of Lamentation",
-      "es": "Sirviente de la Lamentación",
-      "es (fem)": ""
+      "es": "Sirviente de la Lamentación"
     },
     {
-      "id": "0x806b5fe",
+      "id": 134657534,
       "en": "Witch-queen of Angmar",
-      "es": "Reina bruja de Angmar",
-      "es (fem)": ""
+      "es": "Reina bruja de Angmar"
     },
     {
-      "id": "0x3fe9572",
+      "id": 67016050,
       "en": "Tarkrîp Overseer",
-      "es": "Supervisor Tarkrîp",
-      "es (fem)": ""
+      "es": "Supervisor Tarkrîp"
     },
     {
-      "id": "0x907f933",
+      "id": 151517491,
       "en": "Lake Country",
-      "es": "País de los lagos",
-      "es (fem)": ""
+      "es": "País de los lagos"
     },
     {
-      "id": "0xda6d8c7",
+      "id": 229038279,
       "en": "Warg",
-      "es": "Warg",
-      "es (fem)": ""
+      "es": "Warg"
     },
     {
-      "id": "0xdef9b72",
+      "id": 233806706,
       "en": "Bog-prowler",
-      "es": "Merodador de pantano",
-      "es (fem)": ""
+      "es": "Merodador de pantano"
     },
     {
-      "id": "0x6c1cc1e",
+      "id": 113363998,
       "en": "Gorgoryn",
-      "es": "Gorgoryn",
-      "es (fem)": ""
+      "es": "Gorgoryn"
     },
     {
-      "id": "0x25e2812",
+      "id": 39725074,
       "en": "Barrow-crawler",
-      "es": "Oruga de túmulo",
-      "es (fem)": ""
+      "es": "Oruga de túmulo"
     },
     {
-      "id": "0x16107e",
+      "id": 1446014,
       "en": "Gouge-horn Aurochs",
-      "es": "Aurochs de cuernos gubiados",
-      "es (fem)": ""
+      "es": "Aurochs de cuernos gubiados"
     },
     {
-      "id": "0x4131d22",
+      "id": 68361506,
       "en": "Special",
-      "es": "Especial",
-      "es (fem)": ""
+      "es": "Especial"
     },
     {
-      "id": "0xb92d2a2",
+      "id": 194171554,
       "en": "Salamander",
-      "es": "Salamandra",
-      "es (fem)": ""
+      "es": "Salamandra"
     },
     {
-      "id": "0x14162ae",
+      "id": 21062318,
       "en": "Thistledown Aurochs",
-      "es": "Aurochs de Thistledown",
-      "es (fem)": ""
+      "es": "Aurochs de Thistledown"
     },
     {
-      "id": "0x8dc4727",
+      "id": 148653863,
       "en": "Darkclaw",
-      "es": "Garra oscura",
-      "es (fem)": ""
+      "es": "Garra oscura"
     },
     {
-      "id": "0xa050fb",
+      "id": 10506491,
       "en": "Shattertusk",
-      "es": "Shattertusk",
-      "es (fem)": ""
+      "es": "Shattertusk"
     },
     {
-      "id": "0x64946fa",
+      "id": 105465594,
       "en": "Ongbûrz",
-      "es": "Ongbûrz",
-      "es (fem)": ""
+      "es": "Ongbûrz"
     },
     {
-      "id": "0x3ea0ae4",
+      "id": 65669860,
       "en": "Grunnd Tribe",
-      "es": "Tribu Grunnd",
-      "es (fem)": ""
+      "es": "Tribu Grunnd"
     },
     {
-      "id": "0x764af2",
+      "id": 7752434,
       "en": "Warg-keeper",
-      "es": "Cuidador de Wargs",
-      "es (fem)": ""
+      "es": "Cuidador de Wargs"
     },
     {
-      "id": "0xe3d8902",
+      "id": 238913794,
       "en": "<rgb=#FF3300>Forge-worker</rgb>",
-      "es": "<rgb=#FF3300>Trabajador de forja</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FF3300>Trabajador de forja</rgb>"
     },
     {
-      "id": "0xa4a5239",
+      "id": 172642873,
       "en": "Snowy",
-      "es": "Nevado",
-      "es (fem)": ""
+      "es": "Nevado"
     },
     {
-      "id": "0x5e0915",
+      "id": 6162709,
       "en": "Snow-mantle",
-      "es": "Manto de nieve",
-      "es (fem)": ""
+      "es": "Manto de nieve"
     },
     {
-      "id": "0x491dbc2",
+      "id": 76667842,
       "en": "Swamp-lurker",
-      "es": "Merodeador de pantano",
-      "es (fem)": ""
+      "es": "Merodeador de pantano"
     },
     {
-      "id": "0x2407714",
+      "id": 37779220,
       "en": "The Gelid Dead",
-      "es": "La Muerte Gelida",
-      "es (fem)": ""
+      "es": "La Muerte Gelida"
     },
     {
-      "id": "0x93b7b2",
+      "id": 9680818,
       "en": "Stone-smasher",
-      "es": "Picapedrero",
-      "es (fem)": ""
+      "es": "Picapedrero"
     },
     {
-      "id": "0xda608ce",
+      "id": 228985038,
       "en": "Jarn-olog",
-      "es": "Jarn-olog",
-      "es (fem)": ""
+      "es": "Jarn-olog"
     },
     {
-      "id": "0x246b959",
+      "id": 38189401,
       "en": "Minion of Misery",
-      "es": "Sirviente de la miseria",
-      "es (fem)": ""
+      "es": "Sirviente de la miseria"
     },
     {
-      "id": "0x6cc5a5e",
+      "id": 114055774,
       "en": "Boss Seven",
-      "es": "Jefe Siete",
-      "es (fem)": ""
+      "es": "Jefe Siete"
     },
     {
-      "id": "0x885dfae",
+      "id": 142991278,
       "en": "Gauradan",
-      "es": "Gauradan",
-      "es (fem)": ""
+      "es": "Gauradan"
     },
     {
-      "id": "0xa5b84c5",
+      "id": 173769925,
       "en": "Drake",
-      "es": "Dragón",
-      "es (fem)": ""
+      "es": "Dragón"
     },
     {
-      "id": "0x8fa33c8",
+      "id": 150614984,
       "en": "Vile-filth",
-      "es": "Porquería vil",
-      "es (fem)": ""
+      "es": "Porquería vil"
     },
     {
-      "id": "0x18ea0e5",
+      "id": 26124517,
       "en": "Minion of Battle",
-      "es": "Súbdito de batalla",
-      "es (fem)": ""
+      "es": "Súbdito de batalla"
     },
     {
-      "id": "0xc8c9b8d",
+      "id": 210541453,
       "en": "Fire-worm",
-      "es": "Gusano de fuego",
-      "es (fem)": ""
+      "es": "Gusano de fuego"
     },
     {
-      "id": "0xe330fc4",
+      "id": 238227396,
       "en": "Oathbound",
-      "es": "Oathbound",
-      "es (fem)": ""
+      "es": "Oathbound"
     },
     {
-      "id": "0xfb226b2",
+      "id": 263333554,
       "en": "Greenfields-spider",
-      "es": "Araña de campos verdes",
-      "es (fem)": ""
+      "es": "Araña de campos verdes"
     },
     {
-      "id": "0xb3feff8",
+      "id": 188739576,
       "en": "Razortooth",
-      "es": "Dientes de Navaja",
-      "es (fem)": ""
+      "es": "Dientes de Navaja"
     },
     {
-      "id": "0x8e5a63c",
+      "id": 149268028,
       "en": "Troll Lieutenant",
-      "es": "Teniente Trol",
-      "es (fem)": ""
+      "es": "Teniente Trol"
     },
     {
-      "id": "0xf87a9c4",
+      "id": 260549060,
       "en": "Ice-giant",
-      "es": "Gigante de hielo",
-      "es (fem)": ""
+      "es": "Gigante de hielo"
     },
     {
-      "id": "0xf8ff147",
+      "id": 261091655,
       "en": "Blue-crag",
-      "es": "Risco azul",
-      "es (fem)": ""
+      "es": "Risco azul"
     },
     {
-      "id": "0xc812e85",
+      "id": 209792645,
       "en": "Gloomingtarn Ukhrash",
-      "es": "Gloomingtarn Ukhrash",
-      "es (fem)": ""
+      "es": "Gloomingtarn Ukhrash"
     },
     {
-      "id": "0x28f9cd2",
+      "id": 42966226,
       "en": "Shades of Betrayal",
-      "es": "Sombras de traición",
-      "es (fem)": ""
+      "es": "Sombras de traición"
     },
     {
-      "id": "0x9f1aa22",
+      "id": 166832674,
       "en": "Belondor's Crew",
-      "es": "Tripulación de Belondor",
-      "es (fem)": ""
+      "es": "Tripulación de Belondor"
     },
     {
-      "id": "0x269fa72",
+      "id": 40499826,
       "en": "Commander",
-      "es": "Comandante",
-      "es (fem)": ""
+      "es": "Comandante"
     },
     {
-      "id": "0xa8302e4",
+      "id": 176358116,
       "en": "Downs-cat",
-      "es": "Gato de los valles",
-      "es (fem)": ""
+      "es": "Gato de los valles"
     },
     {
-      "id": "0xf4353b7",
+      "id": 256070583,
       "en": "Field-slug",
-      "es": "Babosa de campo",
-      "es (fem)": ""
+      "es": "Babosa de campo"
     },
     {
-      "id": "0xc7bc253",
+      "id": 209437267,
       "en": "Warden of Annúminas",
-      "es": "Vigilante de Annúminas",
-      "es (fem)": ""
+      "es": "Vigilante de Annúminas"
     },
     {
-      "id": "0x9ee3452",
+      "id": 166605906,
       "en": "Bog-neeker",
-      "es": "Neeker de pantano",
-      "es (fem)": ""
+      "es": "Neeker de pantano"
     },
     {
-      "id": "0x35be3d4",
+      "id": 56353748,
       "en": "Ruthless Dead",
-      "es": "Muertos despiadados",
-      "es (fem)": ""
+      "es": "Muertos despiadados"
     },
     {
-      "id": "0x1e01337",
+      "id": 31462199,
       "en": "River-slug",
-      "es": "Babosa de río",
-      "es (fem)": ""
+      "es": "Babosa de río"
     },
     {
-      "id": "0xda5acd2",
+      "id": 228961490,
       "en": "Curr-olog",
-      "es": "Curr-olog",
-      "es (fem)": ""
+      "es": "Curr-olog"
     },
     {
-      "id": "0xa4e8095",
+      "id": 172916885,
       "en": "Flat-rock Brood",
-      "es": "Cría de roca plana",
-      "es (fem)": ""
+      "es": "Cría de roca plana"
     },
     {
-      "id": "0x31d1ab4",
+      "id": 52239028,
       "en": "Plague-rat",
-      "es": "Rata de peste",
-      "es (fem)": ""
+      "es": "Rata de peste"
     },
     {
-      "id": "0x68543f4",
+      "id": 109396980,
       "en": "Dourhand",
-      "es": "Dourhand",
-      "es (fem)": ""
+      "es": "Dourhand"
     },
     {
-      "id": "0x9cbd254",
+      "id": 164352596,
       "en": "The Spoiled",
-      "es": "Los mimados",
-      "es (fem)": ""
+      "es": "Los mimados"
     },
     {
-      "id": "0xcfbd0d4",
+      "id": 217829588,
       "en": "Fell Spirit",
-      "es": "Espíritu maligno",
-      "es (fem)": ""
+      "es": "Espíritu maligno"
     },
     {
-      "id": "0x9e2e42",
+      "id": 10366530,
       "en": "Marsh-spider",
-      "es": "Araña de los pantanos",
-      "es (fem)": ""
+      "es": "Araña de los pantanos"
     },
     {
-      "id": "0x62ac317",
+      "id": 103465751,
       "en": "Morningthaw-bears",
-      "es": "Osos de Morningthaw",
-      "es (fem)": ""
+      "es": "Osos de Morningthaw"
     },
     {
-      "id": "0x6cf6e55",
+      "id": 114257493,
       "en": "Boss Three",
-      "es": "Jefe Tres",
-      "es (fem)": ""
+      "es": "Jefe Tres"
     },
     {
-      "id": "0x2930cd4",
+      "id": 43191508,
       "en": "Ironbound",
-      "es": "Ironbound",
-      "es (fem)": ""
+      "es": "Ironbound"
     },
     {
-      "id": "0xcbc25c7",
+      "id": 213657031,
       "en": "Shadow-fang",
-      "es": "Colmillo de sombra",
-      "es (fem)": ""
+      "es": "Colmillo de sombra"
     },
     {
-      "id": "0xf516f94",
+      "id": 256995220,
       "en": "Sand-serpent",
-      "es": "Serpiente de arena",
-      "es (fem)": ""
+      "es": "Serpiente de arena"
     },
     {
-      "id": "0x23621a4",
+      "id": 37101988,
       "en": "Dwarf-wight",
-      "es": "Enano espectro",
-      "es (fem)": ""
+      "es": "Enano espectro"
     },
     {
-      "id": "0xc550b92",
+      "id": 206900114,
       "en": "Mountain-bear",
-      "es": "Oso de montaña",
-      "es (fem)": ""
+      "es": "Oso de montaña"
     },
     {
-      "id": "0x6e6ce4f",
+      "id": 115789391,
       "en": "Boss Two",
-      "es": "Jefe Dos",
-      "es (fem)": ""
+      "es": "Jefe Dos"
     },
     {
-      "id": "0x7c0228b",
+      "id": 130032267,
       "en": "Cruel-beak",
-      "es": "Pico cruel",
-      "es (fem)": ""
+      "es": "Pico cruel"
     },
     {
-      "id": "0x3b64ffe",
+      "id": 62279678,
       "en": "Chieftain of the Grímklettar",
-      "es": "Jefe de los Grímklettar",
-      "es (fem)": ""
+      "es": "Jefe de los Grímklettar"
     },
     {
-      "id": "0xe20c30e",
+      "id": 237028110,
       "en": "Oathsworn",
-      "es": "Juramentado",
-      "es (fem)": ""
+      "es": "Juramentado"
     },
     {
-      "id": "0x33110c5",
+      "id": 53547205,
       "en": "Cragstone Brood",
-      "es": "Cría de peñascos",
-      "es (fem)": ""
+      "es": "Cría de peñascos"
     },
     {
-      "id": "0x8407564",
+      "id": 138442084,
       "en": "The Blood-hand",
-      "es": "La mano de sangre",
-      "es (fem)": ""
+      "es": "La mano de sangre"
     },
     {
-      "id": "0x3145c8",
+      "id": 3229128,
       "en": "Longtooth",
-      "es": "Diente largo",
-      "es (fem)": ""
+      "es": "Diente largo"
     },
     {
-      "id": "0x3e98e59",
+      "id": 65637977,
       "en": "** Translate Me **",
-      "es": "** Tradúceme **",
-      "es (fem)": ""
+      "es": "** Tradúceme **"
     },
     {
-      "id": "0x258f4ae",
+      "id": 39384238,
       "en": "Falcon Clan",
-      "es": "Clan de los Halcones",
-      "es (fem)": ""
+      "es": "Clan de los Halcones"
     },
     {
-      "id": "0x868fbf9",
+      "id": 141097977,
       "en": "Vale-fly",
-      "es": "Mosca de los valles",
-      "es (fem)": ""
+      "es": "Mosca de los valles"
     },
     {
-      "id": "0xffbef25",
+      "id": 268168997,
       "en": "Corpse-candle",
-      "es": "Vela de cadáver",
-      "es (fem)": ""
+      "es": "Vela de cadáver"
     },
     {
-      "id": "0x74031dd",
+      "id": 121647581,
       "en": "Frost Grim",
-      "es": "Escarcha Grim",
-      "es (fem)": ""
+      "es": "Escarcha Grim"
     },
     {
-      "id": "0x2650843",
+      "id": 40175683,
       "en": "Follower of the Red Maiden",
-      "es": "Seguidor de la Doncella Roja",
-      "es (fem)": ""
+      "es": "Seguidor de la Doncella Roja"
     },
     {
-      "id": "0xfb57c0e",
+      "id": 263552014,
       "en": "Mason",
-      "es": "Albañil",
-      "es (fem)": ""
+      "es": "Albañil"
     },
     {
-      "id": "0x68fe702",
+      "id": 110094082,
       "en": "Vale-bear",
-      "es": "Oso de los valles",
-      "es (fem)": ""
+      "es": "Oso de los valles"
     },
     {
-      "id": "0x888cd14",
+      "id": 143183124,
       "en": "Cave-rat",
-      "es": "Rata cavernícola",
-      "es (fem)": ""
+      "es": "Rata cavernícola"
     },
     {
-      "id": "0x41ab5a5",
+      "id": 68859301,
       "en": "Blood-maple",
-      "es": "Arce sanguíneo",
-      "es (fem)": ""
+      "es": "Arce sanguíneo"
     },
     {
-      "id": "0xd42a42",
+      "id": 13904450,
       "en": "Fen-crawler",
-      "es": "Oruga de pantano",
-      "es (fem)": ""
+      "es": "Oruga de pantano"
     },
     {
-      "id": "0x28520b8",
+      "id": 42279096,
       "en": "Undergrowth",
-      "es": "Bajo crecimiento",
-      "es (fem)": ""
+      "es": "Bajo crecimiento"
     },
     {
-      "id": "0xd05842",
+      "id": 13654082,
       "en": "Ash-crawler",
-      "es": "Ceniza de oruga",
-      "es (fem)": ""
+      "es": "Ceniza de oruga"
     },
     {
-      "id": "0xa5d0d78",
+      "id": 173870456,
       "en": "Knight of Mordirith",
-      "es": "Caballero de Mordirith",
-      "es (fem)": ""
+      "es": "Caballero de Mordirith"
     },
     {
-      "id": "0x2ed28c4",
+      "id": 49096900,
       "en": "Brotherhood of the Mind",
-      "es": "Hermandad de la Mente",
-      "es (fem)": ""
+      "es": "Hermandad de la Mente"
     },
     {
-      "id": "0x2cd310c",
+      "id": 47001868,
       "en": "Snow-troll",
-      "es": "Trol de nieve",
-      "es (fem)": ""
+      "es": "Trol de nieve"
     },
     {
-      "id": "0x1e045f4",
+      "id": 31475188,
       "en": "River-toad",
-      "es": "Sapo de río",
-      "es (fem)": ""
+      "es": "Sapo de río"
     },
     {
-      "id": "0x445e502",
+      "id": 71689474,
       "en": "Mariner",
-      "es": "Marinero",
-      "es (fem)": ""
+      "es": "Marinero"
     },
     {
-      "id": "0xb7d1f2e",
+      "id": 192749358,
       "en": "Bog-warden",
-      "es": "Vigilante de la ciénaga",
-      "es (fem)": ""
+      "es": "Vigilante de la ciénaga"
     },
     {
-      "id": "0x59b4627",
+      "id": 94062119,
       "en": "Bog-slug",
-      "es": "Babosa de pantano",
-      "es (fem)": ""
+      "es": "Babosa de pantano"
     },
     {
-      "id": "0x4ae2b7d",
+      "id": 78523261,
       "en": "Servant of Angmar",
-      "es": "Siervo de Angmar",
-      "es (fem)": ""
+      "es": "Siervo de Angmar"
     },
     {
-      "id": "0x687c644",
+      "id": 109561412,
       "en": "Recruit",
-      "es": "Reclutar",
-      "es (fem)": ""
+      "es": "Reclutar"
     },
     {
-      "id": "0x993a4d5",
+      "id": 160670933,
       "en": "Ice-mantle Aurochs",
-      "es": "Aurochs manto de hielo",
-      "es (fem)": ""
+      "es": "Aurochs manto de hielo"
     },
     {
-      "id": "0x101d2d5",
+      "id": 16896725,
       "en": "Silent Judge",
-      "es": "Juez silencioso",
-      "es (fem)": ""
+      "es": "Juez silencioso"
     },
     {
-      "id": "0x32fa645",
+      "id": 53454405,
       "en": "Shag-hide Aurochs",
-      "es": "Aurochs de piel desgreñada",
-      "es (fem)": ""
+      "es": "Aurochs de piel desgreñada"
     },
     {
-      "id": "0xc8ff707",
+      "id": 210761479,
       "en": "Gore-crow",
-      "es": "Cuervo de sangre",
-      "es (fem)": ""
+      "es": "Cuervo de sangre"
     },
     {
-      "id": "0x28fe71",
+      "id": 2686577,
       "en": "<rgb=#FFFF00>Unaware</rgb>",
-      "es": "<rgb=#FFFF00>Inconsciente</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FFFF00>Inconsciente</rgb>"
     },
     {
-      "id": "0x28fe72",
+      "id": 2686578,
       "en": "<rgb=#FF9900>Watchful</rgb>",
-      "es": "<rgb=#FF9900>Vigilante</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FF9900>Vigilante</rgb>"
     },
     {
-      "id": "0x65c9ced",
+      "id": 106732781,
       "en": "Cold-worm",
-      "es": "Gusano del frío",
-      "es (fem)": ""
+      "es": "Gusano del frío"
     },
     {
-      "id": "0x28fe73",
+      "id": 2686579,
       "en": "<rgb=#FF3300>Alert</rgb>",
-      "es": "<rgb=#FF3300>Alerta</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FF3300>Alerta</rgb>"
     },
     {
-      "id": "0xe55e61e",
+      "id": 240510494,
       "en": "Barrow-warden",
-      "es": "Vigilante de túmulos",
-      "es (fem)": ""
+      "es": "Vigilante de túmulos"
     },
     {
-      "id": "0xda7c42b",
+      "id": 229098539,
       "en": "Bark-skin Brood",
-      "es": "Cría de piel de corteza",
-      "es (fem)": ""
+      "es": "Cría de piel de corteza"
     },
     {
-      "id": "0xcb0eb72",
+      "id": 212921202,
       "en": "Tomb-weaver",
-      "es": "Tejedor de tumbas",
-      "es (fem)": ""
+      "es": "Tejedor de tumbas"
     },
     {
-      "id": "0x1015604",
+      "id": 16864772,
       "en": "Sun-touched Eagles",
-      "es": "Águilas tocadas por el sol",
-      "es (fem)": ""
+      "es": "Águilas tocadas por el sol"
     },
     {
-      "id": "0x2809f77",
+      "id": 41983863,
       "en": "Bloodfang",
-      "es": "Colmillo Sangriento",
-      "es (fem)": ""
+      "es": "Colmillo Sangriento"
     },
     {
-      "id": "0xecf7fcc",
+      "id": 248479692,
       "en": "Rock-shell",
-      "es": "Concha de roca",
-      "es (fem)": ""
+      "es": "Concha de roca"
     },
     {
-      "id": "0x62bfb79",
+      "id": 103545721,
       "en": "Moor-fly",
-      "es": "Mosca de los pantanos",
-      "es (fem)": ""
+      "es": "Mosca de los pantanos"
     },
     {
-      "id": "0x70a71a4",
+      "id": 118124964,
       "en": "Steward of Gondor",
-      "es": "Mayordomo de Gondor",
-      "es (fem)": ""
+      "es": "Mayordomo de Gondor"
     },
     {
-      "id": "0xce32732",
+      "id": 216213298,
       "en": "Peat-crawler",
-      "es": "Oruga de turba",
-      "es (fem)": ""
+      "es": "Oruga de turba"
     },
     {
-      "id": "0x68fb4ab",
+      "id": 110081195,
       "en": "Pale-folk",
-      "es": "Pueblo pálido",
-      "es (fem)": ""
+      "es": "Pueblo pálido"
     },
     {
-      "id": "0x7f33785",
+      "id": 133379973,
       "en": "Hellborne",
-      "es": "Hellborne",
-      "es (fem)": ""
+      "es": "Hellborne"
     },
     {
-      "id": "0xc4ad3e7",
+      "id": 206230503,
       "en": "Tempest-fang",
-      "es": "Colmillo de tormenta",
-      "es (fem)": ""
+      "es": "Colmillo de tormenta"
     },
     {
-      "id": "0x62bcbf2",
+      "id": 103533554,
       "en": "Moor-web",
-      "es": "Telaraña de los pantanos",
-      "es (fem)": ""
+      "es": "Telaraña de los pantanos"
     },
     {
-      "id": "0xa6b0eae",
+      "id": 174788270,
       "en": "Titan",
-      "es": "Titán",
-      "es (fem)": ""
+      "es": "Titán"
     },
     {
-      "id": "0xb5c0a37",
+      "id": 190581303,
       "en": "Quickclaw",
-      "es": "Garra rápida",
-      "es (fem)": ""
+      "es": "Garra rápida"
     },
     {
-      "id": "0xa5b6a83",
+      "id": 173763203,
       "en": "Downs",
-      "es": "Valles",
-      "es (fem)": ""
+      "es": "Valles"
     },
     {
-      "id": "0x7847d3",
+      "id": 7882707,
       "en": "Lone-lands",
-      "es": "Tierras solitarias",
-      "es (fem)": ""
+      "es": "Tierras solitarias"
     },
     {
-      "id": "0x2ce2202",
+      "id": 47063554,
       "en": "Warg Rider",
-      "es": "Jinete Warg",
-      "es (fem)": ""
+      "es": "Jinete Warg"
     },
     {
-      "id": "0xcb89e64",
+      "id": 213425764,
       "en": "Willow-root",
-      "es": "Raíz de sauce",
-      "es (fem)": ""
+      "es": "Raíz de sauce"
     },
     {
-      "id": "0x783be0b",
+      "id": 126074379,
       "en": "North-hawk",
-      "es": "Halcón del Norte",
-      "es (fem)": ""
+      "es": "Halcón del Norte"
     },
     {
-      "id": "0xe33a4e2",
+      "id": 238265570,
       "en": "The Doom-caller",
-      "es": "El agorero",
-      "es (fem)": ""
+      "es": "El agorero"
     },
     {
-      "id": "0xecb9322",
+      "id": 248222498,
       "en": "Rock-viper",
-      "es": "Víbora de las rocas",
-      "es (fem)": ""
+      "es": "Víbora de las rocas"
     },
     {
-      "id": "0x5a835de",
+      "id": 94909918,
       "en": "Craban",
-      "es": "Craban",
-      "es (fem)": ""
+      "es": "Craban"
     },
     {
-      "id": "0xbb203d2",
+      "id": 196215762,
       "en": "Heir of Castamir",
-      "es": "Heredero de Castamir",
-      "es (fem)": ""
+      "es": "Heredero de Castamir"
     },
     {
-      "id": "0xae52b34",
+      "id": 182790964,
       "en": "Barrow-wight",
-      "es": "Espectro de túmulo",
-      "es (fem)": ""
+      "es": "Espectro de túmulo"
     },
     {
-      "id": "0x86272ae",
+      "id": 140669614,
       "en": "Guardian Trainer",
-      "es": "Instructor de Guardián",
-      "es (fem)": ""
+      "es": "Instructor de Guardián"
     },
     {
-      "id": "0x3904ed5",
+      "id": 59789013,
       "en": "Prince of Harad",
-      "es": "Príncipe de Harad",
-      "es (fem)": ""
+      "es": "Príncipe de Harad"
     },
     {
-      "id": "0x868ff44",
+      "id": 141098820,
       "en": "Vale-cat",
-      "es": "Gato de los valles",
-      "es (fem)": ""
+      "es": "Gato de los valles"
     },
     {
-      "id": "0xd105ed3",
+      "id": 219176659,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xfaf019e",
+      "id": 263127454,
       "en": "Chieftain of the Trév Duvárdain",
-      "es": "Jefe de los Trév Duvárdain",
-      "es (fem)": ""
+      "es": "Jefe de los Trév Duvárdain"
     },
     {
-      "id": "0x32fb25b",
+      "id": 53457499,
       "en": "Crag-hawk",
-      "es": "Halcón de peñasco",
-      "es (fem)": ""
+      "es": "Halcón de peñasco"
     },
     {
-      "id": "0x59b10e4",
+      "id": 94048484,
       "en": "Bog-toad",
-      "es": "Sapo de pantano",
-      "es (fem)": ""
+      "es": "Sapo de pantano"
     },
     {
-      "id": "0xa664318",
+      "id": 174474008,
       "en": "Invaders of Fushaum Bal",
-      "es": "Invasores de Fushaum Bal",
-      "es (fem)": ""
+      "es": "Invasores de Fushaum Bal"
     },
     {
-      "id": "0x686ea84",
+      "id": 109505156,
       "en": "Ill-fated",
-      "es": "Malogrado",
-      "es (fem)": ""
+      "es": "Malogrado"
     },
     {
-      "id": "0xfe58941",
+      "id": 266701121,
       "en": "Cult of Umshûra",
-      "es": "Culto de Umshûra",
-      "es (fem)": ""
+      "es": "Culto de Umshûra"
     },
     {
-      "id": "0x94f9f3e",
+      "id": 156213054,
       "en": "Guardian",
-      "es": "Guardián",
-      "es (fem)": ""
+      "es": "Guardián"
     },
     {
-      "id": "0xcc6cc23",
+      "id": 214354979,
       "en": "Brandywine Hills",
-      "es": "Colinas de Brandywine",
-      "es (fem)": ""
+      "es": "Colinas de Brandywine"
     },
     {
-      "id": "0x67c7a1d",
+      "id": 108821021,
       "en": "Pûlpum",
-      "es": "Pûlpum",
-      "es (fem)": ""
+      "es": "Pûlpum"
     },
     {
-      "id": "0x9fb837d",
+      "id": 167478141,
       "en": "Ice-worm",
-      "es": "Gusano de hielo",
-      "es (fem)": ""
+      "es": "Gusano de hielo"
     },
     {
-      "id": "0x1a13bb5",
+      "id": 27343797,
       "en": "Last Alliance",
-      "es": "Última Alianza",
-      "es (fem)": ""
+      "es": "Última Alianza"
     },
     {
-      "id": "0x80454",
+      "id": 525396,
       "en": "Minion of Seregost",
-      "es": "Sirviente de Seregost",
-      "es (fem)": ""
+      "es": "Sirviente de Seregost"
     },
     {
-      "id": "0x6bcec62",
+      "id": 113044578,
       "en": "Tusker",
-      "es": "Tusker",
-      "es (fem)": ""
+      "es": "Tusker"
     },
     {
-      "id": "0xcbc0b7d",
+      "id": 213650301,
       "en": "Shadow Grim",
-      "es": "Sombra Grim",
-      "es (fem)": ""
+      "es": "Sombra Grim"
     },
     {
-      "id": "0x76f3c83",
+      "id": 124730499,
       "en": "North Downs",
-      "es": "Tierras del Norte",
-      "es (fem)": ""
+      "es": "Tierras del Norte"
     },
     {
-      "id": "0x1727bd5",
+      "id": 24280021,
       "en": "Bristlehide",
-      "es": "Piel de cerda",
-      "es (fem)": ""
+      "es": "Piel de cerda"
     },
     {
-      "id": "0xb6bb18e",
+      "id": 191607182,
       "en": "The Traitor",
-      "es": "El traidor",
-      "es (fem)": ""
+      "es": "El traidor"
     },
     {
-      "id": "0xcf62ca3",
+      "id": 217459875,
       "en": "Brandywine Woods",
-      "es": "Bosques de Brandywine",
-      "es (fem)": ""
+      "es": "Bosques de Brandywine"
     },
     {
-      "id": "0xc4cc197",
+      "id": 206356887,
       "en": "Sharpcrag",
-      "es": "Risco afilado",
-      "es (fem)": ""
+      "es": "Risco afilado"
     },
     {
-      "id": "0x1cc329d",
+      "id": 30159517,
       "en": "Kergrim",
-      "es": "Kergrim",
-      "es (fem)": ""
+      "es": "Kergrim"
     },
     {
-      "id": "0x5e00d8d",
+      "id": 98569613,
       "en": "Blight-worm",
-      "es": "Gusano tizón",
-      "es (fem)": ""
+      "es": "Gusano tizón"
     },
     {
-      "id": "0xd2b37c5",
+      "id": 220936133,
       "en": "White Hand",
-      "es": "Mano Blanca",
-      "es (fem)": ""
+      "es": "Mano Blanca"
     },
     {
-      "id": "0x11d7912",
+      "id": 18708754,
       "en": "Welkin-lofts Predator",
-      "es": "Depredador de Welkin-lofts",
-      "es (fem)": ""
+      "es": "Depredador de Welkin-lofts"
     },
     {
-      "id": "0x8f785d4",
+      "id": 150439380,
       "en": "Bree-land",
-      "es": "Bree-land",
-      "es (fem)": ""
+      "es": "Bree-land"
     },
     {
-      "id": "0xc8fb5fd",
+      "id": 210744829,
       "en": "Fire Grim",
-      "es": "Fuego Grim",
-      "es (fem)": ""
+      "es": "Fuego Grim"
     },
     {
-      "id": "0xd8e792",
+      "id": 14215058,
       "en": "Forest-bear",
-      "es": "Oso de bosque",
-      "es (fem)": ""
+      "es": "Oso de bosque"
     },
     {
-      "id": "0xbcb4b84",
+      "id": 197872516,
       "en": "Tomb-wight",
-      "es": "Espectro de tumba",
-      "es (fem)": ""
+      "es": "Espectro de tumba"
     },
     {
-      "id": "0x8303d22",
+      "id": 137379106,
       "en": "Downs-bear",
-      "es": "Oso de los valles",
-      "es (fem)": ""
+      "es": "Oso de los valles"
     },
     {
-      "id": "0x77a4d8e",
+      "id": 125455758,
       "en": "Warden",
-      "es": "Vigilante",
-      "es (fem)": ""
+      "es": "Vigilante"
     },
     {
-      "id": "0x1ab9d69",
+      "id": 28024169,
       "en": "Ekhamâti",
-      "es": "Ekhamâti",
-      "es (fem)": ""
+      "es": "Ekhamâti"
     },
     {
-      "id": "0xcb3cc7",
+      "id": 13319367,
       "en": "Yellowfang",
-      "es": "Colmillo amarillo",
-      "es (fem)": ""
+      "es": "Colmillo amarillo"
     },
     {
-      "id": "0xc34294",
+      "id": 12796564,
       "en": "Chill-wind",
-      "es": "Viento helado",
-      "es (fem)": ""
+      "es": "Viento helado"
     },
     {
-      "id": "0x7f04db9",
+      "id": 133189049,
       "en": "Silk Lady",
-      "es": "Dama de seda",
-      "es (fem)": ""
+      "es": "Dama de seda"
     },
     {
-      "id": "0xa6df924",
+      "id": 174979364,
       "en": "Wight",
-      "es": "Espectro",
-      "es (fem)": ""
+      "es": "Espectro"
     },
     {
-      "id": "0x4718bb4",
+      "id": 74550196,
       "en": "White Hand",
-      "es": "Mano Blanca",
-      "es (fem)": ""
+      "es": "Mano Blanca"
     },
     {
-      "id": "0x4006624",
+      "id": 67135012,
       "en": "Frost-giant",
-      "es": "Gigante de las heladas",
-      "es (fem)": ""
+      "es": "Gigante de las heladas"
     },
     {
-      "id": "0xeefebd7",
+      "id": 250604503,
       "en": "Rock-claw",
-      "es": "Garra de roca",
-      "es (fem)": ""
+      "es": "Garra de roca"
     },
     {
-      "id": "0x1a012a2",
+      "id": 27267746,
       "en": "Brown-bear",
-      "es": "Oso pardo",
-      "es (fem)": ""
+      "es": "Oso pardo"
     },
     {
-      "id": "0x5fae96b",
+      "id": 100329835,
       "en": "Bank",
-      "es": "Banco",
-      "es (fem)": ""
+      "es": "Banco"
     },
     {
-      "id": "0xcda15ee",
+      "id": 215619054,
       "en": "Eldgang",
-      "es": "Eldgang",
-      "es (fem)": ""
+      "es": "Eldgang"
     },
     {
-      "id": "0xb46271c",
+      "id": 189146908,
       "en": "Umbari Criminal",
-      "es": "Criminal Umbari",
-      "es (fem)": ""
+      "es": "Criminal Umbari"
     },
     {
-      "id": "0x87ff182",
+      "id": 142602626,
       "en": "Soldier",
-      "es": "Soldado",
-      "es (fem)": ""
+      "es": "Soldado"
     },
     {
-      "id": "0xed08bbe",
+      "id": 248548286,
       "en": "Old Woman of the Mountain",
-      "es": "Vieja de la montaña",
-      "es (fem)": ""
+      "es": "Vieja de la montaña"
     },
     {
-      "id": "0xc075732",
+      "id": 201807666,
       "en": "Rift-crawler",
-      "es": "Oruga de la grieta",
-      "es (fem)": ""
+      "es": "Oruga de la grieta"
     },
     {
-      "id": "0x4d342a2",
+      "id": 80954018,
       "en": "Son of Denethor",
-      "es": "Hijo de Denethor",
-      "es (fem)": ""
+      "es": "Hijo de Denethor"
     },
     {
-      "id": "0x38cca67",
+      "id": 59558503,
       "en": "Shadowmaw",
-      "es": "Fauces de sombra",
-      "es (fem)": ""
+      "es": "Fauces de sombra"
     },
     {
-      "id": "0xa2b72d4",
+      "id": 170619604,
       "en": "Skydart",
-      "es": "Skydart",
-      "es (fem)": ""
+      "es": "Skydart"
     },
     {
-      "id": "0x6b6fa95",
+      "id": 112654997,
       "en": "Epic Foe",
-      "es": "Enemigo épico",
-      "es (fem)": ""
+      "es": "Enemigo épico"
     },
     {
-      "id": "0xecd21cc",
+      "id": 248324556,
       "en": "Rock-troll",
-      "es": "Trol de roca",
-      "es (fem)": ""
+      "es": "Trol de roca"
     },
     {
-      "id": "0xc6edf6b",
+      "id": 208592747,
       "en": "Splintertusk",
-      "es": "Colmillo astillado",
-      "es (fem)": ""
+      "es": "Colmillo astillado"
     },
     {
-      "id": "0x30edbf8",
+      "id": 51305464,
       "en": "Sulfur-leech",
-      "es": "Sanguijuela de azufre",
-      "es (fem)": ""
+      "es": "Sanguijuela de azufre"
     },
     {
-      "id": "0xd8dc4d9",
+      "id": 227394777,
       "en": "Sickle-fly",
-      "es": "Mosca de la hoz",
-      "es (fem)": ""
+      "es": "Mosca de la hoz"
     },
     {
-      "id": "0x62b8af2",
+      "id": 103516914,
       "en": "Winter-bear",
-      "es": "Oso de invierno",
-      "es (fem)": ""
+      "es": "Oso de invierno"
     },
     {
-      "id": "0x11eeccc",
+      "id": 18803916,
       "en": "Creatures of Stormwall",
-      "es": "Criaturas de Stormwall",
-      "es (fem)": ""
+      "es": "Criaturas de Stormwall"
     },
     {
-      "id": "0xdf0cea4",
+      "id": 233885348,
       "en": "Emissary of the White-hand",
-      "es": "Emisario de la Mano Blanca",
-      "es (fem)": ""
+      "es": "Emisario de la Mano Blanca"
     },
     {
-      "id": "0x7dfdc84",
+      "id": 132111492,
       "en": "Fell-band",
-      "es": "Banda maligna",
-      "es (fem)": ""
+      "es": "Banda maligna"
     },
     {
-      "id": "0xf405b82",
+      "id": 255875970,
       "en": "Field-bear",
-      "es": "Oso de campo",
-      "es (fem)": ""
+      "es": "Oso de campo"
     },
     {
-      "id": "0xba30c6e",
+      "id": 195234926,
       "en": "Captain of Drugoth",
-      "es": "Capitán de Drugoth",
-      "es (fem)": ""
+      "es": "Capitán de Drugoth"
     },
     {
-      "id": "0xeb2a242",
+      "id": 246587970,
       "en": "Bat-rider",
-      "es": "Jinete de murciélagos",
-      "es (fem)": ""
+      "es": "Jinete de murciélagos"
     },
     {
-      "id": "0x4fbc357",
+      "id": 83608407,
       "en": "Swamp-norbog",
-      "es": "Norbog de pantano",
-      "es (fem)": ""
+      "es": "Norbog de pantano"
     },
     {
-      "id": "0xba573cb",
+      "id": 195392459,
       "en": "Whiskerback",
-      "es": "Whiskerback",
-      "es (fem)": ""
+      "es": "Whiskerback"
     },
     {
-      "id": "0xd5a0cb2",
+      "id": 224005298,
       "en": "Blogmal Overseer",
-      "es": "Supervisor de Blogmal",
-      "es (fem)": ""
+      "es": "Supervisor de Blogmal"
     },
     {
-      "id": "0xa4fcfe",
+      "id": 10812670,
       "en": "The Black Captain",
-      "es": "El Capitán Negro",
-      "es (fem)": ""
+      "es": "El Capitán Negro"
     },
     {
-      "id": "0xecbc612",
+      "id": 248235538,
       "en": "Murk-water",
-      "es": "Aguas turbias",
-      "es (fem)": ""
+      "es": "Aguas turbias"
     },
     {
-      "id": "0x88b7973",
+      "id": 143358323,
       "en": "Awaiting Orders",
-      "es": "A la espera de pedidos",
-      "es (fem)": ""
+      "es": "A la espera de pedidos"
     },
     {
-      "id": "0xc15d823",
+      "id": 202758179,
       "en": "The Deepest",
-      "es": "Lo más profundo",
-      "es (fem)": ""
+      "es": "Lo más profundo"
     },
     {
-      "id": "0x3e4b182",
+      "id": 65319298,
       "en": "Burglar",
-      "es": "Saqueador",
-      "es (fem)": ""
+      "es": "Saqueador"
     },
     {
-      "id": "0x8f66e9c",
+      "id": 150367900,
       "en": "Wood-bear",
-      "es": "Oso de madera",
-      "es (fem)": ""
+      "es": "Oso de madera"
     },
     {
-      "id": "0x9237692",
+      "id": 153319058,
       "en": "Twilight-howler",
-      "es": "Aullador del crepúsculo",
-      "es (fem)": ""
+      "es": "Aullador del crepúsculo"
     },
     {
-      "id": "0xbddc534",
+      "id": 199083316,
       "en": "Captain of the Guard",
-      "es": "Capitán de la Guardia",
-      "es (fem)": ""
+      "es": "Capitán de la Guardia"
     },
     {
-      "id": "0x471c453",
+      "id": 74564691,
       "en": "Invader of Annúminas",
-      "es": "Invasor de Annúminas",
-      "es (fem)": ""
+      "es": "Invasor de Annúminas"
     },
     {
-      "id": "0xa599848",
+      "id": 173643848,
       "en": "Brush",
-      "es": "Cepillo",
-      "es (fem)": ""
+      "es": "Cepillo"
     },
     {
-      "id": "0x48dfbe4",
+      "id": 76413924,
       "en": "Protected",
-      "es": "Protegido",
-      "es (fem)": ""
+      "es": "Protegido"
     },
     {
-      "id": "0xa2b5e25",
+      "id": 170614309,
       "en": "Skybane",
-      "es": "Skybane",
-      "es (fem)": ""
+      "es": "Skybane"
     },
     {
-      "id": "0x8f6983e",
+      "id": 150378558,
       "en": "Ered Luin",
-      "es": "Ered Luin",
-      "es (fem)": ""
+      "es": "Ered Luin"
     },
     {
-      "id": "0xda63072",
+      "id": 228995186,
       "en": "Limb",
-      "es": "Miembro",
-      "es (fem)": ""
+      "es": "Miembro"
     },
     {
-      "id": "0x3a1e9ce",
+      "id": 60942798,
       "en": "Stag Clan",
-      "es": "Clan del Ciervo",
-      "es (fem)": ""
+      "es": "Clan del Ciervo"
     },
     {
-      "id": "0x933b852",
+      "id": 154384466,
       "en": "Gloom-water",
-      "es": "Aguas sombrías",
-      "es (fem)": ""
+      "es": "Aguas sombrías"
     },
     {
-      "id": "0x2fe1d84",
+      "id": 50208132,
       "en": "Snow-beast",
-      "es": "Bestia de las nieves",
-      "es (fem)": ""
+      "es": "Bestia de las nieves"
     },
     {
-      "id": "0xbe99174",
+      "id": 199856500,
       "en": "The Red-maid",
-      "es": "La doncella roja",
-      "es (fem)": ""
+      "es": "La doncella roja"
     },
     {
-      "id": "0xbc75318",
+      "id": 197612312,
       "en": "Shadow-bough",
-      "es": "Rama de sombra",
-      "es (fem)": ""
+      "es": "Rama de sombra"
     },
     {
-      "id": "0x9933d67",
+      "id": 160644455,
       "en": "Gloom-wing",
-      "es": "Ala sombría",
-      "es (fem)": ""
+      "es": "Ala sombría"
     },
     {
-      "id": "0x85b3434",
+      "id": 140194868,
       "en": "Oak-root",
-      "es": "Raíz de roble",
-      "es (fem)": ""
+      "es": "Raíz de roble"
     },
     {
-      "id": "0x5c4c717",
+      "id": 96782103,
       "en": "Deathshadow",
-      "es": "Sombra de la muerte",
-      "es (fem)": ""
+      "es": "Sombra de la muerte"
     },
     {
-      "id": "0x615cb52",
+      "id": 102091602,
       "en": "Wood-web",
-      "es": "Web de madera",
-      "es (fem)": ""
+      "es": "Web de madera"
     },
     {
-      "id": "0x7789bce",
+      "id": 125344718,
       "en": "Ongbúrz",
-      "es": "Ongbúrz",
-      "es (fem)": ""
+      "es": "Ongbúrz"
     },
     {
-      "id": "0x8c04f24",
+      "id": 146820900,
       "en": "Barghest",
-      "es": "Barghest",
-      "es (fem)": ""
+      "es": "Barghest"
     },
     {
-      "id": "0xe2b9662",
+      "id": 237737570,
       "en": "Barrow-spider",
-      "es": "Araña de túmulo",
-      "es (fem)": ""
+      "es": "Araña de túmulo"
     },
     {
-      "id": "0x2736932",
+      "id": 41118002,
       "en": "Forest-shambler",
-      "es": "Desplazador del bosque",
-      "es (fem)": ""
+      "es": "Desplazador del bosque"
     },
     {
-      "id": "0x3146322",
+      "id": 51667746,
       "en": "The Dread Terror",
-      "es": "El Terror Temible",
-      "es (fem)": ""
+      "es": "El Terror Temible"
     },
     {
-      "id": "0x3f3f9a2",
+      "id": 66320802,
       "en": "Scrubrunner",
-      "es": "Corredor de matorrales",
-      "es (fem)": ""
+      "es": "Corredor de matorrales"
     },
     {
-      "id": "0x3a7cd04",
+      "id": 61328644,
       "en": "Highland-cat",
-      "es": "Gato de las Tierras Altas",
-      "es (fem)": ""
+      "es": "Gato de las Tierras Altas"
     },
     {
-      "id": "0xcab17d2",
+      "id": 212539346,
       "en": "Minion of Ferndúr",
-      "es": "Súbdito de Ferndúr",
-      "es (fem)": ""
+      "es": "Súbdito de Ferndúr"
     },
     {
-      "id": "0x3f0937",
+      "id": 4131127,
       "en": "Sand-norbog",
-      "es": "Norbog de arena",
-      "es (fem)": ""
+      "es": "Norbog de arena"
     },
     {
-      "id": "0x1b6674e",
+      "id": 28731214,
       "en": "Emissary of Goblin-town",
-      "es": "Emisario de la Ciudad de los Duendes",
-      "es (fem)": ""
+      "es": "Emisario de la Ciudad de los Duendes"
     },
     {
-      "id": "0xb310e0c",
+      "id": 187764236,
       "en": "Leafcull Wardens",
-      "es": "Vigilantes de Leafcull",
-      "es (fem)": ""
+      "es": "Vigilantes de Leafcull"
     },
     {
-      "id": "0x528044c",
+      "id": 86508620,
       "en": "Skarháld Invader",
-      "es": "Invasor de Skarháld",
-      "es (fem)": ""
+      "es": "Invasor de Skarháld"
     },
     {
-      "id": "0x9598769",
+      "id": 156862313,
       "en": "Bog-fly",
-      "es": "Mosca de la ciénaga",
-      "es (fem)": ""
+      "es": "Mosca de la ciénaga"
     },
     {
-      "id": "0x7fa51b",
+      "id": 8365339,
       "en": "Greensward-elk",
-      "es": "Ciervo de pradera verde",
-      "es (fem)": ""
+      "es": "Ciervo de pradera verde"
     },
     {
-      "id": "0xeec9fe6",
+      "id": 250388454,
       "en": "Dusk-wolf",
-      "es": "Lobo crepuscular",
-      "es (fem)": ""
+      "es": "Lobo crepuscular"
     },
     {
-      "id": "0xbf88364",
+      "id": 200835940,
       "en": "Hoar-frost",
-      "es": "Escarcha",
-      "es (fem)": ""
+      "es": "Escarcha"
     },
     {
-      "id": "0xa6567a4",
+      "id": 174417828,
       "en": "Hill-men",
-      "es": "Hombres de la colina",
-      "es (fem)": ""
+      "es": "Hombres de la colina"
     },
     {
-      "id": "0xc52a232",
+      "id": 206742066,
       "en": "Corpse-crawler",
-      "es": "Rastreador de cadáveres",
-      "es (fem)": ""
+      "es": "Rastreador de cadáveres"
     },
     {
-      "id": "0xe9d892c",
+      "id": 245205292,
       "en": "Minstrel",
-      "es": "Juglar",
-      "es (fem)": ""
+      "es": "Juglar"
     },
     {
-      "id": "0x7dd0a74",
+      "id": 131926644,
       "en": "Hill-toad",
-      "es": "Sapo de las colinas",
-      "es (fem)": ""
+      "es": "Sapo de las colinas"
     },
     {
-      "id": "0x13746c4",
+      "id": 20399812,
       "en": "Stone-giant",
-      "es": "Gigante de piedra",
-      "es (fem)": ""
+      "es": "Gigante de piedra"
     },
     {
-      "id": "0xa49f455",
+      "id": 172618837,
       "en": "Shire",
-      "es": "Comarca",
-      "es (fem)": ""
+      "es": "Comarca"
     },
     {
-      "id": "0xbad1515",
+      "id": 195892501,
       "en": "Fugitive",
-      "es": "Fugitivo",
-      "es (fem)": ""
+      "es": "Fugitivo"
     },
     {
-      "id": "0xdc9b012",
+      "id": 231321618,
       "en": "Hunter Trainer",
-      "es": "Instructor de Cazador",
-      "es (fem)": ""
+      "es": "Instructor de Cazador"
     },
     {
-      "id": "0x74a3242",
+      "id": 122303042,
       "en": "Southerner",
-      "es": "Sureño",
-      "es (fem)": ""
+      "es": "Sureño"
     },
     {
-      "id": "0x6e701d5",
+      "id": 115802581,
       "en": "Boss One",
-      "es": "Jefe Uno",
-      "es (fem)": ""
+      "es": "Jefe Uno"
     },
     {
-      "id": "0x42c62f2",
+      "id": 70017778,
       "en": "Grass-stalker",
-      "es": "Acechador de hierba",
-      "es (fem)": ""
+      "es": "Acechador de hierba"
     },
     {
-      "id": "0xb58d67b",
+      "id": 190371451,
       "en": "Thicktusk",
-      "es": "Thicktusk",
-      "es (fem)": ""
+      "es": "Thicktusk"
     },
     {
-      "id": "0xe0535ee",
+      "id": 235222510,
       "en": "Risen Dead",
-      "es": "Muertos resucitados",
-      "es (fem)": ""
+      "es": "Muertos resucitados"
     },
     {
-      "id": "0x9115f76",
+      "id": 152133494,
       "en": "Stone-hoof Aurochs",
-      "es": "Aurochs de pezuña de piedra",
-      "es (fem)": ""
+      "es": "Aurochs de pezuña de piedra"
     },
     {
-      "id": "0xaa4dd53",
+      "id": 178576723,
       "en": "Lord of Pinions",
-      "es": "Señor de los piñones",
-      "es (fem)": ""
+      "es": "Señor de los piñones"
     },
     {
-      "id": "0x716e225",
+      "id": 118940197,
       "en": "Wolverine",
-      "es": "Glotón",
-      "es (fem)": ""
+      "es": "Glotón"
     },
     {
-      "id": "0xfadac73",
+      "id": 263040115,
       "en": "Docks",
-      "es": "Muelles",
-      "es (fem)": ""
+      "es": "Muelles"
     },
     {
-      "id": "0xcc4f41e",
+      "id": 214234142,
       "en": "Heirsworn",
-      "es": "Hijos juramentados",
-      "es (fem)": ""
+      "es": "Hijos juramentados"
     },
     {
-      "id": "0xc31f83e",
+      "id": 204601406,
       "en": "Boar Clan",
-      "es": "Clan del Jabalí",
-      "es (fem)": ""
+      "es": "Clan del Jabalí"
     },
     {
-      "id": "0xda6e614",
+      "id": 229041684,
       "en": "Wood-spider",
-      "es": "Araña de madera",
-      "es (fem)": ""
+      "es": "Araña de madera"
     },
     {
-      "id": "0xa00913e",
+      "id": 167809342,
       "en": "Thorn-talon",
-      "es": "Garra de espina",
-      "es (fem)": ""
+      "es": "Garra de espina"
     },
     {
-      "id": "0x5d6c104",
+      "id": 97960196,
       "en": "Forest",
-      "es": "Silvicultor",
-      "es (fem)": ""
+      "es": "Silvicultor"
     },
     {
-      "id": "0x635e104",
+      "id": 104194308,
       "en": "Locust",
-      "es": "Langosta",
-      "es (fem)": ""
+      "es": "Langosta"
     },
     {
-      "id": "0xbeb34e4",
+      "id": 199963876,
       "en": "Red-root",
-      "es": "Raíz roja",
-      "es (fem)": ""
+      "es": "Raíz roja"
     },
     {
-      "id": "0x8df447e",
+      "id": 148849790,
       "en": "Barkskin",
-      "es": "Piel de corteza",
-      "es (fem)": ""
+      "es": "Piel de corteza"
     },
     {
-      "id": "0x6fa5173",
+      "id": 117068147,
       "en": "The Broken",
-      "es": "Los rotos",
-      "es (fem)": ""
+      "es": "Los rotos"
     },
     {
-      "id": "0x31052f2",
+      "id": 51401458,
       "en": "Downs-spider",
-      "es": "Araña de los valles",
-      "es (fem)": ""
+      "es": "Araña de los valles"
     },
     {
-      "id": "0x5f5d52",
+      "id": 6249810,
       "en": "Mere-lurker",
-      "es": "Merodeador de ciénaga",
-      "es (fem)": ""
+      "es": "Merodeador de ciénaga"
     },
     {
-      "id": "0x76f7b92",
+      "id": 124746642,
       "en": "Wintersebb Clutch",
-      "es": "Embrague Wintersebb",
-      "es (fem)": ""
+      "es": "Embrague Wintersebb"
     },
     {
-      "id": "0xc503515",
+      "id": 206583061,
       "en": "Sharp-eye",
-      "es": "Ojo agudo",
-      "es (fem)": ""
+      "es": "Ojo agudo"
     },
     {
-      "id": "0xfc7b534",
+      "id": 264746292,
       "en": "Roving Threat",
-      "es": "Amenaza itinerante",
-      "es (fem)": ""
+      "es": "Amenaza itinerante"
     },
     {
-      "id": "0x165ada3",
+      "id": 23440803,
       "en": "Gostador Searcher",
-      "es": "Buscador Gostador",
-      "es (fem)": ""
+      "es": "Buscador Gostador"
     },
     {
-      "id": "0xda6c865",
+      "id": 229034085,
       "en": "Vale",
-      "es": "Valles",
-      "es (fem)": ""
+      "es": "Valles"
     },
     {
-      "id": "0x956d5f8",
+      "id": 156685816,
       "en": "Brood of Bogbereth",
-      "es": "Cría de Bogbereth",
-      "es (fem)": ""
+      "es": "Cría de Bogbereth"
     },
     {
-      "id": "0xdcce4a9",
+      "id": 231531689,
       "en": "Grey Company",
-      "es": "Compañía gris",
-      "es (fem)": ""
+      "es": "Compañía gris"
     },
     {
-      "id": "0xc82a652",
+      "id": 209888850,
       "en": "Strangle-web",
-      "es": "Red de estrangulación",
-      "es (fem)": ""
+      "es": "Red de estrangulación"
     },
     {
-      "id": "0xa646245",
+      "id": 174350917,
       "en": "Moose",
-      "es": "Alce",
-      "es (fem)": ""
+      "es": "Alce"
     },
     {
-      "id": "0xcca0a3c",
+      "id": 214567484,
       "en": "Oath-thrall",
-      "es": "Voto esclavo",
-      "es (fem)": ""
+      "es": "Voto esclavo"
     },
     {
-      "id": "0x8680363",
+      "id": 141034339,
       "en": "Half-orc",
-      "es": "Semiorco",
-      "es (fem)": ""
+      "es": "Semiorco"
     },
     {
-      "id": "0x493ace4",
+      "id": 76786916,
       "en": "Gramsfoot",
-      "es": "Gramsfoot",
-      "es (fem)": ""
+      "es": "Gramsfoot"
     },
     {
-      "id": "0xbb74d34",
+      "id": 196562228,
       "en": "The Shunned",
-      "es": "Los rechazados",
-      "es (fem)": ""
+      "es": "Los rechazados"
     },
     {
-      "id": "0xd2cfc42",
+      "id": 221051970,
       "en": "Rune-keeper",
-      "es": "Maestro rúnico",
-      "es (fem)": ""
+      "es": "Maestro rúnico"
     },
     {
-      "id": "0x4801607",
+      "id": 75503111,
       "en": "Flesh-gnaw",
-      "es": "Roedor de carne",
-      "es (fem)": ""
+      "es": "Roedor de carne"
     },
     {
-      "id": "0xc843da2",
+      "id": 209993122,
       "en": "Overseer",
-      "es": "Supervisor",
-      "es (fem)": ""
+      "es": "Supervisor"
     },
     {
-      "id": "0xdf80824",
+      "id": 234358820,
       "en": "Hill-giant",
-      "es": "Gigante de la colina",
-      "es (fem)": ""
+      "es": "Gigante de la colina"
     },
     {
-      "id": "0xf1b86bc",
+      "id": 253462204,
       "en": "Boulder-troll",
-      "es": "Trol de roca",
-      "es (fem)": ""
+      "es": "Trol de roca"
     },
     {
-      "id": "0x98b0e14",
+      "id": 160108052,
       "en": "Brigand",
-      "es": "Bandido",
-      "es (fem)": ""
+      "es": "Bandido"
     },
     {
-      "id": "0x4375954",
+      "id": 70736212,
       "en": "Crypt-wight",
-      "es": "Espectro de cripta",
-      "es (fem)": ""
+      "es": "Espectro de cripta"
     },
     {
-      "id": "0x4da5884",
+      "id": 81418372,
       "en": "Bat",
-      "es": "Murciélago",
-      "es (fem)": ""
+      "es": "Murciélago"
     },
     {
-      "id": "0xcbee783",
+      "id": 213837699,
       "en": "Zhavár-hai",
-      "es": "Zhavár-hai",
-      "es (fem)": ""
+      "es": "Zhavár-hai"
     },
     {
-      "id": "0x4a5090e",
+      "id": 77924622,
       "en": "Tarkrîp",
-      "es": "Tarkrîp",
-      "es (fem)": ""
+      "es": "Tarkrîp"
     },
     {
-      "id": "0xb1ce5d6",
+      "id": 186443222,
       "en": "Emissary of the Dourhands",
-      "es": "Emisario de los Dourhands",
-      "es (fem)": ""
+      "es": "Emisario de los Dourhands"
     },
     {
-      "id": "0xbcaea12",
+      "id": 197847570,
       "en": "Forest-spider",
-      "es": "Araña forestal",
-      "es (fem)": ""
+      "es": "Araña forestal"
     },
     {
-      "id": "0xa1b96c3",
+      "id": 169580227,
       "en": "Infected Orcs",
-      "es": "Orcos infectados",
-      "es (fem)": ""
+      "es": "Orcos infectados"
     },
     {
-      "id": "0xda22967",
+      "id": 228731239,
       "en": "Durthang Guard",
-      "es": "Guardia Durthang",
-      "es (fem)": ""
+      "es": "Guardia Durthang"
     },
     {
-      "id": "0x9cdb234",
+      "id": 164475444,
       "en": "Serpent",
-      "es": "Serpiente",
-      "es (fem)": ""
+      "es": "Serpiente"
     },
     {
-      "id": "0x84f9502",
+      "id": 139433218,
       "en": "The Grey Fear",
-      "es": "El miedo gris",
-      "es (fem)": ""
+      "es": "El miedo gris"
     },
     {
-      "id": "0x5795c1e",
+      "id": 91839518,
       "en": "Blogmal",
-      "es": "Blogmal",
-      "es (fem)": ""
+      "es": "Blogmal"
     },
     {
-      "id": "0xd093e82",
+      "id": 218709634,
       "en": "Lore-master",
-      "es": "Sabio",
-      "es (fem)": ""
+      "es": "Sabio"
     },
     {
-      "id": "0x2841c4b",
+      "id": 42212427,
       "en": "Blood-oak",
-      "es": "Roble de sangre",
-      "es (fem)": ""
+      "es": "Roble de sangre"
     },
     {
-      "id": "0xbbf8be4",
+      "id": 197102564,
       "en": "Brotherhood of the Spirit",
-      "es": "Hermandad del Espíritu",
-      "es (fem)": ""
+      "es": "Hermandad del Espíritu"
     },
     {
-      "id": "0x6f8d229",
+      "id": 116970025,
       "en": "Harvest-fly",
-      "es": "Mosca de la cosecha",
-      "es (fem)": ""
+      "es": "Mosca de la cosecha"
     },
     {
-      "id": "0x714e905",
+      "id": 118810885,
       "en": "White-mane",
-      "es": "Crín blanco",
-      "es (fem)": ""
+      "es": "Crín blanco"
     },
     {
-      "id": "0xa92c627",
+      "id": 177391143,
       "en": "King of Gondor",
-      "es": "Rey de Gondor",
-      "es (fem)": ""
+      "es": "Rey de Gondor"
     },
     {
-      "id": "0xecee642",
+      "id": 248440386,
       "en": "Chetwood-spider",
-      "es": "Araña de Chetwood",
-      "es (fem)": ""
+      "es": "Araña de Chetwood"
     },
     {
-      "id": "0x5dc00dc",
+      "id": 98304220,
       "en": "Globsnaga",
-      "es": "Globsnaga",
-      "es (fem)": ""
+      "es": "Globsnaga"
     },
     {
-      "id": "0x4da5898",
+      "id": 81418392,
       "en": "Ash",
-      "es": "Ceniza",
-      "es (fem)": ""
+      "es": "Ceniza"
     },
     {
-      "id": "0xa419854",
+      "id": 172070996,
       "en": "Dread-mist",
-      "es": "Niebla temible",
-      "es (fem)": ""
+      "es": "Niebla temible"
     },
     {
-      "id": "0xd781a7e",
+      "id": 225974910,
       "en": "Rauta-lehmä",
-      "es": "Rauta-lehmä",
-      "es (fem)": ""
+      "es": "Rauta-lehmä"
     },
     {
-      "id": "0x18ec314",
+      "id": 26133268,
       "en": "Chain Bearer",
-      "es": "Portador de la cadena",
-      "es (fem)": ""
+      "es": "Portador de la cadena"
     },
     {
-      "id": "0x5232d20",
+      "id": 86191392,
       "en": "Snowreap",
-      "es": "Cosecha de nieve",
-      "es (fem)": ""
+      "es": "Cosecha de nieve"
     },
     {
-      "id": "0xeeccfdd",
+      "id": 250400733,
       "en": "Rock-worm",
-      "es": "Gusano de roca",
-      "es (fem)": ""
+      "es": "Gusano de roca"
     },
     {
-      "id": "0xbe862c7",
+      "id": 199779015,
       "en": "Red-fang Warg",
-      "es": "Warg Colmillo Rojo",
-      "es (fem)": ""
+      "es": "Warg Colmillo Rojo"
     },
     {
-      "id": "0x3abd4fe",
+      "id": 61592830,
       "en": "Captain",
-      "es": "Capitán",
-      "es (fem)": ""
+      "es": "Capitán"
     },
     {
-      "id": "0x9295456",
+      "id": 153703510,
       "en": "Ironhoof",
-      "es": "Pezuña de hierro",
-      "es (fem)": ""
+      "es": "Pezuña de hierro"
     },
     {
-      "id": "0x4dd2215",
+      "id": 81601045,
       "en": "All-seeing Eye",
-      "es": "El ojo que todo lo ve",
-      "es (fem)": ""
+      "es": "El ojo que todo lo ve"
     },
     {
-      "id": "0x283f8b5",
+      "id": 42203317,
       "en": "Ironscale",
-      "es": "Escala de hierro",
-      "es (fem)": ""
+      "es": "Escala de hierro"
     },
     {
-      "id": "0xa667695",
+      "id": 174487189,
       "en": "Coldeve Tribe",
-      "es": "Tribu Coldeve",
-      "es (fem)": ""
+      "es": "Tribu Coldeve"
     },
     {
-      "id": "0xdaeb3fe",
+      "id": 229553150,
       "en": "Champion Trainer",
-      "es": "Instructor de Campeón",
-      "es (fem)": ""
+      "es": "Instructor de Campeón"
     },
     {
-      "id": "0x3970902",
+      "id": 60229890,
       "en": "I need a real Subspecies!!",
-      "es": "¡¡Necesito una subespecie real!!",
-      "es (fem)": ""
+      "es": "¡¡Necesito una subespecie real!!"
     },
     {
-      "id": "0x6fe6b14",
+      "id": 117336852,
       "en": "Boss Eight",
-      "es": "Jefe Ocho",
-      "es (fem)": ""
+      "es": "Jefe Ocho"
     },
     {
-      "id": "0xa0d160e",
+      "id": 168629774,
       "en": "The Bitter Warden",
-      "es": "El Vigilante Amargo",
-      "es (fem)": ""
+      "es": "El Vigilante Amargo"
     },
     {
-      "id": "0x291a094",
+      "id": 43098260,
       "en": "Stonehold",
-      "es": "Fortaleza de piedra",
-      "es (fem)": ""
+      "es": "Fortaleza de piedra"
     },
     {
-      "id": "0x907e5",
+      "id": 591845,
       "en": "Hoar-mantle Aurochs",
-      "es": "Aurochs de manto áspero",
-      "es (fem)": ""
+      "es": "Aurochs de manto áspero"
     },
     {
-      "id": "0x28401a8",
+      "id": 42205608,
       "en": "Blood-ash",
-      "es": "Ceniza de sangre",
-      "es (fem)": ""
+      "es": "Ceniza de sangre"
     },
     {
-      "id": "0x35cf0d4",
+      "id": 56422612,
       "en": "Dead-root",
-      "es": "Raíz muerta",
-      "es (fem)": ""
+      "es": "Raíz muerta"
     },
     {
-      "id": "0x5cd743c",
+      "id": 97350716,
       "en": "Wood-troll",
-      "es": "Trol de madera",
-      "es (fem)": ""
+      "es": "Trol de madera"
     },
     {
-      "id": "0x6790b2e",
+      "id": 108596014,
       "en": "Goblin-town",
-      "es": "Ciudad de los duendes",
-      "es (fem)": ""
+      "es": "Ciudad de los duendes"
     },
     {
-      "id": "0xb247e24",
+      "id": 186940964,
       "en": "Emissary of the Trév Duvárdain",
-      "es": "Emisario del Trév Duvárdain",
-      "es (fem)": ""
+      "es": "Emisario del Trév Duvárdain"
     },
     {
-      "id": "0x4da58b5",
+      "id": 81418421,
       "en": "Bee",
-      "es": "Abeja",
-      "es (fem)": ""
+      "es": "Abeja"
     },
     {
-      "id": "0x4238d29",
+      "id": 69438761,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3dfeec",
+      "id": 171835116,
       "en": "Shades of the Faithful",
-      "es": "Sombras de los fieles",
-      "es (fem)": ""
+      "es": "Sombras de los fieles"
     },
     {
-      "id": "0x4098d64",
+      "id": 67734884,
       "en": "Mound-wight",
-      "es": "Espectro de túmulo",
-      "es (fem)": ""
+      "es": "Espectro de túmulo"
     },
     {
-      "id": "0x407c695",
+      "id": 67618453,
       "en": "Milkeye",
-      "es": "Milkeye",
-      "es (fem)": ""
+      "es": "Milkeye"
     },
     {
-      "id": "0x3c52e67",
+      "id": 63254119,
       "en": "Marish-slug",
-      "es": "Babosa de mariscos",
-      "es (fem)": ""
+      "es": "Babosa de mariscos"
     },
     {
-      "id": "0x8e11d7c",
+      "id": 148970876,
       "en": "Great Hall",
-      "es": "Gran Salón",
-      "es (fem)": ""
+      "es": "Gran Salón"
     },
     {
-      "id": "0xa40ce54",
+      "id": 172019284,
       "en": "Corpse-rat",
-      "es": "Rata de cadáver",
-      "es (fem)": ""
+      "es": "Rata de cadáver"
     },
     {
-      "id": "0x931192c",
+      "id": 154212652,
       "en": "Blogmal",
-      "es": "Blogmal",
-      "es (fem)": ""
+      "es": "Blogmal"
     },
     {
-      "id": "0xb7e0562",
+      "id": 192808290,
       "en": "Ash-weaver",
-      "es": "Tejedor de cenizas",
-      "es (fem)": ""
+      "es": "Tejedor de cenizas"
     },
     {
-      "id": "0x6e8c032",
+      "id": 115916850,
       "en": "Sulfur-crawler",
-      "es": "Oruga de azufre",
-      "es (fem)": ""
+      "es": "Oruga de azufre"
     },
     {
-      "id": "0x8480014",
+      "id": 138936340,
       "en": "Brush-cat",
-      "es": "Gato cepillo",
-      "es (fem)": ""
+      "es": "Gato cepillo"
     },
     {
-      "id": "0xc37eaa5",
+      "id": 204991141,
       "en": "Free Peoples",
-      "es": "Pueblos libres",
-      "es (fem)": ""
+      "es": "Pueblos libres"
     },
     {
-      "id": "0x120a294",
+      "id": 18915988,
       "en": "Unhoused",
-      "es": "Sin vivienda",
-      "es (fem)": ""
+      "es": "Sin vivienda"
     },
     {
-      "id": "0xf106a32",
+      "id": 252734002,
       "en": "Cave-crawler",
-      "es": "Rastreador de cueva",
-      "es (fem)": ""
+      "es": "Rastreador de cueva"
     },
     {
-      "id": "0xa694618",
+      "id": 174671384,
       "en": "Defenders of Fushaum Bal",
-      "es": "Defensores de Fushaum Bal",
-      "es (fem)": ""
+      "es": "Defensores de Fushaum Bal"
     },
     {
-      "id": "0xa4616f2",
+      "id": 172365554,
       "en": "Scion of Winter",
-      "es": "Vástago del invierno",
-      "es (fem)": ""
+      "es": "Vástago del invierno"
     },
     {
-      "id": "0x656c6f7",
+      "id": 106350327,
       "en": "Norbog",
-      "es": "Norbog",
-      "es (fem)": ""
+      "es": "Norbog"
     },
     {
-      "id": "0xa699c51",
+      "id": 174693457,
       "en": "Scara",
-      "es": "Scara",
-      "es (fem)": ""
+      "es": "Scara"
     },
     {
-      "id": "0x2450914",
+      "id": 38078740,
       "en": "Wight-lord",
-      "es": "Señor espectro",
-      "es (fem)": ""
+      "es": "Señor espectro"
     },
     {
-      "id": "0x88fd202",
+      "id": 143643138,
       "en": "Cave-bear",
-      "es": "Oso cavernario",
-      "es (fem)": ""
+      "es": "Oso cavernario"
     },
     {
-      "id": "0xab08067",
+      "id": 179339367,
       "en": "Beorning",
-      "es": "Beórnida",
-      "es (fem)": ""
+      "es": "Beórnida"
     },
     {
-      "id": "0xa416903",
+      "id": 172058883,
       "en": "Brotherhood of the Elements",
-      "es": "Hermandad de los Elementos",
-      "es (fem)": ""
+      "es": "Hermandad de los Elementos"
     },
     {
-      "id": "0x6332bc",
+      "id": 6501052,
       "en": "Hendroval",
-      "es": "Hendroval",
-      "es (fem)": ""
+      "es": "Hendroval"
     },
     {
-      "id": "0x5a9df2",
+      "id": 5938674,
       "en": "Hunter",
-      "es": "Cazador",
-      "es (fem)": ""
+      "es": "Cazador"
     },
     {
-      "id": "0xda64018",
+      "id": 228999192,
       "en": "Lynx",
-      "es": "Lince",
-      "es (fem)": ""
+      "es": "Lince"
     },
     {
-      "id": "0x62bffc4",
+      "id": 103546820,
       "en": "Moor-cat",
-      "es": "Gato de páramo",
-      "es (fem)": ""
+      "es": "Gato de páramo"
     },
     {
-      "id": "0xc5c1c83",
+      "id": 207363203,
       "en": "Insects of Cirith Ungol",
-      "es": "Insectos de Cirith Ungol",
-      "es (fem)": ""
+      "es": "Insectos de Cirith Ungol"
     },
     {
-      "id": "0x40bd729",
+      "id": 67884841,
       "en": "Library",
-      "es": "Biblioteca",
-      "es (fem)": ""
+      "es": "Biblioteca"
     },
     {
-      "id": "0xa40d763",
+      "id": 172021603,
       "en": "Mistress of Darkness",
-      "es": "Señora de las tinieblas",
-      "es (fem)": ""
+      "es": "Señora de las tinieblas"
     },
     {
-      "id": "0xce21a02",
+      "id": 216144386,
       "en": "Moor-stalker",
-      "es": "Acechador de páramo",
-      "es (fem)": ""
+      "es": "Acechador de páramo"
     },
     {
-      "id": "0x9df173",
+      "id": 10350963,
       "en": "Savage",
-      "es": "Salvaje",
-      "es (fem)": ""
+      "es": "Salvaje"
     },
     {
-      "id": "0xa0375f2",
+      "id": 167998962,
       "en": "Barkshredder",
-      "es": "Trituradora de cortezas",
-      "es (fem)": ""
+      "es": "Trituradora de cortezas"
     },
     {
-      "id": "0x7dfd482",
+      "id": 132109442,
       "en": "Hill-bear",
-      "es": "Oso de colina",
-      "es (fem)": ""
+      "es": "Oso de colina"
     },
     {
-      "id": "0xd0c6769",
+      "id": 218916713,
       "en": "Fire-fly",
-      "es": "Luciérnaga",
-      "es (fem)": ""
+      "es": "Luciérnaga"
     },
     {
-      "id": "0x5c87f1e",
+      "id": 97025822,
       "en": "Fallen",
-      "es": "Caídos",
-      "es (fem)": ""
+      "es": "Caídos"
     },
     {
-      "id": "0x88fdb07",
+      "id": 143645447,
       "en": "Cave-claw",
-      "es": "Garra de cueva",
-      "es (fem)": ""
+      "es": "Garra de cueva"
     },
     {
-      "id": "0x20e2b62",
+      "id": 34483042,
       "en": "Man of Mordor",
-      "es": "El Hombre de Mordor",
-      "es (fem)": ""
+      "es": "El Hombre de Mordor"
     },
     {
-      "id": "0xa20dfb8",
+      "id": 169926584,
       "en": "Broadtooth",
-      "es": "Diente ancho",
-      "es (fem)": ""
+      "es": "Diente ancho"
     },
     {
-      "id": "0x3e5e494",
+      "id": 65397908,
       "en": "Banner-wight",
-      "es": "Espectro de estandarte",
-      "es (fem)": ""
+      "es": "Espectro de estandarte"
     },
     {
-      "id": "0x638845e",
+      "id": 104367198,
       "en": "Mauryn",
-      "es": "Mauryn",
-      "es (fem)": ""
+      "es": "Mauryn"
     },
     {
-      "id": "0xe0f0082",
+      "id": 235864194,
       "en": "Faithful of Angmar",
-      "es": "Fieles de Angmar",
-      "es (fem)": ""
+      "es": "Fieles de Angmar"
     },
     {
-      "id": "0x64c0c62",
+      "id": 105647202,
       "en": "Neeker-breeker",
-      "es": "Neeker-breeker",
-      "es (fem)": ""
+      "es": "Neeker-breeker"
     },
     {
-      "id": "0xda64622",
+      "id": 229000738,
       "en": "Moor-crow",
-      "es": "Cuervo de páramo",
-      "es (fem)": ""
+      "es": "Cuervo de páramo"
     },
     {
-      "id": "0xcc3606e",
+      "id": 214130798,
       "en": "Champion",
-      "es": "Campeón",
-      "es (fem)": ""
+      "es": "Campeón"
     },
     {
-      "id": "0x95931f5",
+      "id": 156840437,
       "en": "Blogmal Slave",
-      "es": "Esclavo de Blogmal",
-      "es (fem)": ""
+      "es": "Esclavo de Blogmal"
     },
     {
-      "id": "0x25f11ee",
+      "id": 39784942,
       "en": "Dragon Clan",
-      "es": "Clan del Dragón",
-      "es (fem)": ""
+      "es": "Clan del Dragón"
     },
     {
-      "id": "0x38808a4",
+      "id": 59246756,
       "en": "Bandit",
-      "es": "Bandido",
-      "es (fem)": ""
+      "es": "Bandido"
     },
     {
-      "id": "0x439ca12",
+      "id": 70896146,
       "en": "Emissary of Gorgar",
-      "es": "Emisario de Gorgar",
-      "es (fem)": ""
+      "es": "Emisario de Gorgar"
     },
     {
-      "id": "0x291a0e6",
+      "id": 43098342,
       "en": "Stonehoof",
-      "es": "Stonehoof",
-      "es (fem)": ""
+      "es": "Stonehoof"
     },
     {
-      "id": "0xc1cd6a3",
+      "id": 203216547,
       "en": "Champion of the Enemy",
-      "es": "Campeón del enemigo",
-      "es (fem)": ""
+      "es": "Campeón del enemigo"
     },
     {
-      "id": "0x587e062",
+      "id": 92790882,
       "en": "Badger",
-      "es": "Tejón",
-      "es (fem)": ""
+      "es": "Tejón"
     },
     {
-      "id": "0x9a82e02",
+      "id": 162016770,
       "en": "Ash-bear",
-      "es": "Oso de ceniza",
-      "es (fem)": ""
+      "es": "Oso de ceniza"
     },
     {
-      "id": "0x6274bfc",
+      "id": 103238652,
       "en": "Foothill",
-      "es": "Foothill",
-      "es (fem)": ""
+      "es": "Foothill"
     },
     {
-      "id": "0x4a037e9",
+      "id": 77608937,
       "en": "Swamp-fly",
-      "es": "Mosca de los pantanos",
-      "es (fem)": ""
+      "es": "Mosca de los pantanos"
     },
     {
-      "id": "0x5b019b2",
+      "id": 95426994,
       "en": "Black-bear",
-      "es": "Oso negro",
-      "es (fem)": ""
+      "es": "Oso negro"
     },
     {
-      "id": "0xfcd624",
+      "id": 16569892,
       "en": "Acolyte of Lamentation",
-      "es": "Acólito de la Lamentación",
-      "es (fem)": ""
+      "es": "Acólito de la Lamentación"
     },
     {
-      "id": "0x27097bc",
+      "id": 40933308,
       "en": "Frostfell Cave-dwellers",
-      "es": "Cavernícolas de Frostfell",
-      "es (fem)": ""
+      "es": "Cavernícolas de Frostfell"
     },
     {
-      "id": "0xfe1c773",
+      "id": 266454899,
       "en": "Lord of the Western Marches",
-      "es": "Señor de las Marcas Occidentales",
-      "es (fem)": ""
+      "es": "Señor de las Marcas Occidentales"
     },
     {
-      "id": "0xcffcb42",
+      "id": 218090306,
       "en": "Bile-spewer",
-      "es": "Escupidor de bilis",
-      "es (fem)": ""
+      "es": "Escupidor de bilis"
     },
     {
-      "id": "0xc6fc862",
+      "id": 208652386,
       "en": "Norboglir",
-      "es": "Norboglir",
-      "es (fem)": ""
+      "es": "Norboglir"
     },
     {
-      "id": "0xc8cfc9d",
+      "id": 210566301,
       "en": "Mordorrim",
-      "es": "Mordorrim",
-      "es (fem)": ""
+      "es": "Mordorrim"
     },
     {
-      "id": "0x411d837",
+      "id": 68278327,
       "en": "The False King",
-      "es": "El falso rey",
-      "es (fem)": ""
+      "es": "El falso rey"
     },
     {
-      "id": "0xbcfcb22",
+      "id": 198167330,
       "en": "Ruin-web",
-      "es": "Red de ruina",
-      "es (fem)": ""
+      "es": "Red de ruina"
     },
     {
-      "id": "0x56e3f2",
+      "id": 5694450,
       "en": "Snow-lurker",
-      "es": "Merodeador de nieve",
-      "es (fem)": ""
+      "es": "Merodeador de nieve"
     },
     {
-      "id": "0x6c8c2d7",
+      "id": 113820375,
       "en": "Variag",
-      "es": "Variag",
-      "es (fem)": ""
+      "es": "Variag"
     },
     {
-      "id": "0xfc28e02",
+      "id": 264408578,
       "en": "Ongbúrz War-master",
-      "es": "Maestro de Guerra de Ongbúrz",
-      "es (fem)": ""
+      "es": "Maestro de Guerra de Ongbúrz"
     },
     {
-      "id": "0xf43584",
+      "id": 16004484,
       "en": "Field-rat",
-      "es": "Rata de campo",
-      "es (fem)": ""
+      "es": "Rata de campo"
     },
     {
-      "id": "0x2fd3f94",
+      "id": 50151316,
       "en": "Swan-knight Barracks",
-      "es": "Cuartel de los Caballeros del Cisne",
-      "es (fem)": ""
+      "es": "Cuartel de los Caballeros del Cisne"
     },
     {
-      "id": "0x10148bc",
+      "id": 16861372,
       "en": "Stone-troll",
-      "es": "Trol de piedra",
-      "es (fem)": ""
+      "es": "Trol de piedra"
     },
     {
-      "id": "0xef0c904",
+      "id": 250661124,
       "en": "Servant of the White Hand",
-      "es": "Siervo de la Mano Blanca",
-      "es (fem)": ""
+      "es": "Siervo de la Mano Blanca"
     },
     {
-      "id": "0xae2f7e5",
+      "id": 182646757,
       "en": "Warehouse",
-      "es": "Almacén",
-      "es (fem)": ""
+      "es": "Almacén"
     },
     {
-      "id": "0xf78cebe",
+      "id": 259575486,
       "en": "Brotherhood of the Pinioned",
-      "es": "Hermandad de los Alfileres",
-      "es (fem)": ""
+      "es": "Hermandad de los Alfileres"
     },
     {
-      "id": "0xba741ad",
+      "id": 195510701,
       "en": "Messenger of Carn Dûm",
-      "es": "Mensajero de Carn Dûm",
-      "es (fem)": ""
+      "es": "Mensajero de Carn Dûm"
     },
     {
-      "id": "0x935b2c2",
+      "id": 154514114,
       "en": "Marsh-strider",
-      "es": "Trancos de los pantanos",
-      "es (fem)": ""
+      "es": "Trancos de los pantanos"
     },
     {
-      "id": "0xc95ff82",
+      "id": 211156866,
       "en": "<rgb=#FF3300>Soldier</rgb>",
-      "es": "<rgb=#FF3300>Soldado</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FF3300>Soldado</rgb>"
     },
     {
-      "id": "0x55387d5",
+      "id": 89360341,
       "en": "Mountain-drake",
-      "es": "Dragón de montaña",
-      "es (fem)": ""
+      "es": "Dragón de montaña"
     },
     {
-      "id": "0x4ba6a63",
+      "id": 79325795,
       "en": "Théodred's Riders",
-      "es": "Jinetes de Teodred",
-      "es (fem)": ""
+      "es": "Jinetes de Teodred"
     },
     {
-      "id": "0x4da5c2b",
+      "id": 81419307,
       "en": "Elk",
-      "es": "Alce",
-      "es (fem)": ""
+      "es": "Alce"
     },
     {
-      "id": "0x8a403d4",
+      "id": 144966612,
       "en": "Lieutenant of the Enemy",
-      "es": "Teniente del enemigo",
-      "es (fem)": ""
+      "es": "Teniente del enemigo"
     },
     {
-      "id": "0xe701725",
+      "id": 242226981,
       "en": "Boss Nine",
-      "es": "Jefe Nueve",
-      "es (fem)": ""
+      "es": "Jefe Nueve"
     },
     {
-      "id": "0xcf5cbf3",
+      "id": 217435123,
       "en": "The Raging",
-      "es": "El furioso",
-      "es (fem)": ""
+      "es": "El furioso"
     },
     {
-      "id": "0xbf6b4a4",
+      "id": 200717476,
       "en": "Thorog's Brood",
-      "es": "Cría de Thorog",
-      "es (fem)": ""
+      "es": "Cría de Thorog"
     },
     {
-      "id": "0xc9f3dc7",
+      "id": 211762631,
       "en": "Shadow-wing",
-      "es": "Alas de sombra",
-      "es (fem)": ""
+      "es": "Alas de sombra"
     },
     {
-      "id": "0xcfeef72",
+      "id": 218034034,
       "en": "Tomb-robber",
-      "es": "Ladrón de tumbas",
-      "es (fem)": ""
+      "es": "Ladrón de tumbas"
     },
     {
-      "id": "0xa001834",
+      "id": 167778356,
       "en": "Swamp-toad",
-      "es": "Sapo de los pantanos",
-      "es (fem)": ""
+      "es": "Sapo de los pantanos"
     },
     {
-      "id": "0xbc50a9e",
+      "id": 197462686,
       "en": "Guardian",
-      "es": "Guardián",
-      "es (fem)": ""
+      "es": "Guardián"
     },
     {
-      "id": "0x4f5a8f4",
+      "id": 83208436,
       "en": "Unaligned",
-      "es": "Sin alinear",
-      "es (fem)": ""
+      "es": "Sin alinear"
     },
     {
-      "id": "0xa63fe05",
+      "id": 174325253,
       "en": "Midge",
-      "es": "Mosquito",
-      "es (fem)": ""
+      "es": "Mosquito"
     },
     {
-      "id": "0xae50631",
+      "id": 182781489,
       "en": "<rgb=#FFFF00>Unaware</rgb>",
-      "es": "<rgb=#FFFF00>Inconsciente</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FFFF00>Inconsciente</rgb>"
     },
     {
-      "id": "0xae50632",
+      "id": 182781490,
       "en": "<rgb=#FF9900>Watchful</rgb>",
-      "es": "<rgb=#FF9900>Vigilante</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FF9900>Vigilante</rgb>"
     },
     {
-      "id": "0xf9483a4",
+      "id": 261391268,
       "en": "Highland-cat",
-      "es": "Gato de las Tierras Altas",
-      "es (fem)": ""
+      "es": "Gato de las Tierras Altas"
     },
     {
-      "id": "0xeb5c627",
+      "id": 246793767,
       "en": "Thickjaw",
-      "es": "Mandíbula gruesa",
-      "es (fem)": ""
+      "es": "Mandíbula gruesa"
     },
     {
-      "id": "0xae50633",
+      "id": 182781491,
       "en": "<rgb=#FF3300>Alert</rgb>",
-      "es": "<rgb=#FF3300>Alerta</rgb>",
-      "es (fem)": ""
+      "es": "<rgb=#FF3300>Alerta</rgb>"
     },
     {
-      "id": "0x1db2bdd",
+      "id": 31140829,
       "en": "Warm-worm",
-      "es": "Gusano cálido",
-      "es (fem)": ""
+      "es": "Gusano cálido"
     },
     {
-      "id": "0xc1fedae",
+      "id": 203419054,
       "en": "Hobgoblin",
-      "es": "Hobgoblin",
-      "es (fem)": ""
+      "es": "Hobgoblin"
     },
     {
-      "id": "0x13dd168",
+      "id": 20828520,
       "en": "Sabertooth",
-      "es": "Dientes de sable",
-      "es (fem)": ""
+      "es": "Dientes de sable"
     },
     {
-      "id": "0x9a212b5",
+      "id": 161616565,
       "en": "Scourge of Mordor",
-      "es": "Azote de Mordor",
-      "es (fem)": ""
+      "es": "Azote de Mordor"
     },
     {
-      "id": "0x58f376d",
+      "id": 93271917,
       "en": "Blackvenom Brood",
-      "es": "Cría de Blackvenom",
-      "es (fem)": ""
+      "es": "Cría de Blackvenom"
     },
     {
-      "id": "0x95902c4",
+      "id": 156828356,
       "en": "Boggart",
-      "es": "Boggart",
-      "es (fem)": ""
+      "es": "Boggart"
     },
     {
-      "id": "0xbab13dd",
+      "id": 195761117,
       "en": "Great Worm",
-      "es": "Gran Gusano",
-      "es (fem)": ""
+      "es": "Gran Gusano"
     },
     {
-      "id": "0xc3eb932",
+      "id": 205437234,
       "en": "Tomb-crawler",
-      "es": "Rastreador de tumbas",
-      "es (fem)": ""
+      "es": "Rastreador de tumbas"
     },
     {
-      "id": "0x527edab",
+      "id": 86502827,
       "en": "Barren-oak",
-      "es": "Roble estéril",
-      "es (fem)": ""
+      "es": "Roble estéril"
     },
     {
-      "id": "0x583a14",
+      "id": 5782036,
       "en": "Fallen Knight",
-      "es": "Caballero caído",
-      "es (fem)": ""
+      "es": "Caballero caído"
     },
     {
-      "id": "0xb0f6875",
+      "id": 185559157,
       "en": "Order of the Eye",
-      "es": "Orden del Ojo",
-      "es (fem)": ""
+      "es": "Orden del Ojo"
     },
     {
-      "id": "0x8df0a05",
+      "id": 148834821,
       "en": "Darktide Wolves",
-      "es": "Lobos de Marea Oscura",
-      "es (fem)": ""
+      "es": "Lobos de Marea Oscura"
     },
     {
-      "id": "0x4ebc45e",
+      "id": 82560094,
       "en": "The Glutton",
-      "es": "El Glotón",
-      "es (fem)": ""
+      "es": "El Glotón"
     },
     {
-      "id": "0xa6a5239",
+      "id": 174740025,
       "en": "Snow-cat",
-      "es": "Gato de nieve",
-      "es (fem)": ""
+      "es": "Gato de nieve"
     },
     {
-      "id": "0x371d25b",
+      "id": 57791067,
       "en": "Blade-beak",
-      "es": "Pico de cuchilla",
-      "es (fem)": ""
+      "es": "Pico de cuchilla"
     },
     {
-      "id": "0xb84d102",
+      "id": 193253634,
       "en": "Traitor",
-      "es": "Traidor",
-      "es (fem)": ""
+      "es": "Traidor"
     },
     {
-      "id": "0x6b07562",
+      "id": 112227682,
       "en": "Timber",
-      "es": "Madera",
-      "es (fem)": ""
+      "es": "Madera"
     },
     {
-      "id": "0x8c68fb0",
+      "id": 147230640,
       "en": "Tarkrîp",
-      "es": "Tarkrîp",
-      "es (fem)": ""
+      "es": "Tarkrîp"
     },
     {
-      "id": "0xa646c21",
+      "id": 174353441,
       "en": "Moria",
-      "es": "Moria",
-      "es (fem)": ""
+      "es": "Moria"
     },
     {
-      "id": "0xdb066bc",
+      "id": 229664444,
       "en": "Minstrel Trainer",
-      "es": "Instructor de Juglar",
-      "es (fem)": ""
+      "es": "Instructor de Juglar"
     },
     {
-      "id": "0x7d1d6fe",
+      "id": 131192574,
       "en": "Ox Clan",
-      "es": "Clan del Buey",
-      "es (fem)": ""
+      "es": "Clan del Buey"
     },
     {
-      "id": "0xa69fc17",
+      "id": 174717975,
       "en": "Shrew",
-      "es": "Musaraña",
-      "es (fem)": ""
+      "es": "Musaraña"
     },
     {
-      "id": "0x75cdf74",
+      "id": 123527028,
       "en": "Silt-toad",
-      "es": "Sapo de limo",
-      "es (fem)": ""
+      "es": "Sapo de limo"
     },
     {
-      "id": "0xfd3a032",
+      "id": 265527346,
       "en": "Oath-breaker",
-      "es": "Rompejuramentos",
-      "es (fem)": ""
+      "es": "Rompejuramentos"
     },
     {
-      "id": "0x587e3d2",
+      "id": 92791762,
       "en": "Neeker-breeker",
-      "es": "Neeker-breeker",
-      "es (fem)": ""
+      "es": "Neeker-breeker"
     },
     {
-      "id": "0x5511a2",
+      "id": 5575074,
       "en": "Sand-lurker",
-      "es": "Merodeador de arena",
-      "es (fem)": ""
+      "es": "Merodeador de arena"
     },
     {
-      "id": "0x388fce8",
+      "id": 59309288,
       "en": "Mammoth",
-      "es": "Mamut",
-      "es (fem)": ""
+      "es": "Mamut"
     },
     {
-      "id": "0x590f874",
+      "id": 93386868,
       "en": "Thicksnout",
-      "es": "Hocico grueso",
-      "es (fem)": ""
+      "es": "Hocico grueso"
     },
     {
-      "id": "0xe5dbb5",
+      "id": 15063989,
       "en": "Tarkrîp Slave",
-      "es": "Esclavo Tarkrîp",
-      "es (fem)": ""
+      "es": "Esclavo Tarkrîp"
     },
     {
-      "id": "0xc4c9ca6",
+      "id": 206347430,
       "en": "Grey-wolf",
-      "es": "Lobo gris",
-      "es (fem)": ""
+      "es": "Lobo gris"
     },
     {
-      "id": "0xa6d4e52",
+      "id": 174935634,
       "en": "Corsair",
-      "es": "Corsair",
-      "es (fem)": ""
+      "es": "Corsair"
     },
     {
-      "id": "0xd753737",
+      "id": 225785655,
       "en": "Gorthorog",
-      "es": "Gorthorog",
-      "es (fem)": ""
+      "es": "Gorthorog"
     },
     {
-      "id": "0xa4ffc5e",
+      "id": 173014110,
       "en": "Yiarn Tribe",
-      "es": "Tribu Yiarn",
-      "es (fem)": ""
+      "es": "Tribu Yiarn"
     }
   ]
 }

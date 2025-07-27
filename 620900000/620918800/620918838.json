@@ -2,106 +2,89 @@
   "id": 620918838,
   "txt": [
     {
-      "id": "0xba3fae1",
+      "id": 195295969,
       "en": "Collected the sickle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae2",
+      "id": 195295970,
       "en": "Collected the hoe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae3",
+      "id": 195295971,
       "en": "Collected the sacks of supplies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae4",
+      "id": 195295972,
       "en": "Destroyed a trap ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d1",
+      "id": 16439761,
       "en": "'I've heard from many folk that there are deadly traps sprung up all over the icy plains of the Whitshaws. The Orcs are surely hoping to ensnare the beasts that roam there, our own game! They have taken enough from us; I do not wish for our people to starve because the Orcs steal our beasts as well.\\n\\n'If you would be so kind as to destroy those traps, the people of Wildermore would be in your debt.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d2",
+      "id": 16439762,
       "en": "'So, you have destroyed the Orc-laid traps of the Whitshaws? You have saved the beasts from a torturous death. The Orcs will now have a harder time of stealing Wildermore's wild game.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Orcs have laid traps throughout the Whitshaws to ensnare the beasts that roam upon those icy plains.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5021",
+      "id": 225071137,
       "en": "Return to Ealswith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Traps can be found on the icy plains of the central Whitshaws.\\n\\nYou should destroy the traps laid by the Orcs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5022",
+      "id": 225071138,
       "en": "<rgb=#FF0000>Completing Wildermore's Recovery will cancel this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Ealswith is in Forlaw.\\n\\nYou should return to Ealswith.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect the sickle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Completed",
-      "es": "Completado",
-      "es (fem)": ""
+      "es": "Completado"
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Collect the hoe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Completed",
-      "es": "Completado",
-      "es (fem)": ""
+      "es": "Completado"
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Whitshaws: Cruelty Towards Beasts",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Destroy traps ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

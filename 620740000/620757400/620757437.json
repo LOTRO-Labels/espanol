@@ -2,2338 +2,1949 @@
   "id": 620757437,
   "txt": [
     {
-      "id": "0x7108650",
+      "id": 118523472,
       "en": "Entrar en el Juego de Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a7e334",
+      "id": 61334324,
       "en": "Host:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3e610b",
+      "id": 188637451,
       "en": "Desbloquear Monstruo para Jugar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18d683b",
+      "id": 26044475,
       "en": "Atrás",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3058d84",
+      "id": 50695556,
       "en": "Entrando en la Tierra Media",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9fe81e",
+      "id": 262137886,
       "en": "<-",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e06905",
+      "id": 148924677,
       "en": "Haz clic y arrastra para rotar tu personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2965865",
+      "id": 43407461,
       "en": "Tu personaje no tiene nombre.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb6a413",
+      "id": 213296147,
       "en": "Orejas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b099c9",
+      "id": 162568649,
       "en": "Reproducir Película",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9393ae2",
+      "id": 154745570,
       "en": "Color de Detalle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4283f04",
+      "id": 69746436,
       "en": "Este personaje no puede ser seleccionado en este momento. Por favor, inténtalo de nuevo más tarde.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef0d865",
+      "id": 250665061,
       "en": "Cabeza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18d8904",
+      "id": 26052868,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xdb47a64",
+      "id": 229931620,
       "en": "No puedes usar este personaje porque tienes más personajes que espacios disponibles.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdfaaf15",
+      "id": 234532629,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x31ce79e",
+      "id": 52225950,
       "en": "Admin",
-      "es": "Admin",
-      "es (fem)": ""
+      "es": "Admin"
     },
     {
-      "id": "0x9b49e65",
+      "id": 162831973,
       "en": "Elige un Monstruo para Jugar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18a549c",
+      "id": 25842844,
       "en": "Nombres",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeef4133",
+      "id": 250560819,
       "en": "Ojos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee315dc",
+      "id": 249763292,
       "en": "Buffs de Sesión Disponibles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe0a79f2",
+      "id": 235567602,
       "en": "Tienes [placeholder] personajes y [placeholder] espacios para personajes. Por favor, elige los personajes que deseas tener disponibles.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd2aa08",
+      "id": 198355464,
       "en": "El servidor ha fallado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x403efa2",
+      "id": 67366818,
       "en": "Jugar a LOTRO",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74df6d4",
+      "id": 122549972,
       "en": "Entrar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfbee34c",
+      "id": 264168268,
       "en": "Cambiar Tutorial",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbbae20c",
+      "id": 196796940,
       "en": "Renombrar Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3019b0",
+      "id": 170924464,
       "en": "Hay demasiados Jugadores de Monstruos conectados a Ettenmoors en este momento.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad9f64",
+      "id": 11378532,
       "en": "Abre el panel de la biblioteca de películas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x316f5b2",
+      "id": 51836338,
       "en": "Color de Ojos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd23bf59",
+      "id": 220446553,
       "en": "Tu personaje no tiene nacionalidad.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x434f644",
+      "id": 70579780,
       "en": "Los buffs de sesión son <rgb=#D5D505>solo para un personaje a la vez</rgb>. También puedes comprar <rgb=#D5D505>solo un buff de sesión por personaje</rgb>. Ganas puntos de aventura participando en Monster Play. Para aplicar un Buff de Sesión, elige uno de la lista y luego haz clic en obtener. El <rgb=#D5D505>Buff de Sesión se aplicará cuando inicies sesión</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5965034",
+      "id": 93737012,
       "en": "Girar personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8bb804",
+      "id": 176928772,
       "en": "¡No puedes crear un personaje de esta clase hasta que lo compres en la Tienda LOTRO!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7f3ac5",
+      "id": 209664709,
       "en": "Aleatorio",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7ba1c5",
+      "id": 259760581,
       "en": "Debes abandonar o vender todas las viviendas propiedad de este personaje antes de borrarlo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e1313e",
+      "id": 132198718,
       "en": "Elige tu Vocación",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e81ee5",
+      "id": 31989477,
       "en": "¡Actualización completa!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb074ce",
+      "id": 11564238,
       "en": "Nuevo Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x526c4e5",
+      "id": 86426853,
       "en": "Elfa",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb25f32",
+      "id": 196239154,
       "en": "Los datos de este personaje han sido dañados. Por favor, contacta con el soporte técnico para obtener ayuda.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58a7e14",
+      "id": 92962324,
       "en": "Esta raza no está disponible para tu clase.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x646eb64",
+      "id": 105311076,
       "en": "¡Se ha perdido la conexión con el servidor!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11b405c",
+      "id": 18563164,
       "en": "Nivel [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x401f374",
+      "id": 67236724,
       "en": "Abre el panel de opciones para ajustar la configuración de tu juego.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81cae34",
+      "id": 136097332,
       "en": "Si esta opción está marcada, este personaje usará el tutorial Antes de la Sombra.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe171f55",
+      "id": 236396373,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xbe0ec9e",
+      "id": 199290014,
       "en": "Salir de la Película",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11fd694",
+      "id": 18863764,
       "en": "Esta cuenta no es válida. Inténtalo de nuevo y contacta con el soporte técnico si el problema persiste.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae2848",
+      "id": 11413576,
       "en": "Tu nombre parece ser un galimatías. Por favor, elige otro.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3358bd0",
+      "id": 53840848,
       "en": "El juego de los Pueblos Libres no está disponible en este momento.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3359e3",
+      "id": 238246371,
       "en": "¡Gracias por ser un suscriptor VIP! Tu suscripción recurrente se ha transferido con éxito a Standing Stone Games. Recibirás una confirmación por correo electrónico en breve. Para obtener más información sobre tu suscripción, visita la Tienda del juego y selecciona 'Gestionar suscripciones' -> 'Detalles' en el menú desplegable de la esquina superior derecha.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c6dad5",
+      "id": 80141013,
       "en": "Elfo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x317ae5",
+      "id": 3242725,
       "en": "Borrar Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x17b8ca7",
+      "id": 24874151,
       "en": "Elige tu Crianza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a90de4",
+      "id": 162074084,
       "en": "Tu personaje todavía se está guardando. Por favor, inténtalo de nuevo más tarde.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x39f077d",
+      "id": 60753789,
       "en": "¿Estás seguro de que quieres restablecer todos los datos de este jugador de monstruos?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f491c",
+      "id": 3098908,
       "en": "Nombre (A-Z)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d0ce25",
+      "id": 147901989,
       "en": "Genera una apariencia aleatoria para tu personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d3ee4",
+      "id": 6110948,
       "en": "Este personaje no cumple el nivel mínimo requerido para el cambio de raza de personaje. Debe ser de nivel [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4a09b4",
+      "id": 256510388,
       "en": "Crear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a8a1e7",
+      "id": 61383143,
       "en": "Descargando actualización...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74084c4",
+      "id": 121668804,
       "en": "La creación de nuevos personajes está desactivada en este mundo en este momento",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8aafa2",
+      "id": 176861090,
       "en": "El nombre que has seleccionado es inapropiado o contiene vulgaridades. Si usas un nombre vulgar que se cuela por el filtro de nombres, serás baneado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeee2a13",
+      "id": 250489363,
       "en": "Obtener Puntos y Mejoras de Cuenta",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0cd52c",
+      "id": 185390380,
       "en": "Nivel (Mín-Máx)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83153be",
+      "id": 137450430,
       "en": "¡DESCONOCIDO! ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x765c515",
+      "id": 124110101,
       "en": "Enano",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf1c31e",
+      "id": 200393502,
       "en": "Entrar en la Tierra Media",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdbb6f65",
+      "id": 230387557,
       "en": "Juego de Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x28c88f2",
+      "id": 42764530,
       "en": "<rgb=#FF0000>No disponible</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64457a3",
+      "id": 105142179,
       "en": "Preajustes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce21b2c",
+      "id": 216144684,
       "en": "Genera una apariencia aleatoria para tu personaje utilizando todas las opciones disponibles.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x85784d4",
+      "id": 139953364,
       "en": "Esta clase no está disponible para tu raza.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf9c86c",
+      "id": 217696364,
       "en": "¡Próximamente el Visor de Juego de Monstruos!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a9383e",
+      "id": 27867198,
       "en": "Continuar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1844543",
+      "id": 25445699,
       "en": "Clase (A-Z)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee81772",
+      "id": 250091378,
       "en": "Detalles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa1abc55",
+      "id": 169524309,
       "en": "Tu personaje no se pudo borrar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc472224",
+      "id": 205988388,
       "en": "Cancelar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a0bf94",
+      "id": 60866452,
       "en": "Salir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeffafec",
+      "id": 251637740,
       "en": "Espacios Usados",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6089964",
+      "id": 101226852,
       "en": "Se ha producido un error desconocido.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcfa243",
+      "id": 265265731,
       "en": "Controles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x688637c",
+      "id": 109601660,
       "en": "Nombra a tu Monstruo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd4c87a5",
+      "id": 223119269,
       "en": "Hombre",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x96cf0a4",
+      "id": 158134436,
       "en": "Teclado",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xedf6af0",
+      "id": 249522928,
       "en": "Alcanza el nivel [placeholder] con cualquier personaje para desbloquear el Juego de Monstruos.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfea2dc5",
+      "id": 267005381,
       "en": "[placeholder] de [placeholder] Espacios de Personaje Usados",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b654f9",
+      "id": 79058169,
       "en": "Reproducir Película",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2458153",
+      "id": 38109523,
       "en": "Ha habido un error.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c6c944",
+      "id": 80136516,
       "en": "¡No puedes crear un personaje de esta raza hasta que lo compres en la Tienda LOTRO!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb79fb3",
+      "id": 246914995,
       "en": "Antes de la Sombra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x99c8f94",
+      "id": 161255316,
       "en": "Reproducir la película de demostración de esta clase.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb19d85",
+      "id": 212966789,
       "en": "Altura",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7879b95",
+      "id": 126327701,
       "en": "El nombre que has seleccionado no sería apropiado en la Tierra Media. Por favor, elige otro.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e35cb2",
+      "id": 149118130,
       "en": "Color de Piel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfab885e",
+      "id": 262899806,
       "en": "Nivel [placeholder] [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8dc563e",
+      "id": 148657726,
       "en": "Entrar en la Tierra Media",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3248c2e",
+      "id": 52726830,
       "en": "Juego de Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd87ece4",
+      "id": 227011812,
       "en": "¡Identidad de personaje no válida!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeff0994",
+      "id": 251595156,
       "en": "¡Error en la generación de personajes!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb6f7f4",
+      "id": 213317620,
       "en": "Cabeza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x689183",
+      "id": 6852995,
       "en": "¡Parámetros no válidos!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db1",
+      "id": 24743345,
       "en": "Detalles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db2",
+      "id": 24743346,
       "en": "Detalles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6c75c5",
+      "id": 241989061,
       "en": "Introduce el nombre de la cuenta aquí.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6252a4",
+      "id": 241324708,
       "en": "Crear nuevo personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d43b62",
+      "id": 148126562,
       "en": "Mueve el deslizador para cambiar [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56b1579",
+      "id": 90903929,
       "en": "Cuerpo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ccc895",
+      "id": 114083989,
       "en": "Crea un nuevo personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xffdb2f4",
+      "id": 268284660,
       "en": "El Juego de Monstruos está desactivado en este momento",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x17fd2f5",
+      "id": 25154293,
       "en": "Restaurar Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb7f011",
+      "id": 246935569,
       "en": "Sombras de Angmar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb12a0d2",
+      "id": 185770194,
       "en": "Haz clic para elegir este personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56b6bb4",
+      "id": 90926004,
       "en": "Cabeza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41012a4",
+      "id": 68162212,
       "en": "La cuenta ha caducado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b4db4e",
+      "id": 146070350,
       "en": "Cambiar Raza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x749c059",
+      "id": 122273881,
       "en": "Obtener",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa02b32e",
+      "id": 167949102,
       "en": "Decoración del Cabello",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb537e1d",
+      "id": 190021149,
       "en": "¿Estás seguro de que quieres borrar [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c2e9e4",
+      "id": 113437156,
       "en": "Debes ser VIP para entrar en este mundo Legendario. Por favor, activa tu membresía VIP para continuar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1258a9e",
+      "id": 19237534,
       "en": "Gestionar Plugins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ab443",
+      "id": 5944387,
       "en": "Buffs de Sesión",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c0a1f4",
+      "id": 79733236,
       "en": "Visita la Tienda LOTRO para comprar esta clase",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8e04de",
+      "id": 244188382,
       "en": "Aplicar Cambio",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54fbff4",
+      "id": 89112564,
       "en": "Reproducir la película de demostración de esta raza.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2dc6a34",
+      "id": 47999540,
       "en": "La compra del paquete de expansión te proporcionará [placeholder] espacios adicionales para personajes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd1ffc",
+      "id": 860156,
       "en": "Cancelar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf6e28e",
+      "id": 16179854,
       "en": "Bienvenido a <rgb=#D5D505>Juego de Monstruos</rgb>. Aquí puedes <rgb=#D5D505>elegir un monstruo para jugar</rgb>, <rgb=#D5D505>elegir el tipo de sesión de juego</rgb> e <rgb=#D5D505>introducir un nombre</rgb> para tu monstruo. Cada vez que <rgb=#D5D505>completes una sesión de juego de monstruos</rgb> ganarás <rgb=#D5D505>Puntos de Aventura</rgb> que podrás gastar en <rgb=#D5D505>Buffs de Sesión</rgb> para tu jugador o para <rgb=#D5D505>desbloquear nuevos Personajes de Juego de Monstruos</rgb>. Cada Personaje de Juego de Monstruos diferente que desbloquees tiene una cantidad diferente de Misiones que puedes completar. También puedes <rgb=#D5D505>repetir estas Misiones</rgb> una y otra vez.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c9606c",
+      "id": 80306284,
       "en": "Género",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6cfb2e2",
+      "id": 114275042,
       "en": "El sistema del juego devolvió [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d004e",
+      "id": 3997774,
       "en": "Biblioteca de Películas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8417b24",
+      "id": 138509092,
       "en": "Mostrar el siguiente personaje de esta clase.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18a6a37",
+      "id": 25848375,
       "en": "Creando personaje...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3708f77",
+      "id": 57708407,
       "en": "Sombra de Ojos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60b80f5",
+      "id": 101417205,
       "en": "¿Estás seguro de que quieres salir de El Señor de los Anillos Online?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b6066c",
+      "id": 112592492,
       "en": "¡Se ha producido un error crítico y el cliente debe salir ahora!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb7e24e0",
+      "id": 192816352,
       "en": "Saltar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb799a95",
+      "id": 192518805,
       "en": "El archivo de película '[placeholder]' no está instalado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf898eb4",
+      "id": 260673204,
       "en": "No puedes saltarte el tutorial hasta que descargues el juego completo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25467a5",
+      "id": 39085989,
       "en": "Barba de unos días",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4b426e",
+      "id": 256590446,
       "en": "Opciones",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d0bcb7",
+      "id": 30457015,
       "en": "Demasiada gente descargando. Estamos en la posición #[placeholder]...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2005b94",
+      "id": 33577876,
       "en": "Haz clic en el nombre de un personaje para seleccionarlo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18ab4a2",
+      "id": 25867426,
       "en": "Se ha producido un error de autenticación. Por favor, inténtalo de nuevo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa50f135",
+      "id": 173076789,
       "en": "¿Quién serás en la Tierra Media?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92cfeb2",
+      "id": 153943730,
       "en": "Tu personaje no se pudo crear.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c17715",
+      "id": 163673877,
       "en": "Nombre:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74ca4d9",
+      "id": 122463449,
       "en": "Elige Nacionalidad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55dead5",
+      "id": 90041045,
       "en": "No puedes usar este personaje hasta que hayas terminado de descargar el área en la que se encuentran.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf2c11f0",
+      "id": 254546416,
       "en": "Buscando servidor de inicio de sesión ...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf2c11f1",
+      "id": 254546417,
       "en": "Buscando servidor de inicio de sesión ...  (Intento [placeholder] de [placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8447d3c",
+      "id": 138706236,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xa4f1b93",
+      "id": 172956563,
       "en": "Haz clic en un personaje para ver una descripción. Una vez que hayas hecho tu selección, haz clic en el sello de cera a la derecha para continuar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf2c11f2",
+      "id": 254546418,
       "en": "Iniciando sesión, por favor espera ...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6399a87",
+      "id": 104438407,
       "en": "Has seleccionado una raza de muerte permanente. ¡Si este personaje muere, se borrará automáticamente y se perderán todos sus objetos!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x247cb6c",
+      "id": 38259564,
       "en": "Renombrar Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe669bee",
+      "id": 241605614,
       "en": "Créditos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3640523",
+      "id": 56886563,
       "en": "[placeholder]% de [placeholder]K completado...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f0a25e",
+      "id": 99656286,
       "en": "Haz clic para la opción anterior de [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e84d55",
+      "id": 132664661,
       "en": "Hobbit (Hombre)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8177b2",
+      "id": 243365810,
       "en": "Detalles Extra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb2a0717",
+      "id": 187303703,
       "en": "¡Has perdido el acceso a algunos de tus personajes de monstruos creados! Su progreso se ha guardado, pero para volver a jugar con ellos, debes volver a suscribirte o comprar acceso a ellos a través de la Tienda LOTRO.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5b31d4",
+      "id": 240857556,
       "en": "Esta cuenta no existe. Inténtalo de nuevo y contacta con el soporte técnico si el problema persiste.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0d706e",
+      "id": 185430126,
       "en": "->",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33eee5",
+      "id": 3403493,
       "en": "Crear Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1afd15b",
+      "id": 28299611,
       "en": "Volver a la pantalla de selección de personajes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d05c95",
+      "id": 114318485,
       "en": "Borrar el personaje seleccionado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3af8567",
+      "id": 61834599,
       "en": "Tela",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1210f8c",
+      "id": 18943884,
       "en": "Cancelar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d38284",
+      "id": 47415940,
       "en": "No se pudieron obtener las credenciales del Servidor de Autenticación",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfde8bc5",
+      "id": 266243013,
       "en": "No se pudo buscar el nombre de host del servidor '[placeholder]'.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa9459a0",
+      "id": 177494432,
       "en": "Volver a la selección de Pueblos Libres",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8756924",
+      "id": 141912356,
       "en": "Mostrar el personaje anterior de esta clase.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae5ab27",
+      "id": 182823719,
       "en": "¡PENDIENTE! ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x441ba2c",
+      "id": 71416364,
       "en": "Página",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd471e7",
+      "id": 198472167,
       "en": "Tipo de Cuerpo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x67f7922",
+      "id": 109017378,
       "en": "Color de Labios",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x328cfb1",
+      "id": 53006257,
       "en": "Poder",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e8fab2",
+      "id": 115931826,
       "en": "Haz clic para seleccionar este personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10343c4",
+      "id": 16991172,
       "en": "No eres el propietario de este personaje. Por favor, cierra sesión y vuelve a iniciarla para solucionar este problema.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x328cfb2",
+      "id": 53006258,
       "en": "Agilidad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9afa735",
+      "id": 162506549,
       "en": "Cambia la raza y el género del personaje seleccionado actualmente.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65ff855",
+      "id": 106952789,
       "en": "Hombre",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65e1fae",
+      "id": 106831790,
       "en": "Error general al acceder a la información de tu cuenta. Inténtalo de nuevo más tarde y contacta con el soporte técnico si el problema persiste.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x917303c",
+      "id": 152514620,
       "en": "Personalizar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x328cfb4",
+      "id": 53006260,
       "en": "Salud",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60a3c0",
+      "id": 6333376,
       "en": "Debes suscribirte para participar en el Juego de Monstruos.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a035ee",
+      "id": 94385646,
       "en": "Nivel 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7d290b4",
+      "id": 131240116,
       "en": "Crear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7418544",
+      "id": 121734468,
       "en": "No tienes ningún crédito de Cambio de Raza. Inicia sesión en cualquier personaje y obtén un 'Token de Cambio de Raza de Personaje' en la Tienda LOTRO.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30664d6",
+      "id": 50750678,
       "en": "¡PRIVILEGIO DE ADMINISTRADOR DENEGADO!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4bd17cd",
+      "id": 79501261,
       "en": "Por favor, introduce '[placeholder]' en el cuadro de confirmación para restablecer este personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61052fb",
+      "id": 101733115,
       "en": "¡OK! ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbadfc97",
+      "id": 195951767,
       "en": "Obtener Ahora",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x838ae4e",
+      "id": 137932366,
       "en": "Salir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f52b4c",
+      "id": 133507916,
       "en": "Volver a la pantalla de Opciones de Apariencia.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b4dd8c",
+      "id": 112516492,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xedca249",
+      "id": 249340489,
       "en": "Juego de Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59e30cc",
+      "id": 94253260,
       "en": "El servidor de inicio de sesión está ocupado. Inténtalo de nuevo más tarde.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x757ec5",
+      "id": 7700165,
       "en": "Crear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x375853c",
+      "id": 58033468,
       "en": "Nombre Aleatorio",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d8fc33",
+      "id": 81329203,
       "en": "¡No tienes acceso a esta clase!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x14f4104",
+      "id": 21971204,
       "en": "Salir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1aa0f34",
+      "id": 27922228,
       "en": "Entrar en el Juego de Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b43a23",
+      "id": 112474659,
       "en": "Clase (Z-A)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55f2c44",
+      "id": 90123332,
       "en": "¡Conexión exitosa!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa897295",
+      "id": 176779925,
       "en": "[placeholder] Kb/s",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56b075b",
+      "id": 90900315,
       "en": "Atrás",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x16a437e",
+      "id": 23741310,
       "en": "Borrar Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce9e0e2",
+      "id": 216654050,
       "en": "Entrar en la Tierra Media",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3112ea2",
+      "id": 51457698,
       "en": "Entrar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x250074",
+      "id": 2424948,
       "en": "Desconectar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba31576",
+      "id": 195237238,
       "en": "Has sido desconectado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11c5c4",
+      "id": 1164740,
       "en": "En El Señor de los Anillos Online puedes jugar con <rgb=#D5D505>hobbits</rgb>, <rgb=#D5D505>humanos</rgb>, <rgb=#D5D505>enanos</rgb> y <rgb=#D5D505>elfos</rgb>. Como jugador, puedes tener hasta <rgb=#D5D505>5 personajes por cuenta de juego</rgb>. Cada personaje tendrá una <rgb=#D5D505>clase</rgb>, <rgb=#D5D505>profesión</rgb> y <rgb=#D5D505>características únicas</rgb> que los hacen únicos en el mundo del juego. También puedes nombrar a tu personaje como quieras, excepto con GALIMATÍAS. Asegúrate de <rgb=#D5D505>leer la descripción de cada clase y raza</rgb> antes de crear tu personaje. Los personajes también se pueden <rgb=#9900000>borrar</rgb> en caso de que quieras hacer espacio para un nuevo personaje después de haber creado cinco personajes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc329b84",
+      "id": 204643204,
       "en": "Crea el personaje y entra en la Tierra Media.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0b4d16",
+      "id": 202067222,
       "en": "Aplicar Buff de Sesión",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61c0aa3",
+      "id": 102501027,
       "en": "Arrugas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4758a8c",
+      "id": 74812044,
       "en": "Seleccionar Origen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe11e0f5",
+      "id": 236052725,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x3ab1352",
+      "id": 61543250,
       "en": "Tu personaje no se pudo colocar en el mundo. Por favor, contacta con el soporte técnico para obtener ayuda.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe32bd94",
+      "id": 238206356,
       "en": "Conexión fallida:n [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa30f124",
+      "id": 170979620,
       "en": "Zoom",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c15224",
+      "id": 79778340,
       "en": "Cuenta:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x19308ac",
+      "id": 26413228,
       "en": "Detalles del Escenario",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb201ffc",
+      "id": 186654716,
       "en": "Información de la Raza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49c0bf9",
+      "id": 77335545,
       "en": "Comenzar Juego de Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcac5bf3",
+      "id": 212622323,
       "en": "No tan longevos como los Elfos, resistentes como los Enanos o resistentes como los Hobbits, los Hombres son conocidos por su valentía y su ingenio.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb696e65",
+      "id": 191458917,
       "en": "Seleccionar una Raza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x14779a3",
+      "id": 21461411,
       "en": "Cejas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74b529d",
+      "id": 122376861,
       "en": "Por favor, introduce '[placeholder]' en el cuadro de confirmación para borrar este personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8bc9810",
+      "id": 146577424,
       "en": "Debes terminar de descargar más datos antes de poder entrar en el juego con este personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c35f15",
+      "id": 46358293,
       "en": "Personajes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc2e0cd",
+      "id": 197320909,
       "en": "¿Estás seguro de que deseas desbloquear este personaje?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f11624",
+      "id": 116463140,
       "en": "Crea un personaje de nivel 20 que comienza sus aventuras en Bree",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcea3a55",
+      "id": 216676949,
       "en": "Introduce un nombre de personaje aquí.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x125e1cc",
+      "id": 19259852,
       "en": "Puntos de Aventura Totales Ganados:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3a02f4",
+      "id": 171574004,
       "en": "Todos tus espacios de personaje de inicio avanzado de nivel 20 están llenos.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f98a42",
+      "id": 117017154,
       "en": "Este personaje no se puede seleccionar en este momento. Por favor, inténtalo de nuevo más tarde.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdaef222",
+      "id": 229569058,
       "en": "No se ha encontrado ningún personaje en este espacio.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa989d35",
+      "id": 177773877,
       "en": "Elige un Escenario",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7238e4",
+      "id": 7485668,
       "en": "Cancelar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb7bbb65",
+      "id": 192658277,
       "en": "Mujer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xab5172",
+      "id": 11227506,
       "en": "El servidor GUN devolvió el error [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8db595",
+      "id": 244168085,
       "en": "Restaurar un personaje borrado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e76783",
+      "id": 166160259,
       "en": "Personalización de la Cara",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7fcea85",
+      "id": 134015621,
       "en": "[placeholder] de [placeholder] Personaje Avanzado ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45ae48c",
+      "id": 73065612,
       "en": "Seleccionar una Clase",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe0c4275",
+      "id": 235684469,
       "en": "Mujer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57ad75",
+      "id": 5746037,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x5fe807c",
+      "id": 100565116,
       "en": "[placeholder] ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c675f4",
+      "id": 46560756,
       "en": "Acercar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79a756e",
+      "id": 127563118,
       "en": "Crear Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc3d5c85",
+      "id": 205347973,
       "en": "Raza de Hombre (Mujer)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc964035",
+      "id": 211173429,
       "en": "Introduce el nombre de host aquí.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x101a443",
+      "id": 16884803,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x4121315",
+      "id": 68293397,
       "en": "Tu cuenta está en uso. O bien estás conectado en otro lugar, o alguien más está usando tu cuenta.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x495f2e",
+      "id": 4808494,
       "en": "Aleatorio",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7289d87",
+      "id": 120102279,
       "en": "Cargando... Por favor, espera",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x833a4be",
+      "id": 137602238,
       "en": "Oveja",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc2a28c",
+      "id": 197304972,
       "en": "Has intentado entrar en el mundo con un personaje borrado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f0a1de",
+      "id": 66101726,
       "en": "Haz clic para la siguiente opción de [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe11db5c",
+      "id": 236051292,
       "en": "Iniciando Tutorial: ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x534a0f4",
+      "id": 87335156,
       "en": "Haz clic para salir del juego.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb6e1f4",
+      "id": 263643636,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x9bfd7d3",
+      "id": 163567571,
       "en": "Enanos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82450e4",
+      "id": 136597732,
       "en": "Visita la Tienda LOTRO para comprar esta raza",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6987a04",
+      "id": 110656004,
       "en": "Salir de la Creación de Personajes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d63d12",
+      "id": 64371986,
       "en": "Vello Facial",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf02994",
+      "id": 217065876,
       "en": "Si esta opción está marcada, este personaje se saltará el tutorial para nuevos usuarios.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x31f074",
+      "id": 3272820,
       "en": "Salir del juego.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb89044e",
+      "id": 193528910,
       "en": "Actualización de Avatar Visible",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd4b6bb3",
+      "id": 223046579,
       "en": "Directrices de Nombres",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5cc1852",
+      "id": 97261650,
       "en": "Tu personaje no tiene sexo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18087c",
+      "id": 1575036,
       "en": "Aleatorio Total",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x580c7b3",
+      "id": 92325811,
       "en": "¡No puedes crear más personajes de jugador!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6df81d4",
+      "id": 115311060,
       "en": "Este personaje no está disponible en este momento. Por favor, contacta con Atención al Cliente.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1de44e3",
+      "id": 31343843,
       "en": "Hombre",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdc992b4",
+      "id": 231314100,
       "en": "Alejar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x475de44",
+      "id": 74833476,
       "en": "Mundo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73481b2",
+      "id": 120881586,
       "en": "Crear Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa86a0d5",
+      "id": 176595157,
       "en": "¿Estás seguro de que quieres salir de El Señor de los Anillos Online? ¡El personaje que estás creando se perderá!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33ed4b3",
+      "id": 54449331,
       "en": "Créditos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8155d3",
+      "id": 226579923,
       "en": "No hay más espacios.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd3d0e9c",
+      "id": 222105244,
       "en": "¡No se pudo cargar un recurso crítico de los archivos dat!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0c8348",
+      "id": 252478280,
       "en": "Boca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x87510e1",
+      "id": 141889761,
       "en": "Nivel 20",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4484d2",
+      "id": 4490450,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x92df975",
+      "id": 154007925,
       "en": "Obtener Puntos &",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x31f0f8f",
+      "id": 52367247,
       "en": "El juego de monstruos es una <rgb=#D5D505>experiencia única</rgb> en El Señor de los Anillos Online. Al participar en el Juego de Monstruos <rgb=#D5D505>puedes ganar puntos</rgb> que se pueden convertir en <rgb=#D5D505>Aplicar Buffs de Sesión</rgb> al personaje que elijas. Cuanto más juegues a los monstruos, más monstruos podrás desbloquear para jugar. Ahora ve allí y <rgb=#990000>caza algunos jugadores</rgb>...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d5124e",
+      "id": 97849934,
       "en": "El servidor está caído. Por favor, inténtalo de nuevo más tarde.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbba75",
+      "id": 13351541,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x3e0723",
+      "id": 4065059,
       "en": "Establecer opciones de juego.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4705a52",
+      "id": 74472018,
       "en": "No se pudo establecer una conexión de Protocolo de Datagramas de Usuario (UDP) a [placeholder] en el puerto [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c0a1f0",
+      "id": 46178800,
       "en": "No puedes usar este personaje porque tienes más personajes que espacios disponibles.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c54263",
+      "id": 80036451,
       "en": "Esta opción no está implementada.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74b70c4",
+      "id": 122384580,
       "en": "Salir de El Señor de los Anillos Online",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb384a8e",
+      "id": 188238478,
       "en": "Admin",
-      "es": "Admin",
-      "es (fem)": ""
+      "es": "Admin"
     },
     {
-      "id": "0x2df9712",
+      "id": 48207634,
       "en": "Mejoras de Cuenta",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8cf294",
+      "id": 227340948,
       "en": "Generar Nombre",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b1d1e5",
+      "id": 145871333,
       "en": "Estilo de Cabello",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84876fe",
+      "id": 138966782,
       "en": "Atrás",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa999454",
+      "id": 177837140,
       "en": "Aleatorio",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8799b47",
+      "id": 142187335,
       "en": "Tu cuenta no se encuentra. Por favor, contacta con el soporte técnico.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81309ce",
+      "id": 135465422,
       "en": "Selección de Personaje",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e2bb4",
+      "id": 55454644,
       "en": "Este personaje debe ser restaurado antes de ser utilizable. El personaje se borrará en una hora.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x28aea83",
+      "id": 42658435,
       "en": "Directrices de Nombres por Determinar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1eb664",
+      "id": 236893796,
       "en": "El nombre que has seleccionado ya está en uso.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa23ac08",
+      "id": 170109960,
       "en": "Arrugas de la Boca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5197e24",
+      "id": 85556772,
       "en": "Tu personaje ha sido expulsado del mundo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3569f2",
+      "id": 238381554,
       "en": "#-1:[placeholder] #-2:[placeholder] #-3:[placeholder] #-1:{Puedes actualizar a una cuenta de suscripción para jugar con los personajes que no elijas en este momento.[1]}#-2:{Puedes actualizar a una cuenta de suscripción o comprar espacios de personaje adicionales para jugar con los personajes que no elijas en este momento.[1]}#-3:{Puedes comprar espacios de personaje adicionales para jugar con los personajes que no elijas en este momento.[1]}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ec80f4",
+      "id": 166494452,
       "en": "Crea un nuevo personaje de nivel 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7070ee8",
+      "id": 117903080,
       "en": "¡Error, no se puede parchear!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2cd52c",
+      "id": 237819180,
       "en": "Nivel (Máx-Mín)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d24f7c",
+      "id": 148000636,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xcadc145",
+      "id": 212713797,
       "en": "Raza de Hombre (Hombre)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12d53ce",
+      "id": 19747790,
       "en": "Buff de Sesión",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c3c4ee",
+      "id": 163824878,
       "en": "Complexión",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf1403d4",
+      "id": 252969940,
       "en": "Monstruos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b9e827",
+      "id": 62515239,
       "en": "Creando ...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb26986c",
+      "id": 187078764,
       "en": "Renombrar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x670b214",
+      "id": 108048916,
       "en": "Estás intentando entrar con un cliente de estrés.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe95572c",
+      "id": 244668204,
       "en": "Información de la Clase",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc044ae",
+      "id": 12600494,
       "en": "Admin",
-      "es": "Admin",
-      "es (fem)": ""
+      "es": "Admin"
     },
     {
-      "id": "0xe563dc4",
+      "id": 240532932,
       "en": "Tu cuenta está actualmente sancionada.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f7210e",
+      "id": 167190798,
       "en": "Tu personaje no se pudo guardar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa224a70",
+      "id": 170019440,
       "en": "Debes descargar el juego completo para usar el Juego de Monstruos.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7174ad5",
+      "id": 118966997,
       "en": "Introduce tu Nombre",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe88af13",
+      "id": 243838739,
       "en": "Obtener Personajes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56ccc34",
+      "id": 91016244,
       "en": "Siguiente",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36e1dc2",
+      "id": 57548226,
       "en": "Entra en el mundo con el personaje seleccionado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29b14b5",
+      "id": 43717813,
       "en": "Ese nombre está ocupado.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa3b0b4",
+      "id": 262385844,
       "en": "Tu conexión de red se ha perdido.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a5f135",
+      "id": 145092917,
       "en": "Obtener Beneficios",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc651c90",
+      "id": 207953040,
       "en": "Este personaje no está disponible en este momento. Por favor, contacta con Atención al Cliente.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb533ce",
+      "id": 196424654,
       "en": "Nivel [placeholder] [placeholder] [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29297c5",
+      "id": 43161541,
       "en": "Tu personaje no tiene raza.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e7d7e3",
+      "id": 132634595,
       "en": "Más felices cuando disfrutan de una vida sencilla con seis comidas al día, los Hobbits son sólidos y fiables cuando se les llama a la acción.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb1e71d4",
+      "id": 186544596,
       "en": "Conectar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58dc6a4",
+      "id": 93177508,
       "en": "Continuar con la Creación de Personajes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdde5c43",
+      "id": 232676419,
       "en": "Elige tu Clase",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbac017e",
+      "id": 195821950,
       "en": "Has sido expulsado porque tu cuenta ha vuelto a iniciar sesión. Si este problema se repite, contacta con el servicio de atención al cliente.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b08923",
+      "id": 129009955,
       "en": "Obtener Beneficios",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f22577",
+      "id": 116532599,
       "en": "Tu nombre no puede tener tantos caracteres similares seguidos.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb382454",
+      "id": 188228692,
       "en": "No puedes ver películas hasta que descargues el juego completo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8696bc5",
+      "id": 141126597,
       "en": "[placeholder]nAdvertencia: Si borras este personaje, la casa asociada se abandonará automáticamente.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6471154",
+      "id": 105320788,
       "en": "Salir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf060bff",
+      "id": 252054527,
       "en": "[placeholder]n[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x641d7a4",
+      "id": 104978340,
       "en": "Siguiente",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x63130db",
+      "id": 103887067,
       "en": "Atrás",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f45d94",
+      "id": 49569172,
       "en": "Se requiere una suscripción para entrar en el juego.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc4ae6c",
+      "id": 197439084,
       "en": "Nombre",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x62ac4fe",
+      "id": 103466238,
       "en": "No Elegido",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb1a5b83",
+      "id": 186276739,
       "en": "Elfos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf1ab75c",
+      "id": 253409116,
       "en": "Cancelar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x104b8c4",
+      "id": 17086660,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x1b01a34",
+      "id": 28318260,
       "en": "Aceptar opciones y continuar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10b8fb5",
+      "id": 17534901,
       "en": "¿Estás seguro de que quieres salir sin crear un personaje?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2382ece",
+      "id": 37236430,
       "en": "QD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd3fdba3",
+      "id": 222288803,
       "en": "Hobbits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10588e9",
+      "id": 17139945,
       "en": "Joyería",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2e797c4",
+      "id": 48732100,
       "en": "Debes descargar el juego completo para ver películas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc82e2a2",
+      "id": 209904290,
       "en": "Conectando al Servidor de Autenticación ...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59546e",
+      "id": 5854318,
       "en": "Saltar tutorial para nuevos usuarios",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdca98f2",
+      "id": 231381234,
       "en": "Estás intentando entrar con un personaje antiguo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7645fa3",
+      "id": 124018595,
       "en": "Moradores de piedra y mineros de metal, los Enanos son un pueblo valiente, resistente a la corrupción del Enemigo, pero no a la avaricia.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa1d35",
+      "id": 11148597,
       "en": "Arrugas de los Ojos",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcccb3d3",
+      "id": 214741971,
       "en": "Ver los créditos.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa739f44",
+      "id": 175349572,
       "en": "Volver a la pantalla de inicio de sesión.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a34ea2",
+      "id": 144920226,
       "en": "Color de Cabello",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36a1684",
+      "id": 57284228,
       "en": "Conexión al servidor de autorización perdida.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x796e2b9",
+      "id": 127328953,
       "en": "Solo se permite un jugador de monstruos por cuenta.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x328bf6c",
+      "id": 53002092,
       "en": "Nombre (Z-A)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb80f90c",
+      "id": 193001740,
       "en": "Lo siento, ese nombre no está disponible para los jugadores.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49c1eeb",
+      "id": 77340395,
       "en": "Atrás",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2336c1e",
+      "id": 36924446,
       "en": "Usar Antes del Tutorial de La Sombra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36996be",
+      "id": 57251518,
       "en": "No se puede conectar al servidor de autorización.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x774c51e",
+      "id": 125093150,
       "en": "Último Inicio de Sesión",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e9c3fd",
+      "id": 166315005,
       "en": "¿Obtener este beneficio? No podrás obtener otro hasta que inicies sesión con este personaje.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ce44be",
+      "id": 164512958,
       "en": "Admin",
-      "es": "Admin",
-      "es (fem)": ""
+      "es": "Admin"
     },
     {
-      "id": "0xbb5d79c",
+      "id": 196466588,
       "en": "Volver a la pantalla de selección de personajes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d6d694",
+      "id": 165074580,
       "en": "Ese nombre no está permitido.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7c56a44",
+      "id": 130378308,
       "en": "Genera una apariencia aleatoria para tu personaje usando el conjunto actual de opciones.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x132734e",
+      "id": 20083534,
       "en": "Buscando actualizaciones...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18dc65",
+      "id": 1629285,
       "en": "Necesitas poner nombre a tu monstruo.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84cde4e",
+      "id": 139255374,
       "en": "Salir de la Creación",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b141c5",
+      "id": 129057221,
       "en": "Hobbit (Mujer)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa18d739",
+      "id": 169400121,
       "en": "Obtener",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

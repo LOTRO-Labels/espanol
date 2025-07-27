@@ -2,64 +2,54 @@
   "id": 621066705,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'A Rune-keeper come to Archet? It is not very often I am called upon to train new apprentices, but I shall do what I can.\\n\\n'The Rune-keeper is a master of balance—a wielder of runes and language itself. Attune yourself to your surroundings and a precise word might strike as deeply as the keenest blade!\\n\\n'Do you see these training-dummies the others use to hone their skills? Focus on one of them and unleash your <rgb=#00ff00>Fiery Ridicule</rgb> upon it!\\n\\nHINT: Rune-keepers require <rgb=#ff0000>Battle Attunement</rgb> to use offensive skills, and <rgb=#00ff00>Healing Attunement</rgb> to cast healing spells. <rgb=#ffff00>Attunement</rgb> is <rgb=#ff0000>raised</rgb> or <rgb=#00ff00>lowered</rgb> through the use of similar skills. Offensive Skills typically have <rgb=#ff0000>red</rgb> backgrounds, and Healing skills typically have <rgb=#00ff00>green</rgb> backgrounds.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Very good, [placeholder]! In time, you may prove yourself a worthy Rune-keeper, but do not forget what you have learned.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'You should level your Fiery Ridicule against one of the nearby training-dummies. Once you feel confident in your ability, return to me. A rune-stone is a potent tool, but it is not to be wielded recklessly!'\\n\\nHINT: Rune-keepers require <rgb=#ff0000>Battle Attunement</rgb> to use offensive skills, and <rgb=#00ff00>Healing Attunement</rgb> to cast healing spells. <rgb=#ffff00>Attunement</rgb> is <rgb=#ff0000>raised</rgb> or <rgb=#00ff00>lowered</rgb> through the use of similar skills. Offensive Skills typically have <rgb=#ff0000>red</rgb> backgrounds, and Healing skills typically have <rgb=#00ff00>green</rgb> backgrounds.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Training: A Rune-keeper's Fiery Words",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "As you become more powerful, new skills will become available to help you develop into a more formidable Rune-keeper.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have struck the training-dummy with Fiery Ridicule",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Strike the training-dummy with <rgb=#00ff00>Fiery Ridicule</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Use your skill <rgb=#00ff00>Fiery Ridicule</rgb> on the training-dummy.\\n\\nHINT: Rune-keepers require <rgb=#ff0000>Battle Attunement</rgb> to use offensive skills, and <rgb=#00ff00>Healing Attunement</rgb> to cast healing spells. <rgb=#ffff00>Attunement</rgb> is <rgb=#ff0000>raised</rgb> or <rgb=#00ff00>lowered</rgb> through the use of similar skills. Offensive Skills typically have <rgb=#ff0000>red</rgb> backgrounds, and Healing skills typically have <rgb=#00ff00>green</rgb> backgrounds.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to the Rune-keeper Trainer in Archet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Rune-keeper Trainer is in Archet.\\n\\nNow that you have successfully used Fiery Ridicule, you should return to your trainer and tell them of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,28 +2,24 @@
   "id": 620775504,
   "txt": [
     {
-      "id": "0xda4acb4",
+      "id": 228895924,
       "en": "This metre will let you see when you have properly configured your microphone for voice chat. Adjust the Microphone Gain and Capture Threshold until the metre appears green while you speak in a normal speaking volume. Sounds below the capture threshold will not appear. If the metre appears red and the word 'Clip' appears, you must reduce the Microphone Gain to avoid sound distortion. See Help for more information on configuring Voice Chat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Microphone Test",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376781",
+      "id": 137848705,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376782",
+      "id": 137848706,
       "en": "This metre will let you see when you have properly configured your microphone for voice chat. Adjust the Microphone Gain and Capture Threshold until the metre appears green while you speak in a normal speaking volume. Sounds below the capture threshold will not appear. If the metre appears red and the word 'Clip' appears, you must reduce the Microphone Gain to avoid sound distortion. See Help for more information on configuring Voice Chat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

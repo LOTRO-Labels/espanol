@@ -2,304 +2,254 @@
   "id": 621025623,
   "txt": [
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'[placeholder], you have heeded my call, as I knew you would. You are a faithful ally to the Rangers of Ithilien.\\n\\n'Faramir has given me orders to begin the long and arduous task of cleansing the Morgul Vale. Our hope is for this valley to once again be a part of Ithilien and Gondor. I shall be focused on the Dead City of Minas Morgul, while my fellow Rangers, Ereblen and Tordoron will focus on the whole of the Vale. There are many tasks in the days ahead.\\n\\n'Our first task is to retrieve Lhaereth's book on her Great Plague. I am sure it can still be found within the Hall of Black Lore. Will you retrieve the book for us?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50242",
+      "id": 111477314,
       "en": "Talk to Thurindol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50245",
+      "id": 111477317,
       "en": "Attempt to enter Ghashan-kútot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Find someone who may be able to enter Ghashan-kútot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Thurindol, Ereblen, and Tordoron can be found at Echad Uial.\\n\\nYou should talk to Thurindol, Ereblen, and Tordoron.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Convince someone to get the book you seek",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a4",
+      "id": 111477412,
       "en": "Search for the recently stolen book",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50250",
+      "id": 111477328,
       "en": "Collect the torn pages ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1150",
+      "id": 177082704,
       "en": "This page has something to do with the Circle of Wrath",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1151",
+      "id": 177082705,
       "en": "This page has something to do with the Circle of Sorrow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1152",
+      "id": 177082706,
       "en": "This page has something to do with the Circle of Madness",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "You have done much to aid those allies of the White Company in Imlad Morgul. Thurindol, a Ranger of Ithilien calls upon you to lead the charge in reclaiming Imlad Morgul from the dark grasp surrounding the once proud city of Minas Ithil. You should speak to Thurindol, Ereblen, and Tordoron at Echad Uial as soon as you are able.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1153",
+      "id": 177082707,
       "en": "This page has something to do with the Circle of Despair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Bring the torn pages to the Black Númenórean cataloguer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d157",
+      "id": 24695127,
       "en": "The White Company furthers their efforts in reclaiming Minas Ithil from the grasp of darkness.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1154",
+      "id": 177082708,
       "en": "This page has something to do with the Circle of Death",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "Talk to Ereblen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56843",
+      "id": 162883651,
       "en": "'I can see now that breaching the archives may be more difficult than I previously thought. However, these pages you have collected bring me hope. I believe these pages may hold the key to defeating the dark sorcery that sits upon the city. It will not be possible to truly reclaim Minas Ithil until this veil of sorcery is lifted.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "Talk to Tordoron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Thurindol, Ereblen, and Tordoron can be found at Echad Uial.\\n\\nYou should talk to Thurindol, Ereblen, and Tordoron.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a2",
+      "id": 162883746,
       "en": "'You make a grave mistake if you have come to kill me, [placeholder]. What will that accomplish, hmm?\\n\\n'What? You want a book from my master's archives?! What a foolish request!'\\n\\nYou raise your weapon at the Black Númenórean.\\n\\n'Ah... perhaps we could arrange a trade. You see, a book from the archives went missing last night. If you retrieve it for me, I could transcribe this book of Lhaereth's that you seek and give you a copy? All I know is that the doors to the archives remain locked. Whoever stole the book enters without a use for doors. Be quick, for I am not certain how long my offer for a trade will stand, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01141",
+      "id": 246419777,
       "en": "Scattered pages of a book can be found blowing around in Minas Morgul.\\n\\nYou should collect the pages.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1166",
+      "id": 177082726,
       "en": "The hall is locked and heavily guarded",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1169",
+      "id": 177082729,
       "en": "No one entered Ghashan-kútot from the doors or roof as both were well guarded",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a0",
+      "id": 246419872,
       "en": "Someone who is able to enter Ghashan-kútot must be nearby.\\n\\nYou should find someone who may be able to enter Ghashan-kútot.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56857",
+      "id": 162883671,
       "en": "The Black Númenórean has been slain very recently. It is uncertain by whom, or what. The pages of the books you hold must have been important if both Thargaun and Dolguzigir both desire possession of the book. Perhaps you should bring the pages to Thurindol for closer inspection.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa16",
+      "id": 149027350,
       "en": "Vale of Sorcery: The Reclamation Begins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x9b568b4",
+      "id": 162883764,
       "en": "'It is good to see you again, [placeholder]. Injury from the Battle at the Black Gate prevented me from joining the Mordor expedition. Now that my injuries have healed, I have been called upon by Thurindol to assist in the reclamation of Minas Ithil. I am ready to provide every skill that I have mastered since becoming a Ranger of Ithilien.\\n\\n'Speak with me if you wish for tasks and rewards in assisting with the reclamation of Minas Ithil.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57c2ee1",
+      "id": 92024545,
       "en": "'You! Scatter thee to the winds! This book shall not be yours!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1172",
+      "id": 177082738,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e1173",
+      "id": 177082739,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'My good friend, [placeholder]! I was hoping we would one day adventure together again! I have been quite busy since we last parted, securing Ithilien. When the White Company entered Imlad Morgul, I knew I must follow, so I pleaded with Captain Faramir to reassign me. I am here to follow Thurindol's orders and assist any Ranger in need.\\n\\n'Speak with me if you wish for tasks and rewards in assisting with the reclamation of Minas Ithil.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01150",
+      "id": 246419792,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e1174",
+      "id": 177082740,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xeb01151",
+      "id": 246419793,
       "en": "Thurindol can be found at Echad Uial.\\n\\nYou should talk to Thurindol.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1175",
+      "id": 177082741,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e1176",
+      "id": 177082742,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xeb01154",
+      "id": 246419796,
       "en": "Ghashan-kútot can be found in Minas Morgul.\\n\\nYou should attempt to enter Ghashan-kútot.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01157",
+      "id": 246419799,
       "en": "The cataloguer's missing book is most likely still in Minas Morgul.\\n\\nYou should search for the missing book, recently stolen from the Hall of Black Lore.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Thurindol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb1ca271",
+      "id": 186425969,
       "en": "'Where is it?! It must be around here somewhere....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1181",
+      "id": 177082753,
       "en": "The cataloguer seems to be searching for something",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Thurindol, Ereblen, and Tordoron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1185",
+      "id": 177082757,
       "en": "You take Thargaun by surprise as he scatters the book to the winds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e1187",
+      "id": 177082759,
       "en": "The cisterns would be an ideal way to sneak around the city",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1188",
+      "id": 177082760,
       "en": "There should be an entrance to the upper cisterns upon the Circle of Despair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1189",
+      "id": 177082761,
       "en": "A figure stands near the entrance of the upper cisterns",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01165",
+      "id": 246419813,
       "en": "The Black Númenórean cataloguer should still be near the Hall of Black Lore.\\n\\nYou should bring the pages of the book to him for a trade.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,52 +2,44 @@
   "id": 620949681,
   "txt": [
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'Join us on a patrol of the area surrounding the city. This will be a full march, all of the city guard participating in an exercise and show of force. We shall meet outside the gate, ride to Amon Lontir and then loop our way back.\\n\\n'Along the way we will stop to practice certain maneouvres and do a mock assault on Amon Lontir. We shall be gone for several hours and return to the city around nightfall.\\n\\n'Speak to me when you are ready to depart.'\\n\\n<rgb=#FF0000>Once accepted, this quest cannot be cancelled. You must complete the training exercise to finish the quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Speak to <TBD npc_gondor_west_endgame_intro.wc> and start the training exercise",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "The city guard has asked you to join it on a patrol of the immediate area.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Are you ready to get on with the training exercises?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Speak to Beriaudur and start the training exercise",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Dol Amroth - Training Exercise",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "Returning from the exercise, you discover the city has been taken!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "The city watch of Dol Amroth is performing a training exercise in which they wish you to participate.\\n\\n<rgb=#FF0000>Once accepted, this quest cannot be cancelled. You must complete the training exercise to finish the quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

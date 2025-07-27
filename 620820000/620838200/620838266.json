@@ -2,130 +2,109 @@
   "id": 620838266,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You peer into the distance, but Losdirith's dream remains just that: a dream",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "This place within the canopy matches Losdirith's description",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Gandalf the Grey fell in Moria, and his loss has been felt by many of the Elves he once knew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'You knew the Grey Pilgrim, [placeholder], did you not? He was known by many names, travelling to and fro as he did, but to us in Lórien he was called Mithrandir. News came lately that he had fallen in the shadows of Moria; his travels now are ended.\\n\\n'These three behind me sing now a lament for him, but the words cannot fully express the sorrow that descends even into Lórien at his passing. We will need time to mourn, but there is little time left to us in this Middle-earth. We will take our grief across the Sea.\\n\\n'If you have words of comfort, save them for Losdirith, who watches the gate to the garden of Lady Galadriel. He has taken the fall of Mithrandir very much to heart, and I have heard that his grief has made him act strangely. Follow the path south to speak with Losdirith.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Losdirith watches the gate to the garden of Lady Galadriel, south along the path from the pavilion where Demlindeth sings songs of mourning.\\n\\nDemlindeth has asked you to speak words of comfort to Losdirith, who has been acting strangely in the wake of Mithrandir's passing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Mithrandir meant so much to all of us, [placeholder], and his passing brings with it a measure of grief I did not ever think to feel. But it is not sorrow that fills me with these confusing thoughts. Nay, it is something else: a dream I have dreamed these past three nights, and I have no reason to believe I will not have it again this night.\\n\\n'I dreamed I stood within golden leaves, high atop a flet, and as I stared through a break in the trees, I saw a great eagle in the north-east sky. And I heard the voice of Mithrandir, but I could not make out the words.\\n\\n'There is such a place here in Caras Galadhon, [placeholder]! The leaves grow close over the edge of one of the flets of Telain Neduil, north-west of here. Stand there and <rgb=#FF0000>look</rgb>, and perhaps you will see something of Mithrandir!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Telain Neduil consists of a series of flets north-west of Galadriel's Garden in Caras Galadhon, and the leaves grow over the edge of one of its flets.\\n\\nLosdirith wants you to stand at the place he saw in his dream, within the canopy of leaves that cover part of a flet in Telain Neduil, and to <rgb=#FF0000>look</rgb> for Gandalf.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Losdirith is outside the entrance to Galadriel's Garden.\\n\\nLosdirith will want to hear what you saw when you looked through the canopy of leaves at Telain Neduil, even if it is not what he hoped.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Telain Neduil is a series of flets north-west of here, [placeholder], and the canopy of leaves intrudes upon one of the flets there. That is the place I saw in my dream, and perhaps if you stand there and <rgb=#FF0000>look</rgb> into the distance, you will see something of Mithrandir!\\n\\n'It may be a foolish hope, but the loss of Mithrandir is too much to bear.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You did not see anything, [placeholder]? I am saddened to hear it, but will not give up hope that my dream will one day come true. I will go myself to Telain Neduil every day, and perhaps one day I will see the sight of a Great Eagle bearing forth Mithrandir.\\n\\n'I thank you for supporting me in this, even if it may seem futile to you. Mithrandir has fallen, but the lesson he taught to me is that even in dark times, we must hope for bright days to come.\\n\\n'Take this as a token of my friendship, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Follow the path south until you reach the gate of Lady Galadriel's garden, for there you will find Losdirith. He has been acting strangely since we received news of Mithrandir's passing, and I would have you speak to him words of comfort.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'They sing a lament for Mithrandir. They will sing long.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Losdirith at the gate of Galadriel's Garden",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'Losdirith clings to the hope that Mithrandir will come back to us, but I cannot see it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "<rgb=#FF0000>Look</rgb> for Mithrandir beneath the overhanging canopy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Travel to Telain Neduil and find the flet where the canopy of leaves intrudes on the platform",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c45",
+      "id": 63183941,
       "en": "'I will return to Telain Neduil, [placeholder]. One day, my dream may be realized.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Losdirith at the gate to Galadriel's Garden",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Mourning Mithrandir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c46",
+      "id": 63183942,
       "en": "'I will maintain my hope that some day Mithrandir will once again come to Lórien.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c47",
+      "id": 63183943,
       "en": "'I will not abandon hope. I will return to Telain Neduil as often as I must.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

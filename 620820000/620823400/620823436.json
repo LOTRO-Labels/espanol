@@ -2,130 +2,109 @@
   "id": 620823436,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Searching through the debris, you find a damaged book.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You search through the pile of debris but find nothing of interest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Brogur has told you that efforts to excavate the Chamber of Records are proceeding apace, despite his worries about the White Hand presence in Moria.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The White Hand will have to wait, [placeholder], because Wárr has sent me word that he wants your help. You remember Wárr, don't you? He supervised the opening of the Hollin Gate, and has a very high opinion of you -- as do we all, of course!\\n\\n'His team of workers have been excavating the Chamber of Mazarbul, the Chamber of Records, located just north of the Twenty-first Hall and on the right.\\n\\n'Walk there and speak with Wárr about the task he has for you. We will discuss the White Hand problem upon your return.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Wárr is in the Chamber of Mazarbul, located to the right off the north hallway that leaves the Twenty-first Hall, in Zelem-melek.\\n\\nBrogur has told you that Wárr has been asking for your help with something in the Chamber of Mazarbul.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'There you are, [placeholder]. I have some work for you, if you don't mind getting your hands dirty.\\n\\n'This place was called the Chamber of Mazarbul because it once stored important records of its day. At some point during the long years that Moria stood empty, the ceiling seems to have collapsed. As you can see, the whole room has been filled with rubble and debris.\\n\\n'We're trying to search through the debris for anything of interest we can find. Help my dwarves with this task and bring me anything noteworthy.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Debris litters the Chamber of Mazarbul, on the right side of the north hallway leaving the Twenty-first Hall in Zelem-melek.\\n\\nWárr has asked you to search the debris in the Chamber of Mazarbul for anything of interest that might be useful to the dwarves.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Brogur is in the Chamber of Leadership off the Twenty-first Hall in Zelem-melek.\\n\\nYou found a mysterious book in the rubble of the Chamber of Mazarbul and should show it to Brogur at once.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The Chamber of Mazarbul, the Chamber of Records, is located on the right side of the hallway that leaves the Twenty-first Hall to the north. Wárr has been asking for you there.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "Brogur takes the book from you and flips gingerly through some of the brittle pages. His breath catches as comprehension appears to dawn on him.\\n\\n'This is the Book of Mazarbul, and it seems to contain a record of Balin's settlement. It is grim reading, [placeholder].\\n\\n'If you would be so good as to bring it to my cousin Bósi, he will want to see it. He has always had more of a stomach than I for records such as this. I do not want to read of their horrific end. It is enough for me to know that they are dead.\\n\\n'Bósi is still in the Chamber of the Cross-roads in Durin's Way, north of the Great Delving.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Bósi is in the Chamber of the Cross-roads, at the southern entrance to Durin's Way, north of the Great Delving.\\n\\nBrogur has been greatly upset by the tale recorded in the Book of Mazarbul, and has asked you to bring the grim tome to Bósi.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Nay, I do not wish to look upon the Book of Mazarbul again. I have seen enough.\\n\\n'Bring it to my cousin Bósi in the Chamber of the Cross-roads, at the southern entrance to Durin's Way, north of the Great Delving.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Is there something you would show me?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'The chamber is full of debris, [placeholder]. Who knows what the rubble might be hiding?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'What have you brought me, my friend?'\\n\\nBósi leafs through the book, and a look of deep sadness settles upon his features as he comes to understand what the brittle pages are saying.\\n\\n'This is a record of Balin's expedition, and tells of their unhappy end. At least we now know what befell our kin in Moria -- Black Pit indeed! Or so it seems in my grief. I will read it from the beginning, but in the meantime I would have your help with another matter so that I may devote my attention to this.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Search debris in the Chamber of Mazarbul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "Wárr flips through the damaged pages of the book and turns as white as a sheet.\\n\\n'You should bring this to Brogur at once, [placeholder]. This... this is not good.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'You have not brought me anything?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring the Book of Mazarbul to Brogur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Bring the Book of Mazarbul to Bósi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Chapter 3: Inside the Chamber of Mazarbul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

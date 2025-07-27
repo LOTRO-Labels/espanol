@@ -2,76 +2,64 @@
   "id": 620922178,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have succeeded in defending the door to the Hornburg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The enemy plans to breach the Hornburg through a gate-house being used as a makeshift infirmary for the wounded. The wounded men and the supplies of bandages and medicines are in danger, but the door to the Hornburg must be protected at all costs. The wounded will cry out when they begin to succumb to injuries, but you may instruct them in healing.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Full</rgb> Merit Rating.\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n- Door takes structural damage\\n- Wounded Rohirrim is defeated\\n\\n<rgb=#FF0000>Moderate Merit Loss:</rgb>\\n- Crate of bandages and supplies destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e112",
+      "id": 262725906,
       "en": "The door to the Hornburg has been destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e114",
+      "id": 262725908,
       "en": "<rgb=#FF0000>The door to the Hornburg has been damaged</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5021",
+      "id": 225071137,
       "en": "Do not allow the door to the Hornburg to be destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e115",
+      "id": 262725909,
       "en": "<rgb=#FF0000>The door to the Hornburg has been destroyed</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "A gate-house between the Wall and the Hornburg has been converted into a makeshift ward used to treat wounded soldiers. The final doorway leading to the Hornburg has been sealed, but the enemy seeks to breech the opening while slaughtering the wounded in the gatehouse along the way. This rearmost door must be defended at all costs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat the waves of attackers assailing the gate-house ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5026",
+      "id": 225071142,
       "en": "[placeholder] healing supplies destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "[placeholder] wounded soldiers defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "[placeholder]% damage to the Hornburg door",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Breaching the Hornburg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

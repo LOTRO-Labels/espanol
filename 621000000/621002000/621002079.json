@@ -2,112 +2,94 @@
   "id": 621002079,
   "txt": [
     {
-      "id": "0xb5689f5",
+      "id": 190220789,
       "en": "This soldier's pack has been looted already! It would seem there has been some furtive hand, slipping into the pockets of defeat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029c9",
+      "id": 173025737,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x8e11b04",
+      "id": 148970244,
       "en": "This one was already looted. Is there anyone nearby?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b06",
+      "id": 148970246,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x977ecf1",
+      "id": 158854385,
       "en": "'Snarl! Hssss!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x977ecf2",
+      "id": 158854386,
       "en": "'They're mine. I took them. Mine!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x977ecf3",
+      "id": 158854387,
       "en": "'Get back you thieving [placeholder]! Back!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029d2",
+      "id": 173025746,
       "en": "Look for already-looted packs",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011847",
+      "id": 184621127,
       "en": "Found and defeated the pack-looting sneak.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029d3",
+      "id": 173025747,
       "en": "Find and confront the sneak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029d5",
+      "id": 173025749,
       "en": "Completed",
-      "es": "Completado",
-      "es (fem)": ""
+      "es": "Completado"
     },
     {
-      "id": "0x8e11b10",
+      "id": 148970256,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x78d1791",
+      "id": 126687121,
       "en": "It would seem there is someone sneaking into the abandoned soldiers' packs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "A Sneak Among the Leavings",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568938",
+      "id": 190220600,
       "en": "You found and defeated the skulking goblin who was looting soldiers' packs, so the soldiers posted in Udûn won't have to worry about him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029c3",
+      "id": 173025731,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa5029c5",
+      "id": 173025733,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xb011868",
+      "id": 184621160,
       "en": "Look for more already-looted packs near the central road in Udûn, in hopes of finding the sneak.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

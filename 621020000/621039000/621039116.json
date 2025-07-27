@@ -2,94 +2,79 @@
   "id": 621039116,
   "txt": [
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Pick up the summoning horn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Use the Call Radhril skill and talk to Radhril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a8",
+      "id": 111477416,
       "en": "Destroy bombs ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a6",
+      "id": 162883750,
       "en": "'It is of the utmost importance that we destroy every bomb and case of black powder that we find within these tunnels. We can not let these Orcs collapse the mine. Now then, there is much to be done.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b2",
+      "id": 246419890,
       "en": "You should destroy bombs and powder crates.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b3",
+      "id": 246419891,
       "en": "You should talk to Radhril.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "Use the summoning horn at the beginning of the tunnel to summon Radhril to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50250",
+      "id": 111477328,
       "en": "Destroy powder crates ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1171",
+      "id": 177082737,
       "en": "Destroyed powder crates ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1189",
+      "id": 177082761,
       "en": "Destroyed bombs ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "You have been tasked with stopping the Tarkrîp Orcs before they collapse the mines of Writhenset.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'I commend your efforts, [placeholder]! Come, let us return and report our success to the Free Peoples.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a9",
+      "id": 246419881,
       "en": "You should return to the mine entrance.\\n\\n<rgb=#FF0000>If Radhril is missing, and the Call Radhril skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a1",
+      "id": 111477409,
       "en": "Return to the mine entrance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Mission: A Looming Collapse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

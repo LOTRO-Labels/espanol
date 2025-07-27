@@ -2,250 +2,209 @@
   "id": 621044837,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Assault on Dhúrstrok -- Solo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11c0271",
+      "id": 18612849,
       "en": "'This must be the locked gate Shúkurz was talking about.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe8a1b1",
+      "id": 266903985,
       "en": "'Lord Náin!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12c0271",
+      "id": 19661425,
       "en": "'He's barely moving....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56862",
+      "id": 162883682,
       "en": "'His beard... it's gone.... The Black Mattock is gone too. I'd wager it's been stolen, or worse, destroyed.\\n\\n'We can't linger here to exact revenge upon Gorgar; we must return to Aslíf. Lord Náin's injuries do not seem grave, but he has lost much.\\n\\n'Quickly now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4476498",
+      "id": 71787672,
       "en": "'Gundabad... is... ours...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x13c0271",
+      "id": 20710001,
       "en": "'Look! Over there -- it's him!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x783660f",
+      "id": 126051855,
       "en": "'One key found. One more to go.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50261",
+      "id": 111477345,
       "en": "Find Náin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "You have found Dhúrstrok, Gorgar's stronghold.\\n\\nYou should pick up the summoning horn to call Múta to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01155",
+      "id": 246419797,
       "en": "Náin is trapped behind a locked gate.\\n\\nGorgar's generals, Gâdh-and-Shum and Mozrúk the Wind-rider, hold the keys.\\n\\n<rgb=#FF0000>If you need assistance, use the Call Múta skill to call Múta to your side. If you lose access to this skill, pick up the summoning horn at the instance entrance.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x14c0271",
+      "id": 21758577,
       "en": "'Clear the path forward. Lord Náin has to be somewhere here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50263",
+      "id": 111477347,
       "en": "Talk to Múta",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1164",
+      "id": 177082724,
       "en": "Use the summoning horn to call Múta",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00ef8",
+      "id": 49286904,
       "en": "Talk to Múta",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f273a1",
+      "id": 49443745,
       "en": "'Shaikmuz? Where are you going?!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56842",
+      "id": 162883650,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e1167",
+      "id": 177082727,
       "en": "Defeated Gâdh-and-Shum",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f273a2",
+      "id": 49443746,
       "en": "'AAAGH!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc0271",
+      "id": 31195761,
       "en": "'With luck, we'll live to see what we can create from these ruins.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f273a3",
+      "id": 49443747,
       "en": "'You'll pay for that!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1169",
+      "id": 177082729,
       "en": "Defeated Mozrúk the Wind-rider",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f273a4",
+      "id": 49443748,
       "en": "'Get up, Shaikmuz! We've got a score to settle!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01161",
+      "id": 246419809,
       "en": "You have obtained the keys needed to free Náin.\\n\\nYou should return to the gate to unlock and open it.\\n\\n<rgb=#FF0000>If you need assistance, use the Call Múta skill to call Múta to your side. If you lose access to this skill, pick up the summoning horn at the instance entrance.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56876",
+      "id": 162883702,
       "en": "'His beard... it's gone... The Black Mattock is gone too. I'd wager it's been stolen, or worse, destroyed.\\n\\n'We can't linger here to exact revenge upon Gorgar; we must return to Aslíf. Lord Náin's injuries do not seem grave, but he has lost much.\\n\\n'Quickly, now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01162",
+      "id": 246419810,
       "en": "You have unlocked and opened the gate to Náin's prison.\\n\\nYou should approach him to make sure he has not suffered grave injuries.\\n\\n<rgb=#FF0000>If you need assistance, use the Call Múta skill to call Múta to your side. If you lose access to this skill, pick up the summoning horn at the instance entrance.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "High among the catwalks of Deepscrave lies Dhúrstrok, the stronghold of Gorgar the Ruthless. Somewhere within these aging halls filled with dwarf-relics, Gorgar's loyal generals have imprisoned Lord Náin. It is up to you to free him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x16c0271",
+      "id": 23855729,
       "en": "'Have you got both keys? Let's hurry.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba25fb1",
+      "id": 195190705,
       "en": "'Would you look at that, Shaikmuz? A stay of execution for that old dwarf!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ec0271",
+      "id": 32244337,
       "en": "'This place is... incredible. What was it like before Gundabad was lost?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50270",
+      "id": 111477360,
       "en": "Open the gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba25fb2",
+      "id": 195190706,
       "en": "'Don't worry, you'll all be joining him soon enough!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50243",
+      "id": 111477315,
       "en": "Pick up the summoning horn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50273",
+      "id": 111477363,
       "en": "Approach Náin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78c660f",
+      "id": 126641679,
       "en": "'Let's hunt down the generals and take their keys -- with haste!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01169",
+      "id": 246419817,
       "en": "Múta has something to say.\\n\\n<rgb=#FF0000>If you need assistance, use the Call Múta skill to call Múta to your side. If you lose access to this skill, pick up the summoning horn at the instance entrance.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50246",
+      "id": 111477318,
       "en": "Defeat Gâdh-and-Shum",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50248",
+      "id": 111477320,
       "en": "Defeat Mozrúk the Wind-rider",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18c0271",
+      "id": 25952881,
       "en": "''I'll keep an eye on Lord Náin. Hunt down Gorgar's generals and take their keys -- with haste!''",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x782660f",
+      "id": 125986319,
       "en": "'That's both of the keys! Let's hurry back.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01170",
+      "id": 246419824,
       "en": "You should find Náin's location.\\n\\n<rgb=#FF0000>If you need assistance, use the Call Múta skill to call Múta to your side. If you lose access to this skill, pick up the summoning horn at the instance entrance.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

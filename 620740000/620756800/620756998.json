@@ -2,3232 +2,2694 @@
   "id": 620756998,
   "txt": [
     {
-      "id": "0x4b7d41",
+      "id": 4947265,
       "en": "Jewellery (item level 323 / crit 326)",
-      "es": "Joyería (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 323 / crít 326)"
     },
     {
-      "id": "0x4b7d42",
+      "id": 4947266,
       "en": "Jewellery (item level 370 / crit 374)",
-      "es": "Joyería (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 370 / crít 374)"
     },
     {
-      "id": "0x4b7d43",
+      "id": 4947267,
       "en": "Ithil Jewellery",
-      "es": "Joyería Ithil",
-      "es (fem)": ""
+      "es": "Joyería Ithil"
     },
     {
-      "id": "0x4b5997",
+      "id": 4938135,
       "en": "Jewellery (Level 7)",
-      "es": "Joyería (nivel 7)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 7)"
     },
     {
-      "id": "0x3fb6392",
+      "id": 66806674,
       "en": "Light Armour (Level 72)",
-      "es": "Armadura ligera (nivel 72)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 72)"
     },
     {
-      "id": "0x4b7d44",
+      "id": 4947268,
       "en": "Gundabad Jewellery",
-      "es": "Joyería Gundabad",
-      "es (fem)": ""
+      "es": "Joyería Gundabad"
     },
     {
-      "id": "0x4b7d45",
+      "id": 4947269,
       "en": "Umbari Jewellery",
-      "es": "Joyería Umbari",
-      "es (fem)": ""
+      "es": "Joyería Umbari"
     },
     {
-      "id": "0xb3c5ec4",
+      "id": 188505796,
       "en": "Heavy Armour (Men of Dunland)",
-      "es": "Armadura pesada (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Armadura pesada (Hombres de Dunland)"
     },
     {
-      "id": "0x57d0580",
+      "id": 92079488,
       "en": "Legendary Beorning Weapons (Level 100)",
-      "es": "Armas legendarias de beórnida (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de beórnida (nivel 100)"
     },
     {
-      "id": "0xd628843",
+      "id": 224561219,
       "en": "Fortifying Food",
-      "es": "Comida fortificante",
-      "es (fem)": ""
+      "es": "Comida fortificante"
     },
     {
-      "id": "0x4b466f3",
+      "id": 78931699,
       "en": "Jewellery (Epic)",
-      "es": "Joyería (Épica)",
-      "es (fem)": ""
+      "es": "Joyería (Épica)"
     },
     {
-      "id": "0xf7a9307",
+      "id": 259691271,
       "en": "Heavy Armour (Level 7)",
-      "es": "Armadura pesada (nivel 7)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 7)"
     },
     {
-      "id": "0x1b363d4",
+      "id": 28533716,
       "en": "Legendary Guardian Weapons",
-      "es": "Armas legendarias de Guardián",
-      "es (fem)": ""
+      "es": "Armas legendarias de Guardián"
     },
     {
-      "id": "0x63450ee",
+      "id": 104091886,
       "en": "Champion Potions",
-      "es": "Pociones de Campeón",
-      "es (fem)": ""
+      "es": "Pociones de Campeón"
     },
     {
-      "id": "0x9c7c143",
+      "id": 164086083,
       "en": "Rune-keeper Rune-tools",
-      "es": "Herramientas de runas de Maestro rúnico",
-      "es (fem)": ""
+      "es": "Herramientas de runas de Maestro rúnico"
     },
     {
-      "id": "0x71b9a4e",
+      "id": 119249486,
       "en": "Cloaks (Galadhrim)",
-      "es": "Capas (Galadhrim)",
-      "es (fem)": ""
+      "es": "Capas (Galadhrim)"
     },
     {
-      "id": "0x3fb63a6",
+      "id": 66806694,
       "en": "Light Armour (Level 66)",
-      "es": "Armadura ligera (nivel 66)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 66)"
     },
     {
-      "id": "0x3fb63a8",
+      "id": 66806696,
       "en": "Light Armour (Level 68)",
-      "es": "Armadura ligera (nivel 68)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 68)"
     },
     {
-      "id": "0xed520a7",
+      "id": 248848551,
       "en": "Medium Armour (Level 7)",
-      "es": "Armadura media (nivel 7)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 7)"
     },
     {
-      "id": "0xc46b9a3",
+      "id": 205961635,
       "en": "The Mathom Society",
-      "es": "La Sociedad Mathom",
-      "es (fem)": ""
+      "es": "La Sociedad Mathom"
     },
     {
-      "id": "0xe007a67",
+      "id": 234912359,
       "en": "Smelting",
-      "es": "Fundición",
-      "es (fem)": ""
+      "es": "Fundición"
     },
     {
-      "id": "0x881dab8",
+      "id": 142727864,
       "en": "Captain Armaments (Lossoth)",
-      "es": "Armamento de Capitán (Lossoth)",
-      "es (fem)": ""
+      "es": "Armamento de Capitán (Lossoth)"
     },
     {
-      "id": "0x51b45c4",
+      "id": 85673412,
       "en": "Legendary Captain Weapons",
-      "es": "Armas legendarias de Capitán",
-      "es (fem)": ""
+      "es": "Armas legendarias de Capitán"
     },
     {
-      "id": "0x3fb63b0",
+      "id": 66806704,
       "en": "Light Armour (Level 50)",
-      "es": "Armadura ligera (nivel 50)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 50)"
     },
     {
-      "id": "0x3fb63b1",
+      "id": 66806705,
       "en": "Light Armour (Level 51)",
-      "es": "Armadura ligera (nivel 51)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 51)"
     },
     {
-      "id": "0x3fb63b4",
+      "id": 66806708,
       "en": "Light Armour (Level 54)",
-      "es": "Armadura ligera (nivel 54)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 54)"
     },
     {
-      "id": "0x3fb63b6",
+      "id": 66806710,
       "en": "Light Armour (Level 56)",
-      "es": "Armadura ligera (nivel 56)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 56)"
     },
     {
-      "id": "0x3fb63b8",
+      "id": 66806712,
       "en": "Light Armour (Level 58)",
-      "es": "Armadura ligera (nivel 58)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 58)"
     },
     {
-      "id": "0xe3ef655",
+      "id": 239007317,
       "en": "Legendary Minstrel Weapons (Level 65)",
-      "es": "Armas legendarias de Juglar (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Juglar (nivel 65)"
     },
     {
-      "id": "0x4b59940",
+      "id": 79010112,
       "en": "Jewellery (Level 10)",
-      "es": "Joyería (nivel 10)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 10)"
     },
     {
-      "id": "0x4b59942",
+      "id": 79010114,
       "en": "Jewellery (Level 12)",
-      "es": "Joyería (nivel 12)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 12)"
     },
     {
-      "id": "0x27e2580",
+      "id": 41821568,
       "en": "Legendary Hunter Weapons (Level 100)",
-      "es": "Armas legendarias de Cazador (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Cazador (nivel 100)"
     },
     {
-      "id": "0x37f9844",
+      "id": 58693700,
       "en": "Medium Armour (Level 65, Malledhrim)",
-      "es": "Armadura media (nivel 65, Malledhrim)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 65, Malledhrim)"
     },
     {
-      "id": "0x4b59945",
+      "id": 79010117,
       "en": "Jewellery (Level 15)",
-      "es": "Joyería (nivel 15)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 15)"
     },
     {
-      "id": "0x4d99883",
+      "id": 81369219,
       "en": "Essences",
-      "es": "Esencias",
-      "es (fem)": ""
+      "es": "Esencias"
     },
     {
-      "id": "0x9671f4",
+      "id": 9859572,
       "en": "Jewellery (Level 65, Malledhrim)",
-      "es": "Joyería (nivel 65, Malledhrim)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 65, Malledhrim)"
     },
     {
-      "id": "0x4b59948",
+      "id": 79010120,
       "en": "Jewellery (Level 18)",
-      "es": "Joyería (nivel 18)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 18)"
     },
     {
-      "id": "0x5d2e183",
+      "id": 97706371,
       "en": "Flowers",
-      "es": "Flores",
-      "es (fem)": ""
+      "es": "Flores"
     },
     {
-      "id": "0xa73555e",
+      "id": 175330654,
       "en": "Lore-master Talismans",
-      "es": "Talismanes de Sabio",
-      "es (fem)": ""
+      "es": "Talismanes de Sabio"
     },
     {
-      "id": "0x1f8e05e",
+      "id": 33087582,
       "en": "Pocket (Théodred's Riders)",
-      "es": "Bolsillo (Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Bolsillo (Jinetes de Théodred)"
     },
     {
-      "id": "0x4b59950",
+      "id": 79010128,
       "en": "Jewellery (Level 20)",
-      "es": "Joyería (nivel 20)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 20)"
     },
     {
-      "id": "0x15a41e3",
+      "id": 22692323,
       "en": "Legendary Lore-master Books",
-      "es": "Libros legendarios de Sabio",
-      "es (fem)": ""
+      "es": "Libros legendarios de Sabio"
     },
     {
-      "id": "0x1980b65",
+      "id": 26741605,
       "en": "Legendary Burglar Tools (Level 65)",
-      "es": "Herramientas legendarias de Ladrón (nivel 65)",
-      "es (fem)": ""
+      "es": "Herramientas legendarias de Ladrón (nivel 65)"
     },
     {
-      "id": "0x4b59952",
+      "id": 79010130,
       "en": "Jewellery (Level 22)",
-      "es": "Joyería (nivel 22)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 22)"
     },
     {
-      "id": "0x4b59955",
+      "id": 79010133,
       "en": "Jewellery (Level 25)",
-      "es": "Joyería (nivel 25)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 25)"
     },
     {
-      "id": "0xb413f85",
+      "id": 188825477,
       "en": "Legendary Burglar Weapons (Level 65)",
-      "es": "Armas legendarias de Ladrón (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Ladrón (nivel 65)"
     },
     {
-      "id": "0x938919e",
+      "id": 154702238,
       "en": "Melee Weapons (Level 60, Galadhrim)",
-      "es": "Armas cuerpo a cuerpo (nivel 60, Galadhrim)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 60, Galadhrim)"
     },
     {
-      "id": "0x4b59958",
+      "id": 79010136,
       "en": "Jewellery (Level 28)",
-      "es": "Joyería (nivel 28)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 28)"
     },
     {
-      "id": "0x131a393",
+      "id": 20030355,
       "en": "Components (Guild)",
-      "es": "Componentes (Guild)",
-      "es (fem)": ""
+      "es": "Componentes (Guild)"
     },
     {
-      "id": "0x39ecbe2",
+      "id": 60738530,
       "en": "Light Armour (Guild)",
-      "es": "Armadura ligera (Guild)",
-      "es (fem)": ""
+      "es": "Armadura ligera (Guild)"
     },
     {
-      "id": "0x5ad3f33",
+      "id": 95239987,
       "en": "Fine Drinks (Guild)",
-      "es": "Bebidas finas (Guild)",
-      "es (fem)": ""
+      "es": "Bebidas finas (Guild)"
     },
     {
-      "id": "0xdad6244",
+      "id": 229466692,
       "en": "Cooked Food (Guild)",
-      "es": "Comida cocinada (Guild)",
-      "es (fem)": ""
+      "es": "Comida cocinada (Guild)"
     },
     {
-      "id": "0x5950c33",
+      "id": 93654067,
       "en": "Cloaks (Guild)",
-      "es": "Capas (Guild)",
-      "es (fem)": ""
+      "es": "Capas (Guild)"
     },
     {
-      "id": "0x1b43d10",
+      "id": 28589328,
       "en": "Legendary Champion Weapons",
-      "es": "Armas legendarias de Campeón",
-      "es (fem)": ""
+      "es": "Armas legendarias de Campeón"
     },
     {
-      "id": "0x4b59960",
+      "id": 79010144,
       "en": "Jewellery (Level 30)",
-      "es": "Joyería (nivel 30)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 30)"
     },
     {
-      "id": "0x4b59962",
+      "id": 79010146,
       "en": "Jewellery (Level 32)",
-      "es": "Joyería (nivel 32)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 32)"
     },
     {
-      "id": "0x4b59965",
+      "id": 79010149,
       "en": "Jewellery (Level 35)",
-      "es": "Joyería (nivel 35)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 35)"
     },
     {
-      "id": "0x6b72f03",
+      "id": 112668419,
       "en": "Ingredients",
-      "es": "Ingredientes",
-      "es (fem)": ""
+      "es": "Ingredientes"
     },
     {
-      "id": "0x51b57d2",
+      "id": 85678034,
       "en": "Legendary Beorning Weapons",
-      "es": "Armas legendarias de beórnida",
-      "es (fem)": ""
+      "es": "Armas legendarias de beórnida"
     },
     {
-      "id": "0x4b59968",
+      "id": 79010152,
       "en": "Jewellery (Level 38)",
-      "es": "Joyería (nivel 38)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 38)"
     },
     {
-      "id": "0xb3d5e0",
+      "id": 11785696,
       "en": "Legendary Lore-master Weapons (Level 100)",
-      "es": "Armas legendarias de Sabio (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Sabio (nivel 100)"
     },
     {
-      "id": "0x4b59970",
+      "id": 79010160,
       "en": "Jewellery (Level 40)",
-      "es": "Joyería (nivel 40)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 40)"
     },
     {
-      "id": "0x3fa9cc3",
+      "id": 66755779,
       "en": "Light Armour (Epic)",
-      "es": "Armadura ligera (Épica)",
-      "es (fem)": ""
+      "es": "Armadura ligera (Épica)"
     },
     {
-      "id": "0x7a93030",
+      "id": 128528432,
       "en": "Heavy Armour (Level 90)",
-      "es": "Armadura pesada (nivel 90)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 90)"
     },
     {
-      "id": "0xf3cb504",
+      "id": 255636740,
       "en": "Captain Crests",
-      "es": "Crestas de Capitán",
-      "es (fem)": ""
+      "es": "Crestas de Capitán"
     },
     {
-      "id": "0x4b59972",
+      "id": 79010162,
       "en": "Jewellery (Level 42)",
-      "es": "Joyería (nivel 42)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 42)"
     },
     {
-      "id": "0x3fb63f0",
+      "id": 66806768,
       "en": "Light Armour (Level 90)",
-      "es": "Armadura ligera (nivel 90)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 90)"
     },
     {
-      "id": "0x4b59975",
+      "id": 79010165,
       "en": "Jewellery (Level 45)",
-      "es": "Joyería (nivel 45)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 45)"
     },
     {
-      "id": "0xcfbf724",
+      "id": 217839396,
       "en": "Weapons (Malledhrim)",
-      "es": "Armas (Malledhrim)",
-      "es (fem)": ""
+      "es": "Armas (Malledhrim)"
     },
     {
-      "id": "0x7a93035",
+      "id": 128528437,
       "en": "Heavy Armour (Level 95)",
-      "es": "Armadura pesada (nivel 95)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 95)"
     },
     {
-      "id": "0x4b59978",
+      "id": 79010168,
       "en": "Jewellery (Level 48)",
-      "es": "Joyería (nivel 48)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 48)"
     },
     {
-      "id": "0x3fb63f5",
+      "id": 66806773,
       "en": "Light Armour (Level 95)",
-      "es": "Armadura ligera (nivel 95)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 95)"
     },
     {
-      "id": "0x94ab217",
+      "id": 155890199,
       "en": "Ranged Weapons (Level 7)",
-      "es": "Armas a distancia (nivel 7)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 7)"
     },
     {
-      "id": "0x35999f5",
+      "id": 56203765,
       "en": "Fishing Rods",
-      "es": "Bastones de pesca",
-      "es (fem)": ""
+      "es": "Bastones de pesca"
     },
     {
-      "id": "0x3364d15",
+      "id": 53890325,
       "en": "Luck-stone Components",
-      "es": "Componentes de piedra de la suerte",
-      "es (fem)": ""
+      "es": "Componentes de piedra de la suerte"
     },
     {
-      "id": "0x4b59980",
+      "id": 79010176,
       "en": "Jewellery (Level 50)",
-      "es": "Joyería (nivel 50)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 50)"
     },
     {
-      "id": "0x8f56de3",
+      "id": 150302179,
       "en": "Beverages",
-      "es": "Bebidas",
-      "es (fem)": ""
+      "es": "Bebidas"
     },
     {
-      "id": "0x4b59981",
+      "id": 79010177,
       "en": "Jewellery (Level 51)",
-      "es": "Joyería (nivel 51)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 51)"
     },
     {
-      "id": "0x7a93040",
+      "id": 128528448,
       "en": "Heavy Armour (Level 80)",
-      "es": "Armadura pesada (nivel 80)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 80)"
     },
     {
-      "id": "0x459b6e3",
+      "id": 72988387,
       "en": "Unlock an additional profession slot.",
-      "es": "Desbloquea un espacio adicional de profesión.",
-      "es (fem)": ""
+      "es": "Desbloquea un espacio adicional de profesión."
     },
     {
-      "id": "0x4b59984",
+      "id": 79010180,
       "en": "Jewellery (Level 54)",
-      "es": "Joyería (nivel 54)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 54)"
     },
     {
-      "id": "0xd127243",
+      "id": 219312707,
       "en": "Crops",
-      "es": "Cultivos",
-      "es (fem)": ""
+      "es": "Cultivos"
     },
     {
-      "id": "0x4b59986",
+      "id": 79010182,
       "en": "Jewellery (Level 56)",
-      "es": "Joyería (nivel 56)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 56)"
     },
     {
-      "id": "0x7a93045",
+      "id": 128528453,
       "en": "Heavy Armour (Level 85)",
-      "es": "Armadura pesada (nivel 85)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 85)"
     },
     {
-      "id": "0x58312ae",
+      "id": 92476078,
       "en": "Hunter Potions",
-      "es": "Pociones de Cazador",
-      "es (fem)": ""
+      "es": "Pociones de Cazador"
     },
     {
-      "id": "0x4b59988",
+      "id": 79010184,
       "en": "Jewellery (Level 58)",
-      "es": "Joyería (nivel 58)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 58)"
     },
     {
-      "id": "0x23a22ec",
+      "id": 37364460,
       "en": "Wedding Festival",
-      "es": "Festival de bodas",
-      "es (fem)": ""
+      "es": "Festival de bodas"
     },
     {
-      "id": "0xedea990",
+      "id": 249473424,
       "en": "Fish Preparation",
-      "es": "Preparación de pescado",
-      "es (fem)": ""
+      "es": "Preparación de pescado"
     },
     {
-      "id": "0xe179363",
+      "id": 236426083,
       "en": "Legendary Rune-keeper Rune-bags",
-      "es": "Bolsas de runas legendarias de Maestro rúnico",
-      "es (fem)": ""
+      "es": "Bolsas de runas legendarias de Maestro rúnico"
     },
     {
-      "id": "0x16c1823",
+      "id": 23861283,
       "en": "Gemstones (Guild)",
-      "es": "Piedras preciosas (Guild)",
-      "es (fem)": ""
+      "es": "Piedras preciosas (Guild)"
     },
     {
-      "id": "0x60851f3",
+      "id": 101208563,
       "en": "Rune-keeper Rune-satchels",
-      "es": "Mochilas de runas de Maestro rúnico",
-      "es (fem)": ""
+      "es": "Mochilas de runas de Maestro rúnico"
     },
     {
-      "id": "0x1c3aee4",
+      "id": 29601508,
       "en": "Cook's Guild",
-      "es": "Guild de cocineros",
-      "es (fem)": ""
+      "es": "Guild de cocineros"
     },
     {
-      "id": "0x91204a3",
+      "id": 152175779,
       "en": "You have completed the '[placeholder]' recipe. Critical Success!\\n",
-      "es": "Has completado la receta '[placeholder]'. ¡Éxito crítico!\\n",
-      "es (fem)": ""
+      "es": "Has completado la receta '[placeholder]'. ¡Éxito crítico!\\n"
     },
     {
-      "id": "0x7a93052",
+      "id": 128528466,
       "en": "Heavy Armour (Level 72)",
-      "es": "Armadura pesada (nivel 72)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 72)"
     },
     {
-      "id": "0x4b59996",
+      "id": 79010198,
       "en": "Jewellery (Level 66)",
-      "es": "Joyería (nivel 66)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 66)"
     },
     {
-      "id": "0x22b9345",
+      "id": 36410181,
       "en": "Textile",
-      "es": "Textil",
-      "es (fem)": ""
+      "es": "Textil"
     },
     {
-      "id": "0x4b59998",
+      "id": 79010200,
       "en": "Jewellery (Level 68)",
-      "es": "Joyería (nivel 68)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 68)"
     },
     {
-      "id": "0x574d944",
+      "id": 91543876,
       "en": "Men of Bree",
-      "es": "Hombres de Bree",
-      "es (fem)": ""
+      "es": "Hombres de Bree"
     },
     {
-      "id": "0x9767924",
+      "id": 158759204,
       "en": "Cloaks (Men of Dunland)",
-      "es": "Capas (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Capas (Hombres de Dunland)"
     },
     {
-      "id": "0x4b599a2",
+      "id": 79010210,
       "en": "Jewellery (Level 72)",
-      "es": "Joyería (nivel 72)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 72)"
     },
     {
-      "id": "0x75eb5c3",
+      "id": 123647427,
       "en": "Captain Armaments",
-      "es": "Armamento de Capitán",
-      "es (fem)": ""
+      "es": "Armamento de Capitán"
     },
     {
-      "id": "0x6cecda4",
+      "id": 114216356,
       "en": "Ranged Weapons(item level 388 / crit 392)",
-      "es": "Armas a distancia (nivel 388 / crít 392)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 388 / crít 392)"
     },
     {
-      "id": "0x7a93066",
+      "id": 128528486,
       "en": "Heavy Armour (Level 66)",
-      "es": "Armadura pesada (nivel 66)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 66)"
     },
     {
-      "id": "0x3d13183",
+      "id": 64041347,
       "en": "Dyes",
-      "es": "Tintes",
-      "es (fem)": ""
+      "es": "Tintes"
     },
     {
-      "id": "0x7a93068",
+      "id": 128528488,
       "en": "Heavy Armour (Level 68)",
-      "es": "Armadura pesada (nivel 68)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 68)"
     },
     {
-      "id": "0x5174aa1",
+      "id": 85412513,
       "en": "Medium Armour (item level 326 / crit 328)",
-      "es": "Armadura media (nivel 326 / crít 328)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 326 / crít 328)"
     },
     {
-      "id": "0x5174aa2",
+      "id": 85412514,
       "en": "Medium Armour (item level 333 / crit 335)",
-      "es": "Armadura media (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 333 / crít 335)"
     },
     {
-      "id": "0xf735798",
+      "id": 259217304,
       "en": "Lore-master Brooch",
-      "es": "Broche de Sabio",
-      "es (fem)": ""
+      "es": "Broche de Sabio"
     },
     {
-      "id": "0x5174aa3",
+      "id": 85412515,
       "en": "Medium Armour (item level 345 / crit 347)",
-      "es": "Armadura media (nivel 345 / crít 347)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 345 / crít 347)"
     },
     {
-      "id": "0x22562ee",
+      "id": 36004590,
       "en": "Medium Armour (Level 60, Galadhrim)",
-      "es": "Armadura media (nivel 60, Galadhrim)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 60, Galadhrim)"
     },
     {
-      "id": "0x5174aa4",
+      "id": 85412516,
       "en": "Medium Armour (item level 345 / crit 349)",
-      "es": "Armadura media (nivel 345 / crít 349)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 345 / crít 349)"
     },
     {
-      "id": "0x4b599b0",
+      "id": 79010224,
       "en": "Jewellery (Level 80)",
-      "es": "Joyería (nivel 80)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 80)"
     },
     {
-      "id": "0x63d6f00",
+      "id": 104689408,
       "en": "Legendary Guardian Weapons (Level 100)",
-      "es": "Armas legendarias de Guardián (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Guardián (nivel 100)"
     },
     {
-      "id": "0x263e4c0",
+      "id": 40101056,
       "en": "Crafting Expertise",
-      "es": "Pericia de artesanía",
-      "es (fem)": ""
+      "es": "Pericia de artesanía"
     },
     {
-      "id": "0x4b7d471",
+      "id": 79156337,
       "en": "Jewellery (item level 326 / crit 328)",
-      "es": "Joyería (nivel 326 / crít 328)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 326 / crít 328)"
     },
     {
-      "id": "0x4b7d472",
+      "id": 79156338,
       "en": "Jewellery (item level 333 / crit 335)",
-      "es": "Joyería (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 333 / crít 335)"
     },
     {
-      "id": "0x7a93070",
+      "id": 128528496,
       "en": "Heavy Armour (Level 50)",
-      "es": "Armadura pesada (nivel 50)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 50)"
     },
     {
-      "id": "0x4b7d473",
+      "id": 79156339,
       "en": "Jewellery (item level 345 / crit 347)",
-      "es": "Joyería (nivel 345 / crít 347)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 345 / crít 347)"
     },
     {
-      "id": "0x7a93071",
+      "id": 128528497,
       "en": "Heavy Armour (Level 51)",
-      "es": "Armadura pesada (nivel 51)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 51)"
     },
     {
-      "id": "0x4b599b5",
+      "id": 79010229,
       "en": "Jewellery (Level 85)",
-      "es": "Joyería (nivel 85)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 85)"
     },
     {
-      "id": "0x90e574",
+      "id": 9495924,
       "en": "Some of your character's crafting recipes are no longer in the game and have been removed.",
-      "es": "Algunas de las recetas de artesanía de tu personaje ya no están en el juego y han sido eliminadas.",
-      "es (fem)": ""
+      "es": "Algunas de las recetas de artesanía de tu personaje ya no están en el juego y han sido eliminadas."
     },
     {
-      "id": "0x7a93074",
+      "id": 128528500,
       "en": "Heavy Armour (Level 54)",
-      "es": "Armadura pesada (nivel 54)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 54)"
     },
     {
-      "id": "0x80f4513",
+      "id": 135218451,
       "en": "Potions (Guild)",
-      "es": "Pociones (Guild)",
-      "es (fem)": ""
+      "es": "Pociones (Guild)"
     },
     {
-      "id": "0x64f1f3",
+      "id": 6615539,
       "en": "Quivers",
-      "es": "Aljabas",
-      "es (fem)": ""
+      "es": "Aljabas"
     },
     {
-      "id": "0x3a6850e",
+      "id": 61244686,
       "en": "Trail Food (Théodred's Riders)",
-      "es": "Comida de sendero (Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Comida de sendero (Jinetes de Théodred)"
     },
     {
-      "id": "0x483ddd4",
+      "id": 75750868,
       "en": "Pocket (Guild)",
-      "es": "Bolsillo (Guild)",
-      "es (fem)": ""
+      "es": "Bolsillo (Guild)"
     },
     {
-      "id": "0x7a93076",
+      "id": 128528502,
       "en": "Heavy Armour (Level 56)",
-      "es": "Armadura pesada (nivel 56)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 56)"
     },
     {
-      "id": "0x269fa74",
+      "id": 40499828,
       "en": "Cooked Food",
-      "es": "Comida cocinada",
-      "es (fem)": ""
+      "es": "Comida cocinada"
     },
     {
-      "id": "0xde02d04",
+      "id": 232795396,
       "en": "Rune-keeper Rune-stones (Malledhrim)",
-      "es": "Piedras de runas de Maestro rúnico (Malledhrim)",
-      "es (fem)": ""
+      "es": "Piedras de runas de Maestro rúnico (Malledhrim)"
     },
     {
-      "id": "0x7a93078",
+      "id": 128528504,
       "en": "Heavy Armour (Level 58)",
-      "es": "Armadura pesada (nivel 58)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 58)"
     },
     {
-      "id": "0xdf19803",
+      "id": 233936899,
       "en": "Legendary Burglar Tools",
-      "es": "Herramientas legendarias de Ladrón",
-      "es (fem)": ""
+      "es": "Herramientas legendarias de Ladrón"
     },
     {
-      "id": "0x5902912",
+      "id": 93333778,
       "en": "Warden Carvings (item level 370 / crit 374)",
-      "es": "Grabados de vigilante (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Grabados de vigilante (nivel 370 / crít 374)"
     },
     {
-      "id": "0x5902913",
+      "id": 93333779,
       "en": "Ithil Warden Carvings",
-      "es": "Grabados de vigilante Ithil",
-      "es (fem)": ""
+      "es": "Grabados de vigilante Ithil"
     },
     {
-      "id": "0x5902914",
+      "id": 93333780,
       "en": "Gundabad Carvings",
-      "es": "Grabados de Gundabad",
-      "es (fem)": ""
+      "es": "Grabados de Gundabad"
     },
     {
-      "id": "0x5902915",
+      "id": 93333781,
       "en": "Umbari Carvings",
-      "es": "Grabados de Umbari",
-      "es (fem)": ""
+      "es": "Grabados de Umbari"
     },
     {
-      "id": "0x4b599c0",
+      "id": 79010240,
       "en": "Jewellery (Level 90)",
-      "es": "Joyería (nivel 90)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 90)"
     },
     {
-      "id": "0xd143064",
+      "id": 219426916,
       "en": "Event",
-      "es": "Evento",
-      "es (fem)": ""
+      "es": "Evento"
     },
     {
-      "id": "0x5902916",
+      "id": 93333782,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xb5eeb13",
+      "id": 190769939,
       "en": "Legendary Captain Emblems",
-      "es": "Emblemas legendarios de Capitán",
-      "es (fem)": ""
+      "es": "Emblemas legendarios de Capitán"
     },
     {
-      "id": "0xe09f7a2",
+      "id": 235534242,
       "en": "Heavy Armour",
-      "es": "Armadura pesada",
-      "es (fem)": ""
+      "es": "Armadura pesada"
     },
     {
-      "id": "0x7a93080",
+      "id": 128528512,
       "en": "Heavy Armour (Level 40)",
-      "es": "Armadura pesada (nivel 40)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 40)"
     },
     {
-      "id": "0xf54d97c",
+      "id": 257218940,
       "en": "Rune-keeper Chisels",
-      "es": "Cinceles de Maestro rúnico",
-      "es (fem)": ""
+      "es": "Cinceles de Maestro rúnico"
     },
     {
-      "id": "0x7a93082",
+      "id": 128528514,
       "en": "Heavy Armour (Level 42)",
-      "es": "Armadura pesada (nivel 42)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 42)"
     },
     {
-      "id": "0x4b599c5",
+      "id": 79010245,
       "en": "Jewellery (Level 95)",
-      "es": "Joyería (nivel 95)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 95)"
     },
     {
-      "id": "0x7a93085",
+      "id": 128528517,
       "en": "Heavy Armour (Level 45)",
-      "es": "Armadura pesada (nivel 45)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 45)"
     },
     {
-      "id": "0x8c9b918",
+      "id": 147437848,
       "en": "Light Armour (Lossoth)",
-      "es": "Armadura ligera (Lossoth)",
-      "es (fem)": ""
+      "es": "Armadura ligera (Lossoth)"
     },
     {
-      "id": "0x7a93088",
+      "id": 128528520,
       "en": "Heavy Armour (Level 48)",
-      "es": "Armadura pesada (nivel 48)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 48)"
     },
     {
-      "id": "0x4a56ce2",
+      "id": 77950178,
       "en": "Ranged Weapons (item level 333 / crit 335)",
-      "es": "Armas a distancia (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 333 / crít 335)"
     },
     {
-      "id": "0x1e277a1",
+      "id": 31618977,
       "en": "Melee Weapons (item level 323 / crit 326)",
-      "es": "Armas cuerpo a cuerpo (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 323 / crít 326)"
     },
     {
-      "id": "0x1c56d04",
+      "id": 29715716,
       "en": "Jewellery (Men of Dunland)",
-      "es": "Joyería (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Joyería (Hombres de Dunland)"
     },
     {
-      "id": "0x1e277a2",
+      "id": 31618978,
       "en": "Melee Weapons (item level 370 / crit 374)",
-      "es": "Armas cuerpo a cuerpo (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 370 / crít 374)"
     },
     {
-      "id": "0x1e277a3",
+      "id": 31618979,
       "en": "Ithil Melee Weapons",
-      "es": "Armas cuerpo a cuerpo Ithil",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo Ithil"
     },
     {
-      "id": "0x1e277a4",
+      "id": 31618980,
       "en": "Gundabad Melee Weapons",
-      "es": "Armas cuerpo a cuerpo Gundabad",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo Gundabad"
     },
     {
-      "id": "0x1e277a5",
+      "id": 31618981,
       "en": "Umbari Melee Weapons",
-      "es": "Armas cuerpo a cuerpo Umbari",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo Umbari"
     },
     {
-      "id": "0x7a93090",
+      "id": 128528528,
       "en": "Heavy Armour (Level 30)",
-      "es": "Armadura pesada (nivel 30)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 30)"
     },
     {
-      "id": "0x7a93092",
+      "id": 128528530,
       "en": "Heavy Armour (Level 32)",
-      "es": "Armadura pesada (nivel 32)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 32)"
     },
     {
-      "id": "0x7a93095",
+      "id": 128528533,
       "en": "Heavy Armour (Level 35)",
-      "es": "Armadura pesada (nivel 35)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 35)"
     },
     {
-      "id": "0x7a93098",
+      "id": 128528536,
       "en": "Heavy Armour (Level 38)",
-      "es": "Armadura pesada (nivel 38)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 38)"
     },
     {
-      "id": "0x636bbf3",
+      "id": 104250355,
       "en": "Burglar Tricks",
-      "es": "Trucos de Ladrón",
-      "es (fem)": ""
+      "es": "Trucos de Ladrón"
     },
     {
-      "id": "0xe6771a0",
+      "id": 241660320,
       "en": "Legendary Guardian Belts (Level 100)",
-      "es": "Cinturones legendarios de Guardián (nivel 100)",
-      "es (fem)": ""
+      "es": "Cinturones legendarios de Guardián (nivel 100)"
     },
     {
-      "id": "0x3a98d3",
+      "id": 3840211,
       "en": "You have completed the '[placeholder]' recipe!\\n",
-      "es": "Has completado la receta '[placeholder]'!\\n",
-      "es (fem)": ""
+      "es": "Has completado la receta '[placeholder]'!\\n"
     },
     {
-      "id": "0xe6c4645",
+      "id": 241976901,
       "en": "Lore-master Parables",
-      "es": "Parábolas de Sabio",
-      "es (fem)": ""
+      "es": "Parábolas de Sabio"
     },
     {
-      "id": "0x7a930a0",
+      "id": 128528544,
       "en": "Heavy Armour (Level 20)",
-      "es": "Armadura pesada (nivel 20)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 20)"
     },
     {
-      "id": "0x7a930a2",
+      "id": 128528546,
       "en": "Heavy Armour (Level 22)",
-      "es": "Armadura pesada (nivel 22)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 22)"
     },
     {
-      "id": "0xe2d0934",
+      "id": 237832500,
       "en": "Lore-master Pet Food",
-      "es": "Comida para mascotas de Sabio",
-      "es (fem)": ""
+      "es": "Comida para mascotas de Sabio"
     },
     {
-      "id": "0x7a930a5",
+      "id": 128528549,
       "en": "Heavy Armour (Level 25)",
-      "es": "Armadura pesada (nivel 25)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 25)"
     },
     {
-      "id": "0x41fe75",
+      "id": 4324981,
       "en": "None",
-      "es": "Ninguno",
-      "es (fem)": ""
+      "es": "Ninguno"
     },
     {
-      "id": "0x7a930a8",
+      "id": 128528552,
       "en": "Heavy Armour (Level 28)",
-      "es": "Armadura pesada (nivel 28)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 28)"
     },
     {
-      "id": "0x749d534",
+      "id": 122279220,
       "en": "Wood (Bulk)",
-      "es": "Madera (a granel)",
-      "es (fem)": ""
+      "es": "Madera (a granel)"
     },
     {
-      "id": "0x4c942a0",
+      "id": 80298656,
       "en": "Legendary Beorning Carvings (Level 100)",
-      "es": "Grabados legendarios de beórnida (nivel 100)",
-      "es (fem)": ""
+      "es": "Grabados legendarios de beórnida (nivel 100)"
     },
     {
-      "id": "0xa4e6ee4",
+      "id": 172912356,
       "en": "Ranged Weapons (Men of Dunland)",
-      "es": "Armas a distancia (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Armas a distancia (Hombres de Dunland)"
     },
     {
-      "id": "0x777b334",
+      "id": 125285172,
       "en": "You've earned [placeholder] crafting XP in [placeholder] [placeholder].",
-      "es": "Has ganado [placeholder] de experiencia de artesanía en [placeholder] [placeholder].",
-      "es (fem)": ""
+      "es": "Has ganado [placeholder] de experiencia de artesanía en [placeholder] [placeholder]."
     },
     {
-      "id": "0x3f44333",
+      "id": 66339635,
       "en": "[placeholder]([placeholder] of [placeholder])",
-      "es": "[placeholder]([placeholder] de [placeholder])",
-      "es (fem)": ""
+      "es": "[placeholder]([placeholder] de [placeholder])"
     },
     {
-      "id": "0x7a930b0",
+      "id": 128528560,
       "en": "Heavy Armour (Level 10)",
-      "es": "Armadura pesada (nivel 10)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 10)"
     },
     {
-      "id": "0xe293740",
+      "id": 237582144,
       "en": "Melee Weapons (Level 20)",
-      "es": "Armas cuerpo a cuerpo (nivel 20)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 20)"
     },
     {
-      "id": "0x241a0b4",
+      "id": 37855412,
       "en": "Trailfood (Guild)",
-      "es": "Comida de sendero (Guild)",
-      "es (fem)": ""
+      "es": "Comida de sendero (Guild)"
     },
     {
-      "id": "0x7a930b2",
+      "id": 128528562,
       "en": "Heavy Armour (Level 12)",
-      "es": "Armadura pesada (nivel 12)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 12)"
     },
     {
-      "id": "0xe293742",
+      "id": 237582146,
       "en": "Melee Weapons (Level 22)",
-      "es": "Armas cuerpo a cuerpo (nivel 22)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 22)"
     },
     {
-      "id": "0xb1edb24",
+      "id": 186571556,
       "en": "Shields (Men of Dunland)",
-      "es": "Escudos (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Escudos (Hombres de Dunland)"
     },
     {
-      "id": "0xe2819e4",
+      "id": 237509092,
       "en": "Light Armour (Men of Dunland)",
-      "es": "Armadura ligera (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Armadura ligera (Hombres de Dunland)"
     },
     {
-      "id": "0x7a930b5",
+      "id": 128528565,
       "en": "Heavy Armour (Level 15)",
-      "es": "Armadura pesada (nivel 15)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 15)"
     },
     {
-      "id": "0xe293745",
+      "id": 237582149,
       "en": "Melee Weapons (Level 25)",
-      "es": "Armas cuerpo a cuerpo (nivel 25)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 25)"
     },
     {
-      "id": "0x7a930b8",
+      "id": 128528568,
       "en": "Heavy Armour (Level 18)",
-      "es": "Armadura pesada (nivel 18)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 18)"
     },
     {
-      "id": "0xe293748",
+      "id": 237582152,
       "en": "Melee Weapons (Level 28)",
-      "es": "Armas cuerpo a cuerpo (nivel 28)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 28)"
     },
     {
-      "id": "0x4472024",
+      "id": 71770148,
       "en": "Jeweller's Guild",
-      "es": "Guild de joyeros",
-      "es (fem)": ""
+      "es": "Guild de joyeros"
     },
     {
-      "id": "0xb5131a3",
+      "id": 189870499,
       "en": "Components (Guild)",
-      "es": "Componentes (Guild)",
-      "es (fem)": ""
+      "es": "Componentes (Guild)"
     },
     {
-      "id": "0xe293750",
+      "id": 237582160,
       "en": "Melee Weapons (Level 10)",
-      "es": "Armas cuerpo a cuerpo (nivel 10)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 10)"
     },
     {
-      "id": "0xfa6a522",
+      "id": 262579490,
       "en": "Cloaks (item level 333 / crit 335)",
-      "es": "Capas (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Capas (nivel 333 / crít 335)"
     },
     {
-      "id": "0x279bf9e",
+      "id": 41533342,
       "en": "Melee Weapons (Théodred's Riders)",
-      "es": "Armas cuerpo a cuerpo (Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (Jinetes de Théodred)"
     },
     {
-      "id": "0x50c60ae",
+      "id": 84697262,
       "en": "Medium Armour (Théodred's Riders)",
-      "es": "Armadura media (Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Armadura media (Jinetes de Théodred)"
     },
     {
-      "id": "0xe293752",
+      "id": 237582162,
       "en": "Melee Weapons (Level 12)",
-      "es": "Armas cuerpo a cuerpo (nivel 12)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 12)"
     },
     {
-      "id": "0x159e673",
+      "id": 22668915,
       "en": "Legendary Guardian Belts",
-      "es": "Cinturones legendarios de Guardián",
-      "es (fem)": ""
+      "es": "Cinturones legendarios de Guardián"
     },
     {
-      "id": "0xdfcc108",
+      "id": 234668296,
       "en": "Research (Bulk)",
-      "es": "Investigación (a granel)",
-      "es (fem)": ""
+      "es": "Investigación (a granel)"
     },
     {
-      "id": "0xe293755",
+      "id": 237582165,
       "en": "Melee Weapons (Level 15)",
-      "es": "Armas cuerpo a cuerpo (nivel 15)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 15)"
     },
     {
-      "id": "0xe293758",
+      "id": 237582168,
       "en": "Melee Weapons (Level 18)",
-      "es": "Armas cuerpo a cuerpo (nivel 18)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 18)"
     },
     {
-      "id": "0x7255353",
+      "id": 119886675,
       "en": "Consumables",
-      "es": "Consumibles",
-      "es (fem)": ""
+      "es": "Consumibles"
     },
     {
-      "id": "0xb735e3e",
+      "id": 192110142,
       "en": "Jewellery (Théodred's Riders)",
-      "es": "Joyería (Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Joyería (Jinetes de Théodred)"
     },
     {
-      "id": "0xe293760",
+      "id": 237582176,
       "en": "Melee Weapons (Level 40)",
-      "es": "Armas cuerpo a cuerpo (nivel 40)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 40)"
     },
     {
-      "id": "0x93f781e",
+      "id": 155154462,
       "en": "Heavy Armour (Level 60, Galadhrim)",
-      "es": "Armadura pesada (nivel 60, Galadhrim)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 60, Galadhrim)"
     },
     {
-      "id": "0x10b9fd3",
+      "id": 17539027,
       "en": "Shields",
-      "es": "Escudos",
-      "es (fem)": ""
+      "es": "Escudos"
     },
     {
-      "id": "0xe293762",
+      "id": 237582178,
       "en": "Melee Weapons (Level 42)",
-      "es": "Armas cuerpo a cuerpo (nivel 42)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 42)"
     },
     {
-      "id": "0xce55907",
+      "id": 216357127,
       "en": "Warden Carvings",
-      "es": "Grabados de vigilante",
-      "es (fem)": ""
+      "es": "Grabados de vigilante"
     },
     {
-      "id": "0xa871f92",
+      "id": 176627602,
       "en": "Pocket (The Riders of Stangard)",
-      "es": "Bolsillo (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Bolsillo (Los Jinetes de Stangard)"
     },
     {
-      "id": "0xe293765",
+      "id": 237582181,
       "en": "Melee Weapons (Level 45)",
-      "es": "Armas cuerpo a cuerpo (nivel 45)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 45)"
     },
     {
-      "id": "0x408d9e4",
+      "id": 67688932,
       "en": "Your character's vocation is no longer in the game. It has been reset.",
-      "es": "La vocación de tu personaje ya no está en el juego. Se ha reiniciado.",
-      "es (fem)": ""
+      "es": "La vocación de tu personaje ya no está en el juego. Se ha reiniciado."
     },
     {
-      "id": "0xe293768",
+      "id": 237582184,
       "en": "Melee Weapons (Level 48)",
-      "es": "Armas cuerpo a cuerpo (nivel 48)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 48)"
     },
     {
-      "id": "0x3ef68d0",
+      "id": 66021584,
       "en": "Legendary Minstrel Weapons (Level 100)",
-      "es": "Armas legendarias de Juglar (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Juglar (nivel 100)"
     },
     {
-      "id": "0x5496911",
+      "id": 88697105,
       "en": "Apprentice",
-      "es": "Aprendiz",
-      "es (fem)": ""
+      "es": "Aprendiz"
     },
     {
-      "id": "0x5496912",
+      "id": 88697106,
       "en": "Journeyman",
-      "es": "Técnico",
-      "es (fem)": ""
+      "es": "Técnico"
     },
     {
-      "id": "0x5496913",
+      "id": 88697107,
       "en": "Expert",
-      "es": "Experto",
-      "es (fem)": ""
+      "es": "Experto"
     },
     {
-      "id": "0xe293770",
+      "id": 237582192,
       "en": "Melee Weapons (Level 30)",
-      "es": "Armas cuerpo a cuerpo (nivel 30)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 30)"
     },
     {
-      "id": "0x5496914",
+      "id": 88697108,
       "en": "Artisan",
-      "es": "Artesano",
-      "es (fem)": ""
+      "es": "Artesano"
     },
     {
-      "id": "0x9b8568e",
+      "id": 163075726,
       "en": "Potions (Galadhrim)",
-      "es": "Pociones (Galadhrim)",
-      "es (fem)": ""
+      "es": "Pociones (Galadhrim)"
     },
     {
-      "id": "0xcddb513",
+      "id": 215856403,
       "en": "Weapons (Guild)",
-      "es": "Armas (Guild)",
-      "es (fem)": ""
+      "es": "Armas (Guild)"
     },
     {
-      "id": "0x5496915",
+      "id": 88697109,
       "en": "Master",
-      "es": "Maestro",
-      "es (fem)": ""
+      "es": "Maestro"
     },
     {
-      "id": "0xe293772",
+      "id": 237582194,
       "en": "Melee Weapons (Level 32)",
-      "es": "Armas cuerpo a cuerpo (nivel 32)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 32)"
     },
     {
-      "id": "0x5496916",
+      "id": 88697110,
       "en": "Supreme",
-      "es": "Supremo",
-      "es (fem)": ""
+      "es": "Supremo"
     },
     {
-      "id": "0x695a9b3",
+      "id": 110471603,
       "en": "Components",
-      "es": "Componentes",
-      "es (fem)": ""
+      "es": "Componentes"
     },
     {
-      "id": "0x5496917",
+      "id": 88697111,
       "en": "Westfold",
-      "es": "Westfold",
-      "es (fem)": ""
+      "es": "Westfold"
     },
     {
-      "id": "0x5496918",
+      "id": 88697112,
       "en": "Eastemnet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe293775",
+      "id": 237582197,
       "en": "Melee Weapons (Level 35)",
-      "es": "Armas cuerpo a cuerpo (nivel 35)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 35)"
     },
     {
-      "id": "0x5496919",
+      "id": 88697113,
       "en": "Westemnet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4bb1b33",
+      "id": 79371059,
       "en": "Instruments",
-      "es": "Instrumentos",
-      "es (fem)": ""
+      "es": "Instrumentos"
     },
     {
-      "id": "0xe293778",
+      "id": 237582200,
       "en": "Melee Weapons (Level 38)",
-      "es": "Armas cuerpo a cuerpo (nivel 38)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 38)"
     },
     {
-      "id": "0x4e3ec18",
+      "id": 82045976,
       "en": "Ranged Weapons (Lossoth)",
-      "es": "Armas a distancia (Lossoth)",
-      "es (fem)": ""
+      "es": "Armas a distancia (Lossoth)"
     },
     {
-      "id": "0xfc1d741",
+      "id": 264361793,
       "en": "Light Armour (item level 326 / crit 328)",
-      "es": "Armadura ligera (nivel 326 / crít 328)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 326 / crít 328)"
     },
     {
-      "id": "0xcbd5854",
+      "id": 213735508,
       "en": "You have gained knowledge of the '[placeholder]' recipe for [placeholder]!\\n",
-      "es": "Has adquirido conocimiento de la receta '[placeholder]' para [placeholder]!\\n",
-      "es (fem)": ""
+      "es": "Has adquirido conocimiento de la receta '[placeholder]' para [placeholder]!\\n"
     },
     {
-      "id": "0xeb1d1d0",
+      "id": 246534608,
       "en": "Legendary Captain Emblems (Level 100)",
-      "es": "Emblemas legendarios de Capitán (nivel 100)",
-      "es (fem)": ""
+      "es": "Emblemas legendarios de Capitán (nivel 100)"
     },
     {
-      "id": "0xfc1d742",
+      "id": 264361794,
       "en": "Light Armour (item level 333 / crit 335)",
-      "es": "Armadura ligera (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 333 / crít 335)"
     },
     {
-      "id": "0xfc1d743",
+      "id": 264361795,
       "en": "Light Armour (item level 345 / crit 347)",
-      "es": "Armadura ligera (nivel 345 / crít 347)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 345 / crít 347)"
     },
     {
-      "id": "0xfc1d744",
+      "id": 264361796,
       "en": "Light Armour (item level 345 / crit 349)",
-      "es": "Armadura ligera (nivel 345 / crít 349)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 345 / crít 349)"
     },
     {
-      "id": "0xb4e1b1e",
+      "id": 189668126,
       "en": "Ranged Weapons (Level 60, Galadhrim)",
-      "es": "Armas a distancia (nivel 60, Galadhrim)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 60, Galadhrim)"
     },
     {
-      "id": "0xaa907d7",
+      "id": 178849751,
       "en": "Refining (Bulk)",
-      "es": "Refinamiento (a granel)",
-      "es (fem)": ""
+      "es": "Refinamiento (a granel)"
     },
     {
-      "id": "0xa5c93e2",
+      "id": 173839330,
       "en": "Leather",
-      "es": "Cuero",
-      "es (fem)": ""
+      "es": "Cuero"
     },
     {
-      "id": "0xe293786",
+      "id": 237582214,
       "en": "Melee Weapons (Level 66)",
-      "es": "Armas cuerpo a cuerpo (nivel 66)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 66)"
     },
     {
-      "id": "0xe293788",
+      "id": 237582216,
       "en": "Melee Weapons (Level 68)",
-      "es": "Armas cuerpo a cuerpo (nivel 68)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 68)"
     },
     {
-      "id": "0x6fbe214",
+      "id": 117170708,
       "en": "Pocket",
-      "es": "Bolsillo",
-      "es (fem)": ""
+      "es": "Bolsillo"
     },
     {
-      "id": "0x89bf354",
+      "id": 144438100,
       "en": "Medium Armour (Men of Dunland)",
-      "es": "Armadura media (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Armadura media (Hombres de Dunland)"
     },
     {
-      "id": "0xd5174a1",
+      "id": 223442081,
       "en": "Medium Armour (item level 323 / crit 326)",
-      "es": "Armadura media (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 323 / crít 326)"
     },
     {
-      "id": "0xd5174a2",
+      "id": 223442082,
       "en": "Medium Armour (item level 370 / crit 374)",
-      "es": "Armadura media (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 370 / crít 374)"
     },
     {
-      "id": "0xe293790",
+      "id": 237582224,
       "en": "Melee Weapons (Level 50)",
-      "es": "Armas cuerpo a cuerpo (nivel 50)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 50)"
     },
     {
-      "id": "0xd5174a3",
+      "id": 223442083,
       "en": "Ithil Medium Armour",
-      "es": "Armadura media Ithil",
-      "es (fem)": ""
+      "es": "Armadura media Ithil"
     },
     {
-      "id": "0xe293791",
+      "id": 237582225,
       "en": "Melee Weapons (Level 51)",
-      "es": "Armas cuerpo a cuerpo (nivel 51)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 51)"
     },
     {
-      "id": "0xd5174a4",
+      "id": 223442084,
       "en": "Gundabad Medium Armour",
-      "es": "Armadura media Gundabad",
-      "es (fem)": ""
+      "es": "Armadura media Gundabad"
     },
     {
-      "id": "0xd5174a5",
+      "id": 223442085,
       "en": "Umbari Medium Armour",
-      "es": "Armadura media Umbari",
-      "es (fem)": ""
+      "es": "Armadura media Umbari"
     },
     {
-      "id": "0x52b14a3",
+      "id": 86709411,
       "en": "Champion Horns",
-      "es": "Cuernos de Campeón",
-      "es (fem)": ""
+      "es": "Cuernos de Campeón"
     },
     {
-      "id": "0x2d67590",
+      "id": 47609232,
       "en": "Legendary Minstrel Songbooks (Level 100)",
-      "es": "Libros de canciones legendarios de Juglar (nivel 100)",
-      "es (fem)": ""
+      "es": "Libros de canciones legendarios de Juglar (nivel 100)"
     },
     {
-      "id": "0xe293794",
+      "id": 237582228,
       "en": "Melee Weapons (Level 54)",
-      "es": "Armas cuerpo a cuerpo (nivel 54)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 54)"
     },
     {
-      "id": "0x532570",
+      "id": 5449072,
       "en": "Legendary Warden Weapons (Level 100)",
-      "es": "Armas legendarias de Vigilante (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Vigilante (nivel 100)"
     },
     {
-      "id": "0xe293796",
+      "id": 237582230,
       "en": "Melee Weapons (Level 56)",
-      "es": "Armas cuerpo a cuerpo (nivel 56)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 56)"
     },
     {
-      "id": "0xc33fce2",
+      "id": 204733666,
       "en": "Ranged Weapons (The Riders of Stangard)",
-      "es": "Armas a distancia (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Armas a distancia (Los Jinetes de Stangard)"
     },
     {
-      "id": "0xe293798",
+      "id": 237582232,
       "en": "Melee Weapons (Level 58)",
-      "es": "Armas cuerpo a cuerpo (nivel 58)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 58)"
     },
     {
-      "id": "0xa41e7c5",
+      "id": 172091333,
       "en": "Legendary Lore-master Books (Level 65)",
-      "es": "Libros legendarios de Sabio (nivel 65)",
-      "es (fem)": ""
+      "es": "Libros legendarios de Sabio (nivel 65)"
     },
     {
-      "id": "0x94a56c1",
+      "id": 155866817,
       "en": "Ranged Weapons (item level 323 / crit 326)",
-      "es": "Armas a distancia (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 323 / crít 326)"
     },
     {
-      "id": "0x94a56c2",
+      "id": 155866818,
       "en": "Ranged Weapons(item level 370 / crit 374)",
-      "es": "Armas a distancia (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 370 / crít 374)"
     },
     {
-      "id": "0x58ea735",
+      "id": 93234997,
       "en": "Legendary Bridles",
-      "es": "Riendas legendarias",
-      "es (fem)": ""
+      "es": "Riendas legendarias"
     },
     {
-      "id": "0x43d1225",
+      "id": 71111205,
       "en": "Legendary Champion Weapons (Level 65)",
-      "es": "Armas legendarias de Campeón (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Campeón (nivel 65)"
     },
     {
-      "id": "0x94a56c3",
+      "id": 155866819,
       "en": "Ithil Ranged Weapons",
-      "es": "Armas a distancia Ithil",
-      "es (fem)": ""
+      "es": "Armas a distancia Ithil"
     },
     {
-      "id": "0x94a56c4",
+      "id": 155866820,
       "en": "Gundabad Ranged Weapons",
-      "es": "Armas a distancia Gundabad",
-      "es (fem)": ""
+      "es": "Armas a distancia Gundabad"
     },
     {
-      "id": "0xe2937a0",
+      "id": 237582240,
       "en": "Melee Weapons (Level 80)",
-      "es": "Armas cuerpo a cuerpo (nivel 80)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 80)"
     },
     {
-      "id": "0x99e65d4",
+      "id": 161375700,
       "en": "Metalsmith's Guild",
-      "es": "Guild de herreros",
-      "es (fem)": ""
+      "es": "Guild de herreros"
     },
     {
-      "id": "0x94a56c5",
+      "id": 155866821,
       "en": "Umbari Ranged Weapons",
-      "es": "Armas a distancia Umbari",
-      "es (fem)": ""
+      "es": "Armas a distancia Umbari"
     },
     {
-      "id": "0xd1894a3",
+      "id": 219714723,
       "en": "Ranged Weapons",
-      "es": "Armas a distancia",
-      "es (fem)": ""
+      "es": "Armas a distancia"
     },
     {
-      "id": "0xa27eb01",
+      "id": 170388225,
       "en": "Heavy Armour (item level 326 / crit 328)",
-      "es": "Armadura pesada (nivel 326 / crít 328)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 326 / crít 328)"
     },
     {
-      "id": "0xa27eb02",
+      "id": 170388226,
       "en": "Heavy Armour (item level 333 / crit 335)",
-      "es": "Armadura pesada (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 333 / crít 335)"
     },
     {
-      "id": "0xc5a33f2",
+      "id": 207238130,
       "en": "Light Armour",
-      "es": "Armadura ligera",
-      "es (fem)": ""
+      "es": "Armadura ligera"
     },
     {
-      "id": "0xa27eb03",
+      "id": 170388227,
       "en": "Heavy Armour (item level 345 / crit 347)",
-      "es": "Armadura pesada (nivel 345 / crít 347)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 345 / crít 347)"
     },
     {
-      "id": "0xe2937a5",
+      "id": 237582245,
       "en": "Melee Weapons (Level 85)",
-      "es": "Armas cuerpo a cuerpo (nivel 85)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 85)"
     },
     {
-      "id": "0xa27eb04",
+      "id": 170388228,
       "en": "Heavy Armour (item level 345 / crit 349)",
-      "es": "Armadura pesada (nivel 345 / crít 349)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 345 / crít 349)"
     },
     {
-      "id": "0x6b1ea62",
+      "id": 112323170,
       "en": "Melee Weapons (The Riders of Stangard)",
-      "es": "Armas cuerpo a cuerpo (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (Los Jinetes de Stangard)"
     },
     {
-      "id": "0x4ab2106",
+      "id": 78323974,
       "en": "Ranged Weapons (Level 66)",
-      "es": "Armas a distancia (nivel 66)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 66)"
     },
     {
-      "id": "0x4ab2108",
+      "id": 78323976,
       "en": "Ranged Weapons (Level 68)",
-      "es": "Armas a distancia (nivel 68)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 68)"
     },
     {
-      "id": "0x7a8cf03",
+      "id": 128503555,
       "en": "Heavy Armour (Epic)",
-      "es": "Armadura pesada (Épica)",
-      "es (fem)": ""
+      "es": "Armadura pesada (Épica)"
     },
     {
-      "id": "0x9851a3",
+      "id": 9982371,
       "en": "Gemstones",
-      "es": "Piedras preciosas",
-      "es (fem)": ""
+      "es": "Piedras preciosas"
     },
     {
-      "id": "0x3cb1994",
+      "id": 63642004,
       "en": "You have earned enough craft experience points to become [placeholder] [placeholder]. Please visit the LOTRO store to purchase the full profession.",
-      "es": "Has ganado suficientes puntos de experiencia de artesanía para convertirte en [placeholder] [placeholder]. Por favor, visita la tienda LOTRO para comprar la profesión completa.",
-      "es (fem)": ""
+      "es": "Has ganado suficientes puntos de experiencia de artesanía para convertirte en [placeholder] [placeholder]. Por favor, visita la tienda LOTRO para comprar la profesión completa."
     },
     {
-      "id": "0x3d37bd8",
+      "id": 64191448,
       "en": "Shields (Lossoth)",
-      "es": "Escudos (Lossoth)",
-      "es (fem)": ""
+      "es": "Escudos (Lossoth)"
     },
     {
-      "id": "0xe2937b2",
+      "id": 237582258,
       "en": "Melee Weapons (Level 72)",
-      "es": "Armas cuerpo a cuerpo (nivel 72)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 72)"
     },
     {
-      "id": "0x4ab2110",
+      "id": 78323984,
       "en": "Ranged Weapons (Level 50)",
-      "es": "Armas a distancia (nivel 50)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 50)"
     },
     {
-      "id": "0x14c41f3",
+      "id": 21774835,
       "en": "Tools (Guild)",
-      "es": "Herramientas (Guild)",
-      "es (fem)": ""
+      "es": "Herramientas (Guild)"
     },
     {
-      "id": "0x4ab2111",
+      "id": 78323985,
       "en": "Ranged Weapons (Level 51)",
-      "es": "Armas a distancia (nivel 51)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 51)"
     },
     {
-      "id": "0x8e107d5",
+      "id": 148965333,
       "en": "Legendary Champion Runes (Level 65)",
-      "es": "Runas legendarias de Campeón (nivel 65)",
-      "es (fem)": ""
+      "es": "Runas legendarias de Campeón (nivel 65)"
     },
     {
-      "id": "0x1694c92",
+      "id": 23678098,
       "en": "Legendary Beorning Carvings",
-      "es": "Grabados legendarios de beórnida",
-      "es (fem)": ""
+      "es": "Grabados legendarios de beórnida"
     },
     {
-      "id": "0x4ab2114",
+      "id": 78323988,
       "en": "Ranged Weapons (Level 54)",
-      "es": "Armas a distancia (nivel 54)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 54)"
     },
     {
-      "id": "0x4ab2116",
+      "id": 78323990,
       "en": "Ranged Weapons (Level 56)",
-      "es": "Armas a distancia (nivel 56)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 56)"
     },
     {
-      "id": "0x4ab2118",
+      "id": 78323992,
       "en": "Ranged Weapons (Level 58)",
-      "es": "Armas a distancia (nivel 58)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 58)"
     },
     {
-      "id": "0xaf8face",
+      "id": 184089294,
       "en": "Warden Battle Hymns",
-      "es": "Himnos de batalla de Vigilante",
-      "es (fem)": ""
+      "es": "Himnos de batalla de Vigilante"
     },
     {
-      "id": "0xc551e05",
+      "id": 206904837,
       "en": "Luck-stone Equipment",
-      "es": "Equipo de piedra de suerte",
-      "es (fem)": ""
+      "es": "Equipo de piedra de suerte"
     },
     {
-      "id": "0xb57d085",
+      "id": 190304389,
       "en": "Legendary Beorning Weapons (Level 65)",
-      "es": "Armas legendarias de beórnida (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de beórnida (nivel 65)"
     },
     {
-      "id": "0x4ab2120",
+      "id": 78324000,
       "en": "Ranged Weapons (Level 80)",
-      "es": "Armas a distancia (nivel 80)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 80)"
     },
     {
-      "id": "0x3a1eca3",
+      "id": 60943523,
       "en": "Traceries",
-      "es": "Tracerías",
-      "es (fem)": ""
+      "es": "Tracerías"
     },
     {
-      "id": "0x4ab2125",
+      "id": 78324005,
       "en": "Ranged Weapons (Level 85)",
-      "es": "Armas a distancia (nivel 85)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 85)"
     },
     {
-      "id": "0x7936885",
+      "id": 127101061,
       "en": "Legendary Rune-keeper Rune-bags (Level 65)",
-      "es": "Bolsas de runas legendarias de Maestro rúnicos (nivel 65)",
-      "es (fem)": ""
+      "es": "Bolsas de runas legendarias de Maestro rúnicos (nivel 65)"
     },
     {
-      "id": "0xe7909d4",
+      "id": 242813396,
       "en": "Scholar's Guild",
-      "es": "Guild de eruditos",
-      "es (fem)": ""
+      "es": "Guild de eruditos"
     },
     {
-      "id": "0x48b829c",
+      "id": 76251804,
       "en": "Crafting Journals",
-      "es": "Diarios de artesanía",
-      "es (fem)": ""
+      "es": "Diarios de artesanía"
     },
     {
-      "id": "0xb586b23",
+      "id": 190343971,
       "en": "Hobnanigans",
-      "es": "Hobnanigans",
-      "es (fem)": ""
+      "es": "Hobnanigans"
     },
     {
-      "id": "0x148e103",
+      "id": 21553411,
       "en": "Legendary Champion Runes",
-      "es": "Runas legendarias de Campeón",
-      "es (fem)": ""
+      "es": "Runas legendarias de Campeón"
     },
     {
-      "id": "0xd471354",
+      "id": 222761812,
       "en": "You have joined the [placeholder]!\\n",
-      "es": "Te has unido a [placeholder]!\\n",
-      "es (fem)": ""
+      "es": "Te has unido a [placeholder]!\\n"
     },
     {
-      "id": "0xe2937d0",
+      "id": 237582288,
       "en": "Melee Weapons (Level 90)",
-      "es": "Armas cuerpo a cuerpo (nivel 90)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 90)"
     },
     {
-      "id": "0x2c06bb4",
+      "id": 46164916,
       "en": "Compost",
-      "es": "Composta",
-      "es (fem)": ""
+      "es": "Composta"
     },
     {
-      "id": "0x3f6d4c2",
+      "id": 66507970,
       "en": "Components (Guild)",
-      "es": "Componentes (Guild)",
-      "es (fem)": ""
+      "es": "Componentes (Guild)"
     },
     {
-      "id": "0xe2937d5",
+      "id": 237582293,
       "en": "Melee Weapons (Level 95)",
-      "es": "Armas cuerpo a cuerpo (nivel 95)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 95)"
     },
     {
-      "id": "0x4ab2132",
+      "id": 78324018,
       "en": "Ranged Weapons (Level 72)",
-      "es": "Armas a distancia (nivel 72)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 72)"
     },
     {
-      "id": "0x3d66c14",
+      "id": 64384020,
       "en": "Wood",
-      "es": "Madera",
-      "es (fem)": ""
+      "es": "Madera"
     },
     {
-      "id": "0x5140534",
+      "id": 85198132,
       "en": "Legendary Warden Weapons",
-      "es": "Armas legendarias de Vigilante",
-      "es (fem)": ""
+      "es": "Armas legendarias de Vigilante"
     },
     {
-      "id": "0x9182a23",
+      "id": 152578595,
       "en": "Hunter/Warden Oils",
-      "es": "Aceites de Cazador/Vigilante",
-      "es (fem)": ""
+      "es": "Aceites de Cazador/Vigilante"
     },
     {
-      "id": "0x3d12f70",
+      "id": 64040816,
       "en": "Legendary Champion Weapons (Level 100)",
-      "es": "Armas legendarias de Campeón (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Campeón (nivel 100)"
     },
     {
-      "id": "0xfa37433",
+      "id": 262370355,
       "en": "Hunter Bow Chants",
-      "es": "Cantos de arco de Cazador",
-      "es (fem)": ""
+      "es": "Cantos de arco de Cazador"
     },
     {
-      "id": "0x2e4e7d7",
+      "id": 48555991,
       "en": "Smelting (Bulk)",
-      "es": "Fundición (a granel)",
-      "es (fem)": ""
+      "es": "Fundición (a granel)"
     },
     {
-      "id": "0xa1c6957",
+      "id": 169634135,
       "en": "Processing",
-      "es": "Procesamiento",
-      "es (fem)": ""
+      "es": "Procesamiento"
     },
     {
-      "id": "0xaf93075",
+      "id": 184103029,
       "en": "Battle Lore",
-      "es": "Lore de batalla",
-      "es (fem)": ""
+      "es": "Lore de batalla"
     },
     {
-      "id": "0x51b4137",
+      "id": 85672247,
       "en": "Legendary Burglar Weapons",
-      "es": "Armas legendarias de ladrón",
-      "es (fem)": ""
+      "es": "Armas legendarias de ladrón"
     },
     {
-      "id": "0xc896b04",
+      "id": 210332420,
       "en": "Rune-keeper Rune-stones (Guild)",
-      "es": "Piedras rúnicas de Maestro rúnicos (Guild)",
-      "es (fem)": ""
+      "es": "Piedras rúnicas de Maestro rúnicos (Guild)"
     },
     {
-      "id": "0xaf86364",
+      "id": 184050532,
       "en": "You no longer remember the '[placeholder]' recipe for [placeholder]!\\n",
-      "es": "Ya no recuerdas la receta '[placeholder]' para [placeholder]!\\n",
-      "es (fem)": ""
+      "es": "Ya no recuerdas la receta '[placeholder]' para [placeholder]!\\n"
     },
     {
-      "id": "0x4ab2150",
+      "id": 78324048,
       "en": "Ranged Weapons (Level 90)",
-      "es": "Armas a distancia (nivel 90)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 90)"
     },
     {
-      "id": "0x3fc1d71",
+      "id": 66854257,
       "en": "Light Armour (item level 323 / crit 326)",
-      "es": "Armadura ligera (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 323 / crít 326)"
     },
     {
-      "id": "0x3fc1d72",
+      "id": 66854258,
       "en": "Light Armour (item level 370 / crit 374)",
-      "es": "Armadura ligera (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 370 / crít 374)"
     },
     {
-      "id": "0x3fc1d73",
+      "id": 66854259,
       "en": "Ithil Light Armour",
-      "es": "Armadura ligera Ithil",
-      "es (fem)": ""
+      "es": "Armadura ligera Ithil"
     },
     {
-      "id": "0x4ad948e",
+      "id": 78484622,
       "en": "Minstrel Instruments (Galadhrim)",
-      "es": "Instrumentos de Juglar (Galadhrim)",
-      "es (fem)": ""
+      "es": "Instrumentos de Juglar (Galadhrim)"
     },
     {
-      "id": "0x3fc1d74",
+      "id": 66854260,
       "en": "Gundabad Light Armour",
-      "es": "Armadura ligera Gundabad",
-      "es (fem)": ""
+      "es": "Armadura ligera Gundabad"
     },
     {
-      "id": "0x3fc1d75",
+      "id": 66854261,
       "en": "Umbari Light Armour",
-      "es": "Armadura ligera Umbari",
-      "es (fem)": ""
+      "es": "Armadura ligera Umbari"
     },
     {
-      "id": "0x4ab2155",
+      "id": 78324053,
       "en": "Ranged Weapons (Level 95)",
-      "es": "Armas a distancia (nivel 95)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 95)"
     },
     {
-      "id": "0x2cecc04",
+      "id": 47107076,
       "en": "You will not have room in your inventory for the item resulting from this attempt!\\n",
-      "es": "¡No tendrás espacio en tu inventario para el objeto resultante de este intento!\\n",
-      "es (fem)": ""
+      "es": "¡No tendrás espacio en tu inventario para el objeto resultante de este intento!\\n"
     },
     {
-      "id": "0x148e133",
+      "id": 21553459,
       "en": "Crafted Relics",
-      "es": "Reliquias elaboradas",
-      "es (fem)": ""
+      "es": "Reliquias elaboradas"
     },
     {
-      "id": "0xd63c203",
+      "id": 224641539,
       "en": "Crafting Tools",
-      "es": "Herramientas de artesanía",
-      "es (fem)": ""
+      "es": "Herramientas de artesanía"
     },
     {
-      "id": "0xd647464",
+      "id": 224687204,
       "en": "Host of the West",
-      "es": "Hueste del Oeste",
-      "es (fem)": ""
+      "es": "Hueste del Oeste"
     },
     {
-      "id": "0x980bb20",
+      "id": 159431456,
       "en": "Legendary Burglar Tools (Level 100)",
-      "es": "Herramientas legendarias de ladrón (nivel 100)",
-      "es (fem)": ""
+      "es": "Herramientas legendarias de ladrón (nivel 100)"
     },
     {
-      "id": "0xb0c2404",
+      "id": 185345028,
       "en": "Tailor's Guild",
-      "es": "Guild de sastrería",
-      "es (fem)": ""
+      "es": "Guild de sastrería"
     },
     {
-      "id": "0x363d625",
+      "id": 56874533,
       "en": "Legendary Guardian Weapons (Level 65)",
-      "es": "Armas legendarias de Guardián (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Guardián (nivel 65)"
     },
     {
-      "id": "0x33fb637",
+      "id": 54507063,
       "en": "Light Armour (Level 7)",
-      "es": "Armadura ligera (nivel 7)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 7)"
     },
     {
-      "id": "0x41fbab4",
+      "id": 69188276,
       "en": "Extract",
-      "es": "Extraer",
-      "es (fem)": ""
+      "es": "Extraer"
     },
     {
-      "id": "0xd99e78e",
+      "id": 228190094,
       "en": "Shields (Théodred's Riders)",
-      "es": "Escudos (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Escudos (Los Jinetes de Théodred)"
     },
     {
-      "id": "0x51d0b35",
+      "id": 85789493,
       "en": "Legendary Lore-master Weapons",
-      "es": "Armas legendarias de Sabio",
-      "es (fem)": ""
+      "es": "Armas legendarias de Sabio"
     },
     {
-      "id": "0x94c94f5",
+      "id": 156013813,
       "en": "Legendary Beorning Carvings (Level 65)",
-      "es": "Grabados legendarios de beórnida (nivel 65)",
-      "es (fem)": ""
+      "es": "Grabados legendarios de beórnida (nivel 65)"
     },
     {
-      "id": "0xbfead3",
+      "id": 12577491,
       "en": "Legendary Rune-keeper Weapons",
-      "es": "Armas legendarias de Maestro rúnicos",
-      "es (fem)": ""
+      "es": "Armas legendarias de Maestro rúnicos"
     },
     {
-      "id": "0xd0b3d85",
+      "id": 218840453,
       "en": "Legendary Lore-master Weapons (Level 65)",
-      "es": "Armas legendarias de Sabio (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Sabio (nivel 65)"
     },
     {
-      "id": "0x2545388",
+      "id": 39080840,
       "en": "Medium Armour (Lossoth)",
-      "es": "Armadura media (Lossoth)",
-      "es (fem)": ""
+      "es": "Armadura media (Lossoth)"
     },
     {
-      "id": "0xfbb4b53",
+      "id": 263932755,
       "en": "Captain Tonics",
-      "es": "Tónicos de Capitán",
-      "es (fem)": ""
+      "es": "Tónicos de Capitán"
     },
     {
-      "id": "0x3ddb734",
+      "id": 64862004,
       "en": "Trail Food",
-      "es": "Comida de sendero",
-      "es (fem)": ""
+      "es": "Comida de sendero"
     },
     {
-      "id": "0x45c2580",
+      "id": 73147776,
       "en": "Legendary Captain Weapons (Level 100)",
-      "es": "Armas legendarias de Capitán (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Capitán (nivel 100)"
     },
     {
-      "id": "0x25cd983",
+      "id": 39639427,
       "en": "Minstrel Lute Strings",
-      "es": "Cuerdas de laúd de Juglar",
-      "es (fem)": ""
+      "es": "Cuerdas de laúd de Juglar"
     },
     {
-      "id": "0x29e92c3",
+      "id": 43946691,
       "en": "Guardian Tactics",
-      "es": "Tácticas de Guardián",
-      "es (fem)": ""
+      "es": "Tácticas de Guardián"
     },
     {
-      "id": "0xd51f513",
+      "id": 223474963,
       "en": "Medium Armour (Epic)",
-      "es": "Armadura media (Épica)",
-      "es (fem)": ""
+      "es": "Armadura media (Épica)"
     },
     {
-      "id": "0x79013c3",
+      "id": 126882755,
       "en": "Elves of Rivendell",
-      "es": "Elfos de Rivendel",
-      "es (fem)": ""
+      "es": "Elfos de Rivendel"
     },
     {
-      "id": "0x1e29377",
+      "id": 31626103,
       "en": "Melee Weapons (Level 7)",
-      "es": "Armas cuerpo a cuerpo (nivel 7)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 7)"
     },
     {
-      "id": "0xd6242b4",
+      "id": 224543412,
       "en": "Swords",
-      "es": "Espadas",
-      "es (fem)": ""
+      "es": "Espadas"
     },
     {
-      "id": "0x11a2d63",
+      "id": 18492771,
       "en": "Legendary Minstrel Songbooks",
-      "es": "Libros de canciones legendarios de Juglar",
-      "es (fem)": ""
+      "es": "Libros de canciones legendarios de Juglar"
     },
     {
-      "id": "0xb45c285",
+      "id": 189121157,
       "en": "Legendary Captain Weapons (Level 65)",
-      "es": "Armas legendarias de Capitán (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Capitán (nivel 65)"
     },
     {
-      "id": "0x451e4c0",
+      "id": 72475840,
       "en": "Potions (Guild: Level 100)",
-      "es": "Pociones (Guild: nivel 100)",
-      "es (fem)": ""
+      "es": "Pociones (Guild: nivel 100)"
     },
     {
-      "id": "0xf9b8f2e",
+      "id": 261852974,
       "en": "Cloaks (Théodred's Riders)",
-      "es": "Cloaks (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Cloaks (Los Jinetes de Théodred)"
     },
     {
-      "id": "0xa73dcd0",
+      "id": 175365328,
       "en": "Legendary Bridles - Level 100",
-      "es": "Riendas legendarias - Nivel 100",
-      "es (fem)": ""
+      "es": "Riendas legendarias - Nivel 100"
     },
     {
-      "id": "0x4969110",
+      "id": 76976400,
       "en": "Anórien",
-      "es": "Anórien",
-      "es (fem)": ""
+      "es": "Anórien"
     },
     {
-      "id": "0x4969111",
+      "id": 76976401,
       "en": "Doomfold",
-      "es": "Doomfold",
-      "es (fem)": ""
+      "es": "Doomfold"
     },
     {
-      "id": "0xe277a62",
+      "id": 237468258,
       "en": "Melee Weapons (item level 333 / crit 335)",
-      "es": "Armas cuerpo a cuerpo (nivel 333 / crít 335)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 333 / crít 335)"
     },
     {
-      "id": "0x4969112",
+      "id": 76976402,
       "en": "Ironfold",
-      "es": "Ironfold",
-      "es (fem)": ""
+      "es": "Ironfold"
     },
     {
-      "id": "0x4969113",
+      "id": 76976403,
       "en": "Minas Ithil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa052195",
+      "id": 168108437,
       "en": "Camp-fire",
-      "es": "Fogata",
-      "es (fem)": ""
+      "es": "Fogata"
     },
     {
-      "id": "0x96bdd7e",
+      "id": 158063998,
       "en": "Rune-keeper Rune-stones (Galadhrim)",
-      "es": "Piedras rúnicas de Maestro rúnicos (Galadhrim)",
-      "es (fem)": ""
+      "es": "Piedras rúnicas de Maestro rúnicos (Galadhrim)"
     },
     {
-      "id": "0x4969114",
+      "id": 76976404,
       "en": "Gundabad",
-      "es": "Gundabad",
-      "es (fem)": ""
+      "es": "Gundabad"
     },
     {
-      "id": "0x3f5fc38",
+      "id": 66452536,
       "en": "Heavy Armour (Lossoth)",
-      "es": "Armadura pesada (Lossoth)",
-      "es (fem)": ""
+      "es": "Armadura pesada (Lossoth)"
     },
     {
-      "id": "0x55c6933",
+      "id": 89942323,
       "en": "Weapons",
-      "es": "Armas",
-      "es (fem)": ""
+      "es": "Armas"
     },
     {
-      "id": "0x4969115",
+      "id": 76976405,
       "en": "Umbar",
-      "es": "Umbar",
-      "es (fem)": ""
+      "es": "Umbar"
     },
     {
-      "id": "0xc2d4472",
+      "id": 204293234,
       "en": "Jewellery (The Riders of Stangard)",
-      "es": "Joyería (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Joyería (Los Jinetes de Stangard)"
     },
     {
-      "id": "0xe1070b0",
+      "id": 235958448,
       "en": "Legendary Champion Runes (Level 100)",
-      "es": "Runas legendarias de Campeón (nivel 100)",
-      "es (fem)": ""
+      "es": "Runas legendarias de Campeón (nivel 100)"
     },
     {
-      "id": "0xeeb1dc5",
+      "id": 250289605,
       "en": "Legendary Captain Emblems (Level 65)",
-      "es": "Emblemas legendarios de Capitán (nivel 65)",
-      "es (fem)": ""
+      "es": "Emblemas legendarios de Capitán (nivel 65)"
     },
     {
-      "id": "0x5d5be8c",
+      "id": 97894028,
       "en": "Pocket (Special)",
-      "es": "Bolsillo (Especial)",
-      "es (fem)": ""
+      "es": "Bolsillo (Especial)"
     },
     {
-      "id": "0x9858d14",
+      "id": 159747348,
       "en": "Heavy Armour (Level 65, Malledhrim)",
-      "es": "Armadura pesada (nivel 65, Malledhrim)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 65, Malledhrim)"
     },
     {
-      "id": "0x73d106e",
+      "id": 121442414,
       "en": "Shields (Galadhrim)",
-      "es": "Escudos (Galadhrim)",
-      "es (fem)": ""
+      "es": "Escudos (Galadhrim)"
     },
     {
-      "id": "0xd6160f3",
+      "id": 224485619,
       "en": "Champion Runes",
-      "es": "Runas de Campeón",
-      "es (fem)": ""
+      "es": "Runas de Campeón"
     },
     {
-      "id": "0x628c213",
+      "id": 103334419,
       "en": "Guardian/Warden Shield-spikes",
-      "es": "Puntas de escudo de Guardián/Vigilante",
-      "es (fem)": ""
+      "es": "Puntas de escudo de Guardián/Vigilante"
     },
     {
-      "id": "0x4ab21c0",
+      "id": 78324160,
       "en": "Ranged Weapons (Level 20)",
-      "es": "Armas a distancia (nivel 20)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 20)"
     },
     {
-      "id": "0x969abc3",
+      "id": 157920195,
       "en": "Burglar Tools",
-      "es": "Herramientas de ladrón",
-      "es (fem)": ""
+      "es": "Herramientas de ladrón"
     },
     {
-      "id": "0x4ab21c2",
+      "id": 78324162,
       "en": "Ranged Weapons (Level 22)",
-      "es": "Armas a distancia (nivel 22)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 22)"
     },
     {
-      "id": "0x4ab21c5",
+      "id": 78324165,
       "en": "Ranged Weapons (Level 25)",
-      "es": "Armas a distancia (nivel 25)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 25)"
     },
     {
-      "id": "0x4053285",
+      "id": 67449477,
       "en": "Legendary Warden Weapons (Level 65)",
-      "es": "Armas legendarias de Vigilante (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Vigilante (nivel 65)"
     },
     {
-      "id": "0xd520a20",
+      "id": 223480352,
       "en": "Medium Armour (Level 90)",
-      "es": "Armadura media (nivel 90)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 90)"
     },
     {
-      "id": "0x4ab21c8",
+      "id": 78324168,
       "en": "Ranged Weapons (Level 28)",
-      "es": "Armas a distancia (nivel 28)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 28)"
     },
     {
-      "id": "0x35cac5e",
+      "id": 56405086,
       "en": "Examination",
-      "es": "Examinación",
-      "es (fem)": ""
+      "es": "Examinación"
     },
     {
-      "id": "0x9368540",
+      "id": 154568000,
       "en": "Legendary Rune-keeper Rune-bags (Level 100)",
-      "es": "Bolsas de runas legendarias de Maestro rúnicos (nivel 100)",
-      "es (fem)": ""
+      "es": "Bolsas de runas legendarias de Maestro rúnicos (nivel 100)"
     },
     {
-      "id": "0xd520a25",
+      "id": 223480357,
       "en": "Medium Armour (Level 95)",
-      "es": "Armadura media (nivel 95)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 95)"
     },
     {
-      "id": "0xb7a74a2",
+      "id": 192574626,
       "en": "Medium Armour (Guild)",
-      "es": "Armadura media (Guild)",
-      "es (fem)": ""
+      "es": "Armadura media (Guild)"
     },
     {
-      "id": "0x617b353",
+      "id": 102216531,
       "en": "Captain Pennants",
-      "es": "Estandartes de Capitán",
-      "es (fem)": ""
+      "es": "Estandartes de Capitán"
     },
     {
-      "id": "0x4ab21d0",
+      "id": 78324176,
       "en": "Ranged Weapons (Level 10)",
-      "es": "Armas a distancia (nivel 10)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 10)"
     },
     {
-      "id": "0x4ab21d2",
+      "id": 78324178,
       "en": "Ranged Weapons (Level 12)",
-      "es": "Armas a distancia (nivel 12)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 12)"
     },
     {
-      "id": "0xca45634",
+      "id": 212096564,
       "en": "Rune-keeper Parchments",
-      "es": "Pergaminos de Maestro rúnicos",
-      "es (fem)": ""
+      "es": "Pergaminos de Maestro rúnicos"
     },
     {
-      "id": "0x38ae68e",
+      "id": 59434638,
       "en": "Weapons (Galadhrim)",
-      "es": "Armas (Galadhrim)",
-      "es (fem)": ""
+      "es": "Armas (Galadhrim)"
     },
     {
-      "id": "0x4ab21d5",
+      "id": 78324181,
       "en": "Ranged Weapons (Level 15)",
-      "es": "Armas a distancia (nivel 15)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 15)"
     },
     {
-      "id": "0x7a27eb1",
+      "id": 128089777,
       "en": "Heavy Armour (item level 323 / crit 326)",
-      "es": "Armadura pesada (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 323 / crít 326)"
     },
     {
-      "id": "0x7a27eb2",
+      "id": 128089778,
       "en": "Heavy Armour (item level 370 / crit 374)",
-      "es": "Armadura pesada (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Armadura pesada (nivel 370 / crít 374)"
     },
     {
-      "id": "0x5fa6a51",
+      "id": 100297297,
       "en": "Cloaks (item level 323 / crit 326)",
-      "es": "Capas (nivel 323 / crít 326)",
-      "es (fem)": ""
+      "es": "Capas (nivel 323 / crít 326)"
     },
     {
-      "id": "0x7a27eb3",
+      "id": 128089779,
       "en": "Ithil Heavy Armour",
-      "es": "Armadura pesada Ithil",
-      "es (fem)": ""
+      "es": "Armadura pesada Ithil"
     },
     {
-      "id": "0x4ab21d8",
+      "id": 78324184,
       "en": "Ranged Weapons (Level 18)",
-      "es": "Armas a distancia (nivel 18)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 18)"
     },
     {
-      "id": "0x5fa6a52",
+      "id": 100297298,
       "en": "Cloaks (item level 370 / crit 374)",
-      "es": "Capas (nivel 370 / crít 374)",
-      "es (fem)": ""
+      "es": "Capas (nivel 370 / crít 374)"
     },
     {
-      "id": "0x7a27eb4",
+      "id": 128089780,
       "en": "Gundabad Heavy Armour",
-      "es": "Armadura pesada Gundabad",
-      "es (fem)": ""
+      "es": "Armadura pesada Gundabad"
     },
     {
-      "id": "0x7a66584",
+      "id": 128345476,
       "en": "Melee Weapons(item level 388 / crit 392)",
-      "es": "Armas cuerpo a cuerpo (nivel 388 / crít 392)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 388 / crít 392)"
     },
     {
-      "id": "0x7a27eb5",
+      "id": 128089781,
       "en": "Umbari Heavy Armour",
-      "es": "Armadura pesada Umbari",
-      "es (fem)": ""
+      "es": "Armadura pesada Umbari"
     },
     {
-      "id": "0xdefb1f4",
+      "id": 233812468,
       "en": "Woodworker's Guild",
-      "es": "Guild de carpintería",
-      "es (fem)": ""
+      "es": "Guild de carpintería"
     },
     {
-      "id": "0x371b3ee",
+      "id": 57783278,
       "en": "Potions (Théodred's Riders)",
-      "es": "Pociones (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Pociones (Los Jinetes de Théodred)"
     },
     {
-      "id": "0xead0d14",
+      "id": 246222100,
       "en": "Melee Weapons (Level 65, Malledhrim)",
-      "es": "Armas cuerpo a cuerpo (nivel 65, Malledhrim)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (nivel 65, Malledhrim)"
     },
     {
-      "id": "0xc1640d5",
+      "id": 202784981,
       "en": "Battle Lore (Guild)",
-      "es": "Saber de batalla (Guild)",
-      "es (fem)": ""
+      "es": "Saber de batalla (Guild)"
     },
     {
-      "id": "0x4ab21e0",
+      "id": 78324192,
       "en": "Ranged Weapons (Level 40)",
-      "es": "Armas a distancia (nivel 40)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 40)"
     },
     {
-      "id": "0x4ab21e2",
+      "id": 78324194,
       "en": "Ranged Weapons (Level 42)",
-      "es": "Armas a distancia (nivel 42)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 42)"
     },
     {
-      "id": "0xb01193",
+      "id": 11538835,
       "en": "Lore-master Amulets",
-      "es": "Amuletos de Sabio",
-      "es (fem)": ""
+      "es": "Amuletos de Sabio"
     },
     {
-      "id": "0x4ab21e5",
+      "id": 78324197,
       "en": "Ranged Weapons (Level 45)",
-      "es": "Armas a distancia (nivel 45)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 45)"
     },
     {
-      "id": "0xf62d903",
+      "id": 258136323,
       "en": "Minstrel Sheet Music",
-      "es": "Partituras de Juglar",
-      "es (fem)": ""
+      "es": "Partituras de Juglar"
     },
     {
-      "id": "0x4ab21e8",
+      "id": 78324200,
       "en": "Ranged Weapons (Level 48)",
-      "es": "Armas a distancia (nivel 48)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 48)"
     },
     {
-      "id": "0xd520a42",
+      "id": 223480386,
       "en": "Medium Armour (Level 72)",
-      "es": "Armadura media (nivel 72)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 72)"
     },
     {
-      "id": "0x7bfc1de",
+      "id": 130007518,
       "en": "Cooked Food (Théodred's Riders)",
-      "es": "Comida cocinada (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Comida cocinada (Los Jinetes de Théodred)"
     },
     {
-      "id": "0xd605894",
+      "id": 224417940,
       "en": "Quest",
-      "es": "Misión",
-      "es (fem)": ""
+      "es": "Misión"
     },
     {
-      "id": "0x4ab21f0",
+      "id": 78324208,
       "en": "Ranged Weapons (Level 30)",
-      "es": "Armas a distancia (nivel 30)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 30)"
     },
     {
-      "id": "0x38b8438",
+      "id": 59475000,
       "en": "Melee Weapons (Lossoth)",
-      "es": "Armas cuerpo a cuerpo (Lossoth)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (Lossoth)"
     },
     {
-      "id": "0xb63be42",
+      "id": 191086146,
       "en": "Light Armour (The Riders of Stangard)",
-      "es": "Armadura ligera (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Armadura ligera (Los Jinetes de Stangard)"
     },
     {
-      "id": "0x4ab21f2",
+      "id": 78324210,
       "en": "Ranged Weapons (Level 32)",
-      "es": "Armas a distancia (nivel 32)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 32)"
     },
     {
-      "id": "0x4ab21f5",
+      "id": 78324213,
       "en": "Ranged Weapons (Level 35)",
-      "es": "Armas a distancia (nivel 35)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 35)"
     },
     {
-      "id": "0xd520a50",
+      "id": 223480400,
       "en": "Medium Armour (Level 80)",
-      "es": "Armadura media (nivel 80)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 80)"
     },
     {
-      "id": "0x4ab21f8",
+      "id": 78324216,
       "en": "Ranged Weapons (Level 38)",
-      "es": "Armas a distancia (nivel 38)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 38)"
     },
     {
-      "id": "0xd520a55",
+      "id": 223480405,
       "en": "Medium Armour (Level 85)",
-      "es": "Armadura media (nivel 85)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 85)"
     },
     {
-      "id": "0xf7d52c3",
+      "id": 259871427,
       "en": "Rune-keeper Rune-stones",
-      "es": "Piedras rúnicas de Maestro rúnicos",
-      "es (fem)": ""
+      "es": "Piedras rúnicas de Maestro rúnicos"
     },
     {
-      "id": "0xd1663ce",
+      "id": 219571150,
       "en": "Grains",
-      "es": "Granos",
-      "es (fem)": ""
+      "es": "Granos"
     },
     {
-      "id": "0xd293f67",
+      "id": 220807015,
       "en": "Clothing",
-      "es": "Ropa",
-      "es (fem)": ""
+      "es": "Ropa"
     },
     {
-      "id": "0xd520a60",
+      "id": 223480416,
       "en": "Medium Armour (Level 50)",
-      "es": "Armadura media (nivel 50)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 50)"
     },
     {
-      "id": "0xb2d1314",
+      "id": 187503380,
       "en": "Shields (Malledhrim)",
-      "es": "Escudos (Malledhrim)",
-      "es (fem)": ""
+      "es": "Escudos (Malledhrim)"
     },
     {
-      "id": "0xd520a61",
+      "id": 223480417,
       "en": "Medium Armour (Level 51)",
-      "es": "Armadura media (nivel 51)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 51)"
     },
     {
-      "id": "0xd520a64",
+      "id": 223480420,
       "en": "Medium Armour (Level 54)",
-      "es": "Armadura media (nivel 54)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 54)"
     },
     {
-      "id": "0xac79c08",
+      "id": 180853768,
       "en": "Research (Guild)",
-      "es": "Investigación (Guild)",
-      "es (fem)": ""
+      "es": "Investigación (Guild)"
     },
     {
-      "id": "0xd520a66",
+      "id": 223480422,
       "en": "Medium Armour (Level 56)",
-      "es": "Armadura media (nivel 56)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 56)"
     },
     {
-      "id": "0xd520a68",
+      "id": 223480424,
       "en": "Medium Armour (Level 58)",
-      "es": "Armadura media (nivel 58)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 58)"
     },
     {
-      "id": "0x5cad792",
+      "id": 97179538,
       "en": "Medium Armour (The Riders of Stangard)",
-      "es": "Armadura media (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Armadura media (Los Jinetes de Stangard)"
     },
     {
-      "id": "0x9092463",
+      "id": 151594083,
       "en": "Beverages (Guild)",
-      "es": "Bebidas (Guild)",
-      "es (fem)": ""
+      "es": "Bebidas (Guild)"
     },
     {
-      "id": "0xb98b7a4",
+      "id": 194557860,
       "en": "Thorin's Hall",
-      "es": "Mansión de Thorin",
-      "es (fem)": ""
+      "es": "Mansión de Thorin"
     },
     {
-      "id": "0xadb35e8",
+      "id": 182138344,
       "en": "Minstrel Instruments (Lossoth)",
-      "es": "Instrumentos de Juglar (Lossoth)",
-      "es (fem)": ""
+      "es": "Instrumentos de Juglar (Lossoth)"
     },
     {
-      "id": "0x8844d39",
+      "id": 142888249,
       "en": "Jewellery (Guild)",
-      "es": "Joyería (Guild)",
-      "es (fem)": ""
+      "es": "Joyería (Guild)"
     },
     {
-      "id": "0x733ed52",
+      "id": 120843602,
       "en": "Medium Armour",
-      "es": "Armadura media",
-      "es (fem)": ""
+      "es": "Armadura media"
     },
     {
-      "id": "0xa99c10e",
+      "id": 177848590,
       "en": "Heavy Armour (Théodred's Riders)",
-      "es": "Armadura pesada (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Armadura pesada (Los Jinetes de Théodred)"
     },
     {
-      "id": "0xd520a76",
+      "id": 223480438,
       "en": "Medium Armour (Level 66)",
-      "es": "Armadura media (nivel 66)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 66)"
     },
     {
-      "id": "0x3aeda32",
+      "id": 61790770,
       "en": "Leather (Bulk)",
-      "es": "Cuero (a granel)",
-      "es (fem)": ""
+      "es": "Cuero (a granel)"
     },
     {
-      "id": "0xd520a78",
+      "id": 223480440,
       "en": "Medium Armour (Level 68)",
-      "es": "Armadura media (nivel 68)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 68)"
     },
     {
-      "id": "0xa5ad73e",
+      "id": 173725502,
       "en": "Ranged Weapons (Théodred's Riders)",
-      "es": "Armas a distancia (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Armas a distancia (Los Jinetes de Théodred)"
     },
     {
-      "id": "0x2edcad3",
+      "id": 49138387,
       "en": "The Wardens of Annúminas",
-      "es": "Los Vigilantes de Annúminas",
-      "es (fem)": ""
+      "es": "Los Vigilantes de Annúminas"
     },
     {
-      "id": "0x4999083",
+      "id": 77172867,
       "en": "Ranged Weapons (Guild)",
-      "es": "Armas a distancia (Guild)",
-      "es (fem)": ""
+      "es": "Armas a distancia (Guild)"
     },
     {
-      "id": "0x8ac1598",
+      "id": 145495448,
       "en": "Weapons (Lossoth)",
-      "es": "Armas (Lossoth)",
-      "es (fem)": ""
+      "es": "Armas (Lossoth)"
     },
     {
-      "id": "0x1ce3ef4",
+      "id": 30293748,
       "en": "Legendary Minstrel Weapons",
-      "es": "Armas legendarias de Juglar",
-      "es (fem)": ""
+      "es": "Armas legendarias de Juglar"
     },
     {
-      "id": "0xd520a80",
+      "id": 223480448,
       "en": "Medium Armour (Level 30)",
-      "es": "Armadura media (nivel 30)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 30)"
     },
     {
-      "id": "0xd520a82",
+      "id": 223480450,
       "en": "Medium Armour (Level 32)",
-      "es": "Armadura media (nivel 32)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 32)"
     },
     {
-      "id": "0xfbefd4e",
+      "id": 264174926,
       "en": "Light Armour (Théodred's Riders)",
-      "es": "Armadura ligera (Los Jinetes de Théodred)",
-      "es (fem)": ""
+      "es": "Armadura ligera (Los Jinetes de Théodred)"
     },
     {
-      "id": "0xe6bfd94",
+      "id": 241958292,
       "en": "Potions (Malledhrim)",
-      "es": "Pociones (Malledhrim)",
-      "es (fem)": ""
+      "es": "Pociones (Malledhrim)"
     },
     {
-      "id": "0xd520a85",
+      "id": 223480453,
       "en": "Medium Armour (Level 35)",
-      "es": "Armadura media (nivel 35)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 35)"
     },
     {
-      "id": "0xac13f24",
+      "id": 180436772,
       "en": "Light Armour (Level 65, Malledhrim)",
-      "es": "Armadura ligera (nivel 65, Malledhrim)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 65, Malledhrim)"
     },
     {
-      "id": "0xd520a88",
+      "id": 223480456,
       "en": "Medium Armour (Level 38)",
-      "es": "Armadura media (nivel 38)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 38)"
     },
     {
-      "id": "0xf31ed82",
+      "id": 254930306,
       "en": "Heavy Armour (The Riders of Stangard)",
-      "es": "Armadura pesada (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Armadura pesada (Los Jinetes de Stangard)"
     },
     {
-      "id": "0x11a7b53",
+      "id": 18512723,
       "en": "Burglar Signals",
-      "es": "Señales de ladrón",
-      "es (fem)": ""
+      "es": "Señales de ladrón"
     },
     {
-      "id": "0xd520a90",
+      "id": 223480464,
       "en": "Medium Armour (Level 40)",
-      "es": "Armadura media (nivel 40)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 40)"
     },
     {
-      "id": "0xc15a993",
+      "id": 202746259,
       "en": "Dyes (Guild)",
-      "es": "Tintes (Guild)",
-      "es (fem)": ""
+      "es": "Tintes (Guild)"
     },
     {
-      "id": "0xd520a92",
+      "id": 223480466,
       "en": "Medium Armour (Level 42)",
-      "es": "Armadura media (nivel 42)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 42)"
     },
     {
-      "id": "0xb6c1adc",
+      "id": 191634140,
       "en": "Armour (Special)",
-      "es": "Armadura (Especial)",
-      "es (fem)": ""
+      "es": "Armadura (Especial)"
     },
     {
-      "id": "0xd520a95",
+      "id": 223480469,
       "en": "Medium Armour (Level 45)",
-      "es": "Armadura media (nivel 45)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 45)"
     },
     {
-      "id": "0xb9623e3",
+      "id": 194388963,
       "en": "Melee Weapons (Guild)",
-      "es": "Armas cuerpo a cuerpo (Guild)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (Guild)"
     },
     {
-      "id": "0xd520a98",
+      "id": 223480472,
       "en": "Medium Armour (Level 48)",
-      "es": "Armadura media (nivel 48)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 48)"
     },
     {
-      "id": "0xb27e285",
+      "id": 187163269,
       "en": "Legendary Hunter Weapons (Level 65)",
-      "es": "Armas legendarias de Cazador (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Cazador (nivel 65)"
     },
     {
-      "id": "0xfead625",
+      "id": 267048485,
       "en": "Legendary Rune-keeper Weapons (Level 65)",
-      "es": "Armas legendarias de Maestro rúnicos (nivel 65)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Maestro rúnicos (nivel 65)"
     },
     {
-      "id": "0x41e7190",
+      "id": 69104016,
       "en": "Legendary Lore-master Books (Level 100)",
-      "es": "Libros legendarios de Sabio (nivel 100)",
-      "es (fem)": ""
+      "es": "Libros legendarios de Sabio (nivel 100)"
     },
     {
-      "id": "0x1502fec",
+      "id": 22032364,
       "en": "Mariner Satchels",
-      "es": "Alforjas de marinero",
-      "es (fem)": ""
+      "es": "Alforjas de marinero"
     },
     {
-      "id": "0x1cd8fb2",
+      "id": 30248882,
       "en": "Heavy Armour (Guild)",
-      "es": "Armadura pesada (Guild)",
-      "es (fem)": ""
+      "es": "Armadura pesada (Guild)"
     },
     {
-      "id": "0xd520aa0",
+      "id": 223480480,
       "en": "Medium Armour (Level 10)",
-      "es": "Armadura media (nivel 10)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 10)"
     },
     {
-      "id": "0x5bb5a44",
+      "id": 96164420,
       "en": "Rangers of Esteldín",
-      "es": "Montaraces de Esteldín",
-      "es (fem)": ""
+      "es": "Montaraces de Esteldín"
     },
     {
-      "id": "0x18045b3",
+      "id": 25183667,
       "en": "Hunter Books",
-      "es": "Libros de Cazador",
-      "es (fem)": ""
+      "es": "Libros de Cazador"
     },
     {
-      "id": "0xfad0cac",
+      "id": 262999212,
       "en": "Weapons (Special)",
-      "es": "Armas (Especial)",
-      "es (fem)": ""
+      "es": "Armas (Especial)"
     },
     {
-      "id": "0xd520aa2",
+      "id": 223480482,
       "en": "Medium Armour (Level 12)",
-      "es": "Armadura media (nivel 12)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 12)"
     },
     {
-      "id": "0x63c5983",
+      "id": 104618371,
       "en": "Tokens",
-      "es": "Símbolos",
-      "es (fem)": ""
+      "es": "Símbolos"
     },
     {
-      "id": "0xd520aa5",
+      "id": 223480485,
       "en": "Medium Armour (Level 15)",
-      "es": "Armadura media (nivel 15)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 15)"
     },
     {
-      "id": "0xfd7e8c4",
+      "id": 265808068,
       "en": "Brawler Belt Buckles",
-      "es": "Hebillas de cinturón de Peleador",
-      "es (fem)": ""
+      "es": "Hebillas de cinturón de Peleador"
     },
     {
-      "id": "0xd520aa8",
+      "id": 223480488,
       "en": "Medium Armour (Level 18)",
-      "es": "Armadura media (nivel 18)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 18)"
     },
     {
-      "id": "0xad262ec",
+      "id": 181560044,
       "en": "Shields (Special)",
-      "es": "Escudos (Especial)",
-      "es (fem)": ""
+      "es": "Escudos (Especial)"
     },
     {
-      "id": "0xd520ab0",
+      "id": 223480496,
       "en": "Medium Armour (Level 20)",
-      "es": "Armadura media (nivel 20)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 20)"
     },
     {
-      "id": "0x5b468ae",
+      "id": 95709358,
       "en": "Obsolete Item Conversion",
-      "es": "Conversión de objetos obsoletos",
-      "es (fem)": ""
+      "es": "Conversión de objetos obsoletos"
     },
     {
-      "id": "0xd9d34b3",
+      "id": 228406451,
       "en": "Strong Drinks",
-      "es": "Bebidas fuertes",
-      "es (fem)": ""
+      "es": "Bebidas fuertes"
     },
     {
-      "id": "0xd520ab2",
+      "id": 223480498,
       "en": "Medium Armour (Level 22)",
-      "es": "Armadura media (nivel 22)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 22)"
     },
     {
-      "id": "0xd11c213",
+      "id": 219267603,
       "en": "Lore-master Books",
-      "es": "Libros de Sabio",
-      "es (fem)": ""
+      "es": "Libros de Sabio"
     },
     {
-      "id": "0xe2f0d44",
+      "id": 237964612,
       "en": "Pipe-weed",
-      "es": "Hierba de pipa",
-      "es (fem)": ""
+      "es": "Hierba de pipa"
     },
     {
-      "id": "0xd520ab5",
+      "id": 223480501,
       "en": "Medium Armour (Level 25)",
-      "es": "Armadura media (nivel 25)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 25)"
     },
     {
-      "id": "0xe1dba13",
+      "id": 236829203,
       "en": "Housing Items",
-      "es": "Objetos de vivienda",
-      "es (fem)": ""
+      "es": "Objetos de vivienda"
     },
     {
-      "id": "0x227c953",
+      "id": 36161875,
       "en": "Council of the North",
-      "es": "Consejo del Norte",
-      "es (fem)": ""
+      "es": "Consejo del Norte"
     },
     {
-      "id": "0xd520ab8",
+      "id": 223480504,
       "en": "Medium Armour (Level 28)",
-      "es": "Armadura media (nivel 28)",
-      "es (fem)": ""
+      "es": "Armadura media (nivel 28)"
     },
     {
-      "id": "0x2ca2504",
+      "id": 46802180,
       "en": "Adornment",
-      "es": "Adorno",
-      "es (fem)": ""
+      "es": "Adorno"
     },
     {
-      "id": "0x24e6865",
+      "id": 38692965,
       "en": "Consumable Class Items",
-      "es": "Objetos de clase consumibles",
-      "es (fem)": ""
+      "es": "Objetos de clase consumibles"
     },
     {
-      "id": "0x5968b0e",
+      "id": 93752078,
       "en": "Jewellery (Level 60, Galadhrim)",
-      "es": "Joyería (nivel 60, Galadhrim)",
-      "es (fem)": ""
+      "es": "Joyería (nivel 60, Galadhrim)"
     },
     {
-      "id": "0xb5f75ce",
+      "id": 190805454,
       "en": "Cooked Food (Galadhrim)",
-      "es": "Comida cocinada (Galadhrim)",
-      "es (fem)": ""
+      "es": "Comida cocinada (Galadhrim)"
     },
     {
-      "id": "0x3fb6340",
+      "id": 66806592,
       "en": "Light Armour (Level 40)",
-      "es": "Armadura ligera (nivel 40)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 40)"
     },
     {
-      "id": "0x3fb6342",
+      "id": 66806594,
       "en": "Light Armour (Level 42)",
-      "es": "Armadura ligera (nivel 42)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 42)"
     },
     {
-      "id": "0xc3de605",
+      "id": 205383173,
       "en": "Luck-stone Tools",
-      "es": "Herramientas de piedra de la suerte",
-      "es (fem)": ""
+      "es": "Herramientas de piedra de la suerte"
     },
     {
-      "id": "0xa2d6785",
+      "id": 170747781,
       "en": "Legendary Minstrel Songbooks (Level 65)",
-      "es": "Libros de canciones legendarias de Juglar (nivel 65)",
-      "es (fem)": ""
+      "es": "Libros de canciones legendarias de Juglar (nivel 65)"
     },
     {
-      "id": "0x3fb6345",
+      "id": 66806597,
       "en": "Light Armour (Level 45)",
-      "es": "Armadura ligera (nivel 45)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 45)"
     },
     {
-      "id": "0x3fb6348",
+      "id": 66806600,
       "en": "Light Armour (Level 48)",
-      "es": "Armadura ligera (nivel 48)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 48)"
     },
     {
-      "id": "0x5598bbe",
+      "id": 89754558,
       "en": "Decorations",
-      "es": "Decoraciones",
-      "es (fem)": ""
+      "es": "Decoraciones"
     },
     {
-      "id": "0xead6fc0",
+      "id": 246247360,
       "en": "Legendary Rune-keeper Weapons (Level 100)",
-      "es": "Armas legendarias de Maestro rúnicos (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de Maestro rúnicos (nivel 100)"
     },
     {
-      "id": "0x88a83f3",
+      "id": 143295475,
       "en": "Shields (Guild)",
-      "es": "Escudos (Guild)",
-      "es (fem)": ""
+      "es": "Escudos (Guild)"
     },
     {
-      "id": "0xcca22d3",
+      "id": 214573779,
       "en": "Wild Essences",
-      "es": "Esencias salvajes",
-      "es (fem)": ""
+      "es": "Esencias salvajes"
     },
     {
-      "id": "0x2d85e98",
+      "id": 47734424,
       "en": "Research",
-      "es": "Investigación",
-      "es (fem)": ""
+      "es": "Investigación"
     },
     {
-      "id": "0x3fb6350",
+      "id": 66806608,
       "en": "Light Armour (Level 30)",
-      "es": "Armadura ligera (nivel 30)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 30)"
     },
     {
-      "id": "0x3fb6352",
+      "id": 66806610,
       "en": "Light Armour (Level 32)",
-      "es": "Armadura ligera (nivel 32)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 32)"
     },
     {
-      "id": "0xe8d483",
+      "id": 15258755,
       "en": "Burglar Throwing Weapons",
-      "es": "Armas arrojadizas de ladrón",
-      "es (fem)": ""
+      "es": "Armas arrojadizas de ladrón"
     },
     {
-      "id": "0xf6e28f5",
+      "id": 258877685,
       "en": "Crafting Lore",
-      "es": "Conocimiento de artesanía",
-      "es (fem)": ""
+      "es": "Conocimiento de artesanía"
     },
     {
-      "id": "0xa8af34e",
+      "id": 176878414,
       "en": "Repair Station",
-      "es": "Estación de reparación",
-      "es (fem)": ""
+      "es": "Estación de reparación"
     },
     {
-      "id": "0x3fb6355",
+      "id": 66806613,
       "en": "Light Armour (Level 35)",
-      "es": "Armadura ligera (nivel 35)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 35)"
     },
     {
-      "id": "0xc5d69e4",
+      "id": 207448548,
       "en": "Weaponsmith's Guild",
-      "es": "Guild de herrería",
-      "es (fem)": ""
+      "es": "Guild de herrería"
     },
     {
-      "id": "0x3fb6358",
+      "id": 66806616,
       "en": "Light Armour (Level 38)",
-      "es": "Armadura ligera (nivel 38)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 38)"
     },
     {
-      "id": "0xf0e1e23",
+      "id": 252583459,
       "en": "Melee Weapons",
-      "es": "Armas cuerpo a cuerpo",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo"
     },
     {
-      "id": "0x65fd038",
+      "id": 106942520,
       "en": "Lore-master Talismans (Lossoth)",
-      "es": "Talismanes de Sabio (Lossoth)",
-      "es (fem)": ""
+      "es": "Talismanes de Sabio (Lossoth)"
     },
     {
-      "id": "0x413f580",
+      "id": 68416896,
       "en": "Legendary Burglar Weapons (Level 100)",
-      "es": "Armas legendarias de ladrón (nivel 100)",
-      "es (fem)": ""
+      "es": "Armas legendarias de ladrón (nivel 100)"
     },
     {
-      "id": "0x8268f64",
+      "id": 136744804,
       "en": "Ranged Weapons (Level 65, Malledhrim)",
-      "es": "Armas a distancia (nivel 65, Malledhrim)",
-      "es (fem)": ""
+      "es": "Armas a distancia (nivel 65, Malledhrim)"
     },
     {
-      "id": "0xf71d753",
+      "id": 259118931,
       "en": "Vegetables",
-      "es": "Verduras",
-      "es (fem)": ""
+      "es": "Verduras"
     },
     {
-      "id": "0xb8cbc4e",
+      "id": 193772622,
       "en": "Light Armour (Level 60, Galadhrim)",
-      "es": "Armadura ligera (nivel 60, Galadhrim)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 60, Galadhrim)"
     },
     {
-      "id": "0x3fb6360",
+      "id": 66806624,
       "en": "Light Armour (Level 20)",
-      "es": "Armadura ligera (nivel 20)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 20)"
     },
     {
-      "id": "0x3fb6362",
+      "id": 66806626,
       "en": "Light Armour (Level 22)",
-      "es": "Armadura ligera (nivel 22)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 22)"
     },
     {
-      "id": "0x6e9c663",
+      "id": 115983971,
       "en": "Paints",
-      "es": "Pinturas",
-      "es (fem)": ""
+      "es": "Pinturas"
     },
     {
-      "id": "0x3fb6365",
+      "id": 66806629,
       "en": "Light Armour (Level 25)",
-      "es": "Armadura ligera (nivel 25)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 25)"
     },
     {
-      "id": "0xe1b6ab3",
+      "id": 236677811,
       "en": "Packs",
-      "es": "Paquetes",
-      "es (fem)": ""
+      "es": "Paquetes"
     },
     {
-      "id": "0x3fb6368",
+      "id": 66806632,
       "en": "Light Armour (Level 28)",
-      "es": "Armadura ligera (nivel 28)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 28)"
     },
     {
-      "id": "0x58d9a47",
+      "id": 93166151,
       "en": "Refining",
-      "es": "Refinamiento",
-      "es (fem)": ""
+      "es": "Refinamiento"
     },
     {
-      "id": "0xa6b9f28",
+      "id": 174825256,
       "en": "Lore-master Amulets (Lossoth)",
-      "es": "Amuletos de Sabio (Lossoth)",
-      "es (fem)": ""
+      "es": "Amuletos de Sabio (Lossoth)"
     },
     {
-      "id": "0x48ea0b5",
+      "id": 76456117,
       "en": "Equipable Class Items",
-      "es": "Objetos de clase equipables",
-      "es (fem)": ""
+      "es": "Objetos de clase equipables"
     },
     {
-      "id": "0xc6bead3",
+      "id": 208399059,
       "en": "Trap Parts",
-      "es": "Partes de trampa",
-      "es (fem)": ""
+      "es": "Partes de trampa"
     },
     {
-      "id": "0xb66c6c4",
+      "id": 191284932,
       "en": "Melee Weapons (Men of Dunland)",
-      "es": "Armas cuerpo a cuerpo (Hombres de Dunland)",
-      "es (fem)": ""
+      "es": "Armas cuerpo a cuerpo (Hombres de Dunland)"
     },
     {
-      "id": "0x3fb6370",
+      "id": 66806640,
       "en": "Light Armour (Level 10)",
-      "es": "Armadura ligera (nivel 10)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 10)"
     },
     {
-      "id": "0xfa439c2",
+      "id": 262420930,
       "en": "Trail Food (The Riders of Stangard)",
-      "es": "Comida de sendero (Los Jinetes de Stangard)",
-      "es (fem)": ""
+      "es": "Comida de sendero (Los Jinetes de Stangard)"
     },
     {
-      "id": "0x3fb6372",
+      "id": 66806642,
       "en": "Light Armour (Level 12)",
-      "es": "Armadura ligera (nivel 12)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 12)"
     },
     {
-      "id": "0x3fb6375",
+      "id": 66806645,
       "en": "Light Armour (Level 15)",
-      "es": "Armadura ligera (nivel 15)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 15)"
     },
     {
-      "id": "0x3fb6378",
+      "id": 66806648,
       "en": "Light Armour (Level 18)",
-      "es": "Armadura ligera (nivel 18)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 18)"
     },
     {
-      "id": "0x9e677c5",
+      "id": 166098885,
       "en": "Legendary Guardian Belts (Level 65)",
-      "es": "Cinturones legendarios de Guardián (nivel 65)",
-      "es (fem)": ""
+      "es": "Cinturones legendarios de Guardián (nivel 65)"
     },
     {
-      "id": "0x3d17833",
+      "id": 64059443,
       "en": "Hops",
-      "es": "Lúpulos",
-      "es (fem)": ""
+      "es": "Lúpulos"
     },
     {
-      "id": "0x12d15f3",
+      "id": 19731955,
       "en": "Cloaks",
-      "es": "Capas",
-      "es (fem)": ""
+      "es": "Capas"
     },
     {
-      "id": "0x3fb6380",
+      "id": 66806656,
       "en": "Light Armour (Level 80)",
-      "es": "Armadura ligera (nivel 80)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 80)"
     },
     {
-      "id": "0x43e0793",
+      "id": 71174035,
       "en": "Festival Items",
-      "es": "Objetos de festival",
-      "es (fem)": ""
+      "es": "Objetos de festival"
     },
     {
-      "id": "0x6bd40c",
+      "id": 7066636,
       "en": "Jewellery (Special)",
-      "es": "Joyería (Especial)",
-      "es (fem)": ""
+      "es": "Joyería (Especial)"
     },
     {
-      "id": "0x3fb6385",
+      "id": 66806661,
       "en": "Light Armour (Level 85)",
-      "es": "Armadura ligera (nivel 85)",
-      "es (fem)": ""
+      "es": "Armadura ligera (nivel 85)"
     },
     {
-      "id": "0x51b27e4",
+      "id": 85665764,
       "en": "Legendary Hunter Weapons",
-      "es": "Armas legendarias de Cazador",
-      "es (fem)": ""
+      "es": "Armas legendarias de Cazador"
     },
     {
-      "id": "0x9a004b9",
+      "id": 161481913,
       "en": "Jewellery",
-      "es": "Joyería",
-      "es (fem)": ""
+      "es": "Joyería"
     },
     {
-      "id": "0xaf0aef3",
+      "id": 183545587,
       "en": "Ingredients (Guild)",
-      "es": "Ingredientes (Guild)",
-      "es (fem)": ""
+      "es": "Ingredientes (Guild)"
     },
     {
-      "id": "0xf8ed933",
+      "id": 261019955,
       "en": "Potions",
-      "es": "Pociones",
-      "es (fem)": ""
+      "es": "Pociones"
     }
   ]
 }

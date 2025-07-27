@@ -2,184 +2,154 @@
   "id": 620925883,
   "txt": [
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'Half-orcs coming with fire? We'll be ready for them, [placeholder]! Grimslade will not fall today.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Unexpected Compliance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'I'll get these arrows to the wall straightaway, traveller! The archers of Grimslade will keep the torches at bay.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Speak with the prisoner",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Speak with Hildith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'I would ask you to go seek Grimbold now, but the half-orc dragged in by Húnbrit is asking to speak with you, and only you.\\n\\n'Will you treat with him before you leave? I would know what these half-orcs are about. I do not like their presence so near to Grimslade with our defences being what they are, and war on the very horizon.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "The prisoner anxiously calls you back",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'The [placeholder] who beat me! Took you long enough. Let me go, and I'll see that no harm comes to this little rat hole of a town.\\n\\n'What do you say? I'll return to the others, tell them to move on, and we'll stay out of your hair. Eh?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Warn the guard at the front gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "The prisoner claims that the Rohirrim have mistreated him",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Warn Frithferth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'Wait! Wait! What can I offer in exchange for my freedom?'\\n\\nYou ask the half-orc why he is so eager to be let go.\\n\\n'No particular reason, but for the cruel Rohirrim who have bullied and starved me since I was put here. My boys have done some thieving, but I can make that stop! Just let me go.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b6",
+      "id": 177082806,
       "en": "The bedding is clean, and better than many prisoners would hope to receive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "The half-orc brought in by Húnbrit has asked to treat with you in the jail of Grimslade.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "Scraps of recently-eaten food are plainly visible on this plate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "The half-orc prisoner is held captive in the jail of Grimslade.\\n\\nYou should speak with the half-orc prisoner.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "The half-orc prisoner is held captive in the jail of Grimslade, which is behind the Mead Hall.\\n\\nYou should speak with the half-orc prisoner.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "The half-orc prisoner is held captive in the jail of Grimslade.\\n\\nYou should examine the cell of the prisoner for signs of maltreatment.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "The half-orc prisoner is held captive in the jail of Grimslade.\\n\\nSay <rgb=#FF0000>bye</rgb> and take your leave of the prisoner.\\n\\n<rgb=#FF0000>EMOTE: Select the target and perform the emote to advance this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Speak with the prisoner",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Examine the cell to see if the prisoner has been mistreated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "The half-orc prisoner is held captive in the jail of Grimslade.\\n\\nYou should speak with the half-orc prisoner.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Speak with the half-orc prisoner",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01194",
+      "id": 246419860,
       "en": "Men who can help ready the town can be found near the front gate of Grimslade.\\n\\nYou should give orders to ready for an attack.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Say <rgb=#FF0000>bye</rgb> and take your leave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01199",
+      "id": 246419865,
       "en": "Hildith is in the Mead Hall of Grimslade.\\n\\nYou should speak with Hildith.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a3",
+      "id": 177082787,
       "en": "Half-orcs are coming to burn Grimslade! There is no time to lose",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'All right, you win! You win, I will tell you everything -- just please let me go. They are coming soon.\\n\\n'There will be fire and blood. They have torches and they will burn this town, as they did all the others. I do not want to burn! Free me! I have told you all!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "You hastily tell Hildith all that you heard, and that you have already readied the men at the wall for the coming battle.\\n\\n'If we live through this, remind me to change, [placeholder]. I have some reflecting to do....\\n\\n'Let us make ready! These half-orcs will not set Grimslade afire without a fight!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "The prisoner is eager to be freed from his cell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

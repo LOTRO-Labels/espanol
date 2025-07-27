@@ -2,286 +2,239 @@
   "id": 620845302,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'We have made it into the dungeons, [placeholder], and now it is up to you to find and rescue Bori. We believe he is being held in a cell in the East Wing.\\n\\n'We have managed to keep our infiltration silent thus far, and some of the guards in the East Wing may be asleep on the job. Let them sleep and rescue Bori!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'We ran into some trouble without you, [placeholder], but victory is ours this day! Let us leave this grim dungeon!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Dungeons of Dol Guldur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc5a75b2",
+      "id": 207254962,
       "en": "'I am at your service and your family's, of course! I will have this open at once!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Let us be free of these dungeons! I am ready to see the sun again, or as much of the sun as can be seen beneath the trees of Mirkwood.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'I am ready to be free of this place, [placeholder]! Let us leave these dungeons behind us!\\n\\n'Stay close to me, for I do not know the way out, and this darkness holds great fear for me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have failed to protect Bori",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Bori has been escorted to safety",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You have survived!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Ningloril is in the antechamber to the dungeons of Dol Guldur.\\n\\nThe Elves have stormed the dungeons, and Ningloril is waiting to speak to you in the main antechamber.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Bori is being held somewhere in the East Wing of the dungeons.\\n\\nFind Bori in the East Wing of the dungeons and free him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc94ed91",
+      "id": 211086737,
       "en": "'Our leader is slain!  Flee!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Bori is in a cell in the East Wing of the dungeons of Dol Guldur.\\n\\nBori is waiting for you to leave barrels of nightshade in the hallway to knock out any guards that arrive, then to escort him out of the dungeon.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc94ed92",
+      "id": 211086738,
       "en": "'Run away!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Ningloril has run into trouble in the antechamber of the dungeons.\\n\\nTalk to Ningloril when she has been freed from the cell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Talk to ELF BOSS LADY",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8689c11",
+      "id": 141073425,
       "en": "'Hurry on!  We must save Bori!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd14f259",
+      "id": 219476569,
       "en": "'You must hurry! We believe Bori waits for rescue in the East Wing!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8689c12",
+      "id": 141073426,
       "en": "'We will watch for the guards.  Hurry!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8689c13",
+      "id": 141073427,
       "en": "'Keep on going.  Bori is at the end of the hall.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8689c14",
+      "id": 141073428,
       "en": "'Quickly now.  We must not wait until they awaken.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8689c15",
+      "id": 141073429,
       "en": "'Go on.  We will protect your flank.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd73671",
+      "id": 198653553,
       "en": "'This is not the way, [placeholder].  Head to the East Wing!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8689c16",
+      "id": 141073430,
       "en": "'There is no time to waste. Keep moving!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd73672",
+      "id": 198653554,
       "en": "'Be quick.  We cannot keep secret for very long.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34dab41",
+      "id": 55421761,
       "en": "'You must head to the East Wing. We will guard this way!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Ningloril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34dab42",
+      "id": 55421762,
       "en": "'Be careful.  I hear great beasts lurking nearby.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Find Bori and talk to him",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Bori",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Escort Bori to safety",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Ningloril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Talk to BOSS LADY ELF",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf86679",
+      "id": 184051321,
       "en": "Ningloril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2c31",
+      "id": 863281,
       "en": "'My legs were numb.  They are better now!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2c32",
+      "id": 863282,
       "en": "'I hope you did well with the Nightshade barrels.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have entered the dungeons of Dol Guldur in search of the prisoner Bori with a small company of Elves.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2c33",
+      "id": 863283,
       "en": "'We are almost out of here.  Let us be on guard.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x21ad401",
+      "id": 35312641,
       "en": "'You must be Bori...I thought we were here to rescue you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76f7175",
+      "id": 124744053,
       "en": "'Chaaaaaarrrrrrgggge!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba40741",
+      "id": 195299137,
       "en": "'Hurry!  Head to the east door!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba40742",
+      "id": 195299138,
       "en": "'Quickly now!  Bori is being held in the Eastern Wing.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbabdd34",
+      "id": 195812660,
       "en": "You hear screams in the distance as great bells begin to echo throughout the dungeon!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc26571",
+      "id": 12739953,
       "en": "'Pick up these Nightshade Barrels and leave them in the corridor to render the guards unconscious!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba40743",
+      "id": 195299139,
       "en": "'The others are waiting by the East door.  We will guard this door.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68ec945",
+      "id": 110020933,
       "en": "'Death to the intruders!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'[placeholder], you have come for me at last! I did not dare to hope for rescue, but I cannot deny that I am pleased to see you!\\n\\n'You need to make ready for our escape -- pick up some of these barrels of nightshade and bring them out into the hall. If any additional guards are on their way, the fumes from the nightshade should render them unconscious!\\n\\n'Let me know when you have adequately prepared, my friend! At that time we will make our escape!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

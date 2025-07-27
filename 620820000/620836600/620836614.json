@@ -2,88 +2,74 @@
   "id": 620836614,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have struck the training-dummy with Shield Swipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your trainer wants you to use your new skills to prove that you are ready to face the many dangers that exist in the world. ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Even in this refuge there are threats that we must confront. You will need to know how to defend yourself and push back these threats.\\n\\n'If you wish to survive, you must learn skills from others, like myself. We can guide you through your training and help you to become stronger.\\n\\n'Learn the skill <rgb=#00ff00>Shield Swipe</rgb> from me and show me that my teaching has given you mastery by striking the practice dummy nearby.'\\n\\nHINT:\\n\\nGuardians rely on <rgb=#ffff00>Reactive Skills</rgb> to deal damage and generate <rgb=#ff0000>Threat</rgb> against their enemies.  <rgb=#00ff00>Shield Swipe</rgb> requires that the Guardian <rgb=#ffff00>Block</rgb> an incoming enemy attack before they can use the skill.  Head over to the <rgb=#ff0000>Training-Dummies</rgb> to the north of the trainer and attack it until you successfully block one of their attacks.  If you're having trouble getting a block, try using <rgb=#00ff00>Guardian's Ward</rgb> to increase your chances of blocking enemy attacks.  Once you have blocked an attack you will be able to use your <rgb=#00ff00>Shield Swipe</rgb> skill.  Strike the <rgb=#ff0000>Targeting Dummy</rgb> with <rgb=#00ff00>Shield Swipe</rgb>.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "You should speak with the trainer again and learn the skill <rgb=#00ff00>Shield Swipe</rgb>. Use your new skill on the training-dummy nearby.\\n\\n<rgb=#00ff00>NOTE: Use the trainer and select Train Guardian Skills to open the skill selection panel. Left-click on a skill to highlight it and then left-click the Train button at the bottom of the skill selection panel -- or double-click the skill -- and you will successfully purchase the skill.</rgb>\\n\\nHINT:\\n\\nGuardians rely on <rgb=#ffff00>Reactive Skills</rgb> to deal damage and generate <rgb=#ff0000>Threat</rgb> against their enemies.  <rgb=#00ff00>Shield Swipe</rgb> requires that the Guardian <rgb=#ffff00>Block</rgb> an incoming enemy attack before they can use the skill.  Head over to the <rgb=#ff0000>Training-Dummies</rgb> to the north of the trainer and attack it until you successfully block one of their attacks.  If you're having trouble getting a block, try using <rgb=#00ff00>Guardian's Ward</rgb> to increase your chances of blocking enemy attacks.  Once you have blocked an attack you will be able to use your <rgb=#00ff00>Shield Swipe</rgb> skill.  Strike the <rgb=#ff0000>Targeting Dummy</rgb> with <rgb=#00ff00>Shield Swipe</rgb>.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Yes, I sensed that you were well-prepared, [placeholder]. \\n\\n'Speak with Bolli and tell him that I believe you are ready.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Guardian Trainer is in Frerin's Court.\\n\\nNow that you have successfully used your newly-learned skill, you should return to your trainer and tell him of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Make your way to Bolli at Edhelion and tell him that you have finished your meditation and prepared yourself for battle.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Strike the training-dummy with your new skill and return to me. We must make certain that you are prepared to stand against the dangers of Middle-earth.'\\n\\nHINT:\\n\\nGuardians rely on <rgb=#ffff00>Reactive Skills</rgb> to deal damage and generate <rgb=#ff0000>Threat</rgb> against their enemies.  <rgb=#00ff00>Shield Swipe</rgb> requires that the Guardian <rgb=#ffff00>Block</rgb> an incoming enemy attack before they can use the skill.  Head over to the <rgb=#ff0000>Training-Dummies</rgb> to the north of the trainer and attack it until you successfully block one of their attacks.  If you're having trouble getting a block, try using <rgb=#00ff00>Guardian's Ward</rgb> to increase your chances of blocking enemy attacks.  Once you have blocked an attack you will be able to use your <rgb=#00ff00>Shield Swipe</rgb> skill.  Strike the <rgb=#ff0000>Targeting Dummy</rgb> with <rgb=#00ff00>Shield Swipe</rgb>.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Yes, I knew that you were well prepared [placeholder]. \\n\\n'Speak with Bolli and tell him that I believe you are ready.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'I will teach you more when you are ready to learn, for the moment you should speak with Bolli.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Strike the training-dummy with Shield Swipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to the Guardian Trainer at Frerin's Court",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Speak with Bolli",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Intro: A Guardian's Shield Swipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

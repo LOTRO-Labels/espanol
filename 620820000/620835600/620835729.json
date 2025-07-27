@@ -2,100 +2,84 @@
   "id": 620835729,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have found mining records, but they contain some curious information.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "This coffer does not contain any mining records.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "These shelves do not contain any mining records.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Bróin is unsure of what he should be doing and wants you to help him try and find some way of helping Bori, captured by the forces of Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The messenger sent by Bróin was very clear that we should deal first with the corruption within Buzun-ghâr. Yet once that was done, his master desired greatly that you visit him again on the Peaceful Path, located in the Mustering Hall, east of Sulnul-dûm and west of the Stone Hall, here along Durin's Way. The entrance to the Peaceful Path is north-east of Buzun-ghâr.\\n\\n'If you will allow me this, [placeholder], I must tell you that Bróin has not been the same since you returned him to us; it is no fault of his own, for he endured much in the watery den of the Watcher, curse its name, but the son of Brogur may be now a little touched in the head. And then to lose his cousin Bori to the forces of Mazog! It cannot have helped.\\n\\n'Treat him kindly and with patience, [placeholder], but if the requests he makes of you seem a little peculiar, you will at least know the cause.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Bróin is resting on the Peaceful Path, located in the Mustering Hall, east of Sulnul-dûm and west of the Stone Hall, along Durin's Way. The entrance to the Peaceful Path is north-east of Buzun-ghâr.\\n\\nBróin has sent word that he wishes to speak with you again. Orvar told you to treat Bróin kindly, believing that his trials in the watery den of the Watcher and losing his cousin to the forces of Mazog may have affected him deeply.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Hello again, [placeholder]. My messenger returned from Buzun-ghâr with the news that you were in the depths trying to end the corruption that was found in that passage; I see that you were successful.'\\n\\nBróin seems about to say something else, but decides against it. After an uncomfortable pause, he begins again, and this time the words come in a torrent.\\n\\n'I cannot understand why we waste so much effort on such insignificant tasks while my cousin Bori languishes in the dungeons of Mazog! Why still do my father's dwarves mine while Bori is held? He may not still live, but if he does, just as I endured in the watery den of the Watcher, could it not be that every hour we waste brings him closer to death at the hands of the Orcs? And still no one does anything!'\\n\\nBróin takes a long breath, making an effort to calm himself.\\n\\n'My father has asked me to search for records of mined nodes in Khazad-dûm, but I cannot bring myself to do such useless work. If you will do it in my place, I can continue trying to think of some way to help Bori. Look for these records in any of the old archives in the Great Delving: the Chambers of Wisdom, Knowledge, or Deep Thought, or in Katûb-zahar.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Chambers of Wisdom, Knowledge, and Deep Thought can be found throughout the Great Delving, as can Katûb-zahar. Any of these places may have the mining records Bróin was tasked with finding.\\n\\nBróin is dissatisfied with the mindless tasks his father Brogur has assigned him, and he is extremely frustrated that the dwarves are doing such work as this while Bori remains prisoner to the forces of Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Bróin is on the Peaceful Path, located in the Mustering Hall, east of Sulnul-dûm and west of the Stone Hall, along Durin's Way. The entrance to the Peaceful Path is north-east of Buzun-ghâr.\\n\\nYou have recovered some of the mining records that Bróin's father wanted him to find, but they include some curious details in which Bróin will be most interested.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The messenger sent by Bróin was very clear that we should deal first with the corruption within Buzun-ghâr. Once that was done, his master desired that you come visit him again on the Peaceful Path, located in the Mustering Hall, east of Sulnul-dûm and west of the Stone Hall, here along Durin's Way. The entrance to the Peaceful Path is north-east of Buzun-ghâr.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You have returned with the mining records? My father will be pleased, even if I am not. Why must we waste so much time on meaningless tasks such as this when my cousin remains a prisoner of Mazog?'\\n\\nBróin takes the mining records from you with a sigh, but as he reads, his eyes widen and his face brightens.\\n\\n'Do you... do you understand what you have found, [placeholder]? Ha ha! These are not simple mining records at all! These pages may hold the key to rescuing my cousin Bori! Listen to this:\\n\\n'\\qMelkólf Stonecarver commissioned for detail work on rear wall of Rushdurinul during night-time for completion of Zurr-thurkh; special instructions withheld by order of Durin.\\q\\n\\n'The word Rushdurinul drew my attention, [placeholder], for that is the name of the throne of Durin, the very throne that Mazog has claimed for himself. To then see the name Zurr-thurkh, or \\qsecret road...\\q could it be that this dwarf, this Melkólf Stonecarver, was tasked with creating a secret passage out of Durin's throne room for the king to use in the event of danger? If this passage was completed, it might be used to gain access to Mazog! It might be used to rescue my cousin Bori!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'What use are mining records when cousin Bori remains a prisoner of the Orcs? This is maddening, [placeholder]!\\n\\n'My father wanted me to search for records of nodes mined in Khazad-dûm, but I refuse to do this while Bori remains captive. If you will do this for me, I will stay behind and try to come up with some means of rescuing Bori from the dungeons of Mazog!\\n\\n'Mining records may be found in the various archives in the Great Delving: the Chambers of Wisdom, Knowledge, or Deep Thought, and in Katûb-zahar. One set of mining records should be enough for my father. Bring them here when you find some. A waste of time!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'You have not returned with the mining records, [placeholder], and I cannot blame you. What a waste of time!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Find mining records for Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring mining records to Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Chapter 6: Hewers of Stone",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

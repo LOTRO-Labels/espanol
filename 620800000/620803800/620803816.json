@@ -2,106 +2,89 @@
   "id": 620803816,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have collected Brandy Wine",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Collected a glass of Brandy Wine",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Time expired!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have received an order to fill a delivery to a member of the Inn League who has been stranded away from the festival this season.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I have here a list of requests to assist Inn League members in need, stranded away from home without the support of their beer-loving brethren. It seems they miss their favourite drinks, or in some cases they've never even tasted them!\\n\\n'Saerthuithel, an Elf who passed through here not long ago, wishes to sample one of our Shire Wines -- and a fine one at that -- from The Golden Perch in Stock. It is our own Brandy Wine, of which we are very proud.\\n\\n'You should head to Stock to purchase some Brandy Wine from The Golden Perch Inn, and then bring it to Saerthuithel in the Trollshaws.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Golden Perch Inn is the village of Stock in the Shire.\\n\\nYou should pick up some Brandy Wine from the Golden Perch for delivery to Saerthuithel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Hail, friend, and welcome to Echad Candelleth. Are you perhaps travelling into the South? Or, as my heart hopes, are you heading to the West, perhaps into the land of the Halflings?\\n\\n'You see, I travelled through there not many days hence and met a merry party of Halflings in one of their inns, the Golden Perch. These Halflings were all members of something they called an \\qInn League.\\q Unlike most of their kin, who seemed suspicious of outsiders, they were most welcoming, even inviting me into their League. While I was among them, they gave me something they called \\qBrandy Wine.\\q It was a simple wine, but a very pleasant drink. Now that I am far from their lands, I find that I miss this wine, perhaps because it reminds of their pleasant company.\\n\\n'If in your travels you find yourself near the Golden Perch, please buy for me a glass of their wine. I would be most grateful for this favour!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Saerthuithel is at Echad Candelleth in Tâl Bruinen, far to the east of the Shire.\\n\\nSaerthuithel has asked you to bring her a glass of \\qBrandy Wine\\q from the Golden Perch. Once you have the wine, bring it back to her.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Brandy Wine can be found at the inn in Stock. Have you travelled to The Golden Perch yet?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Ah, [placeholder], you have done me a great favour! You have brought me the Hobbit's wine. My thanks.\\n\\n'I shall enjoy it and reflect upon those simple folk. It is a good reminder of all that needs to be saved from the darkness that grows in the East.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'I would dearly like to try the Brandy Wine from the Shire.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Greetings again, [placeholder]. Have your travels taken you far yet? Please do not forget that if you happen to be travelling through the Shire to obtain a glass of \\qBrandy Wine\\q for me from the Golden Perch in Stock.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect Brandy Wine from the Golden Perch",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring the Brandy Wine to Saerthuithel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Collect a glass of Brandy Wine",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Return with the Brandy Wine before time expires!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Simple Wine",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

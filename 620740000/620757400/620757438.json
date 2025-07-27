@@ -2,562 +2,469 @@
   "id": 620757438,
   "txt": [
     {
-      "id": "0x76debd4",
+      "id": 124644308,
       "en": "You must not be in a Kinship to use #1:{the [!n]}#1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd91aab4",
+      "id": 227650228,
       "en": "That item is locked.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a95134",
+      "id": 27873588,
       "en": "Journey could not be completed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xebf117d",
+      "id": 247402877,
       "en": "You cannot pick up [placeholder], you do not have permission to remove decorations from this house.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4db7329",
+      "id": 81490729,
       "en": "That item has been used too recently to use it again.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcb64db",
+      "id": 264987867,
       "en": "^[placeholder] should not be equipped as you do not meet its requirements.  This item will be unequipped if you do not correct this condition.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd28fb0c",
+      "id": 220789516,
       "en": "This private encounter is full.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0071e3",
+      "id": 251687395,
       "en": "Select #1:[placeholder] more #1:{target[1]|targets} for #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee6def3",
+      "id": 250011379,
       "en": "You are the wrong class to use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x63e8f02",
+      "id": 104763138,
       "en": "You cannot use that container right now, it is currently being viewed by someone else.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c47b42",
+      "id": 79985474,
       "en": "Error attempting to enter private encounter.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x296c905",
+      "id": 43436293,
       "en": "You are the wrong race to use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5f6675",
+      "id": 257910389,
       "en": "That is not a valid target for this item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9292529",
+      "id": 153691433,
       "en": "Your [placeholder] does not fit the lock.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcef88e5",
+      "id": 217024741,
       "en": "You can't take that right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x742cb4c",
+      "id": 121817932,
       "en": "You have trained skills which conflict with this item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b8e323",
+      "id": 45671203,
       "en": "That item no longer exists.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x948ad37",
+      "id": 155757879,
       "en": "Your max vitals are too low to use this item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc6fe747",
+      "id": 208660295,
       "en": "Your [placeholder] can no longer be equipped because you no longer meet its requirements. If this continues, it will be unequipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdbc72d5",
+      "id": 230453973,
       "en": "This NPC has nothing to say to you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f542ab",
+      "id": 167068331,
       "en": "An item has been unequipped, you no longer meet its requirements!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbdfd724",
+      "id": 199218980,
       "en": "The item is in use.  Try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x775fe04",
+      "id": 125173252,
       "en": "You must use the correct Glyph to enter this Vault.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1cb319",
+      "id": 203207449,
       "en": "You can only use this item when it is on a hook.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f5150",
+      "id": 7295312,
       "en": "Unable to find a Private Encounter for your group.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a0e944",
+      "id": 161540420,
       "en": "Item use interrupted.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2cb4717",
+      "id": 46876439,
       "en": "Your alignment level is too corrupt to use this item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa28986e",
+      "id": 170432622,
       "en": "You have been bound to this milestone.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f3c677",
+      "id": 99862135,
       "en": "Your rank in your Kinship is too low to use #1:{the [!n]}#1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b59ec9",
+      "id": 129343177,
       "en": "This private encounter is not ready to accept players yet.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x597eb17",
+      "id": 93842199,
       "en": "Using #1:{the [!n]}#1:[placeholder] will cost #2:[placeholder] silver.\\n\\nDo you wish to proceed?\\n\\n(#3:[placeholder] #3:{second[1] | seconds}.)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcefe95",
+      "id": 265223829,
       "en": "You can't use that right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e69f04",
+      "id": 149331716,
       "en": "Shrine use canceled.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x20e18b4",
+      "id": 34478260,
       "en": "You cannot edit this blank item at this time, you would exceed the inventory limit for custom text items.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbaa2300",
+      "id": 195699456,
       "en": "You no longer meet the requirements to wield {the[!n]} [placeholder]. Unequipping!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4120e4",
+      "id": 239149284,
       "en": "{The[!n]} [placeholder] cannot be used during combat.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x85ebf6e",
+      "id": 140427118,
       "en": "You do not have permission to use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9fea42",
+      "id": 262138434,
       "en": "Usage failed because of a general usage system error (err: [placeholder]).\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa34ed42",
+      "id": 171240770,
       "en": "You have nothing selected.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe795499",
+      "id": 242832537,
       "en": "The item must be in your inventory to use.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6746e9",
+      "id": 191317737,
       "en": "You are too busy to use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xefa6c15",
+      "id": 251292693,
       "en": "You do not match the Quest requirements for picking that up.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1883184",
+      "id": 25702788,
       "en": "There was an error placing you outside of the house you exited, you have been placed at the boot point for the house instead.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x984bfec",
+      "id": 159694828,
       "en": "Your level is too high to use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c96f1f",
+      "id": 164196127,
       "en": "Using #1:{the[!n]} #1:[placeholder] with #2:{the[!n]} #2:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc39d6b9",
+      "id": 205117113,
       "en": "Select a target for {the[!n]} [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ab0464",
+      "id": 95093860,
       "en": "You can't enter a private encounter of that type from here.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c2ca05",
+      "id": 63097349,
       "en": "You fail to move to that item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8085815",
+      "id": 134764565,
       "en": "Travelling...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b8fad3",
+      "id": 79231699,
       "en": "General private encounter error.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98146a5",
+      "id": 159467173,
       "en": "You can't use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5cdb175",
+      "id": 97366389,
       "en": "You can't be the creator of more than one private encounter.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf02f9f5",
+      "id": 251853301,
       "en": "You fail to move to the item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x89086d5",
+      "id": 143689429,
       "en": "You already know the skill line bestowed by {the[!n]} [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aa1cb",
+      "id": 5939659,
       "en": "^[placeholder] has been unequipped because it no longer is allowed in the [placeholder] slot.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4fb2ce2",
+      "id": 83569890,
       "en": "You can't create a private encounter while the member of another encounter.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b5e0e4",
+      "id": 62251236,
       "en": "That item is on your trade offer list.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6059a4",
+      "id": 6314404,
       "en": "You already have a Private Encounter reserved.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45439ab",
+      "id": 72628651,
       "en": "That item cannot be locked or unlocked.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x72a0464",
+      "id": 120194148,
       "en": "That Item Is Reserved For Another Player.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2cbcaad",
+      "id": 46910125,
       "en": "item",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf7fcbb",
+      "id": 184024251,
       "en": "Your [placeholder] fits the lock.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb44e54",
+      "id": 196365908,
       "en": "You can't use {the[!n]} [placeholder] while a similar item is active.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a28845",
+      "id": 144869445,
       "en": "Lifestone use canceled.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8afc4c",
+      "id": 9108556,
       "en": "You do not have the necessary skills to use this item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb15b629",
+      "id": 185972265,
       "en": "You don't have enough money to use this.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49d95a5",
+      "id": 77436325,
       "en": "This NPC has nothing to say to you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x593e5c4",
+      "id": 93578692,
       "en": "Use cancelled.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1fbd3b4",
+      "id": 33280948,
       "en": "The leader of your group must enter the Private Encounter first.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f0dd8b",
+      "id": 116448651,
       "en": "^[placeholder] has been unequipped as you no longer meet its requirements!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d4eae5",
+      "id": 164948709,
       "en": "There are no venues for this encounter currently available.  Please try again later.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f9cc75",
+      "id": 133811317,
       "en": "You can't be the member of more than one private encounter.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4cc1ad0",
+      "id": 80485072,
       "en": "You can't pick that up.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98519a1",
+      "id": 159717793,
       "en": "You do not meet the item's prerequisites.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa088d73",
+      "id": 168332659,
       "en": "You do not have any free scroll skill slots left.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4356415",
+      "id": 70607893,
       "en": "You cannot enter default skill mode without a default skill set.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe312b8b",
+      "id": 238103435,
       "en": "An item has been unequipped because it no longer is allowed in the [placeholder] slot.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x412a9a7",
+      "id": 68331943,
       "en": "At least one of your raw stats is too low to use #1:{the [!n]}#1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e782e4",
+      "id": 149390052,
       "en": "Input Private Encounter Password",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xabb4c4",
+      "id": 11252932,
       "en": "Item use succeeds.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfc96ba4",
+      "id": 264858532,
       "en": "You already have an outstanding interaction request with #1:{the [!n]}#1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeefbc6b",
+      "id": 250592363,
       "en": "You need to be closer.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc186d9",
+      "id": 214009561,
       "en": "You can only use this item at night.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ecc0e3",
+      "id": 116179171,
       "en": "You do not match the item's Quest requirements.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa9ad6f5",
+      "id": 177919733,
       "en": "Monster Players can't use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0f6db4",
+      "id": 185560500,
       "en": "You use {the[!n]} [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb3a8f8",
+      "id": 213100792,
       "en": "Your alignment level is too pure to use this item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x604d149",
+      "id": 100979017,
       "en": "You can only use this item during the day.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4f7e20",
+      "id": 256867872,
       "en": "You can't pick that up right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5dce3d1",
+      "id": 98362321,
       "en": "INTERNAL ERROR: Bad Private Encounter Data.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd09a5bc",
+      "id": 218736060,
       "en": "Your level is too low to use that.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce7f5a4",
+      "id": 216528292,
       "en": "You must be in a Kinship to use #1:{the [!n]}#1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ec9ac3",
+      "id": 99392195,
       "en": "You are the wrong class to use the item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

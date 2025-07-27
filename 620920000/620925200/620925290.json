@@ -2,106 +2,89 @@
   "id": 620925290,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "The leader of the White Hand Orcs is at the camp north-west of Aldburg.\\n\\nArcil wants you to defeat the leader of the White Hand Orcs and drive the creatures into disarray.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "The White Hand camp is north-west of Aldburg.\\n\\nArcil has sent you to the White Hand camp to defeat their leader.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Talk to Arcil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa32",
+      "id": 149027378,
       "en": "On the Attack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'You have reduced our troubles by half, [placeholder]; however, there is much that we do not know about these other Orcs. We do not know where they come from or what they have come here for, but we do know that they are very dangerous.\\n\\n'You have done much for us here, and I believe that we are safe for the time being. I feel your help might be better suited elsewhere now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Arcil is in the Mead Hall of Aldburg to the south-east of the White Hand camp.\\n\\nYou should return to Arcil and tell him of your victory.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "Defeat the White Hand leader",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "Defeated the White Hand leader",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Travel to the White Hand camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b6",
+      "id": 177082806,
       "en": "Travelled to the White Hand camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d177",
+      "id": 24695159,
       "en": "With Éothain's acceptance of Arcil's apology, they appear to have come to terms, and Arcil has decided the time has come to attack the Orcs of the White Hand.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "DNT - Arcil's plan is to attack the White Hand at the top. By defeating their leader, their coordination will be fragmented, making them easier to defeat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "Arrived at the White Hand Orc camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Since their numbers are few, I want you to sneak into the White Hand camp and defeat their leader. This should cause them to lose direction and fall into disarray.\\n\\n'Go to the White Hand camp to the north-west and carry out your task, but be vigilant...it is possible that they have received reinforcements, though I think it unlikely.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Speak with Éothain",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "DNT - Travel to the White Hand Orc camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "DNT - talk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

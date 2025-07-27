@@ -2,202 +2,169 @@
   "id": 620958264,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Black Sails: Secret Knowledge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'I have searched all the crates in this area. The only place I have not yet searched is to the north-east, at the very tip of the Market Ward.\\n\\n'I do not think any of those crates will have river-maps in them, but just to be safe we should search them anyway.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b6",
+      "id": 162883766,
       "en": "'I urge that Aragorn not fly the standard of the king when we sail up the Anduin. I have trained many light-fingered folk in the art of burglary, and I know the value of surprise. Sometimes it can make all the difference.\\n\\n'If he keeps secret the fact of our departure and the manner of our travel, any foe we face may be put off its guard upon our arrival. My heart tells me there is value in this. Please tell Daervunn my message, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to Amlan in the Market Ward, in Pelargir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a3",
+      "id": 246419875,
       "en": "Faeron is in the Court of the Ship-kings, in Pelargir.\\n\\nRanger Faeron heard your conversation with Orthonn and has sought your attention.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Search crates in the Market Ward for river-maps",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56889",
+      "id": 162883721,
       "en": "'I think you should bring those maps to Orthonn, for he is a master of lore and should be skilled at reading them.\\n\\n'I think you will find him to the south-east, somewhere in the Court of the Ship-kings.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Aragorn hopes to sail up the Anduin on the decks of the Corsair ships, but we are not watermen, and if we are to do this we will need every advantage. To that end, I sent Amlan into the city to look for maps of the river that might aid us in this endeavour.\\n\\n'If you are willing, return to the city and help Amlan find any such maps that might prove helpful. Pelargir is the great port-city of Gondor, and there must have been much use of the river for trade and passage. Surely some maps can be found that show the hazards and bends of the Anduin?\\n\\n'I believe Amlan was going to begin his search in the Market Ward.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'I have been fruitlessly searching for maps ever since the battle ended, [placeholder]! If I never see another crate, it will be far too soon for me!\\n\\n'I have searched all the crates in this area. The only place I have not yet searched is to the north-east, at the very tip of the Market Ward.\\n\\n'I do not think any of those crates will have river-maps in them, but just to be safe we should search them anyway.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "Talk to Faeron in the Court of the Ship-kings",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "Talk to Daervunn in the Camp of the Grey Host",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'You found some maps of the Anduin? I cannot believe it! It is always the last place you check, or the first place you never checked, is it not?'\\n\\nAmlan takes the map from you and peers at it for a moment.\\n\\n'Well, I see Pelargir here, and Osgiliath up here, which means that these four black lines here must be the Anduin... but what do these marks in the river's course mean? I cannot ascertain anything useful from these maps, [placeholder]. I think you should bring them to Orthonn, for he is a master of lore and should be skilled at reading maps.\\n\\n'I think you will find him to the south-east, somewhere in the Court of the Ship-kings.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'Yes? With what can I help you, my friend? What do you have there?'\\n\\nYou hand Orthonn the maps of the Anduin, and with each one his smile grows.\\n\\n'What a fine gift, [placeholder]! I did not think you knew of my interest in cartography! It is a vanishing talent these days, I am afraid, but I have done my best to craft maps of the lands through which we have travelled. This will be a great help in improving the accuracy of my own efforts in this field! Not that they are in great need of such improvement, but I believe there is always room for honing one's skills!\\n\\n'Oh. This gift has a more practical purpose? I will of course study these maps of the river closely and give my findings to Aragorn, so we may travel the Anduin as safely and quickly as we can!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e30",
+      "id": 49286704,
       "en": "Bring the river maps to Orthonn in the Court of the Ship-kings",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Daervunn sent Amlan into Pelargir to look for river-maps that will be useful for navigating the Anduin, but he has not yet returned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "Orthonn is one of the lore-masters of the Grey Company, and can be found in the Court of the Ship-kings, in Pelargir.\\n\\nAmlan cannot read the maps of the Anduin you recovered, but thinks that Orthonn might be able to learn some useful knowledge from them.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'I overheard your conversation with Orthonn, and have a suggestion of my own. I hope you will bring it to Daervunn, for I know he has the ear of Aragorn.\\n\\n'I urge that he not fly the standard of the king when we sail up the Anduin. I have trained many light-fingered folk in the art of burglary, and I know the value of surprise. Sometimes it can make all the difference.\\n\\n'If he keeps secret the fact of our departure and the manner of our travel, any foe we face may be put off its guard upon our arrival. My heart tells me there is value in this. Please tell Daervunn my message, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'I will of course study these maps of the river closely and give my findings to Aragorn, so we may travel the Anduin as safely and quickly as we can!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Amlan is in the Market Ward in the port-city of Pelargir.\\n\\nDaervunn asked you to help Amlan find maps of the river Anduin to help Aragorn with his journey.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'You found some maps of the Anduin? Perfect!'\\n\\nYou tell Daervunn that Orthonn was delighted for the chance to practice his hobby of map-reading, and also relay Faeron's concerns about flying the standard of the king from atop the lead Corsair ship.\\n\\n'I share Faeron's concerns, and spoke with Aragorn about this very matter while you were in the city. It has been his plan all along to keep secret the standard that Halbarad holds for him. I think he is not yet decided when to fly the standard, for it will be a message to both the Enemy and our allies that cannot be easily taken back, can it?\\n\\n'Thank you for finding the maps, my friend, and for helping with all these matters. We will have many ships ready to sail, sooner and safer than I expected!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "Amlan did not yet search the crates in a small area in the north-eastern corner of the Market Ward, and they may contain the river-maps you seek.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e08",
+      "id": 49286664,
       "en": "Bring the river maps to Amlan in the Market Ward",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'If you are willing, return to the city and help Amlan find any such maps that might prove helpful. Pelargir is the great port-city of Gondor, and there must have been much use of the river for trade and passage. Surely some maps can be found that show the hazards and bends of the Anduin?\\n\\n'I believe Amlan was going to begin his search in the Market Ward.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Daervunn is at the Camp of the Grey Host, west of the port-city of Pelargir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Amlan is in the Market Ward, in Pelargir.\\n\\nYou found some maps of the Anduin and should bring them to Amlan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1192",
+      "id": 177082770,
       "en": "The Ranger Faeron, standing nearby, beckons you to speak with him",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a3",
+      "id": 177082787,
       "en": "You find some folded parchments in the crate: maps of the Anduin's course",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "The crate does not contain that which you seek",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

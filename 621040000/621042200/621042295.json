@@ -2,100 +2,84 @@
   "id": 621042295,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'Do you see the shoreline to the east of us, across the river? Sometimes, I catch strange movement among the trees there. The guards dismiss it as nothing more than animals in the foliage, but I'm not so sure. Perhaps I'm being too cautious. Perhaps not.\\n\\n'If you could go out there and check that nothing seems suspicious, I'd appreciate it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "You have found nothing of note other than an inert sapper-bomb.\\n\\nPerhaps inspecting it will unlock more clues.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e00",
+      "id": 49286656,
       "en": "Talk to Mekhnet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Mekhnet waits near the Kambráda encampment in the eastern part of Amdân.\\n\\nShe will want to hear about the goblin-sapper and the bomb you found.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Mekhnet harbours a concern that she'd like to put to rest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Examine the bomb",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "DNT - Defeat the goblin-sapper",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Goblin-sapper defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a1",
+      "id": 177082785,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Check the area",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'Ugh. No matter where I go, those sappers end up haunting me. We don't even know where they're crafting these bombs. All I have is a name -- Thraunákh.\\n\\n'But you've managed to get your hands on a bomb... that's valuable knowledge that you're holding. And I know folks who would appreciate that knowledge.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a4",
+      "id": 177082788,
       "en": "An inert sapper-bomb lies in the snow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "A shrill yell sounds from behind you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Mekhnet has been keeping an eye on the opposite shoreline to the east of the the Kambráda encampment in Amdân.\\n\\nYou should check to see if anything strange is happening there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Creeping Sensation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,100 +2,84 @@
   "id": 620864391,
   "txt": [
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Poor little May Gamgee found herself all alone after entering the Haunted Burrow with a large group of friends.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the event it is associated with ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Oh help, help! My friends and me, we thought we'd go have an adventure together and look for old Bilbo's treasure! But one-by-one, they disappeared, and suddenly I was all alone!\\n\\n'I made it out safe enough, but they're still inside! I can only imagine what a horrible nightmare they must be having in that burrow.\\n\\n'Will you help find them and get them back safe, [placeholder]? I'd be so very grateful indeed!'\\n\\n<rgb=#FF0000>NOTE: Only one Haunted Burrow quest may be underway at a time.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "May Gamgee became separated from her friends inside the Haunted Burrow, as they disappeared from her side one-by-one.\\n\\nYou should seek May's friends and nudge them towards the door.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Thank goodness they are all alive! I was so terribly worried. Maybe I will venture back in myself some day. I would dearly like a peek at old Bilbo's hidden treasure.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "May Gamgee is outside the Haunted Burrow, near the Party Tree.\\n\\nYou should return to May Gamgee with news that all of her friends are quite well.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'O, I am so frightened! Please tell me if all my friends are safe!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'A ghost! I saw a ghost! Do you think it was the Old Took? I am so frightened! He was angry at me for eating his dinner while he wasn't looking one night...do you think he has come back to haunt me? O help; pray don't be cross with me! I meant no harm....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Hello? Yes, I was here with May! And don't you be trying to shoo me out. I left the party because I saw a glittering at the end of a corridor, and I thought it might be treasure. A pretty coin it was, too!\\n\\n'Now leave me be. I'll not be leaving until I've found a great hoard of treasure!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'Hmm? I'm sorry, I was just having a bit of a look at some of Bilbo Baggins' old notes. What a curious imagination he had! Wouldn't it be terribly exciting if his wild stories were real?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Find the scattered hobbits in the Haunted Burrow ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'Eek! Go away! You don't scare me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Found lost hobbits ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Return to May Gamgee with news of her friends",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'Hmm. I was sure this was the exit. It was a left, then a right, then a left, then another left, then another left...and then another left, I believe. Shh, you're interrupting! I am trying to remember the way out. Now pray leave me be.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Great Hobbit Rescue",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085258",
+      "id": 218649176,
       "en": "'Snnff. W-who might you be? I put on a black cloak to sneak around and frighten my friends, but I'm afraid I am lost. Will you show me the way out?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

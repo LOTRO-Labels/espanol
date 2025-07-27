@@ -2,40 +2,34 @@
   "id": 621022497,
   "txt": [
     {
-      "id": "0x86dd38e",
+      "id": 141415310,
       "en": "You fall, dramatically defeated.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa01258e",
+      "id": 167847310,
       "en": "You are a master at faking your own dramatic defeat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf89c907",
+      "id": 260688135,
       "en": "dramatic_defeat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81a2cae",
+      "id": 135933102,
       "en": "#1:[placeholder] dramatically feigns #1:{her[f]|his[m]|their} own defeat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1135744",
+      "id": 18044740,
       "en": "#1:[placeholder] dramatically declares that [placeholder] has defeated #1:{her[f]|him[m]|them}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3340b4",
+      "id": 238239924,
       "en": "You dramatically declare that [placeholder] has defeated you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

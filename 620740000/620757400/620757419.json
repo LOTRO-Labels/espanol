@@ -2,1492 +2,1244 @@
   "id": 620757419,
   "txt": [
     {
-      "id": "0x8fd27e4",
+      "id": 150808548,
       "en": "refresh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x925334",
+      "id": 9589556,
       "en": "accept",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a9743",
+      "id": 6985539,
       "en": "finditems,fi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x149317c",
+      "id": 21574012,
       "en": "Expelling member...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9cdcbf5",
+      "id": 164482037,
       "en": "invite",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa790484",
+      "id": 175703172,
       "en": "damagetext",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da39b7",
+      "id": 81410487,
       "en": "bug",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4209e5",
+      "id": 4327909,
       "en": "demote",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce90ee9",
+      "id": 216600297,
       "en": "stay",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc3eb845",
+      "id": 205436997,
       "en": "Failed to save ui layout to \\q[placeholder]\\q.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x568de62",
+      "id": 90758754,
       "en": "successor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9302cd5",
+      "id": 154152149,
       "en": "rename",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe725f87",
+      "id": 242376583,
       "en": "follow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41a98d3",
+      "id": 68851923,
       "en": "status",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e45df5",
+      "id": 165961205,
       "en": "demote",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22ba735",
+      "id": 36415285,
       "en": "false",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38453d4",
+      "id": 59003860,
       "en": "f",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da3bd",
+      "id": 5088189,
       "en": "em",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1314f12",
+      "id": 20008722,
       "en": "true",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x67d60ab",
+      "id": 108880043,
       "en": "readycheck",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x425e064",
+      "id": 69591140,
       "en": "Accepting offer of kinship recruitment...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe13c364",
+      "id": 236176228,
       "en": "resurrect",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1314ee",
+      "id": 1250542,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8686504",
+      "id": 141059332,
       "en": "The current time on your machine is [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe75e8d4",
+      "id": 242608340,
       "en": "AFK: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7fef05",
+      "id": 260042501,
       "en": "Declining Kinship offer...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb43beb4",
+      "id": 188989108,
       "en": "raidshout",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf2a034",
+      "id": 217227316,
       "en": "k",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9657667",
+      "id": 157644391,
       "en": "sync",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae98903",
+      "id": 183077123,
       "en": "rpc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae9ae73",
+      "id": 183086707,
       "en": "ooc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046281",
+      "id": 201613953,
       "en": "userchat1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046282",
+      "id": 201613954,
       "en": "userchat2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046283",
+      "id": 201613955,
       "en": "userchat3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x922b197",
+      "id": 153268631,
       "en": "I am currently away from my keyboard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046284",
+      "id": 201613956,
       "en": "userchat4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb55ae5",
+      "id": 263543525,
       "en": "Creating Raid...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046285",
+      "id": 201613957,
       "en": "userchat5",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046286",
+      "id": 201613958,
       "en": "userchat6",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046287",
+      "id": 201613959,
       "en": "userchat7",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4a232e",
+      "id": 239739694,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83e4b45",
+      "id": 138300229,
       "en": "uninscribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc046288",
+      "id": 201613960,
       "en": "userchat8",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x70a93f5",
+      "id": 118133749,
       "en": "remove",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x40e21ec",
+      "id": 68035052,
       "en": "regional",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8cd13d9",
+      "id": 147657689,
       "en": "resetui",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa25c7f5",
+      "id": 170248181,
       "en": "true",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98b3a44",
+      "id": 160119364,
       "en": "userchat, uc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6966e9e",
+      "id": 110522014,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc16c6c5",
+      "id": 202819269,
       "en": "enable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e1",
+      "id": 145990881,
       "en": "userchat1,uc1,1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e2",
+      "id": 145990882,
       "en": "userchat2,uc2,2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x531b214",
+      "id": 87142932,
       "en": "list",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e3",
+      "id": 145990883,
       "en": "userchat3,uc3,3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e4",
+      "id": 145990884,
       "en": "userchat4,uc4,4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3acbd91",
+      "id": 61652369,
       "en": "localized1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e5",
+      "id": 145990885,
       "en": "userchat5,uc5,5",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4318055",
+      "id": 70352981,
       "en": "range",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3acbd92",
+      "id": 61652370,
       "en": "localized2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e6",
+      "id": 145990886,
       "en": "userchat6,uc6,6",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e7",
+      "id": 145990887,
       "en": "userchat7,uc7,7",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e8",
+      "id": 145990888,
       "en": "userchat8,uc8,8",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x356aca0",
+      "id": 56011936,
       "en": "o, to, officer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5710d45",
+      "id": 91295045,
       "en": "Failed to load ui layout from \\q[placeholder]\\q.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa47688e",
+      "id": 172451982,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c49e44",
+      "id": 46440004,
       "en": "play",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x578dc14",
+      "id": 91806740,
       "en": "servertime",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6067074",
+      "id": 101085300,
       "en": "recruit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b53a04",
+      "id": 129317380,
       "en": "ra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x966e9a6",
+      "id": 157739430,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda4ac6c",
+      "id": 228895852,
       "en": "tell, t, msg, whisper, w",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da35",
+      "id": 318005,
       "en": "e",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76700d4",
+      "id": 124190932,
       "en": "filterlist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da35ab",
+      "id": 81409451,
       "en": "afk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73f0613",
+      "id": 121570835,
       "en": "plugins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d680c7",
+      "id": 64389319,
       "en": "follow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5dac435",
+      "id": 98223157,
       "en": "propose",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x695e824",
+      "id": 110487588,
       "en": "cpet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b6ad13",
+      "id": 62303507,
       "en": "Loaded ui layout from \\q[placeholder]\\q.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc482ae",
+      "id": 12878510,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcfb2bcc",
+      "id": 217787340,
       "en": "tutorial",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdec4824",
+      "id": 233588772,
       "en": "yield",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d158e1",
+      "id": 47274209,
       "en": "localized1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6b9465",
+      "id": 191599717,
       "en": "remove",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d158e2",
+      "id": 47274210,
       "en": "localized2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5eeda55",
+      "id": 99539541,
       "en": "capture",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ceff86",
+      "id": 114229126,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xebfbbd4",
+      "id": 247446484,
       "en": "list",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb15a54",
+      "id": 263281236,
       "en": "reload",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4df8d3",
+      "id": 172882131,
       "en": "who",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ebef14",
+      "id": 132902676,
       "en": "add",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdf8e044",
+      "id": 234414148,
       "en": "k",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4768866",
+      "id": 74877030,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f047ce",
+      "id": 116410318,
       "en": "trade",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d8b7e4",
+      "id": 64534500,
       "en": "friend",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98423c4",
+      "id": 159654852,
       "en": "world,wd",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a88374",
+      "id": 162038644,
       "en": "load",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb89b1d4",
+      "id": 193573332,
       "en": "layout",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da435",
+      "id": 5088309,
       "en": "me",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5ee5f0",
+      "id": 190768624,
       "en": "swap",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe4a58c",
+      "id": 199533964,
       "en": "regional",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e046d0",
+      "id": 148915920,
       "en": "tr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2a035d0",
+      "id": 44053968,
       "en": "tr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa49f214",
+      "id": 172618260,
       "en": "shout, yell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd237ef4",
+      "id": 220430068,
       "en": "music",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d8fe9",
+      "id": 7180265,
       "en": "say",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4092f0e",
+      "id": 67710734,
       "en": "akinship",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b0baf4",
+      "id": 95468276,
       "en": "manager",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45faa42",
+      "id": 73378370,
       "en": "other",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x629c192",
+      "id": 103399826,
       "en": "You must provide text when setting the kinship MoTD.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4f85ab5",
+      "id": 83385013,
       "en": "Demoting member...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da4353",
+      "id": 81412947,
       "en": "loc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4761c4",
+      "id": 256336324,
       "en": "quit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa48c3e9",
+      "id": 172540905,
       "en": "reply, r",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48ce78c",
+      "id": 76343180,
       "en": "retell, rt",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb3ca54",
+      "id": 263440980,
       "en": "unload",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b13130",
+      "id": 95498544,
       "en": "f",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5eb1e4",
+      "id": 6205924,
       "en": "inspect",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x53dbc60",
+      "id": 87932000,
       "en": "g",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae4a542",
+      "id": 182756674,
       "en": "You must provide the new name for the kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda3cf44",
+      "id": 228839236,
       "en": "exit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae9aee7",
+      "id": 183086823,
       "en": "lff",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd6c535",
+      "id": 232178997,
       "en": "rename",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf3108c5",
+      "id": 254871749,
       "en": "invite, finvite",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x472c214",
+      "id": 74629652,
       "en": "played",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6734c7e",
+      "id": 108219518,
       "en": "useselection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e9d5c3",
+      "id": 115987907,
       "en": "followers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97bda75",
+      "id": 159111797,
       "en": "changename",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ec9bb4",
+      "id": 149724084,
       "en": "arda",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x284c8c7",
+      "id": 42256583,
       "en": "save",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x46ceffe",
+      "id": 74248190,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d8ce2c",
+      "id": 114871852,
       "en": "tell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2742ce4",
+      "id": 41168100,
       "en": "emotelist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee73629",
+      "id": 250033705,
       "en": "lfi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5721c72",
+      "id": 91364466,
       "en": "false",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x222a7e5",
+      "id": 35825637,
       "en": "disable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc97c680",
+      "id": 211273344,
       "en": "to",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ae98a5",
+      "id": 78551205,
       "en": "encounter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee73631",
+      "id": 250033713,
       "en": "lfq",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x606d810",
+      "id": 101111824,
       "en": "rpc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x760a86c",
+      "id": 123775084,
       "en": "releaseall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xccc6e55",
+      "id": 214724181,
       "en": "passive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8c0944",
+      "id": 227281220,
       "en": "world",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x314ec82",
+      "id": 51702914,
       "en": "false",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3047605",
+      "id": 50624005,
       "en": "release",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ee7310",
+      "id": 149844752,
       "en": "rp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3c4275",
+      "id": 171721333,
       "en": "emote",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc482ac6",
+      "id": 206056134,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e0653",
+      "id": 7210579,
       "en": "ooc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x845ccd2",
+      "id": 138792146,
       "en": "false",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4abf4b",
+      "id": 172670795,
       "en": "stuck, unstuck",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb3e214",
+      "id": 246669844,
       "en": "reset",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b59eb4",
+      "id": 129343156,
       "en": "raid",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da4989",
+      "id": 81414537,
       "en": "say",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda4966c",
+      "id": 228890220,
       "en": "roll, random",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9de1075",
+      "id": 165548149,
       "en": "duel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1cddbb3",
+      "id": 30268339,
       "en": "numbers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x845c0e4",
+      "id": 138789092,
       "en": "list",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdcd958c",
+      "id": 231576972,
       "en": "leavechannel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ec6967",
+      "id": 166488423,
       "en": "chatlog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9cfbc15",
+      "id": 164609045,
       "en": "spar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7d5b34",
+      "id": 226319156,
       "en": "Recruiting target...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce4714",
+      "id": 13518612,
       "en": "Disbanding Kinship...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x767509e",
+      "id": 124211358,
       "en": "resign",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45b00b1",
+      "id": 73072817,
       "en": "skill1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45b00b2",
+      "id": 73072818,
       "en": "skill2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xedac3ae",
+      "id": 249217966,
       "en": "trade",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45b00b3",
+      "id": 73072819,
       "en": "skill3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45b00b4",
+      "id": 73072820,
       "en": "skill4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2add114",
+      "id": 44945684,
       "en": "list",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa382b53",
+      "id": 171453267,
       "en": "alias",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1cf60c4",
+      "id": 30367940,
       "en": "localtime, time",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4377e5",
+      "id": 4421605,
       "en": "create",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da499",
+      "id": 5088409,
       "en": "ui",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2fcb7b",
+      "id": 238013307,
       "en": "attack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4a23226",
+      "id": 77738534,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ebcf4",
+      "id": 171883764,
       "en": "kinship",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d83c25",
+      "id": 64502821,
       "en": "Renaming kinship...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4245945",
+      "id": 69491013,
       "en": "aggressive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9bc3d6",
+      "id": 245089238,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xafb1813",
+      "id": 184227859,
       "en": "Saved ui layout to \\q[placeholder]\\q.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb2ac9b4",
+      "id": 187353524,
       "en": "add",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4844f2c",
+      "id": 75779884,
       "en": "all",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8e33d4",
+      "id": 260977620,
       "en": "disband",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc13d874",
+      "id": 202627188,
       "en": "Quitting Kinship...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x90b0134",
+      "id": 151716148,
       "en": "autotarget",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1558f4",
+      "id": 202725620,
       "en": "Updating Kinship MoTD...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e9bc3e",
+      "id": 32095294,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5721c6",
+      "id": 240591302,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d8e1f4",
+      "id": 114876916,
       "en": "ra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf420f44",
+      "id": 255987524,
       "en": "motd",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x66e9a02",
+      "id": 107911682,
       "en": "false",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x90ee723",
+      "id": 151971619,
       "en": "status",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4845ce",
+      "id": 4736462,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da46c4",
+      "id": 81413828,
       "en": "pet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b57444",
+      "id": 95777860,
       "en": "disband",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf240e54",
+      "id": 254021204,
       "en": "shortcut",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x576ec14",
+      "id": 91679764,
       "en": "text",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x525dd44",
+      "id": 86367556,
       "en": "The current time on the server is [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a63f75",
+      "id": 94781301,
       "en": "leave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3139345",
+      "id": 51614533,
       "en": "promote",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb60ad4",
+      "id": 263588564,
       "en": "playstart",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4845cc6",
+      "id": 75783366,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e0c3f5",
+      "id": 165725173,
       "en": "create",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2aeda1f",
+      "id": 45013535,
       "en": "queueposition, qp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x966ea72",
+      "id": 157739634,
       "en": "true",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xddc9dd4",
+      "id": 232562132,
       "en": "shortcut",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4f4c4b5",
+      "id": 83150005,
       "en": "Creating Kinship...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38356a4",
+      "id": 58939044,
       "en": "o, ko, officer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d0e3ce",
+      "id": 64021454,
       "en": "Attempting to resign Kinship leadership...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb530f84",
+      "id": 189992836,
       "en": "add",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdfe66c5",
+      "id": 234776261,
       "en": "emote",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4024a4c",
+      "id": 67258956,
       "en": "expel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54ad733",
+      "id": 88790835,
       "en": "v",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2f0c44",
+      "id": 237964356,
       "en": "assist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4dcfba4",
+      "id": 81591204,
       "en": "playlist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8befdbd",
+      "id": 146734525,
       "en": "reclaim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x406dc45",
+      "id": 67558469,
       "en": "decline",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd632a4",
+      "id": 14037668,
       "en": "clearlist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e06c7",
+      "id": 7210695,
       "en": "lff",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3fe1b25",
+      "id": 66984741,
       "en": "ignore",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1314ec6",
+      "id": 20008646,
       "en": "off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a7df93",
+      "id": 94887827,
       "en": "locks",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8f9533",
+      "id": 261068083,
       "en": "dismiss",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x94ad2d5",
+      "id": 155898581,
       "en": "promote",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a7284c",
+      "id": 61286476,
       "en": "joinchannel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9015875",
+      "id": 151083125,
       "en": "remove",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe572212",
+      "id": 240591378,
       "en": "true",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4bd4e",
+      "id": 16039246,
       "en": "p",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d5faa4",
+      "id": 47577764,
       "en": "adopt",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x653a4cf",
+      "id": 106144975,
       "en": "accountinfo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d50c6e",
+      "id": 97848430,
       "en": "location",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee4fe44",
+      "id": 249888324,
       "en": "guard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b10ec4",
+      "id": 129044164,
       "en": "tricklist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d72b85",
+      "id": 97987461,
       "en": "inscribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa55af03",
+      "id": 173387523,
       "en": "listchannels",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xebcf310",
+      "id": 247264016,
       "en": "tribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7618975",
+      "id": 123832693,
       "en": "rename",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2861e93",
+      "id": 42344083,
       "en": "anon, anonymous",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a88324",
+      "id": 111706916,
       "en": "list",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ac97c2",
+      "id": 61642690,
       "en": "ko",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda3ec70",
+      "id": 228846704,
       "en": "help",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf31c187",
+      "id": 254919047,
       "en": "load",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2540795",
+      "id": 39061397,
       "en": "Promoting member...\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5721e",
+      "id": 15036958,
       "en": "on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcffa545",
+      "id": 218080581,
       "en": "automove",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4845d12",
+      "id": 75783442,
       "en": "true",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30200d2",
+      "id": 50462930,
       "en": "clear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

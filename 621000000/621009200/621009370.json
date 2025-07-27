@@ -2,64 +2,54 @@
   "id": 621009370,
   "txt": [
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "Talk to Gaumar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b9",
+      "id": 111477433,
       "en": "<rgb=#FF0000>Completing 'Restoring the Three Kingdoms' will cancel this quest</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a6",
+      "id": 246419878,
       "en": "You should return to Gaumar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b7",
+      "id": 162883767,
       "en": "'Those angry scrawls are gone again? Let us hope they stay gone this time.\\n\\n'Thank you, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa24",
+      "id": 149027364,
       "en": "Unwelcome Scrawls",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "Remove angry scrawls ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "You should find angry scrawls on walls and doors throughout Dale and remove them.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'The discontent of Dale-folk over the new-arrived refugees has not abated, [placeholder]. More angry scrawls have begun appearing on walls and doors around Dale, and they bear the same hateful message as before.\\n\\n'Will you help us again wipe these defacements from Dale? Seeing a formidable and respected foreigner such as yourself doing so will strike respect - or shame - into our people's hearts.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d165",
+      "id": 24695141,
       "en": "Those discontented with the newly-arrived refugees have continued to leave angry scrawls throughout Dale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1195",
+      "id": 177082773,
       "en": "Removed angry scrawls ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

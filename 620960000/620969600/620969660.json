@@ -2,724 +2,604 @@
   "id": 620969660,
   "txt": [
     {
-      "id": "0x1e34545",
+      "id": 31671621,
       "en": "ID_UISkin_FellowInvite",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x95d4728",
+      "id": 157108008,
       "en": "ID_UISkin_GamePlay_Opponent_ProgressBar_Dragbox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4632f97",
+      "id": 73609111,
       "en": "ID_UISkin_ItemAdvancement_ReforgeResult_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x273f817",
+      "id": 41154583,
       "en": "ID_UISkin_PagedTextItem_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4c4e53",
+      "id": 206327379,
       "en": "ID_UISkin_GamePlay_ConnectionStatus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde718fd",
+      "id": 233249021,
       "en": "ID_UISkin_ItemSocketUseGem",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x35ebff2",
+      "id": 56541170,
       "en": "ID_UISkin_GamePlay_Undocked_ShiftBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f81a87",
+      "id": 49814151,
       "en": "ID_UISkin_HousingDecoration_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x85bacb8",
+      "id": 140225720,
       "en": "ID_UISkin_GamePlay_MountedPetManagerBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2caa4f7",
+      "id": 46834935,
       "en": "ID_UISkin_ItemAdvancement_RunicCombination_Forge_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xccded9c",
+      "id": 214822300,
       "en": "ID_UISkin_ItemSocketControl",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e9dbcc",
+      "id": 166321100,
       "en": "ID_UISkin_AccomplishmentPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71f1f07",
+      "id": 119480071,
       "en": "ID_UISkin_NeighborhoodGate_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7a224",
+      "id": 230138404,
       "en": "ID_UISkin_Social_Field",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x85a95b7",
+      "id": 140154295,
       "en": "ID_UISkin_CraftGuildTrainer_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3aca417",
+      "id": 61645847,
       "en": "ID_UISkin_HousingPermissions_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5913264",
+      "id": 93401700,
       "en": "ID_UISkin_BaseOptionsField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x43adef7",
+      "id": 70967031,
       "en": "ID_UISkin_Discovery_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e2add2",
+      "id": 115518930,
       "en": "ID_UISkin_QuestTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56d63e7",
+      "id": 91055079,
       "en": "ID_UISkin_TraitPanel_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd18897",
+      "id": 215058583,
       "en": "ID_UISkin_Journal_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b5ef7",
+      "id": 7036663,
       "en": "ID_UISkin_ItemAdvancement_SelectLegacyUpgrade_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65a4e5",
+      "id": 6661349,
       "en": "ID_UISkin_GuildInvite",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8652b91",
+      "id": 140848017,
       "en": "ID_UISkin_FellowMiniPanel_1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8652b92",
+      "id": 140848018,
       "en": "ID_UISkin_FellowMiniPanel_2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8652b93",
+      "id": 140848019,
       "en": "ID_UISkin_FellowMiniPanel_3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x504ad84",
+      "id": 84192644,
       "en": "ID_UISkin_AmountSelectorField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8652b94",
+      "id": 140848020,
       "en": "ID_UISkin_FellowMiniPanel_4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x163b5a5",
+      "id": 23311781,
       "en": "ID_UISkin_BackpackView3_Template",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7643484",
+      "id": 124007556,
       "en": "ID_UISkin_Mail_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8a8595",
+      "id": 243959189,
       "en": "ID_UISkin_GamePlay_SkillQueueDisplay_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2e6e37c",
+      "id": 48685948,
       "en": "ID_UISkin_VanguardControl",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97b67b7",
+      "id": 159082423,
       "en": "ID_UISkin_ItemAdvancement_Forge_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8ff157",
+      "id": 244314455,
       "en": "ID_UISkin_Inscription_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe27174",
+      "id": 14840180,
       "en": "ID_UISkin_HousingPanel_Field",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c58958",
+      "id": 63277400,
       "en": "ID_UISkin_GamePlay_MountDisplayBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x72a8f94",
+      "id": 120229780,
       "en": "ID_UISkin_Auction_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4264c7",
+      "id": 172123335,
       "en": "ID_UISkin_NPCComment_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa195b08",
+      "id": 169433864,
       "en": "ID_UISkin_GamePlay_EscortManagerBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd14f117",
+      "id": 219476247,
       "en": "ID_UISkin_HobbyTrainer_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d882",
+      "id": 120962,
       "en": "ID_UISkin_GamePlay_AtunementBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x69d2dd7",
+      "id": 110964183,
       "en": "ID_UISkin_Mannequin_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4da47",
+      "id": 10803783,
       "en": "ID_UISkin_PerkVendor_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x16395a5",
+      "id": 23303589,
       "en": "ID_UISkin_BackpackView5_Template",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf55c041",
+      "id": 257278017,
       "en": "ID_UISkin_GamePlay_Undocked_ExtraShortcutBar1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8c999c",
+      "id": 244095388,
       "en": "ID_UISkin_PaperItemPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf55c042",
+      "id": 257278018,
       "en": "ID_UISkin_GamePlay_Undocked_ExtraShortcutBar2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb454912",
+      "id": 189090066,
       "en": "ID_UISkin_GamePlay_GambitBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97071b7",
+      "id": 158364087,
       "en": "ID_UISkin_ItemAdvancement_Imbue_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd0607c",
+      "id": 13656188,
       "en": "ID_UISkin_AvatarPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60cf0f7",
+      "id": 101511415,
       "en": "ID_UISkin_FellowshipMaker_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9eb0ea7",
+      "id": 166399655,
       "en": "ID_UISkin_AppearanceMod_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68a26a7",
+      "id": 109717159,
       "en": "ID_UISkin_PVPCharacterPanel_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1b21bc",
+      "id": 203104700,
       "en": "ID_UISkin_QuestPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b5317",
+      "id": 4936471,
       "en": "ID_UISkin_HousingEscrow_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdedec98",
+      "id": 233696408,
       "en": "ID_UISkin_GamePlay_PetManagerBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8f80a63",
+      "id": 150473315,
       "en": "ID_UISkin_FindItems",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd15b62",
+      "id": 231824226,
       "en": "UndockedShiftBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe006558",
+      "id": 234906968,
       "en": "ID_UISkin_GamePlay_QuestTrackerBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x837c39c",
+      "id": 137872284,
       "en": "ID_UISkin_MailElement_ComposeMail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb63c844",
+      "id": 191088708,
       "en": "ID_UISkin_HousingMaintenance_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb50d9a5",
+      "id": 189847973,
       "en": "ID_UISkin_GamePlay_ExaminationTooltip_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c7a702",
+      "id": 46638850,
       "en": "ID_UISkin_MailElement_OpenLetter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4546047",
+      "id": 72638535,
       "en": "ID_UISkin_SkillTrainer_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a5197c",
+      "id": 161814908,
       "en": "ID_UISkin_ItemAdvancementManagerPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9198298",
+      "id": 152666776,
       "en": "ID_UISkin_GamePlay_FellowSelectBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa0fa3b7",
+      "id": 168797111,
       "en": "GamePlay_RaidAssistWindow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae2bb2",
+      "id": 11414450,
       "en": "ID_UISkin_GamePlay_Undocked_AltBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8eb9ae4",
+      "id": 149658340,
       "en": "ID_UISkin_RandomItemReward_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49c4ea8",
+      "id": 77352616,
       "en": "ID_UISkin_GamePlay_BankBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d01d17",
+      "id": 63970583,
       "en": "ID_UISkin_HousingPurchase_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa028d08",
+      "id": 167939336,
       "en": "ID_UISkin_GamePlay_ConjContributionBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x16355a5",
+      "id": 23287205,
       "en": "ID_UISkin_BackpackView1_Template",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5aef97",
+      "id": 240840599,
       "en": "ID_UISkin_ItemAdvancement_IdentifyResult_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2bb8f87",
+      "id": 45846407,
       "en": "ID_UISkin_Barter_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x163e5a5",
+      "id": 23324069,
       "en": "ID_UISkin_BackpackView6_Template",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x35b73b9",
+      "id": 56325049,
       "en": "ID_UISkin_PVPMuckleUI",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda986c",
+      "id": 14325868,
       "en": "ID_UISkin_SkirmishPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x69d4c9d",
+      "id": 110972061,
       "en": "ID_UISkin_ItemAdvancementApplyItem",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa720428",
+      "id": 175244328,
       "en": "ID_UISkin_GamePlay_ProgressBar_Dragbox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5b9d75",
+      "id": 240885109,
       "en": "ID_UISkin_GamePlay_DestinyWallet_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc9a4875",
+      "id": 211437685,
       "en": "ID_UISkin_GamePlay_InspectDisplay_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd15d122",
+      "id": 219533602,
       "en": "ID_UISkin_GamePlay_BalanceBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe55219",
+      "id": 15028761,
       "en": "ID_UISkin_IA_ReplaceImbuedLegacy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d696e2",
+      "id": 148281058,
       "en": "ID_UISkin_Radar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc28e674",
+      "id": 204007028,
       "en": "ID_UISkin_ExternalContainerField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b3734",
+      "id": 10172212,
       "en": "ID_UISkin_SecureTradeField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa82d234",
+      "id": 176345652,
       "en": "ID_UISkin_HousingContainer_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12210f9",
+      "id": 19009785,
       "en": "ID_UISkin_LockboxApplyKey",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb86f985",
+      "id": 193395077,
       "en": "ID_UISkin_GamePlay_DressingRoom_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ca4052",
+      "id": 97140818,
       "en": "ID_UISkin_Toolbar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65c62f4",
+      "id": 106717940,
       "en": "ID_UISkin_StackableField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9f5df8",
+      "id": 245325304,
       "en": "ID_UISkin_GamePlay_ItemRollBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25a90e4",
+      "id": 39489764,
       "en": "ID_UISkin_VendorBuyStackField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2837fc7",
+      "id": 42172359,
       "en": "ID_UISkin_VocationTrainer_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb57b922",
+      "id": 190298402,
       "en": "ID_UISkin_MailElement_Letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a796d4",
+      "id": 161978068,
       "en": "ID_UISkin_GamePlay_SelectionTarget",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5007d07",
+      "id": 83918087,
       "en": "ID_UISkin_ScrollingTextItem_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd0d48ac",
+      "id": 218974380,
       "en": "ID_UISkin_OpponentPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc25317",
+      "id": 12735255,
       "en": "ID_UISkin_WorldJoin_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f5f8c7",
+      "id": 133560519,
       "en": "ID_UISkin_TraitManager_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c4ec82",
+      "id": 96791682,
       "en": "ID_UISkin_TrackerManager",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9be45b2",
+      "id": 163464626,
       "en": "ID_UISkin_GamePlay_PetShortcutBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf364187",
+      "id": 255213959,
       "en": "ID_UISkin_ItemAdvancement_DisplayRunicPool_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8233428",
+      "id": 136524840,
       "en": "ID_UISkin_GamePlay_RadarBox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1bcefb7",
+      "id": 29159351,
       "en": "ID_UISkin_Travel_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbdcac79",
+      "id": 199011449,
       "en": "ID_UISkin_PVPMatchScoresDisplay",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x163a5a5",
+      "id": 23307685,
       "en": "ID_UISkin_BackpackView2_Template",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x46fba99",
+      "id": 74431129,
       "en": "ID_UISkin_QuestHistory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfaa4492",
+      "id": 262816914,
       "en": "ID_UISkin_Toolbar_Quickslot_Extended_Scaler",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d982a4",
+      "id": 148472484,
       "en": "ID_UISkin_EscrowContainer_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9af247",
+      "id": 245035591,
       "en": "ID_UISkin_Craft_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x16385a5",
+      "id": 23299493,
       "en": "ID_UISkin_BackpackView4_Template",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa516562",
+      "id": 173106530,
       "en": "ID_UISkin_ThreatTrackerManager",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23a6134",
+      "id": 37380404,
       "en": "ID_UISkin_Notary_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b895d7",
+      "id": 112760279,
       "en": "ID_UISkin_Vendor_Window",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb09835",
+      "id": 229677109,
       "en": "ID_UISkin_GamePlay_EndTravel_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f638a4",
+      "id": 167131300,
       "en": "ID_UISkin_HousingForSaleSign_MainField",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x573b015",
+      "id": 91467797,
       "en": "ID_UISkin_GamePlay_DuelingClock_Activatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4633b82",
+      "id": 73612162,
       "en": "ID_UISkin_GamePlay_Undocked_CtrlBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

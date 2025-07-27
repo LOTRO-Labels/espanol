@@ -2,64 +2,54 @@
   "id": 620870500,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'A good day to you! I am pleased to find another Minstrel has accompanied us. I should be happy to share what skills I have with you. First, though, I will give you some small advice, if you are willing to lend an ear to it.\\n\\n'As you may already know, a Minstrel possesses a great power...the power to stir the spirit and raise hopes when all seems lost. When the spirit is roused, the body soon follows! A good Minstrel heals themselves and their fellows, staving off even the most dire wounds.\\n\\n'Demonstrate your mastery by entering combat with the training-dummy nearby, then using the skill <rgb=#00ff00>Major Ballad</rgb>.'\\n\\n\\nHINT:\\n\\nMinstrels use <rgb=#ffff00>Ballads</rgb> to attack their enemies, lightly heal their fellows and themselves. These skills operate on a rotating system that allows the minstrel to have three special buffs on themselves at any time. After the third buff is applied the next <rgb=#ffff00>Ballad</rgb> played will overwrite the first, then the second and so on.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Good, [placeholder]! I think you will be an excellent Minstrel someday. You should return now to Elladan; I believe he wishes to begin the investigation.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "''Use my Training Menu to purchase your new skill, then enter combat with the Training Dummy and use your new skill.''\\n\\nHINT:\\n\\nMinstrels use <rgb=#ffff00>Ballads</rgb> to attack their enemies, lightly heal their fellows and empower themselves. These skills operate on a rotating system that allows the minstrel to have three special buffs on themselves at any time. After the third buff is applied the next <rgb=#ffff00>Ballad</rgb> played will overwrite the first, then the second and so on.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Training: A Minstrel's Major Ballad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your trainer wants you to use your new skills to prove that you are ready to face the many dangers that exist in the world.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have used the skill 'Major Ballad' while in combat with Training Dummy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Learn the skill 'Major Ballad' and use it while in combat with a Training Dummy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "HINT:\\n\\nMinstrels use <rgb=#ffff00>Ballads</rgb> to attack their enemies, lightly heal their fellows and empower themselves. These skills operate on a rotating system that allows the minstrel to have three special buffs on themselves at any time. After the third buff is applied the next <rgb=#ffff00>Ballad</rgb> played will overwrite the first, then the second and so on.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to the Minstrel Trainer at the Edhelion Watch",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Minstrel Trainer is at the Edhelion Watch.\\n\\nNow that you have successfully used your skill, you should return to your trainer and tell him of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

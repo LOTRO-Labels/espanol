@@ -2,88 +2,74 @@
   "id": 620994847,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Legolas can be found on the north-western ramparts of Haerondir.\\n\\nEchil has asked you to speak to the Elves at Haerondir as their resolve has not visibly faltered. You should speak to Legolas first.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "Elladan and Elrohir can be found on the eastern ramparts at Haerondir.\\n\\nYou have spoken to Legolas, but he has not experienced what Echil described. You should now speak to Elladan and Elrohir instead.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Mae govannen, [placeholder]. I can see by your expression that you wish to tell us of something. Do not delay!'\\n\\nYou tell Elladan and Elrohir of Echil's hope that the Elves in the Host of the West are without fear. Elladan stifles a laugh, but Elrohir is unable to hold back. Before Elladan is able to speak, Elrohir quickly interjects.\\n\\n'I am sorry, my friend. Were that the truth, he would be the first to know! These Men should not think so little of themselves!'\\n\\nElladan gestures to Elrohir to be silent and begins to speak.\\n\\n'No, there is no hidden bravery within us, my friend, as you yourself know. Perhaps we benefit from knowledge of the past, but in matters of the Enemy, fear is ever present. The Ringbearer's quest is unlike any errand in the time of our father and the alliance of Men and Elves.\\n\\n'You say these Men are fearful, but they still march forth knowing their doom. That is the truest bravery, and they must be made to see it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'What is it, my friend?'\\n\\nYou tell Legolas of Echil's sense of wonder about the Elves at Haerondir, and how he wishes that he and the other Men might be so at ease as well. Legolas chuckles to himself, and Gimli scoffs quietly beside him.\\n\\n'Your Ranger friend is perhaps too eager to think such things of the Elves. Isn't he, Gimli?\\n\\n'It is not a lack of fear that drives me forth, but a sense of duty to Aragorn and to our kin in the Host. You and I have shared this long journey together and fear has not yet broken us even if it has lingered at every step of our adventures.\\n\\n'These Men are the bravest of this Age, and I would not see them falter now. Victory can be won over the Enemy, and none would know that better than the sons of Elrond.\\n\\n'Why don't you speak to them, [placeholder]? I wonder what they would make of Echil's talk of fearless Elves!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'What is it, my friend?'\\n\\nYou tell Legolas of Echil's sense of wonder about the Elves at Haerondir, and how he wishes that he and the other Men might be so at ease as well. Legolas chuckles to himself, and Gimli scoffs quietly beside him.\\n\\n'Your Ranger friend is perhaps too eager to think such things of the Elves. Isn't he, Gimli? And wouldn't you say so as well, [placeholder]?\\n\\n'It is not a lack of fear that drives me forth, but a sense of duty to Aragorn and to our kin in the Host. You and I have shared this long journey together and fear has not yet broken us even if it has lingered at every step of our adventures.\\n\\n'These Men are the bravest of this Age, and I would not see them falter now. Victory can be won over the Enemy, and none would know that better than the sons of Elrond.\\n\\n'Why don't you speak to them, [placeholder]? I wonder what they would make of Echil's talk of fearless Elves!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'What troubles you, [placeholder]?'\\n\\nYou tell Elladan and Elrohir of Echil's hope that the Elves in the Host of the West are without fear. Elladan stifles a laugh, but Elrohir is unable to hold back. Before Elladan is able to speak, Elrohir quickly interjects.\\n\\n'I am sorry, my friend. Were that the truth, he would be the first to know! These Men should not think so little of themselves!'\\n\\nElladan gestures to Elrohir to be silent and begins to speak.\\n\\n'No, there is no hidden bravery within us, my friend. Perhaps we benefit from knowledge of the past, but in matters of the Enemy, fear is ever present. The Ringbearer's quest is unlike any errand in the time of our father and the alliance of Men and Elves.\\n\\n'You say these Men are fearful, but they still march forth knowing their doom. That is the truest bravery, and they must be made to see it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "As the Host of the West approaches the Black Gate, a sense of despair has taken root in even the hardiest warriors.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Talk to Legolas at Haerondir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'It has been a long march, [placeholder]...\\n\\n'I can speak only for myself, but I am prepared for what may come when we reach the Black Gate. If my death awaits, I shall welcome it in the service of Gondor and of King Elessar. Even still, it is a weight to bear... and each man here bears it.\\n\\n'I have seen much in these last days that I never imagined, and I am sure more still awaits beyond my sight. For all of these unknown joys or ills, I have not seen the Elves in this company falter even once. Whether they fear or not as Men do, they seem charmed.\\n\\n'I wonder what eases them so in such times, and I wonder if it might offer some comfort to our company. Would you speak to them, my friend?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "Talk to Elladan and Elrohir at Haerondir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Cloud of Despair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d85954",
+      "id": 30955860,
       "en": "'Your Ranger friend is perhaps too eager to think such things of the Elves.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

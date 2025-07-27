@@ -2,406 +2,339 @@
   "id": 620958302,
   "txt": [
     {
-      "id": "0x4b807e1",
+      "id": 79169505,
       "en": "'Duilin! [placeholder]! Run!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Talk to Duilin on the path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Talk to Derufin on the path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Choose to accompany Duilin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x39fbc01",
+      "id": 60800001,
       "en": "'Well-chosen, [placeholder]! This way!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08eda7",
+      "id": 235466151,
       "en": "Stand with Duilin and Derufin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3730c61",
+      "id": 57871457,
       "en": "'Very well. May the best of us win!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "You have left Bâr Húrin with Duilin and Derufin to hunt one of the mighty Mûmakil.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ae9",
+      "id": 69036777,
       "en": "Follow Duilin on his hunt for a Mûmak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Duilin and Derufin are waiting for you to choose which of the brothers you wish to accompany on the hunt for a Mûmak.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'My brother and I rarely hunt together, [placeholder]. We find that we have much more success when tracking a foe if we travel alone. That way, if one of us frightens the beast, the other may be able to take advantage of the confusion of our prey.\\n\\n'My chosen weapon is this longbow, and my accuracy with it is legendary among the folk of the Blackroot Vale. If you come with me, I suggest that we travel eastward by way of the road, and the long sight-lines will give us the advantage over any raiding parties we encounter while we search for a Mûmak.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'We should not all tramp through the wild together, [placeholder]. The two of us would be silent enough, I expect, but my brother makes more noise in the brush than even the largest Mûmak!\\n\\n'This sword of mine has proven the better of every creature upon which I set my mark, and today will be no different. If you choose to hunt with me, we will travel up the slope to the north for a better view, the better to surprise our prey.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Duilin and Derufin have agreed to help you with your own mission if you will help them with theirs: hunting the mighty Mûmakil the Haradrim have brought to Gondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "You have made your way through the wilds of Ithilien in search of Mûmakil, and now the brothers Duilin and Derufin have once more crossed paths in their respective hunts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e75",
+      "id": 127884917,
       "en": "Duilin has been defeated, and you have failed!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'I will be pleased to have you join me, [placeholder]! Let us waste no more time! I want to be the first to find a Mûmak, and if we are to bring one down before my brother finds one we will need to hurry!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e76",
+      "id": 127884918,
       "en": "Derufin has been defeated, and you have failed!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'I am ready to take to the wild in search of Mûmakil! Waste no time, and we might find one of the great beasts before my brother. There will be glory enough for all, but it brings me no shame to confess I want to be the first!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6af0",
+      "id": 69036784,
       "en": "Follow Derufin on his hunt for a Mûmak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'I encountered a number of Orcs ranging through the forested hills of this land, but I caught no sign of any Mûmakil. How can such large beasts evade us?\\n\\n'And yet, I feel the earth tremble. Do you feel that? Can it be?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xac87e81",
+      "id": 180911745,
       "en": "'If that is your choice, I will hunt alone.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x123efc1",
+      "id": 19132353,
       "en": "'How long must we fight alongside Orcs? I do not trust their kind.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'We have to get out of here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x123efc2",
+      "id": 19132354,
       "en": "'I heard they are led by wraiths, dead kings untaken by death.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'We have to get out of here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x123efc3",
+      "id": 19132355,
       "en": "'The rewards will be great. You must have patience!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x123efc4",
+      "id": 19132356,
       "en": "'How long must we wait?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x123efc5",
+      "id": 19132357,
       "en": "'These Nazgûl have the stink of death on them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x123efc6",
+      "id": 19132358,
       "en": "'And as for Gothmog...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5536d41",
+      "id": 89353537,
       "en": "'Do you feel that? Something approaches!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5536d42",
+      "id": 89353538,
       "en": "'Mûmak!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "Survive the encounter, and ensure that Duilin and Derufin live to tell the tale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5536d43",
+      "id": 89353539,
       "en": "'The time has come! I will draw my bow, and...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2cf141",
+      "id": 221049153,
       "en": "'Derufin! [placeholder]! Run!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5536d44",
+      "id": 89353540,
       "en": "'There's more than one!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9042d61",
+      "id": 151268705,
       "en": "'You will not regret this, [placeholder]! We shall be the victors!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcfa431",
+      "id": 265266225,
       "en": "'You have not found a Mûmak yet, Duilin? What about you, [placeholder]?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe45c4d1",
+      "id": 239453393,
       "en": "'Something approaches! Do you feel the earth shake?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe45c4d3",
+      "id": 239453395,
       "en": "'Swords at the ready!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9203941",
+      "id": 153106753,
       "en": "'Derufin! [placeholder]! You have not found a Mûmak yet?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82b99f1",
+      "id": 137075185,
       "en": "'Listen! Something approaches!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82b99f2",
+      "id": 137075186,
       "en": "'Orcs rarely travel alone. There will be more nearby!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82b99f3",
+      "id": 137075187,
       "en": "'Look! More Orcs! Hold your peace, and we will listen to their conversation!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b3",
+      "id": 162883763,
       "en": "'I have slain a number of Haradrim warriors on the road through this land already, but I have not seen a single Mûmak at which to let fly my arrows.\\n\\n'But there is a trembling in the earth. Do you feel that? Is it possible our prey approaches?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a4",
+      "id": 246419876,
       "en": "You have encountered two Mûmakil in the wilds of Ithilien, but Duilin and Derufin have lost the element of surprise and now the three of you must escape from the trumpeting beasts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82b99f4",
+      "id": 137075188,
       "en": "'I have heard enough of their foul speech, [placeholder]. Attack!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e7581",
+      "id": 240022913,
       "en": "'You won't find me speaking against Gothmog.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e7582",
+      "id": 240022914,
       "en": "'I know the value of my own skin!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e7583",
+      "id": 240022915,
       "en": "'Why do we take orders from a Man?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e7584",
+      "id": 240022916,
       "en": "'He is no longer a Man, if ever he was.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e7585",
+      "id": 240022917,
       "en": "'He'd strike you dead as soon as look at you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e7586",
+      "id": 240022918,
       "en": "'Keep asking about Gothmog and we'd welcome it, you stupid worm!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdfd65f1",
+      "id": 234710513,
       "en": "'Foes!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Choose to accompany Derufin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Choose to accompany one of the brothers and follow him in search of prey\\n<rgb=#FF0000>If you are in a Fellowship, every character must choose the same brother to follow, or the instance will fail.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Talk to Derufin on the path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Talk to Duilin on the path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Meet up with the other hunter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Run!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1414451",
+      "id": 21054545,
       "en": "'Derufin was wise to leave the road to the two of us. Haradrim approach!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1414452",
+      "id": 21054546,
       "en": "'These Haradrim may have been the advance guard for a Mûmak!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1414453",
+      "id": 21054547,
       "en": "'These Haradrim will rue the day they came to Gondor!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1414454",
+      "id": 21054548,
       "en": "'Let us move off the road and see if we can overhear their talk, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Sons of Blackroot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1414455",
+      "id": 21054549,
       "en": "'Enough of this talking. Let us quiet their ramblings, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

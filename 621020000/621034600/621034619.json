@@ -2,142 +2,119 @@
   "id": 621034619,
   "txt": [
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Return to Merethrond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e03",
+      "id": 49286659,
       "en": "Deliver the pipe-weed to Meriadoc Brandybuck",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "As you enter Merethrond, Toldir tries to get your attention",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Merethrond can be found near the Tower of Ecthelion in Minas Tirith (Midsummer).\\n\\nYou did not find Merry's pipe-weed in any of the locations he mentioned. You should return to Merethrond and inform him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Toldir can be found in Merethrond.\\n\\nUpon entering Merethrond, Toldir tried to get your attention. You should talk to Toldir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "With the One Ring destroyed and the Enemy undone, the Free Peoples of Middle-earth gather to Minas Tirith for a grand banquet commemorating the wedding of King Aragorn II Elessar to Queen Arwen Undómiel. Among the many in attendance, there sits a hobbit of some renown -- Meriadoc Brandybuck.\\n\\n<rgb=#FF0000>NOTE: This quest will be removed from your quest log when the current festival ends.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'It was quite the ceremony, wasn't it? Nothing like a Shire wedding, mind you.\\n\\n'Have you found the pipe-weed?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'[placeholder]!\\n\\n'You're not by chance looking for Master Meriadoc's pipe-weed, are you?\\n\\n'He gave it to me for safe-keeping before the ceremony, but it has been quite a busy day! If you'd like to bring it to him, I set it near the bottom of the stairs down to the kitchens.\\n\\n'Oh, and may I help you with anything else? No? Very good!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Talk to Toldir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Collect Merry's pipe-weed in Merethrond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "A small portion of the stock in Saruman's keeping, but more than enough for a banquet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e114",
+      "id": 262725908,
       "en": "Scattered petals from the wedding of Aragorn and Arwen lie nearby, but that is all",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Hello, [placeholder]! Not getting tired so soon, are you?\\n\\n'I know just the thing to liven up this banquet! I... just don't quite recall where I left it.\\n\\n'Back when we were at Isengard, I packed away a bit of the Longbottom Leaf we found in the stores. After all, it's not like Saruman was going to use it stuck up in his tower!\\n\\n'Anyway, I can't remember if I left my pipe-weed near the baths in the Great Guest-house, by some of the horses in the High Stables, or over by the prow of Minas Tirith. It's got to be one of those!\\n\\n'If you go find it, I'd be happy to share it with you. Why, I'd be glad to share every last bit of it tonight!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'You found it? Oh, wonderful!\\n\\n'Well, I can't speak for anyone else, but I hope this banquet never ends!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5021",
+      "id": 225071137,
       "en": "Search for Merry's pipe-weed in the Southern Great Guest-house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Merry's pipe-weed might be found near the baths in the Southern Great Guest-house, among the High Stables, or near the end of the prow of Minas Tirith.\\n\\nMerry has asked you to find his supply of Longbottom Leaf in Minas Tirith.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5022",
+      "id": 225071138,
       "en": "Search for Merry's pipe-weed in the High Stables",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "Among all the crates, barrels, and hay-bales in the High Stables, you find no pipe-weed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5023",
+      "id": 225071139,
       "en": "Search for Merry's pipe-weed on the prow of Minas Tirith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "The comfort of the baths would be ideal for pipe-weed, but you find no sign of it",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Merry's pipe-weed can be found at the base of the stairs to the kitchens in Merethrond.\\n\\nToldir informed you that he left Merry's pipe-weed in the kitchens of Merethrond. You should collect it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01191",
+      "id": 246419857,
       "en": "Merry can be found in Merethrond.\\n\\nYou have collected Merry's pipe-weed and should now return it to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Long-awaited Banquet -- Meriadoc Brandybuck",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

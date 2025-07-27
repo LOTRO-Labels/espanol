@@ -2,124 +2,104 @@
   "id": 620948659,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Rodaglar can be found to the north of the entrance to Morlad.\\n\\nBelegant has asked you to speak to the people of Morlad in the hope that you can raise their morale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Rodaglar can be found to the north of the entrance to Morlad.\\n\\nYou have found Rodaglar, and should now offer some gesture of hope to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Find Rodaglar in Morlad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Hirwë can be found along the southern path in Morlad.\\n\\nBelegant has asked you to speak to the people of Morlad in the hope that you can raise their morale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Find Hirwë in Morlad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Hirwë can be found along the southern path in Morlad.\\n\\nYou have found Hirwë, and should now offer some gesture of hope to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "Glorwen can be found near the top of Morlad along the northern path through the settlement.\\n\\nBelegant has asked you to speak to the people of Morlad in the hope that you can raise their morale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01187",
+      "id": 246419847,
       "en": "Glorwen can be found near the top of Morlad along the northern path through the settlement.\\n\\nYou have found Glorwen in Morlad, and should now offer some gesture of hope to her.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Find Glorwen in Morlad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01188",
+      "id": 246419848,
       "en": "Belegant can be found on the second tier of Morlad in north-western Blackroot Vale.\\n\\nYou have raised the spirits of the people of Morlad for the moment, and should now report your success to Belegant.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Belegant",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Offer a <rgb=#FF00FF>hail</rgb>, a polite <rgb=#FF00FF>bow</rgb>, a <rgb=#FF00FF>story</rgb>, or a mighty <rgb=#FF00FF>pose</rgb> to Hirwë",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Offer a <rgb=#FF00FF>hail</rgb>, a polite <rgb=#FF00FF>bow</rgb>, a <rgb=#FF00FF>story</rgb>, or a mighty <rgb=#FF00FF>pose</rgb> to Glorwen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730890",
+      "id": 225642640,
       "en": "DNT -- will not be seen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'Thank you, [placeholder].\\n\\n'I know it may not seem a large gesture to you, but I am certain it will help our people remain hopeful.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "Heartened by your arrival in Gondor, Belegant suggests that you speak to the people of Morlad in hopes of raising their spirits.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'With all this talk of Orcs, maddened beasts, and... sightings of the Dead near the hill, I have seen the morale of our people degrade day by day.\\n\\n'We have brushed off the Dead as mere ghost stories in the eyes of the people, but sadly, it is true. As a result, I fear that our people will soon grow weary of what may be a long conflict in Gondor.\\n\\n'If you would, I am certain tales of your might, your adventures, or even a polite greeting could reassure them that not all is lost.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Promise of Glory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Offer a <rgb=#FF00FF>hail</rgb>, a polite <rgb=#FF00FF>bow</rgb>, a <rgb=#FF00FF>story</rgb>, or a mighty <rgb=#FF00FF>pose</rgb> to Rodaglar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

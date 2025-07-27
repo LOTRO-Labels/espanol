@@ -2,88 +2,74 @@
   "id": 621011346,
   "txt": [
     {
-      "id": "0x9b56846",
+      "id": 162883654,
       "en": "'How vúchut! These pelts are just the thing! You have done much. I will make sure these pelts get to only the coldest dwarves!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56848",
+      "id": 162883656,
       "en": "'Ah, but it is cold out here! Refreshing - and yet even a dwarf might shiver under his whiskers! We have food now, but we cannot carry a fire with us as we go. What is needed is something warm to wear. Pelts!\\n\\n'You might win some off the beasts that hide in the valleys. Wolf and láthbear pelts would be warm indeed!  Will you gather the pelts and meet me at the Dôm Goru?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50261",
+      "id": 111477345,
       "en": "Collect wolf pelts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50262",
+      "id": 111477346,
       "en": "Collect láthbear pelts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50266",
+      "id": 111477350,
       "en": "Bring the pelts to Rúzat at Dôm Goru",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1143",
+      "id": 177082691,
       "en": "Collected láthbear pelts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56867",
+      "id": 162883687,
       "en": "'Gather pelts from the wolves and láthbears around here and then meet me in Dôm Goru, a way-camp we have made near to the road.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1144",
+      "id": 177082692,
       "en": "Collected wolf pelts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fac5",
+      "id": 149027525,
       "en": "Pelts to Warm the Way",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "Help Rúzat gather warm pelts for the Zhélruka so they may stay warm up in the mountain paths.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a8",
+      "id": 246419880,
       "en": "You should bring the pelts to Rúzat, who can be found at Dôm Goru in Ered Mithrin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "TBDEredMithrinEntranceQB",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "You should collect wolf and láthbear pelts in the valleys of Ered Mithrin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50247",
+      "id": 111477319,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     }
   ]
 }

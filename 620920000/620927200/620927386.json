@@ -2,94 +2,79 @@
   "id": 620927386,
   "txt": [
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "A worker has been defeated ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "[placeholder] Culvert unsealed time penalty",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d173",
+      "id": 24695155,
       "en": "Saruman's forces have used their black powder to create an opening at the culvert and have begun to infiltrate through the gap in the wall.  The Rohirrim labourers must be defended as they work to seal the culvert with nearby stones.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Partial</rgb> Merit Rating.\\n\\n<rgb=#00FF00>Major Merit Gain</rgb>\\n* Defeat Madhash\\n* Defeat Vogalash\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n* Labourer defeated\\n\\n<rgb=#FF0000>Moderate Merit Loss:</rgb>\\n* Excessive time has passed without the culvert being sealed (5 minutes)\\n* Additional time has passed after the initial penalty (every 20s)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "[placeholder] Labourers defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "[placeholder] Foreman defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Madhash defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Vogalash defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "Madhash has fallen!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a2",
+      "id": 177082786,
       "en": "Vogalash has fallen!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e114",
+      "id": 262725908,
       "en": "<rgb=#FF0000>The culvert remains open and vulnerable</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db1",
+      "id": 24743345,
       "en": "'Move stones and seal the culvert! Let none through!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Orcs have blasted a hole into the culvert upon the wall and are infiltrating through the gap. Assist the Rohirrim labourers as they attempt to seal the opening to prevent further enemies from getting through the defences.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Seal the culvert opening with rocks ([placeholder]/18)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Do not allow labourers to be defeated ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Securing the Culvert",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

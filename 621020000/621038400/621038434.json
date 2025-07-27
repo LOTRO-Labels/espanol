@@ -2,352 +2,294 @@
   "id": 621038434,
   "txt": [
     {
-      "id": "0xff47080",
+      "id": 267677824,
       "en": "'Die, tiny pest!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff47081",
+      "id": 267677825,
       "en": "'I give up! I give up!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff47082",
+      "id": 267677826,
       "en": "'I not see anything like that.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e660",
+      "id": 230155872,
       "en": "'Your home? You gave up this place when you fell in with Storvâgûn!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e661",
+      "id": 230155873,
       "en": "'How does it feel to be Angmar's lackey?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e662",
+      "id": 230155874,
       "en": "'Lies! Not true!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e663",
+      "id": 230155875,
       "en": "'But I not side with evil folk.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e664",
+      "id": 230155876,
       "en": "'You smell rock-worms, that is all.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50241",
+      "id": 111477313,
       "en": "<rgb=#FF0000>Arifael must not be defeated!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e665",
+      "id": 230155877,
       "en": "'Wood-trolls, then.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb7e666",
+      "id": 230155878,
       "en": "'You not hurt friend!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50243",
+      "id": 111477315,
       "en": "<rgb=#FF0000>Do not be seen by Mendorn</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Talk to Arifael inside Giant Valley",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Did Bilbo venture into Giant Valley, and if he did, did he emerge again unharmed?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a4",
+      "id": 111477412,
       "en": "Hide in the dwelling just north of Arifael, and quickly!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a8",
+      "id": 111477416,
       "en": "Remain in hiding and listen to the conversation of the giants",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50252",
+      "id": 111477330,
       "en": "Talk to Mendorn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50257",
+      "id": 111477335,
       "en": "Talk to Arifael",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e61",
+      "id": 47939169,
       "en": "'Watch your head.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e62",
+      "id": 47939170,
       "en": "'Some of my kin followed Storvâgûn the Traitor to Helegrod, and left their dwellings empty.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e63",
+      "id": 47939171,
       "en": "'Rock-worms and wood-trolls move in. We move them out while we look for hobbit!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed67",
+      "id": 235466087,
       "en": "Talk to Arifael",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e64",
+      "id": 47939172,
       "en": "'Let that be lesson to all beasts: this be GIANT place!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e65",
+      "id": 47939173,
       "en": "'Hmm... no sign of missing hobbit.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e66",
+      "id": 47939174,
       "en": "'Hobbit... missing!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56845",
+      "id": 162883653,
       "en": "'Have I seen anything else of your size or smaller here in the valley? No, to my disappointment! I would have squashed anything like that into jelly!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e67",
+      "id": 47939175,
       "en": "'Sorry, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56846",
+      "id": 162883654,
       "en": "'Have I seen anything else like you here in the valley? No, to my disappointment! I would have squashed anything like you into jelly!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e68",
+      "id": 47939176,
       "en": "'I hear giant approaching! You better hide, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2db7e69",
+      "id": 47939177,
       "en": "'Hide in dwelling! Do not emerge!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4701",
+      "id": 218056449,
       "en": "'Arifael! What mischief brings you to my home?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4702",
+      "id": 218056450,
       "en": "'Bah! You are not one to talk, Arifael.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1160",
+      "id": 177082720,
       "en": "This should be safe enough. Stay inside, and do not come out!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4703",
+      "id": 218056451,
       "en": "'Always friendly with little vermin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4704",
+      "id": 218056452,
       "en": "''Arifael is our pet,' that is what they say.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4705",
+      "id": 218056453,
       "en": "'What is that I smell?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1162",
+      "id": 177082722,
       "en": "Arifael has been defeated!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4706",
+      "id": 218056454,
       "en": "'Did some tiny creature take Arifael for walk?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4707",
+      "id": 218056455,
       "en": "'No. Not rock-worms.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1164",
+      "id": 177082724,
       "en": "You were spotted!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01140",
+      "id": 246419776,
       "en": "Mendorn is prepared for combat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4708",
+      "id": 218056456,
       "en": "'No. Not wood-trolls.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56851",
+      "id": 162883665,
       "en": "'I will squash you into jelly, tiny pest, and then do the same to your pet! He may look like giant, but he not actual giant.\\n\\n'On the inside, he small like you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcff4709",
+      "id": 218056457,
       "en": "'I smell this: tiny pest!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01145",
+      "id": 246419781,
       "en": "Arifael is satisfied that Bilbo never came here.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56856",
+      "id": 162883670,
       "en": "'We put Mendorn into his place, and there he will stay! It will be some time before he dares fight with us again.\\n\\n'I do not think he has seen your friend. Your Bilbo did not come this way.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56858",
+      "id": 162883672,
       "en": "'Return to Elves. Tell them Bilbo did not come this way. He must have gone somewhere else.\\n\\n'Now so must you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a2",
+      "id": 246419874,
       "en": "If Bilbo strayed into Giant Valley, there may yet be a friendly face willing to help recover him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56859",
+      "id": 162883673,
       "en": "'This dangerous place, little [placeholder]. If you say other hobbit come to Giant Valley, that hobbit in big danger. Not all his kin friendly as Arifael.\\n\\n'But I will bring you to giant-dwellings in Stonemere. Maybe save little hobbit, if not too late.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa18",
+      "id": 149027352,
       "en": "Mission: The Further Adventures of Bilbo Baggins, Chapter 3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'This dangerous place, little [placeholder]. If you say hobbit come to Giant Valley, hobbit in big danger. Not all his kin friendly as Arifael.\\n\\n'But I will bring you to giant-dwellings in Stonemere. Maybe save little hobbit, if not too late.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1174",
+      "id": 177082740,
       "en": "Mendorn surrenders in defeat!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b3",
+      "id": 246419891,
       "en": "You should conceal yourself behind the hide-covered dwelling just north of Arifael, and quickly!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6ad1",
+      "id": 69036753,
       "en": "Fight alongside Arifael and investigate Giant Valley",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b7",
+      "id": 246419895,
       "en": "Mendorn has arrived and is none-too-pleased to see Arifael.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6a23",
+      "id": 69036579,
       "en": "Defeat Mendorn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1189",
+      "id": 177082761,
       "en": "You have been discovered!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e62",
+      "id": 127884898,
       "en": "Arifael has been defeated!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

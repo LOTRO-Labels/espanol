@@ -2,160 +2,134 @@
   "id": 620831793,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Amazing, you found it! Now that we know where it is, getting there again will be much quicker.\\n\\n'You may wish to bring a friend or two if you are going to plumb the secrets of this chamber. Who knows what dangers may lie within?\\n\\n'I suspect the strange riddles on the back of this map will help you in this last exploration. I will make you a fair copy of them, so you can bring them into the chamber with you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Can it be? You are the one? The axe you describe is known to me, but only in legend. It was prophesied that one not of our number -- the nearly forgotten secret council of Elves and dwarves -- would find it once more, within our ancient headquarters in the deepest recesses of the dwarf-mine.\\n\\n'That map you found was a last desperate attempt to leave a record, should Dragonslayer's hiding place be forgotten -- a situation thought impossible then, but we did not forsee the rise of Durin's Bane, the abandonment of Khazad-dûm, and its degeneration into feared Moria. When Smaug was terrorizing the Lonely Mountain, some of us were instructed to search for records of where Dragonslayer might be hid and found nothing.\\n\\n'You, brave [placeholder], have discovered a treasure beyond compare. Lord Elrond shall be alerted, as well as Lady Galadriel... your name will be sung by council-members for Ages to come.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Secret of the Council",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Bless my sturdy boots, what a tale! Clues and maps and shadows and riddles and monsters -- this will make quite the story to tell in my old age!\\n\\n'So you found the innermost chamber of this strange place.... What did you find there? An axe? An axe marked \\qDragonslayer\\q? Durin's beard!\\n\\n'[placeholder], I think there is more to this than meets the eye. I am loth to give this advice, but I think you ought to speak to one of the Elves here in Moria -- I think Lenglammel might be the one to ask, but you'll have to go down to the Shadowed Refuge to find her. Describe your travails, and what you found at your destination, and see what she has to say.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have discovered the secret chamber",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The entrance to the chamber lies somewhere in the Second Hall, I think.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'You should speak with the Elf Lenglammel at the Shadowed Refuge. She may know something of what you found.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'Are you prepared?\\n\\n'What an exciting time to be in Khazad-dûm... so many mysteries being exposed to the light, for the first time in so very long!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The entrance lies somewhere in Nud-melek, south-east of the Twenty-first Hall, perhaps the Second Hall.\\n\\nGeirfast has asked you to find the entrance to the secret chamber depicted in the shadow-map.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'Tales of your re-discovery of the axe Dragonslayer have reached me here, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Geirfast is at the Twenty-first Hall, north-west of the Second Hall.\\n\\nYou should return to Geirfast to tell him where the chamber is.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c45",
+      "id": 63183941,
       "en": "'Dragonslayer's recovery is no small feat, [placeholder] - you should be proud.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Geirfast is at the Twenty-first Hall.\\n\\nYou should speak with Geirfast when you are ready to travel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c46",
+      "id": 63183942,
       "en": "'You are the [placeholder] who found the resting place of the axe Dragonslayer?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Geirfast is at the Twenty-first Hall.\\n\\nYou should return at once to Geirfast.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c47",
+      "id": 63183943,
       "en": "'The telling of your deeds has preceded your arrival, [placeholder]. You found the secret council's ancient meeting-chamber... impressive.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Lenglammel is encamped at the Shadowed Refuge.\\n\\nGeirfast suggested you speak with the Elf Lenglammel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Discover the entrance to the secret chamber",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Geirfast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Geirfast and discover the secrets of your mysterious destination",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Geirfast at the Twenty-first Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Geirfast in the Twenty-first Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Talk to Lenglammel at the Shadowed Refuge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "From your description of the map the torch projected onto the wall, Geirfast thinks the secret chamber must lie somewhere within Nud-melek, perhaps in the southern part of the Second Hall.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I cannot wait to discover this new map's secret! It looks as though it may show a destination to the south-east of here. Were I you, I would search within Nud-melek -- let's see, you said it curved downwards... perhaps the southern section of the Second Hall?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

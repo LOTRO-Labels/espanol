@@ -2,130 +2,109 @@
   "id": 620945885,
   "txt": [
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "You should collect the packs of tools left behind in Direnfirel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected heirloom tools ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd73084",
+      "id": 215429252,
       "en": "'I see that you have found a few packs of tools once used by the Men of Direnfirel, but this cannot be all of them. The enemy may have taken a few to aid their work in the milling-camp. Please see if you can find the rest.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Bring the tools to Cwichelm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Thank you, [placeholder]. With no tools to work with, hopefully the enemy will abandon their efforts in Direnfirel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Finish Direnfirel: Guide of the Wooded River-bank.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You notice a number of packs laying around Direnfirel, which must be tools left behind by those who once lived here. Collecting these tools to keep them from the enemy seems like the right thing to do.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Finish Direnfirel: Guide of the Wooded River-bank",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "You should collect the packs of tools left behind in Direnfirel and bring them to Cwichelm.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "Collected heirloom tools ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "You should collect the packs of tools left behind in Direnfirel and bring them to Cwichelm.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "You notice a number of packs laying around Direnfirel, which must be tools left behind by those who once lived here. Collecting these tools to both keep them from the enemy and returning with them to Cwichelm seems like the right thing to do.\\n\\n<rgb=#FF0000>Warning: This quest requires Direnfirel: Guide of the Wooded River-bank to be underway in order to access Direnfirel. If that quest has been completed or failed, you will be unable to exit and re-enter Direnfirel in order to complete this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Thank you, [placeholder]. With no tools to work with, hopefully the enemy will abandon their efforts in Direnfirel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Collect heirloom tools ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect heirloom tools (0/8)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "Collected heirloom tools ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring the tools to Cwichelm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Collect heirloom tools ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "Collect heirloom tools ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Direnfirel: Lost in the Woods",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730881",
+      "id": 225642625,
       "en": "'I see that you have found a few packs of tools once used by the Men of Direnfirel, but this cannot be all of them. The enemy may have taken a few to aid their work in the milling-camp. Please see if you can find the rest.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

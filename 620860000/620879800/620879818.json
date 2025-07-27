@@ -2,124 +2,104 @@
   "id": 620879818,
   "txt": [
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Lheu Brenin wants you to speak with the emissary of Isengard he is holding captive in the cave behind Tûr Morva.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfae28c1",
+      "id": 263071937,
       "en": "'The prisoner's cell is in the passage behind you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfae28c2",
+      "id": 263071938,
       "en": "'If you're looking for the prisoner, his cell is behind you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfae28c3",
+      "id": 263071939,
       "en": "'There are more cells down this passage, but they are empty.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfae28c4",
+      "id": 263071940,
       "en": "'I will save you the walk. The prisoner is in the cell behind you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'You know of the emissary Saruman sent to us to force our cooperation? He is being kept under watch in the prison-cave. He has not told us anything of use yet, but perhaps you can inspire him to speak.\\n\\n'Go into the prison-cave and speak to the guard Nai. He will allow you to press the captive for information. Return and tell me if the captive has anything useful to say. If he does not, perhaps his usefulness is at an end, and Nai can be given something else to do.\\n\\n'The prison-caves are to the south. Follow the path and you will see the entrance among the ruins on your left-hand side, in the cliff.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Nai is guarding the captive emissary of Isengard in the prison-cave, south of Lheu Brenin and in the wall of the cliff to your left.\\n\\nLheu Brenin has asked you to press the captive for information. First, you should speak to the guard Nai outside his cell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You have the permission of the Brenin to speak with the prisoner? Very well. You may go in. He should pose you no danger. He knows that if he tries anything, he will do without meals.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Nai has given you permission to enter the cell with Dondhreg to see if you can get any information from the captive emissary.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "You have spoken with Dondhreg, but if there was anything valuable in his words it will be up to Lheu Brenin to discern it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'You can go on in. He will not bite, if he knows what is good for him.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'What have you learned from our guest, [placeholder]?'\\n\\nLheu Brenin listens to your report of Dondhreg's words.\\n\\n'There is truth there, I fear, if only a kernel. We must learn how large the kernel may be.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'He is full of bluster, but I pay it no heed. We are out here, and he is in there.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Have you come to gloat, [placeholder]? You are no Dunlending. Do not mistake these people for friends. It will be you in my place next! Mark what I say!'\\n\\nDondhreg glowers at you, his eyes full of hate.\\n\\n'They cannot defeat Saruman. They are fools to try! The other clans are wiser and know which way the tide is going. Already, most of Dunland pledges their swords to my master. His armies come from Dunbog and Carreglyn and Starkmoor, and these unprepared fools will find themselves on the wrong side of the wave!\\n\\n'It could have been different. I care not. It is enough to know that my captors will be slain by their own kinsmen soon enough, and you gloaters along with them!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'Enter the prison-caves and speak with Nai. He will allow you to talk to the prisoner, and you may learn something of use to us. If not, well...it is of little account to me whether he lives or dies.\\n\\n'The prison-caves are to the south. Follow the path and you will see the entrance among the ruins on your left-hand side, in the cliff.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Nai at the prison cave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'You cannot stand against Saruman. Too many of the clans are already sworn to him. You have lost before you have begun.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Dondhreg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Lheu Brenin in Tûr Morva",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Book 4, Chapter 8: The Messenger of Isengard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

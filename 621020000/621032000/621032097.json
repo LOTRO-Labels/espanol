@@ -2,16 +2,14 @@
   "id": 621032097,
   "txt": [
     {
-      "id": "0xace641e",
+      "id": 181298206,
       "en": "<rgb=#ffffff>Trigger</rgb>:\\nWhen using a healing skill, there is a 25% chance of providing +1% Incoming Healing for your fellowship.\\nThis effect may tier up to 3 times.\\nCannot <rgb=#ffffff>Trigger</rgb> this effect more than once every 30s.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Prudent Fellowship Healer's Essence",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,88 +2,74 @@
   "id": 620835791,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You used the skill Major Ballad on the training-dummy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your trainer wants you to use your new skills to prove that you are ready to face the many dangers that exist in the world.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Even in this fallen refuge, there are threats that we must confront. Without the watchful eye and care of the Elves, Edhelion has become home to many unnatural creatures. You will need to know how to defend yourself and defeat these threats.\\n\\n'You must learn skills from others, like myself. We can guide you through your training and help you become stronger.\\n\\n'Learn the skill <rgb=#00ff00>Major Ballad</rgb> from me and show me that my teaching has given you mastery by striking the training-dummy nearby.'\\n\\nHINT:\\n\\nMinstrels use <rgb=#ffff00>Ballads</rgb> to attack their enemies and empower themselves. These skills operate on a rotating system that allows the minstrel to have three special buffs on themselves at any time. After the third buff is applied the next <rgb=#ffff00>Ballad</rgb> played will overwrite the first, then the second and so on.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Speak with the trainer again and learn the skill <rgb=#00ff00>Major Ballad</rgb>. Use your new skill on the training-dummy nearby. HINT:\\n\\nMinstrels use <rgb=#ffff00>Ballads</rgb> to attack their enemies and empower themselves. These skills operate on a rotating system that allows the minstrel to have three special buffs on themselves at any time. After the third buff is applied the next <rgb=#ffff00>Ballad</rgb> played will overwrite the first, then the second and so on.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I am pleased to know that you have completed your meditation and training. The road ahead is filled with many challenges, and we must all prepare ourselves for what is to come. I think that this lesson will be one that remains with you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Now that you have successfully used your newly-learned skill, return to your trainer and tell him of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Dorongúr Whitethorn is in Edhelion.\\n\\nYou should make your way to Dorongúr Whitethorn and tell him that you have finished your meditation and have prepared yourself for battle.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Strike the training-dummy with your new skill, then return to me. We must make certain that you are prepared to stand against the dangers of Middle-earth.'\\n\\nHINT:\\n\\nMinstrels use <rgb=#ffff00>Ballads</rgb> to attack their enemies and empower themselves. These skills operate on a rotating system that allows the minstrel to have three special buffs on themselves at any time. After the third buff is applied the next <rgb=#ffff00>Ballad</rgb> played will overwrite the first, then the second and so on.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Yes, I sensed that you were well-prepared, [placeholder]. Remember, we must work to reclaim this land, and while we have a tentative peace with the dwarves in the valley below, we cannot overlook the lessons of the past and the betrayal that came at their hands.\\n\\n'Speak with Dorongúr and tell him that I believe you are ready.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'I will teach you more when you are ready to learn. For the moment, you should speak with Dorongúr.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Use the skill Major Ballad on the training-dummy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to the Minstrel Trainer in Edhelion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Dorongúr Whitethorn in Edhelion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Intro: A Minstrel's Ballads",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

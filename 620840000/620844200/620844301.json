@@ -2,64 +2,54 @@
   "id": 620844301,
   "txt": [
     {
-      "id": "0xb1aa135",
+      "id": 186294581,
       "en": "Are you sure you wish to add the [placeholder] to the [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6e863d",
+      "id": 191792701,
       "en": "Remove Item",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4086755",
+      "id": 67659605,
       "en": "You already have the default appearance available on the [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe29135",
+      "id": 199397685,
       "en": "You already have [placeholder] available on the [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba76089",
+      "id": 195518601,
       "en": "Capacity ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ba72a1",
+      "id": 62550689,
       "en": "Capacity (Not Available)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x24c18c2",
+      "id": 38541506,
       "en": "Selection Colour:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec2c0fc",
+      "id": 247644412,
       "en": "This will permanently remove the item and all colour variants from your wardrobe.  If you no longer have the item in your inventory, you will not be able to return it to the wardrobe. Are you sure you want to remove the [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49bc538",
+      "id": 77317432,
       "en": "Search:",
-      "es": "Busca:",
-      "es (fem)": ""
+      "es": "Busca:"
     },
     {
-      "id": "0xee29272",
+      "id": 249729650,
       "en": "Default",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

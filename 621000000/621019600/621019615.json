@@ -2,232 +2,194 @@
   "id": 621019615,
   "txt": [
     {
-      "id": "0xeb01142",
+      "id": 246419778,
       "en": "Langhár can be summoned to your side with Langhár's summoning horn.\\n\\nYou should talk to Langhár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56856",
+      "id": 162883670,
       "en": "'You came back! Are the demons still out there?'\\n\\nYou explain that the attackers were indeed goblins, and that there are still some lurking nearby. You tell Ainhard that he should head to Vegbár where it is safe.\\n\\n'Ah, yes, that sounds like a good idea. But... I cannot leave with my home in such disarray, and my hounds missing! Will you help me?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01144",
+      "id": 246419780,
       "en": "Ainhard's Homestead lies south of Vegbár. in the Wolf-denes.\\n\\nYou should talk to Ainhard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Talk to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'Who are you? Are you here to help?'\\n\\nYou quickly explain the situation and ask Ainhard to tell you what happened here.\\n\\n'I cannot say for sure, it happened in the dead of night! But I can tell you what I saw, and what I heard.\\n\\n'I was asleep with my hounds, when I was awoken by the sound of many scuffling feet, a horrid chattering of some beastly horde! I quickly looked out the window and saw hundreds of glowing eyes and the glinting of weapons in the moonlight! I am unsure what they were — Orcs, goblins, Taurogrim, but there were so many! I could only hide in my home while they trampled through and destroyed everything in sight.\\n\\n'What do I do now? Pick up the pieces and carry on? But I am afraid they will come back at any moment!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01147",
+      "id": 246419783,
       "en": "Ainhard's Homestead lies south of Vegbár. in the Wolf-denes.\\n\\nYou should complete quests to help Ainhard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50255",
+      "id": 111477333,
       "en": "Talk to Ainhard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Talk to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Help Ainhard with 'Hounds in the Woods'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d157",
+      "id": 24695127,
       "en": "There is clear evidence that many goblins have left Goblin-town, and the Woodmen have been caught in their wake. Two questions still remain unanswered: why did they leave, and where did they go?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1156",
+      "id": 177082710,
       "en": "One of the goblins drops a scrap of paper",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50259",
+      "id": 111477337,
       "en": "Help Langhár with 'Picking up the Pieces'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1187",
+      "id": 177082759,
       "en": "Goblins jump out of the brush and attack!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1159",
+      "id": 177082713,
       "en": "There is a cluster of footprints here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01151",
+      "id": 246419793,
       "en": "Langhár can be summoned to your side with Langhár's summoning horn.\\n\\nYou should talk to Langhár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b0",
+      "id": 246419888,
       "en": "Langhár can be summoned to your side with Langhár's summoning horn.\\n\\nYou should talk to Langhár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01153",
+      "id": 246419795,
       "en": "Ainhard's Homestead lies south of Vegbár. in the Wolf-denes.\\n\\nYou should talk to Ainhard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "There should be some evidence near Ainhard's home that can confirm who the attackers were.\\n\\nYou should find evidence of the attackers' identities.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b9",
+      "id": 246419897,
       "en": "Langhár has identified goblin tracks near Ainhard's home.\\n\\nYou should investigate the goblin tracks.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd3e6a88",
+      "id": 222194312,
       "en": "'Dis goblin land now! You die!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a1",
+      "id": 162883745,
       "en": "'The poor man is terrified! We should investigate the area and see if it was goblins that came through, or something else. Perhaps we can pick up the trail of... whatever it might have been... as well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56845",
+      "id": 162883653,
       "en": "'Thank you for all your help. I will head to Vegbár with my companions when I am able. I should let you know that there are others living nearby that may also need your help. I am in no state to help anyone, but please, do what you can.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56846",
+      "id": 162883654,
       "en": "'Ainhard is right. There will be more people in danger if the goblins are left unchecked. We have work to do.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa16",
+      "id": 149027350,
       "en": "TBD Wolf-denes Narrative 2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01162",
+      "id": 246419810,
       "en": "The goblin ambushers near Ainhard's home appear to have dropped a scrap of paper.\\n\\nYou should examine the paper.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50240",
+      "id": 111477312,
       "en": "Help Langhár with 'Lurking Looters'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa18",
+      "id": 149027352,
       "en": "Following the Goblins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01164",
+      "id": 246419812,
       "en": "While investigating the tracks outside Ainhard's home, you were ambushed by goblins!\\n\\nYou should defeat the goblins.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50242",
+      "id": 111477314,
       "en": "Talk to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50271",
+      "id": 111477361,
       "en": "Examine the scrap of paper",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50244",
+      "id": 111477316,
       "en": "Talk to Ainhard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Find evidence of the attackers' identities",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50275",
+      "id": 111477365,
       "en": "Defeat the ambushers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Investigate the tracks",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56853",
+      "id": 162883667,
       "en": "'Goblins indeed! What did that one drop? Some kind of drawing? Is that supposed to be the Great Goblin?\\n\\n'I do not know what to make of that drawing, but we should hold on to it for now. Let us return to Ainhard and send him on to Vegbár. It is clearly not safe for him to be out in the wilds by himself.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     }
   ]
 }

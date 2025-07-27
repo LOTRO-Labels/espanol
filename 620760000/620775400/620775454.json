@@ -2,40 +2,34 @@
   "id": 620775454,
   "txt": [
     {
-      "id": "0x5a90215",
+      "id": 94962197,
       "en": "localized1, de, deutsch",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a90222",
+      "id": 94962210,
       "en": "localized2, fr, french",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f9d3a5",
+      "id": 133813157,
       "en": "/de <message> - Send a message to the German General channel.\\n/deutsch <message> - Send a message to the German General channel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xecd1b65",
+      "id": 248322917,
       "en": "[placeholder] - DE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f9d392",
+      "id": 133813138,
       "en": "/fr <message> - Send a message to the French General channel.\\n/french <message> - Send a message to the French General channel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xecd1b52",
+      "id": 248322898,
       "en": "[placeholder] - FR",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,148 +2,124 @@
   "id": 620913285,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Here we are. If you don't mind, [placeholder], I would like a moment to myself.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'How fair and fresh the Dale! I am glad I lived to see it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Greet the Sky",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Beautiful, is it not? It is true that the stars of the Mirrormere shimmer always upon the surface of the water, be it day or night. Look for yourself!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'Welcome to Mekhem-bizru! I am pleased to see that you made it out of Moria with your skin still intact. You must be a bold warrior.\\n\\n'You may rest here, and look out upon fair Kheled-zâram.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "The dwarf invites you to look out upon Kheled-zâram",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'I feel refreshed, and ready to return to the depths of Khazad-dûm to continue helping the expedition establish a foothold.\\n\\n'What do you plan to do?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "The waters of Kheled-zâram look cool and clear, the stars shining fair upon the surface like glimmering jewels.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "This is a good vantage point",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Svanr is in the First Hall of Nud-melek.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "This is not a good vantage point",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Svanr can be found outside of Moria, in the Dimrill Dale.\\n\\nYou should speak with Svanr.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Mekhem-bizru can be found down the path from the East Gate of Moria.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Kheled-zâram is the great lake that lies on the Dimrill Dale.\\n\\nYou should speak to a dwarf looking out upon Kheled-zâram.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "The Mirrormere, also called Kheled-zâram, is the lake that lies against Mekhem-bizru in the Dimrill Dale.\\n\\nYou should <rgb=#FF0000>look</rgb> out upon the Mirrormere from Mekhem-bizru.\\n\\n<rgb=#FF0000>NOTE: This quest requires emotes.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Svanr is in the Dimrill Dale.\\n\\nYou should speak with Svanr.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Svanr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Follow Svanr to the Dimrill Dale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to someone at Mekhem-bizru",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to a dwarf at the Mirrormere's edge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "<rgb=#FF0000>Look</rgb> out at the Mirrormere from Mekhem-bizru",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Return to Svanr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "It is time to leave Moria at last, and soak up the fresh air again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I cannot wait to see the sun, moon, clouds, and stars once more! This trek has been a long one, and sad. We have suffered many losses.\\n\\n'I cannot be more thankful to lay eyes upon the fair sun once more, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

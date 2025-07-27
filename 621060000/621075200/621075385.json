@@ -2,154 +2,129 @@
   "id": 621075385,
   "txt": [
     {
-      "id": "0xb568913",
+      "id": 190220563,
       "en": "'[placeholder], what a surprise! I'm glad to see you again, now that those dark days are behind us.\\n\\n'Ah -- yes, that's Nasar. I'm not sure if he would remember you on account of his drunkenness when you met him. As for how we've wound up here... that is a long story. Suffice to say that my men and I could not extract any useful secrets from him, even after he imbibed all the ale you collected. And with the aid of some shared drinks, we befriended each other instead.\\n\\n'Actually, would you lend me your ear? I'm unfamiliar with Pelargir, and while my presence seems to put the residents at ease, my Corsair companions are also fresh faces to the city. Walking around freely would not go well. But after such a long journey, I was hoping to raise our spirits with some food.\\n\\n'I've heard there is a food stall run by Haradrim somewhere south of here, near the docks. Would you mind ordering something for us?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011873",
+      "id": 184621171,
       "en": "You have found the food stall in West Pelargir.\\n\\nYou should talk to Jódha to order food.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e1e5",
+      "id": 251716069,
       "en": "Talk to Nasar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b16",
+      "id": 148970262,
       "en": "This looks like the right place!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b19",
+      "id": 148970265,
       "en": "Barely any time as passed before Jódha calls out to you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e013",
+      "id": 251715603,
       "en": "Talk to Jódha",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011820",
+      "id": 184621088,
       "en": "Jódha has finished cooking your food.\\n\\nYou should talk to her at her food stall in West Pelargir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011823",
+      "id": 184621091,
       "en": "You have retrieved the food for Othor, Nasar, and the other Corsairs.\\n\\nYou should return to them near the West Pelargir gates.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011824",
+      "id": 184621092,
       "en": "Nasar waits near the West Pelargir gates.\\n\\nHe seems to want to talk to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568951",
+      "id": 190220625,
       "en": "'Here you go. If your small army is still hungry afterwards, do come back!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "A Cure For Weariness",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011857",
+      "id": 184621143,
       "en": "You have found the food stall in West Pelargir and given your order.\\n\\nYou should wait for Jódha to finish cooking.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
+      "id": 190220630,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "After a long journey, Othor has arrived at Pelargir with a rag-tag group of Corsairs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a2",
+      "id": 190220450,
       "en": "For about ten seconds, Nasar squints at you with a look of intense concentration. His eyes then light up, and a grin spreads across his face.\\n\\n'Hah! I remember you! Othor didn't think I would, but I do! How could I forget the one who supplied me with all of that ale? Ah, here, let me help you distribute the food....\\n\\n'Othor hasn't told you why we came to Pelargir, has he? After the war, I went searching for other wayward Corsairs, and he came along to protect me. Not that I needed the protection, of course, but he's a good sort to have around!\\n\\n'That's how we all found each other. We may be stranded here with no ships to take us home, but at least we are not alone.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a4",
+      "id": 190220452,
       "en": "'What are you doing, feeding an army? Ah, I jest! The food will be ready in a moment; just wait right there.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b68",
+      "id": 148970344,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xb011868",
+      "id": 184621160,
       "en": "According to Othor, there is a food stall run by Haradrim towards the southern end of West Pelargir.\\n\\nYou should find it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029d0",
+      "id": 173025744,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x8e11b69",
+      "id": 148970345,
       "en": "Before you can approach Othor, Nasar waves you over",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029a2",
+      "id": 173025698,
       "en": "Talk to Jódha",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568939",
+      "id": 190220601,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa5029d4",
+      "id": 173025748,
       "en": "Find the food stall run by Haradrim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029a7",
+      "id": 173025703,
       "en": "Return to Othor near the West Pelargir gates",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029d8",
+      "id": 173025752,
       "en": "Wait for Jódha to finish your order",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

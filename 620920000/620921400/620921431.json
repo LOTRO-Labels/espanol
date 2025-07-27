@@ -2,22 +2,19 @@
   "id": 620921431,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Playing with Fire",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Adds unique debuffs when using a Fire, Frost, or Lightning skill on a target afflicted with Fire-lore:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Fire: +15% Attack Duration \\nFrost: +10% Miss Chance \\nLightning: -50% Ranged Damage\\n\\nThis event cannot be triggered by Nature's Fury",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

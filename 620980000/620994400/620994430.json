@@ -2,64 +2,54 @@
   "id": 620994430,
   "txt": [
     {
-      "id": "0xb5689f5",
+      "id": 190220789,
       "en": "'Thurindol has spoken to me about enemies hiding beneath the Slag-hills. Some of these foes are extremely dangerous and should not be dealt with alone. Make haste to the caverns of Skoironk with your allies and defeat those who oversee the Orcs that dwell below the hills.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689f6",
+      "id": 190220790,
       "en": "'The overseers are defeated? Their forces slowly crumble! Excellent work, my friend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502937",
+      "id": 173025591,
       "en": "Return to Candúr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502903",
+      "id": 173025539,
       "en": "Defeat Orc overseers in Skoironk ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Overseers in the Maggot-holes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d14",
+      "id": 51875092,
       "en": "Candúr believes Orcs in Skoironk may be plotting something.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d3",
+      "id": 184621267,
       "en": "Orc overseers can be found within the sprawling caverns of Skoironk.\\n\\nYou should defeat Orc overseers.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689c5",
+      "id": 190220741,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xb0118b4",
+      "id": 184621236,
       "en": "You should return to Candúr, who can be found at a small Ranger outpost hidden in the Slag-hills.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bc4",
+      "id": 148970436,
       "en": "Defeated Orc overseers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,1864 +2,1554 @@
   "id": 620757503,
   "txt": [
     {
-      "id": "0x24de635",
+      "id": 38659637,
       "en": "Camera Aligns to Slopes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc29d92",
+      "id": 214080914,
       "en": "Focus Loss Behaviour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdecb95",
+      "id": 14601109,
       "en": "Unavailable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c7b910",
+      "id": 80197904,
       "en": "Default volume level for new group members.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc5c8355",
+      "id": 207389525,
       "en": "Music Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb27249e",
+      "id": 187114654,
       "en": "Full Screen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3dd7c25",
+      "id": 64846885,
       "en": "Voice-over Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb8ec59",
+      "id": 247000153,
       "en": "Tooltip Delay",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5762400",
+      "id": 91628544,
       "en": "Adjusts the music volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfab72c0",
+      "id": 262894272,
       "en": "Scale multiplier for the AllegianceProgress UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b1c082",
+      "id": 45203586,
       "en": "Post Processing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x42854a7",
+      "id": 69751975,
       "en": "Triple Buffering",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6237f5",
+      "id": 224540661,
       "en": "Sound Effects Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b6b190",
+      "id": 146190736,
       "en": "Adjust the Voice capture threshold. Audio louder than this will be captured.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc29c350",
+      "id": 204063568,
       "en": "Enables tooltips in the UI",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf9b30e",
+      "id": 184136462,
       "en": "Full Screen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22acfc0",
+      "id": 36360128,
       "en": "Scale multiplier for the FellowshipVitals2 UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x47cfa1c",
+      "id": 75299356,
       "en": "Model Detail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5af214",
+      "id": 190509588,
       "en": "Automatic",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee9b453",
+      "id": 250197075,
       "en": "EscortVitals",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7cc1c65",
+      "id": 130817125,
       "en": "Voice Microphone Gain",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7355fa7",
+      "id": 120938407,
       "en": "Glow Mapping",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6eacd80",
+      "id": 116051328,
       "en": "Scale multiplier for the PetQuickslotBar UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a8de22",
+      "id": 27844130,
       "en": "Character",
-      "es": "Personaje",
-      "es (fem)": ""
+      "es": "Personaje"
     },
     {
-      "id": "0x81c11f7",
+      "id": 136057335,
       "en": "External Store",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc638840",
+      "id": 207849536,
       "en": "The number of simultaneous sounds the client will play",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda3ef98",
+      "id": 228847512,
       "en": "High",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1453245",
+      "id": 21312069,
       "en": "Default Group Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb517474",
+      "id": 189887604,
       "en": "Disabled",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc91e04c",
+      "id": 210886732,
       "en": "OpenGL",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd52a4f3",
+      "id": 223519987,
       "en": "Blob Shadows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x112d2c",
+      "id": 1125676,
       "en": "Detect Voice Devices",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf089d37",
+      "id": 252222775,
       "en": "Dynamic Particle Rendering",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8de4533",
+      "id": 148784435,
       "en": "QuickslotBars",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa30c770",
+      "id": 170968944,
       "en": "BarberShop",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe100465",
+      "id": 235930725,
       "en": "Voice Capture Device",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba296c5",
+      "id": 195204805,
       "en": "Tooltip Enable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc91e950",
+      "id": 210889040,
       "en": "Scale multiplier for the Vitals UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4087399",
+      "id": 67662745,
       "en": "Anisotropic Filter Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xac0bfc0",
+      "id": 180404160,
       "en": "Enables emissive surfaces to 'bloom' over foreground objects.   'Post Processing Effects' must also be enabled for this to work.  Disable this to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcccac90",
+      "id": 214740112,
       "en": "Choose the hardware device to use for playing voice chat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcfdc840",
+      "id": 217958464,
       "en": "Sets the quality of the pixel blur filter that's used for various effects such as light bloom.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf522b20",
+      "id": 257043232,
       "en": "Open the store in an external window.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83d46e0",
+      "id": 138233568,
       "en": "Enables soft shadows to be cast from buildings and other architecture on to the landscape.  Disable this option to slightly increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e3df0",
+      "id": 5127664,
       "en": "Adjusts the user interface sound volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x63b5fe0",
+      "id": 104554464,
       "en": "Automatically set various performance-related options to low settings while in PvMP areas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1f11a0",
+      "id": 203362720,
       "en": "Adjusts how far away landscape geography will be rendered. Lower distances can increase performance and will significantly decrease load times",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3b0094",
+      "id": 188416148,
       "en": "5:4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d81550",
+      "id": 165156176,
       "en": "If checked, the client will not play game sounds. Voice chat muting must be done by lowering the Voice Volume or by unchecking Voice Enabled.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x800e840",
+      "id": 134277184,
       "en": "Scale multiplier for the BarberShop UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa26a250",
+      "id": 170304080,
       "en": "Defines the method used to sort the list of characters on the Character Selection screen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d298c5",
+      "id": 47356101,
       "en": "Software-Stereo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b25b43",
+      "id": 129129283,
       "en": "Alerts",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa916f70",
+      "id": 177303408,
       "en": "Enabling this option may slightly increase your maximum possible frame rate in full screen mode, but uses more video memory resources.  We recommend leaving this setting disabled.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x248b59",
+      "id": 2394969,
       "en": "Landscape Lighting Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x333efb9",
+      "id": 53735353,
       "en": "Bloom Intensity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd013800",
+      "id": 218183680,
       "en": "Adjusts the contrast of the colours displayed on the screen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc986790",
+      "id": 211314576,
       "en": "Scale multiplier for the Generic Panels UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e79c05",
+      "id": 82287621,
       "en": "Avatar Update Visible",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2c2b2f",
+      "id": 237775663,
       "en": "Aspect Ratio",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d14fa7",
+      "id": 47271847,
       "en": "Specular Lighting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86d0782",
+      "id": 141363074,
       "en": "Toolbar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xab30104",
+      "id": 179503364,
       "en": "Ambient Light",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c0b7f8",
+      "id": 163624952,
       "en": "High",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2036c3",
+      "id": 2111171,
       "en": "Vitals",
-      "es": "Vitales",
-      "es (fem)": ""
+      "es": "Vitales"
     },
     {
-      "id": "0x4541c24",
+      "id": 72621092,
       "en": "Persist Sound",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x51866f0",
+      "id": 85485296,
       "en": "Length of time before tooltips appear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30acfc0",
+      "id": 51040192,
       "en": "Scale multiplier for the FellowshipVitals4 UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8d1075",
+      "id": 244125813,
       "en": "Floating Text Size",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8be53b4",
+      "id": 146690996,
       "en": "Disabled",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48dc20",
+      "id": 4774944,
       "en": "Adjusts the brightness of the ambient (global) light in the world.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd81df10",
+      "id": 226615056,
       "en": "Adjusts the amount of system memory the game will use for graphics resources.  Using a higher setting may reduce load times and improve performance on computers with plenty of memory.  Lower this setting to free up memory for other resources and potentially improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12330b5",
+      "id": 19083445,
       "en": "Frill Distance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9753082",
+      "id": 158675074,
       "en": "Lighting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x32b3920",
+      "id": 53164320,
       "en": "Enabling this option will cause the camera to smoothly recoil behind your character when you start moving.  When disabled, the camera will remain where you left it, even while moving your character.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb1e2fe",
+      "id": 229761790,
       "en": "Windowed Resolution",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x96c97c3",
+      "id": 158111683,
       "en": "Targets",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda3104",
+      "id": 14299396,
       "en": "Disabled",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9270dc0",
+      "id": 153554368,
       "en": "Displays player and target portraits over vital bars.  Set to false to improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6ec343",
+      "id": 242139971,
       "en": "Surface Reflections",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa93bd00",
+      "id": 177454336,
       "en": "Scale multiplier for the Radar UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c82d03",
+      "id": 97004803,
       "en": "InventoryBags",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9c12e0",
+      "id": 261886688,
       "en": "Scale multiplier for the PetVitals UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fb1d50",
+      "id": 50011472,
       "en": "Select the DirectX API level you would like to target.  Your video card and operating system must be capable of supporting DirectX 10 or DirectX 11 for this option to be available.  DirectX 9 is used if this option is disabled.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x44b05cc",
+      "id": 72025548,
       "en": "All",
-      "es": "Todos",
-      "es (fem)": ""
+      "es": "Todos"
     },
     {
-      "id": "0x21acfc0",
+      "id": 35311552,
       "en": "Scale multiplier for the FellowshipVitals1 UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec3ccf3",
+      "id": 247713011,
       "en": "Me + Targets",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39ff02",
+      "id": 171572994,
       "en": "Scenery",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ace8fd",
+      "id": 61663485,
       "en": "Custom",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef6ae0",
+      "id": 15690464,
       "en": "Scale multiplier for the InventoryBags UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8f600",
+      "id": 16315904,
       "en": "Select your display resolution when running the game in a desktop window.  Higher resolutions typically look better at the expense of performance. We recommend using at least 1024x768.  You can also resize the game window by dragging the edges of the window border when running in a desktop window.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa927b62",
+      "id": 177372002,
       "en": "PetQuickslotBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d0bf70",
+      "id": 80789360,
       "en": "Blends frills to terrain. This option requires DirectX 10 or DirectX 11. Turn off ok for better performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb25ac03",
+      "id": 187018243,
       "en": "Distant Imposters",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86c8280",
+      "id": 141329024,
       "en": "Enables Hands Free Voice. With this option enabled, your microphone will always be active. Otherwise, voice audio will only be captured while you are holding down the \\qVoice Push to Talk\\q button as configured in your Key Mapping options.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfd93f0",
+      "id": 16618480,
       "en": "Turning this option on shows the new avatar meshes and face textures. Off shows the original avatar meshes and textures.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x139b540",
+      "id": 20559168,
       "en": "Enable volumetric sun lighting effects.  This option requires DirectX 10+.  Disabling this option will improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb90fc0",
+      "id": 12128192,
       "en": "Turning this option off disables custom avatar face textures, decreasing memory usage. Especially useful in crowded player areas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x508cf80",
+      "id": 84463488,
       "en": "Scale multiplier for the Alerts UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x876646c",
+      "id": 141976684,
       "en": "Material Detail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ed115",
+      "id": 6213909,
       "en": "Maximum Frame Rate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aa4b92",
+      "id": 95046546,
       "en": "Overbright Bloom Filter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe952d30",
+      "id": 244657456,
       "en": "DirectX10",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b14e1f",
+      "id": 61951519,
       "en": "Auto",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe952d31",
+      "id": 244657457,
       "en": "DirectX11",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a8429e",
+      "id": 145244830,
       "en": "Camera Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbdcd9a2",
+      "id": 199023010,
       "en": "QuestTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe970bf5",
+      "id": 244780021,
       "en": "Combat sound volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x87996d3",
+      "id": 142186195,
       "en": "Analyzing your voice devices...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ea10f0",
+      "id": 32116976,
       "en": "Adjusts ambient sound volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe44b105",
+      "id": 239382789,
       "en": "Me",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x538f460",
+      "id": 87618656,
       "en": "Adjusts the intensity curve of colours displayed on the screen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x44f76f4",
+      "id": 72316660,
       "en": "Mouse Look Smoothing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5fa3e8",
+      "id": 257926120,
       "en": "Ultra High",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7a5f1d0",
+      "id": 128315856,
       "en": "The sensitivity of mouse controls while in mouse look mode.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa0b78bc",
+      "id": 168523964,
       "en": "Atmospherics Detail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe17c610",
+      "id": 236439056,
       "en": "When enabled, distant players will render faster, allowing more characters on screen at once.  However, this feature requires extra system memory and video memory.  Uncheck this option to free up more system resources.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x62dc3c4",
+      "id": 103662532,
       "en": "Contrast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2adc4a9",
+      "id": 44942505,
       "en": "Player Crowd Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc17d0",
+      "id": 31201232,
       "en": "Sets the opacity of 'floating labels' that appear above objects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8c1cb1c",
+      "id": 146918172,
       "en": "Normal",
-      "es": "Normal",
-      "es (fem)": ""
+      "es": "Normal"
     },
     {
-      "id": "0xf58d07e",
+      "id": 257478782,
       "en": "Full Screen Resolution",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc316430",
+      "id": 204563504,
       "en": "Changes the method used to filter textures in the game. Use 'Trilinear' for best performance.  'Anisotropic' will yield the highest visual quality but may greatly decrease performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde65822",
+      "id": 233199650,
       "en": "Shadows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x125fd90",
+      "id": 19266960,
       "en": "Adjusts the size of the area of interactive water.  This option requires DirectX 11.  Use a lower setting to improve rendering performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9dd7c05",
+      "id": 165510149,
       "en": "User Interface Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff6ab85",
+      "id": 267824005,
       "en": "Hands Free Voice",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98d3133",
+      "id": 160248115,
       "en": "Reset Camera When Moving",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a9b70",
+      "id": 9083760,
       "en": "Adjusts sound playback.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6553a0",
+      "id": 191189920,
       "en": "Adjusts the master volume level of all audio channels",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x480c890",
+      "id": 75548816,
       "en": "Enable Ambient Occlusion post processing.  This option requires DirectX 11.  Disabling this option will improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x761be79",
+      "id": 123846265,
       "en": "Mouse Look Sensitivity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9fb638e",
+      "id": 167469966,
       "en": "Sound Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb85ab0",
+      "id": 263740080,
       "en": "Scale multiplier for the SoldierVitals UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3240ab0",
+      "id": 52693680,
       "en": "Detects the best settings for your current hardware.  This will automatically adjust most of graphics options to provide an optimal balance between performance and visual quality.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2facfc0",
+      "id": 49991616,
       "en": "Scale multiplier for the FellowshipVitals3 UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc35db0",
+      "id": 214130096,
       "en": "Sets the quality of atmospheric effects such as rain and snow.  Use a lower setting to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d5ef74",
+      "id": 114683764,
       "en": "Engine Speed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ae3df0",
+      "id": 44973552,
       "en": "Adjusts the voice-over volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe0b1aa3",
+      "id": 235608739,
       "en": "Environment Stencil Shadows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6925f21",
+      "id": 110255905,
       "en": "FellowshipVitals1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4911fb0",
+      "id": 76619696,
       "en": "Specifies the network latency threshold in milliseconds for incoming voice chat. A higher threshold will delay voice playback slightly but will allow for smoother audio playback.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb355442",
+      "id": 188044354,
       "en": "Frill Terrain Color",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6925f22",
+      "id": 110255906,
       "en": "FellowshipVitals2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b18c05",
+      "id": 78744581,
       "en": "None",
-      "es": "Ninguno",
-      "es (fem)": ""
+      "es": "Ninguno"
     },
     {
-      "id": "0x2c8c4b9",
+      "id": 46711993,
       "en": "Sound Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6925f23",
+      "id": 110255907,
       "en": "FellowshipVitals3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6925f24",
+      "id": 110255908,
       "en": "FellowshipVitals4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x355ba84",
+      "id": 55949956,
       "en": "Voice Capture Threshold",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x91e55e0",
+      "id": 152983008,
       "en": "When running in full screen mode, this setting adjusts the monitor refresh rate.  We recommend you set this to 'Auto', which will use a safe refresh rate for your display configuration.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaeaed83",
+      "id": 183168387,
       "en": "Landscape Shadows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd04b18",
+      "id": 214977304,
       "en": "Very High",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4750800",
+      "id": 74778624,
       "en": "Adjusts the visual quality of water reflections and mirrors.  'Post Processing Effects' must also be enabled.  When set to 'Low', only the sky will be visible in outdoor reflections.  'High' will reflect most nearby scenery, and higher settings will allow more distant objects to be visible in reflections.  Disable this feature to greatly increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf971403",
+      "id": 261559299,
       "en": "Sound Playback",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3358293",
+      "id": 53838483,
       "en": "Stencil Shadows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1776ac0",
+      "id": 24603328,
       "en": "Scale multiplier for the ClassAbilities UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5935723",
+      "id": 93542179,
       "en": "Disable music",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2c8613",
+      "id": 204244499,
       "en": "Analyzing your hardware...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x27967d0",
+      "id": 41510864,
       "en": "Scale multiplier for the Character UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x91e337f",
+      "id": 152974207,
       "en": "Auto",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c9c200",
+      "id": 63554048,
       "en": "Forces floating text to always draw on top of all 3D objects and scenery.  Normally, most floating text will be occluded by 3D objects in the scene.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb914a4",
+      "id": 213456036,
       "en": "Persistent Sound",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x88d1a82",
+      "id": 143465090,
       "en": "Colour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3973650",
+      "id": 60241488,
       "en": "When enabled, the camera will automatically adjust its pitch to look up or down slopes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b18680",
+      "id": 95520384,
       "en": "If checked, the client will use EAX if available",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da4367",
+      "id": 81412967,
       "en": "Low",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa418f0",
+      "id": 178526448,
       "en": "Allows for high quality lighting and shadow features, such as normal mapping, glow mapping and specular highlights.  Disable this option to significantly improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xadbfd95",
+      "id": 182189461,
       "en": "Refresh Rate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad93870",
+      "id": 182007920,
       "en": "This option controls the graphics quality of characters and scenery when a large number of players are nearby.  Use a lower setting to improve rendering performance in crowded areas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ae5f07",
+      "id": 112090887,
       "en": "Avatar Texture Compositing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34363e0",
+      "id": 54748128,
       "en": "This is an experimental setting that allows you to select which particle effects to render on dynamic objects such as your player and NPCs. Note that some effects will still play even when disabled and you may lose important feedback.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b12a80",
+      "id": 61942400,
       "en": "You can override the aspect ratio for the game's graphics with this setting.  Selecting 'Auto' will choose an aspect automatically based on your display resolution.  In some resolutions (where pixels are not square) you can override the aspect ratio by changing this setting to match your monitor's aspect ratio.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3da3e8c",
+      "id": 64634508,
       "en": "Detect Optimal Settings",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9053c40",
+      "id": 151338048,
       "en": "Scale multiplier for the Toolbar UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf829fc5",
+      "id": 260218821,
       "en": "Hardware-3D",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92a8cd0",
+      "id": 153783504,
       "en": "Very Sharp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8fe3d72",
+      "id": 150879602,
       "en": "Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa735b90",
+      "id": 175332240,
       "en": "Enables shadows cast from certain indoor props and architecture.  Uncheck this option to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2e7030",
+      "id": 237924400,
       "en": "Adjusts the volume of received voice audio.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x31e1060",
+      "id": 52301920,
       "en": "Scale multiplier for the QuickslotBars UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf66c270",
+      "id": 258392688,
       "en": "Blob shadows will be rendered for characters when more detailed shadows are not available.  You can disable this to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf5adc0",
+      "id": 217427392,
       "en": "Adjusts the overall resolution of textures.  Higher quality textures require more video memory but will greatly increase image quality.  In order to use the highest setting, you must have 'High Resolution Textures' installed and up-to-date.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf05b1d3",
+      "id": 252031443,
       "en": "Safe Mode",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83b50",
+      "id": 539472,
       "en": "Specifies the percentage of frills that are loaded. Use a lower setting for better performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaff00c0",
+      "id": 184484032,
       "en": "Increases visual quality by adding specular highlights to shiny surfaces.  'High Quality Lighting' mode must be enabled for this to work.  Disable this setting to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x248cb70",
+      "id": 38325104,
       "en": "Adjusts the brightness of the colours displayed on the screen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ffde19",
+      "id": 50322969,
       "en": "Floating Text Opacity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57d7170",
+      "id": 92107120,
       "en": "Scale multiplier for the EscortVitals UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf85c940",
+      "id": 260426048,
       "en": "Adjusts sound effects volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33717d",
+      "id": 3371389,
       "en": "Custom",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf12e70e",
+      "id": 252897038,
       "en": "UI Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ac7100",
+      "id": 28078336,
       "en": "When checked, the game runs in full screen mode, otherwise it runs in a window on your desktop.  You can also press 'Alt + Enter' to toggle full screen mode at any time.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2576040",
+      "id": 39280704,
       "en": "Increases the rate at which the radar map is updated. Uncheck this option for a marginal performance gain.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c0b410",
+      "id": 163623952,
       "en": "Enables shadows for characters and certain indoor props and architecture.  This setting also controls the distance these shadows will be visible from.  Use a lower setting to improve performance, or disable this to greatly increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6fd292",
+      "id": 242209426,
       "en": "Texturing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b08f09",
+      "id": 61902601,
       "en": "16:9",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa687b70",
+      "id": 174619504,
       "en": "When checked, sounds will continue to play even if the game focus is lost or minimized",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcfb5310",
+      "id": 217797392,
       "en": "Adjusts how far away characters and scenery objects are rendered.  Set this to 'Low' to improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb21423",
+      "id": 196219939,
       "en": "Brightness",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb71d714",
+      "id": 192010004,
       "en": "Windowed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e9cece",
+      "id": 65654478,
       "en": "Per Pixel Lighting Attenuation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xabf3280",
+      "id": 180302464,
       "en": "Adjusts the volume of music generated by players",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfec2e60",
+      "id": 267136608,
       "en": "Scale multiplier for the MountDisplay UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b36d00",
+      "id": 162753792,
       "en": "When Texture Filtering is set to Anisotropic, this adjusts the quality level of the anisotropic filter.  Higher values yield better image quality at the expense of performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb9b974",
+      "id": 213498228,
       "en": "Graphics qualities above medium are unavailable until the full game download is complete and the game is restarted.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3965022",
+      "id": 60182562,
       "en": "Particle Effects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ec3377",
+      "id": 32256887,
       "en": "Your machine configuration may experience performance problems running in DirectX 10. If you encounter any problems, turn this option off in the Graphics Options.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29c18e7",
+      "id": 43784423,
       "en": "Low",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeef97c0",
+      "id": 250582976,
       "en": "Enables graphics post-processing such as motion blur and bloom.  Turn this off to greatly improve performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea2a330",
+      "id": 245539632,
       "en": "Floating Text Always On Top",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1bd15f9",
+      "id": 29169145,
       "en": "Frill Density",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd1d78d0",
+      "id": 220035280,
       "en": "Increases lighting quality by calculating the distance between a pixel's postion and the light's postion. Disable this setting to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd44d680",
+      "id": 222615168,
       "en": "Scale multiplier for the Options UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe71d50",
+      "id": 266804560,
       "en": "Mouse look smoothing will filter mouse input so that the camera movements are smoother, but can slightly lower the precision of your controls.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ef2bf0",
+      "id": 116337648,
       "en": "Adjusts outgoing voice volume to be heard by fellowship. Perform a Mic Test to verify its setting.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x80eb6c0",
+      "id": 135182016,
       "en": "Slows the game engine down.  At the highest setting, the game runs as fast as it can.  Lower settings can be used to help troubleshoot random system crashes and freezes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf1b198",
+      "id": 217166232,
       "en": "Sync To Refresh Rate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd22a2e",
+      "id": 215099950,
       "en": "Enable XInput Detection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48b92c5",
+      "id": 76255941,
       "en": "Object Draw Distance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3fc65f9",
+      "id": 66872825,
       "en": "MountDisplay",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x652ec70",
+      "id": 106097776,
       "en": "Choose the hardware device to use for capturing voice chat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb73ebd3",
+      "id": 192146387,
       "en": "Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22a8d60",
+      "id": 36343136,
       "en": "Enables precipitation effects such as rain and snow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c7dfe3",
+      "id": 96985059,
       "en": "Post Processing Effects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa04da2e",
+      "id": 168090158,
       "en": "Effects Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33a1962",
+      "id": 54139234,
       "en": "Display",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x94e7f93",
+      "id": 156139411,
       "en": "3D Object Portraits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x677c852",
+      "id": 108513362,
       "en": "Performance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba1845e",
+      "id": 195134558,
       "en": "Rendering Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d07780",
+      "id": 47216512,
       "en": "Enabling this option will flip the vertical rotation direction while in mouse look mode.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f1a480",
+      "id": 99722368,
       "en": "When set to High, enables specular highlights on certain types of terrain.  When set to Very High, bump maps are enabled for certain terrain surfaces as well.  Set this option to Low to improve rendering performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1bae38e",
+      "id": 29025166,
       "en": "Input Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf40abb",
+      "id": 200542907,
       "en": "Voice Playback Device",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xccd1927",
+      "id": 214767911,
       "en": "Very Low",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e952d9",
+      "id": 132731609,
       "en": "DirectX9",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xed2892",
+      "id": 15542418,
       "en": "Trilinear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x189aff3",
+      "id": 25800691,
       "en": "AllegianceProgress",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf647fbc",
+      "id": 258244540,
       "en": "Texture Detail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8644e4",
+      "id": 226903268,
       "en": "Max",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd60d1f0",
+      "id": 224449008,
       "en": "Allows the client to give a hint to the server about how much bandwidth it has.  This can help modem users a lot.  Use the actual connexion speed (not the maximum possible speed.)  It is better to use a speed that is too low than to use a speed that is too high.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4a30e2d",
+      "id": 77794861,
       "en": "Custom",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcdaba5",
+      "id": 13478821,
       "en": "Player music volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x854a6a4",
+      "id": 139765412,
       "en": "Character Selection Sorting Method",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7027b2",
+      "id": 225454002,
       "en": "Sound System",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57fcca7",
+      "id": 92261543,
       "en": "High Quality Lighting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x432ca3e",
+      "id": 70437438,
       "en": "DX11 Ambient Occlusion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x726eb58",
+      "id": 119991128,
       "en": "Use EAX",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x151bc67",
+      "id": 22133863,
       "en": "Antialiasing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb08f070",
+      "id": 185135216,
       "en": "16:10",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb5239e",
+      "id": 229974942,
       "en": "Character Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x43bfd1d",
+      "id": 71040285,
       "en": "Medium",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd840e5",
+      "id": 198721765,
       "en": "Voice Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79e4c15",
+      "id": 127814677,
       "en": "Ambient Sound Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92cf120",
+      "id": 153940256,
       "en": "Enabling this option may eliminate horizontal 'tearing' artifacts in at the expense of some performance.  This only works when running in full screen mode.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa969de2",
+      "id": 177642978,
       "en": "Objects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7a48e70",
+      "id": 128224880,
       "en": "Adjusts the quality of certain surface shaders, such as tree leaves.  Set this to 'Low' to significantly increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9967523",
+      "id": 160855331,
       "en": "Precipitation Effects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2642590",
+      "id": 40117648,
       "en": "This setting controls the distance at which complex 3D geometry will be rendered.  Set this to 'Low' to increase performance at the expense of visual quality.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75282cc",
+      "id": 122847948,
       "en": "Overall Graphics Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xade27a0",
+      "id": 182331296,
       "en": "Scale multiplier for the QuestTracker UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xacfb9c5",
+      "id": 181385669,
       "en": "Landscape Draw Distance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba5f714",
+      "id": 195426068,
       "en": "Volumetric Sun Light",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5a9c80",
+      "id": 257596544,
       "en": "Adjusts combat sound volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd06c7c3",
+      "id": 218548163,
       "en": "Number of Sounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc33bcd4",
+      "id": 204717268,
       "en": "Connexion Speed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x439db23",
+      "id": 70900515,
       "en": "Invert Mouse Y Axis",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9cfc3e0",
+      "id": 164611040,
       "en": "Specifies sound behaviour when the game focus is lost or minimized",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3616850",
+      "id": 56715344,
       "en": "Sharp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d06575",
+      "id": 164652405,
       "en": "Mute Sound",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3b0793",
+      "id": 188417939,
       "en": "4:3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe753a5",
+      "id": 15160229,
       "en": "Screen Mode",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe0d6c0",
+      "id": 199284416,
       "en": "Controls the intensity of the dream-like glow effect that brightens the scene and blurs pixels together.  'Post Processing Effects' must be enabled for bloom effects to be visible.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2bb28f3",
+      "id": 45820147,
       "en": "SoldierVitals",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8247a82",
+      "id": 136608386,
       "en": "Bilinear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf6b99b5",
+      "id": 258709941,
       "en": "Master Volume",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9395080",
+      "id": 154751104,
       "en": "When enabled, very brightly lit surfaces will always 'bloom' over foreground objects.  'Post Processing Effects' must also be enabled for this to work.  Disable this to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb8dac3",
+      "id": 12114627,
       "en": "Panels",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8995373",
+      "id": 144266099,
       "en": "Static Environmental Objects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xffadf3",
+      "id": 16756211,
       "en": "PetVitals",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41b2f0",
+      "id": 4305648,
       "en": "Enables trees and other objects to be rendered over distant landscape.  Disable this to increase performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84b4727",
+      "id": 139151143,
       "en": "Radar Animation Smoothing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xabd9f00",
+      "id": 180199168,
       "en": "Select whether the game runs in full screen mode or a window on your desktop. You can also press 'Alt + Enter' to toggle full screen mode at any time.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x994e5d5",
+      "id": 160753109,
       "en": "Disable Sound",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d814d3",
+      "id": 30938323,
       "en": "OpponentVitals",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2c7c9",
+      "id": 14862281,
       "en": "Blur Filter Quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa11ab70",
+      "id": 168930160,
       "en": "Detects the current voice devices (playback and capture) that are enabled.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x599b693",
+      "id": 93959827,
       "en": "Anisotropic",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe482f13",
+      "id": 239611667,
       "en": "ClassAbilities",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d66730",
+      "id": 148268848,
       "en": "Allows you to select from a list of supported full screen resolutions. Higher resolutions typically look better at the expense of performance. We recommend using at least 1024x768.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6617a12",
+      "id": 107051538,
       "en": "DX11 Interactive Water",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x40eca90",
+      "id": 68078224,
       "en": "When checked, XInput devices will be detected and enabled. Warning: May negatively impact performance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2352d5",
+      "id": 220418773,
       "en": "Texture Cache Size",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b60720",
+      "id": 28706592,
       "en": "Attempts to limit the frame rate to the specified amount.  Set all the way to the right to disable the limit, and display as many frames per second as possible.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb4ea40",
+      "id": 196405824,
       "en": "Adjusts sound system that is used by your sound card. You must close the app for this change.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2880c7",
+      "id": 237535431,
       "en": "Texture Filtering",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b18551",
+      "id": 78742865,
       "en": "Gamma Level",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x88b5d65",
+      "id": 143351141,
       "en": "PvMP Performance Override",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5bff694",
+      "id": 96466580,
       "en": "Disable Game Sounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75b3b30",
+      "id": 123419440,
       "en": "Sets the size of 'floating labels' that appear above objects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc42e2e7",
+      "id": 205710055,
       "en": "Player Mesh Combining",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc04e30",
+      "id": 197152304,
       "en": "Adjust the overall graphics quality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0573a2",
+      "id": 252015522,
       "en": "Radar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2eadf40",
+      "id": 48947008,
       "en": "If checked, the client will not play game music",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e6f1f0",
+      "id": 115798512,
       "en": "Enables antialiasing and configures the antialiasing quality level. A large number of antialiasing samples will increase visual quality but may greatly decrease performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdae6b70",
+      "id": 229534576,
       "en": "Scale multiplier for the OpponentVitals UI element.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x96fc544",
+      "id": 158319940,
       "en": "Full Screen (Windowed)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48f7625",
+      "id": 76510757,
       "en": "Graphics Hardware Level",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x52f5848",
+      "id": 86988872,
       "en": "Voice Playback Latency (ms)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc1d930",
+      "id": 197253424,
       "en": "Adjusts how far away landscape 'frills' are rendered (foliage and ground clutter).  Use a lower setting for better performance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71a7f00",
+      "id": 119176960,
       "en": "Enables particle effects on motionless environmental objects such as braziers and lanterns. Disabling this setting will improve rendering performance in areas with many environmental particle effects.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

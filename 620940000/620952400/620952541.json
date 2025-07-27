@@ -2,22 +2,19 @@
   "id": 620952541,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Rupture",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Enhances the Hammer Down skill.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Successful strikes with Hammer Down now remove all active bleeds dealing bonus damage for each bleed that is removed.\\n\\nAdditionally, for each bleed that is removed, increases the Incoming Damage on the target by +2% for 10 seconds.\\n\\nApplies the bleed Rupture Artery.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

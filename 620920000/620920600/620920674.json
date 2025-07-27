@@ -2,22 +2,19 @@
   "id": 620920674,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Grievous Wounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Increases initial and Bleed damage of Grave Wound.\\n\\nMax rank causes Grave Wound to cause an incoming Healing debuff.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554672",
+      "id": 106251890,
       "en": "Grave Wound applies a -50% Incoming Healing debuff to the target",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

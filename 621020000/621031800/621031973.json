@@ -2,214 +2,179 @@
   "id": 621031973,
   "txt": [
     {
-      "id": "0xeb01171",
+      "id": 246419825,
       "en": "Fanglind can be found near Lyndelby.\\n\\nYou should talk to Fanglind.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Farewell Lyndelby",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'From now on, you may call me Maddy. Everyone else in the village does! Hmm, it looks like you mean to depart soon. Have you another adventure afoot?! I'm sure you do! Well, before you leave, you should say good-bye to everyone! It is the neighbourly thing to do after all! Farewell, friend!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d859d7",
+      "id": 30955991,
       "en": "'Hmm, it looks like you mean to depart soon. Have you another adventure afoot?!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a6",
+      "id": 246419878,
       "en": "The Holbytlan can be found in Lyndelby.\\n\\nYou should <rgb=#FF0000>wave</rgb> good-bye to the Holbytlan you have met with today.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff1",
+      "id": 171573233,
       "en": "'Bye now! It has been a lovely time indeed!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff2",
+      "id": 171573234,
       "en": "'It was a pleasure to spend time with you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff3",
+      "id": 171573235,
       "en": "'I do hope you come back soon!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50260",
+      "id": 111477344,
       "en": "Completed",
-      "es": "Completado",
-      "es (fem)": ""
+      "es": "Completado"
     },
     {
-      "id": "0xa39fff4",
+      "id": 171573236,
       "en": "'Safe travels, my friend!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff5",
+      "id": 171573237,
       "en": "'I thank you for all that you have done!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff6",
+      "id": 171573238,
       "en": "'Leaving so soon?!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50262",
+      "id": 111477346,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Madelgard Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff7",
+      "id": 171573239,
       "en": "'Good-bye, friend!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50263",
+      "id": 111477347,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Heldric Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01157",
+      "id": 246419799,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa39fff8",
+      "id": 171573240,
       "en": "'If you must depart, then I shall keep my good-bye a short one!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50264",
+      "id": 111477348,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Ogiva Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50265",
+      "id": 111477349,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Vilihad Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50266",
+      "id": 111477350,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Valaric Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50267",
+      "id": 111477351,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Odger Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50268",
+      "id": 111477352,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Erma Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50269",
+      "id": 111477353,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Ubbo Bolga",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56818",
+      "id": 162883608,
       "en": "'Is it time already for you to leave? Let old Grandmother Maddy have a look at you!'\\n\\nMadelgard looks you up and down, adjusts something on your clothing, and then steps back. With a smile on her face, she puts her hands on her hips and looks at you, beaming with pride.\\n\\n'Where do you mean to go next, [placeholder]? Have you another adventure afoot? Bah, I'm sure you do! Well, before you leave, you should say good-bye to everyone! It has been a long time since your last visit, and besides, it is the neighbourly thing to do! I know that all of us will miss you, too!'\\n\\nMadelgard pauses for a moment, her face serious, but still kind.\\n\\n'Go with all of my love, [placeholder]. I—we are always here for you, no matter where your journey may lead.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50210",
+      "id": 111477264,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Gísla Bolga",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56819",
+      "id": 162883609,
       "en": "'Welcome back, [placeholder]. It was good to see you again, if only for a moment.\\n\\n'Did you enjoy your visit with your family and cousins? It seemed as if they had no shortage of tasks for you to undertake, despite your visit being entirely unexpected. Is this a sort of queer custom among your folk? If it is, I was not aware of it.\\n\\n'Although I am certain you will miss their company, as you must have when last you departed, it must be some minor relief to return to your adventures in the North. You need not worry about them, my friend. We Eagles have long kept watch over the Holbytlan—for thousands of years in the reckoning of your folk. Whether or not you choose to put aside your adventures and rejoin the river-folk in the days to come, I and the others of my kind will continue to guard them from the perils of Middle-earth. That is my promise to you.\\n\\n'May your feet carry you safely wherever you wish to go, my friend. I await your next return!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Maddy and all of Lyndelby send well wishes to those who depart their hidden village.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50211",
+      "id": 111477265,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Badehild Bolga",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50212",
+      "id": 111477266,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Fastrada Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01106",
+      "id": 246419718,
       "en": "You should travel over the old stone bridge and leave Lyndelby.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56879",
+      "id": 162883705,
       "en": "'Greetings [placeholder]. I am surprised the town of Lyndelby greeted you at all. Some of the younger Men who once lived in these parts befriended a few of the Holbytlan. They were considered a curiosity, yet with their elusiveness, their presence quickly fell to mere rumours among the Men. We Eagles have kept watch over the Holbytlan ever since. All I ask is that you speak to no one of Lyndelby. We wish for the simple lives of the Holbytlan to be not disturbed.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50213",
+      "id": 111477267,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Clodar Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50214",
+      "id": 111477268,
       "en": "<rgb=#FF0000>Wave</rgb> good-bye to Húbald Túcca",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50215",
+      "id": 111477269,
       "en": "Talk to Fanglind near Lyndelby",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50278",
+      "id": 111477368,
       "en": "Leave Lyndelby",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,172 +2,144 @@
   "id": 620756995,
   "txt": [
     {
-      "id": "0x8c8cb14",
+      "id": 147376916,
       "en": "Wrist",
-      "es": "Muñeca",
-      "es (fem)": ""
+      "es": "Muñeca"
     },
     {
-      "id": "0x109abc4",
+      "id": 17411012,
       "en": "Head",
-      "es": "Cabeza",
-      "es (fem)": ""
+      "es": "Cabeza"
     },
     {
-      "id": "0xa5cc3fd",
+      "id": 173851645,
       "en": "Are you sure you want to DESTROY this stack of [placeholder] to extract [placeholder] [placeholder] from each?\\n",
-      "es": "¿Estás seguro de que quieres DESTRUIR esta pila de [placeholder] para extraer [placeholder] [placeholder] de cada uno?\\n",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres DESTRUIR esta pila de [placeholder] para extraer [placeholder] [placeholder] de cada uno?\\n"
     },
     {
-      "id": "0x9de7b4",
+      "id": 10348468,
       "en": "Chest",
-      "es": "Pecho",
-      "es (fem)": ""
+      "es": "Pecho"
     },
     {
-      "id": "0x1c77462",
+      "id": 29848674,
       "en": "Are you sure you want to alter the colour of the [placeholder]?\\n",
-      "es": "¿Estás seguro de que quieres alterar el color del / de la [placeholder]?\\n",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres alterar el color del / de la [placeholder]?\\n"
     },
     {
-      "id": "0x9baad3e",
+      "id": 163228990,
       "en": "Are you sure you want to change the pattern of [placeholder]?\\n",
-      "es": "¿Estás seguro de que quieres cambiar el patrón de [placeholder]?\\n",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres cambiar el patrón de [placeholder]?\\n"
     },
     {
-      "id": "0x9d6da3",
+      "id": 10317219,
       "en": "Feet",
-      "es": "Pies",
-      "es (fem)": ""
+      "es": "Pies"
     },
     {
-      "id": "0x109c72b",
+      "id": 17418027,
       "en": "Back",
-      "es": "Espalda",
-      "es (fem)": ""
+      "es": "Espalda"
     },
     {
-      "id": "0x10ef6ec",
+      "id": 17757932,
       "en": "Tool",
-      "es": "Herramienta",
-      "es (fem)": ""
+      "es": "Herramienta"
     },
     {
-      "id": "0xd35cb54",
+      "id": 221629268,
       "en": "Ranged",
-      "es": "A distancia",
-      "es (fem)": ""
+      "es": "A distancia"
     },
     {
-      "id": "0x10a6b53",
+      "id": 17460051,
       "en": "Legs",
-      "es": "Piernas",
-      "es (fem)": ""
+      "es": "Piernas"
     },
     {
-      "id": "0x24a7a19",
+      "id": 38435353,
       "en": "Off-hand",
-      "es": "Mano secundaria",
-      "es (fem)": ""
+      "es": "Mano secundaria"
     },
     {
-      "id": "0xf82a0d7",
+      "id": 260219095,
       "en": "Ear",
-      "es": "Oreja",
-      "es (fem)": ""
+      "es": "Oreja"
     },
     {
-      "id": "0xcb550e8",
+      "id": 213209320,
       "en": "Ranged Aura",
-      "es": "Aura a distancia",
-      "es (fem)": ""
+      "es": "Aura a distancia"
     },
     {
-      "id": "0xb312d95",
+      "id": 187772309,
       "en": "Neck",
-      "es": "Cuello",
-      "es (fem)": ""
+      "es": "Cuello"
     },
     {
-      "id": "0xe3530c4",
+      "id": 238366916,
       "en": "Pocket",
-      "es": "Bolsillo",
-      "es (fem)": ""
+      "es": "Bolsillo"
     },
     {
-      "id": "0x7a1d718",
+      "id": 128046872,
       "en": "Off-hand Aura",
-      "es": "Aura de mano secundaria",
-      "es (fem)": ""
+      "es": "Aura de mano secundaria"
     },
     {
-      "id": "0x10ed0f7",
+      "id": 17748215,
       "en": "Finger",
-      "es": "Dedo",
-      "es (fem)": ""
+      "es": "Dedo"
     },
     {
-      "id": "0x248f2d",
+      "id": 2395949,
       "en": "Are you sure you want to upgrade your [placeholder]?\\n",
-      "es": "¿Estás seguro de que quieres mejorar tu [placeholder]?\\n",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres mejorar tu [placeholder]?\\n"
     },
     {
-      "id": "0x9a3ddc3",
+      "id": 161734083,
       "en": "Hands",
-      "es": "Manos",
-      "es (fem)": ""
+      "es": "Manos"
     },
     {
-      "id": "0x5643838",
+      "id": 90454072,
       "en": "Main-hand Aura",
-      "es": "Aura de mano principal",
-      "es (fem)": ""
+      "es": "Aura de mano principal"
     },
     {
-      "id": "0x90e997d",
+      "id": 151951741,
       "en": "Are you sure you want to DESTROY this stack of [placeholder] to extract [placeholder] from each?\\n",
-      "es": "¿Estás seguro de que quieres DESTRUIR esta pila de [placeholder] para extraer [placeholder] de cada uno?\\n",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres DESTRUIR esta pila de [placeholder] para extraer [placeholder] de cada uno?\\n"
     },
     {
-      "id": "0xa04ca9",
+      "id": 10505385,
       "en": "Empty",
-      "es": "Vacío",
-      "es (fem)": ""
+      "es": "Vacío"
     },
     {
-      "id": "0x11a92ae",
+      "id": 18518702,
       "en": "Are you sure you want to dye and change the pattern of [placeholder]?\\n",
-      "es": "¿Estás seguro de que quieres teñir y cambiar el patrón de [placeholder]?\\n",
-      "es (fem)": ""
+      "es": "¿Estás seguro de que quieres teñir y cambiar el patrón de [placeholder]?\\n"
     },
     {
-      "id": "0x9e23b3",
+      "id": 10363827,
       "en": "Class Slot",
-      "es": "Ranura de clase",
-      "es (fem)": ""
+      "es": "Ranura de clase"
     },
     {
-      "id": "0xcb85649",
+      "id": 213407305,
       "en": "Main-hand",
-      "es": "Mano principal",
-      "es (fem)": ""
+      "es": "Mano principal"
     },
     {
-      "id": "0xfdb2412",
+      "id": 266019858,
       "en": "Shoulder",
-      "es": "Hombro",
-      "es (fem)": ""
+      "es": "Hombro"
     },
     {
-      "id": "0x8614a14",
+      "id": 140593684,
       "en": "Bridle",
-      "es": "Riendas",
-      "es (fem)": ""
+      "es": "Riendas"
     }
   ]
 }

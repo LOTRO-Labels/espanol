@@ -2,148 +2,124 @@
   "id": 621098349,
   "txt": [
     {
-      "id": "0x9cd00f1",
+      "id": 164430065,
       "en": "'Please!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Ah, there you are! Did you take care of those bandits?'\\n\\nYou tell her there are no longer bandits at the camp along the road.\\n\\n'It is a shame that we get more help from strangers than from the Ordâkhai têshu. You have the gratitude of not just myself, but all of the merchants here. Here is something for your trouble.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Delivering Justice",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9cd00f2",
+      "id": 164430066,
       "en": "'I surrender!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'Please! Do not strike me down! I do not wish to fight you!'\\n\\nYou lower your weapon and allow the man to speak.\\n\\n'I only joined them recently and have committed no crimes! I was in the army but the rations are shrinking and our pay comes late, if it comes at all, these past few months. I am no fool and can see that the empire wanes. I abandoned my post, thinking I would return home. These men came across me in the desert and I acted friendly with them so they would not kill me. They had food and water, and I was desperate.\\n\\n'Please... spare me. Spare me and I will serve you! Ah, I see on your face that this is distasteful to you. What would you have me do? Tell me and I will do it! I am a good man, I swear.'\\n\\nYou tell him to meet you outside of Western Khanâg, and the man nods to you.\\n\\n'Thank you. My name is Andur and I will meet you at the village gate.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Meet Andur near the gate to Western Khanâg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56889",
+      "id": 162883721,
       "en": "'I thank you for your mercy. I hope to find honest work here. You have done so much for me already, but I must ask - please do not tell anyone here of my past. If the people here knew I was with the bandits, they would either kill me or turn me out. In this land, I would not live long on my own.'\\n\\nYou agree and tell the man to stay out of trouble.\\n\\n'Yes, I will. Of course! Thank you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Tell me, stranger, are you a warrior? I only ask because I and many other traders here need help. Bandits prey upon trade caravans like packs of hungry jackals. It is so bad that many people will not even attempt to trade with us anymore because it is not worth the risk.\\n\\n'The bandits have become so bold as to set up a camp with barricades along the road where they charge travellers a 'tax'. They beat and rob anyone who does not pay them willingly, and the Ordâkhai do nothing. If you wish to be of help to the Khûdi, we can offer you a small reward to rid us of them. They are along the road to west, at the crest of a hill.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Talk to Andur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "Defeated Khûdi bandits ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Talk to Tibira",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Tibira told you of bandits robbing travellers on the road and asked for your help.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "These must be the bandits of which Tibira spoke",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Tibira has asked you to deal with the bandits that have placed a barricade along the road west of Western Khanâg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "Tibira has asked you to deal with the bandits that have placed a barricade along the road west of Western Khanâg. One of the bandits is surrendering. You should talk to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Defeat Khûdi bandits ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Tibira has asked you to deal with the bandits that have placed a barricade along the road west of Western Khanâg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Talk to the Khûdi bandit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Locate the bandits hindering travellers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Tibira has asked you to deal with the bandits that have placed a barricade along the road west of Western Khanâg. One of the bandits surrendered and has agreed to meet you outside of Western Khanâg, near the southern gate.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Tibira has asked you to deal with the bandits that have placed a barricade along the road west of Western Khanâg. One of the bandits surrendered and has agreed to meet you outside of Western Khanâg, near the southern gate. You should talk to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "Tibira has asked you to deal with the bandits that have placed a barricade along the road west of Western Khanâg. One of the bandits surrendered and has entered Western Khanâg, promising to do only honest work. You should return to Tibira and talk to her.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     }
   ]
 }

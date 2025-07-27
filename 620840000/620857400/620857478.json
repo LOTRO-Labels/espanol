@@ -2,100 +2,84 @@
   "id": 620857478,
   "txt": [
     {
-      "id": "0xaeb8bd4",
+      "id": 183208916,
       "en": "Could not find your request in the encounter queue.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf3963e",
+      "id": 200513086,
       "en": "You already have an open invitation to launch an encounter. Do you really want to make a new request? This will cancel the open invitation.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9137575",
+      "id": 152270197,
       "en": "Your request was removed from the encounter queue.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68e13a7",
+      "id": 109974439,
       "en": "The encounter is starting up, you will be teleported in shortly.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5dfcfd4",
+      "id": 98553812,
       "en": "Encounter: [placeholder]\\n\\nCurrent position in encounter queue: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc872582",
+      "id": 210183554,
       "en": "Invalid",
-      "es": "Inválido",
-      "es (fem)": ""
+      "es": "Inválido"
     },
     {
-      "id": "0xad7f0bf",
+      "id": 181924031,
       "en": "Your request is currently at position [placeholder] in the encounter queue.\\n[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55c8c7e",
+      "id": 89951358,
       "en": "The server is busy. Would you like to be added to the encounter queue?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbadfca5",
+      "id": 195951781,
       "en": "None",
-      "es": "Ninguno",
-      "es (fem)": ""
+      "es": "Ninguno"
     },
     {
-      "id": "0xf1722f5",
+      "id": 253174517,
       "en": "There is no request for you in the encounter queue.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48bd38e",
+      "id": 76272526,
       "en": "Your encounter invitation was canceled.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ff1ad5",
+      "id": 150936277,
       "en": "Stay In Queue",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9e69e5",
+      "id": 245262821,
       "en": "Exit Queue",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd433734",
+      "id": 222508852,
       "en": "Invalid Request.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2a501b5",
+      "id": 44368309,
       "en": "unknown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x754f63f",
+      "id": 123008575,
       "en": "Request details:\\nEncounter: [placeholder]\\nLevel: [placeholder]\\nDifficulty: [placeholder]\\nGroup size: [placeholder]\\nElapsed Time: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

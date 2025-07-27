@@ -2,70 +2,59 @@
   "id": 620790844,
   "txt": [
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Return the five items to Ambi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Hey! You there, you [placeholder], you! I need to speak with you! This is important.\\n\\n'My father tasked me with delivering a package of goods, I think. I need that package and all its things badly, or I will be in serious trouble, and that is no good for anyone.\\n\\n'Can you help me, please? I would be very thankful! Here is a list of the items to help you. Unfortunately, after all my celebrating, I can't remember where I left them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Brilliant! You did it, [placeholder]! Thank you so much!\\n\\n'Now I won't be in trouble with my father. One more drink, and I will be on my way.\\n\\n'Oh, here is your reward as well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Have you found any of my missing goods yet? I must really lay off the spirits at these events....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You need to look at the list! The list tells all!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Forgotten Errands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Ambi left some belongings scattered around Thorin's Hall. He cannot remember much after partaking in Summerfest, but he does know that the items are important for some reason and he needs them badly.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Find all items ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Ambi has given you a list of his missing items to remind you exactly what they are. Ambi can be found at the tavern in Thorin's Halls.\\n\\nAmbi wants you to find his missing items for him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Found all items ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Having found all of Ambi's items, return to him at the tavern in Thorin's Halls.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

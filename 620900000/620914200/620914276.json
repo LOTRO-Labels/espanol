@@ -2,34 +2,29 @@
   "id": 620914276,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Shoot to Kill",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Sensing the disparity of your enemy's situation, you take aim, and are able to bring about a swift end to the fight.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Kill Shot no longer has an inherent miss chance.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554672",
+      "id": 106251890,
       "en": "You have a [placeholder] chance to deal extra damage and reset the cooldown of Kill Shot when used on targets below 50% health.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554673",
+      "id": 106251891,
       "en": "You have a [placeholder] chance to deal extra damage and reset the cooldown of Kill Shot when used on targets below 25% health.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

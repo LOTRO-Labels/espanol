@@ -2,208 +2,174 @@
   "id": 621019057,
   "txt": [
     {
-      "id": "0x5aca740",
+      "id": 95201088,
       "en": "STARTED THE TIMER!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca741",
+      "id": 95201089,
       "en": "STARTING INNER LOOP!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca742",
+      "id": 95201090,
       "en": "NOT DONE LOADING YET...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca71",
+      "id": 5950065,
       "en": "YOU ENTERED A DIFFICULTY ZONE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca743",
+      "id": 95201091,
       "en": "STARTED THE DELAY TIMER!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca72",
+      "id": 5950066,
       "en": "NOT IN A DIFFICULTY ZONE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca744",
+      "id": 95201092,
       "en": "NOT IN COMBAT- CHILLING OUT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca73",
+      "id": 5950067,
       "en": "STOPPING SCRIPT. BYE!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca745",
+      "id": 95201093,
       "en": "GETTING RANDOM VALUE!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9e82",
+      "id": 133144194,
       "en": "Group Size 12",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca746",
+      "id": 95201094,
       "en": "TIMER EXPIRED, CHECKING FOR EFFECT!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca74",
+      "id": 5950068,
       "en": "GENERATING AN EFFECT! BURN!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca747",
+      "id": 95201095,
       "en": "PREPPING NEW VALUE FOR RANDOM TIMER.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca75",
+      "id": 5950069,
       "en": "RUNNING ENTER WORLD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca748",
+      "id": 95201096,
       "en": "HOLD ON ONE SECOND....",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca76",
+      "id": 5950070,
       "en": "LOADING DONE, STARTING MAIN SEQUENCE.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca749",
+      "id": 95201097,
       "en": "OK ALL DONE WITH THE INNER SCRIPT.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca77",
+      "id": 5950071,
       "en": "SCION IMMUNITY TRUE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca78",
+      "id": 5950072,
       "en": "SCION IMMUNITY FALSE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca79",
+      "id": 5950073,
       "en": "SO VIOLENT! LETS SET THE WORLD ON FIRE!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5afc533",
+      "id": 95405363,
       "en": "TIER 3 DETECTED, SETTING CHANCE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5afc534",
+      "id": 95405364,
       "en": "TIER 4 DETECTED, SETTING CHANCE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5afc535",
+      "id": 95405365,
       "en": "TIER 5 DETECTED, SETTING CHANCE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aca750",
+      "id": 95201104,
       "en": "GENERATED AN EFFECT!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2daf514",
+      "id": 47904020,
       "en": "\\qERROR: No Appropriate Mod Type found on Scion.\\q",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9ef0",
+      "id": 133144304,
       "en": "GROUP SIZE DEFAULT - YOU SHOULDNT SEE THIS?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9ef1",
+      "id": 133144305,
       "en": "GROUP SIZE SMALL",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9e94",
+      "id": 133144212,
       "en": "GROUP SIZE 24",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9ef2",
+      "id": 133144306,
       "en": "Group Size 2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9ef3",
+      "id": 133144307,
       "en": "GROUP SIZE 3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef9ef6",
+      "id": 133144310,
       "en": "GROUP SIZE LARGE",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e8343",
+      "id": 5145411,
       "en": "IS NPC so SKIP",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x568ccac",
+      "id": 90754220,
       "en": "Is Alignment Good so skipped",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58da530",
+      "id": 93168944,
       "en": "TIER NOT FOUND",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

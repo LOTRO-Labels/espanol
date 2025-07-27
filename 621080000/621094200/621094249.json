@@ -2,214 +2,179 @@
   "id": 621094249,
   "txt": [
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "You prepare to seek glory!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Glory Seeker: Cleave the Enemy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "Enemy defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Defeat enemies of the Free People ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Allow a scout to lead you into the Ettenmoors",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'[placeholder], I ask you to champion our cause in the Ettenmoors. I shall afford you a measure of strength should you endeavour to assail and bring low every enemy out of Angmar you discover.\\n\\n'Seek glory in this battle. Gain strength with your victories and reap the reward should you succeed where others may fail.\\n\\n'But, know this, the enemy will know your name. They will see through your wiliest guise and come for you on the battlefield.\\n\\n'Will you dare to be glorious?'\\n\\n<rgb=#FF0000>Accepting this quest will teleport you to the forward Elf Camp in the Ettenmoors and expose your position on the Ettenmoors and mini-map.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "<rgb=#FF0000>Failure: Time Expires</rgb>\\n<rgb=#FF0000>Failure: Logout</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a7",
+      "id": 246419879,
       "en": "Begin your glory skeeing at the forward Orc Camp near Tol Ascarnen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Defeat enemies of the Free People ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b2",
+      "id": 177082802,
       "en": "You were defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "<rgb=#FF0000>Failure: Get to near a rally point</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "Time expired",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Leave Glân Vraig through the front gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Captain-General Tordúr asks that you wade into the battle in the Ettenmoors and promises to fuel you with his strength as you battle and defeat the enemy.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Enemy defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Seek glory across the Ettenmoors by bringing the enemy low. The more enemies you defeat the more powerful you will become.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "<rgb=#FF0000>Do not be defeated, approach a rally point, or return to your base</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Continue seeking glory across the Ettenmoors by bringing the enemy low. The more enemies you defeat the more powerful you will become.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "Continue seeking glory across the Ettenmoors by bringing the enemy low. The more enemies you defeat the more powerful you will become.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Seek glory across the Ettenmoors by bringing the enemy low. The more enemies you defeat the more powerful you will become.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "<rgb=#FF0000>Complete all objectives before time expires</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01187",
+      "id": 246419847,
       "en": "Seek glory across the Ettenmoors by bringing the enemy low. The more enemies you defeat the more powerful you will become.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1192",
+      "id": 177082770,
       "en": "You prepare to seek glory!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1194",
+      "id": 177082772,
       "en": "You failed to achieve glory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Defeat enemies of the Free People ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1198",
+      "id": 177082776,
       "en": "You are prepared to seek glory!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1199",
+      "id": 177082777,
       "en": "You failed to achieve glory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Defeat enemies of the Free People ([placeholder]/5)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Arrive at the forward Elf Camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "Defeat enemies of the Free People ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01197",
+      "id": 246419863,
       "en": "To seek glory you cannot remain in the safety of Glân Vraig. You must stride proudly through the front gate of Glân Vraig to begin your glory-seeking or be taken to the fray by a scout. \\n\\n<rgb=#FF0000>If you allow the timer to expire before leaving Glân Vraig you will be escorted by a scout to a random location in the Ettenmoors.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a1",
+      "id": 177082785,
       "en": "Enemy defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a4",
+      "id": 177082788,
       "en": "Your time expired",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "Enemy defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "Enemy defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

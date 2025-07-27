@@ -2,64 +2,54 @@
   "id": 620840723,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Greetings, [placeholder]. I fear that the next several days' duties are likely to be dangerous indeed. The might of the Enemy is gathering on the heights above us around Dol Guldur, and if we are unable to break their forces swiftly, all of Lothlórien may be in danger.\\n\\n'I am in charge of the defence of the main encampment here at Ost Galadh, a challenge made doubly difficult by the accursed fog that seems to shroud most of this forest -- even Elven eyes cannot see far through these cloaking mists, which are likely some contrivance of the Enemy against us.\\n\\n'My guards have caught some hint of goblin-activity in the forests east and north of here, however. No great force, but furtive spies most likely attempting to gauge our strength. I do not think it will be easy, but if you could hunt down a few of their number then perhaps the remainder will fly back to Gathbúrz from whence they descended.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'So, you caught a few of the vile creatures at their work, did you? That should teach them not to dare our territory lightly.\\n\\n'There is much more to be done, however, if this camp is to be made secure for our advance upon Dol Guldur.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The goblins will not learn our plans, I think, because Fuirgam declines to tell even those of us here! It is clear that Celeborn's decision to attack Dol Guldur has some secret meaning behind it, but we have not the forces to take it. We are destroying everything around the tower and creating a spectacle before its gates, but I still have not fully fathomed why it is we do so.\\n\\n'It must be that Celeborn wishes to keep the Enemy's attention here -- some kind of grand feint -- but from what, I cannot guess....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Goblin-spies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Lomdognir believes goblin-spies are coming down from the heights of Gathbúrz and skulking in the forest outside of Ost Galadh.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Defeated goblin-spies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat goblin-spies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Goblin-spies can be found in the forests east and north of Ost Galadh.\\n\\nLomdognir has sent you to hunt down the goblin-spies.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Lomdognir at Ost Galadh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Lomdognir is at Ost Galadh.\\n\\nYou should return to Lomgodnir with news of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

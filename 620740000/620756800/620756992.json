@@ -2,106 +2,89 @@
   "id": 620756992,
   "txt": [
     {
-      "id": "0x619a44",
+      "id": 6396484,
       "en": "Trying to repair items too quickly.. Please slow down with your requests.",
-      "es": "Intentando reparar objetos demasiado rápido.. Por favor, reduzca la velocidad de sus solicitudes.",
-      "es (fem)": ""
+      "es": "Intentando reparar objetos demasiado rápido.. Por favor, reduzca la velocidad de sus solicitudes."
     },
     {
-      "id": "0xf9ed4e4",
+      "id": 262067428,
       "en": "Repair All",
-      "es": "Reparar todo",
-      "es (fem)": ""
+      "es": "Reparar todo"
     },
     {
-      "id": "0xa18b284",
+      "id": 169390724,
       "en": "[placeholder]/[placeholder]",
-      "es": "[placeholder]/[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]/[placeholder]"
     },
     {
-      "id": "0x136cefc",
+      "id": 20369148,
       "en": "Total:",
-      "es": "Total:",
-      "es (fem)": ""
+      "es": "Total:"
     },
     {
-      "id": "0x3cf23e8",
+      "id": 63906792,
       "en": "Tough",
-      "es": "Resistente",
-      "es (fem)": ""
+      "es": "Resistente"
     },
     {
-      "id": "0xba3cc15",
+      "id": 195283989,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x78f9fc0",
+      "id": 126853056,
       "en": "[placeholder] [placeholder] C",
-      "es": "[placeholder] [placeholder] C",
-      "es (fem)": ""
+      "es": "[placeholder] [placeholder] C"
     },
     {
-      "id": "0xdd88a95",
+      "id": 232295061,
       "en": "Brittle",
-      "es": "Frágil",
-      "es (fem)": ""
+      "es": "Frágil"
     },
     {
-      "id": "0x9cb5eec",
+      "id": 164323052,
       "en": "Substantial",
-      "es": "Sustancial",
-      "es (fem)": ""
+      "es": "Sustancial"
     },
     {
-      "id": "0xc12104c",
+      "id": 202510412,
       "en": "Normal",
-      "es": "Normal",
-      "es (fem)": ""
+      "es": "Normal"
     },
     {
-      "id": "0x33c9ffb",
+      "id": 54304763,
       "en": "Weak",
-      "es": "Débil",
-      "es (fem)": ""
+      "es": "Débil"
     },
     {
-      "id": "0x638a014",
+      "id": 104374292,
       "en": "Repair Shop",
-      "es": "Taller de Reparación",
-      "es (fem)": ""
+      "es": "Taller de Reparación"
     },
     {
-      "id": "0xb856975",
+      "id": 193292661,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d07d15",
+      "id": 30440725,
       "en": "NPC is unavailable.",
-      "es": "El NPC no está disponible.",
-      "es (fem)": ""
+      "es": "El NPC no está disponible."
     },
     {
-      "id": "0x5297e94",
+      "id": 86605460,
       "en": "Repair",
-      "es": "Reparar",
-      "es (fem)": ""
+      "es": "Reparar"
     },
     {
-      "id": "0xb968799",
+      "id": 194414489,
       "en": "Flimsy",
-      "es": "Endeble",
-      "es (fem)": ""
+      "es": "Endeble"
     },
     {
-      "id": "0x154a0b9",
+      "id": 22323385,
       "en": "You do not have enough money to make the repair.\\n",
-      "es": "No tienes suficiente dinero para realizar la reparación.\\n",
-      "es (fem)": ""
+      "es": "No tienes suficiente dinero para realizar la reparación.\\n"
     }
   ]
 }

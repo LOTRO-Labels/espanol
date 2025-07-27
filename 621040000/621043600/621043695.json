@@ -2,22 +2,19 @@
   "id": 621043695,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Innate Strength: Inner Resilience",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Heavy Attacks grant the buff 'Innate Strength: Inner Resilience', increasing the Brawler’s mitigations.\\n\\nIf a Heavy Attack is performed while 'Innate Strength: Inner Resilience' is still active, the buff is instead advanced to a higher tier, to a maximum of Tier 4.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Tier 1: +1% Mitigations\\nTier 2: +1.5% Mitigations\\nTier 3: +2% Mitigations\\nTier 4: +2.5% Mitigations",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

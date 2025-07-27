@@ -2,34 +2,29 @@
   "id": 620841972,
   "txt": [
     {
-      "id": "0xa4b0ff5",
+      "id": 172691445,
       "en": "Using the Auction House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Auction House[n]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "A Note on using the Auction Houses",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38ce4c2",
+      "id": 59565250,
       "en": "Guild of Auctioneers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61726d1",
+      "id": 102180561,
       "en": "Searching the Auction House\\n\\nSpeaking to an Auctioneer opens the Auction House panel. The auction panel contains many elements to ease your experience: a search field where you can enter the name of objects for which you wish to search, categories to sort items by, fields for level-ranges you might want to find items in, and Kinship Only search options. Leaving the Item Name search field blank with a sub-category selected will bring up a list of many items for sale in that selected category for you to browse through. When entering a search term manually it is always a good idea to remember to use the singular name of the item, rather than the plural, to yield more results.\\n\\nYou can further sort results of a search by using the Sort drop-down menu, letting you organize the listed results by Name, Current Price, Buyout, Remaining Auction Duration, Usability, and Level Restriction. Also be sure to check if there are multiple pages of results. The left and right arrow keys at the bottom of the Auction House panel can be used to navigate through the different pages.\\n\\nTo more easily run a search on an item you already have in your inventory, click and drag that item to the Item Name search field in the Auctions tab, which will then auto-fill the field in with the name of that item, and hitting Search will search for more of that item if there are any available.\\n\\nBuying from the Auction House\\n\\nWhen you've found an item you want, you can choose to either Bid on the item's auction price or pay the Buyout price to receive the item immediately. Including a Buyout price on an item is the seller's decision, so not all auctioned items will have a Buyout option available. When you highlight and Buyout an item, it will be unlisted, the money will be deducted from your current funds, and the item will be sent to your mailbox.\\n\\nIf you choose to Bid on an item instead, then the bid amount will be immediately deducted from your funds, and only when the auction timer runs out on that particular item will it be sent to your mailbox, if your bid was the highest; if you are outbid on an item, then your bid will be returned to your mailbox. Any items you currently have bids on will appear in the Bids tab of the Auction panel for you to keep track of, and you are limited to 20 outstanding bids at any given time. If you are outbid on an item and your money is returned to you, you will still see that auction on your Bids tab so you can conveniently put forth another bid if you so choose to, or you can highlight the auction and click on Concede to fully remove it from your Bids tab.\\n\\nSelling on the Auction House\\n\\nIf you want to sell one of your items, then navigate the Auction House pane to the Post tab. Here you can drag the item or stack of items you desire to sell into the Auction Item slot from your inventory, then select the duration of the auction, input an initial bidding price, and even a buyout price if you so choose; you can even opt to make it a Kinship-only accessible auction by checking off the Kinship Only box. All auctioned items require a fee based on the item's worth and how long you choose to place that item up for auction. The money received for items sold is sent to your mailbox once the auction finishes, with a 5% auctioning fee deducted from the final sale price; any items not sold are returned via mail, and you will not receive back your original posting fee.\\n\\nIf you would like to split up item stacks to sell piecemeal, then you can do so by holding down the Shift button and dragging the item stack to an empty inventory slot, when you release the mouse button you will be asked how you would like to split the item stack (all, half, one, or a number of your choosing), then hit OK to complete the stack split and go about selling your split stacks as normal. You may post a maximum of 30 individual auctions at any one time.\\n\\nYou can cancel an auction by going to the Auctions tab, highlighting the item you wish to cancel, and hitting the Cancel button; auctions canceled will not have their posting fee returned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

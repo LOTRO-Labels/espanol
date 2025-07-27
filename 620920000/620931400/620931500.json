@@ -2,82 +2,69 @@
   "id": 620931500,
   "txt": [
     {
-      "id": "0x8d85db9",
+      "id": 148397497,
       "en": "Ready",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa741045",
+      "id": 175378501,
       "en": "Active",
-      "es": "Activo",
-      "es (fem)": ""
+      "es": "Activo"
     },
     {
-      "id": "0x2856d7",
+      "id": 2643671,
       "en": "Charging",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd023c7e",
+      "id": 218250366,
       "en": "Cooldown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18727d5",
+      "id": 25634773,
       "en": "Failed to execute [placeholder]. Please try again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5120655",
+      "id": 85067349,
       "en": "Click to activate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd18da92",
+      "id": 219732626,
       "en": "You are too far away.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe112a15",
+      "id": 236005909,
       "en": "Click to charge",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0ebb47",
+      "id": 252623687,
       "en": "Not compatible with charging activity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x87eec75",
+      "id": 142535797,
       "en": "Click to deactivate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x941b755",
+      "id": 155301717,
       "en": "Click to contribute",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64bd384",
+      "id": 105632644,
       "en": "Cancelled [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe876355",
+      "id": 243753813,
       "en": "Right click to cancel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

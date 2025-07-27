@@ -2,142 +2,119 @@
   "id": 620757466,
   "txt": [
     {
-      "id": "0xb7b7ab9",
+      "id": 192641721,
       "en": "Power : [placeholder]/[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15b12b5",
+      "id": 22745781,
       "en": "[placeholder] - [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe46108c",
+      "id": 239472780,
       "en": "Restores [placeholder] [placeholder] initially.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x24577a4",
+      "id": 38107044,
       "en": "[placeholder]%",
-      "es": "[placeholder]%",
-      "es (fem)": ""
+      "es": "[placeholder]%"
     },
     {
-      "id": "0x522b015",
+      "id": 86159381,
       "en": "[placeholder] [placeholder] Damage every #1:[placeholder] #1:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x331b905",
+      "id": 53590277,
       "en": "Heals [placeholder] Morale initially.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1029554",
+      "id": 16946516,
       "en": " ",
-      "es": " ",
-      "es (fem)": ""
+      "es": " "
     },
     {
-      "id": "0xd2bfe59",
+      "id": 220986969,
       "en": "[placeholder]%",
-      "es": "[placeholder]%",
-      "es (fem)": ""
+      "es": "[placeholder]%"
     },
     {
-      "id": "0x3b421e5",
+      "id": 62136805,
       "en": "Heals [placeholder] Morale every #1:[placeholder] #1:{seconds|second[1]} for #2:[placeholder] #2:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e6a59",
+      "id": 9333337,
       "en": "Mood: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf1f3599",
+      "id": 253703577,
       "en": "Morale: [placeholder]/[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b48de9",
+      "id": 45387241,
       "en": "[placeholder]/[placeholder]",
-      "es": "[placeholder]/[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]/[placeholder]"
     },
     {
-      "id": "0xf376615",
+      "id": 255288853,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0x522f015",
+      "id": 86175765,
       "en": "Heals [placeholder] Morale every #1:[placeholder] #1:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x331f905",
+      "id": 53606661,
       "en": "[placeholder] [placeholder] Damage initially.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0d7a9c",
+      "id": 252541596,
       "en": "Restores [placeholder] [placeholder] every #1:[placeholder] #1:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef1bfc9",
+      "id": 250724297,
       "en": "[placeholder]/[placeholder]",
-      "es": "[placeholder]/[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]/[placeholder]"
     },
     {
-      "id": "0xbbb9ecc",
+      "id": 196845260,
       "en": "Drains [placeholder] [placeholder] over #1:[placeholder] #1:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b461e5",
+      "id": 62153189,
       "en": "[placeholder] [placeholder] Damage every #1:[placeholder] #1:{seconds|second[1]} for #2:[placeholder] #2:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xebbe1f4",
+      "id": 247194100,
       "en": "[placeholder]",
-      "es": "[placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder]"
     },
     {
-      "id": "0xd294f5c",
+      "id": 220811100,
       "en": "Drains [placeholder] [placeholder] every #1:[placeholder] #1:{seconds|second[1]} for #2:[placeholder] #2:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdacd7bc",
+      "id": 229431228,
       "en": "Drains [placeholder] [placeholder] initially.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xddef00c",
+      "id": 232714252,
       "en": "Restores [placeholder] [placeholder] every #1:[placeholder] #1:{seconds|second[1]} for #2:[placeholder] #2:{seconds|second[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

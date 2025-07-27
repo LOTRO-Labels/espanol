@@ -2,868 +2,724 @@
   "id": 620757025,
   "txt": [
     {
-      "id": "0xc441d04",
+      "id": 205790468,
       "en": "You must specify a character to recruit.\\n",
-      "es": "Debes especificar un personaje para reclutar.\\n",
-      "es (fem)": ""
+      "es": "Debes especificar un personaje para reclutar.\\n"
     },
     {
-      "id": "0x1756a04",
+      "id": 24472068,
       "en": "You can't recruit fellows if you're not alive.\\n",
-      "es": "No puedes reclutar compañeros si no estás vivo",
-      "es (fem)": ""
+      "es": "No puedes reclutar compañeros si no estás vivo"
     },
     {
-      "id": "0x39ca334",
+      "id": 60597044,
       "en": "Unable to recruit that character.\\n",
-      "es": "No se puede reclutar a ese personaje",
-      "es (fem)": ""
+      "es": "No se puede reclutar a ese personaje"
     },
     {
-      "id": "0xfc71fd0",
+      "id": 264708048,
       "en": "You have joined a Group.\\n",
-      "es": "Te has unido a un grupo",
-      "es (fem)": ""
+      "es": "Te has unido a un grupo"
     },
     {
-      "id": "0x9a3d854",
+      "id": 161732692,
       "en": "You accept [placeholder]'s request to join your party",
-      "es": "Aceptas la petición de [placeholder] de unirse a tu grupo",
-      "es (fem)": ""
+      "es": "Aceptas la petición de [placeholder] de unirse a tu grupo"
     },
     {
-      "id": "0x503148c",
+      "id": 84087948,
       "en": "Free For All with Master Looter",
-      "es": "Disponible para todos con Master Looter",
-      "es (fem)": ""
+      "es": "Disponible para todos con Master Looter"
     },
     {
-      "id": "0x25b01d0",
+      "id": 39518672,
       "en": "You are now the leader of the group.\\n",
-      "es": "Ahora eres el líder del grupo",
-      "es (fem)": ""
+      "es": "Ahora eres el líder del grupo"
     },
     {
-      "id": "0x871b170",
+      "id": 141668720,
       "en": "You are not in a Group.\\n",
-      "es": "No estás en un grupo",
-      "es (fem)": ""
+      "es": "No estás en un grupo"
     },
     {
-      "id": "0x20f5c35",
+      "id": 34561077,
       "en": "You must specify a player to become leader.\\n",
-      "es": "Debe especificar un jugador para convertirse en líder.\\n",
-      "es (fem)": ""
+      "es": "Debe especificar un jugador para convertirse en líder.\\n"
     },
     {
-      "id": "0x6362380",
+      "id": 104211328,
       "en": "/g <msg> - send <msg> to the group's chat channel (alternative: /f <msg>)\\n",
-      "es": "/g <msg> - envía <msg> al canal de chat del grupo (alternativa: /f <msg>)\\n",
-      "es (fem)": ""
+      "es": "/g <msg> - envía <msg> al canal de chat del grupo (alternativa: /f <msg>)\\n"
     },
     {
-      "id": "0x1b633b6",
+      "id": 28718006,
       "en": "You're already the leader of this fellowship.\\n",
-      "es": "Ya eres el líder de esta Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Ya eres el líder de esta Comunidad.\\n"
     },
     {
-      "id": "0xea457d5",
+      "id": 245651413,
       "en": "[placeholder] asks you to join a Fellowship.  If you join the fellowship your current Private Encounter will close.\\n",
-      "es": "[placeholder] te pide que te unas a una Comunidad. Si te unes a la Comunidad, tu Encuentro Privado actual se cerrará",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Comunidad. Si te unes a la Comunidad, tu Encuentro Privado actual se cerrará"
     },
     {
-      "id": "0x18ccd74",
+      "id": 26004852,
       "en": "Your Fellowship has been disbanded.\\n",
-      "es": "Tu Comunidad se ha disuelto.\\n",
-      "es (fem)": ""
+      "es": "Tu Comunidad se ha disuelto.\\n"
     },
     {
-      "id": "0xc09e21c",
+      "id": 201974300,
       "en": "[placeholder]{'s|'[s]} fellowship is full.\\n",
-      "es": "La Comunidad de [placeholder] está llena.\\n",
-      "es (fem)": ""
+      "es": "La Comunidad de [placeholder] está llena.\\n"
     },
     {
-      "id": "0x13a3234",
+      "id": 20591156,
       "en": "You decline [placeholder]'s request to join your party",
-      "es": "Rechazas la petición de [placeholder] de unirse a tu grupo",
-      "es (fem)": ""
+      "es": "Rechazas la petición de [placeholder] de unirse a tu grupo"
     },
     {
-      "id": "0x395b450",
+      "id": 60142672,
       "en": "You leave your Group.\\n",
-      "es": "Abandonas tu Grupo.\\n",
-      "es (fem)": ""
+      "es": "Abandonas tu Grupo.\\n"
     },
     {
-      "id": "0x2620734",
+      "id": 39978804,
       "en": "Someone else is already trying to recruit [placeholder].\\n",
-      "es": "Alguien más ya está intentando reclutar a [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Alguien más ya está intentando reclutar a [placeholder].\\n"
     },
     {
-      "id": "0x3dc9790",
+      "id": 64788368,
       "en": "Targeted Warband Skill: [placeholder] has been set.",
-      "es": "Habilidad de banda de guerra objetivo: [placeholder] se ha establecido.",
-      "es (fem)": ""
+      "es": "Habilidad de banda de guerra objetivo: [placeholder] se ha establecido."
     },
     {
-      "id": "0xdbf6c75",
+      "id": 230648949,
       "en": "That target is out of range!",
-      "es": "¡Ese objetivo está fuera de alcance!",
-      "es (fem)": ""
+      "es": "¡Ese objetivo está fuera de alcance!"
     },
     {
-      "id": "0xed49b33",
+      "id": 248814387,
       "en": "Regular players and monster players may not fellow together.\\n",
-      "es": "Los jugadores normales y los de monstruos no pueden jugar juntos.\\n",
-      "es (fem)": ""
+      "es": "Los jugadores normales y los de monstruos no pueden jugar juntos.\\n"
     },
     {
-      "id": "0x9866c97",
+      "id": 159804567,
       "en": "Your Fellowship is full.\\n",
-      "es": "Tu Comunidad está completa.\\n",
-      "es (fem)": ""
+      "es": "Tu Comunidad está completa.\\n"
     },
     {
-      "id": "0x99f5575",
+      "id": 161437045,
       "en": "[placeholder] has acquired [placeholder].\\n",
-      "es": "[placeholder] ha adquirido [placeholder].\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha adquirido [placeholder].\\n"
     },
     {
-      "id": "0x69195c0",
+      "id": 110204352,
       "en": "[placeholder] has joined your Group.\\n",
-      "es": "[placeholder] se ha unido a tu grupo.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] se ha unido a tu grupo.\\n"
     },
     {
-      "id": "0xe8ea779",
+      "id": 244230009,
       "en": "You are already in [placeholder]{'s|'[s]} fellowship.\\n",
-      "es": "Ya estás en la comunidad de [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Ya estás en la comunidad de [placeholder].\\n"
     },
     {
-      "id": "0x5bd9864",
+      "id": 96311396,
       "en": "Fellowship name '[placeholder]' contains inappropriate text.\\n",
-      "es": "El nombre de la Comunidad '[placeholder]' contiene texto inapropiado.\\n",
-      "es (fem)": ""
+      "es": "El nombre de la Comunidad '[placeholder]' contiene texto inapropiado.\\n"
     },
     {
-      "id": "0x12d26b9",
+      "id": 19736249,
       "en": "The loot quality has changed to [placeholder].\\n",
-      "es": "La calidad del botín ha cambiado a [placeholder].\\n",
-      "es (fem)": ""
+      "es": "La calidad del botín ha cambiado a [placeholder].\\n"
     },
     {
-      "id": "0x5bf8592",
+      "id": 96437650,
       "en": "You are not the leader of your Fellowship.\\n",
-      "es": "No eres el líder de tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "No eres el líder de tu Comunidad.\\n"
     },
     {
-      "id": "0x3073954",
+      "id": 50805076,
       "en": "You leave your Fellowship.\\n",
-      "es": "Abandonas tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Abandonas tu Comunidad.\\n"
     },
     {
-      "id": "0xcdffc77",
+      "id": 216005751,
       "en": "You have joined a Fellowship.\\n",
-      "es": "Te has unido a una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Te has unido a una Comunidad.\\n"
     },
     {
-      "id": "0x15066c4",
+      "id": 22046404,
       "en": "[placeholder] asks you to join a Fellowship for Quest [placeholder].\\n",
-      "es": "[placeholder] te pide que te unas a una Comunidad para la Misión [placeholder].\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Comunidad para la Misión [placeholder].\\n"
     },
     {
-      "id": "0x3087a2e",
+      "id": 50887214,
       "en": "[placeholder] requests to join your party.",
-      "es": "[placeholder] solicita unirse a tu grupo.",
-      "es (fem)": ""
+      "es": "[placeholder] solicita unirse a tu grupo."
     },
     {
-      "id": "0x7f45694",
+      "id": 133453460,
       "en": "[placeholder] has gone link dead from your Raid.\\n",
-      "es": "[placeholder] se ha desconectado de tu Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] se ha desconectado de tu Redada.\\n"
     },
     {
-      "id": "0xb7640d7",
+      "id": 192299223,
       "en": "[placeholder] is already in your Fellowship.\\n",
-      "es": "[placeholder] ya está en tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ya está en tu Comunidad.\\n"
     },
     {
-      "id": "0x76d3834",
+      "id": 124598324,
       "en": "[placeholder] has left your Raid.\\n",
-      "es": "[placeholder] ha abandonado tu Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha abandonado tu Redada.\\n"
     },
     {
-      "id": "0x306c145",
+      "id": 50774341,
       "en": "Recruitment of [placeholder] could not complete during encounter creation. Please try again.",
-      "es": "El reclutamiento de [placeholder] no pudo completarse durante la creación del encuentro. Por favor, inténtalo de nuevo.",
-      "es (fem)": ""
+      "es": "El reclutamiento de [placeholder] no pudo completarse durante la creación del encuentro. Por favor, inténtalo de nuevo."
     },
     {
-      "id": "0xe04cd50",
+      "id": 235195728,
       "en": "Your fellow, [placeholder], is now level [placeholder].\\n",
-      "es": "Tu compañero, [placeholder], es ahora de nivel [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Tu compañero, [placeholder], es ahora de nivel [placeholder].\\n"
     },
     {
-      "id": "0x39cec80",
+      "id": 60615808,
       "en": "Attempting to invite [placeholder] into group.",
-      "es": "Intentando invitar a [placeholder] al grupo.",
-      "es (fem)": ""
+      "es": "Intentando invitar a [placeholder] al grupo."
     },
     {
-      "id": "0x260e5d5",
+      "id": 39904725,
       "en": "[placeholder] (LD)\\n",
-      "es": "[placeholder] (LD)\\n",
-      "es (fem)": ""
+      "es": "[placeholder] (LD)\\n"
     },
     {
-      "id": "0x68f50a4",
+      "id": 110055588,
       "en": "[placeholder] is now a raid assist target.\\n",
-      "es": "[placeholder] es ahora un objetivo de asistencia de redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] es ahora un objetivo de asistencia de redada.\\n"
     },
     {
-      "id": "0xaef1153",
+      "id": 183439699,
       "en": "Only a member of the fellowship may become leader.\\n",
-      "es": "Sólo un miembro de la Comunidad puede convertirse en líder.\\n",
-      "es (fem)": ""
+      "es": "Sólo un miembro de la Comunidad puede convertirse en líder.\\n"
     },
     {
-      "id": "0xdabbe34",
+      "id": 229359156,
       "en": "Only the fellowship leader may loot corpses.\\n",
-      "es": "Sólo el líder de la Comunidad puede saquear cadáveres.\\n",
-      "es (fem)": ""
+      "es": "Sólo el líder de la Comunidad puede saquear cadáveres.\\n"
     },
     {
-      "id": "0xda94584",
+      "id": 229197188,
       "en": "You leave your Raid.\\n",
-      "es": "Deja tu Redada.\\n",
-      "es (fem)": ""
+      "es": "Deja tu Redada.\\n"
     },
     {
-      "id": "0xdb02d06",
+      "id": 229649670,
       "en": "You cannot dismiss yourself.\\n",
-      "es": "No puedes descartarte.\\n",
-      "es (fem)": ""
+      "es": "No puedes descartarte.\\n"
     },
     {
-      "id": "0x59d9032",
+      "id": 94212146,
       "en": "Fellowship Invite failed: unknown target character '[placeholder]'!",
-      "es": "Invitación a la Comunidad fallida: ¡personaje objetivo desconocido '[placeholder]'!",
-      "es (fem)": ""
+      "es": "Invitación a la Comunidad fallida: ¡personaje objetivo desconocido '[placeholder]'!"
     },
     {
-      "id": "0x69c1c0",
+      "id": 6930880,
       "en": "You say to your fellowship, \\q[placeholder]\\q\\n",
-      "es": "Dices a tu Comunidad: \\q[placeholder]\\q\\n",
-      "es (fem)": ""
+      "es": "Dices a tu Comunidad: \\q[placeholder]\\q\\n"
     },
     {
-      "id": "0x47e6917",
+      "id": 75393303,
       "en": "[placeholder] has joined your Fellowship.\\n",
-      "es": "[placeholder] se ha unido a tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] se ha unido a tu Comunidad.\\n"
     },
     {
-      "id": "0x47778a4",
+      "id": 74938532,
       "en": "You are not in a Raid.\\n",
-      "es": "No estás en una Redada.\\n",
-      "es (fem)": ""
+      "es": "No estás en una Redada.\\n"
     },
     {
-      "id": "0xb155715",
+      "id": 185947925,
       "en": "You cannot invite a player who is inside a private encounter.\\n",
-      "es": "No puedes invitar a un jugador que está dentro de un encuentro privado.\\n",
-      "es (fem)": ""
+      "es": "No puedes invitar a un jugador que está dentro de un encuentro privado.\\n"
     },
     {
-      "id": "0x43f25a6",
+      "id": 71247270,
       "en": "You are now the leader of the fellowship.\\n",
-      "es": "Ahora eres el líder de la Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Ahora eres el líder de la Comunidad.\\n"
     },
     {
-      "id": "0x71d2a95",
+      "id": 119351957,
       "en": "You decline joining the Fellowship.\\n",
-      "es": "Declinas unirte a la Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Declinas unirte a la Comunidad.\\n"
     },
     {
-      "id": "0x4cf6294",
+      "id": 80700052,
       "en": "[placeholder] is link dead and can't be targeted!",
-      "es": "¡[placeholder] se ha desconectado y no se puede seleccionar!",
-      "es (fem)": ""
+      "es": "¡[placeholder] se ha desconectado y no se puede seleccionar!"
     },
     {
-      "id": "0xbe7402",
+      "id": 12481538,
       "en": "You must be the leader to disband a Fellowship.\\n",
-      "es": "Debes ser el líder para disolver una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Debes ser el líder para disolver una Comunidad.\\n"
     },
     {
-      "id": "0x571e4c5",
+      "id": 91350213,
       "en": "[placeholder] is out of targeting range!",
-      "es": "¡[placeholder] está fuera del alcance del objetivo!",
-      "es (fem)": ""
+      "es": "¡[placeholder] está fuera del alcance del objetivo!"
     },
     {
-      "id": "0x32f7313",
+      "id": 53441299,
       "en": "You can only dismiss members of your Fellowship.\\n",
-      "es": "Sólo puedes despedir a los miembros de tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Sólo puedes despedir a los miembros de tu Comunidad.\\n"
     },
     {
-      "id": "0x210c594",
+      "id": 34653588,
       "en": "You have been dismissed from your Fellowship.\\n",
-      "es": "Has sido expulsado de tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Has sido expulsado de tu Comunidad.\\n"
     },
     {
-      "id": "0x6358717",
+      "id": 104171287,
       "en": "You are not in a Fellowship.\\n",
-      "es": "No estás en una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "No estás en una Comunidad.\\n"
     },
     {
-      "id": "0xb18a475",
+      "id": 186164341,
       "en": "[placeholder] changed their class to [placeholder].\\n",
-      "es": "[placeholder] cambió su clase a [placeholder].\\n",
-      "es (fem)": ""
+      "es": "[placeholder] cambió su clase a [placeholder].\\n"
     },
     {
-      "id": "0x3501225",
+      "id": 55579173,
       "en": "[placeholder] asks you to join a Raid for Quest [placeholder].  If you join the Raid your current Private Encounter will close.\\n",
-      "es": "[placeholder] te pide que te unas a una Redada para la Misión [placeholder]. Si te unes a la Redada, tu Encuentro Privado actual se cerrará.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Redada para la Misión [placeholder]. Si te unes a la Redada, tu Encuentro Privado actual se cerrará.\\n"
     },
     {
-      "id": "0x7d55d42",
+      "id": 131423554,
       "en": "[placeholder] is now the leader of the raid.\\n",
-      "es": "[placeholder] es ahora el líder de la redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] es ahora el líder de la redada.\\n"
     },
     {
-      "id": "0xa8e1372",
+      "id": 177083250,
       "en": "Unable to recruit [placeholder].  [placeholder] is ignoring you.\\n",
-      "es": "No se puede reclutar a [placeholder]. [placeholder] te está ignorando.\\n",
-      "es (fem)": ""
+      "es": "No se puede reclutar a [placeholder]. [placeholder] te está ignorando.\\n"
     },
     {
-      "id": "0x51b5697",
+      "id": 85677719,
       "en": "[placeholder] has gone link dead from your Fellowship.\\n",
-      "es": "[placeholder] se ha desconectado de tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] se ha desconectado de tu Comunidad.\\n"
     },
     {
-      "id": "0xe7bdaa5",
+      "id": 242997925,
       "en": "You must specify a Fellowship name.\\n",
-      "es": "Debes especificar el nombre de la Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Debes especificar el nombre de la Comunidad.\\n"
     },
     {
-      "id": "0xaf021c7",
+      "id": 183509447,
       "en": "You are already recruiting [placeholder].\\n",
-      "es": "Ya estás reclutando a [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Ya estás reclutando a [placeholder].\\n"
     },
     {
-      "id": "0xb1a6365",
+      "id": 186278757,
       "en": "/f <msg> - send <msg> to the fellowship's chat channel\\n",
-      "es": "/f <msg> - envía <msg> al canal de chat de la Comunidad\\n",
-      "es (fem)": ""
+      "es": "/f <msg> - envía <msg> al canal de chat de la Comunidad\\n"
     },
     {
-      "id": "0x69305d0",
+      "id": 110298576,
       "en": "[placeholder] says to your fellowship \\q[placeholder]\\q\\n",
-      "es": "[placeholder] dice a su Comunidad \\q[placeholder]\\q\\n",
-      "es (fem)": ""
+      "es": "[placeholder] dice a su Comunidad \\q[placeholder]\\q\\n"
     },
     {
-      "id": "0xa4c2614",
+      "id": 172762644,
       "en": "[placeholder] is no longer a raid assist target.\\n",
-      "es": "[placeholder] ya no es un objetivo de asistencia de redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ya no es un objetivo de asistencia de redada.\\n"
     },
     {
-      "id": "0xc147d73",
+      "id": 202669427,
       "en": "Fellowship name '[placeholder]' contains invalid characters.  Please use only letters and spaces.\\n",
-      "es": "El nombre de la Comunidad '[placeholder]' contiene caracteres no válidos. Por favor, utiliza sólo letras y espacios.\\n",
-      "es (fem)": ""
+      "es": "El nombre de la Comunidad '[placeholder]' contiene caracteres no válidos. Por favor, utiliza sólo letras y espacios.\\n"
     },
     {
-      "id": "0xb90e515",
+      "id": 194045205,
       "en": "You cannot leave your fellowship while inside a private encounter.\\n",
-      "es": "No puedes abandonar tu Comunidad mientras estés dentro de un encuentro privado.\\n",
-      "es (fem)": ""
+      "es": "No puedes abandonar tu Comunidad mientras estés dentro de un encuentro privado.\\n"
     },
     {
-      "id": "0x89728ce",
+      "id": 144124110,
       "en": "[placeholder] asks you to join a Fellowship.\\n",
-      "es": "[placeholder] te pide que te unas a una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Comunidad.\\n"
     },
     {
-      "id": "0x8d678f2",
+      "id": 148273394,
       "en": "[placeholder] is no longer the leader of {her[f]|his[m]} fellowship.\\n",
-      "es": "[placeholder] ya no es {la[f]|el[m]} líder de su Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ya no es {la[f]|el[m]} líder de su Comunidad.\\n"
     },
     {
-      "id": "0x9b82835",
+      "id": 163063861,
       "en": "You cannot dismiss a fellow from your fellowship while they are inside a private encounter.\\n",
-      "es": "No puedes expulsar a un compañero de tu Comunidad mientras esté dentro de un encuentro privado.\\n",
-      "es (fem)": ""
+      "es": "No puedes expulsar a un compañero de tu Comunidad mientras esté dentro de un encuentro privado.\\n"
     },
     {
-      "id": "0x6e98767",
+      "id": 115967847,
       "en": "You are already in a Fellowship.\\n",
-      "es": "Ya estás en una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Ya estás en una Comunidad.\\n"
     },
     {
-      "id": "0xa04a874",
+      "id": 168077428,
       "en": "Unable to complete your dismiss Fellow request at this time, please try again shortly.\\n",
-      "es": "No se ha podido completar su solicitud de despedida en este momento, por favor inténtelo de nuevo en breve.\\n",
-      "es (fem)": ""
+      "es": "No se ha podido completar su solicitud de despedida en este momento, por favor inténtelo de nuevo en breve.\\n"
     },
     {
-      "id": "0x8db10d4",
+      "id": 148574420,
       "en": "[placeholder] asks you to join a Raid.\\n",
-      "es": "[placeholder] te pide que te unas a una Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Redada.\\n"
     },
     {
-      "id": "0xabd9a14",
+      "id": 180197908,
       "en": "[placeholder] is no longer a Raid Assistant.\\n",
-      "es": "[placeholder] ya no es Asistente de Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ya no es Asistente de Redada.\\n"
     },
     {
-      "id": "0xf873424",
+      "id": 260518948,
       "en": "Unable to complete your disband Fellowship request at this time, please try again shortly.\\n",
-      "es": "No se ha podido completar tu solicitud de disolver Comunidad en este momento, por favor inténtalo de nuevo en breve.\\n",
-      "es (fem)": ""
+      "es": "No se ha podido completar tu solicitud de disolver Comunidad en este momento, por favor inténtalo de nuevo en breve.\\n"
     },
     {
-      "id": "0xf24f315",
+      "id": 254079765,
       "en": "[placeholder] asks you to join a Raid.  If you join the Raid your current Private Encounter will close.\\n",
-      "es": "[placeholder] te ha pedido que te unas a una Redada. Si te unes, tu Encuentro Privado actual se cerrará.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te ha pedido que te unas a una Redada. Si te unes, tu Encuentro Privado actual se cerrará.\\n"
     },
     {
-      "id": "0xdfa2454",
+      "id": 234497108,
       "en": "You have been dismissed from your Raid.\\n",
-      "es": "Has sido despedido de tu Redada.\\n",
-      "es (fem)": ""
+      "es": "Has sido despedido de tu Redada.\\n"
     },
     {
-      "id": "0x5685df0",
+      "id": 90725872,
       "en": "[placeholder] is now the leader of the group.\\n",
-      "es": "[placeholder] es ahora el líder del grupo.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] es ahora el líder del grupo.\\n"
     },
     {
-      "id": "0x6d6ba67",
+      "id": 114735719,
       "en": "Your fellowship name is too long.\\n",
-      "es": "El nombre de tu Comunidad es demasiado largo.\\n",
-      "es (fem)": ""
+      "es": "El nombre de tu Comunidad es demasiado largo.\\n"
     },
     {
-      "id": "0x15b3dc4",
+      "id": 22756804,
       "en": "Targeted Fellowship Skill: [placeholder] has been set.",
-      "es": "Habilidad de Comunidad objetivo: [placeholder] se ha establecido.",
-      "es (fem)": ""
+      "es": "Habilidad de Comunidad objetivo: [placeholder] se ha establecido."
     },
     {
-      "id": "0x724a8f4",
+      "id": 119843060,
       "en": "Free For All with Need/Greed/Pass",
-      "es": "Libre para todos con Necesito/Codicio/Paso",
-      "es (fem)": ""
+      "es": "Libre para todos con Necesito/Codicio/Paso"
     },
     {
-      "id": "0xffc4e35",
+      "id": 268193333,
       "en": "Fellowship: [placeholder]",
-      "es": "Comunidad: [placeholder]",
-      "es (fem)": ""
+      "es": "Comunidad: [placeholder]"
     },
     {
-      "id": "0xc0c194",
+      "id": 12632468,
       "en": "You have not been asked to join a Fellowship.\\n",
-      "es": "No se te ha pedido que te unas a una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "No se te ha pedido que te unas a una Comunidad.\\n"
     },
     {
-      "id": "0xd735a43",
+      "id": 225663555,
       "en": "You must specify a character to dismiss.\\n",
-      "es": "Debes especificar un personaje para despedir.\\n",
-      "es (fem)": ""
+      "es": "Debes especificar un personaje para despedir.\\n"
     },
     {
-      "id": "0xddf275",
+      "id": 14545525,
       "en": "Raid: [placeholder]",
-      "es": "Redada: [placeholder]",
-      "es (fem)": ""
+      "es": "Redada: [placeholder]"
     },
     {
-      "id": "0x58af557",
+      "id": 92992855,
       "en": "[placeholder] is already in a Fellowship.\\n",
-      "es": "[placeholder] ya está en una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ya está en una Comunidad.\\n"
     },
     {
-      "id": "0x255132d",
+      "id": 39129901,
       "en": "The chat room for your Fellowship has been created successfully.\\n",
-      "es": "La sala de chat para tu Comunidad se ha creado correctamente.\\n",
-      "es (fem)": ""
+      "es": "La sala de chat para tu Comunidad se ha creado correctamente.\\n"
     },
     {
-      "id": "0x15c0084",
+      "id": 22806660,
       "en": "You can't create a fellowship if you're not alive.\\n",
-      "es": "No puedes crear una Comunidad si no estás vivo.\\n",
-      "es (fem)": ""
+      "es": "No puedes crear una Comunidad si no estás vivo.\\n"
     },
     {
-      "id": "0x960a613",
+      "id": 157328915,
       "en": "[placeholder] declines to join your Fellowship.\\n",
-      "es": "[placeholder] declina unirse a tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] declina unirse a tu Comunidad.\\n"
     },
     {
-      "id": "0x8886be4",
+      "id": 143158244,
       "en": "[placeholder] has been dismissed from your Raid.\\n",
-      "es": "[placeholder] ha sido expulsado de tu Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha sido expulsado de tu Redada.\\n"
     },
     {
-      "id": "0xa0ffbd4",
+      "id": 168819668,
       "en": " (ID: [placeholder])",
-      "es": "(ID: [placeholder])",
-      "es (fem)": ""
+      "es": "(ID: [placeholder])"
     },
     {
-      "id": "0xf572995",
+      "id": 257370517,
       "en": "You cannot disband your fellowship while inside a private encounter.\\n",
-      "es": "No puedes disolver tu Comunidad en un encuentro privado.\\n",
-      "es (fem)": ""
+      "es": "No puedes disolver tu Comunidad en un encuentro privado.\\n"
     },
     {
-      "id": "0xbfbcfa3",
+      "id": 201052067,
       "en": "Free For All with Roll/Pass",
-      "es": "Libre para todos con Probar suerte/Pasar",
-      "es (fem)": ""
+      "es": "Libre para todos con Probar suerte/Pasar"
     },
     {
-      "id": "0x1b42625",
+      "id": 28583461,
       "en": "Fellowship: [placeholder]",
-      "es": "Comunidad: [placeholder]",
-      "es (fem)": ""
+      "es": "Comunidad: [placeholder]"
     },
     {
-      "id": "0x5fcc694",
+      "id": 100451988,
       "en": "You dismiss [placeholder] from the Raid.\\n",
-      "es": "Despedirás a [placeholder] de la Redada.\\n",
-      "es (fem)": ""
+      "es": "Despedirás a [placeholder] de la Redada.\\n"
     },
     {
-      "id": "0x56ac1d2",
+      "id": 90882514,
       "en": "Round Robin with Master Looter",
-      "es": "Round Robin con Master Looter",
-      "es (fem)": ""
+      "es": "Round Robin con Master Looter"
     },
     {
-      "id": "0xccb8ebd",
+      "id": 214666941,
       "en": "You have joined the chat room for your Fellowship, Fellowship chat is now available.\\n",
-      "es": "Te has unido a la sala de chat de tu Comunidad, el chat de la Comunidad ya está disponible.\\n",
-      "es (fem)": ""
+      "es": "Te has unido a la sala de chat de tu Comunidad, el chat de la Comunidad ya está disponible.\\n"
     },
     {
-      "id": "0xf290ab5",
+      "id": 254347957,
       "en": "/ra <msg> - send <msg> to the raid's chat channel\\n",
-      "es": "/ra <msg> - envía <msg> al canal de chat de la redada\\n",
-      "es (fem)": ""
+      "es": "/ra <msg> - envía <msg> al canal de chat de la redada\\n"
     },
     {
-      "id": "0xf601570",
+      "id": 257955184,
       "en": "[placeholder] has left your Group.\\n",
-      "es": "[placeholder] ha abandonado tu Grupo.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha abandonado tu Grupo.\\n"
     },
     {
-      "id": "0x1c90084",
+      "id": 29950084,
       "en": "Round Robin with Need/Greed/Pass",
-      "es": "Round Robin con Necesito/Codicio/Paso",
-      "es (fem)": ""
+      "es": "Round Robin con Necesito/Codicio/Paso"
     },
     {
-      "id": "0xa753184",
+      "id": 175452548,
       "en": "[placeholder] has joined your Raid.\\n",
-      "es": "[placeholder] se ha unido a tu Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] se ha unido a tu Redada.\\n"
     },
     {
-      "id": "0x9b970ac",
+      "id": 163147948,
       "en": "[placeholder] rolled ([placeholder]): [placeholder]",
-      "es": "[placeholder] sacó ([placeholder]): [placeholder]",
-      "es (fem)": ""
+      "es": "[placeholder] sacó ([placeholder]): [placeholder]"
     },
     {
-      "id": "0xaf42d95",
+      "id": 183774613,
       "en": "The chat room for your Fellowship does not exist yet, Fellowship chat is currently unavailable!\\n",
-      "es": "La sala de chat para tu Comunidad aún no existe, ¡el chat de la Comunidad no está disponible en este momento!\\n",
-      "es (fem)": ""
+      "es": "La sala de chat para tu Comunidad aún no existe, ¡el chat de la Comunidad no está disponible en este momento!\\n"
     },
     {
-      "id": "0xa458ba5",
+      "id": 172329893,
       "en": "[placeholder] asks you to join a Fellowship for Quest [placeholder].  If you join the fellowship your current Private Encounter will close.\\n",
-      "es": "[placeholder] te pide que te unas a una Comunidad para la Misión [placeholder]. Si te unes a la Comunidad, tu Encuentro Privado actual se cerrará.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Comunidad para la Misión [placeholder]. Si te unes a la Comunidad, tu Encuentro Privado actual se cerrará.\\n"
     },
     {
-      "id": "0x24583e7",
+      "id": 38110183,
       "en": "You create a Fellowship.\\n",
-      "es": "Crea una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Crea una Comunidad.\\n"
     },
     {
-      "id": "0x1fd1bf4",
+      "id": 33364980,
       "en": "Your Raid has been disbanded.\\n",
-      "es": "Tu Redada ha sido disuelta.\\n",
-      "es (fem)": ""
+      "es": "Tu Redada ha sido disuelta.\\n"
     },
     {
-      "id": "0x6b64d82",
+      "id": 112610690,
       "en": "Only the leader may promote a new one.\\n",
-      "es": "Sólo el líder puede promover una nueva.\\n",
-      "es (fem)": ""
+      "es": "Sólo el líder puede promover una nueva.\\n"
     },
     {
-      "id": "0xc75f607",
+      "id": 209057287,
       "en": "[placeholder] has left your Fellowship.\\n",
-      "es": "[placeholder] ha abandonado tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha abandonado tu Comunidad.\\n"
     },
     {
-      "id": "0x44165f3",
+      "id": 71394803,
       "en": "You dismiss [placeholder] from the fellowship.\\n",
-      "es": "Despedís a [placeholder] de la Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Despedís a [placeholder] de la Comunidad.\\n"
     },
     {
-      "id": "0x6d7a11d",
+      "id": 114794781,
       "en": "You were unable to join the chat room for your Fellowship, Fellowship chat is unavailable!\\n",
-      "es": "No has podido entrar en la sala de chat de tu Comunidad, ¡el chat de la Comunidad no está disponible!.\\n",
-      "es (fem)": ""
+      "es": "No has podido entrar en la sala de chat de tu Comunidad, ¡el chat de la Comunidad no está disponible!.\\n"
     },
     {
-      "id": "0xa1edfc4",
+      "id": 169795524,
       "en": "Autosplit has been disabled for your fellowship.\\n",
-      "es": "Se ha desactivado la división automática para tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Se ha desactivado la división automática para tu Comunidad.\\n"
     },
     {
-      "id": "0xc92e904",
+      "id": 210954500,
       "en": "You can only recruit PCs into your Fellowship.\\n",
-      "es": "Sólo puedes reclutar PCs para tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Sólo puedes reclutar PCs para tu Comunidad.\\n"
     },
     {
-      "id": "0x78a39c5",
+      "id": 126499269,
       "en": "Attempting to invite [placeholder] into fellowship.",
-      "es": "Intento de invitar a [placeholder] a la Comunidad.",
-      "es (fem)": ""
+      "es": "Intento de invitar a [placeholder] a la Comunidad."
     },
     {
-      "id": "0xd847607",
+      "id": 226784775,
       "en": "(Waiting for recruit to accept or decline ...)\\n",
-      "es": "(A la espera de que el recluta acepte o rechace...)\\n",
-      "es (fem)": ""
+      "es": "(A la espera de que el recluta acepte o rechace...)\\n"
     },
     {
-      "id": "0x3600395",
+      "id": 56624021,
       "en": "The loot rule has changed to [placeholder].\\n",
-      "es": "La regla del botín ha cambiado a [placeholder].\\n",
-      "es (fem)": ""
+      "es": "La regla del botín ha cambiado a [placeholder].\\n"
     },
     {
-      "id": "0x8ef2664",
+      "id": 149890660,
       "en": "Autosplit has been enabled for your fellowship.\\n",
-      "es": "Se ha activado la división automática para tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Se ha activado la división automática para tu Comunidad.\\n"
     },
     {
-      "id": "0xa5bfee3",
+      "id": 173801187,
       "en": "[placeholder] is not accepting fellowship invites.\\n",
-      "es": "[placeholder] no acepta invitaciones de Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] no acepta invitaciones de Comunidad.\\n"
     },
     {
-      "id": "0x8ad4673",
+      "id": 145573491,
       "en": "You dismiss [placeholder] from your Fellowship.\\n",
-      "es": "Despedirás a [placeholder] de tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Despedirás a [placeholder] de tu Comunidad.\\n"
     },
     {
-      "id": "0xe951823",
+      "id": 244652067,
       "en": "Round Robin with Roll/Pass",
-      "es": "Round Robin con Probar suerte/Pasar",
-      "es (fem)": ""
+      "es": "Round Robin con Probar suerte/Pasar"
     },
     {
-      "id": "0xcc15a10",
+      "id": 213998096,
       "en": "You accept the offer to join a Group.\\n",
-      "es": "Aceptas la oferta de unirte a un Grupo.\\n",
-      "es (fem)": ""
+      "es": "Aceptas la oferta de unirte a un Grupo.\\n"
     },
     {
-      "id": "0xe555a54",
+      "id": 240474708,
       "en": "Any fellowship member can loot corpses.\\n",
-      "es": "Cualquier miembro de la Comunidad puede saquear cadáveres.\\n",
-      "es (fem)": ""
+      "es": "Cualquier miembro de la Comunidad puede saquear cadáveres.\\n"
     },
     {
-      "id": "0xaa33674",
+      "id": 178468468,
       "en": "Creation of the chat room for your Fellowship has failed, Fellowship chat will be unavailable!\\n",
-      "es": "La creación de la sala de chat para tu Comunidad ha fallado, ¡el chat de la Comunidad no estará disponible!\\n",
-      "es (fem)": ""
+      "es": "La creación de la sala de chat para tu Comunidad ha fallado, ¡el chat de la Comunidad no estará disponible!\\n"
     },
     {
-      "id": "0x30a0d94",
+      "id": 50990484,
       "en": "Your offer to join the Fellowship has expired.\\n",
-      "es": "Tu oferta para unirte a la Comunidad ha expirado.\\n",
-      "es (fem)": ""
+      "es": "Tu oferta para unirte a la Comunidad ha expirado.\\n"
     },
     {
-      "id": "0x53e3d65",
+      "id": 87965029,
       "en": "You have acquired: [placeholder].\\n",
-      "es": "Has adquirido: [placeholder].\\n",
-      "es (fem)": ""
+      "es": "Has adquirido: [placeholder].\\n"
     },
     {
-      "id": "0x827fc9c",
+      "id": 136838300,
       "en": "Free For All",
-      "es": "Libre para todos",
-      "es (fem)": ""
+      "es": "Libre para todos"
     },
     {
-      "id": "0x158c493",
+      "id": 22594707,
       "en": "Please select a Fellow or Raid member:",
-      "es": "Por favor, seleccione un compañero o miembro de la Redada:",
-      "es (fem)": ""
+      "es": "Por favor, seleccione un compañero o miembro de la Redada:"
     },
     {
-      "id": "0x91d9234",
+      "id": 152932916,
       "en": "You have joined a Raid.\\n",
-      "es": "Te has unido a una Redada.\\n",
-      "es (fem)": ""
+      "es": "Te has unido a una Redada.\\n"
     },
     {
-      "id": "0x3fd5682",
+      "id": 66934402,
       "en": "[placeholder] is now the leader of the fellowship.\\n",
-      "es": "[placeholder] es ahora el líder de la Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] es ahora el líder de la Comunidad.\\n"
     },
     {
-      "id": "0x8ed0090",
+      "id": 149749904,
       "en": "You have joined the chat room for your Group, Group chat is now available.\\n",
-      "es": "Te has unido a la sala de chat de tu grupo. El chat de grupo ya está disponible.\\n",
-      "es (fem)": ""
+      "es": "Te has unido a la sala de chat de tu grupo. El chat de grupo ya está disponible.\\n"
     },
     {
-      "id": "0xda3cc14",
+      "id": 228838420,
       "en": "You accept the offer to join a Fellowship.\\n",
-      "es": "Aceptas la oferta de unirte a una Comunidad.\\n",
-      "es (fem)": ""
+      "es": "Aceptas la oferta de unirte a una Comunidad.\\n"
     },
     {
-      "id": "0xa4e784e",
+      "id": 172914766,
       "en": "You request to join [placeholder]'s party.",
-      "es": "Solicitas unirte al grupo de [placeholder].",
-      "es (fem)": ""
+      "es": "Solicitas unirte al grupo de [placeholder]."
     },
     {
-      "id": "0x24fa334",
+      "id": 38773556,
       "en": "Your fellow, [placeholder], has been defeated!\\n",
-      "es": "¡Tu compañero, [placeholder], ha sido derrotado!\\n",
-      "es (fem)": ""
+      "es": "¡Tu compañero, [placeholder], ha sido derrotado!\\n"
     },
     {
-      "id": "0x3719695",
+      "id": 57775765,
       "en": "You have acquired: [placeholder] (pending).\\n",
-      "es": "Has adquirido: [placeholder] (pendiente).\\n",
-      "es (fem)": ""
+      "es": "Has adquirido: [placeholder] (pendiente).\\n"
     },
     {
-      "id": "0x78e3145",
+      "id": 126759237,
       "en": "Someone else is trying to recruit you.\\n",
-      "es": "Alguien más está intentando reclutarte.\\n",
-      "es (fem)": ""
+      "es": "Alguien más está intentando reclutarte.\\n"
     },
     {
-      "id": "0xb1bba35",
+      "id": 186366517,
       "en": "You cannot disband your fellowship while a member is inside a private encounter.\\n",
-      "es": "No puedes disolver tu Comunidad mientras un miembro está dentro de un encuentro privado.\\n",
-      "es (fem)": ""
+      "es": "No puedes disolver tu Comunidad mientras un miembro está dentro de un encuentro privado.\\n"
     },
     {
-      "id": "0x31bc5dd",
+      "id": 52151773,
       "en": "You have joined the chat room for your raid, raid chat is now available.\\n",
-      "es": "Te has unido a la sala de chat de tu redada, el chat de redada ya está disponible.\\n",
-      "es (fem)": ""
+      "es": "Te has unido a la sala de chat de tu redada, el chat de redada ya está disponible.\\n"
     },
     {
-      "id": "0x87da516",
+      "id": 142451990,
       "en": "You are now the leader of the raid.\\n",
-      "es": "Ahora eres el líder de la redada.\\n",
-      "es (fem)": ""
+      "es": "Ahora eres el líder de la redada.\\n"
     },
     {
-      "id": "0x93feaf4",
+      "id": 155183860,
       "en": "Your request to join [placeholder]'s party was declined",
-      "es": "Tu solicitud para unirte al grupo de [placeholder] ha sido rechazada",
-      "es (fem)": ""
+      "es": "Tu solicitud para unirte al grupo de [placeholder] ha sido rechazada"
     },
     {
-      "id": "0xdd65624",
+      "id": 232150564,
       "en": "[placeholder] has been made a Raid Assistant.\\n",
-      "es": "[placeholder] ha sido nombrado Asistente de Redada.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha sido nombrado Asistente de Redada.\\n"
     },
     {
-      "id": "0x8ace7c6",
+      "id": 145549254,
       "en": "You cannot recruit yourself.\\n",
-      "es": "No puedes reclutarte a ti mismo.\\n",
-      "es (fem)": ""
+      "es": "No puedes reclutarte a ti mismo.\\n"
     },
     {
-      "id": "0xd55023c",
+      "id": 223674940,
       "en": "[placeholder] ([placeholder])",
-      "es": "[placeholder] ([placeholder])",
-      "es (fem)": ""
+      "es": "[placeholder] ([placeholder])"
     },
     {
-      "id": "0x6c8d794",
+      "id": 113825684,
       "en": "[placeholder] asks you to join a Raid for Quest [placeholder].\\n",
-      "es": "[placeholder] te pide que te unas a una Redada para la Misión [placeholder].\\n",
-      "es (fem)": ""
+      "es": "[placeholder] te pide que te unas a una Redada para la Misión [placeholder].\\n"
     },
     {
-      "id": "0x9284be7",
+      "id": 153635815,
       "en": "[placeholder] has been dismissed from your Fellowship.\\n",
-      "es": "[placeholder] ha sido expulsado de tu Comunidad.\\n",
-      "es (fem)": ""
+      "es": "[placeholder] ha sido expulsado de tu Comunidad.\\n"
     }
   ]
 }

@@ -2,142 +2,119 @@
   "id": 621059215,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'By Durin's beard, you startled me! Did Lord Stormhammer send you?'\\n\\nVithin catches his breath and begins to whisper.\\n\\n'Aye, I'm Vithin, but I'm afraid I cannot leave—not yet. Glittengrof and its crystals are indeed beautiful, but that doesn't mean much if it's overrun by spiders! Even worse, I've lost most of my company in these blasted webs!\\n\\n'I can't just leave them! Will you aid me?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Spall can be found at Watchers' Roost in Gloomingtarn.\\n\\nHermáth Stormhammer has permitted Spall to conduct a survey of Gloomingtarn on the condition that you accompany him. You should talk to Spall.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e02",
+      "id": 49286658,
       "en": "Talk to Spall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Aid Spall with 'Surveying Ormgren'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Aid Spall with 'Surveying Glittengrof'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'You are a friend of Prince Durin's, are you not? Oh, thank you for coming to my aid!'\\n\\n'We arrived expecting to find an old, abandoned delving to mine, but instead we've found what must be thousands of glow-worms! If we intend to reclaim Ormgren, it will take more than my axe and a small company of miners to do it!\\n\\n'Will you aid me? I shall send word to Lord Stormhammer as soon as I can!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Vithin and Lokur can be found in Glittengrof and Ormgren, respectively. Spall can be found at your side.\\n\\nHermáth Stormhammer has permitted Spall to conduct a survey of Gloomingtarn on the condition that you accompany him and also aid the expeditions in Glittengrof and Ormgren. You should aid Spall with his survey and receive reports from Lokur and Vithin, two warriors of Hermáth Stormhammer's expedition.\\n\\n<rgb=#FF0000>NOTE: If you become separated from Spall, use the horn he gave you to call him to your side.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "Spall arrives at your side!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a1",
+      "id": 177082785,
       "en": "Spall sets off to return to Watchers' Roost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Spall arrives at your side!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Although I can hardly believe it myself, I think we're finished here.\\n\\n'I could not have done this without you, my friend. Your name will no doubt feature prominently in my notes about Gloomingtarn—whenever I should actually finish writing everything down!\\n\\n'These surveys have given me much to consider, [placeholder], and some very fine things to study! If you wish to explore Glittengrof or Ormgren further, I am certain you will be up to the task. As for me, I'm going back to Watchers' Roost!\\n\\n'Farewell!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "DNT - Quest Descrip",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Hermáth Stormhammer at Watchers' Roost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'Ah, [placeholder]. You have returned not a moment too soon!\\n\\n'Spall spoke highly of your aid in his survey, but I must ask something of you now as well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Spall can be found at your side in Gloomingtarn.\\n\\nYou have helped Spall complete his survey of Glittengrof and Ormgren. You should talk to Spall.\\n\\n<rgb=#FF0000>NOTE: If you become separated from Spall, use the horn he gave you to call him to your side.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Talk to Spall at Watchers' Roost",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'Now then, [placeholder]...\\n\\n'I know this will come as some surprise, but my granddaughter has not shied from voicing her misgivings about your companion. However, I believe I see something of myself in him. Spall is a curious dwarf and he is well-learned in the history of the dwarves. Indeed, Spall might prove invaluable to this expedition. I was hesitant to allow him to begin his survey unaccompanied, but with you here, I see no reason to keep him from his studies!\\n\\n'Besides, I need your help with another matter, my friend. After we established camp here at Watchers' Roost, I sent two companies to investigate some of the old passages of Gloomingtarn. One of my warriors, Vithin, led his company to Glittengrof, and another, Lokur, led his to Ormgren. My scouts spied a few glass-spiders near the entrance to Glittengrof, but I know little of Ormgren. Unfortunately, neither company has returned or even sent word—be it good or ill. Needless to say, I have become concerned. Either they have made some great discovery, or some terrible fate may have befallen them. If you find them in the course of Spall's survey, aid them as best you can. I would not leave any of my warriors behind!\\n\\n'Go, [placeholder], and tell Spall that he may begin his survey in Glittengrof and Ormgren—so long as you accompany him!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "A Study in Reclamation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d167",
+      "id": 24695143,
       "en": "Much to Spall's surprise, Hermáth Stormhammer has permitted him to begin his survey of Gloomingtarn. However, Hermáth Stormhammer also wishes to learn what has become of his warriors, Lokur and Vithin, who led companies into the ancient tunnels of Gloomingtarn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "Talk to Vithin and assist the expedition in Glittengrof",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Talk to Lokur and assist the expedition in Ormgren",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Lord Stormhammer has given me permission to begin my survey of Gloomingtarn? And you will accompany me? How wonderful!\\n\\n'I had hoped to begin my survey at Abkân'aban, the great Stone of Wakening, but upon further thought, I suppose that is better left for last. Yes, Glittengrof and Ormgren shall be fine places to begin my studies!'\\n\\nSpall begins to collect his things into his pockets and picks up a nearby axe.\\n\\n'If it is all right with you, [placeholder], I would like to set off at once!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01194",
+      "id": 246419860,
       "en": "Hermáth Stormhammer can be found at Watchers' Roost in Gloomingtarn.\\n\\nYou have assisted Lokur and Vithin with their expeditions into Glittengrof and Ormgren, and Spall has completed the first part of his survey of Gloomingtarn. You should return to Watchers' Roost and talk to Hermáth Stormhammer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

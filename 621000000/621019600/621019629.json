@@ -2,226 +2,189 @@
   "id": 621019629,
   "txt": [
     {
-      "id": "0x9b56856",
+      "id": 162883670,
       "en": "'Hello, child. How is old Grimbeorn doing these days? Tell him to come visit when he has the time.\\n\\n'Ah, you are here on goblin business? I did see some outsiders head toward the goblin gate not long ago, and then the next day, there was evidence of many goblins leaving. That is all I know.\\n\\n'The High Pass itself has been quiet. I do hear some very esteemed guests are on their way, however! Very exciting.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Talk to the Beorning near the Old Ford",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56859",
+      "id": 162883673,
       "en": "'Outsiders entering Goblin-town, many goblins leaving, and now reports of homes south of Vegbár under attack. You say you are here to help, so now I am asking you to make good on your word. We have not heard from the forester Ainhard in some time. Go to his home and see if he still lives! We must discover why the goblins have left Goblin-town and now threaten the lands to the south.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01147",
+      "id": 246419783,
       "en": "Skalla can be found in Vegbár, the Beorning outpost in the Wolf-denes.\\n\\nYou should talk to Skalla.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50254",
+      "id": 111477332,
       "en": "Talk to the Beorning south of Vegbár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Talk to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Talk to Skalla",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d158",
+      "id": 24695128,
       "en": "The Woodmen south of Vegbár have seen a recent increase in goblin raids. Langhár has asked for your help in dealing with this problem.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01150",
+      "id": 246419792,
       "en": "TBD Directions to Ainhard's home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01153",
+      "id": 246419795,
       "en": "Ainhard's homestead lies south of Vegbár in the Wolf-denes.\\n\\nYou should travel to Ainhard's homestead.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b2",
+      "id": 246419890,
       "en": "Langhár can be found in Vegbár, the Beorning outpost in the Wolf-denes.\\n\\nYou should talk to Langhár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0xeb01156",
+      "id": 246419798,
       "en": "Langhár can be summoned to your side with Langhár's summoning horn.\\n\\nYou should talk to Langhár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "Skalla can be found in Vegbár, the Beorning outpost in the Wolf-denes.\\n\\nYou should talk to Skalla.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b7",
+      "id": 246419895,
       "en": "Skalla has asked you to speak to the others around Vegbár, the Beorning outpost in the Wolf-denes.\\n\\nYou should speak to the other Beornings around Vegbár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1162",
+      "id": 177082722,
       "en": "You have found Ainhard's Homestead",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a0",
+      "id": 162883744,
       "en": "'Skalla, the one in command here at Vegbár, asked for help in this goblin matter, and Grimbeorn sent me. I was just about to ask Skalla what the situation is. Would you care to join me?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a1",
+      "id": 162883745,
       "en": "#-1:[placeholder]'Skalla, the one in command here at Vegbár, asked for help in this goblin matter, and Grimbeorn sent me. I was just about to ask Skalla what the situation is. Would you care to join me, #-1:{Sister[f]|Brother[m]}?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a3",
+      "id": 162883747,
       "en": "'After you, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01160",
+      "id": 246419808,
       "en": "Ainhard's homestead lies somewhere south of Vegbár in the Wolf-denes.\\n\\nYou should travel to Ainhard's homestead.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56845",
+      "id": 162883653,
       "en": "'Who goes there? Get away from me, villain!'\\n\\nAinhard is clearly rattled from whatever happened here. You do your best to calm him down.\\n\\n'You... are not goblins! I am so happy to see you! This has been the worst day of my life.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa16",
+      "id": 149027350,
       "en": "TBD Wolf-denes Narrative 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56847",
+      "id": 162883655,
       "en": "'What happened here? His home looks like it weathered a storm! Quickly, let us find Ainhard and make sure he is safe.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa17",
+      "id": 149027351,
       "en": "Goblin Problems",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a6",
+      "id": 162883750,
       "en": "'Ah, Langhár. Grimbeorn sent you? And who is this outsider with you?'\\n\\nYou introduce yourself and explain that you would like to help with the goblin situation.\\n\\n'Hmm. If Langhár can vouch for you, I see no issue. Woodmen living south of here have been reporting goblin activity in increasing numbers. Speak to the Beornings nearby and see what you can piece together.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56849",
+      "id": 162883657,
       "en": "'Outsiders entering Goblin-town, many goblins leaving, and now reports of homes south of Vegbár under attack. Troubling news. We have not heard from the forester Ainhard in some time. Please, go to his home and see if he still lives! We must discover why the goblins have left Goblin-town and now threaten the lands to the south.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50241",
+      "id": 111477313,
       "en": "Travel to Ainhard's Homestead",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a8",
+      "id": 162883752,
       "en": "'Ah, Langhár and [placeholder]. Good of Grimbeorn to send you to assist us.\\n\\n'Here is all I know: Woodmen living south of here have been reporting goblin activity in increasing numbers, and the Beornings say the same. Speak to your people nearby and see what you can piece together.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50244",
+      "id": 111477316,
       "en": "Talk to Ainhard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Talk to Skalla",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50248",
+      "id": 111477320,
       "en": "Talk to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56850",
+      "id": 162883664,
       "en": "'Goblins? None here. The Old Ford has been rather quiet of late.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Talk to Hertha at the High Pass",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56853",
+      "id": 162883667,
       "en": "'I have not seen any goblins myself, but several Woodmen spoke of goblin attacks at Waldfast. I have not heard from some of the people living to the South, and I cannot leave my post; will you please report this to Skalla?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "TBD",
-      "es": "TBD",
-      "es (fem)": ""
+      "es": "TBD"
     },
     {
-      "id": "0x9b56855",
+      "id": 162883669,
       "en": "'Greetings, [placeholder]. With what can Hertha, Keeper of the Pass, help you? Here to pay the toll?'\\n\\nShe gently chuckles. You explain that you are helping Langhár investigate some reports of goblin activity.\\n\\n'Ah, you are here on goblin business? I did see some outsiders head toward the goblin gate not long ago, and then the next day, there was evidence of many goblins leaving. That is all I know. \\n\\n'The High Pass itself has been quiet. I do hear some very esteemed guests are on their way, however! Very exciting.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

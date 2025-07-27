@@ -2,34 +2,29 @@
   "id": 620831458,
   "txt": [
     {
-      "id": "0xa4b0ff5",
+      "id": 172691445,
       "en": "Gambits for Beginners",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Gambit Instructions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Instructions for new Wardens",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38ce4c2",
+      "id": 59565250,
       "en": "Instructor Warden Gregor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61726d1",
+      "id": 102180561,
       "en": "You have no doubt noticed a large new UI element on your screen. This is the Gambit Display.  It can be moved like most other UI elements by using (ctrl-\\). The Gambit display has two boxes that hold Gambit Icons and the Gambit Default skill. Gambit icons are added to the display when you execute some basic Gambit skills. You have Quick Thrust which adds a red Spear icon, Shield Bash which adds a green Shield icon, and Warden's Taunt which adds a yellow Fist icon. \\n \\n These Gambit icons combine to unlock a new kind of skill called a Gambit. When the correct sequence of Gambit Icons is in the Gambit Display, the Gambit Default skill will change into the correct Gambit. That Gambit can then be used by clicking on the box in the Gambit Display. The Gambit Default skill has also been placed on your Hotbar for easy use.\\n\\nGambits that you know are displayed in the Character Journal by selecting the Skills tab at the top and Gambits tab at the bottom. They are categorized by the number of icons to enable the Gambit and the Gambit type. Gambit types are the same as the first icon in the Gambit icon sequence. Spear Gambits are primarily physical attacks. Shield Gambits add defensive buffs and Heal over Time effects. Fist Gambits affect multiple enemies and grant defensive buffs.\\n\\nYou have a ranged stance, 'Assailment', which will turn your Gambit Builders into ranged versions of themselves. Each of these stances comes with a different suite of available abilities and you can swap between them freely.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

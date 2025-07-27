@@ -2,70 +2,59 @@
   "id": 620843818,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The Orcs of Moria have stolen many beloved items from the bodies of those who have fallen defending Lothlórien from their assaults. I doubt not that many have been defiled or destroyed, but there must be some which can be recovered and brought to the families of the lost.\\n\\n'Nardur-stazg is the chief encampment of the Orcs in Fanuidhol and the most dangerous to attack, but would you go there and recover what you may? I am sure some of the finest trophies have been sent there.\\n\\n'Nardur-stazg lies to the north-west of here. Bring back any stolen belongings that you find, and you will be rewarded.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Your bravery is undeniable, [placeholder]. Not many would enter Nardur-stazg to recover trophies for sentimental Elves.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The Galadhrim will be grateful for any stolen belongings you can return to us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Were you unable to recover the stolen belongings from Nardur-stazg?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Looting Nardur-stazg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Orcs of Moria have begun mustering in Fanuidhol in preparation to assault Lothlórien.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected crates of stolen belongings at Nardur-stazg ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect crates of stolen belongings at Nardur-stazg ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Nardur-stazg lies to the north-west from Talan Gwilith.\\n\\nMaeriel has asked you to enter Nardur-stazg and collect any stolen belongings you find there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring the stolen belongings to Maeriel at Talan Gwilith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Maeriel is at Talan Gwilith, south-east of Nardur-stazg.\\n\\nYou should return to Maeriel with the stolen belongings you recovered.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

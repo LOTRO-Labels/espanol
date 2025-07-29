@@ -2,532 +2,444 @@
   "id": 620998239,
   "txt": [
     {
-      "id": "0xf00e168",
+      "id": 251715944,
       "en": "Talk to Elrond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e110",
+      "id": 251715856,
       "en": "Bring parcels to Tordúril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'I little thought to see you here, so soon, [placeholder]. It gladdens my heart, for you can only have come bearing happy tidings!'\\n\\nThe Elf with whom he was speaking looks meaningfully and a shadow crosses Elrond's brow.\\n\\n'I fear there are several matters to which I must attend, and they cannot wait. Forgive this discourtesy, [placeholder]. If you will return shortly I would speak more with you.\\n\\n'Why do you not pay a visit to Bilbo the Halfling? He would be as glad to see your face as I. He will be in the Hall of Fire as he always is.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50241",
+      "id": 111477313,
       "en": "Talk to Anornaneth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01173",
+      "id": 246419827,
       "en": "Arwen and Eliaril stand in Imlad Gelair in Rivendell.\\n\\nYou should talk to Eliaril, Arwen's maid-in-waiting, and see if you can calm her down.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50243",
+      "id": 111477315,
       "en": "Talk to Hammadelen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50245",
+      "id": 111477317,
       "en": "Talk to Galdor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "Lindir laughs.\\n\\n'It is true, you cannot plead infirmity and age as Master Bilbo here does! We will indeed not turn away help that is offered, for we wish to set out on our journey with some happy haste. Anywhere within these walls you see packing, you are welcome to lend a hand!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01176",
+      "id": 246419830,
       "en": "Arwen and Eliaril stand in Imlad Gelair in Rivendell.\\n\\nHear Arwen's response to Eliaril.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50246",
+      "id": 111477318,
       "en": "Talk to Dúrvenel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Ah, [placeholder]! We stand here peering into the dim ruins of the Enemy's land, while leagues behind us our father Elrond, our sister, and many others of our house prepare for a journey. Can you guess to where? \\n\\n'Few travel fleet as you do, friend. Will you speed to Rivendell and see how things are going? A fear troubles me that my home was braced in battle, just as Lórien was. And another thought comes to me too: that my father Elrond may have wise words of guidance in the search for Glorfindel. Nor do I doubt that he will be hungry for news of happenings here, as well. Especially from one who has seen so much of it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50248",
+      "id": 111477320,
       "en": "Gather parcels ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01179",
+      "id": 246419833,
       "en": "DNT check bookcases",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Pay a visit to Rivendell. Learn what has happened there, what Elrond knows of Glorfindel, and why the house prepares for travel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Talk to Pethelen outside Elrond's House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "DNT 'Ah, [placeholder]. Even as we speak, our father Elrond, our sister, and many of our house prepare for the journey east to Gondor. Will you visit them and see that there is nothing they lack and that their progress goes unhindered?\\n\\n'While you are there, you might ask our father what he knows of Glorfindel. It is troubling that he was not arrived at the Lórien council of war.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Visit Elrond in Rivendell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50250",
+      "id": 111477328,
       "en": "Visit Bilbo Baggins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Help packing Elves ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a1",
+      "id": 190220705,
       "en": "'While we here plan and wait and you brave the dim ruins of the Enemy's land, Elrond, his daughter Arwen, and much of their house prepare for a journey. Can you guess to where?\\n\\n'Few travel fleet as you do, friend. Will you speed to Rivendell and see how things are going? If they were braced in battle, just as we were, they may need help. Elrond, also, may have wise words of guidance in the search for Glorfindel. Whichever the case, Lord Elrond will surely be hungry for news of happenings in Gondor and beyond. Especially from you, who have seen so much of it with your own eyes!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d6",
+      "id": 184621270,
       "en": "You should bring the pile of parcels next to Tordúril from the Market down to the Rivendell Forges.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "You should visit Elrond Half-elven. He stands in the library of his house in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50255",
+      "id": 111477333,
       "en": "Return to Lindir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d8",
+      "id": 184621272,
       "en": "You have helped a number of packing Elves and should return to Lindir in Elrond's house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1153",
+      "id": 177082707,
       "en": "Parcels delivered",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Talk to Ladrochan, the Stable-master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01188",
+      "id": 246419848,
       "en": "You should talk to Elrond Half-elven. He stands in the library of his house in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "DNT Talk to Galadriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'I little thought to see you here, so soon, [placeholder]. It gladdens my heart, for you can only have come bearing happy tidings!'\\n\\nThe Elf with whom he was speaking looks meaningfully and a shadow crosses Elrond's brow.\\n\\n'I fear there are several matters to which I must attend, and they cannot wait. Forgive this discourtesy, [placeholder]. If you will return shortly I would speak more with you.\\n\\n'Why do you not pay a visit to Bilbo the Halfling? He would be as glad to see your face as I. He will be in the Hall of Fire as he always is.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56840",
+      "id": 162883648,
       "en": "'Here, these are all the ropes and weavings that were asked of me. May they grant a swift and easy journey.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a7",
+      "id": 190220711,
       "en": "'Do you wish me to escort you to Lady Arwen? She awaits you, I know. Very good, I will take you now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56842",
+      "id": 162883650,
       "en": "'Many hours have I laboured over these fine and resplendent raiments. See that they are handled gently and packed well. I am to travel with Lord Elrond and Lady Arwen and will see them on the other side, so I will know!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a9",
+      "id": 190220713,
       "en": "'You wish to help, [placeholder]? Of course, we are family, after all.\\n\\n'I have sent down several requisitions to the market and someone is needed to carry those things down to the forges for packing in crates and barrels. You will have to ask around among the merchants and artisans. I am afraid some other goods have been left lying about. Everyone is so busy.\\n\\n'Bring the parcels you gather to Tordúril in the market. She will know what to do with them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56844",
+      "id": 162883652,
       "en": "'I was handed these parcels of goods to be barreled for the journey without so much as a word of where to take them. Here, they are yours!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50260",
+      "id": 111477344,
       "en": "Talk to Arwen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a0",
+      "id": 162883744,
       "en": "'You wish to help, [placeholder]? Such good will among the free peoples!\\n\\n'I have sent down several requisitions to the market and someone is needed to carry those things down to the forges for packing in crates and barrels. You will have to ask around among the merchants and artisans. I am afraid some other goods have been left lying about. Everyone is so busy.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56847",
+      "id": 162883655,
       "en": "'These are table-knives and wood-axes for the travelling party. What, did you think all I ever made were swords for adventurers?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be0",
+      "id": 148970464,
       "en": "Received parcels ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be1",
+      "id": 148970465,
       "en": "Received parcels ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Elrond has suggested you visit Bilbo, who can be found in the Hall of Fire in the Last Homely House in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be2",
+      "id": 148970466,
       "en": "Received parcels ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be3",
+      "id": 148970467,
       "en": "Received parcels ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be4",
+      "id": 148970468,
       "en": "Received a parcel ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50265",
+      "id": 111477349,
       "en": "Talk to Eliaril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "Lindir can be found in the Hall of Fire in Elrond's house in Rivendell.\\n\\nYou should ask Lindir how you can help with the preparations.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6a00",
+      "id": 69036544,
       "en": "Carry the goods down to the Rivendell Forges",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50268",
+      "id": 111477352,
       "en": "Talk to Arwen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50210",
+      "id": 111477264,
       "en": "DNT check bookshelves",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a9",
+      "id": 162883753,
       "en": "'All this going about and fussing and bothering! I tell Lindir here it is most un-Elvish of them, but he only asks me if I would leave home without MY pipe and handkerchief. Hmph!\\n\\n'Well I'm not going, even though I shall miss seeing the old Dúnadan in all his crown and glory. Frodo and his friends I will see again, for they shall pass this way. Elrond assures me of it. \\n\\n'Ah, but all this talking has made me tired, [placeholder]. I am glad I have got to see YOU! But now I think I must return to being quiet, and staring into the fire, and working out the words to this new song. \\n\\n'Why don't you ask Lindir here if you can help out. Nearly everyone but me is pitching in!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b92",
+      "id": 148970386,
       "en": "Even from outside, the Last Homely House is astir with a new kind of bustling life",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56853",
+      "id": 162883667,
       "en": "'We are indebted to you, [placeholder]. If you are not done being helpful, you might look for Pethelen just outside the house. I believe he is charged with tasks of provisioning.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502926",
+      "id": 173025574,
       "en": "Find the books Arwen named ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50214",
+      "id": 111477268,
       "en": "DNT return to elrond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1169",
+      "id": 177082729,
       "en": "Gathered parcels ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b94",
+      "id": 148970388,
       "en": "Judging on the piles and number of busy hands, no few Elves are going on this journey",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01146",
+      "id": 246419782,
       "en": "You should go to Rivendell's Market and gather provisions and goods requisitioned for the journey. You will need to ask among the merchants and artisans and also look for some requisitions left lying around.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b95",
+      "id": 148970389,
       "en": "Some Elves sing as they work, their voices sweet and strange and also, somehow, sad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56857",
+      "id": 162883671,
       "en": "'Here you have all the blankets and feed required for the trip. Steady now, it is a heavy load!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "DNT My heart tells me you have nearly as many tales to tell as do we. The fact that your face is not drained of all hope tells me much, but I would hear more.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50272",
+      "id": 111477362,
       "en": "Carry the goods down to the Rivendell Forges",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689c0",
+      "id": 190220736,
       "en": "'Do you wish me to escort you to Lady Arwen? She awaits you, I know. Very good, I will take you now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bf2",
+      "id": 148970482,
       "en": "You find Arwen flanked by maids-in-waiting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b3",
+      "id": 162883763,
       "en": "DNT My heart tells me you have nearly as many tales to tell as do we. The fact that your face is not drained of all hope tells me much, but I would hear more.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b4",
+      "id": 162883764,
       "en": "Lindir laughs.\\n\\n'It is true, you cannot plead infirmity and age as Master Bilbo here does! We will indeed not turn away help that is offered. You are kin to us and as you may imagine, we have reason to set out swiftly. Anywhere within these walls you see packing, you are welcome to lend a hand!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a5",
+      "id": 246419877,
       "en": "You should help Elves packing throughout Elrond's house in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1172",
+      "id": 177082738,
       "en": "Helped packing Elves ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50277",
+      "id": 111477367,
       "en": "Return to Pethelen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a8",
+      "id": 246419880,
       "en": "DNT Talk to Lindir again",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502931",
+      "id": 173025585,
       "en": "Find Arwen in Imlad Gelair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a9",
+      "id": 246419881,
       "en": "Lindir suggested you look for Pethelen outside Elrond's house in Rivendell, to help with more preparations for the journey.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a5",
+      "id": 184621221,
       "en": "Arwen has asked you to find several books in Elrond's library in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56864",
+      "id": 162883684,
       "en": "'It is fine and well for the bride-to-be to sit and dream of the future. But how shall the dress be all fitted and altered in time, before we set off? Or if it is not, how shall it be carried in pieces? And what flowers have they in far-off Gondor? Are lilies to be stitched onto the hems of the gown when blue-bells and who knows what strange blossoms will garland the path?\\n\\n'Much wisdom and lore is there in Rivendell, but how the Men of Gondor mark their nuptials is not among it, written or spoken. \\n\\n'There is nothing to be done but bring everything and make do when we are there! Meanwhile, her Ladyship worries more about books and seeds!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a9",
+      "id": 184621225,
       "en": "Lady Arwen has asked that you visit her in Imlad Gelair, below the falls in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56867",
+      "id": 162883687,
       "en": "Arwen laughs lightly, a tinkling of bells. \\n\\n'Perhaps I am negligent, Eliaril, but I must thank you for reminding me of the seeds. Here, [placeholder]. Take these, seeds of the Celebég Blossom. They are a gift from Rivendell to the king-to-be. For that shall come before he is my groom-to-be.\\n\\n'I would ask you to do another thing for me, [placeholder]. There are several books upon my father's shelves that I would not have left behind. Some pertain to matters of present import, others give guidance for the challenges my Elfstone shall face as king. Will you see that they come into my father's hands?'\\n\\n'Farewell, [placeholder]. I will see you in Gondor, if not sooner, I hope.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Elrond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01102",
+      "id": 246419714,
       "en": "You should check in on Elrond in his library in Rivendell to see if he is ready to talk to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56813",
+      "id": 162883603,
       "en": "'There is our fleet-foot traveller! I have set aside some time for you. Come, tell me of events in the East.'\\n\\nYou tell Elrond of all that you witnessed in Gondor, from the Paths of the Dead, through Pelargir, the Pelennor, and on to the Black Gates themselves; of the fall of Théoden, the Last Debate, and what bits you know of Sam and Frodo's own journeys. You speak some of what you have seen within the broken land of Mordor. Finally, you relate the news of the Battle Under the Trees, and how Lothlórien awaits the arrival of Glorfindel.\\n\\nElrond is silent while he listens, and when you finish, he nods.\\n\\n'Much of this I guessed at, but not the whole of it, nay, not even the half. That Glorfindel gave his word to come to Lothlórien and is not there troubles me. I do not fear the worst, and yet - I feel, somehow, that your path is intertwined with his, and that the two of you have a role to play in these events that shall soon unfold.\\n\\n'Give to me these books that Arwen bade you gather. She is right to call me back to serious matters, even in this happy hour. In exchange, take these seeds. They are a gift for the king-to-be in Gondor, which shall come some while before he is Arwen's groom-to-be.\\n\\n'Now farewell, [placeholder]. Until we meet again.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5eb1",
+      "id": 127884977,
       "en": "Dropped the parcels!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01105",
+      "id": 246419717,
       "en": "You should bring the parcels you gathered to Tordúril in the Rivendell Market.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50289",
+      "id": 111477385,
       "en": "Talk to Lindir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56818",
+      "id": 162883608,
       "en": "'Ah, those are all the parcels. Good, now lay them down there. Let me tally them.\\n\\n'Yes... that is well... indeed, they are all accounted for. \\n\\n'Excellent. Now you may pick up the pile and carry them to the forges to be boxed for transport.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1188",
+      "id": 177082760,
       "en": "Elrond stands in his customary spot, brow furrowed, directing Elves in all manner of packing, provisioning, and planning",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01165",
+      "id": 246419813,
       "en": "You should return to Pethelen, before Elrond's house in Rivendell, now that you have gathered the parcels as he asked.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1131",
+      "id": 177082673,
       "en": "Found books ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56876",
+      "id": 162883702,
       "en": "'You gathered all the parcels and then delivered them at the Forges?'\\n\\nPethelen laughs.\\n\\n'You have done as much as any here to prepare for this journey, I think. No more labours for you, friend! While you were in the market, Lady Arwen heard of your arrival and begged to see you. She is within Imlad Gelair.\\n\\n'Do not worry if you have never been there. You shall be admitted on her word now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Chapter 2: The Time Before Travelling",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01168",
+      "id": 246419816,
       "en": "Lady Arwen has asked that you visit her in Imlad Gelair, below the falls in Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56879",
+      "id": 162883705,
       "en": "'[placeholder], it is you after all. I thought I must have heard wrong, when word came that you were in Rivendell.\\n\\n'Oh, I could ask you a thousand questions - but no, I shall forbear. I know that our greatest fears are averted, and that is enough. I shall look forward to hearing the tale told in full at the journey's end.\\n\\n'You know the purpose of this pilgrimage, do you not? We make for Gondor, where in time Aragorn - I mean Elessar - and I shall be wed, as we were trothed to be long ago.\\n\\n'Do you see, Eliaril? I have not forgotten or neglected the wedding that lies at the end of our travels. Perhaps you can persuade her it is not a thing to waste worry or care upon, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

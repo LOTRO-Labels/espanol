@@ -2,166 +2,139 @@
   "id": 620832379,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I will prepare the stone while you go forth and seek the second set of items. Among them are the horns of the nerbeglir of Angmar and claws from the Wargs which can be found in Angmar, Forochel, and the Misty Mountains.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'I am still waiting for the first set of items, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Hewing a New Stone",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Well done, [placeholder]. You prove your worth again and again.\\n\\n'One set of components remains before your stone is complete. Follow the counsel I gave you, and though the path you walk may be dire, the reward at its end shall be great.\\n\\n'Find for me a Sigil of War, borne by Gruglok in Urugarth, and a Rune of Winged Dominance from Mormoz and Azgoth in Carn Dûm.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'Your rune-stone will not be complete unless you bring me the proper components, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected Misty Mountains stones ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'Most impressive, [placeholder]. Your rune-stone is nearly complete. These items will seal its power just so.\\n\\n'There. All is well. Accept this rune-stone, [placeholder], and use its secrets well. The greatest craft of the Rune-keepers of old rests in your hands.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Collected Archivist Ánraig's runes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'Without the last set of items, I cannot complete your rune-stone, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Collected corroded neekerbreeker-horns ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The stones can be found among the goblins of Goblin-town. The runic inscription is held by Ánraig, east of Gwaelband in the ruins of Annúminas.\\n\\nDardúr wishes you to bring the stones from the roots of the Misty Mountains and a runic inscription held by an Angmarim archivist named Ánraig.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "Collected hooked Warg-claws ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Nerbeglir can be found in Malenhad in Angmar. Wargs can be found in Angmar, the Misty Mountains, and Forochel.\\n\\nDardúr now requires Neekerbreeker-horns and hooked Warg-claws.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "Collected a Sigil of War",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Gruglok may be found at Urugarth in Angmar. Azgoth and Mormoz may be found at Carn Dûm in Angmar.\\n\\nDardúr now needs Gruglok's Sigil of War and a Rune of Winged Dominance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3686",
+      "id": 136263302,
       "en": "Collected a Rune of Winged Dominance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Bring the collected items to Dardúr at Gondamon in Ered Luin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Collect Misty Mountain stones ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Collect Archivist Ánraig's runes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Bring the collected items to Dardúr at Gondamon in Ered Luin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Collect corroded neekerbreeker-horns ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Collect hooked Warg-claws ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Bring the collected items to Dardúr at Gondamon in Ered Luin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Collect a Sigil of War",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Collect a Rune of Winged Dominance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Dardúr will aid you in hewing a rune-stone of great cunning.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The time has come for you to delve into the deeper secrets of rune-craft, [placeholder]. As with the runes themselves, the stones upon which they are graven are key to their power.\\n\\n'Just as a warrior needs a sword of fine steel, so too do we need rune-stones to accompany our gifts. It is in the shaping of your stone that you will achieve wisdom.\\n\\n'Here is my counsel on what materials will aid you for shaping your stone. First, bring me stone from the Misty Mountains, oft carried by the goblins there, and runes from the foul sorcerer Ánraig at Annúminas. Make haste, [placeholder], if you wish to bear your weapon soon!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,172 +2,144 @@
   "id": 620907121,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'My father knew what he was bringing upon himself by doing this, and I am certain that he does not fear any reprisal from Fastred.\\n\\n'You have done well, and I would wager that the crofters of Garsfeld will not forget you for all you have done for them.\\n\\n'Now then, there is more business to attend to here in Snowbourn....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Your actions were bold, traveller. Gísil will hear much for such a blatant disregard for Fastred's rule. \\n\\n'Nevertheless, we cannot keep them in the streets. I will have my men clear room in some of the nearby homes.\\n\\n'Most of the homes near our tradesfolk are not filled, so you will likely find room there. Be quick about this, though!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Refugees of Garsfeld",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have discovered an emptied home near the Kitchen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have discovered an emptied home near the Barracks of Snowbourn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You have discovered an emptied home near the Auction Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Baldnoth can be found outside the Mead Hall of Snowbourn.\\n\\nGísling believes the guards of the city can aid you in assisting the new inhabitants.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You have discovered an emptied home near the Tavern",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Empty homes can be found throughout Snowbourn and are near the city's major services.\\n\\nBaldnoth mentioned that he would have the guards free space for the crofters of Garsfeld during these dangerous times.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "You have discovered an emptied home near the Mead Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Various homes about Snowbourn have been condensed by the guards. Now that you have found their locations, you should send the refugees to their new shelters.\\n\\nThe refugees can be found in northern Snowbourn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Gísling can be found north-east of the Mead Hall of Snowbourn.\\n\\nYou should return to Gísling and let him know that you have done as he asked.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec87fd1",
+      "id": 248020945,
       "en": "'Thank you, [placeholder]... I'll make my way there.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec87fd2",
+      "id": 248020946,
       "en": "'Near the Barracks, you say? Oh, thank you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Baldnoth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec87fd3",
+      "id": 248020947,
       "en": "'Fastred is so welcoming... His father would be proud!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Search for a home just to the east of the Kitchen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec87fd4",
+      "id": 248020948,
       "en": "'For all of my troubles, fortune seems to be finding me again... thank you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Search for a home east of the Barracks",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec87fd5",
+      "id": 248020949,
       "en": "'I hope our fellows in Walstow fare better than Garsfeld!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Search for a home to the west of the Auction Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Search for a home near the Tavern",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Search for a home to the south of the Mead Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Send Garsfeld refugees to their new homes ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Sent Garsfeld refugees to their new homes ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Talk to Gísling",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "After arriving in Snowbourn, Gísling is unsure where the refugees are to find shelter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'We have made it, [placeholder]. The crofters are now safe in Snowbourn, but I know not where they are to stay. \\n\\n'I do not think Fastred would be so cold as to see them live in the streets of his fine city, so I am certain there is something we can do.\\n\\n'Seek out a guard and see if they are aware of any open homes in Snowbourn.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

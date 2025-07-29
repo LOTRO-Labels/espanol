@@ -2,70 +2,84 @@
   "id": 621079584,
   "txt": [
     {
-      "id": "0xa502925",
+      "id": 173025573,
       "en": "Talk to Tregeth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502953",
+      "id": 173025619,
       "en": "Talk to TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Miruhir has asked you to move recovered flotsam from where it is stacked by the fence to Tregeth, who waits in town.\\n\\nCollect recovered flotsam.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502959",
+      "id": 173025625,
       "en": "Pick up the stack of planks in Iáphel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b91",
+      "id": 148970385,
       "en": "Collected flotsam ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a2",
+      "id": 190220706,
       "en": "TBD thanks. These will become new winemaking barrels",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f5e532",
+      "id": 167109938,
       "en": "<rgb=#FF0000>You dropped the stack of planks!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d4",
+      "id": 190220756,
       "en": "'Ah, there's my delivery! It has been difficult to source quality wood as of late, so using recovered flotsam will help me keep up with production. Perhaps the wine aged in the barrels I'll make will be briny and taste of the sea, because that is what everyone wants -- salty wine.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d6ae01",
+      "id": 30846465,
       "en": "Carry the stack of planks to Tregeth in Iáphel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be0",
+      "id": 148970464,
       "en": "You have delivered the planks to Tregeth!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a7",
-      "en": "'Most of the wood being produced in Gondor is reserved for the rebuilding of homes and the construction of a new fleet of ships, or so I hear. This makes it hard to source wood for the barrels we need to store and age the wine. My clever cooper, Tregeth, has found a creative solution — reusing flotsam that has washed ashore. Some labourers from Lond Cirion brought some to the vineyard yesterday morning and le",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220711,
+      "en": "'Most of the wood being produced in Gondor is reserved for the rebuilding of homes and the construction of a new fleet of ships, or so I hear. This makes it hard to source wood for the barrels we need to store and age the wine. My clever cooper, Tregeth, has found a creative solution — reusing flotsam that has washed ashore. Some labourers from Lond Cirion brought some to the vineyard yesterday morning and left it by the entrance to town. Could I ask you to bring it the rest of the way to her? Set it down right beside her, in front of the fence post that runs beside her home.'",
+      "es": ""
+    },
+    {
+      "id": 190220712,
+      "en": "'Just set the planks down there,\\q the woman says even though you have already set them down.",
+      "es": ""
+    },
+    {
+      "id": 162883603,
+      "en": "TBD collect flotsam from the beach and bring it to the cooper",
+      "es": ""
+    },
+    {
+      "id": 173025616,
+      "en": "Collect flotsam ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "A Delivery for the Cooper",
+      "es": ""
+    },
+    {
+      "id": 24695168,
+      "en": "One of Iáphel's coopers awaits a delivery of recovered flotsam.",
+      "es": ""
     }
   ]
 }

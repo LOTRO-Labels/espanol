@@ -2,82 +2,69 @@
   "id": 621077086,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Arlach has asked you to investigate Lhingar across the river to the north-west.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "You found the spider's nest in Lhingar and have defeated many spiders, including their queen. You should tell Arlach the news.\\n\\nArlach is in Arnach.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Defeat Lhingar trappers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'Now, as I said this matter is more urgent. I fear that if I go to Crithon about this, it'll be too late before he sends someone like you to deal with it.\\n\\n'Aside from the badger problem along the river, the folks of Arnach have been dealing with attacks at night by spiders. It happens at random. And there is no pattern to it. But these spiders seem to have it out for our town.\\n\\n'Now, having been across the river a few times, I've heard my fair share of rumours. There's a spider's nest across the river to the north-west. No one has truly seen it and returned. Lhingar is what folk are calling it.\\n\\n'You look like you can take care of yourself. Would you mind investigating Lhingar and rooting out the problem?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Arlach",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Defeated Lhingar trappers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'I knew it. A bunch of nuisances.\\n\\n'I will definitely report this to Crithon now that the immediate threat has been dealt with. Folk in Imloth Melui should know about the encroaching threat of spiders rising in Lhingar.\\n\\n'Thank you traveller. You have done us a great service.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Arlach has expressed an increased frequency of attacks on Arnach from a spider's nest across the river.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Defeat Lhingar hunters ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a7",
+      "id": 177082791,
       "en": "Defeated Lhingar hunters ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Defeat Lhingar queen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "Lhingar queen defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Crawlers in Arnach",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

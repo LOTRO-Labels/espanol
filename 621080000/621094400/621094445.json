@@ -2,76 +2,64 @@
   "id": 621094445,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "The bandits attacked the waggon along the Road of Riches to the east of Iridír. You should defeat the bandits in that area and recover the lost trade-goods.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "You have defeated the bandits and recovered the stolen trade-goods. You should return to Iridír and speak to Dashên.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e19",
+      "id": 49286681,
       "en": "Return to Dashên with the recovered trade-goods",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Defeat bandits ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "Defeated bandits ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Recover stolen trade-goods ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Recovered stolen trade-goods ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'The carrier said he was robbed along the road between here and the Wrackwade to the east. I will pay you what I am able for the return of my trade-goods.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'Níkhu! My goods! Thank you so much [placeholder], you have saved my business. I do hope peace is restored to Ambarûl soon. Many bandits are Ordâkhai deserters, and the sooner the Dumûri can make them leave, the better.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Dashên has had a shipment of trade-goods stolen by bandits. He has asked for your help in getting them back.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Hashtal-gûr, traveller. Tell me, are you looking for work? I have been waiting for a new shipment of trade-goods from the south. My carrier made it here, but the goods did not. He said he was waylaid by bandits on the road and was greatly outnumbered. He gave them the goods in exchange for his life. It was the right decision, but I still need my trade-goods back or I cannot pay my debts. Please, would you lend me your aid?\\n\\n'He said he was stopped along the road between here and the Wrackwade to the east. I will pay you what I am able for their return.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Lost Trade-goods",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

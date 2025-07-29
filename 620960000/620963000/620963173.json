@@ -2,40 +2,644 @@
   "id": 620963173,
   "txt": [
     {
-      "id": "0xb011b71",
+      "id": 184621937,
       "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e118d8",
+      "id": 148969688,
       "en": "You smoke your pipe, squinting thoughtfully",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568b30",
+      "id": 190221104,
       "en": "'What? We have drunk in his memory and then forgotten his songs? Should people say Authlin was a drinker and not a master song-smith? This is an insult that cannot be endured!\\n\\n'Do not look at me like that, Hirluin. I have not drunk my fill, nor am I anywhere near done with drinking! And I shall be ready with my axe, a match for any foe, now or three bottles hence! Even with the clasp on my armour un-mended.\\n\\n'Now where was I? The song must be recalled. Recalled and sung! Most helpful [placeholder], you must find rememberers. Perhaps the barkeep here knows a line. Or Golasgil or old Aglarang. Bariel the Master Hosteller? Someone!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011b74",
+      "id": 184621940,
       "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nGo tell Imadan the barkeep that Forlong wants another course of food.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568b32",
+      "id": 190221106,
       "en": "'Alas, I am no poet and far less a minstrel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568b34",
-      "en": "'That song about wanderlust? Why yes, I've heard it. I heard Authlin sing it many a time. How did it go?\\n\\n I'll fly away, I will not stay\\n Seeking fortune, �",
-      "es": "",
-      "es (fem)": ""
+      "id": 190221108,
+      "en": "'That song about wanderlust? Why yes, I've heard it. I heard Authlin sing it many a time. How did it go?\\n\\n I'll fly away, I will not stay\\n Seeking fortune, love, and war\\n\\n'That much I can recall. I'm afraid the rest is, well, not even a memory!'",
+      "es": ""
+    },
+    {
+      "id": 184621944,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nReturn to Forlong, in the Merry Swan, to tell him food is on its way.",
+      "es": ""
+    },
+    {
+      "id": 190221110,
+      "en": "'The song Authlin used to sing? Of wandering? Now that casts me back many a year! Hm... Over a mountain, sun comes rising... find myself this home despising... no, I'm afraid I have no more of it than that!'",
+      "es": ""
+    },
+    {
+      "id": 190221112,
+      "en": "'I can indeed recall that song. The melody is as clear in my head as if he were here. Hmm hmmmm hum hum hm hm hmmmm.... But the words? Well. No, I cannot muster a single one. Ah, how memory betrays a body!'",
+      "es": ""
+    },
+    {
+      "id": 148969699,
+      "en": "Gathered knives ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 184621956,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nTry to <rgb=#FF0000>sigh</rgb> as Thorongil did, in front of Forlong and his friends in the Merry Swan.\\n\\n<rgb=#FF0000>NOTE: This objective requires emotes.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 184621959,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nAsk Forlong how you did with the impression.",
+      "es": ""
+    },
+    {
+      "id": 184621968,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nTry to make a solemn face (<rgb=#FF0000>mood_solemn</rgb>) as Thorongil did, in front of Forlong and his friends in the Merry Swan.\\n\\n<rgb=#FF0000>NOTE: This objective requires emotes.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 148969720,
+      "en": "You beckon as Forlong indicated",
+      "es": ""
+    },
+    {
+      "id": 190221136,
+      "en": "'Named? Ha ha, that makes it sound as if we merely stood about! We fought by Thorongil's side, Hirluin and I, and weathered the thick of it, far off there in the south. Now, I do not wish to be unfair. The strategem was Thorongil's, and never, I think, was there a finer swordsman - or a faster walker!\\n\\n'But all the same, we had our own deeds worthy of song. Tell them, Hirluin, how I took the sorcerer's standard and with it struck him down as he stood there, chanting foul things!'",
+      "es": ""
+    },
+    {
+      "id": 184621971,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Hirluin has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221139,
+      "en": "'Moreso than you have done, just now? You'd need to bring that battle-standard here and show them, to paint a clearer picture. You took it as a trophy, did you not?'",
+      "es": ""
+    },
+    {
+      "id": 184621974,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nTry to <rgb=#FF0000>smoke</rgb> as Thorongil did, in front of Forlong and his friends in the Merry Swan.\\n\\n<rgb=#FF0000>NOTE: This objective requires emotes.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 173025793,
+      "en": "Talk to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173025984,
+      "en": "Return to Forlong",
+      "es": ""
+    },
+    {
+      "id": 190221142,
+      "en": "'By the seven-pointed star, I did! And left here, in Minas Tirith, within the Houses of Lore. Ah, to hold that fell thing in my hands again....'\\n\\nForlong turns to you.\\n\\n'Ah, my friend, I have asked much of you. But would you do one more good turn for old Forlong? Would you go up to the Fifth Circle and fetch my trophy for me? I think you will find it in the Houses of Lore... somewhere.'",
+      "es": ""
+    },
+    {
+      "id": 184621977,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
+      "es": ""
+    },
+    {
+      "id": 173025986,
+      "en": "Raise a glass",
+      "es": ""
+    },
+    {
+      "id": 173025797,
+      "en": "Try to <rgb=#FF0000>sigh</rgb> as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 173025990,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 184621602,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Hirluin has to say.",
+      "es": ""
+    },
+    {
+      "id": 173025801,
+      "en": "Talk to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173025992,
+      "en": "Try to <rgb=#FF0000>sigh</rgb> as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 173025993,
+      "en": "Try to show a solemn face, as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 184621985,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nGather knives from around the Merry Swan so that Hirluin can show how he threw them at corsairs in Umbar.",
+      "es": ""
+    },
+    {
+      "id": 184621605,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear Forlong's reply.",
+      "es": ""
+    },
+    {
+      "id": 190220961,
+      "en": "'The war trophy stands in the Houses of Lore, up in the Fifth Circle. Will you bring it to me?'",
+      "es": ""
+    },
+    {
+      "id": 190220963,
+      "en": "'Why, that is it! And it is just as I remembered it. You see, Hirluin and Thorongil stood about as far as... there, back to back, their swords flashing. I had made a great rush, my axe hewing all in the path, for I had seen the sorcerer across the room begin to work some foul spell. Alas, a tall half-troll stood barring my way. Not for long! He took my axe like all the rest, though it stuck in him and I could not quickly draw it out. So, thinking on my toes, I wrenched this standard from its place and struck the cruel spell-weaver down where he stood!'",
+      "es": ""
+    },
+    {
+      "id": 184621608,
+      "en": "The Houses of Lore are in the Fifth Circle.\\n\\nForlong wants to hold his old war trophy, which is kept in the Houses of Lore.",
+      "es": ""
+    },
+    {
+      "id": 184621990,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nBring the knives to Hirluin, so he can show how he threw them at the Corsairs of Umbar.",
+      "es": ""
+    },
+    {
+      "id": 173025809,
+      "en": "Try to show a solemn face, as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 190220966,
+      "en": "'You should pen a song, yourself, Forlong. You do a fine job singing your own praises.'",
+      "es": ""
+    },
+    {
+      "id": 173026000,
+      "en": "Try to <rgb=#FF0000>smoke</rgb> as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 173026001,
+      "en": "Try to <rgb=#FF0000>beckon</rgb> as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 252014817,
+      "en": "'Make sure he brings more of this excellent roast.'",
+      "es": ""
+    },
+    {
+      "id": 190220969,
+      "en": "'Ever the sharp wit and sharper tongue, old friend! To my mind, you are too modest in never boasting for yourself. I will right both flaws and boast for you.\\n\\n'Did you know that once Hirluin held at bay two, nay three dozen corsairs, merely by throwing knives? We were surprised, and found ourselves in an Umbar tavern, weaponless but backs against the stores of cutlery. He grabbed handfuls, and like rain they flew! Why, if you gathered the knives from these tables here, I feel sure Hirluin could still show you how it was done.\\n\\n'You will show us how you did it, Hirluin? Oh, come. You must!'",
+      "es": ""
+    },
+    {
+      "id": 252014818,
+      "en": "'Yes, and more bread, and excess of gravy.'",
+      "es": ""
+    },
+    {
+      "id": 173025813,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 176281601,
+      "en": "'Ah yes, there it is.'",
+      "es": ""
+    },
+    {
+      "id": 173025815,
+      "en": "Try to <rgb=#FF0000>smoke</rgb> as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 176281602,
+      "en": "'Look at that thing! It is barbaric.'",
+      "es": ""
+    },
+    {
+      "id": 190220592,
+      "en": "'Tell me friends, were things so very grim back then, as they are now? For that is not how I recall it. Or perhaps, being less in stature and wisdom, we did not look beyond this city's walls. It is a happy thing, is it not, to see no farther than your own strong walls?\\n\\n'Ah, but then wanderlust comes over you. Why, Authlin himself sang a sweet, sad song on the subject. I hardly think of a harp more fairly fingered, or words more surely put to melody. How did it go?\\n\\n'When dawn over the - when over the mountain - no, no. Hirluin, help me here.'",
+      "es": ""
+    },
+    {
+      "id": 176281603,
+      "en": "'Come, friend. It is strange but has an elegance all its own.'",
+      "es": ""
+    },
+    {
+      "id": 24695217,
+      "en": "Lord Forlong sits in the Merry Swan, drinking with his old friends Lord Hirluin and one Neldir of Minas Tirith. The conversation turns to stories of prior wars that Gondor has known, and the heroic roles they played in them.",
+      "es": ""
+    },
+    {
+      "id": 184622000,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Neldir has to say.",
+      "es": ""
+    },
+    {
+      "id": 184622003,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nListen to Forlong's reply.",
+      "es": ""
+    },
+    {
+      "id": 184622006,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nTry to <rgb=#FF0000>beckon</rgb> as Thorongil did, in front of Forlong and his friends in the Merry Swan.\\n\\n<rgb=#FF0000>NOTE: This objective requires emotes.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 173025824,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173025826,
+      "en": "Gather knives ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 173026017,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 184622009,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nAsk Forlong how your impression came off.",
+      "es": ""
+    },
+    {
+      "id": 173026209,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173026020,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 173026212,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 173025832,
+      "en": "Bring Hirluin the knives",
+      "es": ""
+    },
+    {
+      "id": 173026023,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173026215,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 184621635,
+      "en": "Imadan, Golasgil, Aglarang, and Bariel can all be found in the Second and Third Circle of Minas Tirith.\\n\\nSpeak to the people Forlong named and see if they can remember any of Authlin's song.",
+      "es": ""
+    },
+    {
+      "id": 173026217,
+      "en": "Retrieve the war trophy",
+      "es": ""
+    },
+    {
+      "id": 190220802,
+      "en": "'Ha ha! Whereas Osgiliath reminded us only of what had once been great, in Gondor, and is no more. Yes, let us not quarrel over this.\\n\\n'Nothing makes peace so well as food and drink, but I see that we are low on food. Will our new friend do us another kindness, and ask them to bring another course?'",
+      "es": ""
+    },
+    {
+      "id": 190220993,
+      "en": "'It amazes me to think you stood side by side with Thorongil. Now that is a name of legends and song! Tell me, friends, what was he like, in speech, and look, and action?'",
+      "es": ""
+    },
+    {
+      "id": 190220805,
+      "en": "'More food is it? I'll have it brought. You've done enough going about and carrying things for those three.'",
+      "es": ""
+    },
+    {
+      "id": 190220996,
+      "en": "'Names always seem thus, when they sail off and are never seen or heard from again! Ah, but Hirluin and I knew him well, back then. There was a greatness in him, and in truth, he always seemed to me as one of the men of Númenor, newly landed on Gondor's shores.  All the same, he was a man, and had all such peculiarities as men have.\\n\\n'Do you remember, Hirluin, what he did with his arm when he called us over to him? It was, no, I cannot do it from my seat. You, friend. See if you can do it.'",
+      "es": ""
+    },
+    {
+      "id": 190220807,
+      "en": "'There is more to be said, and remembered, and sung. And for that, we shall want more food!'",
+      "es": ""
+    },
+    {
+      "id": 173026032,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 173025842,
+      "en": "Listen to Neldir",
+      "es": ""
+    },
+    {
+      "id": 190220809,
+      "en": "'The feast continues, and we have you to thank. It seems to me that we owe much to our new friend, for this happy time before the coming storm.\\n\\n'Here, then, let us raise a glass and welcome you into our little company. To old friends and to new!'",
+      "es": ""
+    },
+    {
+      "id": 173026035,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173025845,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173025847,
+      "en": "Try to <rgb=#FF0000>beckon</rgb> as Thorongil did",
+      "es": ""
+    },
+    {
+      "id": 173026038,
+      "en": "Ask Imadan for another course",
+      "es": ""
+    },
+    {
+      "id": 190220816,
+      "en": "'Let us have a cheer for our new friend's fine acting! It casts my mind back, it does. The times of war, when Thorongil and Denethor stood side by side.'",
+      "es": ""
+    },
+    {
+      "id": 184621651,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nReturn to Lord Forlong with what you have learned of the song.",
+      "es": ""
+    },
+    {
+      "id": 184622034,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nBring the war trophy back to Forlong, in the Merry Swan.",
+      "es": ""
+    },
+    {
+      "id": 190220819,
+      "en": "'Until they did not stand side by side, if you recall. Thorongil left us and then Denethor grew cold on him... though some say the order was reversed.'",
+      "es": ""
+    },
+    {
+      "id": 184621654,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear to what Hirluin has to say.",
+      "es": ""
+    },
+    {
+      "id": 184622037,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Hirluin has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221012,
+      "en": "'Of all my acts of swordsmanship and cunning, you chose this to tell?'",
+      "es": ""
+    },
+    {
+      "id": 190220822,
+      "en": "'Aye, then it was Denethor's turn to lead us into battle. The Taking of Osgiliath! Or one of them, at least.\\n\\n'It has always seemed to me, though both men were stern and serious, that when we marched under Denethor's command, it was a graver, more tiresome affair. By the look on your face, Hirluin, I see you disagree. Or no, that is not it. It is that you will not hear ill spoken of our good steward.'",
+      "es": ""
+    },
+    {
+      "id": 184621657,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221013,
+      "en": "'Take two fistfuls of knives off the tables. Hirluin will re-enact the feat.'",
+      "es": ""
+    },
+    {
+      "id": 184622040,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221015,
+      "en": "'I do this against all my better judgement. Let me see. We stood here and they, there. I turned and grabbed the knives and then... yes then I flung out my arm, like so.'\\n\\nTwo handfuls of knives clatter to the floor at Hirluin's feet.\\n\\n'Bah! These knives are not weighted at all like those were. Who am I deceiving? I am an old man and I have forgotten much. I believe and hope, at least, my skill with a sword is not so far forgotten!'",
+      "es": ""
+    },
+    {
+      "id": 173026241,
+      "en": "Listen to Forlong",
+      "es": ""
+    },
+    {
+      "id": 190220825,
+      "en": "'You read my face too well. Denethor is not so hard or uncharitable a man as I think you take him for. He is a good man with great - nay, unbearable burdens.\\n\\n'But I am forced to confess that for me, too, the memories of Umbar shine somehow brighter, on recollection, than Osgiliath. I blame it on our youth and newness to battle, and the enchantment of journeying to foreign lands.'",
+      "es": ""
+    },
+    {
+      "id": 190221017,
+      "en": "'Give him the knives, friend. He will show you how it was done.'",
+      "es": ""
+    },
+    {
+      "id": 173026245,
+      "en": "Ask Imadan about the song",
+      "es": ""
+    },
+    {
+      "id": 173026247,
+      "en": "Ask Golasgil about the song",
+      "es": ""
+    },
+    {
+      "id": 173026249,
+      "en": "Ask Aglarang about the song",
+      "es": ""
+    },
+    {
+      "id": 190221028,
+      "en": "'Come now. Only one who knew Thorongil, and knew him well, could have mimicked such a face! This is true art. It is uncanny!\\n\\n'Well, now, Forlong shouldn't have all the fun. Why don't you try smoking your pipe? He always did so with a stern and thoughtful look, as though the pipe-bowl were giving him grave and secret council.'",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Umbar and Osgiliath",
+      "es": ""
+    },
+    {
+      "id": 173026257,
+      "en": "Ask Bariel about the song",
+      "es": ""
+    },
+    {
+      "id": 148969616,
+      "en": "Retrieved the war trophy",
+      "es": ""
+    },
+    {
+      "id": 173025876,
+      "en": "Return to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173025879,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 173026261,
+      "en": "Return to Forlong",
+      "es": ""
+    },
+    {
+      "id": 173026264,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 190221040,
+      "en": "'Why, that was just how Thorongil did it! Wasn't it, Hirluin? You hit it on the very first try. You have a talent for this, [placeholder]!\\n\\n'Now you really must try another. Ah, I know! Thorongil, when no one was watching, would sometimes sigh in a manner most melancholy. Can you sigh for us, friend?'",
+      "es": ""
+    },
+    {
+      "id": 190221042,
+      "en": "'That was very convincing, friend.'",
+      "es": ""
+    },
+    {
+      "id": 190220851,
+      "en": "'To old friends and to new!'",
+      "es": ""
+    },
+    {
+      "id": 184621686,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nSee if Hirluin can remember any of the song.",
+      "es": ""
+    },
+    {
+      "id": 190221043,
+      "en": "'That was very like unto Thorongil's beckon.'",
+      "es": ""
+    },
+    {
+      "id": 190220853,
+      "en": "'To old times and the roads that led us here! To battles fought and battles yet to come. Yes, battles to come.'\\n\\nFor a second time, Forlong falls into silence.",
+      "es": ""
+    },
+    {
+      "id": 184621689,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
+      "es": ""
+    },
+    {
+      "id": 190220855,
+      "en": "'Food will be sent, presently. Do not worry. My lad will bring it up.'",
+      "es": ""
+    },
+    {
+      "id": 190221048,
+      "en": "'I am amazed! Somehow, you have captured Thorongil. Have you ever acted upon the stage? Well, here is a challenge for you: there was a particular stern look - let us call it solemn - that would come over Thorongil's face when planning his battle strategy. Let us see you try such a solemn face.'",
+      "es": ""
+    },
+    {
+      "id": 184621889,
+      "en": "Forlong and his friends are in the Merry Swan, in the Third Circle of Minas Tirith.\\n\\nRaise a glass to friendship with Forlong and company.",
+      "es": ""
+    },
+    {
+      "id": 184621892,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221063,
+      "en": "'There was dawn... and restless feet... and something, something to meet. I'm afraid those are all I can muster, old friend. Neldir, can you remember? No?'",
+      "es": ""
+    },
+    {
+      "id": 114024673,
+      "en": "'Bah!'",
+      "es": ""
+    },
+    {
+      "id": 114024674,
+      "en": "'Ha ha! That was not it, at all!'",
+      "es": ""
+    },
+    {
+      "id": 173026296,
+      "en": "Listen to Hirluin",
+      "es": ""
+    },
+    {
+      "id": 27817601,
+      "en": "'To old friends and new.'",
+      "es": ""
+    },
+    {
+      "id": 27817602,
+      "en": "'Well said. Well said.'",
+      "es": ""
+    },
+    {
+      "id": 148969670,
+      "en": "You sigh in a grave, melancholy manner",
+      "es": ""
+    },
+    {
+      "id": 184621922,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Hirluin has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221088,
+      "en": "'Yes, I remember Authlin, though I was but a girl, and I know the song as well.\\n\\n I'll fly away and further roam\\n But I will never turn back home\\n No I shall... I shall....\\n \\n'Is that how it went? Well, I have recalled some of it, at least!'",
+      "es": ""
+    },
+    {
+      "id": 190221090,
+      "en": "'Authlin's song must be recalled and sung, else we do him grave injury. And I would not injure the dead.'",
+      "es": ""
+    },
+    {
+      "id": 184621925,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Forlong has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221092,
+      "en": "You recite and hum what you were able to gather. Lord Forlong closes his eyes and thinks.\\n\\n'Yes, yes, my friend. I think it is enough. Let us see. Ahem!\\n\\nWhen o'er mountain sun comes rising\\nWith stirring heart and restless feet\\nI'll find myself this home despising\\nAnd yearn for distant lands to meet\\n\\nI'll fly away, I will not stay\\nSeeking fortune, love, and war\\nI'll fly away and further roam\\nBut I will never turn back home\\nNo I shall wend back there no more\\nNo more, no more, no more, no more....\\n\\n'There! So sad and sweet. There were other verses of course. Love was won and lost. Battles and fortunes, too.'",
+      "es": ""
+    },
+    {
+      "id": 184621928,
+      "en": "The Merry Swan Tavern is on the southern end of the Third Circle.\\n\\nHear what Hirluin has to say.",
+      "es": ""
+    },
+    {
+      "id": 190221095,
+      "en": "'That was a fine song, and it was just so that we went off to war, you and I. He sang of us, too, didn't he? Standing by Thorongil's side in the Breaking of Umbar. Though now that I come to think of it, he sang mostly of Thorongil, and of Umbar's Breaking. Still, we are named.'",
+      "es": ""
+    },
+    {
+      "id": 148969682,
+      "en": "You adopt a stern, brooding expression",
+      "es": ""
     }
   ]
 }

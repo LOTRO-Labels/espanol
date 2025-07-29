@@ -2,100 +2,84 @@
   "id": 620904060,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Treated injured Rohirrim soldiers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Determine how to treat the soldier and do so",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Use your kit to start treating the soldier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Many Rohirrim have been injured defending Walstow from the Enemy.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5bd3c6d",
+      "id": 96287853,
       "en": "'I feel much better, thank you for your aid.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Walstow has been under almost constant siege. The warriors there have fought their hearts out, but their numbers dwindle. Small wounds have begun catching up with the men. If they can be treated, the wounds will heal, and they can rejoin the battle.\\n\\n'Take this kit and head to Walstow. Use it to treat the injured and heal their wounds.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Injured Rohirrim can be found in Walstow.\\n\\nWaldeg asked you to triage and treat the Rohirrim who have been injured defending Walstow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Every warrior treated enough to rejoin the battle could be the warrior that tips the scales to our favour.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Waldeg is at Snowbourn.\\n\\nWaldeg will be pleased to hear that you were able to treat the wounds of several injured Rohirrim.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Walstow has suffered heavy losses... be prepared for a fight.'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Treat injured Rohirrim soldiers during the defence of Walstow ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Use your kit to start treating the soldier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Approach an injured soldier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Waldeg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Defence of Walstow: Triage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "<rgb=#FF0000>Completing Aiding the Eastemnet will cancel this quest</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

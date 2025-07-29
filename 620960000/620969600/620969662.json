@@ -2,436 +2,364 @@
   "id": 620969662,
   "txt": [
     {
-      "id": "0xc3c473c",
+      "id": 205276988,
       "en": "MasteryMultiplier_AddMod_Physical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5e34c35",
+      "id": 98782261,
       "en": "Counter-rating to Critical Rating on the source, this value is subtracted from the source's Critical Rating to get the Effective Critical Rating used to determine the Critical Hit Chance and Critical Hit Magnitude values.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x89c15c5",
+      "id": 144446917,
       "en": "Flat percentage chance that skill executions will miss their target.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18ff232",
+      "id": 26210866,
       "en": "Armour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1117ccc",
+      "id": 17923276,
       "en": "Boolean flag used to indicate target immunity to Physical damage.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d89a7",
+      "id": 7178663,
       "en": "Multiplier applied directly to any healing done by the source.  Default is 1.0 (no change).",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7ea539",
+      "id": 226403641,
       "en": "Mastery",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc56d74",
+      "id": 197487988,
       "en": "A multiplier for your Run Speed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b27c0c",
+      "id": 145914892,
       "en": "Boolean flag used to indicate target immunity to Tactical damage.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5fb70e2",
+      "id": 100364514,
       "en": "Penetration",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29e8bdc",
+      "id": 43944924,
       "en": "MasteryRating_Tactical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x24d4dac",
+      "id": 38620588,
       "en": "ArmorRating_Tactical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ac0b25",
+      "id": 128715557,
       "en": "Avoidance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x146accc",
+      "id": 21408972,
       "en": "Rating value which drives the output multiplier associated with the Physical damage type.  This multiplier is applied to both damage and healing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9a4ea4",
+      "id": 261770916,
       "en": "Multiplier applied directly to the damage/healing associated with a Skill hook using the Ranged DamageQualifier value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4299864",
+      "id": 69834852,
       "en": "Modifier applied to critical hit damage magnitude multiplier.  This is a zero-based modifier and is additive to the base magnitude determined by Critical Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd24a567",
+      "id": 220505447,
       "en": "AvoidanceRating",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc8e8d0e",
+      "id": 210668814,
       "en": "Counter-rating to Avoidance on the target, this value is subtracted from the target's Avoidance Rating to get the Effective Avoidance Rating used to determine Avoidance Chance and Avoidance Mitigation amounts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd17f865",
+      "id": 219674725,
       "en": "Boolean flag used to indicate target immunity to damage from Skill hooks using the Melee DamageQualifier value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0ae4d4",
+      "id": 202040532,
       "en": "AvoidanceMitigation_AddMod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2e4064",
+      "id": 221134948,
       "en": "Modifier applied to the source's Critical Hit Chance percentage.  This is a zero-based modifier and is additive to the Critical Hit Chance determined by the Effective Critical Rating for the skill execution.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea661b4",
+      "id": 245785012,
       "en": "DamageQualifierImmunity_Ranged",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb07cd95",
+      "id": 185060757,
       "en": "Output multiplier applied directly to the damage/healing associated with a Skill hook using the Melee DamageQualifier value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x39f47fc",
+      "id": 60770300,
       "en": "MasteryMultiplier_AddMod_Tactical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1f7454",
+      "id": 236942420,
       "en": "Run Speed Multiplier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4458b8c",
+      "id": 71666572,
       "en": "Mitigation_AddMod_Tactical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3152e7c",
+      "id": 51719804,
       "en": "DamageTypeImmunity_Tactical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe0ed18c",
+      "id": 235852172,
       "en": "Modifier applied to the Mastery Multiplier associated with the Tactical damage type. This is a zero-based modifier and is additive to the base multiplier determined by Mastery Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb62ebc",
+      "id": 213266108,
       "en": "DamageTypeImmunity_Physical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8fd22c",
+      "id": 177197612,
       "en": "Counter-rating to Armour Rating against Tactical damage on the target, this value is subtracted from the target's Armour Rating to get the Effective Armour Rating used to determine the Armour Mitigation value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa1a075",
+      "id": 10592373,
       "en": "DamageQualifierImmunity_Melee",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9b70ac",
+      "id": 261845164,
       "en": "Modifier applied to Mitigation percentage against Tactical damage. This is a zero-based modifier and is additive to the base mitigation percentage determined by Armour Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7add14c",
+      "id": 128831820,
       "en": "Modifier applied to the Mastery Multiplier associated with the Physical damage type.  This is a zero-based modifier and is additive to the base multiplier determined by Mastery Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x261fcf2",
+      "id": 39976178,
       "en": "Percentage factor applied to attack speed.  Positive values are haste, i.e. animation speed is increased and action duration is decreased. Negative values are slow, i.e. animation speed is decreased and action duration is increased.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e765f2",
+      "id": 115828210,
       "en": "General",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3d8b1c",
+      "id": 188582684,
       "en": "MasteryRating_Physical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e5ac0c",
+      "id": 149269516,
       "en": "Rating value which drives the output multiplier associated with the Tactical damage type. This multiplier is applied to both damage and healing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c5d02",
+      "id": 1858818,
       "en": "Attack Speed Modifier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x528904",
+      "id": 5409028,
       "en": "AvoidanceChance_AddMod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e66f85",
+      "id": 65433477,
       "en": "DamageReceivedMultiplier_Melee",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8f633bc",
+      "id": 150352828,
       "en": "ArmorPenetration_Tactical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c16b14",
+      "id": 96561940,
       "en": "DamageDealtMultiplier_Ranged",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98626f4",
+      "id": 159786740,
       "en": "CriticalHitMagnitude_AddMod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x254a542",
+      "id": 39101762,
       "en": "Critical Hit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x32cd2ec",
+      "id": 53269228,
       "en": "Counter-rating to Armour Rating against Physical damage on the target, this value is subtracted from the target's Armour Rating to get the Effective Armour Rating used to determine the Armour Mitigation value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea74ff7",
+      "id": 245846007,
       "en": "Critical Rating",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9542c2e",
+      "id": 156511278,
       "en": "AvoidancePenetration",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b4fb34",
+      "id": 162855732,
       "en": "Modifier applied to Avoidance Mitigation percentage. This is a zero-based modifier and is additive to the base percentage determined by Avoidance Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2873215",
+      "id": 42414613,
       "en": "Miss Chance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x155337c",
+      "id": 22360956,
       "en": "ArmorPenetration_Physical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b67047",
+      "id": 129396807,
       "en": "HealingMultiplier_Outgoing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x842be65",
+      "id": 138591845,
       "en": "CriticalDefense",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x797348c",
+      "id": 127349900,
       "en": "Rating value used to determine mitigation amount against Tactical damage applied to the target.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf79872",
+      "id": 183998578,
       "en": "SourceQualifier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbee4d6c",
+      "id": 200166764,
       "en": "ArmorRating_Physical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82d737",
+      "id": 8574775,
       "en": "Rating value which drives the Avoidance Chance and Avoidance Mitigation values.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xada9e84",
+      "id": 182099588,
       "en": "DamageReceivedMultiplier_Ranged",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3b6ef4",
+      "id": 171667188,
       "en": "Modifier applied to Avoidance Chance percentage. This is a zero-based modifier and is additive to the base chance determined by Avoidance Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x838706c",
+      "id": 137916524,
       "en": "Modifier applied to Mitigation percentage against Physical damage.  This is a zero-based modifier and is additive to the base mitigation percentage determined by Armour Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xab42944",
+      "id": 179579204,
       "en": "IncomingCriticalHitChance_AddMod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7c3e064",
+      "id": 130277476,
       "en": "Boolean flag used to indicate target immunity to damage from Skill hooks using the Ranged DamageQualifier value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb232684",
+      "id": 186852996,
       "en": "CriticalHitChance_AddMod",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d67fc7",
+      "id": 165052359,
       "en": "Healing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8c8bf14",
+      "id": 147373844,
       "en": "Output multiplier applied directly to the damage/healing associated with a Skill hook using the Ranged DamageQualifier value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x20500b4",
+      "id": 33882292,
       "en": "Modifier applied to critical hit chance percentage.  This is a zero-based modifier and is additive to the base chance determined by Critical Rating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa37d0d5",
+      "id": 171430101,
       "en": "DamageDealtMultiplier_Melee",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1926285",
+      "id": 26370693,
       "en": "Multiplier applied directly to the damage/healing associated with a Skill hook using the Melee DamageQualifier value.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34343c",
+      "id": 3421244,
       "en": "Rating value used to determine mitigation amount against Physical damage applied to the target.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde68b4c",
+      "id": 233212748,
       "en": "Mitigation_AddMod_Physical",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb7d58d7",
+      "id": 192764119,
       "en": "Rating value which drives Critical Hit Chance and Critical Hit Magnitude applied to damage.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9e11e7",
+      "id": 262017511,
       "en": "HealingMultiplier_Incoming",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x865eac7",
+      "id": 140896967,
       "en": "Multiplier applied directly to any healing done to the target.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

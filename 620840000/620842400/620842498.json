@@ -2,850 +2,709 @@
   "id": 620842498,
   "txt": [
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "Cúcheron's position along the Hidden Guard's road through the Drownholt has come under attack. You must defend Mazog from these foes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "Cúcheron is waiting to ask you something, now that the attacks have ceased for the moment.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6a30a1",
+      "id": 191508641,
       "en": "'This little journey no longer amuses me, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c70",
+      "id": 84765808,
       "en": "Talk to Achardor in the cellar of the Haunted Inn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The passage so far has gone smoothly, but our fortunes in this miserable swamp can change in a moment, if we let down our guard; so we must not!\\n\\n'If you stand by this banner and shout your commands for me, I can provide support in battle. Arrows I let fly from Cúmaeth can slow the attack speed of our foes or make difficult their movement; additionally, I can pepper our enemies with such a flight of shafts that their general defences are broken.\\n\\n'Use this banner of the Malledhrim during battle to tell me which of these tactics you desire!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6a30a2",
+      "id": 191508642,
       "en": "'I grow tired of planning your demise and those of all these Elves; I want to just get there!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c71",
+      "id": 84765809,
       "en": "Talk to Bróin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba031c1",
+      "id": 195047873,
       "en": "Even shackled, Mazog proves too deadly for an unaware Achardor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I have not seen creatures of that sort within a league of Lothlórien, [placeholder]. They fill me with disgust. Still, we triumphed over them, and Cúmaeth has many arrows left in reserve.\\n\\n'There is a tunnel just ahead; it lies upon the route Raddir selected for us. I do not wish to bring Mazog through there until we know it be clear.\\n\\n'I will stay here and guard Mazog. Enter the tunnel and clear it of any dangers and then return here to me. Then you can bring the Orc safely through the tunnel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'The tunnel is clear? Good. I fought off some more fen-lizards, but it was nothing I could not handle with Cúmaeth.\\n\\n'Ensure that Mazog's shackles are secure and bring him through the tunnel. You should have no more problems.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'This journey has already cost us a great deal, [placeholder], and with every loss, it becomes more difficult to keep this wretch alive!\\n\\n'I cannot stand to look at him. To tally up the pain he has already cost us would take a long while already, and I worry he is not done adding to it!\\n\\n'Let us leave this cellar for now. Achardor will watch him... and Sigileth and the others will watch Achardor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "You call his name and try to get a response from the Elf, but it is already too late: Raddir is dead.\\n\\nThere are no signs of a struggle or any mark of injury that you can see, but despite that puzzle, one thing is clear: the Hidden Guard has lost one of its own.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x35f0c1",
+      "id": 3535041,
       "en": "'Shout your commands for me by this banner, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "You explain Cúcheron's desire that you clear the tunnel of dangers before bringing Mazog through it, and Raddir nods.\\n\\n'That is a good idea; the creepers here remained asleep for Sigileth and I to pass through, but of course Mazog would have sought to awaken them at the worst possible moment! Cúcheron is perhaps more canny than I gave him credit for being!'\\n\\nRaddir seems to think for a moment, and then haltingly begins.\\n\\n'I came back here because I thought I saw... I thought I saw someone I knew, [placeholder]... a friend. But it could not be, for this friend... this friend has not walked this way for many a year and has since gone where none may follow.\\n\\n'If I did not know better, I would have sworn it was he. But here there is nothing but creepers. It was a trick of the light, my error in the dim.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'According to Raddir, this is the mid-point of Râd Cened, the road he has chosen for us to take through the Drownholt. You are lucky, Mazog, that we have need of you alive! Were it my decision to make, or Achardor's, you would be slain already and left to rot within one of the foetid pools of this swamp!'\\n\\nMazog says nothing, and Sigileth continues.\\n\\n'This banner of the Golden Host will allow you to select a support role for me to use during battle, [placeholder]. I can draw the life-blood of our foes with Lanchigil and Egnassigil or provide you with morale or power support. It is up to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1fe7721",
+      "id": 33453857,
       "en": "You hear footsteps in the water as Raddir enters the cavern of the creepers.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085258",
+      "id": 218649176,
       "en": "'We have done well to repel these attacks, [placeholder]. Ensure that Mazog's shackles remain secure and bring him further into the Drownholt.\\n\\n'You will encounter Raddir next along Râd Cened. Give him my thanks for planning this route. We have done well to weather its dangers, and Mazog's presence is still a secret to the Orcs of Mirkwood.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085259",
+      "id": 218649177,
       "en": "'We have come part of the way, [placeholder], but there is a long way to go yet; the Drownholt is perilous, and while Raddir has chosen our road with care, we must still use caution. The rest of the Hidden Guard have gone on ahead, for we cannot move as a group if we are to maintain our secrecy. You will bring Mazog to the members of our company, further ahead in the fen.\\n\\n'Did you hear that? Something approaches! I will leave the coordination of our attack in your hands; shout your commands of me by this banner, and we will repel whatever evil approaches! My talents are for the restoration of morale and power, though they will be of no use for our prisoner. Do not let Mazog sustain injury!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38e91e1",
+      "id": 59675105,
       "en": "'I will work to restore your power, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8aceba1",
+      "id": 145550241,
       "en": "'More creepers? [placeholder], I thought you cleared that tunnel!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced00",
+      "id": 171764992,
       "en": "Mazog is trying to escape! You must reach Achardor, further along the path chosen by Raddir through the Drownholt, before Mazog does!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced01",
+      "id": 171764993,
       "en": "You have warned Achardor of Mazog's attempt to escape, and now the Orc can be recaptured.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced02",
+      "id": 171764994,
       "en": "Following the death of Raddir, the Hidden Guard has made its limping way to the cellar of an inn among the Dourstocks, there to decide what can be done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8cbfd01",
+      "id": 147586305,
       "en": "'I think that is all of them... for now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced03",
+      "id": 171764995,
       "en": "Bróin is in the Bleak Cellar, waiting to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ce78d1",
+      "id": 164526289,
       "en": "'My arrows will lower the defences of our foes, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf89051",
+      "id": 217616465,
       "en": "Unearthly torches mark the path to the ruins where Achardor waits, unsure of the danger",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe8ea31",
+      "id": 266922545,
       "en": "'What? Mazog is free? I fear to think what might have happened had he caught me unaware!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced10",
+      "id": 171765008,
       "en": "Cúcheron has asked you to clear the tunnel north-east of his position of danger while he guards Mazog and to then return to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced11",
+      "id": 171765009,
       "en": "Cúcheron is outside the tunnel, guarding Mazog and waiting for your return.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced12",
+      "id": 171765010,
       "en": "It is time to bring Mazog further along Râd Cened, the route Raddir has selected to bring the Hidden Guard through the perilous Drownholt.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced13",
+      "id": 171765011,
       "en": "Sigileth has scouted the next leg of your journey through the Drownholt with Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced14",
+      "id": 171765012,
       "en": "Sigileth has asked you to use her banner of the Golden Host to issue commands that she may support you in battle.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced15",
+      "id": 171765013,
       "en": "Sigileth's position along the Hidden Guard's road through the Drownholt has come under attack. You must defend Mazog from these foes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced16",
+      "id": 171765014,
       "en": "Sigileth is waiting to speak with you, now that the attacks have ceased for the moment.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced17",
+      "id": 171765015,
       "en": "Sigileth asked you to secure Mazog's shackles and to escort him forward through the fens of the Drownholt to Raddir, waiting further ahead.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced18",
+      "id": 171765016,
       "en": "The unthinkable has happened: Raddir has been slain within the Drownholt.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced19",
+      "id": 171765017,
       "en": "Mazog has a sinister look in his eye. Ensure that his shackles remain secure.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd84b91",
+      "id": 14175121,
       "en": "'Accursed insects! Do you not know Mazog, Lord of Caves?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd84b92",
+      "id": 14175122,
       "en": "'Come forth, insects! Rip them, tear them, kill them!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Issuriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd84b93",
+      "id": 14175123,
       "en": "'Surely there must be more of you! Come feed on my captors!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Use the banner of the Golden Host to issue support commands to Issuriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd84b94",
+      "id": 14175124,
       "en": "'Vile insects! The only thing you can do is disappoint!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Defend Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x591851",
+      "id": 5838929,
       "en": "'I must rest from my wounds! Fight on!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Defend Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Issuriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Secure Mazog's shackles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Quickly follow Mazog through the swamp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Talk to Cúcheron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa408691",
+      "id": 172000913,
       "en": "'Ensure Mazog's shackles are secure and bring him through the tunnel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Use the banner of the Golden Host to issue support commands to Cúcheron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852590",
+      "id": 8725904,
       "en": "'We have done well to repel the creepers of the Drownholt, [placeholder], but there will be more, I am sure of it. We must protect Mazog from their barbs and grasping tendrils, though our hearts be not fully in it!\\n\\n'Make certain his shackles are secure, and travel forward with him through the swamp. Cúcheron should be just ahead.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852591",
+      "id": 8725905,
       "en": "'What a delight! Look how fall the Elves that seek to imprison me, one by one. Perhaps you will be next, [placeholder], [placeholder] that deserves it so!\\n\\n'So end all enemies of Mazog, Lord of Caves! No shackles can bind me forever, and if my hands be bound let my legs carry me to the allies that must have done this, the allies that even now seek to free me from bondage!\\n\\n'Ho, Orcs of my distant kin! You seek to free Mazog, and he will be free with the rewards of generosity!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa937fe1",
+      "id": 177438689,
       "en": "'I will watch him, Bróin. I will watch him until we have no further use for him.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
+      "id": 8725906,
       "en": "'We cannot talk here, [placeholder]. We have blocked the Orc's escape, but now we must gather the rest of the Hidden Guard and devise a new plan. Without Raddir....'\\n\\nAchardor's face is a storm-cloud of emotions. He brings himself under control, but it is clearly an effort.\\n\\n'We must rejoin the Malledhrim. There is a village called Audaghaim among the Dourstocks. The plan was for the main body of the Malledhrim to use it as a supply point before advancing further into Mirkwood. We must go there and discuss what is to be done.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa937fe2",
+      "id": 177438690,
       "en": "'And then I will kill him. I will kill him for Raddir.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852593",
+      "id": 8725907,
       "en": "'The memory of our desperate journey overland out of the Drownholt is a hazy one, [placeholder], but we have arrived at Audaghaim. It is a place for us to lick our wounds, though not all our wounds can be healed, here or anywhere.\\n\\n'I cannot believe Raddir is gone! Can our mission have failed even as it begins?\\n\\n'I will sharpen my blade. It may drink the blood of our prisoner soon, once we see wisdom and abandon this foolhardy errand.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa937fe3",
+      "id": 177438691,
       "en": "'No. Not yet.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852594",
+      "id": 8725908,
       "en": "'I need some fresh air, [placeholder]. Let us go out onto the porch of the Inn. The sight of our prisoner makes me feel ill.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa937fe4",
+      "id": 177438692,
       "en": "'But soon, Mazog. Soon.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852595",
+      "id": 8725909,
       "en": "You check Mazog's shackles, and they remain secure. He stares assessingly at you, which is somehow more disconcerting than his usual sneer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852596",
+      "id": 8725910,
       "en": "You ensure that Mazog's shackles remain secure. Once again, the Orc rewards you only with an appraising stare.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852597",
+      "id": 8725911,
       "en": "You ensure that Mazog's shackles are secure. The Orc sneers at you, and his eyes glow yellow with hate.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Mazog has fallen! The mission of the Hidden Guard has failed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe264651",
+      "id": 237389393,
       "en": "'[placeholder], hello! Where is Mazog?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have failed to keep up with Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe264652",
+      "id": 237389394,
       "en": "'Return to Cúcheron, [placeholder]. The tunnel is now safe. Whatever I saw... it is gone now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6dd9a51",
+      "id": 115186257,
       "en": "'We are beset on all sides!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Mazog has fallen! The mission of the Hidden Guard has failed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6dd9a52",
+      "id": 115186258,
       "en": "'We are making so much noise! I hope we do not draw unwanted attention!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You have failed to keep up with Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6dd9a53",
+      "id": 115186259,
       "en": "'What in the name of the Elder King were those?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "Mazog has fallen! The mission of the Hidden Guard has failed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3686",
+      "id": 136263302,
       "en": "Mazog has fallen! The mission of the Hidden Guard has failed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3687",
+      "id": 136263303,
       "en": "With sinking heart, you notice the body of an Elf beside the stagnant pool",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3688",
+      "id": 136263304,
       "en": "Mazog is trying to escape! You must reach Achardor before he does",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef37891",
+      "id": 250837137,
       "en": "'Urkdalgum! It seems that your company is smaller now than it was, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3689",
+      "id": 136263305,
       "en": "You have managed to get in front of Mazog and can prevent his escape",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c0",
+      "id": 32729280,
       "en": "You were not able to reach Achardor before Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdf8f3e1",
+      "id": 234419169,
       "en": "'I will slow the movement speed of our foes, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa0238b1",
+      "id": 167917745,
       "en": "'I will guard Mazog while you clear the tunnel ahead of dangers. Return then to me here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb544421",
+      "id": 190071841,
       "en": "'I will provide morale support, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xac2b301",
+      "id": 180531969,
       "en": "'I will work to restore your morale, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4c8ca1",
+      "id": 206343329,
       "en": "'I have a command for you, worm: fall over dead!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4c8ca2",
+      "id": 206343330,
       "en": "'Over here! [placeholder]-flesh awaits! My captors are weak from battle!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10d7c00",
+      "id": 17660928,
       "en": "'I hope these briars do not tear your skin too deeply, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10d7c01",
+      "id": 17660929,
       "en": "'Try to keep up, [placeholder]. I would hate to leave you behind... alive.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf29d711",
+      "id": 254400273,
       "en": "'Do not disturb them. They need time to mourn Raddir.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10d7c02",
+      "id": 17660930,
       "en": "'Watch your footing, [placeholder]. One misstep here and you'll drown in the mud!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10d7c03",
+      "id": 17660931,
       "en": "'Are you enjoying this tour of the swamp? Perhaps another briar thicket will help!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf1b211",
+      "id": 217166353,
       "en": "'I will support both your power and your morale, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3dee21",
+      "id": 188608033,
       "en": "'I will provide power support, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10d7c04",
+      "id": 17660932,
       "en": "'Too bad. The Bow Elf is still alive.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Midnight in the Drownholt",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd977de1",
+      "id": 228031969,
       "en": "'I will slow the attack speed of our foes, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7c052",
+      "id": 14139474,
       "en": "'That would be a shame. A great shame.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xacd3d01",
+      "id": 181222657,
       "en": "'I will cause our foes to bleed, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Hidden Guard begins the perilous crossing of the Drownholt with Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c40",
+      "id": 84765760,
       "en": "Defend Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38af181",
+      "id": 59437441,
       "en": "'We will see, Elf-flesh! By my count you are running out of friends!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c41",
+      "id": 84765761,
       "en": "Defend Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c42",
+      "id": 84765762,
       "en": "Talk to Sigileth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b8e171",
+      "id": 62447985,
       "en": "'Are you sure you want to go into the scary cave, [placeholder]?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c43",
+      "id": 84765763,
       "en": "Secure Mazog's shackles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b8e172",
+      "id": 62447986,
       "en": "'This cave brings back memories. I've slain foes just like you in caves just like this, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c44",
+      "id": 84765764,
       "en": "Quickly follow Mazog through the swamp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b8e173",
+      "id": 62447987,
       "en": "'This cave is damp. It must be unpleasant for you, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c45",
+      "id": 84765765,
       "en": "Examine the body",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b8e174",
+      "id": 62447988,
       "en": "'Oh, she's alive. That's a pity.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfce3e61",
+      "id": 265174625,
       "en": "'I must recover from my wounds!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c46",
+      "id": 84765766,
       "en": "Secure Mazog's shackles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c47",
+      "id": 84765767,
       "en": "Reach Achardor before Mazog does",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c48",
+      "id": 84765768,
       "en": "Talk to Achardor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c49",
+      "id": 84765769,
       "en": "Follow Achardor into the cellar to check on Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c50",
+      "id": 84765776,
       "en": "Defend Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c51",
+      "id": 84765777,
       "en": "Defend Mazog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c52",
+      "id": 84765778,
       "en": "Talk to Cúcheron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c53",
+      "id": 84765779,
       "en": "Clear the tunnel of danger so Mazog can be safely escorted through it",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c54",
+      "id": 84765780,
       "en": "Return to Cúcheron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c55",
+      "id": 84765781,
       "en": "Secure Mazog's shackles",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6c0871",
+      "id": 241961073,
       "en": "'Shout your commands for me by this banner.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb27aa31",
+      "id": 187148849,
       "en": "'Shout your commands for me by this banner!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c56",
+      "id": 84765782,
       "en": "Quickly follow Mazog through the tunnel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c57",
+      "id": 84765783,
       "en": "Talk to Sigileth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c58",
+      "id": 84765784,
       "en": "Use the banner of the Golden Host to issue support commands to Sigileth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c59",
+      "id": 84765785,
       "en": "Prepare for the insects Mazog is trying to call forth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2a3431",
+      "id": 204092465,
       "en": "'I need to rest!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The tunnel is just to the north-east, [placeholder]. Clear it of dangers and then return to me. I will remain here and guard Mazog until your return.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'I can target specific limbs of our foes to either slow their attack speed or movement speed, or rain such fury upon them with my bow Cúmaeth that their defences be broken. Tell me which of these tactics you wish me to use by using this banner of the Malledhrim.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Issuriel is waiting to speak with you upon the path of Râd Cened.\\n\\nYou have come part of the way along Raddir's chosen route through the Drownholt and must now walk the path of Râd Cened with Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'Shout your commands for my support role by this banner of the Malledhrim, [placeholder]. I am expert at drawing the life-blood of my foes with my twin knives, Lanchigil and Egnassigil, but I am also adept at restoring depleted morale and power.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Issuriel has asked you to use her banner of the Golden Host to issue commands that she may support you in battle with whatever approaches.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c44",
+      "id": 63183940,
       "en": "'Use this banner of the Golden Host to issue commands to me, [placeholder]. I will do my best to support you during battle with the restoration of morale and power.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Râd Cened Creepers have gathered to attack intruders within the Drownholt! You must defend Mazog from this threat!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Issuriel is waiting to speak with you along the path of Râd Cened.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7dd6e1",
+      "id": 209573601,
       "en": "'Unbind me, worms! Unbind me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Issuriel asked you to secure Mazog's shackles and to escort him forwards through the fens of the Drownholt to Cúcheron, waiting further ahead.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Cúcheron has scouted the next leg of your journey through the Drownholt with Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "Cúcheron has asked you to use his banner of the Golden Host to issue commands that he may support you in battle.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

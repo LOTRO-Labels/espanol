@@ -2,82 +2,69 @@
   "id": 620955539,
   "txt": [
     {
-      "id": "0x19ebcf3",
+      "id": 27180275,
       "en": "<rgb=#00FF00>We have dealt with the horn-blowing scouts at last.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Keep scouts from blowing their horns three times.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Horn-blowing scouts ([placeholder]/3)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x20264fe",
+      "id": 33711358,
       "en": "<rgb=#FF0000>Another horn has been blown!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x51b2715",
+      "id": 85665557,
       "en": "Haradrim scouts have spotted us and blown a warning horn. We should stop them before they wind the third blow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5021",
+      "id": 225071137,
       "en": "Horn-blowing scouts ([placeholder]/3)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4db675",
+      "id": 172865141,
       "en": "<rgb=#FF0000>The horn has blown thrice! The signal for reinforcements has gone out!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "Corsair scouts have snuck up from behind and spotted our position. If they can get off three blows of their horn, reinforcements will come running!\\n\\nThis quest starts with <rgb=#FFFF00>empty</rgb> Merit Rating.\\n\\n<rgb=#00FF00>Merit Gain:</rgb>\\n* Defeat scouts before third horn-blow \\n  (with as few horn-blows as possible)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5026",
+      "id": 225071142,
       "en": "<rgb=#FF0000>Do not allow all the hornblowers to alert reinforcements.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa2",
+      "id": 126754722,
       "en": "The Thrice Blown Horn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7591ca5",
+      "id": 123280549,
       "en": "<rgb=#FF0000>Failure: All the scouts succeeded in winding their horns!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda48ac4",
+      "id": 228887236,
       "en": "TEST",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

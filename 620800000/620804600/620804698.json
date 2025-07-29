@@ -2,550 +2,459 @@
   "id": 620804698,
   "txt": [
     {
-      "id": "0xd5ac55e",
+      "id": 224052574,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xacd9854",
+      "id": 181246036,
       "en": "Turn this on to prevent player retreat during an instance boss fight",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc65e752",
+      "id": 208004946,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6d1692",
+      "id": 225253010,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x764459e",
+      "id": 124011934,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6aee8f4",
+      "id": 112126196,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xffd1a52",
+      "id": 268245586,
       "en": "This is a test integer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93a77ee",
+      "id": 154826734,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4f71",
+      "id": 16732017,
       "en": "#-1:[placeholder] The South Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4f72",
+      "id": 16732018,
       "en": "#-1:[placeholder] Faelbenn's Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4f73",
+      "id": 16732019,
       "en": "#-1:[placeholder] The North Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4f74",
+      "id": 16732020,
       "en": "#-1:[placeholder] The Northernmost Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4f75",
+      "id": 16732021,
       "en": "#-1:[placeholder] The Stone of Terror is #-1:{vulnerable![1]|secure.}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4f76",
+      "id": 16732022,
       "en": "#-1:[placeholder] The Stone of Pain is #-1:{vulnerable![1]|secure.}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd149cc0",
+      "id": 219454656,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7f1692",
+      "id": 226432658,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75152a2",
+      "id": 122770082,
       "en": "Player [placeholder], of class [placeholder] and race [placeholder], has triggered the event. The player is at level [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21951",
+      "id": 197269841,
       "en": "Building Selection = Bank",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21952",
+      "id": 197269842,
       "en": "Building Selection = Docks",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f9cfc1",
+      "id": 117034945,
       "en": "South Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21953",
+      "id": 197269843,
       "en": "Building Selection = Armoury",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f9cfc2",
+      "id": 117034946,
       "en": "Faelbenn's Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21954",
+      "id": 197269844,
       "en": "Building Selection = Main Hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f9cfc3",
+      "id": 117034947,
       "en": "North Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21955",
+      "id": 197269845,
       "en": "Building Selection = Library",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f9cfc4",
+      "id": 117034948,
       "en": "Northernmost Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21956",
+      "id": 197269846,
       "en": "Building Selection = Mason",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f9cfc5",
+      "id": 117034949,
       "en": "Stone of Terror\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21957",
+      "id": 197269847,
       "en": "Building Selection = Warehouse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f9cfc6",
+      "id": 117034950,
       "en": "Stone of Pain\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc21958",
+      "id": 197269848,
       "en": "Building Selection = Swan-knight",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xccfb2c0",
+      "id": 214938304,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64b4081",
+      "id": 105595009,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64b4082",
+      "id": 105595010,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64b4083",
+      "id": 105595011,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64b4084",
+      "id": 105595012,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64b4085",
+      "id": 105595013,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57dd062",
+      "id": 92131426,
       "en": "Progress [placeholder]/[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd701692",
+      "id": 225449618,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2641e72",
+      "id": 40115826,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd3c7e81",
+      "id": 222068353,
       "en": "#-1:[placeholder] The Northern Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd3c7e82",
+      "id": 222068354,
       "en": "#-1:[placeholder] The Southern Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x530dd61",
+      "id": 87088481,
       "en": "Northern Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c1",
+      "id": 147933633,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x530dd62",
+      "id": 87088482,
       "en": "Southern Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c2",
+      "id": 147933634,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c3",
+      "id": 147933635,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c4",
+      "id": 147933636,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c5",
+      "id": 147933637,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c6",
+      "id": 147933638,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c7",
+      "id": 147933639,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c8",
+      "id": 147933640,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d149c9",
+      "id": 147933641,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x599dfee",
+      "id": 93970414,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x898b6a4",
+      "id": 144225956,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb21",
+      "id": 147651361,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb22",
+      "id": 147651362,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb23",
+      "id": 147651363,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb24",
+      "id": 147651364,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb25",
+      "id": 147651365,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb26",
+      "id": 147651366,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb27",
+      "id": 147651367,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb28",
+      "id": 147651368,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ccfb29",
+      "id": 147651369,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6187c94",
+      "id": 102268052,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbf681",
+      "id": 13366913,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbf682",
+      "id": 13366914,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbf683",
+      "id": 13366915,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbf684",
+      "id": 13366916,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcbf685",
+      "id": 13366917,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b1",
+      "id": 215347889,
       "en": "#-1:[placeholder] The Northern Aughaire Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b2",
+      "id": 215347890,
       "en": "#-1:[placeholder] The Centre Aughaire Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b3",
+      "id": 215347891,
       "en": "#-1:[placeholder] The Southern Aughaire Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b4",
+      "id": 215347892,
       "en": "#-1:[placeholder] The 4th Aughaire Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b5",
+      "id": 215347893,
       "en": "#-1:[placeholder] The 5th Aughaire Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc2bb1",
+      "id": 31206321,
       "en": "Equipment Selection = Lockpick",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b6",
+      "id": 215347894,
       "en": "#-1:[placeholder] The 6th Aughaire Bulwark is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc2bb2",
+      "id": 31206322,
       "en": "Equipment Selection = Grappling Hook",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5f2b7",
+      "id": 215347895,
       "en": "#-1:[placeholder] The Gate of Aughaire is #-1:{under attack![1]|secure.}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x506e454",
+      "id": 84337748,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc2bb3",
+      "id": 31206323,
       "en": "Equipment Selection = ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc2bb4",
+      "id": 31206324,
       "en": "Equipment Selection = ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc2bb5",
+      "id": 31206325,
       "en": "Equipment Selection = ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dc2bb6",
+      "id": 31206326,
       "en": "Equipment Selection = ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553881",
+      "id": 106248321,
       "en": "Northern Aughaire Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553882",
+      "id": 106248322,
       "en": "Centre Aughaire Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553883",
+      "id": 106248323,
       "en": "Southern Aughaire Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553884",
+      "id": 106248324,
       "en": "4th Aughaire Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553885",
+      "id": 106248325,
       "en": "5th Aughaire Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553886",
+      "id": 106248326,
       "en": "6th Aughaire Bulwark\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6553887",
+      "id": 106248327,
       "en": "Gate of Aughaire\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,64 +2,54 @@
   "id": 620836719,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Ah, I can respect a good strong arm such as yours! Welcome, friend! I long for battle ahead, but I am content to help fellow warriors hone their skills.\\n\\n'A Champion is not one who waits at the rear of the battle. No, he stands to the fore, challenging all who dare come before him! And if things come to their darkest (and often they shall), a champion will gladly lay down his life so that his fellows may survive.\\n\\n'Use the skill <rgb=#00ff00>Savage Strikes</rgb> and show me your mastery by striking the training-dummy nearby.'\\n\\nHINT:\\n\\nChampions rely on <rgb=#ffff00>Fervour</rgb> to activate some of their skills such as <rgb=#00ff00>Savage Strikes</rgb>. Use your <rgb=#00ff00>Swift Strike</rgb> and <rgb=#00ff00>Blade Wall</rgb> skills to build <rgb=#ffff00>2 Fervour</rgb> and then strike the <rgb=#ff0000>Targeting Dummy</rgb> with your <rgb=#ffff00>Savage Strikes</rgb> skill.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Well done, [placeholder]!  As you grow as a [placeholder], you will find that there are much more powerful new skills in store for you. Good luck!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Strike the training-dummy with your new skill and return to me. We must make certain that you are prepared to stand against the dangers of Middle-earth.'\\n\\nHINT:\\n\\nChampions rely on <rgb=#ffff00>Fervour</rgb> to activate some of their skills such as <rgb=#00ff00>Savage Strikes</rgb>. Use your <rgb=#00ff00>Swift Strike</rgb> and <rgb=#00ff00>Blade Wall</rgb> skills to build <rgb=#ffff00>3 Fervour</rgb> and then strike the <rgb=#ff0000>Targeting Dummy</rgb> with your <rgb=#ffff00>Savage Strikes</rgb> skill.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Intro: The Thrill of the Fight",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your trainer wants you to use your new skills to prove that you are ready to face the many dangers that exist in the world.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have struck the training-dummy with Savage Strikes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Strike the training-dummy with Savage Strikes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": " Use your<rgb=#00ff00>Savage Strikes</rgb> on the training-dummy nearby. \\n\\nHINT:\\n\\nChampions rely on <rgb=#ffff00>Fervour</rgb> to activate some of their skills such as <rgb=#00ff00>Savage Strikes</rgb>. Use your <rgb=#00ff00>Swift Strike</rgb> and <rgb=#00ff00>Blade Wall</rgb> skills to build <rgb=#ffff00>3 Fervour</rgb> and then strike the <rgb=#ff0000>Targeting Dummy</rgb> with your <rgb=#ffff00>Savage Strikes</rgb> skill.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to the Champion Trainer in Archet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Champion Trainer is at Archet, west of the training grounds.\\n\\nNow that you have successfully used your new skill, you should return to your trainer and tell him of your success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

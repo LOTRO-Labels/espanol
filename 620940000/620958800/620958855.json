@@ -2,256 +2,214 @@
   "id": 620958855,
   "txt": [
     {
-      "id": "0x2f00e23",
+      "id": 49286691,
       "en": "Feed Dusk-flower to one of the goats in Imloth Melui",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "DNT The goat readily eats the herb out of your hand",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e24",
+      "id": 49286692,
       "en": "Feed Maresfoot to one of the goats in Imloth Melui",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b6",
+      "id": 162883766,
       "en": "The goat readily eats the herb out of your hand. You watch it closely after it's done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa6",
+      "id": 126754726,
       "en": "The Poison Test",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "DNT feed herb 2 to the goat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'I do not question the efficacy of your search, [placeholder]! I think the true problem here is that our sneak must be even more stealthy than I supposed!\\n\\n'I think perhaps I have gotten ahead of myself. We need to ask the right questions, and I think we should start with the most basic one of all. If I wanted to poison that healing draught, how would I go about doing it? Why, I would taint one of the components that goes into it!\\n\\n'I have collected the ingredients that go into the mixture, and I give them to you. Will you take them to the field beneath the long stairs, in the northern area of town, and feed them to the goats there, one by one? I think the goats will tell us if one of these ingredients is tainted.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56889",
+      "id": 162883721,
       "en": "The goat readily eats the herb out of your hand. You watch it closely after it's done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a5",
+      "id": 246419877,
       "en": "The goats can be found north-east of the Hall of the Gentle Hand, at the bottom of the long stairs.\\n\\nBrunil has asked you to feed each ingredient in the healing draught to a goat, one after another.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Talk to Brunil in the Hall of the Gentle Hand",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "DNT feed herb 1 to the goat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "DNT ingredient one put out for the goats",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a9",
+      "id": 246419881,
       "en": "Brunil can be found in the Hall of the Gentle Hand, on the western side of Imloth Melui.\\n\\nYou fed all the ingredients in the draught to the goats, and the Maresfoot seemed to be disagreeable. You should return to Brunil with what you have learned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Feed the goat some Spearflower",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1185",
+      "id": 177082757,
       "en": "The goat stares at you blandly.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "DNT The goats have come over to look at ingredient 2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Feed the goat some Dusk-Root",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "The goat stares at you for a moment, but you are unable to hold its attention.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "Feed the goat some Maresfoot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1187",
+      "id": 177082759,
       "en": "The goat did not enjoy the Maresfoot! Is this ingredient to blame?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "DNT the goats come over to eat the ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "DNT Feed ingredient one to the goats",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01182",
+      "id": 246419842,
       "en": "The goats can be found north of the House of Healing, right at the bottom of the long stairs.\\n\\nHead Healer Brunil has asked you to feed each ingredient in the poisoned draught to a goat, one after another. Hopefully this will reveal which one is poisoned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b1",
+      "id": 246419889,
       "en": "The goats can be found north of the Hall of the Gentle Hand, at the bottom of the long stairs.\\n\\nBrunil has asked you to feed each ingredient in the healing draught to a goat, one after another.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b2",
+      "id": 246419890,
       "en": "The goats can be found north of the Hall of the Gentle Hand, at the bottom of the long stairs.\\n\\nBrunil has asked you to feed each ingredient in the healing draught to a goat, one after another.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "Brunil has isolated the ingredients in the medicine that worsened the condition of her patients, and she thinks one of them might be poisoned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "DNT place ingredient 1 on the block",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "The goats can be found north of the House of Healing, right at the bottom of the long stairs.\\n\\nHead Healer Brunil has asked you to feed each ingredient in the poisoned draught to a goat, one after another. Hopefully this will reveal which one is poisoned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "DNT Place ingredient 2 on the block",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1191",
+      "id": 177082769,
       "en": "DNT the goat's eating it!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b8",
+      "id": 246419896,
       "en": "The goats can be found north-east of the Hall of the Gentle Hand, at the bottom of the long stairs.\\n\\nBrunil has asked you to feed each ingredient in the healing draught to a goat, one after another.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "DNT feed ingredient 3 to goats",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b9",
+      "id": 246419897,
       "en": "The goats can be found north-east of the Hall of the Gentle Hand, at the bottom of the long stairs.\\n\\nBrunil has asked you to feed each ingredient in the healing draught to a goat, one after another.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1194",
+      "id": 177082772,
       "en": "DNT the goat's eating it! It's fallen down... looks like it doesn't feel well!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x391bd79",
+      "id": 59882873,
       "en": "The goat walks away unimpressed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01191",
+      "id": 246419857,
       "en": "DNT Return to Brunil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x581be69",
+      "id": 92388969,
       "en": "Teh goat rises, more angry than ill, and stamps off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a4",
+      "id": 177082788,
       "en": "DNT Talk with Brunil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e20",
+      "id": 49286688,
       "en": "Feed Spearflower to one of the goats in Imloth Melui",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'Ah, one of the ingredients disagreed with the constitution of our goat? Which component was to blame, [placeholder]?\\n\\n'The Maresfoot? I see. That is delivered daily! I think we may be closing in on our culprit.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "The goat readily eats the herb out of your hand. You watch it closely after it's done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a8",
+      "id": 177082792,
       "en": "DNT the goat's eating it!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,1792 +2,1494 @@
   "id": 620757428,
   "txt": [
     {
-      "id": "0x69ac60",
+      "id": 6925408,
       "en": "You cannot promote #1:[placeholder] because #1:{he[m]|she[f]|it} is not in your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfdba980",
+      "id": 266054016,
       "en": "You fail to demote that member of your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4914a74",
+      "id": 76630644,
       "en": "You cannot create a new kinship.  You are already in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5cf6754",
+      "id": 97478484,
       "en": "<rgb=#FF0000>Please wait! Kinship data not yet loaded</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd16b065",
+      "id": 219590757,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc052040",
+      "id": 201662528,
       "en": "You do not have a valid target to promote in your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x350567e",
+      "id": 55596670,
       "en": "'[placeholder]' is not a valid kinship management function.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34069a4",
+      "id": 54552996,
       "en": "You cannot promote #1:[placeholder] because #1:{he[m]|she[f]|it} is not in your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd973680",
+      "id": 228013696,
       "en": "[placeholder] has resigned leadership of your tribe.  You are the new leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf759840",
+      "id": 259364928,
       "en": "You cannot invite #1:[placeholder] into your tribe because #1:{he[m]|she[f]|it} is already being invited by someone else.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9741c0",
+      "id": 261571008,
       "en": "[placeholder] has resigned leadership of your tribe.  Your new leader is [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74382a0",
+      "id": 121864864,
       "en": "[placeholder] has updated your tribe's Message of the Day:\\n[placeholder]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfd46a60",
+      "id": 265579104,
       "en": "You failed to create a new tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe263072",
+      "id": 237383794,
       "en": "[placeholder] has demoted [placeholder] to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0923b4",
+      "id": 185148340,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81706c5",
+      "id": 135726789,
       "en": "You have recruited [placeholder] into your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa604914",
+      "id": 174082324,
       "en": "You cannot invite #1:[placeholder] into your kinship because #1:{he[m]|she[f]|it} is dead.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd0b0040",
+      "id": 218824768,
       "en": "You cannot demote #1:[placeholder] because #1:{he[m]|she[f]|it} is not in your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f858f4",
+      "id": 33052916,
       "en": "Your rank title has been changed from [placeholder] to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d720e0",
+      "id": 148316384,
       "en": "You failed to join the tribe's chat room.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x46e530",
+      "id": 4646192,
       "en": "You cannot leave your tribe since you are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe7542a0",
+      "id": 242565792,
       "en": "You cannot invite the target into your tribe because your target has left the world.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x77058b3",
+      "id": 124803251,
       "en": "You have successfully changed [placeholder]'s rank to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe72b90",
+      "id": 15149968,
       "en": "'[placeholder]' is not a valid tribe management function.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd26934",
+      "id": 198338868,
       "en": "You must specify a target to invite.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa558e0",
+      "id": 262494432,
       "en": "You cannot invite #1:[placeholder] into your tribe because #1:{he[m]|she[f]|it} is already in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x620ad90",
+      "id": 102804880,
       "en": "You do not have permission to change your tribe's Message of the Day.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcdd153",
+      "id": 265146707,
       "en": "You have disbanded your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2e0c320",
+      "id": 48284448,
       "en": "You have been removed from your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x52d43c4",
+      "id": 86852548,
       "en": "You do not have permission to demote [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x423d4b0",
+      "id": 69457072,
       "en": "You have been expelled from your tribe by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x14a7db0",
+      "id": 21659056,
       "en": "You cannot create a new tribe.  You are already in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x491340",
+      "id": 4789056,
       "en": "You cannot invite #1:[placeholder] into your tribe because #1:{he[m]|she[f]|it} is dead.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x85babf0",
+      "id": 140225520,
       "en": "You have left your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b82730",
+      "id": 62400304,
       "en": "You do not have permission to resign leadership of your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9cf125",
+      "id": 245166373,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3448cf6",
+      "id": 54824182,
       "en": "You cannot name yourself as your own successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60dd334",
+      "id": 101569332,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1046e4",
+      "id": 202393316,
       "en": "You cannot leave your kinship since you are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf0ccf60",
+      "id": 252497760,
       "en": "You cannot invite a tribe member because you are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x585f0",
+      "id": 361968,
       "en": "Your invitation to join [placeholder]{'s|'[s]} tribe has expired.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6f1254",
+      "id": 242160212,
       "en": "Your kinship was disbanded due to low member count.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaca02fe",
+      "id": 181011198,
       "en": "Your kinship does not have the correct Lifespan Rank to set Message of the Day yet.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5170a30",
+      "id": 85396016,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6702584",
+      "id": 108012932,
       "en": "[placeholder] has invited you to join {her[f]|his[m]} kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x87343b7",
+      "id": 141771703,
       "en": "You cannot invite #1:[placeholder] because #1:{he[m]|she[f]|it} is not accepting kinship invites at this time.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d68254",
+      "id": 81166932,
       "en": "#1:[placeholder] has removed you as #1:{her[f]|his[m]} successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde633d5",
+      "id": 233190357,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38ab120",
+      "id": 59420960,
       "en": "You decline [placeholder]{'s|'[s]} invitation to join {her[f]|his[m]} tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x495a0b5",
+      "id": 76914869,
       "en": "Your kinship is not eligible to be renamed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe94d1a2",
+      "id": 244634018,
       "en": "You cannot resign leadership of your kinship since you are the only one in it.  If you want to abandon your kinship you should disband it.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaaab5f4",
+      "id": 178959860,
       "en": "You cannot use kinship chat.  You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a0beb0",
+      "id": 94420656,
       "en": "Your tribe is not eligible to be renamed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x752faf5",
+      "id": 122878709,
       "en": "Are you sure you want to change the theme of your kinship to [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd0db814",
+      "id": 219002900,
       "en": "There is no rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x611cca3",
+      "id": 101829795,
       "en": "You have usurped the leadership of [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79cf602",
+      "id": 127727106,
       "en": "The Clerk of Kinships",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c0a2e4",
+      "id": 96510692,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd85ba3",
+      "id": 232283043,
       "en": "You have left your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x784b0be",
+      "id": 126136510,
       "en": "Your kinship's Message of the Day:\\n[placeholder]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9439110",
+      "id": 155422992,
       "en": "You have joined [placeholder]'s tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe19b080",
+      "id": 236564608,
       "en": "You cannot change the permissions of the tribe leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x413b81e",
+      "id": 68401182,
       "en": "You do not have permission to resign leadership of your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b0e71e",
+      "id": 145811230,
       "en": "'[placeholder]' is not a valid kinship management function.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf6f7594",
+      "id": 258962836,
       "en": "You cannot invite #1:[placeholder] into your kinship because #1:{he[m]|she[f]|it} is already being invited by someone else.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe60e070",
+      "id": 241229936,
       "en": "You have invited [placeholder] to join your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd159e0",
+      "id": 231823840,
       "en": "You have disbanded your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x90b7f92",
+      "id": 151748498,
       "en": "Your kinship has been disbanded.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a01734",
+      "id": 94377780,
       "en": "Your kinship's Lifespan Rank has changed to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f50fb0",
+      "id": 133500848,
       "en": "'[placeholder]' is not a valid tribe management function.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xedccba0",
+      "id": 249351072,
       "en": "You cannot invite [placeholder] into your tribe because your tribe is full.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdcfe260",
+      "id": 231727712,
       "en": "[placeholder] declines your invitation to join your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xab4c7d4",
+      "id": 179619796,
       "en": "Error restoring Kinship",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60fb222",
+      "id": 101691938,
       "en": "[placeholder] has recruited [placeholder] into your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1afdba5",
+      "id": 28302245,
       "en": "You fail to demote that member of your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7658c24",
+      "id": 124095524,
       "en": "You are not currently being invited into a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf87020",
+      "id": 184053792,
       "en": "You cannot use officer chat.  You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41b1840",
+      "id": 68884544,
       "en": "You failed to join the tribe's officer chat room.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc02ec84",
+      "id": 201518212,
       "en": "The text you entered is too short.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x66f3650",
+      "id": 107951696,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd766f34",
+      "id": 225865524,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2a6b3ae",
+      "id": 44479406,
       "en": "That rank already has that permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3df7d9c",
+      "id": 64978332,
       "en": "You cannot change the leader rank level.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x62c3120",
+      "id": 103559456,
       "en": "[placeholder] has changed your tribe's theme to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6285d30",
+      "id": 103308592,
       "en": "You do not have permission to demote tribe members.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c15bc5",
+      "id": 63003589,
       "en": "We regret to inform you that something has gone wrong and we could not automatically restore your Kinship, \\q[placeholder].\\q\\n\\nAttached you will find a special Charter that will allow you to re-create your Kinship manually. This will preserve all lifespan benefits but returning members must be re-invited by you or an Officer.\\n\\nWe apologize for the inconvenience!\\n\\nSincerely,\\nThe Clerk of Kinships",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9414e32",
+      "id": 155274802,
       "en": "#1:[placeholder] removed #2:[placeholder] as #1:{her[f]|his[m]} successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x895b465",
+      "id": 144028773,
       "en": "You cannot recruit #1:[placeholder] because #1:{he[m]|she[f]|it} has not completed the introduction.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde93983",
+      "id": 233388419,
       "en": "You have successfully resigned leadership of your kinship.  Your new leader is [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d5f5f4",
+      "id": 148239860,
       "en": "There is no rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd7a1e4",
+      "id": 215458276,
       "en": "Notice: Kinship will be disbanded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb22120",
+      "id": 263332128,
       "en": "[placeholder] has recruited [placeholder] into your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b22ed5",
+      "id": 78786261,
       "en": "You fail to disband your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a9e444",
+      "id": 95020100,
       "en": "There is no rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ecc704",
+      "id": 32294660,
       "en": "You can only attempt to expel members of your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd023af3",
+      "id": 218249971,
       "en": "You cannot change the permissions of the kinship leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef561d0",
+      "id": 250962384,
       "en": "[placeholder] has left your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x343b450",
+      "id": 54768720,
       "en": "You cannot invite #1:[placeholder] because #1:{he[m]|she[f]|it} is not accepting tribe invites at this time.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15258c0",
+      "id": 22173888,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x190534",
+      "id": 1639732,
       "en": "There is no rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2faff70",
+      "id": 50003824,
       "en": "Are you sure you want to change the theme of your tribe to [placeholder]?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56428f0",
+      "id": 90450160,
       "en": "[placeholder] has been expelled from your tribe by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4e3c15",
+      "id": 240008213,
       "en": "You cannot rename your kinship to '[placeholder]' because that name is already in use by another kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe77afe0",
+      "id": 242724832,
       "en": "#-1:[placeholder] You now lead a newly created tribe named '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c7ee50",
+      "id": 164097616,
       "en": "You do not have a valid target to demote in your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf50cf0",
+      "id": 200609008,
       "en": "You fail to promote that member of your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a15d9e",
+      "id": 161570206,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x541ca74",
+      "id": 88197748,
       "en": "You accept [placeholder]{'s|'[s]} invitation to join {her[f]|his[m]} kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd22d2c4",
+      "id": 220385988,
       "en": "You are already recruiting [placeholder] in your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x70af864",
+      "id": 118159460,
       "en": "You cannot use officer chat.  You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd792595",
+      "id": 226043285,
       "en": "Leader",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfef3af0",
+      "id": 267336432,
       "en": "The name of your tribe has been changed to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7da0a00",
+      "id": 131729920,
       "en": "You cannot change the permissions of the tribe leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb096305",
+      "id": 185164549,
       "en": "+House of [placeholder]+",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x173e80",
+      "id": 1523328,
       "en": "Your tribe's Lifespan Rank has changed to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a43db5",
+      "id": 94649781,
       "en": "Your kinship has fallen below the minimum number of members.  A kinship must maintain 8 or more members. If the situation persists, the kinship will be disbanded within 5 days. You will also lose your kinship's house if you have one.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb95d0ae",
+      "id": 194367662,
       "en": "That rank doesn't have that permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41e2fee",
+      "id": 69087214,
       "en": "You do not have permission to rename your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25abf2e",
+      "id": 39501614,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x51f6485",
+      "id": 85943429,
       "en": "You were unable to leave your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x981ce5",
+      "id": 9968869,
       "en": "You have updated your kinship's Message of the Day.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc65aac4",
+      "id": 207989444,
       "en": "You cannot invite #1:[placeholder] into your kinship because #1:{he[m]|she[f]|it} is incapacitated.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ef9742",
+      "id": 116365122,
       "en": "[placeholder] has resigned leadership of your kinship.  Your new leader is [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x69428e2",
+      "id": 110373090,
       "en": "Only an Officer can be named successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9892d64",
+      "id": 159984996,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22d0bc5",
+      "id": 36506565,
       "en": "There is already a rank with a level of '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d2c600",
+      "id": 47367680,
       "en": "You are already recruiting [placeholder] in your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4164c42",
+      "id": 68570178,
       "en": "Your kinship has been renamed to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3c1860",
+      "id": 238819424,
       "en": "You cannot rename your tribe to '[placeholder]' because that name is already in use by another tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22ede90",
+      "id": 36626064,
       "en": "You fail to disband your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12fa826",
+      "id": 19900454,
       "en": "[placeholder] has gone offline.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe15254",
+      "id": 266424916,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83959e5",
+      "id": 137976293,
       "en": "You failed to expel the target from your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2a1f84",
+      "id": 220864388,
       "en": "The text you entered is forbidden.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c8a7e7",
+      "id": 29927399,
       "en": "The text you entered is too long.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc70ac0",
+      "id": 214371008,
       "en": "You can only attempt to expel members of your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf675663",
+      "id": 258430563,
       "en": "You have successfully changed the rank of '[placeholder]' to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea5e5b0",
+      "id": 245753264,
       "en": "You have no tribe from which to resign.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeaa7c20",
+      "id": 246053920,
       "en": "You have no tribe to rename.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7002d40",
+      "id": 117452096,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x16f8700",
+      "id": 24086272,
       "en": "You cannot expel anyone from your tribe since you are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f77985",
+      "id": 49772933,
       "en": "There is already a rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58f8f25",
+      "id": 93294373,
       "en": "[placeholder] accepts your invitation to join your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb7fa020",
+      "id": 192913440,
       "en": "Your tribe has been disbanded.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xca0a274",
+      "id": 211853940,
       "en": "You must be in a kinship to demote someone.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a19944",
+      "id": 144808260,
       "en": "There is no rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa1a2714",
+      "id": 169486100,
       "en": "You cannot rename your kinship since it does not exist.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7521b04",
+      "id": 122821380,
       "en": "You have no kinship to disband.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75fc663",
+      "id": 123717219,
       "en": "You have successfully removed the rank '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c8c6a7",
+      "id": 63489703,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29a5350",
+      "id": 43668304,
       "en": "You are about to found a Tribe.  Please enter the name of the Tribe.  It will be created using the [placeholder].  Warning: Tribe names, once set, cannot be changed!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf125740",
+      "id": 252860224,
       "en": "Your tribe was disbanded due to low member count.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7874382",
+      "id": 126305154,
       "en": "[placeholder] has updated your kinship's Message of the Day:\\n[placeholder]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xadfb390",
+      "id": 182432656,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe27da03",
+      "id": 237492739,
       "en": "You cannot change the permissions of the kinship leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1151704",
+      "id": 18159364,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9398bc0",
+      "id": 154766272,
       "en": "You have successfully resigned leadership of your tribe.  Your new leader is [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22b2ea5",
+      "id": 36384421,
       "en": "You have named [placeholder] as your successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b0c6a0",
+      "id": 78694048,
       "en": "Your tribe's Message of the Day:\\n[placeholder]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf137c5",
+      "id": 200357829,
       "en": "You cannot invite [placeholder] into your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d80af0",
+      "id": 148376304,
       "en": "You cannot create a tribe named '[placeholder]' because another tribe already has that name.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xab5f380",
+      "id": 179696512,
       "en": "You cannot use tribe chat.  You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe541a75",
+      "id": 240392821,
       "en": "You have promoted [placeholder] to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8394394",
+      "id": 137970580,
       "en": "You have joined [placeholder]'s kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc17def3",
+      "id": 202890995,
       "en": "You have successfully changed the permissions of the '[placeholder]' rank.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x21b1070",
+      "id": 35328112,
       "en": "You have no tribe to disband.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc9ea5e4",
+      "id": 211723748,
       "en": "You have no kinship from which to resign.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd33f20",
+      "id": 231948064,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf601be0",
+      "id": 257956832,
       "en": "The Tribal Scrivener",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a649a5",
+      "id": 161892773,
       "en": "You fail to rename your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84dcfe5",
+      "id": 139317221,
       "en": "[placeholder] declines your invitation to join your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc9ab290",
+      "id": 211464848,
       "en": "Your rank does not allow you to invite a tribe member.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe7e95a4",
+      "id": 243176868,
       "en": "You cannot disband your kinship since it does not exist.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb8679b4",
+      "id": 193362356,
       "en": "There is no rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1656aee",
+      "id": 23423726,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd5a5380",
+      "id": 224023424,
       "en": "You do not have permission to disband your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbba6685",
+      "id": 196765317,
       "en": "You have expelled [placeholder] from your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86dc615",
+      "id": 141411861,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec8d70d",
+      "id": 248043277,
       "en": "You failed to join the kinship's chat room.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5bcb030",
+      "id": 96251952,
       "en": "We regret to inform you that something has gone wrong and we could not automatically restore your Tribe, \\q[placeholder].\\q\\n\\nAttached you will find a special Charter that will allow you to re-create your Tribe manually. Returning members must be re-invited by you or an Officer of the Tribe.\\n\\nWe apologize for the inconvenience!\\n\\nSincerely,\\nThe Tribal Scrivener",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d56422",
+      "id": 30762018,
       "en": "[placeholder] has been expelled from your kinship by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd961be",
+      "id": 215572926,
       "en": "You do not have permission to name a successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x649a180",
+      "id": 105488768,
       "en": "You fail to rename your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2abec0",
+      "id": 237682368,
       "en": "You are already in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfd71275",
+      "id": 265753205,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d2e0f0",
+      "id": 164815088,
       "en": "You do not have permission to expel the target from your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc3b2585",
+      "id": 205202821,
       "en": "#-1:[placeholder] {Kinswoman[f]|Kinsman}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2de2e2",
+      "id": 204333794,
       "en": "Your new leader is [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ae19a3",
+      "id": 145627555,
       "en": "You cannot change the permissions of the kinship leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc97f4fe",
+      "id": 211285246,
       "en": "'[placeholder]' is not a valid kinship management function.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb6209e",
+      "id": 246816926,
       "en": "You do not have permission to change your kinship's Message of the Day.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x17bb0a4",
+      "id": 24883364,
       "en": "You have been expelled from your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa271330",
+      "id": 170332976,
       "en": "You cannot rename your tribe since it does not exist.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb46dd5",
+      "id": 11824597,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe216f84",
+      "id": 237072260,
       "en": "You cannot expel anyone from your kinship since you are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5cbfb5",
+      "id": 190627765,
       "en": "There is already a rank with the name '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4670024",
+      "id": 73859108,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce17565",
+      "id": 216102245,
       "en": "Failed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc25323b",
+      "id": 203764283,
       "en": "Your kinship does not have the correct Lifespan Rank to use officer chat.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7cd403",
+      "id": 8180739,
       "en": "You have successfully created a new rank: [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce8b192",
+      "id": 216576402,
       "en": "You do not have permission to use officer chat.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5aac540",
+      "id": 95077696,
       "en": "You cannot invite #1:[placeholder] into your tribe because #1:{he[m]|she[f]|it} is incapacitated.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8d805",
+      "id": 14211077,
       "en": "You cannot create a kinship named '[placeholder]' because another kinship already has that name.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92d62a0",
+      "id": 153969312,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe28d10",
+      "id": 14847248,
       "en": "#-1:[placeholder] You have successfully renamed your tribe to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x706c230",
+      "id": 117883440,
       "en": "You have recruited [placeholder] into your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1dfef34",
+      "id": 31452980,
       "en": "The name of your kinship has been changed to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6062c32",
+      "id": 101067826,
       "en": "[placeholder] has changed your kinship's theme to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4df42d3",
+      "id": 81740499,
       "en": "You have successfully added the permission '[placeholder]' to the '[placeholder]' rank.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0817c0",
+      "id": 201856960,
       "en": "[placeholder] has been removed from your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe7a5f24",
+      "id": 242900772,
       "en": "You have been promoted to [placeholder] by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8f2da0",
+      "id": 261041568,
       "en": "[placeholder] accepts your invitation to join your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58c3040",
+      "id": 93073472,
       "en": "You are not currently being invited into a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa0e0705",
+      "id": 168691461,
       "en": "Recruit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78c3ffe",
+      "id": 126631934,
       "en": "Your kinship does not have the correct Lifespan Rank to post Kinship Auctions yet.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4fea062",
+      "id": 83796066,
       "en": "Hall of Records",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1da06b3",
+      "id": 31065779,
       "en": "You have successfully changed the level of the '[placeholder]' rank  to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xefb1d4",
+      "id": 15708628,
       "en": "You do not have permission to promote [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8075542",
+      "id": 134698306,
       "en": "You are the new leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ad9732",
+      "id": 61708082,
       "en": "[placeholder] has resigned leadership of your kinship.  You are the new leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76c0514",
+      "id": 124519700,
       "en": "You do not have a valid target to promote in your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3bc9aae",
+      "id": 62692014,
       "en": "Your rank does not allow you to invite a kinship member.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf648d30",
+      "id": 258247984,
       "en": "You were unable to leave your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb9423d4",
+      "id": 194257876,
       "en": "You have been expelled from your kinship by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65e60d5",
+      "id": 106848469,
       "en": "You have invited [placeholder] to join your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa27580",
+      "id": 10646912,
       "en": "You must be in a tribe to demote someone.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30eaa74",
+      "id": 51292788,
       "en": "You have no kinship to rename.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeab83e2",
+      "id": 246121442,
       "en": "[placeholder] has promoted [placeholder] to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76d0af4",
+      "id": 124586740,
       "en": "You cannot demote #1:[placeholder] because #1:{he[m]|she[f]|it} is not in your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb0aa50",
+      "id": 196127312,
       "en": "You have been expelled from your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6641b0d",
+      "id": 107223821,
       "en": "You failed to join the kinship's officer chat room.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x959e210",
+      "id": 156885520,
       "en": "You failed to expel the target from your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ce77a3",
+      "id": 164525987,
       "en": "#-1:[placeholder] You now lead a newly created kinship named '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc682732",
+      "id": 208152370,
       "en": "You must target a valid kinship member!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd4aa2d3",
+      "id": 222995155,
       "en": "You have successfully removed the permission '[placeholder]' to the '[placeholder]' rank.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x869e67e",
+      "id": 141158014,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad5a4e",
+      "id": 11360846,
       "en": "You do not have permission to disband your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe16284e",
+      "id": 236333134,
       "en": "You do not have permission to demote kinship members.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x61ff9a5",
+      "id": 102758821,
       "en": "You fail to resign leadership of your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2256bf4",
+      "id": 36006900,
       "en": "#1:[placeholder] has named you as #1:{her[f]|his[m]} successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a16624",
+      "id": 111240740,
       "en": "You have been demoted to [placeholder] by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6af2375",
+      "id": 112141173,
       "en": "You have demoted [placeholder] to [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x137c3d0",
+      "id": 20431824,
       "en": "You cannot invite [placeholder] into your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3cceee4",
+      "id": 63762148,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc335d07",
+      "id": 204692743,
       "en": "The string you entered is too long.  It must be no longer than [placeholder] characters.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa668390",
+      "id": 174490512,
       "en": "You have expelled [placeholder] from your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2acc80",
+      "id": 170577024,
       "en": "You cannot resign leadership of your tribe since it does not exist.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59b356e",
+      "id": 94057838,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xabadfb4",
+      "id": 180019124,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdc139a0",
+      "id": 230767008,
       "en": "You must be in a tribe to promote someone.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34b1e34",
+      "id": 55254580,
       "en": "You are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4fd465",
+      "id": 5231717,
       "en": "You failed to create a new kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0faa8c",
+      "id": 185576076,
       "en": "Rank levels must be greater than 1.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4f8c705",
+      "id": 83412741,
       "en": "You have removed [placeholder] as your successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x568270",
+      "id": 5669488,
       "en": "'[placeholder]' is not a valid tribe management function.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2dbf505",
+      "id": 47969541,
       "en": "You fail to promote that member of your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff9b030",
+      "id": 268021808,
       "en": "You fail to resign leadership of your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6dc665",
+      "id": 7194213,
       "en": "Officer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23afb20",
+      "id": 37419808,
       "en": "You cannot change the permissions of the tribe leader.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8940670",
+      "id": 143918704,
       "en": "You have successfully changed your tribe's theme to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64f0cc4",
+      "id": 105843908,
       "en": "You cannot invite a kinship member because you are not in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d1a9b0",
+      "id": 80849328,
       "en": "You cannot resign leadership of your tribe since you are the only one in it.  If you want to abandon your tribe you should disband it.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4cf247",
+      "id": 239923783,
       "en": "The string you entered is too long.  It must be no longer than [placeholder] characters.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2eee0",
+      "id": 10677984,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36e70a2",
+      "id": 57569442,
       "en": "#1:[placeholder] has named #2:[placeholder] as #1:{her[f]|his[m]} successor.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcfa554",
+      "id": 265266516,
       "en": "You cannot invite #1:[placeholder] into your kinship because #1:{he[m]|she[f]|it} is already in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe12fa8e",
+      "id": 236124814,
       "en": "[placeholder] has come online.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa02e0c4",
+      "id": 167960772,
       "en": "You have been removed from your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe2ff730",
+      "id": 238024496,
       "en": "You do not have permission to rename your tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb1e3c60",
+      "id": 186530912,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64c4330",
+      "id": 105661232,
       "en": "Your tribe has been renamed to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec0812",
+      "id": 15468562,
       "en": "[placeholder] has been removed from your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ca7e60",
+      "id": 30047840,
       "en": "You accept [placeholder]{'s|'[s]} invitation to join {her[f]|his[m]} tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3aa2ac4",
+      "id": 61483716,
       "en": "You cannot resign leadership of your kinship since it does not exist.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8edcbc",
+      "id": 177134780,
       "en": "You cannot invite [placeholder] into your kinship because your kinship is full.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x579c7e4",
+      "id": 91867108,
       "en": "You do not have a valid target to demote in your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd9d2ce",
+      "id": 232379086,
       "en": "You do not have permission to expel the target from your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc48808e",
+      "id": 206078094,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8273b40",
+      "id": 136788800,
       "en": "You must target a valid tribe member!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x177746e",
+      "id": 24605806,
       "en": "You do not have permission to promote kinship members.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7aa6fae",
+      "id": 128610222,
       "en": "You do not have permission.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd1bbdb",
+      "id": 215071707,
       "en": "You cannot promote [placeholder] to be the same rank as you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd00584",
+      "id": 214959492,
       "en": "Your invitation to join [placeholder]{'s|'[s]} kinship has expired.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x729a4e",
+      "id": 7510606,
       "en": "You are about to found a Kinship.  Please enter the name of the Kinship.  It will be created using the [placeholder].  Warning: Kinship names, once set, cannot be changed!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf589406",
+      "id": 257463302,
       "en": "You have successfully changed your kinship's theme to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81ceab0",
+      "id": 136112816,
       "en": "You have updated your tribe's Message of the Day.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe95a750",
+      "id": 244688720,
       "en": "You cannot disband your tribe since it does not exist.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x258f50",
+      "id": 2461520,
       "en": "[placeholder] has invited you to join {her[f]|his[m]} tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceeece0",
+      "id": 216984800,
       "en": "You are not in a tribe.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb30e283",
+      "id": 187753091,
       "en": "#-1:[placeholder] You have successfully renamed your kinship to '[placeholder]'.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7747450",
+      "id": 125072464,
       "en": "You do not have permission to promote tribe members.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8dc134",
+      "id": 9290036,
       "en": "You must be in a kinship to promote someone.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ee2ab4",
+      "id": 99494580,
       "en": "You are already in a kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae681c3",
+      "id": 182878659,
       "en": "The text you entered contains invalid characters.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7d4960",
+      "id": 209537376,
       "en": "Error restoring Tribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8038ab4",
+      "id": 134449844,
       "en": "You decline [placeholder]{'s|'[s]} invitation to join {her[f]|his[m]} kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6fef562",
+      "id": 117372258,
       "en": "[placeholder] has left your kinship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x98e7544",
+      "id": 160331076,
       "en": "You cannot invite the target into your kinship because your target has left the world.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,70 +2,89 @@
   "id": 621079663,
   "txt": [
     {
-      "id": "0xd859450",
+      "id": 226858064,
       "en": "'Happiest of greetings upon you! You have no idea how good it is to see a face that's not of goblin-kind.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502858",
+      "id": 173025368,
       "en": "Talk to Igerna",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a91",
+      "id": 148970129,
       "en": "Another goblin camp!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011828",
+      "id": 184621096,
       "en": "Varbris said that Igerna went north to try to find from whence the goblins have been coming.\\n\\nYou should search the mountains north of Ritherstad in Pinnath Gelin for any signs of goblins or Igerna.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
+      "id": 190220630,
       "en": "'Igerna went north from here, towards the mountains, a few days ago. I hope she's safe and unharmed, but I fear the worst.\\n\\n'You should head that way if you're still determined to find her.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "Igerna managed to elude the goblins in a cave where her shredded pack was found and made visits to a couple of the local farmers. She was most recently seen heading north once more, chasing rumours of the goblins' origins, however she has not been seen for a few days.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "Igerna is waiting to speak with you in the goblin cave, in north-eastern Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a94",
+      "id": 148970132,
       "en": "Yet another cave!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a96",
+      "id": 148970134,
       "en": "Igerna is locked in a cage!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859429",
+      "id": 226858025,
       "en": "'Igerna went north from here, towards the mountains, a few days ago. I hope she's safe and unharmed, but I fear the worst.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a7",
-      "en": "'Happiest of greetings upon you, [placeholder]! You have no idea how good it i",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220455,
+      "en": "'Happiest of greetings upon you, [placeholder]! You have no idea how good it is to see a face that's not of goblin-kind. I pray you are friend and not foe?'\\n\\nYou explain that Lúmar sent you and her shoulder slump with relief, but then she winces at some pain in her side.\\n\\n'Umph, excuse me for not rising, my injury pains me greatly.'",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "On the Trail of Igerna",
+      "es": ""
+    },
+    {
+      "id": 184621522,
+      "en": "Whilst searching for Igerna, you discovered that goblins have made another camp at the foot of the mountains.\\n\\nYou should continue looking for Igerna in the goblin camp, in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 173025705,
+      "en": "Search for Igerna",
+      "es": ""
+    },
+    {
+      "id": 173025363,
+      "en": "Search the camp for Igerna",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "At the foot of the mountains, a well-carved cave has been allowing the Ronkrúm goblin tribe access to Pinnath Gelin. You should search the cave for Igerna.\\n\\nThe cave is at Krauzhaf, in north-eastern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 173025365,
+      "en": "Search the cave for Igerna",
+      "es": ""
     }
   ]
 }

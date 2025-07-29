@@ -2,64 +2,54 @@
   "id": 620873414,
   "txt": [
     {
-      "id": "0x4d39772",
+      "id": 80975730,
       "en": "Added for ([placeholder])\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e5c1f2",
+      "id": 132497906,
       "en": "Added for entity ([placeholder]) at ([placeholder])\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8ab762",
+      "id": 176863074,
       "en": "Added for Quest([placeholder]) Objective([placeholder])\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x228eece",
+      "id": 36237006,
       "en": "[placeholder][placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf2703b",
+      "id": 217215035,
       "en": "Found a position in the same block, removing the radius and flagging as \\qentire landblock\\q, other position was:\\n  [placeholder]\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1961812",
+      "id": 26613778,
       "en": "Added for entity ([placeholder]) on content layers ([placeholder])\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73403f2",
+      "id": 120849394,
       "en": "Added for Quest([placeholder]) Objective([placeholder]) EventOrder([placeholder])\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x922d5ed",
+      "id": 153277933,
       "en": "Added from QuestEvent Locations for ([placeholder]) [placeholder]\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5dd7de2",
+      "id": 98401762,
       "en": "Included for ([placeholder]) at ([placeholder])\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda430e4",
+      "id": 228864228,
       "en": "  [placeholder]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

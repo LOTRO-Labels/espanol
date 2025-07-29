@@ -2,76 +2,89 @@
   "id": 621079480,
   "txt": [
     {
-      "id": "0xb011828",
+      "id": 184621096,
       "en": "Lúmar has asked you to search for signs of Igerna and speak to Nordach at Winbury.\\n\\nWinbury is in northern Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
+      "id": 190220630,
       "en": "'I must stay here to receive reports from the rest of my scouts. We are working hard alongside the Knights to ensure that the king's visit is untroubled. Will you go east to Winbury and speak with Nordach? He may have seen or spoken with Igerna!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "The vineyards of Pinnath Gelin are renowned for producing the finest wines and spirits. One of this year's delicate crops is playing host to a most unwelcome guest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11af1",
+      "id": 148970225,
       "en": "Defeated beetles ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0119b2",
+      "id": 184621490,
       "en": "You should let Nordach know that you have helped to clear the Winbury vineyards of beetles.\\n\\nNordach is at Winbury.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502830",
+      "id": 173025328,
       "en": "Defeat beetles ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502833",
+      "id": 173025331,
       "en": "Return to Nordach",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859444",
+      "id": 226858052,
       "en": "'I must stay here to receive reports from the rest of my scouts. We are working hard alongside the Knights to ensure that the king's visit is untroubled.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "Beetles Among the Vines",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859445",
+      "id": 226858053,
       "en": "'Stay where you are! We don't need any more trouble here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688d6",
+      "id": 190220502,
       "en": "TBD - 'Who are you? Have you come to help?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a9",
-      "en": "'Stay where you are! We don't need any more trouble here!'\\n\\nYou assure Nordach that you're here to help and tell h�",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220457,
+      "en": "'Stay where you are! We don't need any more trouble here!'\\n\\nYou assure Nordach that you're here to help and tell him that Lúmar sent you.\\n\\n'He must be looking for Igerna, eh? She's not here, and I wish she was. My fields have been infiltrated by enormous beetles! They are eating up my precious grapes. You get rid of them for me, and I'll tell you what I know about Igerna.'",
+      "es": ""
+    },
+    {
+      "id": 173025312,
+      "en": "Talk to Nordach",
+      "es": ""
+    },
+    {
+      "id": 190220504,
+      "en": "'Thank goodness you came when you did! My harvest would have been devastated for the entire year, otherwise!\\n\\n'Right, I can breathe now and give you the answer you're looking for.'",
+      "es": ""
+    },
+    {
+      "id": 184621477,
+      "en": "TBD - FARM6Farmer has suggested you search FARM8 for signs of Ranger2 and Farmer8.\\n\\nFARM8 is in northeastern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 184621481,
+      "en": "Nordach seems to know where Igerna is, but won't share the information until you have helped clear his vineyards of an infestation of beetles.\\n\\nYou should defeat beetles at Winbury, in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 173025319,
+      "en": "TBD - Search FARM8 for Ranger2 or FARMER8",
+      "es": ""
     }
   ]
 }

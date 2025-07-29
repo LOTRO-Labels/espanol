@@ -2,40 +2,194 @@
   "id": 620970843,
   "txt": [
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'Did you pass through Cormallen as the rest of us did? The beauty of the area certainly renewed the spirits in these faint-hearted men.\\n\\n'We are close to Cair Andros now. Would you mind scouting the entrance to see what these men are up against? Report back to Duinhir for I must return north-east. I hope that we shall see each other again soon. Good luck.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d1",
+      "id": 190220753,
       "en": "'I am just a farmer from Lossarnach. I know the land, not war. If I pick up my sword, I will surely perish here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d3",
+      "id": 184621267,
       "en": "Duinhir and soldiers of Gondor can be found at the Host of the West encampment, on the border of North Ithilien and Dagorlad.\\n\\nYou should speak to some of those who have expressed concern with marching to the Black Gate.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502922",
+      "id": 173025570,
       "en": "Speak to the uncertain warrior",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a5",
+      "id": 190220709,
       "en": "'Alas, my friend, I can not bring myself to look past the deaths of my sons. I know their recklessness saved us in battle. I know that if they had not learned how to take down the Mûmakil, we would not be standing here today. Still, it pains me so to see such potential lost for all time. I can not keep going, knowing that my death would certainly be the undoing of my dear Rosfin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d4",
-      "en": "'The wind sweeping down the cliffs sounds o�",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220756,
+      "en": "'The wind sweeping down the cliffs sounds of voices. I can not sleep for Mordor taunts me. The hand of death, ever reaching out towards me. My legs refuse to move out from Ithilien. Once we cross the border, my time of this world is at an end. I am sorry.'",
+      "es": ""
+    },
+    {
+      "id": 246419832,
+      "en": "Aragorn can be found at the Host of the West encampment, on the border of North Ithilien and Dagorlad.\\n\\nYou should speak with Aragorn.",
+      "es": ""
+    },
+    {
+      "id": 173025574,
+      "en": "Speak to the injured warrior",
+      "es": ""
+    },
+    {
+      "id": 111477382,
+      "en": "Speak with Damrod",
+      "es": ""
+    },
+    {
+      "id": 190220712,
+      "en": "'Brave [placeholder], I have only heard of Mordor in tales from my mother, to keep me out of trouble, when I was a young lad. I am not much older now, as you can see. I am frightened, to be honest.' ",
+      "es": ""
+    },
+    {
+      "id": 190220759,
+      "en": "'Aragorn asks of me to lead the assault on Cair Andros? You know that I would do as he asks, and I shall do this for him as well. I shall see to it that Cair Andros returns to Gondor. I will lead these men to see that they do not die, that they see their loved ones again. Blackroot Vale shall not be a place of shame, but a place of heroic memories, befitting for the likes of Duilin and Derufin.\\n\\n'If you are to join us, I shall arrange for the ranger Damrod to guide us through the lands south-west of here. Let us depart soon. You may want to speak with Damrod when we arrive near the island fortress.'",
+      "es": ""
+    },
+    {
+      "id": 228284038,
+      "en": "'[placeholder], might I speak with you one moment? As we have passed through Ithilien, I look at these men and I see a horror growing behind their eyes. As we rest upon the border of Dagorlad, I have heard whispers of those unable to carry on, of those unable to move or bear arms.\\n\\n'I ask of you, seek out these men, and speak with them. Find what it is that stricken them so. I fear the closeness of Mordor is enough to bring most men to a halt.'",
+      "es": ""
+    },
+    {
+      "id": 173025622,
+      "en": "Speak to Duinhir at the Host of the West encampment",
+      "es": ""
+    },
+    {
+      "id": 173025577,
+      "en": "Speak with Duinhir",
+      "es": ""
+    },
+    {
+      "id": 173025625,
+      "en": "Speak to a scared warrior",
+      "es": ""
+    },
+    {
+      "id": 148970464,
+      "en": "The warrior is just a farmer and is too frightened to continue",
+      "es": ""
+    },
+    {
+      "id": 184621234,
+      "en": "The Field of Cormallen is in North Ithilien.\\n\\nYou should travel to the Field of Cormallen.",
+      "es": ""
+    },
+    {
+      "id": 51875092,
+      "en": "Aragorn learns of a group of the Enemy, camped inside the island fortress of Cair Andros.",
+      "es": ""
+    },
+    {
+      "id": 184621236,
+      "en": "Duinhir can be found near Cair Andros.\\n\\nYou should speak to Duinhir.",
+      "es": ""
+    },
+    {
+      "id": 148970467,
+      "en": "The warrior does not agree with Aragorn's plan",
+      "es": ""
+    },
+    {
+      "id": 173025585,
+      "en": "Travel to the Field of Cormallen",
+      "es": ""
+    },
+    {
+      "id": 148970469,
+      "en": "The warrior injured his ankle and believes he will just slow everyone down",
+      "es": ""
+    },
+    {
+      "id": 226858353,
+      "en": "'Might I speak with you one moment?'",
+      "es": ""
+    },
+    {
+      "id": 184621240,
+      "en": "Cair Andros is an island fortress in the Anduin River, bordering North Ithilien and Talath Anor.\\n\\nYou should scout the entrance of Cair Andros.",
+      "es": ""
+    },
+    {
+      "id": 226858354,
+      "en": "'Men, listen to me. If you are not able to tread further, then go!'",
+      "es": ""
+    },
+    {
+      "id": 148970472,
+      "en": "Duinhir, though uncertain, accepts the leadership of the Faint-hearted",
+      "es": ""
+    },
+    {
+      "id": 173025591,
+      "en": "Speak with Duinhir near Cair Andros",
+      "es": ""
+    },
+    {
+      "id": 173025593,
+      "en": "Scout the entrance of Cair Andros",
+      "es": ""
+    },
+    {
+      "id": 162883605,
+      "en": "'I see, these are young men with little time in battle, farmers who till the land, longing for their loved-ones, and those who still grieve amongst all the bloodshed they have witnessed.'\\n\\nAragorn looks around the encampment with gazing eyes that are both commanding yet full of pity.\\n\\n'Men, listen to me. If you are not able to tread further, then go! I ask of you on this day, keep your honour and do not run! Instead, make way south-west for Cair Andros. It is still held by the Enemy. Lessen any shame, retake the island fortress, and hold it to the very last!'\\n\\nThe men understand and nod. Aragorn turns back to you and speaks in a softer tone.\\n\\n'Many of these men who depart are not leaders, nor could I ever ask them to lead. Duinhir however, is a lord. You are Duinhir's friend. Speak with him and see if he is willing to lead these men to Cair Andros for me. You may assist him, if you wish, but I need you back here as soon as you are able.'",
+      "es": ""
+    },
+    {
+      "id": 148970432,
+      "en": "The entrance to the island is heavily guarded",
+      "es": ""
+    },
+    {
+      "id": 148970483,
+      "en": "Damrod suggests the Faint-hearted camp at the Field of Cormallen",
+      "es": ""
+    },
+    {
+      "id": 246419720,
+      "en": "Duinhir can be found at the Host of the West encampment, on the border of North Ithilien and Dagorlad.\\n\\nYou should speak with Duinhir.",
+      "es": ""
+    },
+    {
+      "id": 148970391,
+      "en": "Duinhir is still shattered after the loss of his sons",
+      "es": ""
+    },
+    {
+      "id": 190220741,
+      "en": "'The entrance is heavily guarded. I suppose we shall need to be as stealthy as we can be before a full-on assault is possible.'",
+      "es": ""
+    },
+    {
+      "id": 246419863,
+      "en": "Damrod can be found to the north-east of Cair Andros at Caladuil.\\n\\nYou should speak to Damrod.",
+      "es": ""
+    },
+    {
+      "id": 148970486,
+      "en": "Duinhir shows renewed strength in his role as a leader of these men",
+      "es": ""
+    },
+    {
+      "id": 111477270,
+      "en": "Speak with Aragorn at the Host of the West encampment",
+      "es": ""
+    },
+    {
+      "id": 126754721,
+      "en": "The Faint-hearted",
+      "es": ""
     }
   ]
 }

@@ -2,70 +2,59 @@
   "id": 620901078,
   "txt": [
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Reeve Ingbert in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'You have seen how divided my house is, [placeholder]. However, I think Ingmar had the right of it when he said that you, a stranger, could perhaps give wiser counsel than they, for you are not so close to the situation.\\n\\n'Will you speak with both my mother and Ingmar? Learn their positions more closely and determine the wisdom of their arguments. Perhaps then you might advise me. My own feelings interfere with my thoughts.'\\n\\n<rgb=#FF0000>You should accept both Support Góda and Support Ingmar to learn their positions, but you may only complete one of them. Which quest you complete will determine who you will support throughout the story arc.</rgb> <rgb=#00FF00>The choice is for role-playing purposes only.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'So, you have heard their arguments and have come to a conclusion?'\\n\\nIngbert listens patiently while you impart your counsel.\\n\\n'Indeed, I believe you are correct. It is disheartening to be forced to choose whom loyalty shall be granted, but I must agree with your counsel.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Counselling Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You witnessed a debate between Reeve Ingbert, his son Ingmar, and his mother Góda...a debate that accomplished little.\\n\\n<rgb=#FF0000>You should accept both Support Góda and Support Ingmar to learn their positions, but you may only complete one of them. Which quest you complete will determine who you will support throughout the story arc.</rgb> <rgb=#00FF00>The choice is for role-playing purposes only.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Completed Support Góda",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Completed Support Ingmar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Complete Support Góda",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Lord Ingmar and Lady Góda are within the Mead Hall of Eaworth.\\n\\nReeve Ingbert has asked you to speak with both Lady Góda and Lord Ingmar to learn their positions, so that you may better advise him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Complete Support Ingmar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Reeve Ingbert awaits you in the Mead Hall of Eaworth.\\n\\nYou should return to Reeve Ingbert and give him your counsel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

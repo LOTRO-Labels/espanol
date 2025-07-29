@@ -2,496 +2,414 @@
   "id": 621065456,
   "txt": [
     {
-      "id": "0x6a50240",
+      "id": 111477312,
       "en": "Talk to Boromir inside Crossway House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'I have seen something like this before, [placeholder]. Well, I say \\qseen,\\q but I did not see it; say instead that I felt it, something dark and evil; it filled man and horse with dread. We stood in defence of the river at Osgiliath when this presence came upon us, and even the boldest among us were seized by a terrible fear. We cast down the bridge behind us, and only a few of us escaped.\\n\\n'I have never felt a fear like that before, [placeholder]. Some of my men claimed they saw the figure from which the terror spread... but I do not know if I believe it. Might that evil have come north from Gondor, somehow? I did feel as if I were being watched at times as I rode through the empty lands... or were they not as empty as they appeared?\\n\\n'I should speak with the old man the innkeeper mentioned. If his story matches those of my soldiers... that will tell me something of the evil that came to Herne.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50241",
+      "id": 111477313,
       "en": "Talk to Maddoc inside Crossway House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50242",
+      "id": 111477314,
       "en": "Talk to Meneldir inside Crossway House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'If this man speaks true, it sounds as if some evil came to Herne... but what could it have been?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50243",
+      "id": 111477315,
       "en": "Talk to Aberthol inside his home in the northern part of Herne",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Some evil passed through Herne, but the ill feeling remained behind? What does it mean?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'I hope you won't use old Aberthol too harshly. He is something of a peculiar fellow, but despite his strangeness most of Herne's folk are quite fond of him... and he has always brought his custom to Crossway House, which I appreciate.\\n\\n'Let me give you a mug of his favourite spiced beer. It may loosen his tongue. To be truthful, that is not usually a problem for our Aberthol, but he might not want to speak about whatever happened to him that night. The beer may make him more willing to talk with you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Herne is located north-west of Tharbad, along the Old South Road.\\n\\nMeneldir told you that when he last came this way, the inn at the cross-road was a pleasant house of refreshment for travellers, and should be still.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50245",
+      "id": 111477317,
       "en": "Set the mug of spiced beer on Aberthol's table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'I should speak with the old man the innkeeper mentioned. If his story matches those of my soldiers... that will tell me something of the evil that came to Herne.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7d2bd95",
+      "id": 131251605,
       "en": "Aldyth's House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb33e215",
+      "id": 187949589,
       "en": "Crossway House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'If this man speaks true, it sounds as if some evil came to Herne... but what could it have been? And is it the same presence Boromir describes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Our first destination will be the town of Herne, a village of farmers and traders that grew up at a crossing of the ways to the north-west of here, where the Greenway coming south meets with the road coming north out of Enedwaith. When last I came this way, the tavern at Herne was a pleasant enough place, although it could not truly compete with the Prancing Pony for entertainment and company. Crossway House it was called, a two-story building near the south gate.\\n\\n'Let us be off.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50247",
+      "id": 111477319,
       "en": "Talk to Aberthol inside his home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'Some evil passed through Herne, but the ill feeling remained behind? What does it mean?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50248",
+      "id": 111477320,
       "en": "Introduce Boromir to Aberthol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "Something is not right in the town of Herne.\\n\\nPerhaps one of the residents of the town can explain what has happened.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50249",
+      "id": 111477321,
       "en": "Introduce Egfrith to Aberthol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d148",
+      "id": 24695112,
       "en": "The town of Herne lies at the cross-road north-west of Tharbad, and the inn there is a popular destination for travellers on the Old South Road.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'These tavern names are so quaint. Crossway House? Prancing Pony? None of them will compare to the Mûmak and Keep of my city.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Something is not right in the town of Herne.\\n\\nPerhaps one of the residents of the town can explain what has happened.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'To Herne, then! Am I saying that correctly?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Something is not right in the town of Herne.\\n\\nPerhaps one of the residents of the town can explain what has happened.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "Something is not right in the town of Herne.\\n\\nPerhaps one of the residents of the town can explain what has happened.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Find the south-east entrance of the town of Herne, along the road north-west of Tharbad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Talk to the nearby townsman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Crossway House, the inn at the cross-road, is near the southern road that passes through Herne.\\n\\nSomething happened at Herne that has upset the townspeople. Perhaps answers await inside Crossway House, the inn at the cross-road.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'I don't want any trouble! Can you just leave me alone?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "Talk to the nearby townsman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'You had better leave, stranger. This is a bad time to pass through Herne! Trust me when I tell you this!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50254",
+      "id": 111477332,
       "en": "Talk to the nearby townswoman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "Maddoc, the innkeeper of Crossway House, stands behind the counter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'You and your friends might want to keep walking, stranger. Herne is not the place it once was, and you will not find welcome here.'\\n\\nYou ask the innkeeper what happened to the town, and he frowns, shaking his head.\\n\\n'Four nights ago, something... evil... passed through the centre of Herne. No one knows exactly what it might have been, but every night since a terrible fear has seized the town. Old man Aberthol says he saw something that first night, but... I don't know. He was an adventurer in his younger days, but he has such a reputation for tale-spinning that it has always been hard to tell the truths from the falsehoods in his stories.\\n\\n'But something happened that night, and the town has not been the same ever since. You had best be moving on, you and your friends, before the dark comes again.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50256",
+      "id": 111477334,
       "en": "Talk to the nearby townswoman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'There is not much cheer to be found here, it seems.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1152",
+      "id": 177082706,
       "en": "You call for Boromir and Egfrith to join you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50257",
+      "id": 111477335,
       "en": "Enter Crossway House, the tavern of Herne, in search of answers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'An ill feeling has settled upon the whole town. It was not like this when last I came this way.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'Are all taverns in the north so... quiet?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50259",
+      "id": 111477337,
       "en": "Talk to Maddoc inside Crossway House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Boromir stands within Crossway House.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1155",
+      "id": 177082709,
       "en": "Maddoc clears his throat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1156",
+      "id": 177082710,
       "en": "Maddoc gives you a mug of beer that smells strongly of cinnamon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1157",
+      "id": 177082711,
       "en": "Maddoc tells you how to find Aberthol's home in the northern part of Herne",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x802bd95",
+      "id": 134397333,
       "en": "Bledri's House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a1",
+      "id": 162883745,
       "en": "'Maybe I had better know the names of your companions.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a3",
+      "id": 162883747,
       "en": "'I speak to no one!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01194",
+      "id": 246419860,
       "en": "Maddoc, the innkeeper of Crossway House, stands behind the counter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a5",
+      "id": 162883749,
       "en": "'I have not had any visitors in quite some time. What brings you to my home? You... you want to hear about... about the crawling darkness?'\\n\\nAberthol shakes in his chair, and then takes a bracing gulp from the mug of beer.\\n\\n'Maybe I had better know your names. Who are these companions you bring with you?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a7",
+      "id": 162883751,
       "en": "'Boromir, you say? Surely you are not the same Boromir who is the son of the Steward of Gondor? Some twenty years ago I travelled in the south-lands, adventuring, you know, and I had the privilege of meeting the Steward. I remember his sons, both of lordly mien; you do bear a resemblance to the elder of the two! But you travel now in secret, it seems. I will say no more of it. A Guard of the Citadel, if not its Captain, in my own home! I can hardly believe it.\\n\\n'And Egfrith, a proud woman of Rohan! In the days of my youth, I rode across the Riddermark at joyful gallop. Is Théoden still King of Rohan? It was a beautiful land, and he was stern but strong, loved by his people and respected by his foes. It must still be so.'\\n\\nThe set of Egfrith's jaw tightens, but she says nothing. Aberthol continues.\\n\\n'I will tell you what happened to me. With such fine protectors in my home, what have I to fear?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1164",
+      "id": 177082724,
       "en": "Aberthol eyes you nervously",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01199",
+      "id": 246419865,
       "en": "Meneldir stands inside Crossway House.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1166",
+      "id": 177082726,
       "en": "Aberthol grins. 'Now that's different,' he says",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50270",
+      "id": 111477360,
       "en": "Talk to Aberthol inside his home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "'You go with Boromir and Egfrith to speak with this man, [placeholder]. I will ask around Herne to see what else I can learn about what happened here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b1",
+      "id": 162883761,
       "en": "'Some evil came to Herne. Is it the same as that encountered by Boromir in Gondor?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea006c5",
+      "id": 245368517,
       "en": "Aberthol's House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "'I should speak with this old man and learn what he encountered.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a3",
+      "id": 246419875,
       "en": "Aberthol lives in the northern part of Herne.\\n\\nMaddoc told you something happened to Aberthol four nights ago, and the old man may speak to you about it, if you loosen his lips with a mug of his favourite spiced beer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b4",
+      "id": 162883764,
       "en": "'Why have you come to bother me? I speak to no one!\\n\\n'Not since...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b5",
+      "id": 162883765,
       "en": "'You go with Boromir and Egfrith to speak with this man, [placeholder]. I will ask around Herne to see what else I can learn about what happened here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1170",
+      "id": 177082736,
       "en": "The air is silent, the wind still. Where are the guards?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b6",
+      "id": 162883766,
       "en": "'I will go with you and Boromir to speak with this man.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b7",
+      "id": 162883767,
       "en": "'I must speak with this man and learn what befell him.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1172",
+      "id": 177082738,
       "en": "The man stares at you with suspicious eyes and hurries for his home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b8",
+      "id": 162883768,
       "en": "'I hope Aberthol will speak with you, and perhaps you can ease his mind.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'Aberthol lives in the northern section of our town. Treat him kindly, please. We are very fond of him, despite his strangeness.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1175",
+      "id": 177082741,
       "en": "Like her neighbour, the woman glares at you and hurries home",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1178",
+      "id": 177082744,
       "en": "The inside of the inn is dark and quiet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b0",
+      "id": 246419888,
       "en": "Aberthol waits for you to introduce him to your companions.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b2",
+      "id": 246419890,
       "en": "A mug of spiced beer, set on his table, may encourage Aberthol to tell you what happened to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "Aberthol is inside his home, considering you, your companions, and the mug of spiced beer you brought him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b6",
+      "id": 246419894,
       "en": "Aberthol, apparently awestruck by his visitors, is now willing to tell you his story.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56871",
+      "id": 162883697,
       "en": "'I don't want any trouble! Can you just leave me alone?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56873",
+      "id": 162883699,
       "en": "'Our first destination will be the town of Herne, a village of farmers and traders that grew up at a crossing of the ways to the north-west of here, where the Greenway coming south meets with the road coming north out of Enedwaith.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56874",
+      "id": 162883700,
       "en": "'Four nights ago, something... evil... passed through the centre of Herne. No one knows exactly what it might have been, but every night since a terrible fear has seized the town. Old man Aberthol says he saw something that first night, but... I don't know. He was an adventurer in his younger days, but he has such a reputation for tale-spinning that it has always been hard to tell the truths from the falsehoods in his stories.\\n\\n'But something happened that night, and the town has not been the same ever since. You had best be moving on, you and your friends, before the dark comes again.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Book 2, Chapter 5: Crossway House",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

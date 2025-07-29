@@ -2,52 +2,169 @@
   "id": 621078108,
   "txt": [
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "The Elf-warrior Sigileth has answered your call",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'While you wait for your friend to arrive, perhaps you will help me with my own task? I have been ordered to make safe the Blackroot Vale, and I could use your help with that, as before and as always!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Crew: She Who Remained",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Look for Sigileth somewhere on the road to the Dark Door, north of Morlad in King's Gondor West",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "Talk to Sigileth on the road to the Dark Door in the Blackroot Vale, in King's Gondor West",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Rovalang by the road to the Dark Door in the Blackroot Vale, in King's Gondor West",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Talk to Rovalang by the road to the Dark Door in the Blackroot Vale, in King's Gondor West",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
-      "en": "'I am pleased to see you again, [placeholder]. King Elessar sent word that he will come in person to the Blackroot Vale after all, and I believe I have you to thank for that. It is important for the folk of Morlad and the wider Vale to see their king. But what brings you here now?'\\n\\nYou ask Duinhir if an Elf-warrior named Sigileth has come to Morlad, and he says that he has not seen anyone by that name or description come from the south. You shake your head, and tell the Lord of the Blackroot Vale that Sigileth would likely come from the north. He marvels at you in surprise.\\n\\n'From the north? Does that mean you expect this Elf-w",
-      "es": "",
-      "es (fem)": ""
+      "id": 228284034,
+      "en": "'I am pleased to see you again, [placeholder]. King Elessar sent word that he will come in person to the Blackroot Vale after all, and I believe I have you to thank for that. It is important for the folk of Morlad and the wider Vale to see their king. But what brings you here now?'\\n\\nYou ask Duinhir if an Elf-warrior named Sigileth has come to Morlad, and he says that he has not seen anyone by that name or description come from the south. You shake your head, and tell the Lord of the Blackroot Vale that Sigileth would likely come from the north. He marvels at you in surprise.\\n\\n'From the north? Does that mean you expect this Elf-warrior to come through the Paths of the Dead? I have not seen her, at any rate. If you go to the Dark Door perhaps you will intercept her on her way, but I find this hard to believe.'",
+      "es": ""
+    },
+    {
+      "id": 111477380,
+      "en": "Defeat foes in the Blackroot Vale, King's Gondor West ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 228284036,
+      "en": "'TBD - Blah!'",
+      "es": ""
+    },
+    {
+      "id": 228284037,
+      "en": "'Greetings to you.'",
+      "es": ""
+    },
+    {
+      "id": 228284039,
+      "en": "'What brings you once again to the Blackroot Vale, [placeholder]?'\\n\\nYou tell Rovalang that you are waiting for a friend to arrive, and you plan to ask her to join your crew on a secret mission to Umbar. The swan-knight nods, and looks as if he has some questions to ask. Then he smiles.\\n\\n'I will not press you any further on this, my friend, for a secret mission should remain secret, no matter how intriguing it may be for me to hear more of it! While you wait for your friend to arrive, perhaps you will help me with my own task? I have been ordered to make safe the Blackroot Vale, and I could use your help with that, as before and as always!'",
+      "es": ""
+    },
+    {
+      "id": 111477383,
+      "en": "Talk to Rovalang by the road to the Dark Door in the Blackroot Vale, in King's Gondor West",
+      "es": ""
+    },
+    {
+      "id": 111477384,
+      "en": "Wait for the newcomer to arrive",
+      "es": ""
+    },
+    {
+      "id": 228284041,
+      "en": "'TBD - Blah!'",
+      "es": ""
+    },
+    {
+      "id": 162883729,
+      "en": "'Thank you, my friend. It is always a pleasure to work alongside you!\\n\\n'But wait... someone comes!'",
+      "es": ""
+    },
+    {
+      "id": 51875089,
+      "en": "King Elessar suggested that you recruit Corudan's sister Sigileth for the mission to Umbar.",
+      "es": ""
+    },
+    {
+      "id": 246419840,
+      "en": "The Swan-knight Rovalang stands by the road to the Dark Door, in King's Gondor West.",
+      "es": ""
+    },
+    {
+      "id": 162883732,
+      "en": "'I did not expect to see you on the road, [placeholder]. I would have found you, just as we will now find my brother Corudan!'\\n\\nYou ask Sigileth if she truly passed through the Paths of the Dead on her way to the Blackroot Vale, and she looks at you quizzically.\\n\\n'I am no stranger to places of evil, my friend; my stay beneath the dungeons of Dol Guldur has seen to that. I was untroubled by the Paths of the Dead; any of the spirits that still dwell beneath the Mountain chose not to hinder my passage... a wise choice. Now, tell me what you have learned of Corudan's whereabouts. Time is wasting.'\\n\\nYou tell Sigileth, briefly, of what you know of her brother's captivity by Nakási Wave-reaper and the Kindred of the Coins, and of your plan to rescue him.\\n\\n'Your ship is docked at a lake to the west? I will meet you there, and sail with you to Umbar. My brother will be freed from captivity and death, just as I was when you thought me dead on the stairs of Dol Guldur. Let us not delay.'",
+      "es": ""
+    },
+    {
+      "id": 162883733,
+      "en": "'This is quite a tale!'",
+      "es": ""
+    },
+    {
+      "id": 216727827,
+      "en": "If you really expect Sigileth to pass through the Paths of the Dead, you should look for her on the road to the Dark Door, north of Morlad in the Blackroot Vale, in King's Gondor West.",
+      "es": ""
+    },
+    {
+      "id": 246419842,
+      "en": "Someone approaches from the direction of the Dark Door.",
+      "es": ""
+    },
+    {
+      "id": 246419843,
+      "en": "Sigileth has come to the Blackroot Vale, in King's Gondor West, in search of her brother Corudan.",
+      "es": ""
+    },
+    {
+      "id": 162883735,
+      "en": "'This sounds like quite the adventure, [placeholder]! I would go with you, but I am commanded by my Prince to make safe the Vale, and I have never desired to do other than that.\\n\\n'Good fortune go with you on your voyage, my friend. I hope you accomplish all that you set out to do.'",
+      "es": ""
+    },
+    {
+      "id": 162883736,
+      "en": "'I will meet you at your ship when the time comes to depart.'",
+      "es": ""
+    },
+    {
+      "id": 216727830,
+      "en": "The Swan-knight Rovalang stands by the road to the Dark Door, in King's Gondor West.",
+      "es": ""
+    },
+    {
+      "id": 162883737,
+      "en": "'You really expect this Elf-warrior to come through the Paths of the Dead? I have not seen her, at any rate. If you go to the Dark Door perhaps you will intercept her on her way, but I find this hard to believe.'",
+      "es": ""
+    },
+    {
+      "id": 246419846,
+      "en": "The Swan-knight Rovalang stands by the road to the Dark Door, in King's Gondor West.",
+      "es": ""
+    },
+    {
+      "id": 216727832,
+      "en": "TBD - Blah!",
+      "es": ""
+    },
+    {
+      "id": 177082770,
+      "en": "Sigileth of the Hidden Guard, she who remained, has joined your crew!",
+      "es": ""
+    },
+    {
+      "id": 246419859,
+      "en": "The Swan-knight Rovalang asked for your help making safe the Blackroot Vale in King's Gondor West.",
+      "es": ""
+    },
+    {
+      "id": 177082785,
+      "en": "Sigileth is not here, but you have found a friendly face: the Swan-knight Rovalang",
+      "es": ""
+    },
+    {
+      "id": 177082789,
+      "en": "Defeated foes in the Blackroot Vale for Rovalang ([placeholder]/[placeholder])",
+      "es": ""
     }
   ]
 }

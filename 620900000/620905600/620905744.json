@@ -2,130 +2,109 @@
   "id": 620905744,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You should whistle for the horse you met earlier, now that you have found his lost master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "The horse you met appears, clearly relieved to be reunited with his master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Léofmar will be all right. It would be wise to continue your search for sleeping Ents",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Léofmar is ashamed of his behaviour, wracked by guilt. Could his crimes have been so great that he deserves the curse he believes is coming to claim him?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I will tell you my tale of woe, [placeholder], but I promise that you will wish to undo all of the kindness that you have done for me when you hear of my cowardice.\\n\\n'Let me tell you first that I am no soldier. I have never been a brave man. My duties in my home called me to take the city-watch for a night, and I did that duty at least, but I am ashamed to speak of what came after....'\\n\\n<rgb=#FF0000>NOTE: This is a solo instance, and cannot be completed in a fellowship.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Léofmar is in Fangorn.\\n\\nYou should speak with Léofmar and hear his tale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "Another Ent sleeps here, surrounded by smoke, fires, and grief. What harries this poor creature's home?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Léofmar is in Fangorn.\\n\\nYou should speak with Léofmar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "You should <rgb=#FF0000>whistle</rgb> for Léofmar's horse.\\n\\nYou must be standing near Léofmar in order to do this.\\n\\n<rgb=#FF0000>You must perform an emote to advance this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'I will tell you all, [placeholder]. You will regret ever helping me; I know it.'\\n\\n<rgb=#FF0000>NOTE: This is a solo instance, and cannot be completed in a fellowship.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'I rode my horse to the edge of the wood, but I would not let him follow me inside. I came here to hide... and to die. My poor steed should not meet the fate of a coward.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Léofmar is in Fangorn.\\n\\nYou should talk to Léofmar once more.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "Léofmar's horse has responded at once to your summons, ready and willing to bear his master to safety.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'My steed! I cannot believe it, [placeholder]. I cannot believe that you found him. I had not even hope that he was near, the foolish beast.'\\n\\nYou tell Léofmar of the small boating camp on the edge of Fangorn, where he will likely be welcomed with his bow and arrows.\\n\\n'I will go there now, [placeholder]; thank you. I am blessed, not cursed, to have so many good folk and creatures looking after me. I will not be afraid anymore.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "You should search for other sleeping Ents in the forest, heading north-east from Léofmar's location.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Listen to Léofmar's tale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Reassure Léofmar that you do not think his crime so terrible",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>Whistle</rgb> for Léofmar's horse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Léofmar again",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Pain of Regret",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Find a new sleeping Ent in the north",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

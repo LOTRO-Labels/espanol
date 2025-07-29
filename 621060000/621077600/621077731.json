@@ -2,40 +2,74 @@
   "id": 621077731,
   "txt": [
     {
-      "id": "0xb568927",
+      "id": 190220583,
       "en": "'Greetings. You say the Lady Lothíriel sent you? I am not sure if this means she trusts you or wishes to punish you.'\\n\\nThe knight chuckles slightly to themself.\\n\\n'Oh, it's nothing so bad... it just might not be the most enjoyable of tasks. You see, we were successful in driving the invading Corsairs out of Hashadir, but while they fled, they left behind a most undesirable surprise - rats. Rats of the most unusual size, even. Who knew rats could grow so large?\\n\\n'In any case, our tasks here in Dol Amroth have kept us from cleaning them out, but if you are willing to do so, there is a reward.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "The vermin who have taken up residence at Hashadir stand to pose a serious threat to the citizens of Dol Amroth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b61",
+      "id": 148970337,
       "en": "Defeated frothing Hashadir rats ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "You should let Abartârik know that you defeated many rats at Hashadir.\\n\\nAbartârik is in Dol Amroth outside of the Swan-knight's Keep.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b63",
+      "id": 148970339,
       "en": "Defeated scurrying Hashadir rats ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568913",
-      "en": "'Though my father has returned to the governance of Dol Amroth, I am still much involved in seeing to the city's many duties and tasks. One of those tasks is receiving daily reports from our swan-knights who patrol the countryside.\\n",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220563,
+      "en": "'Though my father has returned to the governance of Dol Amroth, I am still much involved in seeing to the city's many duties and tasks. One of those tasks is receiving daily reports from our swan-knights who patrol the countryside.\\n\\n'A recent report on the state of Hashadir has given me cause for concern. I ask that you speak with Captain Abartârik about what they found there. I think you could be of help. You will find Abartârik near the Swan-knight's Keep, probably seeing to the training of their fellow soldiers.'",
+      "es": ""
+    },
+    {
+      "id": 184621145,
+      "en": "Abartârik has asked you to help drive out the rat population that has erupted in Hashadir.\\n\\nHashadir is south of Dol Amroth.",
+      "es": ""
+    },
+    {
+      "id": 173025696,
+      "en": "Defeat frothing Hashadir rats ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 173025698,
+      "en": "Defeat scurrying Hashadir rats ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 190220546,
+      "en": "'Thank you for taking care of our vermin problem. I know it's not a pleasant task, but they often carry disease and can be a great risk to our citizens.'",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "Scurrying Scamps",
+      "es": ""
+    },
+    {
+      "id": 173025752,
+      "en": "Talk to Abartârik",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "Lothíriel has asked you to speak with Abartârik to see what they discovered at Hashadir.\\n\\nAbartârik is in Dol Amroth outside of the Swan-knight's Keep.",
+      "es": ""
+    },
+    {
+      "id": 173025779,
+      "en": "Return to Abartârik",
+      "es": ""
     }
   ]
 }

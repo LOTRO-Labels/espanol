@@ -2,52 +2,79 @@
   "id": 621080287,
   "txt": [
     {
-      "id": "0xf00e062",
+      "id": 251715682,
       "en": "Return to Cúronel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502859",
+      "id": 173025369,
       "en": "Collect boar belly ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011828",
+      "id": 184621096,
       "en": "Cúronel has asked you to bring her boar belly meat from healthy boars and to put down diseased boars at her farm, Munadhor Farm in Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
+      "id": 190220630,
       "en": "'Greetings, traveller. I am Cúronel, and I am sorry I can not welcome you fully to our farm. It has sadly been overrun by boars and brigands, and without my husband about to help drive them off, we have had to abandon our home. I have come here with my husband's mother to see if they've moved on, but no, they've made themselves quite at home... at our home.\\n\\n'If you are going on ahead, will you bring me back cuts of boar meat? The fatty belly meat, in particular. I can prepare it so that it will last a good long time, and help see us through this. But take care, some of the boars seem to be ailing and their meat would be foetid. Just put those ones down, but bring boar belly from the others.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "Boar belly is a fatty cut of meat which, when cured with spices and herbs, is added to many popular dishes in Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "You should return to Cúronel with the boar belly pieces that you gathered.\\n\\nCúronel is at Munadhor Farm, in central Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859456",
+      "id": 226858070,
       "en": "'Greetings, traveller. I am Cúronel, and I am sorry I can not welcome you fully to our farm.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859457",
-      "en": "'I like braised boar belly, but �",
-      "es": "",
-      "es (fem)": ""
+      "id": 226858071,
+      "en": "'I like braised boar belly, but mother likes when I prepare it with herbs and wine, and roll it with twine and then bake it until crispy.",
+      "es": ""
+    },
+    {
+      "id": 190220497,
+      "en": "'You come bearing boar belly? Ah, how wonderful. I would not have been able to gather so much on my own. I will make mother's favourite dish tonight with some of this, and prepare the rest for curing.\\n\\n'You have my thanks!'",
+      "es": ""
+    },
+    {
+      "id": 226858072,
+      "en": "'You come bearing boar belly? Ah, how wonderful. I will make mother's favourite dish tonight.'",
+      "es": ""
+    },
+    {
+      "id": 148970208,
+      "en": "Collected boar belly ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 190220501,
+      "en": "'I like braised boar belly, but mother likes when I prepare it with herbs and wine, and roll it with twine and then bake it until crispy. I admit, I do also enjoy it prepared as such. At least these boars will be useful, especially if we can drive them out before they do too much damage.'",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "Braised Boar Belly",
+      "es": ""
+    },
+    {
+      "id": 148970212,
+      "en": "Put down diseased boars ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 173025315,
+      "en": "Put down diseased boars ([placeholder]/[placeholder])",
+      "es": ""
     }
   ]
 }

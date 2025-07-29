@@ -2,118 +2,99 @@
   "id": 621010072,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'Hail, [placeholder]. What tidings bring you from Erebor?'\\n\\nYou tell King Thranduil that Vethúg Wintermind has not come to Erebor and King Thorin III has begun to question the visions granted to you by the Green Lady.\\n\\n'Tárasánë is of the Uttermost West, but neither her designs nor those of her lord are known to me. I can offer no counsel on such matters, but I know one who may.\\n\\n'The Lady Galadriel of Lórien possesses a sight beyond all others, and she would know well if such a foe came unbidden to the old fortress of the Enemy.\\n\\n'Go to her Court among the highest flets of Caras Galadhon. She will have the answers you seek -- be they good or ill.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "You have entered the Court of Celeborn and should now speak to Lady Galadriel!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "The Court of Celeborn can be found within Caras Galadhon.\\n\\nKing Thranduil has asked you to seek the counsel of Lady Galadriel in Caras Galadhon.\\n\\n\\n<rgb=#FF0000>NOTE: If you have not previously entered Caras Galadhon, you may use a rope near the entrance to enter the city. If you have not begun the Court of Lothlórien allegiance, you may speak to one of the Galadhrim beneath the great mallorn in the centre of Caras Galadhon to enter the Court of Celeborn.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Talk to Lady Galadriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Lady Galadriel can be found in the Court of Celeborn.\\n\\nYou have come to the Court of Celeborn and should now seek Lady Galadriel's counsel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'Hail, [placeholder]. I had heard you travelled far to the North into the lands of the Bardings and Durin's Folk. Was that not so?'\\n\\nYou tell Lady Galadriel that you adventured among the strongholds of the North, but in your search for the Weeping Warrior, your path became unclear. You encountered a powerful being of the Uttermost West known as the Green Lady, and she granted you three visions, one of which suggested that the Weeping Warrior had returned to Dol Guldur.\\n\\n'We will speak of the tale you told me, [placeholder], but first I must offer you this new knowledge. Dol Guldur is no longer named as such among my people. It is now named Dol Dhannen, or the Hill of Ruin in the Common Speech. The Elves of Lórien have kept watch on the ruins of the tower, but its pits are laid bare and no evil that passes beneath the trees is hidden to us. I do not doubt your words, but it would be nigh impossible for one of the Gúrzyul to pass unnoticed into Dol Dhannen.\\n\\n'Yet, you speak of one of the Uttermost West who bid you return to Dol Dhannen. This I cannot so idly overlook.\\n\\n'Let us descend to my garden, and there I shall command the Mirror to reveal what it may of Dol Dhannen and Karazgar.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Travel to Galadriel's Garden",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Galadriel's Garden can be found in the south-eastern reaches of Caras Galadhon.\\n\\nLady Galadriel has decided to consult the Mirror of Galadriel to determine if Karazgar has indeed returned to Dol Guldur.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "Lady Galadriel stands beside the Mirror...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01188",
+      "id": 246419848,
       "en": "Lady Galadriel is standing in her garden.\\n\\nYou have arrived at Galadriel's Garden and should now speak to Lady Galadriel and learn what she has seen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Talk to Lady Galadriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'Do you wish to know what I have seen?\\n\\n'I commanded the Mirror to reveal the pits of Dol Dhannen, and I beheld only ruin. It showed beasts scavenging in the wreckage of the Tower and Orcs lost in darkness, but I saw naught of the one named Karazgar.\\n\\n'You have come seeking my counsel, but I do not give counsel. The Mirror has shown me what I commanded, but have I seen things as they truly are? One of the Uttermost West would not grant such a vision without cause, and you have travelled far in search of this Man.\\n\\n'You will not go to Dol Dhannen alone, [placeholder]. We shall return to that place together.'\\n\\n\\n<rgb=#FF0000>Next week: 'Whispers in the Pits'</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Ah! It is good that you have come, [placeholder].\\n\\n'It is a difficult matter to trust in the truth of such strange visions, and though I do not doubt your character or resolve, I fear that we have been misled. Vethúg has not flown from the Grey Mountains, Karazgar is wounded and lost, and it seems we have needlessly readied ourselves for a battle that will not come. We should enjoy such a peace while we can, and instead, thoughts of terror cloud the minds of many in the North.\\n\\n'The Green Lady you spoke of... the Elvenking once knew her, did he not? Has she been a friend to the Elves? Are her words true, or are they mere riddles?\\n\\n'I ask that you seek an audience with King Thranduil and hear his counsel. If there is no longer any need to fear, I would not have our peoples live as if the War were not ended.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d14",
+      "id": 51875092,
       "en": "Concerned that none of the visions granted to you by the Green Lady have come to pass, King Thorin III has asked you to seek the guidance of King Thranduil.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5026",
+      "id": 225071142,
       "en": "Talk to King Thranduil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Lady and the Mirror",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0111",
+      "id": 216727825,
       "en": "King Thranduil can be found within Felegoth.\\n\\nConcerned that none of the visions you were granted have come to pass, King Thorin III has asked you to seek King Thranduil's counsel on what is to be done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Travel to Caras Galadhon and seek Lady Galadriel in the Court of Celeborn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

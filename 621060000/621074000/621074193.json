@@ -2,58 +2,294 @@
   "id": 621074193,
   "txt": [
     {
-      "id": "0x79f5e65",
+      "id": 127884901,
       "en": "You have failed to protect Caebar!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'You are here on the King's business. You are not here to listen to the ramblings of a sad old man. Speak to the people of Morlad. Do what you came to do.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'You dare speak to me, after bringing such death to Morlad? I will not stand for this!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1197",
+      "id": 177082775,
       "en": "Inconvenienced Ruthless Dead in the Blackroot Vale ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Do what you came here to do.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'Oh, am I glad to see you, [placeholder]! A gang of toughs surprised me a few minutes ago and I had to run and hide. What if they come back?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Caebar stands at the base of the Hill of Erech, in King's Gondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Do what you came here to do, then.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
-      "en": "'I do not wish to climb this hill again, [placeholder]; the memory is grim. When last we stood atop the summit, a great host gathered about King Elessar. They were those who broke their oath to Isildur, and they came to his descendant that they might fulfil it, and have peace.\\n\\n'Many were the shades of dead Men that followed in our train when we departed Erech, and they were the fighters who wrested control of Pelargir for the Grey Host. Without this army of the Dead, we could not have seized the Corsair ships that bore u�",
-      "es": "",
-      "es (fem)": ""
+      "id": 228284034,
+      "en": "'I do not wish to climb this hill again, [placeholder]; the memory is grim. When last we stood atop the summit, a great host gathered about King Elessar. They were those who broke their oath to Isildur, and they came to his descendant that they might fulfil it, and have peace.\\n\\n'Many were the shades of dead Men that followed in our train when we departed Erech, and they were the fighters who wrested control of Pelargir for the Grey Host. Without this army of the Dead, we could not have seized the Corsair ships that bore us to the Harlond, and Minas Tirith.\\n\\n'The shades who gathered about King Elessar atop this Hill redeemed their oath, and recovered their honour. Should that make it pleasing to recall for we who were there? I do not believe it does. Speak with Caebar and Gimli, and afterwards we will proceed to Morlad on King Elessar's business.'",
+      "es": ""
+    },
+    {
+      "id": 111477408,
+      "en": "Talk to the surly Morlad resident down the hill to the north",
+      "es": ""
+    },
+    {
+      "id": 162883720,
+      "en": "'Do what you came here to do, then.'",
+      "es": ""
+    },
+    {
+      "id": 216727830,
+      "en": "Gimli stands at the base of the Hill of Erech, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 111477409,
+      "en": "Talk to the angry Morlad resident down the hill to the east",
+      "es": ""
+    },
+    {
+      "id": 228284036,
+      "en": "'This story that Legolas and Gimli speak about... it fills me with fright, [placeholder]! I am gratified to learn that the King made use of the shades that betrayed his mighty forebear, and so gave them the redemption that was once denied them, but...'\\n\\nCaebar frowns deeply and casts nervous glances toward the summit of the Hill of Erech.\\n\\n'You say that some of the shades did not fight on behalf of the King? How ruthless must those dead Men now be, knowing there is to be no redemption for them? How much must they hate the living, now that the chance for peace has come and passed them by?\\n\\n'I do not want to go up there. King Elessar would understand if we do not, surely!'",
+      "es": ""
+    },
+    {
+      "id": 51875089,
+      "en": "The memory of losses suffered during the War of the Ring remains to trouble the people of the Blackroot Vale.",
+      "es": ""
+    },
+    {
+      "id": 228284037,
+      "en": "'The shades who gathered about King Elessar atop this Hill redeemed their oath, and recovered their honour. Should that make it pleasing to recall for we who were there? I do not believe it does. Speak with Caebar and Gimli, and afterwards we will proceed to Morlad on King Elessar's business.'",
+      "es": ""
+    },
+    {
+      "id": 111477411,
+      "en": "Talk to Caebar south-west of the entrance to Morlad in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 216727833,
+      "en": "Their oaths forever broken, the Ruthless Dead now haunt the Blackroot Vale with renewed hatred for the living. Gimli thinks you should inconvenience them, since he isn't certain they can be slain. Ruthless Dead can be found atop the Hill of Erech at night, and on the road to the Paths of the Dead at any time.",
+      "es": ""
+    },
+    {
+      "id": 228284039,
+      "en": "'I am not afraid, you understand, but there is little reason for us to climb again to the summit.\\n\\n'The King would expect us to slay any such members of the Ruthless Dead that we encounter in the Vale... or whatever passes for slaying such spirits. I am not entirely clear on that point. Legolas has tried to explain it to me, but it all seems rather complicated.\\n\\n'What do I know? I know that if any of the Ruthless Dead think to trouble us or the folk who live nearby, we will inconvenience them. We will inconvenience them with sword or bow or axe, and let them return if they dare!\\n\\n'They are sure to haunt the Hill of Erech at night, but they will be along the road to the Paths of the Dead at all times, I wager!'",
+      "es": ""
+    },
+    {
+      "id": 143415953,
+      "en": "'They found me! Help!'",
+      "es": ""
+    },
+    {
+      "id": 228284040,
+      "en": "'TBD - Blah!'",
+      "es": ""
+    },
+    {
+      "id": 143415954,
+      "en": "'Thank you, friend. That was frightening, but I am fine now.'",
+      "es": ""
+    },
+    {
+      "id": 111477414,
+      "en": "Find Legolas and Gimli to the west of Morlad in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 111477416,
+      "en": "Examine the arrow embedded in the tree",
+      "es": ""
+    },
+    {
+      "id": 111477328,
+      "en": "Talk to Legolas west of Morlad, in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 162883728,
+      "en": "'The King would expect us to slay any such members of the Ruthless Dead that we encounter in the Vale... or whatever passes for slaying such spirits. I am not entirely clear on that point. Legolas has tried to explain it to me, but it all seems rather complicated.\\n\\n'What do I know? I know that if any of the Ruthless Dead think to trouble us or the folk who live nearby, we will inconvenience them. We will inconvenience them with sword or bow or axe, and let them return if they dare!\\n\\n'They are sure to haunt the Hill of Erech at night, but they will be along the road to the Paths of the Dead at all times, I wager!'",
+      "es": ""
+    },
+    {
+      "id": 111477329,
+      "en": "Talk to Gimli west of Morlad in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 246419841,
+      "en": "Rosfin, wife of Duinhir, stands outside their home at the highest point of Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 111477330,
+      "en": "Talk to Duinhir outside his home in Morlad, in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 162883730,
+      "en": "'Oh, [placeholder], a pall lies upon the Blackroot Vale, for it was caught in the grip of war, and all her young men were drawn away eastward. My sons, too, were caught in the whirlpool, and Duilin and Derufin will not come home again. My husband Duinhir thinks to spare me the details of what befell my boys... but there is evil in not knowing! If only I knew they perished quickly, and without pain...'\\n\\nLady Rosfin entreats you through eyes filled with tears, but when you hesitate she looks away.\\n\\n'No, I will not ask it of you. I know Duinhir thinks to spare my feelings, the hard-headed man! I am stronger than he knows, and have always been so! It is not lost on me that he was not able to save our sons from death, he with his strong sword-arm and his thick shield, and I was forced to remain behind in Morlad; I, who might have been able to keep them safe!\\n\\n'Life can be cruel, [placeholder], but it is crueller still for a mother in time of war. I keep thinking I will hear the sound of my sons boasting and laughing on the wind, and then I will see Duilin and Derufin climbing the path through the village, alive and well and happy. But it is not to be so.'",
+      "es": ""
+    },
+    {
+      "id": 162883731,
+      "en": "'We should now go to Morlad. That is the main settlement in the Blackroot Vale, is it not?'",
+      "es": ""
+    },
+    {
+      "id": 246419844,
+      "en": "Duinhir stands by his wife Rosfin in Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 162883733,
+      "en": "'I have told Rosfin over and over again that there was nothing I could do to save our sons, but she will not listen.'\\n\\nDuinhir lowers his voice so he can speak only to you, out of his wife's hearing.\\n\\n'Sometimes when I lie awake in the silent watches of the night, [placeholder], I wonder if it is the truth I speak to my wife. I raised Duilin and Derufin to be bold and to be valiant, and they made me proud every day of their lives. But if I had raised them to be... less bold... to be less valiant...'\\n\\nDuinhir chokes on his words and stifles a sob, turning his back on Rosfin to hide his face.\\n\\n'Would my boys be alive today, [placeholder], if I had not raised them to hold dear the same things as I? No, stop. Enough. You are here on the King's business. You are not here to listen to the ramblings of a sad old man. Speak to the people of Morlad. Do what you came to do.'",
+      "es": ""
+    },
+    {
+      "id": 162883734,
+      "en": "Lady Rosfin looks at you with sad, cold eyes, and says nothing.",
+      "es": ""
+    },
+    {
+      "id": 246419847,
+      "en": "You should hear the concerns of the folk of Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 162883737,
+      "en": "'I've got nothing to say to you. Move along.'",
+      "es": ""
+    },
+    {
+      "id": 111477428,
+      "en": "Talk to Caebar at the base of the Hill of Erech, in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 111477429,
+      "en": "Talk to Gimli at the base of the Hill of Erech, in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 111477430,
+      "en": "Inconvenience Ruthless Dead in the Blackroot Vale, in King's Gondor ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 111477432,
+      "en": "Talk to Rosfin outside her home in Morlad, in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 111477433,
+      "en": "Talk to Duinhir in Morlad, in King's Gondor",
+      "es": ""
+    },
+    {
+      "id": 246419857,
+      "en": "You should hear the concerns of the folk of Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 246419860,
+      "en": "Caebar is south-west of the entrance to Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 246419863,
+      "en": "Legolas and Gimli are to the west of the entrance to Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 213472865,
+      "en": "'I relent! I relent!'",
+      "es": ""
+    },
+    {
+      "id": 246419865,
+      "en": "Legolas and Gimli stand at the ready to the west of Morlad.",
+      "es": ""
+    },
+    {
+      "id": 162883667,
+      "en": "'I do not want to go up there. King Elessar would understand if we do not, surely!'",
+      "es": ""
+    },
+    {
+      "id": 162883760,
+      "en": "'Someone loosed an arrow at me from hiding, [placeholder]. I am fortunate indeed that this is a town of Men and not of Elves, or it might have hit its mark.\\n\\n'These folk are not happy to see us.'",
+      "es": ""
+    },
+    {
+      "id": 162883761,
+      "en": "'What is wrong with these people, [placeholder]? Do they not know we are here to help them? Do you think the Heirs of Castamir are to blame?'",
+      "es": ""
+    },
+    {
+      "id": 246419874,
+      "en": "Duinhir stands outside his home at the highest point of Morlad, in King's Gondor.",
+      "es": ""
+    },
+    {
+      "id": 162883763,
+      "en": "'Supporters of the Heirs of Castamir? No, I do not think they are responsible for this; not in the Blackroot Vale.'\\n\\nDuinhir looks directly into your eyes and holds your attention.\\n\\n'My people have suffered much, as have we all, and King Elessar did not take the time to visit Morlad himself. There is no conspiracy here, [placeholder]. The folk of the Vale grieve, and their grief has made them angry. I understand it, for I am angry too.'",
+      "es": ""
+    },
+    {
+      "id": 177082740,
+      "en": "Caebar thanks you and hurries away to safety",
+      "es": ""
+    },
+    {
+      "id": 177082741,
+      "en": "You hear someone shouting for help from outside the entrance to Morlad",
+      "es": ""
+    },
+    {
+      "id": 69036754,
+      "en": "Defend yourself from the angry Morlad resident",
+      "es": ""
+    },
+    {
+      "id": 69036756,
+      "en": "Protect Caebar from his attackers",
+      "es": ""
+    },
+    {
+      "id": 177082759,
+      "en": "Legolas and Gimli stand at the ready, their weapons drawn",
+      "es": ""
+    },
+    {
+      "id": 177082761,
+      "en": "It is fortunate this arrow was not loosed with more skill",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Chapter 3.5: Ruthless",
+      "es": ""
     }
   ]
 }

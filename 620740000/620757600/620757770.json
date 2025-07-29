@@ -2,586 +2,489 @@
   "id": 620757770,
   "txt": [
     {
-      "id": "0x2eb8b8e",
+      "id": 48991118,
       "en": "'Come now... to the gates of Garth Agarwen and Ivar.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "Speak to Radagast to see if there is something else he would have you do.\\n\\nRadagast has driven the Gaunt-lord Ivar from Agamaur and stopped his nefarious plans...for now.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "Elsa's company waits in the ruins to the south.\\n\\nRadagast pursued Ivar as the Gaunt-lord fled, leaving you to fight the Sunless. With victory in hand, you should return to Elsa.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'That creature commands great power, but against a heart full of hope and trust in one's allies, such power means nothing. Thank you for your help here, my friend. We have done well this day. Ivar's spreading corruption is stayed, at least for the moment.\\n\\n'I must return now to the Eglain-encampment and help end this evil forever. There is more that you ought to do here, if you are willing. But we will not speak of such matters now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Neven orders me to hold my post, and I must obey. He is our commander. I am under his charge, as are my men. Honour binds us, even greater than the curse of Iarwain Ben-adar.\\n\\n'I will not forsake my commander, though he is so very changed. I cannot disobey his orders while he remains. If thou wish us to fight, thou must entreat with Neven. His seat is to the north.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'We were beaten. There is no way to hide this. This Ivar commands the water, the wights, the forest itself. He cannot be beaten by my meagre force, and I fear there is something far more terrible within the ruins to the north.\\n\\n'I know there is little time before a great evil spills forth from Garth Agarwen. Our only hope is Radagast, only he will be able to stop this Ivar. Please, go north to the gate of Garth Agarwen with him. Stop the Gaunt-lord Ivar.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Shall we return to the Eglain-encampment now?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'We must go west to the Eglain-encampment. Elsa and Eriac will be waiting, and I can better attend to the corruption from there.\\n\\n'The power which continues to corrupt this swamp is terrible, but we may not have to face it alone. The beasts tell me that there are shades of Emelin's kind which dwell here and may be convinced to aid the Eglain. I do not know why they do not remain with their own kind, but they at least have not brought harm to the Eglain.\\n\\n'Now, we must hurry... the very trees scream in pain. I must see what I can do to help them as quickly as possible. Follow me, though I cannot promise aid, for I fear I will need all of my strength to face Ivar the Blood-hand.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'A wight, a fell creature of Angmar...how could I have not seen this? So long have I lingered in this swamp, cursed by Iarwain Ben-adar to bring the salvation -- or the destruction -- of the Red-maid, she who dwells within Garth Agarwen, a Power now under the influence of the gaunt-men.\\n\\n'I was blind to what Neven had become. Now, I shall make amends. Now, we shall make our battle and strive to fulfil our curse.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x863cf11",
+      "id": 140758801,
       "en": "'Come no closer! I shall defeat this foe. Aid the living here...this fight is ours. For honour and Iarwain Ben-adar!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'Hurry now, the Gaunt-lord Ivar is not far from here, near the gates of Garth Agarwen to the north. He may not reveal himself immediately, so we may need to draw him forth.\\n\\n'The way ahead will be difficult, but do not give up hope. We shall triumph this day if we do not lose heart!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x863cf12",
+      "id": 140758802,
       "en": "'Hurry through! We will take care of these foul beasts! Dannasen is waiting beyond!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x863cf13",
+      "id": 140758803,
       "en": "'Dannasen is beyond! Do not worry about these foul foes! They are not long for the world!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbcdea82",
+      "id": 198044290,
       "en": "'You may go no further....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa5d324",
+      "id": 178639652,
       "en": "'Let us head for the camp.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced10",
+      "id": 171765008,
       "en": "Elsa's company waits in the ruins to the south.\\n\\nAs the Red-maid's forces are defeated, you realize that the door has begun to crumble away. You should return to Elsa and tell her the news.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb291",
+      "id": 267235985,
       "en": "'Who calls me forth? Have you come to sacrifice yourself to me like the others?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb292",
+      "id": 267235986,
       "en": "'Ah, the fool in brown! Agamaur is lost to you as is the River-maiden, Radagast!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9dd2c31",
+      "id": 165489713,
       "en": "'Quickly, there are others like you ahead, watch your step and follow me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb293",
+      "id": 267235987,
       "en": "'We shall see, fool!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb294",
+      "id": 267235988,
       "en": "'The power of abyss is mine to command! You shall not stand!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Aid Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb295",
+      "id": 267235989,
       "en": "'Aaah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Speak to Dannasen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb296",
+      "id": 267235990,
       "en": "'Enough of this! I shall waste my time with you no more!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Follow the Shades deeper into Agamaur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfedb297",
+      "id": 267235991,
       "en": "'The Red-maid shall have you all, soon enough!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Follow Radagast deeper into Agamaur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa6df924",
+      "id": 174979364,
       "en": "'Ivar has told us that none shall pass this place! Slay them!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Speak to Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Aid Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdf92442",
+      "id": 234431554,
       "en": "'A shame I must dirty my hands with the likes of you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Speak to Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x91e65b2",
+      "id": 152987058,
       "en": "'Speak to this shade again, perhaps there is more that he can tell us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56c080",
+      "id": 5685376,
       "en": "'Cease your prattling tongue. You hold no sway over me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x91e65b3",
+      "id": 152987059,
       "en": "'I must see to the safety of my little friends here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56c081",
+      "id": 5685377,
       "en": "'I trust in the Secret Fire. You have no power over me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56c082",
+      "id": 5685378,
       "en": "'Methedan luith!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56c083",
+      "id": 5685379,
       "en": "'Nature is my ally!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56c084",
+      "id": 5685380,
       "en": "'Do not trust in your power over her.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4bf201",
+      "id": 4977153,
       "en": "'Greetings, my four-footed friend. What brings you here?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56c085",
+      "id": 5685381,
       "en": "'She shall be freed from your clutches soon enough!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4bf202",
+      "id": 4977154,
       "en": "'That is not good at all. Allow me to help. Come.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have failed to aid Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have failed to aid Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c87a61",
+      "id": 80247393,
       "en": "'Dannasen, have you come to trifle with me once more? Your orders are complete... what is this? I smell the blood of the living.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c87a62",
+      "id": 80247394,
       "en": "'Your presence is unwelcome, but amusing. What did you hope to accomplish, I wonder?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x806ca41",
+      "id": 134662721,
       "en": "'It would seem this gate has been sealed by an evil power....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb482d41",
+      "id": 189279553,
       "en": "'Ah, Elsa... and Eriac! I had feared the worst, but you seem hale.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c87a63",
+      "id": 80247395,
       "en": "'It will not matter... soon I shall claim your bones for Ivar and for the Red-maid.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x806ca42",
+      "id": 134662722,
       "en": "'I believe though that I can open it....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c87a64",
+      "id": 80247396,
       "en": "'Arise, brethren, there is life to claim!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x806ca43",
+      "id": 134662723,
       "en": "'A Belain, minnatham!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c87a65",
+      "id": 80247397,
       "en": "'To me! Slay them!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe0f64c4",
+      "id": 235889860,
       "en": "'You were right... I shall know better for the future!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d98cf2",
+      "id": 165252338,
       "en": "'Quick now! We must follow them!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8c4e187",
+      "id": 147120519,
       "en": "'Come, my little friends.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x260cfa1",
+      "id": 39899041,
       "en": "'Hello there, friend. An acorn? For me? Why, thank you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93c8ce4",
+      "id": 154963172,
       "en": "'Radagast! You have come!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x260cfa2",
+      "id": 39899042,
       "en": "'Another acorn? You are too kind, my poor, grey friend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x260cfa3",
+      "id": 39899043,
       "en": "'Where do you keep finding all these acorns in this corrupt place? Thank you, thank you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa49f214",
+      "id": 172618260,
       "en": "'No, don't go there! Up here... come and speak with Elsa before you go there!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9412344",
+      "id": 155263812,
       "en": "'Beware friends, this Dourroot is angered!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb71201",
+      "id": 263655937,
       "en": "'So my friend, what troubles you? I see that this corruption has affected everything.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb71202",
+      "id": 263655938,
       "en": "'I will do my best to help you. Come with me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56e4051",
+      "id": 91111505,
       "en": "'Of course I have come, child!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56e4052",
+      "id": 91111506,
       "en": "'And you should not have been so hasty in coming here! I told you it was folly!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56e4053",
+      "id": 91111507,
       "en": "'Do not feel too badly, it was a great feat to come as far as you have!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9415e42",
+      "id": 155278914,
       "en": "'The great Ivar bids that you come no further!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Red-pass",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x391e655",
+      "id": 59893333,
       "en": "'Well met, sir. Where have the Eglain gone?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x22f9e74",
+      "id": 36675188,
       "en": "'I can speak not of such matters. Neven bids that I hold my post, no matter what.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb809fd1",
+      "id": 192978897,
       "en": "'It is a fine day indeed, I think, good friend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb809fd2",
+      "id": 192978898,
       "en": "'I could not agree more. There are some beautiful ponds here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb809fd3",
+      "id": 192978899,
       "en": "'Come along now, follow me to safety.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6b7d471",
+      "id": 112710769,
       "en": "'Ivar! Enough of this! Show yourself!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Ruins of the ancient kingdom of Rhudaur, twisted by time and the touch of a dark evil, lay before you. Alongside Radagast the Brown, you must find Elsa and Eriac and assist them against the Gaunt-lord, Ivar the Blood-hand, and his undead minions.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x26432d1",
+      "id": 40121041,
       "en": "'[placeholder], all of you, I sense our journey is nearly at an end.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x26432d2",
+      "id": 40121042,
       "en": "'Rest now and speak to Elsa to learn what you may of her battles.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x26432d3",
+      "id": 40121043,
       "en": "'Her insight may prove helpful in the fight ahead.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x26432d4",
+      "id": 40121044,
       "en": "'Bring your rest to its end, for we must hurry and continue on our journey.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x394b1f7",
+      "id": 60076535,
       "en": "'I have weakened him. I must discover where he lurks!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7951384",
+      "id": 127210372,
       "en": "'A shame that such a great tree must leave this earth. Hurry, now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x95ce913",
+      "id": 157083923,
       "en": "'Come men! Storm the gates!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa9d98c2",
+      "id": 178100418,
       "en": "'Good! Good! You have called them to action!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa49e375",
+      "id": 172614517,
       "en": "'Our oaths hold true... to arms my brethren! We fight Ivar and the Red-maid for Iarwain Ben-adar!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'I will not forsake my commander, though he is so very changed. I cannot disobey his orders while he remains. If thou wish us to fight, thou must entreat with Neven. His seat is to the north.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Elsa and I fought as best we could, but there were too many wights. Speak with Elsa. She may know how we should proceed against the evil in Agamaur.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "You have travelled with Radagast into the corrupted swamp of Agamaur. Aid him as he travels to the Eglain-encampment to the west.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'We lost so many. The wights, there were too many. The Gaunt-lord...the Gaunt-lord cannot be defeated.\\n\\n'We should flee...I-I am sorry. Speak with Elsa, my will is too badly shaken to speak more.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The leader of the shades resides at the seemingly abandoned Eglain-encampment.\\n\\nThe defeat of Dour-root has opened the way into the western ruins, where the shades Radagast spoke of dwell. Radagast asked that you entreat with Dannasen, their leader, for their aid.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Neven's throne is further northward into the ruins.\\n\\nNeven holds some sway over the shade-captain, Dannasen. Perhaps if you speak with him you may find a way to alter Dannasen's orders.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Dannasen lingers at the Eglain-encampment to the south of Neven's throne.\\n\\nNeven, the shades' commander, was actually a wight summoned by Ivar to contain the shades. With his destruction, Dannasen may now be willing to aid you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Follow Radagast as he moves deeper into Agamaur.\\n\\nDannasen, renewed, called forth his men to battle and opened the way westward. It may be that now you will be able to reach Elsa and Eriac.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Speak to Elsa to learn more about her battles in Agamaur.\\n\\nThanks to Dannasen and his men, the way westward into Agamaur was opened, and you were able to reach Elsa and Eriac.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "The gate into Garth Agarwen lies to the north.\\n\\nElsa has sent you to seek Ivar at Garth Agarwen and put an end to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

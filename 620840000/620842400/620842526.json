@@ -2,106 +2,359 @@
   "id": 620842526,
   "txt": [
     {
-      "id": "0x3851752",
+      "id": 59053906,
       "en": "<rgb=#00ffff>Encounter: A roar erupts from the west</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ec1422",
+      "id": 132912162,
       "en": "'Prepare yourselves, for this place will be the last you ever see.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38517b2",
+      "id": 59054002,
       "en": "<rgb=#00ffff>Encounter: A hoarse cackling comes from the south</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3851762",
+      "id": 59053922,
       "en": "<rgb=#00ffff>Encounter: Thunderous footsteps echo from the east</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a9b754",
+      "id": 61454164,
       "en": "<rgb=#00ffff>Encounter Complete: Kúfit has fallen to your mighty blow</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79b8165",
+      "id": 127631717,
       "en": "'You push on to the tower. I will hold them back here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Goldagnir is eager to strike the final blow. You should meet with him at once.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'The ford remains ours and Rivendell shall be free from any assault, at least for this day. This was a good victory, one the enemy's forces will not soon recover from.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33a86a2",
+      "id": 54167202,
       "en": "'Your blood will boil!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "<rgb=#FF0000>The Enemy is launching an assault to reclaim the Outer Bailey</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "<rgb=#00FF00>You have beaten back the Enemy's assault on the Outer Bailey. It is now time to claim the Inner Bailey</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38517c2",
+      "id": 59054018,
       "en": "<rgb=#00ffff>Encounter: A gruff yell echoes from the south</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x43a86a2",
+      "id": 70944418,
       "en": "'My blade will deliver your end!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a86b2",
+      "id": 3835570,
       "en": "'Those who come to Dol Guldur meet only death!'</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "<rgb=#FF0000>The Enemy is launching an assault to reclaim the Inner Bailey</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a9b7b4",
+      "id": 61454260,
       "en": "<rgb=#00ffff>Encounter Complete: Faelathron has fallen to your mighty blow</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
-      "en": "<rgb=#00FF00>",
-      "es": "",
-      "es (fem)": ""
+      "id": 136263300,
+      "en": "<rgb=#00FF00>You have beaten back the Enemy's assault on the Inner Bailey. It is now time to claim the Ringwraiths' Lair</rgb>",
+      "es": ""
+    },
+    {
+      "id": 59053842,
+      "en": "<rgb=#00ffff>Encounter: A roar echoes through the Inner Bailey</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263301,
+      "en": "<rgb=#00FF00>You have claimed the Ringwraiths' Lair. The heart of Dol Guldur is now exposed</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263302,
+      "en": "A son of Elrond has fallen.",
+      "es": ""
+    },
+    {
+      "id": 136263303,
+      "en": "A son of Elrond has fallen.",
+      "es": ""
+    },
+    {
+      "id": 210580617,
+      "en": "'Goldagnir sent me to congratulate you on a great victory. He wishes to speak with you immediately about the next step.'",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Taking the baileys of Dol Guldur will leave the interior defences weak and vulnerable.",
+      "es": ""
+    },
+    {
+      "id": 59053938,
+      "en": "<rgb=#00ffff>Encounter: Angry shrieking comes from the south-west</rgb>",
+      "es": ""
+    },
+    {
+      "id": 61454180,
+      "en": "<rgb=#00ffff>Encounter Complete: Durnákh has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 222868853,
+      "en": "'You push forward. I will hold here.'",
+      "es": ""
+    },
+    {
+      "id": 143183237,
+      "en": "'Goldagnir sent me to help you secure the Outer Bailey. Stand fast!'",
+      "es": ""
+    },
+    {
+      "id": 104032321,
+      "en": "'Next wave! Attack! Destroy the invaders!'",
+      "es": ""
+    },
+    {
+      "id": 61454276,
+      "en": "<rgb=#00ffff>Encounter Complete: Mazaukgrat has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 59053858,
+      "en": "<rgb=#00ffff>Encounter: Searing heat emanates from the north.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 104032322,
+      "en": "'You are more skilled than I thought. Send in the Lieutenants!'",
+      "es": ""
+    },
+    {
+      "id": 61454100,
+      "en": "<rgb=#00ffff>Encounter Complete: Mornákh has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 154830498,
+      "en": "'You will make a good dinner!'",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Claim the Outer Bailey",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "Hold the Outer Bailey against the assault",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Claim the Inner Bailey",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "Hold the Inner Bailey against the assault",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Claim the Ringwraiths' Lair",
+      "es": ""
+    },
+    {
+      "id": 61454196,
+      "en": "<rgb=#00ffff>Encounter Complete: Gúlheryn has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075078,
+      "en": "Elladan must survive",
+      "es": ""
+    },
+    {
+      "id": 46093153,
+      "en": "'So, you have finally come to me. I will delight in being the one who destroys you.'",
+      "es": ""
+    },
+    {
+      "id": 22075079,
+      "en": "Elrohir must survive",
+      "es": ""
+    },
+    {
+      "id": 188384930,
+      "en": "'I will rend the flesh from your bones!'",
+      "es": ""
+    },
+    {
+      "id": 46093154,
+      "en": "'But I am not yet convinced you are worthy of soiling my blade. Perhaps you will prove me wrong.'",
+      "es": ""
+    },
+    {
+      "id": 46093155,
+      "en": "'Open the gates! Destroy these mongrels!'",
+      "es": ""
+    },
+    {
+      "id": 199511266,
+      "en": "'Try this on for size!'",
+      "es": ""
+    },
+    {
+      "id": 256753665,
+      "en": "'Come to the door of the Tower. There I will deliver to you your most crushing defeat.'",
+      "es": ""
+    },
+    {
+      "id": 59053874,
+      "en": "<rgb=#00ffff>Encounter: Sharp, harsh barking comes from the north</rgb>",
+      "es": ""
+    },
+    {
+      "id": 61454116,
+      "en": "<rgb=#00ffff>Encounter Complete: Norchador has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 59053698,
+      "en": "<rgb=#00ffff>Encounter: Yelling echoes through the Inner Bailey</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "The Outer Bailey holds the entrance to the Dungeons of Dol Guldur, but more importantly, the gates to the Inner Bailey and the heart of the fortress. All who stand guard must be cleared to claim this location.",
+      "es": ""
+    },
+    {
+      "id": 182393905,
+      "en": "'You have given us victory at the Necromancer's Gate!'",
+      "es": ""
+    },
+    {
+      "id": 228820577,
+      "en": "Outer Bailey - Claim",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The forces of Dol Guldur will not give up their fortress so easily. Stand strong and defend what you have claimed from their wrath.",
+      "es": ""
+    },
+    {
+      "id": 182393906,
+      "en": "'You will face strong opposition in attempting to claim the Ringwraiths' Lair.'",
+      "es": ""
+    },
+    {
+      "id": 228820578,
+      "en": "Outer Bailey - Hold",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "The Outer Bailey now belongs firmly to the Golden Host. It is time to push deeper and defeat those guarding the Inner Bailey.",
+      "es": ""
+    },
+    {
+      "id": 182393907,
+      "en": "'But fear not! Now, go forth and conquer with vengeance!'",
+      "es": ""
+    },
+    {
+      "id": 228820579,
+      "en": "Inner Bailey - Claim",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "You have staked a claim for the Inner Bailey, but the masters of Dol Guldur will not give it up lightly. Defend it so that you may assault the Tower.",
+      "es": ""
+    },
+    {
+      "id": 228820580,
+      "en": "Inner Bailey - Hold",
+      "es": ""
+    },
+    {
+      "id": 228820581,
+      "en": "Ringwraiths' Lair",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "The warden of the Inner Bailey has come down from the tower. Defeat him and claim the baileys and outside of Dol Guldur for the Golden Host.",
+      "es": ""
+    },
+    {
+      "id": 255493794,
+      "en": "'We do not approve of your presence!'",
+      "es": ""
+    },
+    {
+      "id": 202645953,
+      "en": "'Welcome to the Ringwraiths' Lair and the entrance to the Tower of Dol Guldur.'",
+      "es": ""
+    },
+    {
+      "id": 202645954,
+      "en": "'I am impressed you have come this far, but what did you expect to happen once you got here?'",
+      "es": ""
+    },
+    {
+      "id": 202645955,
+      "en": "'Did you really think you were just going to walk right in? Foolish weaklings.'",
+      "es": ""
+    },
+    {
+      "id": 61454132,
+      "en": "<rgb=#00ffff>Encounter Complete: Zánurz has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 61453956,
+      "en": "<rgb=#00ffff>Encounter Complete: Afglu has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 190625621,
+      "en": "'Goldagnir sent me to help you secure the Inner Bailey.'",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Assault on the Ringwraiths' Lair",
+      "es": ""
     }
   ]
 }

@@ -2,232 +2,194 @@
   "id": 621042549,
   "txt": [
     {
-      "id": "0xb5689a0",
+      "id": 190220704,
       "en": "'The care package has been delivered? Good, good! You have done well today, my friend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a1",
+      "id": 190220705,
       "en": "'Let us send those explorers a gift to show that the Zhélruka are just as pleased as any Longbeard at their safe return. Some ales, bread, and draughts should do nicely! We can present this package to the Longbeard emissary before he departs.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a2",
+      "id": 190220706,
       "en": "'Let us send those explorers a gift to show that the Zhélruka are just as pleased as any Longbeard at their safe return. Some ales, bread, and draughts should do nicely! We can present this package to the Longbeard emissary before he departs.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d3",
+      "id": 184621267,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nYou should collect some draughts, ales, and bread in Vérnozal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a4",
+      "id": 246419876,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nPrince Ingór wishes to talk to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01176",
+      "id": 246419830,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nPrince Ingór wishes to talk to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8eafe7",
+      "id": 261009383,
       "en": "Raging",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a7",
+      "id": 184621223,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nYou should collect the care package in Vérnozal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a8",
+      "id": 184621224,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nYou should give the care package to the visiting Longbeard emissary in Vérnozal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'[placeholder], I must speak with you. There are rumours in the hall that a group of Longbeard explorers has gone missing while excavating a perilous cavern. Apparently one of the old tunnels gave way and the dwarves did not return. I believe they might be trapped, but still alive. We must search for them and assist the Longbeards!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502925",
+      "id": 173025573,
       "en": "Collect the care package",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502954",
+      "id": 173025620,
       "en": "Collect ales ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502956",
+      "id": 173025622,
       "en": "Collect bread ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d9",
+      "id": 190220761,
       "en": "'Ah, thank you for this care package. I am sure that the Longbeards you rescued will be honoured to receive such a gift! My personal thanks for all that you have done, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502958",
+      "id": 173025624,
       "en": "Collect draughts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e163",
+      "id": 251715939,
       "en": "Pack up all the items into a care package",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef8156",
+      "id": 133136726,
       "en": "Monsters in this mission will enrage at low morale, gaining attack strength and attack speed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "You have pledged to lend your aid and your adventuring skills to the Zhélruka and to fight on their behalf in Gundabad.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be2",
+      "id": 148970466,
       "en": "You packed up all the items",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859541",
+      "id": 226858305,
       "en": "'I must speak with you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859542",
+      "id": 226858306,
       "en": "'Quickly now, we must hurry! '",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be6",
+      "id": 148970470,
       "en": "Collected the care package",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50265",
+      "id": 111477349,
       "en": "Talk to Prince Ingór",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859543",
+      "id": 226858307,
       "en": "'I have heard of your success and the safe return of the Longbeard explorers!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859544",
+      "id": 226858308,
       "en": "'Let us send those explorers a Zhélruka care package to show that we are just as pleased with their return as any Longbeard.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50267",
+      "id": 111477351,
       "en": "Talk to Prince Ingór",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859545",
+      "id": 226858309,
       "en": "'Let us send those explorers a Zhélruka care package to show that we are just as pleased with their return as any Longbeard.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859546",
+      "id": 226858310,
       "en": "'You have done well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e170",
+      "id": 251715952,
       "en": "Give the care package to the visiting Longbeard emissary",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56844",
+      "id": 162883652,
       "en": "'Ah, you have returned! I have heard of your success and the safe return of the Longbeard explorers! You have done well to strengthen the bond between all the dwarves in Gundabad.\\n\\n'I believe we can do more, however! Let us send those explorers a gift to show that the Zhélruka are just as pleased as any Longbeard at their safe return. Some ales, bread, and draughts should do nicely! We can present this package to the Longbeard emissary before he departs.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56848",
+      "id": 162883656,
       "en": "'Quickly now, we must hurry! If they remain alive, those Longbeards may not have much longer!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b95",
+      "id": 148970389,
       "en": "Collected ales ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01108",
+      "id": 246419720,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nPrince Ingór wishes to talk to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b97",
+      "id": 148970391,
       "en": "Collected bread ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b99",
+      "id": 148970393,
       "en": "Collected draughts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50219",
+      "id": 111477273,
       "en": "Talk to Prince Ingór",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a0",
+      "id": 184621216,
       "en": "Vérnozal can be found in Máttugard, by the Steepset.\\n\\nYou should pack up all the items into a care package in Vérnozal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa2",
+      "id": 126754722,
       "en": "Chapter 4: Friends of the Longbeards",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

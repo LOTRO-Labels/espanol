@@ -2,130 +2,109 @@
   "id": 621043195,
   "txt": [
     {
-      "id": "0xb5689c7",
+      "id": 190220743,
       "en": "You return the supplies to the Dourhands. They look relieved to have their trade-goods returned.\\n\\n'We have very little to offer to repay such an act of kindness. I am sorry. All we can offer is our word that our barter prices will be fair! We thank you again, brave [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e178",
+      "id": 251715960,
       "en": "Bring the supplies to one of the freed Dourhands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b3",
+      "id": 184621235,
       "en": "The freed Dourhands can be found near Steepset in Máttugard.\\n\\nYou should talk to one of the freed Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a1",
+      "id": 88473761,
       "en": "'Many thanks!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a2",
+      "id": 88473762,
       "en": "'I'm free!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a3",
+      "id": 88473763,
       "en": "'Blasted hobgoblins!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bc1",
+      "id": 148970433,
       "en": "Recovered stolen supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b6",
+      "id": 184621238,
       "en": "The freed Dourhands can be found near Steepset in Máttugard.\\n\\nYou should bring the supplies to one of the freed Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01159",
+      "id": 246419801,
       "en": "Captured Dourhands can be found at Sadauk-kala in western Máttugard.\\n\\nYou should free the captured Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502900",
+      "id": 173025536,
       "en": "Recover stolen supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a4",
+      "id": 88473764,
       "en": "'What a terrible mess we got into.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bf2",
+      "id": 148970482,
       "en": "Freed captured Dourhands ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b9",
+      "id": 184621241,
       "en": "Stolen supplies can be found at Sadauk-kala in Máttugard.\\n\\nYou should recover the stolen supplies.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502930",
+      "id": 173025584,
       "en": "Free the captured Dourhands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502931",
+      "id": 173025585,
       "en": "Free the captured Dourhands ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a6",
+      "id": 184621222,
       "en": "Captured Dourhands can be found at Sadauk-kala in western Máttugard.\\n\\nYou should free the captured Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502935",
+      "id": 173025589,
       "en": "Talk to one of the freed Dourhands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fab2",
+      "id": 149027506,
       "en": "Dourhands in a Bind",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "You find a few of greedy Dourhands who have been captured by the hobgoblin forces here in Sadauk-kala. It is only a matter of time before the hobgoblins obtain useful information from the Dourhands, and they would certainly use what they learn against those who seek to reclaim the Mountain-hold. You decide to rescue the Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d165",
+      "id": 24695141,
       "en": "A small group of greedy Dourhands has been captured by the hobgoblin forces in Máttugard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689c4",
+      "id": 190220740,
       "en": "The group of Dourhands looks weary. One musters enough effort to speak up for the rest.\\n\\n'Thank you, [placeholder]. We are indebted to your kindness. I hate to ask more of you but, well, we are traders, and all of our goods to trade were stolen by those hobgoblins that captured us! Would you be able to retrieve our supplies, good [placeholder]? It is all we have.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

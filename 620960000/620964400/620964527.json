@@ -2,118 +2,99 @@
   "id": 620964527,
   "txt": [
     {
-      "id": "0x3178d19",
+      "id": 51875097,
       "en": "Lintanar, a city guard, is being handed tasks from many important people around the city. He fears that there just isn't enough time in the day to complete them all, and seeks your assistance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Speak with Lintanar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a4",
+      "id": 162883748,
       "en": "'You have counted the grain in the Middle Stores? Thank you, [placeholder]. I was able to count the shields in the armour Stores. That now accounts for everything Mirudil wanted tallied. Hopefully, for my sake, he will not require anything else. I could use a rest!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Speak with Rastion in the Middle Stores",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b0",
+      "id": 246419888,
       "en": "The Middle Stores are in the southern part of the Third Circle.\\n\\nYou should speak with Rastion, and let him know that you are finished in the Middle Stores.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a6",
+      "id": 162883750,
       "en": "'You are more than welcome to tally the sacks of grain scattered throughout the Middle Stores. Before you set about on your errand, however, I must tell you that I think I've been hearing rats scuttling around. I have not seen any signs of them yet, though. If you find any while you are back there, please dispose of them. There are many foodstuffs laying about and a rat infestation would surely ruin us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Tally sacks of grain in the Middle Stores ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "The Middle Stores are in the southern part of the Third Circle.\\n\\nYou should tally sacks of grain in the Middle Stores and keep an eye out for any rats.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a8",
+      "id": 162883752,
       "en": "'Take your time friend. I will be here all day if you need anything.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b3",
+      "id": 246419891,
       "en": "Lintanar can be found in the northern part of the Third Circle.\\n\\nYou should speak with Lintanar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1170",
+      "id": 177082736,
       "en": "Tallied the grain supply in the Middle Stores ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Defeat any rats you encounter ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1172",
+      "id": 177082738,
       "en": "Defeated rat ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50255",
+      "id": 111477333,
       "en": "Speak with Rastion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56853",
+      "id": 162883667,
       "en": "'Oh my, you did find some rats. I am glad they had not yet devoured these precious rations. Now that I know of their presence, I shall make sure no more get into the Stores.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56856",
+      "id": 162883670,
       "en": "'You can count on me to protect the Stores!' ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56857",
+      "id": 162883671,
       "en": "'Might I have a word with you? Mirudil, the Warden of the Stores, has taken it upon himself to give tasks to some of the guards. While I do not agree with this shift in power, I can see we are all being asked to pull the weight of two men, and for good reason.\\n\\n'While I am not readily scolded for neglecting some of my duties every now and again, I must try to do what is asked of me. I simply do not have the time to finish this task of Mirudil's though! Perhaps you would be able to lend me a hand? I have been spending much of the day tallying various supplies in the Stores of the city and there are but a couple left. Perhaps you would take count of sacks of grain in the Middle Stores? Speak with Rastion before you begin your task.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Counting the Stores",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "The Middle Stores are in the southern part of the Third Circle.\\n\\nYou should speak with Rastion, the Middle Stores worker, before you start taking inventory there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

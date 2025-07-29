@@ -2,70 +2,59 @@
   "id": 621045195,
   "txt": [
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "You have been tasked with recovering precious ore and clearing a path through the cave.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "The mission is complete!\\n\\nSpeak to Ausma for your reward!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8eaf11",
+      "id": 261009169,
       "en": "Raging",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Mission: Clearing a Path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'I have a new mission for you, [placeholder].\\n\\n'My scouts have come back from one of the caverns that weaves throughout Gundabad and report findings of precious resources. However, several passageways are blocked and need to be cleared before we can send additional miners.\\n\\n'Enter the mine, obtain samples of the ore in the area, and destroy any debris that blocks passage in the cavern!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Complete Mission: Clearing a Path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "'Amongst the twisting caves that surround Gundabad, several passageways that lead to needed raw ore have been blocked by rubble. These precious resources are needed for the recovery effort.\\n\\n'Your mission is to retrieve precious ore and clear a path so other miners can continue the work.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Talk to Ausma",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ef81a2",
+      "id": 133136802,
       "en": "Monsters in this mission will enrage at low morale, gaining attack strength and attack speed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Your mission is to recover precious ore and clear a path through the cave-claw cave.\\n\\nSpeak to Ausma to travel to cave-claw cave.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'Well done! With the cavern cleared of debris and resources gathered, the foundation has been laid for our work in Gundabad!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

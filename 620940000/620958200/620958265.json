@@ -2,142 +2,119 @@
   "id": 620958265,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'I am not in the mood to talk, [placeholder]. This has been a trying experience for all of us. I hope you do not mind.'\\n\\nAs you turn to go, Corunir holds up his hand.\\n\\n'I am sorry, friend. I am fine. With what can I help you?'\\n\\nYou tell him that you are looking for Golodir, and thought he might know where you could find the Ranger.\\n\\n'Golodir is the cause of my ill temperament and I have no desire to speak with him any further. Do you remember the fell mood that seized him in Angmar, before the Grey Company was assembled? I thought he had left it behind him. Indeed, it seemed that the journey was doing him some good, but it returned again in Tûr Morva, only to be overcome by the gentle laughter of the Dunlending girl, Wenda.\\n\\n'But like the rising and falling brimstone pools of Malenhad, his ill mood has returned after a short time at low ebb, and now he shouts at his own dear friends! If you seek him out, know that I left him standing on a dock to the south, looking out at the water. I will not be held responsible if he treats you unkindly, for it seems he does not know his friends.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Halbarad is located in the large courtyard just inside the north-west entrance to the port-city of Pelargir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Calenglad is at the Camp of the Grey Host, outside the port-city of Pelargir.\\n\\nGolodir was possessed of an unusually ill temper, and you should return to Calenglad and see what he thinks of the Grey Company's mood following the battle.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Yes? What do you want? Are you here to chastise me for treating Corunir unkindly? He has been a sharp thorn for these past few days, constantly asking questions about my well-being. He should have expected a rebuke!'\\n\\nThere is an angry fire in Golodir's eyes, an unfamiliar, smouldering rage.\\n\\n'I know why, [placeholder]. Around matters of the Dead they treat me with delicate gloves. They look at me and they see my daughter, Lorniel. My grief was strong and will never truly pass, but this treatment fills me with such an anger I would strike them all down: Corunir, Halbarad, even my own chief, Aragorn!'\\n\\nHe falls silent. When he speaks again, his voice is little more than a whisper, and there are tears in his eyes.\\n\\n'I... I do not know from where this anger comes, [placeholder]. It feels as if I hear voices of the past, unflagging and unrelenting, calling my name, taunting me...\\n\\n'I will master these voices. I have been troubled by these feelings ever since we began this journey, and I have managed to stifle them. It has become more difficult of late, perhaps because of the unnatural skies... the evil presence of the Dead Men...\\n\\n'Do not worry about me, my friend. I will apologize to Corunir, and my outburst will remain between us, I hope?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Corunir left Golodir standing on a dock somewhere to the south, in the city of Pelargir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Talk to Halbarad near the north-west entrance to Pelargir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'Did you find Halbarad? Were you able to help him with whatever it was he needed?'\\n\\nYou ask Calenglad how he feels about the mood of the Grey Company.\\n\\n'I think we are doing fine, for the most part. We have been through a great deal already, and there is more hardship ahead, but if we stay true to each other there is nothing we need fear.\\n\\n'We have lost friends along the way, and brothers, but our memories of them give us the strength to go on. If I close my eyes I can still hear their voices, and they urge me to stand with Aragorn and honour my pledge. And one day, you will buy Radanir and Daervunn and me a meal, and drinks, and we will all toast the successful journey of the Grey Company.\\n\\n'Oh, yes. I told Daervunn about our agreement once this is all done. I did not think you would mind.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'With all my musings I forgot to tell you something! Halbarad wanted me to send you to him. He has returned to Pelargir already. If you leave now you should find him just inside the north-west entrance to the city.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Talk to Corunir in Pelargir, somewhere south of Halbarad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01188",
+      "id": 246419848,
       "en": "Corunir is somewhere south of Halbarad's position, in Pelargir.\\n\\nHalbarad has asked you to find Corunir and learn how Golodir fares after the passing of the Dead Men.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to Golodir somewhere south of Corunir, in Pelargir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Calenglad at the Camp of the Grey Host",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'The appearance of the Dead Men may weigh heavily upon some others of our company. Golodir in particular seemed distraught by the passage under the mountain. Find Corunir, somewhere to the south of here, and see if he knows where Golodir can be found. The two of them are rarely apart.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'I will master these voices. I have been troubled by these feelings ever since we began this journey, and I have managed to stifle them. It has become more difficult of late, perhaps because of the unnatural skies... the evil presence of the Dead Men...\\n\\n'Do not worry about me, my friend. I will apologize to Corunir, and my outburst will remain between us, I hope?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'Golodir's ill mood has returned after a short time at low ebb, and now he shouts at his own dear friends! If you seek him out, know that I left him standing on a dock to the south, looking out at the water. I will not be held responsible if he treats you unkindly, for it seems he does not know his friends.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "The Rangers of the Grey Company have helped deliver the port-city from danger, but their journey is not yet ended. Some of the Rangers are troubled by the things they have seen, and tensions run high among Aragorn's folk.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'I like this land, [placeholder]. It reminds me of the twilit wilds, far away in the North, where my heart remains. The wooded slopes encircling Lake Nenuial must be slowly shaking off the grip of winter, and in a few weeks the leaves of their trees may begin to fight through the remaining chill. No Winter lasts forever, and the coming of Spring will banish even the coldest of memories. Will this war be any different?'\\n\\nCalenglad stands silently for a short while, musing on the question. Eventually he smiles, and gives you a conspiratorial wink.\\n\\n'Radanir told me you agreed to treat him to a meal and drinks at a tavern of your choosing, once this is all over. If you have no objection, I would like to join the two of you there. I will look forward to that happy meeting!\\n\\n'But there is still much hardship ahead of us, and with all my musings I forgot to tell you something! Halbarad wanted me to send you to him. He has returned to Pelargir already. If you leave now you should find him just inside the north-west entrance to the city.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'I would follow Aragorn anywhere, [placeholder], and standing here with the smell of smoke on the air and the memory of battle still fresh in my mind, I feel as if I have done so!\\n\\n'I did not blanch when he led us through the Dimholt road, nor when we emerged from the mountain with the shades of Dead Men all around us. Still, I am glad they have departed. It is not natural for such men to linger in the world. An Elf once told me that death is a gift for all Men, but I did not understand what he meant until today. I think now he was right.\\n\\n'The appearance of the Dead Men may weigh heavily upon some others of our company. Golodir in particular seemed distraught by the passage under the mountain. Find Corunir, somewhere to the south of here, and see if he knows where Golodir can be found. The two of them are rarely apart.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Black Sails: Voices of the Past",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,262 +2,219 @@
   "id": 620778601,
   "txt": [
     {
-      "id": "0x18f0d12",
+      "id": 26152210,
       "en": "Glass Blower[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8fe49b2",
+      "id": 150882738,
       "en": "Baker[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcdd28ec",
+      "id": 215820524,
       "en": "Minstrel[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa0dd42",
+      "id": 262200642,
       "en": "Hunter[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa7d658",
+      "id": 262657624,
       "en": "Blacksmith[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb2eeb8e",
+      "id": 187624334,
       "en": "Footman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfc4ce42",
+      "id": 264556098,
       "en": "Dancer[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3501ae4",
+      "id": 55581412,
       "en": "Vagabond[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8c6642",
+      "id": 260859458,
       "en": "Hawker[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8dde42",
+      "id": 260955714,
       "en": "Grocer[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x905ccb2",
+      "id": 151375026,
       "en": "Miner[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf386e2",
+      "id": 217286370,
       "en": "Sailor[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfd73a42",
+      "id": 265763394,
       "en": "Scholar[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb8e0336",
+      "id": 193856310,
       "en": "Shirriff[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6250dc2",
+      "id": 103091650,
       "en": "Mourner[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd00dc19",
+      "id": 218160153,
       "en": "Sentry[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x80e7804",
+      "id": 135165956,
       "en": "Merchant[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0c40de",
+      "id": 202129630,
       "en": "Patron[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0d4b72",
+      "id": 202197874,
       "en": "Gardener[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8fe8d2",
+      "id": 227535058,
       "en": "Prisoner[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x84dbe22",
+      "id": 139312674,
       "en": "Reveller[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce4ca42",
+      "id": 216320578,
       "en": "Ranger[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd37905",
+      "id": 231962885,
       "en": "Constable[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfec1942",
+      "id": 267131202,
       "en": "Archer[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb20db8e",
+      "id": 186702734,
       "en": "Foreman[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfc22f80",
+      "id": 264384384,
       "en": "Gossip[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa416074",
+      "id": 172056692,
       "en": "Shepherd[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x63242e2",
+      "id": 103957218,
       "en": "Town Crier[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3115882",
+      "id": 51468418,
       "en": "Labourer[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd633cd2",
+      "id": 224607442,
       "en": "Innkeeper[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd207812",
+      "id": 220231698,
       "en": "Woodcutter[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x194883e",
+      "id": 26511422,
       "en": "Fisherman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf243232",
+      "id": 254030386,
       "en": "Bounder[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd449754",
+      "id": 222598996,
       "en": "Drunkard[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfac1442",
+      "id": 262935618,
       "en": "Farmer[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xff4b7be",
+      "id": 267696062,
       "en": "Ruffian[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb4ff02",
+      "id": 11861762,
       "en": "Traveller[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf266984",
+      "id": 254175620,
       "en": "Deckhand[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef5c575",
+      "id": 250987893,
       "en": "Refugee[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f46ebe",
+      "id": 133459646,
       "en": "Tribesman[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8f7aa62",
+      "id": 150448738,
       "en": "Stable-master[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf81c094",
+      "id": 260161684,
       "en": "Servant",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x898f0f4",
+      "id": 144240884,
       "en": "Guard[e]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

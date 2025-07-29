@@ -2,154 +2,129 @@
   "id": 620894423,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "Athulf looks shocked as you show him the rations you recovered from his home.\\n\\n'I am discovered! Are you going to turn me in, [placeholder]? That is just, but I wish to tell you why I did it and ask for your help if I am thrown in the lockhouse.\\n\\n'If I do not steal, the dogs will starve. As their keeper, I cannot let that happen. I give them my own food, but it is not enough. I try to make sure I do not take too much from the other men when I steal... but I fear we all go so hungry.\\n\\n'Tell Byrnstan I am sorry, will you?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'It is not good that there is stealing in Stangard. This was rarely a problem before. If Byrnstan does not wish to take further action against Athulf, I will gladly let this matter drop.\\n\\n'The food issue is reaching the point of crisis. Something must be done, and soon.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Broken Laws",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'It was Athulf? He shall....'\\n\\nYou explain that Athulf was using the food to feed the dogs of Stangard, who would starve without his help.\\n\\n'I have noticed that he does show particular kindness to those dogs. There was once a time when we had food enough for all, sparse though it was, but nobody thinks of the dogs anymore.\\n\\n'I will keep this incident a secret, and even share some of my food with the beasts, provided Athulf does not steal anymore!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'It was Athulf? He shall....'\\n\\nYou explain that Athulf was using the food to feed the dogs of Stangard, who would starve without his help.\\n\\n'I have noticed that he does show particular kindness to those dogs. There was once a time when we had food enough for all, sparse though it was, but nobody thinks of the dogs anymore.\\n\\n'I will keep this incident a secret, and even share some of my food with the beasts, provided Athulf does not steal anymore!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "The dogs here are surprisingly well-tended compared with the rest of Stangard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'I would start looking in the houses if I were you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Recovered the stolen rations ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Athulf is guilty of stealing, but his deeds are honourable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The stolen rations can likely be found hidden somewhere in Stangard.\\n\\nYou should try to recover the stolen rations for Byrnstan, so that he does not go hungry.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "Byrnstan grudgingly forgives Athulf and agrees to keep the incident a secret",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The stolen rations are in the kennels of Stangard.\\n\\nSomeone in Stangard stole rations from the lock-house; this food should be recovered, and the thief identified.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "Byrnstan grudgingly forgives Athulf and agrees to keep the incident a secret",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "The stolen rations are in the kennels of Stangard.\\n\\nSomeone in Stangard stole rations from the lock-house; this food should be recovered, and the thief identified.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Byrnstan can be found guarding the door to the Mead Hall.\\n\\nYou should plead Athulf's cause to Byrnstan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Gadda can be found near the Mead Hall in Stangard.\\n\\nYou should speak with Gadda about the food being so scarce that it drives men to steal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Gadda can be found near the Mead Hall in Stangard.\\n\\nYou should speak with Gadda about the food being so scarce that it drives men to steal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Search for Byrnstan's stolen rations",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Recover the stolen rations ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Confront Athulf, the owner of the dogs, for his crime",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Bring the rations to Byrnstan and plead Athulf's cause",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Gadda about what transpired",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Talk to Gadda about what transpired",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Byrnstan, a guard of the Mead Hall, noted that his rations went missing recently and wants you to search for them during your stay in Stangard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I have an issue for you to look into, [placeholder]. Someone took my rations while I was catching a little rest... and it is not the first time, either.\\n\\n'If you can find out who stole from the stores, I will be in your debt. A thief must be brought to justice!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,94 +2,79 @@
   "id": 620757612,
   "txt": [
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your efforts to ready Archet for the impending Blackwold attack have come to fruition. Now the preparations are complete, and the time has come to fight.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Quickly! Calder Cob is making his move against Archet, and wicked men of Angmar are lending him and the Blackwolds strength. We must go to the town's defence at once! Return to me when you are prepared.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Jon Brackenbrook is at the Hunting Lodge, east of Archet.\\n\\nJon Brackenbrook is waiting for you to join his company.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'The loss of my father is a painful one, but my pain is no greater than any other here in Archet. The people of Archet regard you as a hero, and I agree with them, [placeholder]. Without your quick thinking we would have lost more lives.\\n\\n'You were the one who faced down the evil Men and drove them and many of the Blackwolds from the woods surrounding our town. We owe you much.\\n\\n'It is good to know that the grim dark growing across the land will have such fierce adversaries as yourself.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Jon Brackenbrook is at the Hunting Lodge, east of Archet.\\n\\nJon Brackenbrook is waiting for you to join his company.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "#-1:[placeholder] #-1:{Jon Brackenbrook wishes to speak with you.\\n\\nAfter the assault on Archet, Jon Brackenbrook returned to the town to assist and rebuild, taking up his father's legacy.'[U,D,L]|'Mundo Sackville-Baggins wishes to speak with you.\\n\\nAfter the assault on Archet, you helped Mundo Sackville-Baggins and Celandine Brandybuck on their return trip to the Shire.'[O]}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Are you ready to go? Very well....'\\n\\n<rgb=#FF0000>WARNING: This quest is the final quest in the Introduction. If you have any other quests underway you should complete them now, as those quests will no longer be available after the Introduction is completed.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "<rgb=#FF0000>NOTE: The files you need to continue your adventures in Middle-earth should finish downloading shortly. Thank you for your patience!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'You'll never see me outside the bounds of the Shire again. Some Bagginses may enjoy an uncomfortable adventure, but not I. \\n\\n'To think that I had to rely on Big Folk to pull me from the grips of others.\\n\\n'You didn't help much with the way you marched us back to the Shire either, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Jon Brackenbrook",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Jon Brackenbrook",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "#-1:[placeholder] #-1:{Speak with Mundo Sackville-Baggins[O]|Speak with Jon Brackenbrook in Archet[U,D,L]}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Jon Brackenbrook",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Intro: The Storm is Upon Us",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Mundo Sackville-Baggins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

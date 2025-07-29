@@ -2,58 +2,49 @@
   "id": 621075630,
   "txt": [
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "Drawing Maps",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029c5",
+      "id": 173025733,
       "en": "Talk to Aerin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568931",
+      "id": 190220593,
       "en": "As you approach, Aerin holds up a finger, bidding you pause to let her finish a passage in the book she's reading. She scans the next few lines and laughs quietly to herself before bending a corner of the page and closing the book shut.\\n\\nShe spends a moment studying your face. You're not readily familiar to her. Maybe you've changed your appearance since your last meeting.\\n\\n'[placeholder]!' she recognizes you at long last. 'Have you been well? I certainly have. Though there has been some trouble brewing.'\\n\\nIt doesn't take much to get her to say more.\\n\\n'Hata Kebir. It's been abandoned these past few weeks, but a few days ago some louts came scrounging around, no doubt hired by the Heirs of Castamir. Firiondur approached them and asked what they were doing here. They said they were here for a map of some kind, and that they weren't leaving until they found it. They even offered him coin if he were willin' to help them!'\\n\\nShe produces a map of Pelargir from her pocket. It's marked with various symbols whose meanings you can only begin to guess at.\\n\\n'I assume this is the map they were lookin' for. What? Don't give me that look. I went searching through the place after it were abandoned. Anyway, the man says he won't leave until he finds the map, so I say let's give him what he wants.'\\n\\nShe produces another map, remarkably similar to the original, but the symbols are drawn in completely different locations.\\n\\n'What do you think? I made it myself. If you're inclined to help us, go plant this fake map somewhere in Hata Kebir. If you happen to thrash some of those ruffians while you're at it, I certainly won't be complainin'.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b03",
+      "id": 148970243,
       "en": "You have found a good place to hide the false map",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568934",
+      "id": 190220596,
       "en": "Reluctantly, Aerin tears her gaze from her book and smiles at you.\\n\\n'Did you do it? Did you hide the map? Oh how delightful! I'm not entirely sure what the purpose of the original map is, but I can tell you that the map that I made points to nothing but sewer entrances! I hope they have fun rooting around in the muck.\\n\\n'Now, if you'll excuse me, I'd like to see how this duel ends.'\\n\\nShe returns to her reading, quickly forgetting you're there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01153",
+      "id": 246419795,
       "en": "You have successfully hidden the map, and should inform Aerin.\\n\\nTalk to Aerin in Aerthir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "Aerin wishes to mislead some bandits in nearby Hata Kebir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029c2",
+      "id": 173025730,
       "en": "Find a good place to hide the false map",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011874",
+      "id": 184621172,
       "en": "Aerin has asked you to hide a false map somewhere in Hata Kebir, east of Aerthir.\\n\\nFind a place to hide the map.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

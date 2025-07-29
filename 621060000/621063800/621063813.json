@@ -2,52 +2,84 @@
   "id": 621063813,
   "txt": [
     {
-      "id": "0xb568952",
+      "id": 190220626,
       "en": "'Perhaps the poison was a bit much. The Wargs did my work for me. Oh my! You are still here?'\\n\\nCedivor coughs and looks uncomfortable.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568927",
+      "id": 190220583,
       "en": "'What have you found there, my friend? How interesting! Did you find anything of import on his… uh, their body?'\\n\\nYou show him the stone. A queer gleam flashes across his eyes.\\n\\n'How strange this object is! I should keep it! Ah, for my research. Well now, I think we can leave. Whatever killed Ragnal may still be down here.'\\n\\n'How do you know his name?' you ask, readying your weapon.\\n\\n'What? His… ah, well, no need to look so violent! Fine, fine. I'm no historian. But what do you care? Oh. I see you care very much. Here! Take the blasted thing. I do not need to die for a rock.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011856",
+      "id": 184621142,
       "en": "Cedivor Hedgerow is outside of Glynafon, in the eastern Angle.\\n\\nYou should bring the stone to Cedivor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7308868",
+      "id": 120621160,
       "en": "'Where is he? He must be – What's that? No, I was not saying anything to you. Just pondering under my breath, heh heh. Where are they? I was saying.... The... uh, magnificent crafts-hobbits who once called this hovel… eh, these splendid tunnels their home.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b64",
+      "id": 148970340,
       "en": "You found a strangely carved stone!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029a1",
+      "id": 173025697,
       "en": "Bring the stone to Narnien",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5029a3",
+      "id": 173025699,
       "en": "Search the abandoned burrows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a4",
-      "en": "Narnien is located in Gaerond, in the northern Angle.\\n\\nYou should tell Narnien that you have",
-      "es": "",
-      "es (fem)": ""
+      "id": 184621220,
+      "en": "Narnien is located in Gaerond, in the northern Angle.\\n\\nYou should tell Narnien that you have found a strange artifact.",
+      "es": ""
+    },
+    {
+      "id": 173025749,
+      "en": "Search Glynafon for interesting objects",
+      "es": ""
+    },
+    {
+      "id": 149027506,
+      "en": "The Crumbling Halls of Glynafon",
+      "es": ""
+    },
+    {
+      "id": 162883718,
+      "en": "'Hello there! Why, you look exactly like the sort of help I need! I am Cedivor Hedgerow, grand historian and artifact expert!'\\n\\nHe pauses, waiting for a reaction from you.\\n\\n'You... have not heard of me? Well, I suppose someone like you does not keep up with this sort of thing. Too busy tramping all over the countryside being a hero and having adventures? Exactly the person I have been seeking. You see, I am exploring the ruins that dot the hills and forests of the Angle, but I need assistance in these dangerous lands.\\n\\n'I can not enter the Warg dens, but I suspect there are ancient dwellings buried in these hills. A place that was called Glynafon! If you find anything of interest within and bring it to me, I shall reward you greatly!'",
+      "es": ""
+    },
+    {
+      "id": 24695141,
+      "en": "Cedivor Hedgerow, renowned historian and artifact expert, seeks protection while he delves into the crumbling halls of Glynafon.",
+      "es": ""
+    },
+    {
+      "id": 173025753,
+      "en": "Show the stone to Cedivor",
+      "es": ""
+    },
+    {
+      "id": 148970260,
+      "en": "You found a strangely carved stone!",
+      "es": ""
+    },
+    {
+      "id": 190220624,
+      "en": "'Welcome back! Have you found something interesting?'\\n\\nYou hand her the stone.\\n\\n'Fascinating! This is a Gwelumir, a weather-stone. It sadly has lost most of its function, but when it was first created, it would have indicated what the weather is in a certain area. They were an experiment that had been considered a failure, as one could easily look to the skies to count clouds. You say you found this in an ancient smial? What a perfect use for such a device! It must have been gifted to an Elf-friend long ago. Thank you for bringing it to me! I look forward to studying its properties.'",
+      "es": ""
+    },
+    {
+      "id": 184621136,
+      "en": "The abandoned burrows of Glynafon are in the eastern Angle.\\n\\nYou should explore the abandoned burrows and bring anything of interest back to Cedivor.",
+      "es": ""
     }
   ]
 }

@@ -2,64 +2,169 @@
   "id": 621077286,
   "txt": [
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "Delivered the carrots ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Lodging for Another Day's Labour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "Repaired the ladder ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Harvest wheat from the fields ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Collect the carrots for delivery ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "Gladion's dark gaze lightens as he takes in the sight of you, and while his clever smile pushes away some of the weariness on his face, you can't help but notice he's aged years in the weeks since last you saw him.\\n\\nHe greets you with the same words he did the last time you walked up this road.\\n\\n'Ho there, traveller! You look as if you are in need of a meal and a place to put up your feet.\\n\\n'You are welcome to take respite and break bread with us tonight, and in exchange we ask for a day's work on our farm. Limril will be pleased to see you, and her cooking has only improved since your last visit.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "Repaired squeaky chairs ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Pick cabbages ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'Thank you, friend. Normally I pick stones on Sunday. It'll be nice to have some of that time back for myself.\\n\\n'What was it you said to me last time? That your life is one for travelling? Be that as it may, know you are always welcome around here, even if it is for a short rest.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
-      "en": "Pick st�",
-      "es": "",
-      "es (fem)": ""
+      "id": 111477428,
+      "en": "Pick stones ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 111477430,
+      "en": "Pull weeds ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 177082804,
+      "en": "Gladion asks you to fix some creaky chairs and a broken ladder",
+      "es": ""
+    },
+    {
+      "id": 162883730,
+      "en": "'So, you will stay? I am very glad to hear that, very glad indeed. Now, this may sound familiar to you, but there are some squeaky chairs that Limril will not let back into the house until they are repaired, and also a ladder with a broken rung.\\n\\n'No, no. Not the same chairs as last time nor is it the same rung on the ladder. Your repairs held up.'",
+      "es": ""
+    },
+    {
+      "id": 51875089,
+      "en": "Gladion, a farmer of northern Lamedon, has offered you familiar exchange: a night of lodging and hospitality for a day's labour on his farm.",
+      "es": ""
+    },
+    {
+      "id": 177082808,
+      "en": "You should harvest the wheat and cabbages, and carry the carrot-crate to the waggon bound for Calembel",
+      "es": ""
+    },
+    {
+      "id": 246419841,
+      "en": "Gladion is at his farm in northern Lamedon.\\n\\nSpeak with Gladion about the help he needs on his farm.",
+      "es": ""
+    },
+    {
+      "id": 216727827,
+      "en": "Gladion is at his farm in northern Lamedon.\\n\\nYou should return to Gladion.",
+      "es": ""
+    },
+    {
+      "id": 162883734,
+      "en": "'You are as fast as I remember, [placeholder]. Now, while we do not need help harvesting, we do need help with weeding and picking stones.'",
+      "es": ""
+    },
+    {
+      "id": 216727830,
+      "en": "Gladion's farm is in northern Lamedon.\\n\\nRepair damaged furniture at Gladion's farm.",
+      "es": ""
+    },
+    {
+      "id": 246419845,
+      "en": "Gladion is at his farm in northern Lamedon.\\n\\nSpeak with Gladion about the help he needs on his farm.",
+      "es": ""
+    },
+    {
+      "id": 111477395,
+      "en": "Tell Gladion you will help him with his work",
+      "es": ""
+    },
+    {
+      "id": 246419849,
+      "en": "Weeds and stones can be found on Gladion's family's farmland.\\n\\nPick weeds and stones from Gladion's farmland.",
+      "es": ""
+    },
+    {
+      "id": 177082771,
+      "en": "He asks you to remove weeds and stones from the farmland",
+      "es": ""
+    },
+    {
+      "id": 111477399,
+      "en": "Ask Gladion what else he needs",
+      "es": ""
+    },
+    {
+      "id": 177082773,
+      "en": "Picked stones ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 177082775,
+      "en": "Pulled weeds ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 127884914,
+      "en": "Dropped the carrots",
+      "es": ""
+    },
+    {
+      "id": 225071141,
+      "en": "Return to Gladion",
+      "es": ""
+    },
+    {
+      "id": 225071143,
+      "en": "Repair the squeaky chairs ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 225071144,
+      "en": "Repair the broken ladder ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 177082785,
+      "en": "Harvested wheat ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 69036791,
+      "en": "Carry the crate of carrots to the waggon bound for Calembel ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 177082789,
+      "en": "Picked a cabbage ([placeholder]/[placeholder])",
+      "es": ""
     }
   ]
 }

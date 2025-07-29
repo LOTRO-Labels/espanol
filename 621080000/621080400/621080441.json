@@ -2,256 +2,214 @@
   "id": 621080441,
   "txt": [
     {
-      "id": "0x1cb47d3",
+      "id": 30099411,
       "en": "'Bah! You take the bow, and I'll have a look from the stern!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1cb47d4",
+      "id": 30099412,
       "en": "'Have you found anything, [placeholder]?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a2",
+      "id": 246419874,
       "en": "Starboard can be found on the right side of a ship, when facing toward the bow.\\n\\nByrski Hardprow has asked you to look off the starboard side of the Saervig and search for Durin's Crown.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b6",
+      "id": 162883766,
       "en": "'Nothing? No luck at all?'\\n\\nByrski sighs.\\n\\n'I had hoped it would be easier than this, my friend. I'll take one last look, and then we can sail back to Mekhem-bizru. I just don't want to let the Iron Garrison down!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a3",
+      "id": 246419875,
       "en": "The bow can be found at the front or fore of the Saervig.\\n\\nByrski Hardprow has asked you to look off the bow of the Saervig and search for Durin's Crown.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x35f0d82",
+      "id": 56561026,
       "en": "'Wait a moment... do you see that?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "Look off the starboard side of the Saervig and search for Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Byrski Hardprow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Look off the larboard side of the Saervig and search for Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "Look off the bow of the Saervig and search for Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a8",
+      "id": 246419880,
       "en": "Byrski Hardprow has sailed the Saervig onto the Mirrormere.\\n\\nYou have looked for Durin's Crown in several places, but your search has not been successful. You should talk to Byrski Hardprow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1183",
+      "id": 177082755,
       "en": "As you gaze into the Mirrormere, a brilliant light engulfs you!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Look off the stern of the Saervig and search for Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd8cab2",
+      "id": 198757042,
       "en": "'There! Do you see it? A glimmer! Could it be Durin's Crown?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Talk to Byrski Hardprow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "As the light fades away, it appears that Byrski has been trying to get your attention!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "Byrski Hardprow has offered to seek out Durin's Crown in the Mirrormere, hoping it might herald an auspicious end to the Iron Garrison's reclamation of Khazad-dûm.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "The glint that Byrski spotted can be found off the starboard side of the Saervig, nearer to its bow.\\n\\nByrski Hardprow has asked you to look for the glint he saw in the Mirrormere and tell him if you also believe it to be Durin's Crown.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b5",
+      "id": 246419893,
       "en": "You have been engulfed in a brilliant, white light, and though you cannot identify the light's source, its warmth lifts your spirit.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1191",
+      "id": 177082769,
       "en": "You see many stars in the Mirrormere, but not Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1195",
+      "id": 177082773,
       "en": "You see many stars in the Mirrormere, but not Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01193",
+      "id": 246419859,
       "en": "Byrski Hardprow has sailed the Saervig onto the Mirrormere.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a8",
+      "id": 162883752,
       "en": "'[placeholder]! Are you all right?\\n\\n'You were looking into the Mirrormere and then it seemed to me that you became lost in some deep reverie. Is this a common occurrence, my friend? I do not mean to alarm you, but it has been nearly ten minutes! What happened? Did you see Durin's Crown?'\\n\\nYou tell Byrski that you were engulfed in a brilliant light, and that its warmth lifted your spirits and granted you a renewed sense of purpose as a Mariner. You suggest that it could have been the fabled Star of Eärendil, but you remain uncertain.\\n\\n'The Star of Eärendil?! I thought that was just an old Mariner's tale—a guiding star to find shelter upon the Sea. And besides, I didn't see any light! I may be one eye short, but I would think I'd have noticed something like that! Perhaps your adventures have been too taxing of late, my friend.\\n\\n'Ah, but I am... fairly certain that I spotted Durin's Crown! It had the proper number of stars, and it did appear to be in the shape of a crown, so I think our expedition was a success!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Look for the glint in the Mirrormere",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01196",
+      "id": 246419862,
       "en": "Larboard can be found on the left side of a ship, when facing toward the bow.\\n\\nByrski Hardprow has asked you to look off the larboard side of the Saervig and search for Durin's Crown.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed99",
+      "id": 235466137,
       "en": "Listen to Byrski",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x688c021",
+      "id": 109625377,
       "en": "<rgb=#000000>Bathed in this light, you feel a renewed sense of hope and purpose</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ed5761",
+      "id": 65886049,
       "en": "Bathed in this light, you feel a renewed sense of hope and purpose",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01199",
+      "id": 246419865,
       "en": "The stern can be found at the rear or aft of the Saervig.\\n\\nByrski Hardprow has asked you to look off the stern of the Saervig and search for Durin's Crown.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x688c022",
+      "id": 109625378,
       "en": "<rgb=#000000>Does Eärendil's star now guide your journey as a Mariner?</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ed5762",
+      "id": 65886050,
       "en": "Does Eärendil's star now guide your journey as a Mariner?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Could this be the light of the Star of Eärendil?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56851",
+      "id": 162883665,
       "en": "'Ah, the Saervig is a fine ship, my friend. And look, Durin himself greets us!'\\n\\nByrski takes a moment to look around on the decks of the Saervig.\\n\\n'Very good! Let us begin our search for Durin's Crown, [placeholder]. And remember, you're looking for seven stars in the shape of a crown. Oh, what am I saying? Of course you know that!\\n\\n'I'll start over here, so why don't you have a look from larboard?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'I think it is time we sailed back to Mekhem-bizru, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'Ah, the Saervig is a fine ship, my friend. And look, Durin himself greets us!'\\n\\nByrski takes a moment to look around on the decks of the Saervig.\\n\\n'Very good! Let us begin our search for Durin's Crown, [placeholder]. And remember, you're looking for seven stars in the shape of a crown. I'll start over here, so why don't you have a look from larboard?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a5",
+      "id": 177082789,
       "en": "You see many stars in the Mirrormere, but not Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Talk to Byrski Hardprow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01140",
+      "id": 246419776,
       "en": "Byrski Hardprow has sailed the Saervig onto the Mirrormere.\\n\\nYou have been engulfed in a curious light, but Byrski appears concerned. You should talk to Byrski Hardprow.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Instance: The Stars' Favour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1cb47d1",
+      "id": 30099409,
       "en": "'Why don't we switch sides and see if that helps?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1cb47d2",
+      "id": 30099410,
       "en": "'Nothing yet. I'll have a look from the bow. Why don't you take the stern?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a8",
+      "id": 177082792,
       "en": "You see many stars in the Mirrormere, but not Durin's Crown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

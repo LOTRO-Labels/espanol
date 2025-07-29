@@ -2,22 +2,19 @@
   "id": 620920714,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Loyalty",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your pet loves you. If you are hit by a Critical attack, your pet will sacrifice some Morale to heal you while taking some of your Threat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Upon receiving a Critical Hit, your pet will sacrifice [placeholder] of its Morale to heal [placeholder] of your max Morale. You cannot gain this effect more than once every 15s.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

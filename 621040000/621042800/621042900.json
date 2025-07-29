@@ -2,154 +2,129 @@
   "id": 621042900,
   "txt": [
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'[placeholder]! You made it out of the vault just in time! Let us return with all the valuables you were able to collect. I am sure Hórin will be pleased with your efforts!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Mission: Gold Rush",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50251",
+      "id": 111477329,
       "en": "Collect treasure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50252",
+      "id": 111477330,
       "en": "Collect priceless treasure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "Collect valuable treasure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50257",
+      "id": 111477335,
       "en": "<rgb=#FF0000>Collect the treasure and exit the vault before it closes shut!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50259",
+      "id": 111477337,
       "en": "<rgb=#FF0000>Collect the treasure and exit the vault before it closes shut!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "You have been tasked with collecting treasures from a recently uncovered dwarf-vault in Gundabad.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01151",
+      "id": 246419793,
       "en": "Enter the vault.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Collect the treasure and exit the vault before it closes shut!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b5",
+      "id": 246419893,
       "en": "Exit the vault before it closes shut!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1160",
+      "id": 177082720,
       "en": "<rgb=#FF0000>Exit the vault before it closes shut!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1162",
+      "id": 177082722,
       "en": "Collect the treasure and exit the vault before it closes shut!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1166",
+      "id": 177082726,
       "en": "<rgb=#FF0000>Exit the vault before it closes shut!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3618fd1",
+      "id": 56725457,
       "en": "'That's enough treasure! Now to exit the vault before it closes shut!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbdc5211",
+      "id": 198988305,
       "en": "'Quickly! There is not much time before the vault locks once again!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbdc5212",
+      "id": 198988306,
       "en": "'You made it back with the treasure, just in time!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50243",
+      "id": 111477315,
       "en": "Enter the vault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50244",
+      "id": 111477316,
       "en": "Exit the vault after collecting the treasure!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50245",
+      "id": 111477317,
       "en": "<rgb=#FF0000>Collect the treasure and exit the vault before it closes shut!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a6",
+      "id": 111477414,
       "en": "Exit the vault!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1174",
+      "id": 177082740,
       "en": "Collected treasure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1175",
+      "id": 177082741,
       "en": "Collected valuable treasure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1176",
+      "id": 177082742,
       "en": "Collected priceless treasure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1178",
+      "id": 177082744,
       "en": "The Vault has closed with you in it!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

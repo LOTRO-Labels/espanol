@@ -2,82 +2,474 @@
   "id": 620842527,
   "txt": [
     {
-      "id": "0xcb1a932",
+      "id": 212969778,
       "en": "Sorcerer's Chamber",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x838d2e4",
+      "id": 137941732,
       "en": "<rgb=#00ffff>Encounter Complete: Seregruin has fallen to your mighty blow!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0dc242",
+      "id": 185451074,
       "en": "The Sorceror's Chamber has been cleared. The banner may be claimed for the Free Peoples",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8ee2f4",
+      "id": 227468020,
       "en": "<rgb=#FF0000>Puiguil has been defeated!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81aa995",
+      "id": 135965077,
       "en": "<rgb=#00ffff>Encounter Update: As the last craban falls, the pack leader Swartclaw swoops in!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'With the sorcerer defeated, we can sleep peacefully at night, knowing we are now safe. Thank you for coming to our aid.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'The ford remains ours and Rivendell shall be free from any assault, at least for this day. This was a good victory, one the enemy's forces will not soon recover from.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2708b75",
+      "id": 40930165,
       "en": "<rgb=#00FF00>The counterattack has been defeated. The West Bridge is secure. It is safe to press on</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5f3594e",
+      "id": 99834190,
       "en": "<rgb=#00ffff>Encounter: A flock of crebain screech from a roosting tree up the ramp to the north</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x19482e7",
+      "id": 26510055,
       "en": "<rgb=#00ffff>Encounter Update: The egg sac explodes in a puddle of goop</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x838d2f4",
+      "id": 137941748,
       "en": "<rgb=#00ffff>Encounter Complete: Ghostfang has fallen to your mighty blow!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x67e6574",
+      "id": 108946804,
       "en": "<rgb=#FF0000>Laeglang has been defeated!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x838d184",
-      "en": "<rgb=#00ffff>Encounter Complete: Rimdeloth has fallen ",
-      "es": "",
-      "es (fem)": ""
+      "id": 137941380,
+      "en": "<rgb=#00ffff>Encounter Complete: Rimdeloth has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 15948158,
+      "en": "<rgb=#00ffff>Encounter: Screaming and scratching echo from the main courtyard</rgb>",
+      "es": ""
+    },
+    {
+      "id": 83056974,
+      "en": "<rgb=#00ffff>Encounter: Spider-eggs cocoon the room ahead</rgb>",
+      "es": ""
+    },
+    {
+      "id": 139175641,
+      "en": "'My sword stands ready.'",
+      "es": ""
+    },
+    {
+      "id": 223000770,
+      "en": "<rgb=#FF0000>A counterattack has been launched against the Lower Courtyard!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Claim the lower courtyard",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "Claim the south entranceway",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Claim the west bridge",
+      "es": ""
+    },
+    {
+      "id": 133518228,
+      "en": "'Now, prepare to meet your end for daring to meddle in the plans of Dol Guldur!'",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "Claim the east terrace",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Open the upper courtyard",
+      "es": ""
+    },
+    {
+      "id": 22075078,
+      "en": "Defeat the sorcerer and claim the sorcerer's chamber",
+      "es": ""
+    },
+    {
+      "id": 22075079,
+      "en": "Elrohir must survive",
+      "es": ""
+    },
+    {
+      "id": 89366481,
+      "en": "'I do not know who you are, but I presume you are here to rescue these poor lost souls.'",
+      "es": ""
+    },
+    {
+      "id": 89366482,
+      "en": "'But I am not yet done with them, and I do not take kindly to interruptions!'",
+      "es": ""
+    },
+    {
+      "id": 171829970,
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The Lower Courtyard is secure. It is safe to press on</rgb>",
+      "es": ""
+    },
+    {
+      "id": 267606350,
+      "en": "<rgb=#00ffff>Encounter Update: As the torches sputter to life, Ruingalad comes streaking around the corner!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 135965141,
+      "en": "<rgb=#00ffff>Encounter Update: Crashing and thunderous feet behind you tell that more than just the Elves heard that horn</rgb>",
+      "es": ""
+    },
+    {
+      "id": 30405364,
+      "en": "Upper Courtyard",
+      "es": ""
+    },
+    {
+      "id": 136263297,
+      "en": "<rgb=#00FF00>The lower courtyard is yours. The Enemy will not willingly leave it that way</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263298,
+      "en": "<rgb=#00FF00>The upper courtyard is in your control and the gates to the sorcerer's chamber have opened</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263299,
+      "en": "<rgb=#00FF00>The sorcerer and the threat from Dannenglor have been defeated. Audaghaim and the Golden Host are safe</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263300,
+      "en": "A son of Elrond has fallen.",
+      "es": ""
+    },
+    {
+      "id": 136263301,
+      "en": "A son of Elrond has fallen.",
+      "es": ""
+    },
+    {
+      "id": 209032200,
+      "en": "'At last help has arrived!'",
+      "es": ""
+    },
+    {
+      "id": 137941620,
+      "en": "<rgb=#00ffff>Encounter Complete: Ruingalad has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 229316021,
+      "en": "Eastern Terrace",
+      "es": ""
+    },
+    {
+      "id": 66279758,
+      "en": "<rgb=#00ffff>Encounter: The torch flames flicker out as you take the West Bridge</rgb>",
+      "es": ""
+    },
+    {
+      "id": 262731285,
+      "en": "The South Entranceway has been cleared. The banner may be claimed for the Free Peoples",
+      "es": ""
+    },
+    {
+      "id": 46367829,
+      "en": "South Entranceway",
+      "es": ""
+    },
+    {
+      "id": 186026462,
+      "en": "The doors to the Upper Courtyard of Dannenglor creak open.",
+      "es": ""
+    },
+    {
+      "id": 135965173,
+      "en": "<rgb=#00ffff>Encounter Update: A terrible Morvul scream echoes through the courtyard as the second torch alights</rgb>",
+      "es": ""
+    },
+    {
+      "id": 184458546,
+      "en": "The Upper Courtyard has been cleared. The banner may be claimed for the Free Peoples",
+      "es": ""
+    },
+    {
+      "id": 162007077,
+      "en": "<rgb=#00FF00>The East Terrace is now under your control.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 177309234,
+      "en": "The Lower Courtyard has been cleared. The banner may be claimed for the Free Peoples",
+      "es": ""
+    },
+    {
+      "id": 137941652,
+      "en": "<rgb=#00ffff>Encounter Complete: Fiklúk has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 49502542,
+      "en": "<rgb=#00ffff>Encounter: Chanting echoes from the structure to the North</rgb>",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Strike Against Dannenglor",
+      "es": ""
+    },
+    {
+      "id": 146163061,
+      "en": "The West Bridge has been cleared. The banner may be claimed for the Free Peoples",
+      "es": ""
+    },
+    {
+      "id": 87375172,
+      "en": "<rgb=#FF0000>Prestadír has been defeated!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 209052680,
+      "en": "'We do not have much time! You must hurry!'",
+      "es": ""
+    },
+    {
+      "id": 2000660,
+      "en": "The counterattack has been defeated. It is safe to press on",
+      "es": ""
+    },
+    {
+      "id": 222542248,
+      "en": "<rgb=#FF0000>A counterattack has been launched against the South Entranceway!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 137941668,
+      "en": "<rgb=#00ffff>Encounter Complete: Helchfaer has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 107992104,
+      "en": "'This bridge is crucial to their defences... you must claim it!'",
+      "es": ""
+    },
+    {
+      "id": 214156213,
+      "en": "'I do not have much strength left, but I will help you all I can.'",
+      "es": ""
+    },
+    {
+      "id": 206112633,
+      "en": "'Let them come!'",
+      "es": ""
+    },
+    {
+      "id": 205719557,
+      "en": "'I must retreat to tend my wounds. Please, save the others.'",
+      "es": ""
+    },
+    {
+      "id": 133388622,
+      "en": "<rgb=#00ffff>Encounter: Sounds of teeth gnashing and bones being gnawed come from ahead</rgb>",
+      "es": ""
+    },
+    {
+      "id": 267622660,
+      "en": "<rgb=#00ffff>Encounter: A sharp gust of wind extinguishes the torches at the South Entranceway</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Several Elves and Rangers have been taken prisoner by a sorcerer within the ancient Elf-ruins of Dannenglor.",
+      "es": ""
+    },
+    {
+      "id": 188268081,
+      "en": "'Thank goodness you have come! The situation is most dire!'",
+      "es": ""
+    },
+    {
+      "id": 188268082,
+      "en": "'They have been held captive here for nearly a week, I am sure they are near breaking!'",
+      "es": ""
+    },
+    {
+      "id": 137941684,
+      "en": "<rgb=#00ffff>Encounter Complete: Gorogmúl has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 188268083,
+      "en": "'Please, rescue them while there is still time!'",
+      "es": ""
+    },
+    {
+      "id": 67415508,
+      "en": "'Please... please help me....'",
+      "es": ""
+    },
+    {
+      "id": 32725326,
+      "en": "<rgb=#00ffff>Encounter: An Elf scouting-horn sounds from across the river, you should find a horn and respond</rgb>",
+      "es": ""
+    },
+    {
+      "id": 213107637,
+      "en": "'We shall fend them off together.'",
+      "es": ""
+    },
+    {
+      "id": 262706708,
+      "en": "The East Terrace has been cleared. The banner may be claimed for the Free Peoples",
+      "es": ""
+    },
+    {
+      "id": 107947048,
+      "en": "'Quickly, dispatch them all and claim this gate!'",
+      "es": ""
+    },
+    {
+      "id": 173599672,
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The South Entranceway is secure. It is safe to press on</rgb>",
+      "es": ""
+    },
+    {
+      "id": 121816517,
+      "en": "West Bridge",
+      "es": ""
+    },
+    {
+      "id": 13918708,
+      "en": "<rgb=#FF0000>A counterattack has been launched against the West Bridge!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 138520997,
+      "en": "'I am sure our paths will cross again.'",
+      "es": ""
+    },
+    {
+      "id": 137941700,
+      "en": "<rgb=#00ffff>Encounter Complete: Gothling has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 184879764,
+      "en": "<rgb=#FF0000>Idhrenfair has been defeated!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 47796772,
+      "en": "Lower Courtyard",
+      "es": ""
+    },
+    {
+      "id": 109308325,
+      "en": "'My wounds are not so serious that I cannot fight.'",
+      "es": ""
+    },
+    {
+      "id": 150793909,
+      "en": "<rgb=#00FF00>The South Entranceway is now under your control</rgb>",
+      "es": ""
+    },
+    {
+      "id": 189335417,
+      "en": "'I am ready to face the evil!'",
+      "es": ""
+    },
+    {
+      "id": 222982361,
+      "en": "'Thank you for your aid and rescue. We can leave free and in peace now.'",
+      "es": ""
+    },
+    {
+      "id": 188942341,
+      "en": "'I must take my leave, I wish you the best.'",
+      "es": ""
+    },
+    {
+      "id": 116611406,
+      "en": "<rgb=#00ffff>Encounter: As the courtyard falls to your control, an ancient guardian of it returns</rgb>",
+      "es": ""
+    },
+    {
+      "id": 185324802,
+      "en": "The enemy has launched a counterattack!",
+      "es": ""
+    },
+    {
+      "id": 132893393,
+      "en": "'Looks like you get a reprieve, Athrandir. Your would be rescuers will pay dearly for having interrupted me!'",
+      "es": ""
+    },
+    {
+      "id": 137941716,
+      "en": "<rgb=#00ffff>Encounter Complete: Swartclaw has fallen to your mighty blow!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 135965061,
+      "en": "<rgb=#00ffff>Encounter Update: Furious at the eggs being destroyed, Gothling descends from the dead limbs above</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "The doors of Dannenglor have been sealed. To infiltrate the ancient ruins, you will have to enter through the lower courtyard and work your way up.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The heart of Dannenglor is a large open courtyard with a southern gate, western bridge, and eastern terrace. All three of those will need to be in your control to advance.",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "The small upper courtyard is the only thing keeping you from the sorcerer.",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "To take Dannenglor for the Golden Host and free its prisoners, the sorcerer residing here must be defeated and his chamber claimed.",
+      "es": ""
+    },
+    {
+      "id": 212787749,
+      "en": "<rgb=#00FF00>The West Bridge is now under your control</rgb>",
+      "es": ""
     }
   ]
 }

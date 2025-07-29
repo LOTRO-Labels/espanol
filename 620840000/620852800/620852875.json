@@ -2,64 +2,54 @@
   "id": 620852875,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Within Garmadh-maudhûl, there is a mine being used to resupply Dol Guldur. The ore does not appear to possess the blight that has taken hold in the Ashenslades, which means it is of high quality, and thus a danger to us.\\n\\n'We must destroy the carts that are being used to transport the ore, but they appear to be of dwarf-make, which may make them difficult to disable.\\n\\n'Hurry to Garmadh-maudhûl and destroy the carts.  The encampment can be found to the north-east by following the trail that traverses up the mountain.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'We here at Mithechad thank you for your services. Your contribution has weakened the supply-chain for Dol Guldur at a critical point of the assault.\\n\\n'We are indebted to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Have you destroyed the ore-carts of Garmadh-maudhûl? The supply of ore to Dol Guldur must be hindered!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Cut the Supplies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Orc-encampment of Garmadh-maudhûl boasts a mine which produces ore for the use of the armies of Dol Guldur.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Destroyed ore carts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Destroy ore carts ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Garmadh-maudhûl can be found to the north-east of Mithechad by following a trail that traverses up the mountain.\\n\\nEirien has asked you to destroy the ore-carts which the Orcs at Garmadh-maudhûl are using to resupply Dol Guldur.\\n  ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Eirien in Mithechad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Eirien is at Mithechad, south-west of Garmadh-maudhûl.\\n\\nYou should return to Eirien and let her know that the ore-carts have been destroyed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

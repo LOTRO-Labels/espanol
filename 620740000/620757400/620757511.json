@@ -2,82 +2,69 @@
   "id": 620757511,
   "txt": [
     {
-      "id": "0xb830b5",
+      "id": 12071093,
       "en": "<rgb=#05D505>Variable (</rgb>[placeholder]<rgb=#05D505>) StringInfo</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x422d045",
+      "id": 69390405,
       "en": "<rgb=#05D505>Variable (</rgb>[placeholder]<rgb=#05D505>) String (</rgb> [placeholder] <rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc87bc14",
+      "id": 210222100,
       "en": "<rgb=#05D505>Raw Text (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x542c304",
+      "id": 88261380,
       "en": "Text copied to clipboard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10eec44",
+      "id": 17755204,
       "en": "<rgb=#05D505>Rendered Text (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6c7e35",
+      "id": 241991221,
       "en": "<rgb=#05D505>Literal String  (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29d4669",
+      "id": 43861609,
       "en": "Click the right mouse button to copy the text to the clipboard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee7435",
+      "id": 15627317,
       "en": "<rgb=#05D505>Table (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf14b95",
+      "id": 15813525,
       "en": "<rgb=#05D505>UIL (</rgb>[placeholder]<rgb=#05D505>) Element (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x52d8a75",
+      "id": 86870645,
       "en": "<rgb=#05D505>Variable (</rgb>[placeholder]<rgb=#05D505>) Integer (</rgb> [placeholder] <rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd97f604",
+      "id": 228062724,
       "en": "<rgb=#05D505>Trans Unit (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x995f055",
+      "id": 160821333,
       "en": "<rgb=#05D505>Variable (</rgb>[placeholder]<rgb=#05D505>) Float (</rgb> [placeholder] <rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef6aae",
+      "id": 15690414,
       "en": "<rgb=#05D505>Token (</rgb>[placeholder]<rgb=#05D505>)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

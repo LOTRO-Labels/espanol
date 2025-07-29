@@ -2,100 +2,84 @@
   "id": 620827363,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have failed to drive the Orcs from the mines!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Mundgeirr knows of an ancient mithril mine containing a smelting forge where you may lay the foundation of the quality you seek to bestow upon your weapon. Unfortunately, a band of particularly savage Orcs has claimed the mine and enslaved their own goblin brethren to work the played-out veins in hope of coming up with a few poor scraps of mithril ore for their masters.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'If you are seeking to enhance the abilities of your weapon, there is one place where you are sure to lay the foundation for such a quality. There is an old mithril mine, played-out long ago, but within it was a fine forge with mighty spells laid upon it for the smelting of mithril ore!\\n\\n'Of course, now the Orcs have it and have set their own goblin brethren to work as slaves trying to eke out a few last sorry bits of the poorest quality ore. I doubt they know anything about the forge itself -- or care in the least -- but you will have to fight your way through them if you want to make use of it.\\n\\n'Before you dare the mine, however, you should bring me an infused garnet. Only with such a stone will you succeed in enhancing your weapon. I do not know where to find such stone, however.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Mundgeirr has asked you to bring him an infused garnet with which he may aid you in bestowing a quality upon your weapon. He does not know, however, where to find such a stone.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Ah! You were able to get your hands upon an infused garnet.\\n\\n'It will take me some time to prepare the stone. When you are ready to leave for the mine, let me know, and I will return the stone to you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Mundgeirr can be found at the Dolven-view camp in Moria.\\n\\nMungeirr has bidden you to talk to him again when you are ready to seek out the forge, but warns you that a vicious band of Orcs and their goblin slaves have taken over the mithril mine.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Mundgeirr can be found at the Dolven-view camp in Moria.\\n\\nYou should return to Mundgeirr to complete the enhancement of your weapon.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'If you are ready to go, I'm sure the Orcs are as ready as they are likely to be. If you are lucky they will be too busy digging and yelling at each other to notice you wandering through...but it will take quite a lot of luck, I'm afraid.\\n\\n'Now don't forget, you may need a small bit of that mithril ore yourself if you are going to infuse that garnet properly, so you may need to borrow a bit from the Orcs along the way, if there is any to be had.'\\n\\n<rgb=#FF0000>This is a Solo quest, and cannot be completed with a Fellowship.</rgb>\\n\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You will need to bring me an infused garnet before we can begin.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Ah! That was fine work in the mine. I trust the quality is all you were hoping for?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Ho there! I see you are still in one piece. Excellent, and what's more, you have empowered the garnet! Well done, indeed.\\n\\n'Let's have that stone, and we will see if we cannot bestow the quality you seek!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'Were you not able to empower the stone? Without an empowered garnet, I cannot help you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Bring an infused garnet to Mundgeirr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Mundgeirr to travel to the mithril mine",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Bring the empowered garnet to Mundgeirr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Mithril Slaves",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

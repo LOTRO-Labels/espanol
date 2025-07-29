@@ -2,46 +2,364 @@
   "id": 620969332,
   "txt": [
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Find the herald inside the city gate of Minas Tirith <rgb=#00FF00>(1450 Soldiers Pledged to Aragorn)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Find the herald inside the city gate of Minas Tirith <rgb=#00FF00>(1698 Soldiers Pledged to Aragorn)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e0bda1",
+      "id": 31505825,
       "en": "'King Elessar will have the men he needs!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Read aloud Aragorn's call for soldiers <rgb=#00FF00>(1802 Soldiers Pledged to Aragorn)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Find the herald north of the city gate, in the First Circle <rgb=#00FF00>(1978 Soldiers Pledged to Aragorn)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "There is a herald on the Pelennor Fields north-west of Aragorn's Pavilion.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
-      "en": "'So it is decided, for better or ill. The men I sent marching through Lossarnach from Pelargir have drawn nigh the city; so too have the men I commanded to follow the Corsair ships in smaller watercraft up the Anduin. They loiter now, waiting for orders. Let us give them direction, and hope that they make good of their word when they find that direction is \\qeast, toward the shadow.\\q\\n\\n'Take this call for soldiers, and read it to heralds on the field and th�",
-      "es": "",
-      "es (fem)": ""
+      "id": 228284034,
+      "en": "'So it is decided, for better or ill. The men I sent marching through Lossarnach from Pelargir have drawn nigh the city; so too have the men I commanded to follow the Corsair ships in smaller watercraft up the Anduin. They loiter now, waiting for orders. Let us give them direction, and hope that they make good of their word when they find that direction is \\qeast, toward the shadow.\\q\\n\\n'Take this call for soldiers, and read it to heralds on the field and throughout the First Circle of the city. The heralds will then bring its message to the waiting soldiers, and float the number of men that will march with us.'",
+      "es": ""
+    },
+    {
+      "id": 216727829,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 111477408,
+      "en": "Talk to Elfhelm at Aragorn's Pavilion",
+      "es": ""
+    },
+    {
+      "id": 31505569,
+      "en": "'I will find many soldiers for King Elessar!'",
+      "es": ""
+    },
+    {
+      "id": 111477409,
+      "en": "Talk to Mithrandir at Aragorn's Pavilion",
+      "es": ""
+    },
+    {
+      "id": 162883721,
+      "en": "'How many men were the heralds able to reach with their voices? More than two thousands, you say? That is very good, and matches my hopes. These other commanders have also done work to gather soldiers for the march. Speak to them and see how large a host we have assembled; it need not be enough to wage war upon Mordor, but it must be large enough to threaten battle!'",
+      "es": ""
+    },
+    {
+      "id": 228284036,
+      "en": "'DNT - Blah!'",
+      "es": ""
+    },
+    {
+      "id": 51875089,
+      "en": "Aragorn has sent you to find heralds on the Pelennor and in the First Circle of Minas Tirith and set them to calling for soldiers willing to join him on the march to Mordor.",
+      "es": ""
+    },
+    {
+      "id": 30955907,
+      "en": "'So it is decided.'",
+      "es": ""
+    },
+    {
+      "id": 30955908,
+      "en": "'Speak to my other commanders. Learn how large a host we have assembled.'",
+      "es": ""
+    },
+    {
+      "id": 216727833,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 30955909,
+      "en": "'Rohan will not abandon her friends.'",
+      "es": ""
+    },
+    {
+      "id": 30955910,
+      "en": "'This must be the greatest jest in all the history of Gondor!'",
+      "es": ""
+    },
+    {
+      "id": 30955911,
+      "en": "'Éomer King has given me command of the main force of the Rohirrim.'",
+      "es": ""
+    },
+    {
+      "id": 30955912,
+      "en": "'I think Imrahil has wrongly judged the mind of the Dark Lord.'",
+      "es": ""
+    },
+    {
+      "id": 225071144,
+      "en": "Find the herald outside the city gate of Minas Tirith <rgb=#00FF00>(462 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 49286711,
+      "en": "Talk to Aragorn at his pavilion on the Pelennor Fields <rgb=#00FF00>(2021 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 246419843,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 246419845,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 246419848,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 111477430,
+      "en": "Read aloud Aragorn's call for soldiers <rgb=#00FF00>(0 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477432,
+      "en": "Talk to Prince Imrahil at Aragorn's Pavilion",
+      "es": ""
+    },
+    {
+      "id": 111477433,
+      "en": "Talk to Éomer at Aragorn's Pavilion",
+      "es": ""
+    },
+    {
+      "id": 246419856,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 162883746,
+      "en": "'The men I sent marching through Lossarnach from Pelargir have drawn nigh the city; so too have the men I commanded to follow the Corsair ships in smaller watercraft up the Anduin. They loiter now, waiting for orders. Let us give them direction, and hope that they make good of their word when they find that direction is \\qeast, toward the shadow.\\q\\n\\n'Take this call for soldiers, and read it to heralds on the field and throughout the First Circle of the city. The heralds will then bring its message to the waiting soldiers, and float the number of men that will march with us.'",
+      "es": ""
+    },
+    {
+      "id": 246419859,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 177082720,
+      "en": "The herald waits for your message",
+      "es": ""
+    },
+    {
+      "id": 246419861,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 177082721,
+      "en": "The herald waits for your message",
+      "es": ""
+    },
+    {
+      "id": 177082722,
+      "en": "The herald waits for your message",
+      "es": ""
+    },
+    {
+      "id": 246419864,
+      "en": "Aragorn is at his pavilion east of Minas Tirith, after the Battle of Pelennor Fields.",
+      "es": ""
+    },
+    {
+      "id": 246419776,
+      "en": "There is a herald inside the city gate of Minas Tirith.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 246419777,
+      "en": "There is a herald inside the city gate of Minas Tirith.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 246419779,
+      "en": "There is a herald north of the city gate of Minas Tirith, in the First Circle.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 246419780,
+      "en": "There is a herald north of the city gate of Minas Tirith, in the First Circle.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 246419781,
+      "en": "There is a herald north-west of the city gate of Minas Tirith, in the First Circle.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 246419782,
+      "en": "There is a herald north-west of the city gate of Minas Tirith, in the First Circle.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 246419872,
+      "en": "Imrahil, Éomer, and Elfhelm have returned to Aragorn's Pavilion with a count of the soldiers they have attained for Aragorn's march to Mordor.",
+      "es": ""
+    },
+    {
+      "id": 246419783,
+      "en": "Mithrandir is at Aragorn's Pavilion east of Minas Tirith, after the Battle of Pelennor Fields.",
+      "es": ""
+    },
+    {
+      "id": 162883761,
+      "en": "'My swan-knights have scoured the nearby lands of Gondor for fighting men. They report that three and a half thousands will march for Mordor with Aragorn. It is as fine a total as any for which you might hope, and proves the courage of Gondor, so fresh from battle and still hungry for more.\\n\\n'But this must be the greatest jest in all the history of Gondor, [placeholder]! We march to assail the Black Gate and the impenetrable land of Mordor, and with fewer men than might have formed just the vanguard of its army in the mighty days.\\n\\n'It brings to my mind a child threatening a mail-clad knight with a toy bow, or a buzzing fly seeking to sting a man working in the hot sun. The Dark Lord will smile and knock down the child, or squish the fly in his palm, and that will be the end of it. What else is there to do but laugh at the jest, [placeholder]?'",
+      "es": ""
+    },
+    {
+      "id": 162883762,
+      "en": "'Much has been asked of my men already, but Rohan will not abandon her friends. Many among the Rohirrim were unhorsed during the battle lately ended, but they are still war-worthy and will not let that stay their weapons! Five hundreds of these will follow behind, and I will lead five hundreds on horse alongside.'",
+      "es": ""
+    },
+    {
+      "id": 162883763,
+      "en": "'Éomer King has given to me the command of the main force of the Rohirrim, some three thousands still a-horse. It is to the West Road we will go, to hold it against the enemy that is still in Anórien.'",
+      "es": ""
+    },
+    {
+      "id": 246419876,
+      "en": "DNT - Blah!",
+      "es": ""
+    },
+    {
+      "id": 31504545,
+      "en": "'Word of King Elessar's command has already reached me! I will find soldiers for his army!'",
+      "es": ""
+    },
+    {
+      "id": 162883765,
+      "en": "'The Prince of Dol Amroth believes that Aragorn's army will be as a stinging fly to the forces of the Dark Lord? He is not wrong that these seven thousands are a mere pittance to the numbers Sauron houses within the Black Land, but it seems to me that Imrahil has wrongly judged the mind of the Dark Lord.\\n\\n'Yes, we go to sting the Dark Lord. But he will not squish us, for all our buzzing. No, he will seek to trap the fly and take the sting, all unaware of our deception. On that deception all of our fortunes rest. It is the secret fly that bears the most dangerous sting of all for Sauron, and let him remain blind to it until it be too late!'",
+      "es": ""
+    },
+    {
+      "id": 30955952,
+      "en": "'The heralds will bring my message to waiting soldiers.'",
+      "es": ""
+    },
+    {
+      "id": 177082744,
+      "en": "The herald waits for your message",
+      "es": ""
+    },
+    {
+      "id": 177082745,
+      "en": "The herald waits for your message",
+      "es": ""
+    },
+    {
+      "id": 31504289,
+      "en": "'King Elessar will have his soldiers!'",
+      "es": ""
+    },
+    {
+      "id": 111477377,
+      "en": "Find the herald north of the city gate, in the First Circle <rgb=#00FF00>(1978 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477378,
+      "en": "Read aloud Aragorn's call for soldiers <rgb=#00FF00>(2003 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477380,
+      "en": "Find the herald north-west of the city gate, in the First Circle <rgb=#00FF00>(2007 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477382,
+      "en": "Find the herald north-west of the city gate, in the First Circle <rgb=#00FF00>(2012 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477383,
+      "en": "Read aloud Aragorn's call for soldiers <rgb=#00FF00>(2021 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 177082755,
+      "en": "The herald vouches for a number of soldiers to join Aragorn's army",
+      "es": ""
+    },
+    {
+      "id": 246419896,
+      "en": "There is a herald outside the city gate of Minas Tirith.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 177082756,
+      "en": "The herald vouches for a number of soldiers to join Aragorn's army",
+      "es": ""
+    },
+    {
+      "id": 246419897,
+      "en": "There is a herald outside the city gate of Minas Tirith.\\n\\nAragorn sent you to read his call for more soldiers to heralds who can reach the ears of the men that have now arrived at the city.",
+      "es": ""
+    },
+    {
+      "id": 177082757,
+      "en": "The herald vouches for a number of soldiers to join Aragorn's army",
+      "es": ""
+    },
+    {
+      "id": 31504033,
+      "en": "'I will bring this message through the city!'",
+      "es": ""
+    },
+    {
+      "id": 177082758,
+      "en": "The herald vouches for a number of soldiers to join Aragorn's army",
+      "es": ""
+    },
+    {
+      "id": 177082759,
+      "en": "The herald vouches for a number of soldiers to join Aragorn's army",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Book 7, Chapter 3: The Great Jest",
+      "es": ""
+    },
+    {
+      "id": 111477392,
+      "en": "Find the herald outside the city gate of Minas Tirith <rgb=#00FF00>(1003 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477393,
+      "en": "Read aloud Aragorn's call for soldiers <rgb=#00FF00>(1203 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
+    },
+    {
+      "id": 111477394,
+      "en": "Find the herald north-west of Aragorn's Pavilion <rgb=#00FF00>(0 Soldiers Pledged to Aragorn)</rgb>",
+      "es": ""
     }
   ]
 }

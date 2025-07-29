@@ -2,34 +2,104 @@
   "id": 621067195,
   "txt": [
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Using the ingredients you have, craft a <rgb=#FF00FF00>rough cloth cloak</rgb> at a <rgb=#FF00FF00>workbench</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Bring the <rgb=#FF00FF00>rough cloth cloak</rgb> to the Novice Tailor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
+      "id": 8725906,
       "en": "'She said I'd be happy to take on a new tailoring apprentice? I think that's overselling it. I'll teach you the basics, but I have a whole town's worth of clothing to either fix, alter, or make from whole cloth, so I'm a little too busy to dedicate lots of time to you. I'll show you how to make a basic cloak, though.\\n\\n'If you get confused by anything, talk to me again and I'll help.\\n\\n'Oh, here, take this <rgb=#FF00FF00>crate</rgb>. Everything you need to make a rough cloth cloak is inside this <rgb=#FF00FF00>crate</rgb>.\\n\\n'Open it up, make sure your <rgb=#FF00FF00>tailoring tools</rgb> are equipped, then make your way to the <rgb=#FF00FF00>workbench</rgb>.'\\n\\n<rgb=#FF00FF00>Tailor vendors sell ingredients and recipes that are a vital part of any Tailor's training and continued work.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have made a rough cloth cloak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c476",
-      "en": "'Good work, so far. Get your hands to work and stitch together that <rgb=#FF00FF00>rough cloth cloak</rgb>.'\\n\\n<rgb=#FF00FF00>To open your cra�",
-      "es": "",
-      "es (fem)": ""
+      "id": 205636726,
+      "en": "'Good work, so far. Get your hands to work and stitch together that <rgb=#FF00FF00>rough cloth cloak</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 205636727,
+      "en": "'First, make sure your <rgb=#FF00FF00>tailoring tools</rgb> are equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you, and make your way to the <rgb=#FF00FF00>workbench</rgb>.'\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Tailors craft the normal dress worn by most folk in Middle-earth. They are also proficient at crafting light and medium leather armour.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipes and deliver the correct items outlined in this quest.\\n\\nYou will need to execute the rough cloth cloak recipe and deliver the rough cloth cloak. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 8725888,
+      "en": "'Do you have the rough cloth cloak on you? I do not see it. I hope you did not tear it up in frustration or sell it for coin. I would like to inspect that work. You had best find a way to make another.'",
+      "es": ""
+    },
+    {
+      "id": 8725913,
+      "en": "'Let me see what you have done.'\\n\\nShe examines the cloak closely.\\n\\n'An excellent piece of handiwork, [placeholder]. You did very well in making this cloak.\\n\\n'I think that this is a very good effort and proves that you are prepared to continue your work towards becoming a master tailor.'",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "You should speak with the Novice Tailor to learn more about tailoring.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The Novice Tailor provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute the rough cloth cloak recipe. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Tailors are normally purchased from vendors or traded from players with the forester profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "Create the <rgb=#FF00FF00>rough cloth cloak</rgb>, as instructed by the Novice Tailor.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Tailoring tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Tailoring requires a workbench.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the rough cloth cloak!</rgb> It is time to show your handiwork to your mentor, the Novice Tailor.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with the Novice Tailor near the workbench in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 63183940,
+      "en": "'You should speak at once with the tailor trainer.'",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided with ingredients",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Tailor to collect the brushed light leather and one bolt of rough cloth",
+      "es": ""
+    },
+    {
+      "id": 218649175,
+      "en": "'Sidan will be glad to hear you are interested in taking up the mantle of being a tailor. You can find her with several of the other tradesfolk near the tall silo in the northern part of Lhan Garan.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a rough cloth cloak",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Introduction to Tailoring",
+      "es": ""
     }
   ]
 }

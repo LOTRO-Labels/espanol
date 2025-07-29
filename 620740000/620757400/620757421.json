@@ -2,178 +2,149 @@
   "id": 620757421,
   "txt": [
     {
-      "id": "0x6f43a45",
+      "id": 116668997,
       "en": "#1:{The[!n]} #1:[placeholder] fails to apply [placeholder] to you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe40a974",
+      "id": 239118708,
       "en": "The item could not be created.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3289d17",
+      "id": 52993303,
       "en": "[placeholder] not meet the level requirement of the travel location.  Do you wish to travel anyway?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc33c7c3",
+      "id": 204720067,
       "en": "[placeholder] lacks the ability to travel to the destination.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x37e2624",
+      "id": 58598948,
       "en": "This is not yet bound to any travel location.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf226165",
+      "id": 253911397,
       "en": "No time has been added to the effect.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9e7c133",
+      "id": 166183219,
       "en": "You have added [placeholder] to the effect [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x32aef08",
+      "id": 53145352,
       "en": "You are not allowed to use stealth right now.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x637faf5",
+      "id": 104332021,
       "en": "You fail to apply [placeholder] to yourself.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9eaf0be",
+      "id": 166391998,
       "en": "You apply [placeholder] to yourself.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ffbc44",
+      "id": 83868740,
       "en": "[placeholder] did not have the permission necessary to travel to the destination.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3aaaf2",
+      "id": 3844850,
       "en": "[placeholder] does",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75aba74",
+      "id": 123386484,
       "en": "You must bind to a camp site.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd1f7754",
+      "id": 220165972,
       "en": "Current Camp - [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ade2b7",
+      "id": 128836279,
       "en": "You do not meet the level requirement to travel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7cb1d74",
+      "id": 130751860,
       "en": "[placeholder] and [placeholder] do",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x95a557e",
+      "id": 156915070,
       "en": "#1:{The[!n]} #1:[placeholder] applies [placeholder] to you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2de0b4",
+      "id": 170778804,
       "en": "The summoning fails.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf763da4",
+      "id": 259407268,
       "en": "[placeholder], [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdbbc7d4",
+      "id": 230410196,
       "en": "You are already stealthed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb87e854",
+      "id": 193456212,
       "en": "You cannot travel while in combat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2506aac",
+      "id": 38824620,
       "en": "You are no longer affected by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f0cad3",
+      "id": 66112211,
       "en": "You lack the ability to recall to the destination.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6186f55",
+      "id": 102264661,
       "en": "You fail to apply [placeholder] to #1:{the[!n]} #1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b8c7c4",
+      "id": 129550276,
       "en": "[placeholder] was in combat and could not travel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x332cf34",
+      "id": 53661492,
       "en": "You do not have the permission necessary to travel to the destination.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30baa1c",
+      "id": 51096092,
       "en": "You are no longer affected by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4ab12e",
+      "id": 206221614,
       "en": "You apply [placeholder] to #1:{the[!n]} #1:[placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ec3f9c",
+      "id": 49037212,
       "en": "#1:{The[!n]} #1:[placeholder] is no longer affected by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

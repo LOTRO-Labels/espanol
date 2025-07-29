@@ -2,28 +2,119 @@
   "id": 621067205,
   "txt": [
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Bring the <rgb=#FF00FF00>copper ring</rgb> to the Novice Jeweller",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c471",
+      "id": 205636721,
       "en": "'First, ensure your <rgb=#FF00FF00>jeweller's tools</rgb> are equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you, and make your way to the <rgb=#FF00FF00>workbench</rgb>.'\\n\\n<rgb=#FF00FF00>Ingredients for Jewellers are normally purchased from vendors or traded from players with the prospector profession. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c49",
+      "id": 63183945,
       "en": "'Making the copper ring will be easy. Shape the metal into a ring over by the workbench. Little else needed to do beyond that.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Jeweller tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe, you must be near the proper facility. Jewelcrafting requires a workbench.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c472",
-      "en": "'Making the copper ring is simple. Work the metals over by the <rgb=#FF00FF00>workbench</rgb> and craft the ring. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use ",
-      "es": "",
-      "es (fem)": ""
+      "id": 205636722,
+      "en": "'Making the copper ring is simple. Work the metals over by the <rgb=#FF00FF00>workbench</rgb> and craft the ring. Then you will have everything that you need.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Jeweller tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe, you must be near the proper facility. Jewelcrafting requires a workbench.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263297,
+      "en": "You have made a copper ring",
+      "es": ""
+    },
+    {
+      "id": 8725906,
+      "en": "'Hello, there. Interested in learning the ways of jewelcrafting? If so, you have come to the right place.\\n\\n'I'll walk you through the basics. If at any point you get confused, speak to me again and I'll explain things again.\\n\\n'I almost forgot the most important thing for every new jeweller -- ingredients. Everything you need to make a copper ring is inside this <rgb=#FF00FF00>crate</rgb>.\\n\\n'Open it up, ensure your <rgb=#FF00FF00>jeweller's tools</rgb> are equipped, then make your way to the <rgb=#FF00FF00>workbench</rgb>.'\\n\\n<rgb=#FF00FF00>Jeweller vendors sell ingredients and recipes that are a vital part of any Jeweller's training and continued work.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Jewellers create adornments that can be imbued with some measure of power. Quality jewellery is a necessity for adventurers of all kinds.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipes and deliver the correct items outlined in this quest.\\n\\nYou will need to execute the copper ring recipe and deliver the copper ring. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 8725888,
+      "en": "'Do you have the copper ring on you? I do not see it. I hope you did not ruin it or sell it for coin. I would like to inspect that work. You had best find a way to make another.'",
+      "es": ""
+    },
+    {
+      "id": 8725913,
+      "en": "'Let me see what you have done.'\\n\\nHe examines the ring closely.\\n\\n'I see no flaws, and the metal feels smooth and appears well polished.\\n\\n'I think that this is a very good effort and proves that you are prepared to continue your work towards becoming a master jeweller.'",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "You should speak with the Novice Jeweller to learn more about jewelcrafting.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The Novice Jeweller provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute the copper ring recipe. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Jewellers are normally purchased from vendors or traded from players with the prospector profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "The Novice Jeweller provided you with the ingredients necessary to create a copper ring. Approach the workbench and prepare the <rgb=#FF00FF00>copper ring</rgb>.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Jeweller tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe, you must be near the proper facility. Jewelcrafting requires a workbench.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the copper ring!</rgb> It is time to show your handiwork to your mentor, the Novice Jeweller.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with the Novice Jeweller near the workbench in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 63183940,
+      "en": "'You should speak at once with the jeweller trainer.'",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided with ingredients",
+      "es": ""
+    },
+    {
+      "id": 218649175,
+      "en": "'If you wish to know more of jewelcrafting, speak with Emlyn. You can find him near the tall silo in the northern part of Lhan Garan near the other tradesfolk.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Jeweller to collect the copper ingots",
+      "es": ""
+    },
+    {
+      "id": 63183941,
+      "en": "'Making the copper ring should be simple. Take your jeweller's tools to the workbench and work the metal down into a ring.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Jeweller tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe, you must be near the proper facility. Jewelcrafting requires a workbench.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a copper ring",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Introduction to Jewelcrafting",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Using the ingredient you received, craft a <rgb=#FF00FF00>copper ring</rgb> at a <rgb=#FF00FF00>workbench</rgb>",
+      "es": ""
+    },
+    {
+      "id": 63183943,
+      "en": "'You will first need to make the copper ring. Go to the workbench and craft the copper ring.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the T key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Jeweller tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Jewelcrafting requires a workbench.</rgb>",
+      "es": ""
     }
   ]
 }

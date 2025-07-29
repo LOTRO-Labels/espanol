@@ -2,940 +2,784 @@
   "id": 620843555,
   "txt": [
     {
-      "id": "0x24fa348",
+      "id": 38773576,
       "en": "ShowMonsterAttackEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x615408e",
+      "id": 102056078,
       "en": "ToolbarSlot3Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3d46f2",
+      "id": 238896882,
       "en": "CharacterUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x32575f2",
+      "id": 52786674,
       "en": "ShowQuestTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe9b6c5",
+      "id": 15316677,
       "en": "MoveToUse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1569c95",
+      "id": 22453397,
       "en": "SelectedPortraitFloatyDamage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2dbf937",
+      "id": 47970615,
       "en": "AutoTargetForwarding",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc5e3b8c",
+      "id": 207502220,
       "en": "Bar4Horizontal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f984c",
+      "id": 127899724,
       "en": "Bar1Horizontal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10ae691",
+      "id": 17491601,
       "en": "FellowshipVitals1UIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10ae692",
+      "id": 17491602,
       "en": "FellowshipVitals2UIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10ae693",
+      "id": 17491603,
       "en": "FellowshipVitals3UIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10ae694",
+      "id": 17491604,
       "en": "FellowshipVitals4UIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb868b8",
+      "id": 246966456,
       "en": "ShowWeaponPassiveEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e92c3",
+      "id": 5149379,
       "en": "LockQuickslotBars",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a8ecb3",
+      "id": 145288371,
       "en": "ShowTrivialQuestsInRadar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5762225",
+      "id": 91628069,
       "en": "AcceptTradeRequests",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb27ab19",
+      "id": 187149081,
       "en": "TargetShowDispellableEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4e3b8c",
+      "id": 206453644,
       "en": "Bar5Horizontal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdf007d2",
+      "id": 233834450,
       "en": "ShowSelectedItemDirection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcea4d9e",
+      "id": 216681886,
       "en": "ToolbarRightSlot5Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c7144e",
+      "id": 113710158,
       "en": "DefaultUISkin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb15408e",
+      "id": 185942158,
       "en": "ToolbarSlot6Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf83aa17",
+      "id": 260286999,
       "en": "AlwaysShowBar1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8bc1353",
+      "id": 146543443,
       "en": "EnableColorVOSounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x765ab03",
+      "id": 124103427,
       "en": "EscortVitalsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaef6d03",
+      "id": 183463171,
       "en": "DeedsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68f7464",
+      "id": 110064740,
       "en": "ShowDestinyWallet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd1798b3",
+      "id": 219650227,
       "en": "InventoryBagsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86a2b4",
+      "id": 8823476,
       "en": "AutoSelectTarget",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea4d9e",
+      "id": 15355294,
       "en": "ToolbarRightSlot1Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e93718",
+      "id": 82392856,
       "en": "ShowAvatarAttackEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x31c2c49",
+      "id": 52177993,
       "en": "TargetShowMyCastEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x168a10d",
+      "id": 23634189,
       "en": "MountLoseMomentum",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4b6e22",
+      "id": 239824418,
       "en": "AutoAddDeedsToTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9651c13",
+      "id": 157621267,
       "en": "DisableCosmeticPets",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8a3523",
+      "id": 260715811,
       "en": "PetVitalsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6015232",
+      "id": 100749874,
       "en": "EnableMovementMissModifier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa4f663",
+      "id": 178583139,
       "en": "EventQuickslotsUIToggle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcfe8d95",
+      "id": 218008981,
       "en": "ShowVitalsAsPercentage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa6b7778",
+      "id": 174815096,
       "en": "ShowCombatHitEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa15408e",
+      "id": 169164942,
       "en": "ToolbarSlot7Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x680f929",
+      "id": 109115689,
       "en": "ShowSelectionTarget",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd080135",
+      "id": 218628405,
       "en": "ShowGoreEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4845469",
+      "id": 75781225,
       "en": "ChatBackgroundOpacity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x232e112",
+      "id": 36888850,
       "en": "ShowCombatResponseIndicators",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd13609",
+      "id": 231814665,
       "en": "EnableNewItemOverlay",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x415408e",
+      "id": 68501646,
       "en": "ToolbarSlot1Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b093a0",
+      "id": 78680992,
       "en": "DisplayHomeOwnership",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x35edc87",
+      "id": 56548487,
       "en": "EnableTradeItemText",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4acda22",
+      "id": 78436898,
       "en": "DamageTextRange",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60c1125",
+      "id": 101454117,
       "en": "AttunementPanelSize",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1af57a9",
+      "id": 28268457,
       "en": "ShowDispellableEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3fa213",
+      "id": 239051283,
       "en": "AlertUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3aeb843",
+      "id": 61782083,
       "en": "LandscapeSoldierUIToggle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9161b3",
+      "id": 9527731,
       "en": "ShowLockedItemsForVendor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd082c8",
+      "id": 198214344,
       "en": "EnableLFX",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25140f2",
+      "id": 38879474,
       "en": "QuestTrackerUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc014734",
+      "id": 201410356,
       "en": "DockBar1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5487c3",
+      "id": 257198019,
       "en": "ShowTutorialHints",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x915408e",
+      "id": 152387726,
       "en": "ToolbarSlot4Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb388d80",
+      "id": 188255616,
       "en": "AcceptFellowshipRequests",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ef4353",
+      "id": 66011987,
       "en": "OpponentVitalUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdaa91b3",
+      "id": 229282227,
       "en": "AllowAdoptions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8c4ba4",
+      "id": 176966564,
       "en": "EnableVoice",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8230af4",
+      "id": 136514292,
       "en": "DockBar4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97a5911",
+      "id": 159013137,
       "en": "QuestGuideColor1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97a5912",
+      "id": 159013138,
       "en": "QuestGuideColor2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa1a56a3",
+      "id": 169498275,
       "en": "AllegianceProgressUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97a5913",
+      "id": 159013139,
       "en": "QuestGuideColor3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97a5914",
+      "id": 159013140,
       "en": "QuestGuideColor4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x97a5915",
+      "id": 159013141,
       "en": "QuestGuideColor5",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6719ca9",
+      "id": 108108969,
       "en": "MountDisplayUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93b2193",
+      "id": 154870163,
       "en": "PanelsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7a5a410",
+      "id": 128295952,
       "en": "ShowQuestGuideOnMap",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x715026b",
+      "id": 118817387,
       "en": "ToggleWebStorePurchaseFeedback",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9f0a8c8",
+      "id": 166766792,
       "en": "ShowDreadEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5af6af",
+      "id": 190510767,
       "en": "MountedCombatDefaultSkillMoveTo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8707fee",
+      "id": 141590510,
       "en": "ShowClassIconsOnRaidPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9bfe823",
+      "id": 163571747,
       "en": "ShowConnectionStatus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb16b14",
+      "id": 229731092,
       "en": "DockBar2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb30c1c5",
+      "id": 187744709,
       "en": "ShowSurnameAndTitle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8f34ca2",
+      "id": 150162594,
       "en": "EventPanelUIToggle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c2ef70",
+      "id": 79884144,
       "en": "ShowCoordinateOnMap",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d80473",
+      "id": 148374643,
       "en": "ShowOverheadNonQuestIcons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc601c70",
+      "id": 207625328,
       "en": "AcceptKinshipRequests",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4a3a623",
+      "id": 77833763,
       "en": "ShowCombatStateBreakNotices",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfea4d9e",
+      "id": 267013534,
       "en": "ToolbarRightSlot6Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf74d893",
+      "id": 259315859,
       "en": "ShowTooltipsInStaticLocation",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9ea4d9e",
+      "id": 166350238,
       "en": "ToolbarRightSlot8Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3694c80",
+      "id": 57232512,
       "en": "BarberShopUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4404bd7",
+      "id": 71322583,
       "en": "AlwaysShowBar4",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x727e3b2",
+      "id": 120054706,
       "en": "PetBarUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7828e5",
+      "id": 259533029,
       "en": "AutoMoveToTarget",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x815408e",
+      "id": 135610510,
       "en": "ToolbarSlot5Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68a8420",
+      "id": 109741088,
       "en": "ShapeshiftBarSwap",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x21e8f8e",
+      "id": 35557262,
       "en": "ChatKeyRepeatProtection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x949222",
+      "id": 9736738,
       "en": "ToolbarUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ea4d9e",
+      "id": 65686942,
       "en": "ToolbarRightSlot2Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57bc942",
+      "id": 91998530,
       "en": "AutoAddQuestsToTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d7c6d5",
+      "id": 81250005,
       "en": "ShowFellowshipStatusOnQuestTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd0b0079",
+      "id": 218824825,
       "en": "UseAuctionPostHistory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7d40e79",
+      "id": 131337849,
       "en": "ShowEquippedItemsForRepair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ac60a3",
+      "id": 61628579,
       "en": "OptionsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa215568",
+      "id": 169956712,
       "en": "ResetTutorials",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b2a622",
+      "id": 145925666,
       "en": "ShowFellowshipPetsOnRadar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x40193f3",
+      "id": 67212275,
       "en": "ShowNumbersOnVitalBars",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5fb334",
+      "id": 190821172,
       "en": "EnablePlayerMusicLowLatencyMode",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e181d5",
+      "id": 148996565,
       "en": "ShowRankAndTitle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b868a7",
+      "id": 79194279,
       "en": "AlwaysShowBar3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4304bd7",
+      "id": 70274007,
       "en": "AlwaysShowBar5",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xccf1d04",
+      "id": 214899972,
       "en": "AlwaysLootAll",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5efed22",
+      "id": 99609890,
       "en": "ShowQuestGuideOnRadar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa64b363",
+      "id": 174371683,
       "en": "SoldierVitalsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc6d6dc",
+      "id": 214357724,
       "en": "Bar3Horizontal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa056029",
+      "id": 168124457,
       "en": "SeparateBuffsAndDebuffs",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa64f213",
+      "id": 174387731,
       "en": "ShowInstantWorldTooltips",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x457f6f2",
+      "id": 72873714,
       "en": "ShowPetBar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb9a82c",
+      "id": 196716588,
       "en": "Bar2Horizontal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x10aac29",
+      "id": 17476649,
       "en": "ShowOnlyTrainableSkills",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeea4d9e",
+      "id": 250236318,
       "en": "ToolbarRightSlot7Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x252949",
+      "id": 2435401,
       "en": "EnableTargetNearestEnemy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe392353",
+      "id": 238625619,
       "en": "ShowOverheadQuestIcons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x42905a3",
+      "id": 69797283,
       "en": "ShowPetVitalsInRaidPanel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83062c9",
+      "id": 137388745,
       "en": "AcceptFriendsAndGuildTells",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9adcd93",
+      "id": 162385299,
       "en": "AvatarVitalsUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x80d9374",
+      "id": 135107444,
       "en": "EnableTimestampsOnChat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3a51a77",
+      "id": 61151863,
       "en": "AlwaysShowBar2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfda7cb8",
+      "id": 265977016,
       "en": "ResetConfirmations",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x715408e",
+      "id": 118833294,
       "en": "ToolbarSlot2Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe78de32",
+      "id": 242802226,
       "en": "AutoAddTaskToTracker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ea4d9e",
+      "id": 48909726,
       "en": "ToolbarRightSlot3Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc08da97",
+      "id": 201906839,
       "en": "ShowPetActionText",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x124be3",
+      "id": 1199075,
       "en": "AcceptAutomaticQuests",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5661fb3",
+      "id": 90578867,
       "en": "AcceptDuels",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b8f885",
+      "id": 45676677,
       "en": "EnablePlayerMusicQuantization",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2d94935",
+      "id": 47794485,
       "en": "ShowRaidAssistWindow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41fd9c3",
+      "id": 69196227,
       "en": "DisableCombatMusic",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d17693",
+      "id": 30504595,
       "en": "ClassAbilitiesUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc892c9",
+      "id": 197694153,
       "en": "ShowMyCastEffects",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8230a84",
+      "id": 136514180,
       "en": "DockBar5",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c48e42",
+      "id": 46435906,
       "en": "ShowCoordinatesOnRadar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4446c83",
+      "id": 71593091,
       "en": "AllegianceProgressUIToggle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4f9a04",
+      "id": 5216772,
       "en": "DockBar3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea797a5",
+      "id": 245864357,
       "en": "EnableQuestGuide",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b0b3",
+      "id": 110771,
       "en": "QuickslotBarUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x491dcfb",
+      "id": 76668155,
       "en": "SkillsEnableDefaultAttack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc81bae5",
+      "id": 209828581,
       "en": "ShowIMTabInChatWindow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdea4d9e",
+      "id": 233459102,
       "en": "ToolbarRightSlot4Action",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x20d34c9",
+      "id": 34419913,
       "en": "ShowSkillQueue",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x563a354",
+      "id": 90415956,
       "en": "MountedCombatAssist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7de1b3",
+      "id": 259908019,
       "en": "ShowItemCrossCompareTooltips",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa9dac32",
+      "id": 178105394,
       "en": "RadarUIScale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf05692e",
+      "id": 252012846,
       "en": "EnableHotspotVisualization",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb77a253",
+      "id": 192389715,
       "en": "AutoCreateIMSessions",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf535e73",
+      "id": 257121907,
       "en": "AllowForcedEmotes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

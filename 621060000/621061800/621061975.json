@@ -2,88 +2,74 @@
   "id": 621061975,
   "txt": [
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "Thalathril is near the large tent in the Elven camp.\\n\\nYou should speak to Thalathril.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Tham Lumren is in the north-east Angle.\\n\\nMerileg has asked you to bring a report to Tham Lumren, but the way is guarded. You should speak to the guards to gain entry.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Tham Lumren is in the north-east Angle.\\n\\nYou should look for Thalathril at the the Elven camp, Tham Lumren.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa35",
+      "id": 149027381,
       "en": "An Eastern Trek",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Search for Tham Lumren",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a0",
+      "id": 177082784,
       "en": "This must be the camp!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'Daro! Who comes so boldly to Tham Lumren?'\\n\\nYou show the guard the report.\\n\\n'Elladan trusts you, it seems, as does Merileg, but our eyes are on you, stranger. You may pass. You will find Thalathril near the large tent.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Speak to the guard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'Daro! #-1:[placeholder] What brings you to Tham Lumren,  #-1:{sister[f]|brother}?'\\n\\nYou show the guard the report.\\n\\n'Elladan and Merileg have sent you to us, I see. You will find Thalathril in the large tent.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Though passage into the Angle is complicated by the rivers that border it, the Elves of Rivendell are concerned by the increased presence of the Enemy's servants.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Between Elladan's note and your accomplishments here, I am willing to trust you with a task, if you are willing. Take this report to Thalathril. She is at Tham Lumren, a camp in the north-eastern part of this land. Your assistance in this will mean that I can continue my watch here, yet still provide her with the information she needs. It is highly probable that she could use your help as well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a7",
+      "id": 177082791,
       "en": "DNT - Speak to COMMANDER",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Speak to Thalathril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Who are you? I do not recognize you.'\\n\\nYou hand her the report, which she looks over.\\n\\n'I see. It would be false of me to say that your assistance was not welcome at this time. We can use your help here, stranger.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

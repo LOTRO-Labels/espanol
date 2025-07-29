@@ -2,268 +2,224 @@
   "id": 620878118,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'More green hunters! Every year, you lot get sloppier than the last. I've half a mind to call off the treasure hunt altogether! But today, you're a lucky [placeholder]...we're short of able-bodied hunters, and Aldúlf has convinced me that we should give you a chance.\\n\\n'Now that the formalities are through, welcome! I am Halthor Goldeneye, hunt-master and senior cave-claw trainer of the Treasure-hunters' Camp. You'll be wanting to get out and start hunting I suppose. You might want to have a look around the camp first and speak with some of the seasoned hunters before setting pick to earth, though.\\n\\n'Go and search for Tór Wayseeker...he is a master at digging.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Here to learn about the fine art of unearthing treasure, are you? There's not much to it; 'all in the wrist' as they say.\\n\\n'Take this treasure-pick and give it a go. Bring me back whatever you discover, and we'll see if you've got what it takes.'\\n\\n<rgb=#FF0000>You must have a Treasure-hunter's Pick in your inventory to excavate a dig-site.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Introduction:  Treasure Hunt ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Excellent! You'll make a fine treasure-hunter; you've already mastered the hardest part!\\n\\n'I've been told to send you over to Orn Gemfinder, the dowsing instructor.  Superstitious nonsense if you ask me.  I much prefer my arm and eyes to a bit of crystal, though Halthor Goldeneye believes strongly in it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'One of the new hunters! Young Wayseeker sent you to learn about dowsing, I suppose? The lesson shouldn't take long...dowsing is easy to learn, though quite difficult to master.\\n\\n'Do you see this crystal? Simply take it by the chain and hold it steady. Focus on the area you wish to dowse and, well, you'll just have to see for yourself!\\n\\n'You can borrow my crystal and practice on the three dig-sites in front of me.'\\n\\n<rgb=#FF0000>Using a dowsing gem with a dig site selected will tell you what size chest it contains.  You must select a dig-site in order to get a proper reading.  \\n\\nUsing a dowsing gem without a dig-site selected will still consume the gem.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Excavated a dig-site in the Training Grounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "<rgb=#FF0000>Use the Neophyte Dowsing Gem in your inventory to complete this objective.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Used the dowsing gem",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'Very good! You'll make a fine dowser!\\n\\n'Next, you'll want to speak with Segar, our cave-claw trainer. Hurry along; I hear he's been asking for you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Follow the cave-claw",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Speak with Halthor Goldeneye in the Treasure-hunter's Camp in Ered Luin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085258",
+      "id": 218649176,
       "en": "'You...yes, you there! You're [placeholder], are you not? Hurry along, I've been expecting you.\\n\\n'I've been instructed to teach you in the care and handling of cave-claws. We've found and trained a very docile breed of the beast. They rarely, if ever, cause trouble....\\n\\n'I've got a very friendly one all caged up and ready for you. Let's see if you can handle yourself with one of the beasts.'\\n\\n<rgb=#FF0000>A docile cave-claw will search the immediate area around where he is placed for treasure. The cave-claw will not lead you to a dig-site unless it has a treasure chest. Though other players can see your cave-claw, only you will receive information about the reward.\\n\\nCave-claws are consumed on use.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c50",
+      "id": 84765776,
       "en": "Talk to Segar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Speak with Tór Wayseeker in the Treasure-hunters' Camp to learn about digging up buried treasure.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085259",
+      "id": 218649177,
       "en": "<rgb=#FF0000>Use the docile cave-claw in your inventory to complete this objective.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c51",
+      "id": 84765777,
       "en": "Use the cave-claw in your inventory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Enter the Novice Training Grounds and use your pick.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c52",
+      "id": 84765778,
       "en": "Enter the Training Grounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Return to Tór Wayseeker in the Treasure-hunters' Camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c53",
+      "id": 84765779,
       "en": "Talk to Segar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Talk to Orn Gemfinder in the Treasure-hunters' Camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c54",
+      "id": 84765780,
       "en": "Talk to Halthor Goldeneye",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Enter the Training Grounds and use the dowsing gem in your inventory.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c55",
+      "id": 84765781,
       "en": "Talk to Arngills",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "Return to Orn Gemfinder in the Treasure-hunters' Camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "Speak with Segar in the Treasure-hunters' Camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "Enter the Training Grounds and use the cave-claw in your inventory.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Halthor Goldeneye",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Tór Wayseeker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Excavate a dig-site in the Training Grounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Enter the Training Grounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Return the Novice Pick to Tór Wayseeker",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Talk to Orn Gemfinder",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Select a Dig-site and use the dowsing gem",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852590",
+      "id": 8725904,
       "en": "'I've never seen a novice handle one of our cave-claws so effortlessly. He didn't even nip at you! I've already spoken with Halthor about your prowess.\\n\\n'Return to him with my blessing. You're ready to go treasure-hunting!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Enter the Training Grounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852591",
+      "id": 8725905,
       "en": "'It seems you're a quick learner, [placeholder]. All of my hunters have nothing but good things to say about your performance.  \\n\\n'I've done quite well in selecting you as one of our new junior treasure-hunters; I've told Arngills all about it. He is out in the field with the others.  You'll want to hurry out to him, if you're to find the best treasure!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Talk to Orn Gemfinder",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
+      "id": 8725906,
       "en": "'There you are, [placeholder]. I've been following your progress...I was wondering when old Halthor would send you into the field.\\n\\n'Here are some gifts from the instructors to get you started. If you need another pick, return to the Treasure-hunter's Camp and speak with Jondor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced10",
+      "id": 171765008,
       "en": "Return to Segar in the Treasure-hunters' Camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced11",
+      "id": 171765009,
       "en": "Talk to Halthor Goldeneye in the Treasure-hunters' Camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced12",
+      "id": 171765010,
       "en": "Talk to Arngills in the Treasure Field.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have been invited to take part in a treasure hunt in Ered Luin.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Are you here to join in the treasure hunt? It seems that with each passing day, more newcomers come through seeking to learn the secrets of our trade. You'll need to hurry if you wish to join the others. Head across the path to the Treasure-hunters' Camp, and you will find Halthor Goldeneye, he will instruct you further.\\n\\n'Oh, and one more thing: Halthor can be a bit...gruff at first meeting. Don't let it discourage you! He will soften once you have proven yourself.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

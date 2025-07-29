@@ -2,40 +2,34 @@
   "id": 621101640,
   "txt": [
     {
-      "id": "0x86dd38e",
+      "id": 141415310,
       "en": "You decide to ride off like a Rohirrim for your milestone travel style.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa01258e",
+      "id": 167847310,
       "en": "Using this emote will toggle on the milestone travel skill style of the Rohirrim. Use milestone_default to turn off this style.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf89c907",
+      "id": 260688135,
       "en": "milestone_rohan",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81a2cae",
+      "id": 135933102,
       "en": "[placeholder] chooses the milestone travel style of the Rohirrim.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1135744",
+      "id": 18044740,
       "en": "[placeholder] chooses the milestone travel style of the Rohirrim to impress [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3340b4",
+      "id": 238239924,
       "en": "You choose the milestone travel style of the Rohirrim to display for [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

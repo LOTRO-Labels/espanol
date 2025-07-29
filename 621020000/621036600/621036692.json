@@ -2,148 +2,124 @@
   "id": 621036692,
   "txt": [
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Hlóthi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "TBD SPEAK TO QUEST GIVER",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'There's fear of fever in the trenches, and that's one enemy we can't defeat with steel. But our healers are unable to treat the wounded that have been stranded on the battlefield.\\n\\n'Find these injured soldiers in the enemy territory that lies beyond our trenches at Ifbar-athrâkh. Do what you can to ease their suffering so that they may return on their own.\\n\\n'You may be more fortuitous in this endeavour if you strike out north-east to Azgh-buzru, but bring your allies if you decide to do so.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "DNT - The injured dwarves you've helped will find their way back to safety and receive proper treatment for their wounds, staving off the possibility of illness among the ranks.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Tended to ([placeholder]/[placeholder]) injured soldiers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0111",
+      "id": 216727825,
       "en": "You can find injured soldiers scattered across enemy territory, beyond the dwarves' trenches at Ifbar-athrâkh. More soldiers have been stranded in Azgh-buzru, but Hlóthi has suggested bringing allies if you go there.\\n\\nYou should tend to these soldiers' wounds so that they may return to safety.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "Numerous wounded soldiers have been stranded on the battlefield, unable to receive aid.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "The soldiers you tended to will seek treatment from the healers.\\n\\nHlóthi in Annâk-khurfu will want to know that you've honoured his request.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Completed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Tend to ([placeholder]/[placeholder]) injured soldiers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a61",
+      "id": 55339617,
       "en": "'That helped. Thank you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a62",
+      "id": 55339618,
       "en": "'Walking doesn't hurt as much any more.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a63",
+      "id": 55339619,
       "en": "'You kept this dwarf alive to fight another day.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a64",
+      "id": 55339620,
       "en": "'I must live to see the end of this war....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a65",
+      "id": 55339621,
       "en": "'Don't know if I'll be of any use on the field after this....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a66",
+      "id": 55339622,
       "en": "'That's much better.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a67",
+      "id": 55339623,
       "en": "'Many thanks.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a68",
+      "id": 55339624,
       "en": "'I can make my way back now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a69",
+      "id": 55339625,
       "en": "'You truly are a friend to the Gabil'akkâ.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a6a",
+      "id": 55339626,
       "en": "'Gundabad will be reclaimed. It must be.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a6b",
+      "id": 55339627,
       "en": "'If I can no longer fight, I'll help the healers somehow.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34c6a6c",
+      "id": 55339628,
       "en": "'We will win... right?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'You have saved their lives, and the lives of others. We'll have a better chance now of staving off illness in the trenches.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa2",
+      "id": 126754722,
       "en": "March on Gundabad: Healing Hands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

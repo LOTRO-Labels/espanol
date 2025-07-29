@@ -2,142 +2,119 @@
   "id": 621019879,
   "txt": [
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Málvang can be found along the road to Laerlad, far to the south of Hultvís.\\n\\nDesperate to uncover anything that may have survived the War, Madelgard has asked you to search the ruined village of Málvang.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "A small, singed strongbox lies in the corner of this burned dwelling...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "You should investigate the burned dwellings.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b2",
+      "id": 177082802,
       "en": "The old lock has been broken apart and the strongbox's contents have been plundered...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "Brushwood has begun to overtake the charred remains of this dwelling, leaving little else behind...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Search the burned dwellings at Málvang",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "A number of fresh footprints have been left in the burned dwellings...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Examine the footprints in the burned dwellings at Málvang",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Talk to Madelgard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "These small, uneven footprints are unlike those of the Woodmen or Beornings...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'Did you find anything, [placeholder]?'\\n\\nYou tell Madelgard that you found the remains of a strongbox, but that its contents had been plundered. You also mention the curious tracks you discovered in Málvang.\\n\\n'Alas! I suppose it was a fool's hope to think mere trinkets would survive the burning of Málvang. Although your search did not prove fruitful, you have my thanks. I am curious, though. Who or what do you think left those little tracks?'\\n\\nYou suggest that small goblins or a hobbit could have made tracks of that size.\\n\\n'A hobbit? One alike in stature to the hól-budlan? Our tales speak of a time when a great number of the hól-budlan, or hole-builders, dwelt in tunnels carved into the foothills around the Gladden Fields. But that was long ago! Not even one of the hól-budlan has been sighted for many years, and it is thought among my people that they have left the vales never to return.\\n\\n'Even if they had, who would believe me? Madelgard Twice-fool, they will call me! You are kind to indulge such questions, [placeholder], but do not let me keep you from your adventures.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'Did you find anything, [placeholder]?'\\n\\nYou tell Madelgard that you found the remains of a strongbox, but that its contents had been plundered. You also mention the curious tracks you discovered in Málvang.\\n\\n'Alas! I suppose it was a fool's hope to think mere trinkets would survive the burning of Málvang. Although your search did not prove fruitful, you have my thanks. I am curious, though. Who or what do you think left those little tracks?'\\n\\nYou suggest that small goblins or a hobbit could have made tracks of that size.\\n\\n'A hobbit? Radagast has spoken that name, but they seem to me the hól-budlan of old. Do you trust the words of the Wizard, [placeholder]? You remember the tales of the hól-budlan, or hole-builders, do you not? Were not the skin-changers friend to them? You know as well as I that not even one of the hól-budlan has been sighted for many years. They are gone! They will not return!\\n\\n'Even if they had, who would believe me? Madelgard Twice-fool, they will call me! You are kind to indulge such questions, [placeholder], but do not let me keep you from your adventures.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "In the final days of the War, the village of Málvang was raided and burned by the Orcs of the Misty Mountains.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'Did you find anything, [placeholder]?'\\n\\nYou tell Madelgard that you found the remains of a strongbox, but that its contents had been plundered. You also mention the curious tracks you discovered in Málvang.\\n\\n'Alas! I suppose it was a fool's hope to think mere trinkets would survive the burning of Málvang. Although your search did not prove fruitful, you have my thanks. I am curious, though. Who or what do you think left those little tracks?'\\n\\nYou suggest that small goblins or one of your kinsfolk could have left the footprints.\\n\\n'I thought you were the only one of your kind come to the vales, [placeholder]. If that is not so, I am even more curious!\\n\\n'You see, our tales speak of a time when a great number of the hól-budlan, or hole-builders, dwelt in tunnels carved into the foothills around the Gladden Fields. They do not sound much different from what I have heard of the folk called hobbits, but I would not presume to know as much as you or the Wizard, Radagast! Even if you are similar in blood, that was long ago! Not even one of the hól-budlan has been sighted for many years, and it is thought among my people that they have left the vales never to return.\\n\\n'Even if they had, who would believe me? Madelgard Twice-fool, they will call me! You are kind to indulge such questions, [placeholder], but do not let me keep you from your adventures.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "The blackened, brittle timbers of this dwelling creak in the breeze, but it is empty...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Are you the one called [placeholder]?\\n\\n'I have heard tales of your adventures in the vales, but tell me, have you passed near to Málvang yet?\\n\\n'Until recent days it was a farmers' village, but the Orcs came upon it in the night and set it aflame in some cruel sort of amusement as they travelled north on the road to Hultvís. My family was fortunate enough to survive, but others... were lost in the fires. Ríkmar told me the few remains of our kinsfolk that were found in Málvang had been given to their families for burial, but all else was lost.\\n\\n'I have no reason to doubt the words of my chieftain, but I do not wish to believe it so! Couldn't some memory still linger in the ruins?\\n\\n'Would you travel to the ruins of Málvang, [placeholder]? Search for anything that remains intact that I might return it to its keeper or honour its memory myself!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Footprints can be found in each of the burned dwellings at Málvang.\\n\\nYou have discovered a number of fresh footprints in the burned dwellings at Málvang. You should examine them more closely before returning to Hultvís.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01191",
+      "id": 246419857,
       "en": "Madelgard can be found in Hultvís.\\n\\nYou have not found anything that survived the War except for a singed, plundered strongbox and curiously small footprints. You should return to Madelgard and tell her what you have discovered.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Search the burned dwellings at Málvang ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa2",
+      "id": 126754722,
       "en": "From the Ashes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

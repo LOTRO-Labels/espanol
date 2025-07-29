@@ -2,124 +2,104 @@
   "id": 620894821,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "As you approach the nearby Oathbreakers, you hear the voice of a man coming from somewhere nearby",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "As you scout the east camp, you note a moderately-sized force of Oathbreakers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "As you scout the west camp, you notice a white tree adorning the garb of the Oathbreakers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Your discovery of a crazed Oathbreaker and the attacks upon his own party have caused Idmar a great deal of concern.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I had hoped it would not come to this, but you already know the most of it. Parth Celebrant has been overrun by Oathbreakers, but we have no idea who they are or why they have returned. \\n\\n'These spirits only appeared here days ago, and my men and I were sent to investigate before things got out of hand. The folk of Stangard were not informed of this matter, but now we have a problem just outside our gates.\\n\\n'If you would help, I have a task for you. Head to the north and east of the road. One of my men, Medwine, is scouting them out. Speak with him and see if you can find out who these spirits truly are.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Medwine is camped outside the Oathbreaker camp in northern Parth Celebrant.\\n\\nIdmar has advised you to seek out Medwine.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'A white tree? Both you and Medwine have seen this? I do not believe it... they must be Men of Gondor!\\n\\n'Why would they have returned? The battle fought on this field long ago was a victory... a victory that granted to our kindred all of Rohan. For what purpose would these spirits return?\\n\\n'This is very puzzling, [placeholder]. Give me a moment to consider our situation.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Medwine is camped outside the Oathbreaker camp in northern Parth Celebrant.\\n\\nIdmar has advised you to seek out Medwine.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Oathbreakers have appeared across Parth Celebrant. Medwine has told you to scout the camps to the east and west of Idmar's encampment to understand the force they face.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Speak with Medwine and learn if he has discovered anything about the Oathbreakers.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Idmar sent you? We have little time for introductions. I, along with another scout, were sent to observe the shades and discover their origins.\\n\\n'I... think we have found ourselves out of position. The Oathbreakers are needlessly violent... I was chased away this morning when I moved closer -- they wear a white tree, such as the Men of Gondor. But how can that be?\\n\\n'That is a matter for another time. I do not know what brings you to Parth Celebrant, but if Idmar sent you, you must be willing to help. Please, scout the camps to the east and west of Idmar's camp... we need to know how many of these spirits we are dealing with.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Idmar is at his camp along the road in central Parth Celebrant.\\n\\nYou should return to Idmar with news of your discoveries.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Speak with Medwine and learn if he has discovered anything about the Oathbreakers.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'Idmar sent you? I am Medwine, but we have little time for introductions. I, along with another scout, were sent to observe the shades and if possible, figure out their origins.\\n\\nYou inform Medwine of the fate of the other scout, and his face drops.\\n\\n'I think we have found ourselves in a bad position. The shades are needlessly violent...I was chased away this morning when I tried to get a closer look at their tattered garb.\\n\\n'I do not know your path, but if Idmar sent you, you must be willing to help. Please, scout the camps to the east and west of Idmar's encampment, and see if you can sneak a closer look at these shades.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Scout the northern Oathbreaker camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Medwine",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Scout the Oathbreaker camp to the east of Idmar's encampment",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Scout the Oathbreaker camp to the west of Idmar's encampment",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Scouting Shadows",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Idmar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

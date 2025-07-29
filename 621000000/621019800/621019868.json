@@ -2,142 +2,119 @@
   "id": 621019868,
   "txt": [
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Sealed provisions can be found at Fil Sulmog.\\n\\nHárskor has asked you to salvage any sealed provisions you can find at Fil Sulmog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Find and defeat Durbkhat at Fil Sulmog",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Durbkhat can be found in the depths of the cave at Fil Sulmog.\\n\\nDetermined to avenge the hurts done to the Beornings and Woodmen, Hárskor has asked you to find and defeat Durbkhat, a large goblin leading the Shapag-hai in Woodsedge.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e19",
+      "id": 49286681,
       "en": "Deliver the sealed provisions to Ríkmar in Hultvís",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Hárskor can be found in the eastern ruins of Hadhodiant.\\n\\nYou have driven Durbkhat from Fil Sulmog and salvaged a great deal of provisions. You should return to Hadhodiant and deliver the provisions to Hárskor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Talk to Hárskor at Hadhodiant",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Ríkmar can be found in Hultvís.\\n\\nHárskor has returned to the Beorning-lands to prepare a new shipment of provisions for Hultvís. You should deliver the provisions you salvaged from Fil Sulmog to Ríkmar and assure him that the Beornings will deliver more provisions in the coming days.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'So you return, outsider! I feared the goblins would get the better of you, but I know now why Grimbeorn sent you on this errand.\\n\\n'I hope these provisions will be enough to keep the people of Hultvís from starvation. Once I return to the lodge, I will tell Grimbeorn what has happened and see that more provisions are sent to Hultvís. And in that time, let Durbkhat think on his cowardice. What he has done will not go unanswered by the line of Beorn!\\n\\n'Deliver what you have found to Ríkmar, outsider, and offer my apologies to the people of Hultvís.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a0",
+      "id": 177082784,
       "en": "With sudden agility, Durbkhat rushes past you and flees Fil Sulmog!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'So you return, cousin! I thought you might have left the vales again for some new errand!\\n\\n'I hope these provisions will be enough to keep the people of Hultvís from starvation. Once I return to the lodge, I will tell Grimbeorn what has happened and see that more provisions are sent to Hultvís. And in that time, let Durbkhat think on his cowardice. What he has done will not go unanswered by the line of Beorn!\\n\\n'Deliver what you have found to Ríkmar, and offer my apologies to the people of Hultvís.'\\n\\nHárskor begins to depart for the Beorning-lands, but he pauses for a moment and turns to address you.\\n\\n'I must confess something to you, cousin. When first I heard that Grimbeorn chose to send you from the Vales with the Wizard, I was stricken with jealousy. I did not understand as I do now, [placeholder].\\n\\n'When the time comes to hunt the goblins out of the vales once and for all, let us hunt together!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'Did you find Hárskor? What of the provisions?'\\n\\nYou inform Ríkmar that Hárskor was waylaid by Orcs on the road to Hultvís, but he escaped his would-be captors. You also explain that while most of the provisions were tainted or spoiled, you did manage to recover a few crates and Grimbeorn will soon know to send more to Hultvís.\\n\\n'Oh, thank you! Our need is great, but this is more than enough for now, [placeholder]. I will see to it that none in Hultvís go hungry tonight!'\\n\\nRíkmar shuffles uncomfortably for a moment, but seems to steady himself.\\n\\n'Ah, but I must admit, those Orcs sound more cunning than most! If we were meant to become their unwitting meals, I'm glad they've been driven out of our lands. Let the skin-changers and Elves see to them, I think!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Did you find your cousin? What of the provisions?'\\n\\nYou inform Ríkmar that Hárskor was waylaid by Orcs on the road to Hultvís, but he escaped his would-be captors. You also explain that while most of the provisions were tainted or spoiled, you did manage to recover a few crates and Grimbeorn will soon know to send more to Hultvís.\\n\\n'Oh, thank you! Our need is great, but this is more than enough for now, [placeholder]. I will see to it that none in Hultvís go hungry tonight!'\\n\\nRíkmar shuffles uncomfortably for a moment, but seems to steady himself.\\n\\n'Ah, but I must admit, those Orcs sound more cunning than most! If we were meant to become their unwitting meals, I'm glad your wrath was enough to drive them from our lands!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'Answer!'\\n\\nHárskor is noticeably exhausted, but his stature is no less imposing. You sheathe your weapons and explain that you followed Hárskor's path at the behest of Grimbeorn, and that you encountered a number of goblins in the woods who had laid traps in the form of the stolen provisions.\\n\\n'Indeed, there are goblins in the hills, outsider, and they are an unusually cunning sort. I was waylaid on the road, and before I could overpower them I was rendered unconscious. When I awoke, I realized I had been borne away to a cave in the hills. In the darkness, I spied some of the goblins feasting upon my horses. Deeper in the cave, I heard others prepare a fire and they shouted and cheered for a feast of Man-flesh. My senses returned, I rose from the ground in anger and changed my skin. All at once, the goblins seemed to discover that they had not captured one of the Woodmen as they had thought. It was a mistake the survivors will not soon forget!\\n\\n'Yes, before I fled the caves I slew a few of their number... but I was forced to abandon what remained of the provisions. The goblins appear to answer to one called Durbkhat, if such nonsense is even a name in their tongue! I think without him these goblins would not seem so clever!\\n\\n'Slay him, outsider, and recover what he has stolen from us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d13",
+      "id": 51875091,
       "en": "After being waylaid on the road to Hultvís, Hárskor unwittingly discovered a cunning plot devised by the leader of the goblins seeking shelter in Woodsedge.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "Salvaged sealed provisions from Fil Sulmog ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Do not worry for me, cousin. I am... injured, but I will survive. Why have you come? Did Grimbeorn not trust that I could finish the task given to me?'\\n\\nHárskor sighs and crouches as he catches his breath. You explain that you followed Hárskor's path, but a number of goblins had set traps in the woods using the stolen provisions.\\n\\n'Perhaps this time he was right. Indeed, there are goblins in the hills, cousin, and they are an unusually cunning sort. I was waylaid on the road, and before I could overpower them, I was rendered unconscious. When I awoke, I realized I had been borne away to a cave in the hills. In the darkness, I spied some of the goblins feasting upon my horses. Deeper in the cave, I heard others prepare a fire and they shouted and cheered for a feast of Man-flesh. My senses returned, I rose from the ground in anger and changed my skin. All at once, the goblins seemed to discover that they had not captured one of the Woodmen as they had thought. If you had only seen their faces, cousin! \\n\\n'Before I fled the caves, I slew a few of their number... but I was forced to abandon what remained of the provisions. The goblins appear to answer to one called Durbkhat, if such nonsense is even a name in their tongue! I think without him these goblins would not seem so clever!\\n\\n'Slay him, cousin, and recover what he has stolen from us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "A harsh voice echoes through the air as a large Orc rushes forth!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Salvage sealed provisions from Fil Sulmog ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa2",
+      "id": 126754722,
       "en": "A Hunger for Vengeance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

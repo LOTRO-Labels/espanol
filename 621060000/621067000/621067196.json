@@ -2,28 +2,104 @@
   "id": 621067196,
   "txt": [
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Using the ingredients you have, forge a <rgb=#FF00FF00>bronze helm</rgb> at a <rgb=#FF00FF00>forge</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Bring the <rgb=#FF00FF00>bronze helm</rgb> to the Novice Metalsmith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c475",
+      "id": 205636725,
       "en": "'Good work, so far. Get your hands to work and forge that <rgb=#FF00FF00>bronze helm</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Metalsmithy tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Metalsmithy requires a forge.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
-      "en": "'Interested in learning the ways of metalsmithing? Well-'\\n\\nHe gestures broadly to the forge next to him.\\n\\n'You're in the right place! I'll walk you through the basics. If at any point you get confused, speak to me again and I'll try to explain things more clearly.'\\n\\n'Take this <rgb=#FF00FF00>crate</rgb>. It has everything you need to make a bronze helm. Don't be nervous, I'll walk you through how to make one step by step.\\n\\n'Open the crate, ensure your <rgb=#FF00FF00>smith's hammer</rgb> is equipped, then make your way to the <rgb=#FF�",
-      "es": "",
-      "es (fem)": ""
+      "id": 8725906,
+      "en": "'Interested in learning the ways of metalsmithing? Well-'\\n\\nHe gestures broadly to the forge next to him.\\n\\n'You're in the right place! I'll walk you through the basics. If at any point you get confused, speak to me again and I'll try to explain things more clearly.'\\n\\n'Take this <rgb=#FF00FF00>crate</rgb>. It has everything you need to make a bronze helm. Don't be nervous, I'll walk you through how to make one step by step.\\n\\n'Open the crate, ensure your <rgb=#FF00FF00>smith's hammer</rgb> is equipped, then make your way to the <rgb=#FF00FF00>forge</rgb>.'\\n\\n<rgb=#FF00FF00>Metalsmith vendors sell ingredients and recipes that are a vital part of any Metalsmith's training and continued work.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263298,
+      "en": "You have made a bronze helm",
+      "es": ""
+    },
+    {
+      "id": 205636726,
+      "en": "'First, ensure your <rgb=#FF00FF00>smith's hammer</rgb> is equipped, then <rgb=#FF00FF00>open the crate</rgb> of ingredients that I gave you, and make your way to the <rgb=#FF00FF00>forge</rgb>.'\\n\\n<rgb=#FF00FF00>Ingredients for Metalsmiths are normally purchased from vendors or traded from players with the prospector profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Metalsmiths turn metal ingots into armour and tools for the peoples of Middle-earth. Becoming a metalsmith can be difficult, but the wares that they provide are a necessity throughout the world.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipes and deliver the correct items outlined in this quest.\\n\\nYou will need to execute the bronze helm recipe and deliver the bronze helm. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 8725888,
+      "en": "'Do you have the bronze helm on you? I do not see it. I hope you did not turn it into slag or sell it for coin. I would like to inspect that work. You had best find a way to make another.'",
+      "es": ""
+    },
+    {
+      "id": 8725913,
+      "en": "'Give it here and I'll evaluate your work.'\\n\\nHe examines the helm closely.\\n\\n'This is good work. There are no thin spots in the metal, and it appears to be shaped accordingly.\\n\\n'I'm impressed! This is good first effort. Keep honing your craft. I think you have the potential to become a master metalsmith.'",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "You should speak with the Novice Metalsmith to learn more about metalsmithy.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The Novice Metalsmith provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute the bronze helm recipe. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Metalsmiths are normally purchased from vendors or traded from players with the prospector profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "Create the <rgb=#FF00FF00>bronze helm</rgb>, as instructed by the Novice Metalsmith.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Metalsmithy tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Metalsmithy requires a forge.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the bronze helm!</rgb> It is time to show your handiwork to your mentor, the Novice Metalsmith.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with the Novice Metalsmith near the forge in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 63183940,
+      "en": "'You should speak at once with the metalsmith trainer.'",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided with ingredients",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Metalsmith to collect the two bronze ingots",
+      "es": ""
+    },
+    {
+      "id": 218649175,
+      "en": "'If you wish to know more of metalsmithing, speak with Bergof. You can find him with several of the other tradesfolk near the tall silo in the northern part of Lhan Garan.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a bronze helm",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Introduction to Metalsmithy",
+      "es": ""
     }
   ]
 }

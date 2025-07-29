@@ -2,76 +2,64 @@
   "id": 620953116,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "The Orc camp is to the west of Artamir's encampment, in the Dead Marshes.\\n\\nArtamir has asked you to search storage caches in the Orc camp, to see if they have recovered the Banner of King Ondoher from the mud and the marsh-waters.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "You have found no sign that the Orcs have recovered the Banner of King Ondoher, and should return to Artamir at his camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "This cache contains a number of dead bugs and slime, but nothing else of interest",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Talk to Artamir at his camp in the Dead Marshes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b2",
+      "id": 177082802,
       "en": "Artamir is gone. His camp is empty",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Artamir has told you the reason for his errand, and the sooner it is accomplished, the sooner he will leave the Dead Marshes. For Frodo's sake, if the hobbit did come this way, you should do what you can to hasten Artamir's departure.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e117",
+      "id": 262725911,
       "en": "This cache contains nothing of interest to you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "This cache contains a strange sludge, but nothing of interest to you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'I trust you, [placeholder]. I will tell you the nature of my errand in this miserable land, and perhaps you can better help me accomplish it and then return to my home in triumph. I would give anything for this victory, my friend! The gratitude of the Steward would do much for my family's position.\\n\\n'Long ago, the peace of Gondor was threatened by Wainriders from the East, cruel men who rode down their enemies in great wheeled chariots. It is said that Ondoher, one of the last of the true line of Kings, faced the Wainriders in battle on the great plain but was defeated. No sign was ever found of the King or his force, and Steward Denethor believes that the Wainriders might have driven him into the Dead Marshes before he perished.\\n\\n'You think it unlikely? I would say so too, but for this. Denethor had of late a dream, in which he beheld the banner of the King flying proudly against the night sky. Could it be the banner of Ondoher, last of the line of Kings descended from Meneldil, Anárion's son? The strange waters of the swamp must have preserved it, after all this time, and I must find it and return with it to Minas Tirith!\\n\\n'If these Orcs have found the King's Banner, they might be keeping it in a storage cache in their camp. Return to their camp and search these caches to ensure they have not!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "This cache contains detritus of the swamp, but nothing of value",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5026",
+      "id": 225071142,
       "en": "Search storage caches within the Orc camp in the Dead Marshes ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Fruits of Their Labour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

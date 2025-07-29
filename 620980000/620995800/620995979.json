@@ -2,16 +2,14 @@
   "id": 620995979,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Sound Filter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376782",
+      "id": 137848706,
       "en": "Anything you add to the Sounds filtered list will no longer play as audio in your game client. To filter a sound, position your character in a place or situation where you hear the sound. Click the record button to see a list of all sounds currently playing. This list will keep updating until you click stop or close the UI. You can play any sound from any list by right-clicking or double-clicking it. Drag any sound from the recently heard list to the character or account filtered list to filter the sound.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

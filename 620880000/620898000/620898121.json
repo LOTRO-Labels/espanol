@@ -2,106 +2,89 @@
   "id": 620898121,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You found Radagast's horse in Ost Guruth!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You found herbs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Ambushing crebain defeated ([placeholder]/[placeholder]).",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The steeds of the Horsefields mentioned a mysterious horse with a wizard that has a particular affinity for animals, both residing in the Lone-lands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You were defeated, and are now retreating to the Horse-fields",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "You ran out of time!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Lately I have been desiring a rare herb that I haven't tasted in ages. I used to only find it in very high places, but not where it's too cold. I believe it might be found on the highest summit in these lands, at the top of Weathertop. Could you head there and kindly gather a few herbs for me if you happen to find them?\\n\\n'My master and I used to travel quite often, and I grew a fondness for this herb. It has been ages since he has taken me very far beyond this ruin. Maybe some day soon we will roam Middle-earth again as we used to.' ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "There is a horse in Ost Guruth that you feel compelled to seek out.\\n\\n<rgb=#FF0000>If defeated or time expires, you will return to the Horsefields.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Thank you for appeasing my appetite of herbs that I have sorely missed! My master has been busy with the important events unfolding here, but he will be happy to be reminded of our travels together when he sees these herbs. These are exactly what I was looking for; I cannot thank you enough.\\n\\n'You may or may not know this already, but there seems to be something special about you. My master and I have travelled to a lot of places in Middle-earth over the ages, and I have met many horses in my travels. Rarely have I encountered a steed of your spirit, or such an air of authority as yours....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The rare herb sought by Radagast's horse only grows in places of high elevation.  The only place high enough for miles around Ost Guruth is the summit of Weathertop.\\n\\n<rgb=#FF0000>If defeated or time expires, you will return to the Horsefields.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Radagast's horse is found in Ost Guruth.\\n\\n<rgb=#FF0000>If defeated or time expires, you will return to the horsefields.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Head to Ost Guruth and find a horse there",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Find herbs on the summit of weathertop",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Defeat ambushing crebain ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Take the herbs back to Radagast's horse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Session -- Weathertop",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "<rgb=#FF0000>If defeated or time expires, you will return to the horsefields.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

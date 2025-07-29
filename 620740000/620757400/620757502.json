@@ -2,322 +2,269 @@
   "id": 620757502,
   "txt": [
     {
-      "id": "0xcadd483",
+      "id": 212718723,
       "en": "Invalid server address",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58a41c4",
+      "id": 92946884,
       "en": "Can't bind local socket.  Is another client running?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2e58d01",
+      "id": 48598273,
       "en": "Loading subscription data...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4df9c54",
+      "id": 81763412,
       "en": "Client logon failed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9d00312",
+      "id": 164627218,
       "en": "There is no logon server available for your account.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa7e948",
+      "id": 11004232,
       "en": "You do not have the current version of the client installed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f55d23",
+      "id": 49634595,
       "en": "This world will be shutting down in #2:[placeholder] #2:{second[1]|seconds}! Please log out!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3906d93",
+      "id": 59796883,
       "en": "You have been booted due to a logon system error.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf053b7",
+      "id": 15750071,
       "en": "You have been booted from the game.\\n[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54b43c4",
+      "id": 88818628,
       "en": "The server has detected that an item you are carrying, the [placeholder], is a duplicate of another object already in the game world. Your item has been removed.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x583b44",
+      "id": 5782340,
       "en": "Access Denied.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78c53f3",
+      "id": 126637043,
       "en": "The world has been shut down. Please sign in later.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a76fe5",
+      "id": 94859237,
       "en": "Waiting for maintenance to complete...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4931007",
+      "id": 76746759,
       "en": "This world is shutting down NOW! Log out!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8987d8e",
+      "id": 144211342,
       "en": "ID_ConnectionError_ServerShuttingDown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x62b95a4",
+      "id": 103519652,
       "en": "You have been booted because you have logged in to the world \\q[placeholder]\\q.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4c34dd5",
+      "id": 79908309,
       "en": "ID_ConnectionError_CharacterSetLoadFailure",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9982c",
+      "id": 16357420,
       "en": "Server Full",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7cf6bf2",
+      "id": 131034098,
       "en": "Client timed out the connection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc559b1e",
+      "id": 206936862,
       "en": "Player already logged on",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x361611b",
+      "id": 56713499,
       "en": "Connection closed because use of a speed-altering program was detected",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12f0f15",
+      "id": 19861269,
       "en": "Your account has insufficient privileges to continue",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x787edfe",
+      "id": 126348798,
       "en": "Connection prempted by another connection attempt",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6651ee4",
+      "id": 107290340,
       "en": "Your account has been suspended. A message has been sent to the e-mail address on file with more information.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef06187",
+      "id": 250634631,
       "en": "Your account has been suspended. A message has been sent to the e-mail address on file with more information.\\n[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x82e3779",
+      "id": 137246585,
       "en": "Invalid or corrupted authentication",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdfb256e",
+      "id": 234562926,
       "en": "Server has closed this connection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb1ebb77",
+      "id": 186563447,
       "en": "The player is logging in. Finish maintenance soon.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdcbacc4",
+      "id": 231451844,
       "en": "ID_ConnectionError_Disconnected",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb0e664",
+      "id": 212919908,
       "en": "ID_ConnectionError_ConnectionReset",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa69cb27",
+      "id": 174705447,
       "en": "Your subscription has expired.\\n[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x19f8224",
+      "id": 27230756,
       "en": "Receiving character data...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4047794",
+      "id": 67401620,
       "en": "Cleaning up old connection...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18fba64",
+      "id": 26196580,
       "en": "Your subscription has expired.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8609d64",
+      "id": 140549476,
       "en": "ID_ConnectionError_ClientExit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfdd06c5",
+      "id": 266143429,
       "en": "Connection attempt was aborted by the user",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae5819e",
+      "id": 182813086,
       "en": "Validating credentials...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8d5a35",
+      "id": 177035829,
       "en": "Your admin powers are stronger than the currents of portal space. You manage to log into a forbiden location.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd0b73",
+      "id": 13437811,
       "en": "There was an error with this connection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5921372",
+      "id": 93459314,
       "en": "ID_ConnectionError_ClientOnCrashedServer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f5576e",
+      "id": 49633134,
       "en": "This world will be shutting down in #1:[placeholder] #1:{minute[1]|minutes}. Please log out.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x67720e4",
+      "id": 108470500,
       "en": "You have been booted from the game.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb9544e",
+      "id": 263803982,
       "en": "The currents of portal space cannot return you from whence you came. Your previous location forbids login.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6f16f2e",
+      "id": 116485934,
       "en": "ID_ConnectionError_EndCharacterSession",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1992d14",
+      "id": 26815764,
       "en": "Loading character data...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xabeb734",
+      "id": 180270900,
       "en": "ID_ConnectionError_ServerDisconnect",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x321edb4",
+      "id": 52555188,
       "en": "Logon was aborted by the server.\\nPlease try again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb97674",
+      "id": 213481076,
       "en": "Server timed out the connection",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf54bfe2",
+      "id": 257212386,
       "en": "This world will be shutting down in #1:[placeholder] #1:{hour[1]|hours}.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x91cec3",
+      "id": 9555651,
       "en": "This world will be shutting down in #1:[placeholder] #1:{minute[1]|minutes} and #2:[placeholder] #2:{second[1]|seconds}. Please log out.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79e2255",
+      "id": 127803989,
       "en": "Your account has been logged out for maintenance. Please log in again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6a2444",
+      "id": 191505476,
       "en": "Couldn't create local socket.  Make sure you have a working network.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa67822f",
+      "id": 174555695,
       "en": "Couldn't initialize crypto API",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,112 +2,94 @@
   "id": 621094592,
   "txt": [
     {
-      "id": "0x2f00e15",
+      "id": 49286677,
       "en": "Mix the herbs with a mortar and pestle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Agalûnu has asked you to collect healing herbs for a poultice. They can be found across the stream to the south-east.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e17",
+      "id": 49286679,
       "en": "Apply the poultice",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "You have collected herbs to make a healing poultice for Agalûnu. You should mash them with the mortar and pestle near Agalûnu's tent.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Collect healing herbs ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "Collected healing herbs ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "You have made a healing poultice. You should go to Agalûnu and apply it to her wound.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01188",
+      "id": 246419848,
       "en": "You have made a healing poultice and applied it to Agalûnu's wound. You should talk to her and see how she is doing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to Agalûnu",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Talk to Shanthar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'You return without Agalûnu?'\\n\\nThe Kinta looks irritated. You tell him of her injury and that she is resting. You also reassure him that she is determined to keep her promise to him once she has recovered. The Elf's brow furrows.\\n\\n'I confess [placeholder] that I have not spent much time in the company of Men and I forgot that they do not heal with the ease of the Firstborn. I am no master of the healing arts, but I believe rest and your poultice should serve her well.\\n\\n'It gladdens my heart to know she intends to keep her oath. I look forward to teaching others how to care for the grove. Never did I think anyone other than Kintai would be interested in doing such a thing.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56899",
+      "id": 162883737,
       "en": "'Thank you so much [placeholder]. Hopefully, that will do to avert festering. I should continue to rest and allow my body to heal. I feel ashamed though. I told Shanthar that I would return and help him steward the forest. He will think I lied to him when I fail to return.\\n\\n'On my honour [placeholder], I was speaking true. I beg you to go to him and tell him of my condition and reassure him that I intend to keep my oath.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Agalûnu's wound has re-opened and she worries about a possible infection.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'Would you please collect some healing herbs? There should be some growing across the stream to the south-east. I have a mortar and pestle you can use to mash them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'I beg you to go to Shanathar and tell him of my condition. Reassure him that I intend to keep my oath.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'[placeholder], I fear that travelling to visit Shanthar has caused my wound to re-open. It is terribly painful, and now I worry that it may fester. I know how to make a poultice, but I cannot gather the ingredients. I do not feel well at all.\\n\\n'[placeholder], would you please collect some healing herbs? There should be some growing across the stream to the south-east. I have a mortar and pestle you can use to mash them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01191",
+      "id": 246419857,
       "en": "Agalûnu must rest to allow her wound to heal. In the meantime, she asked you to return to Shanthar and reassure him that she intends to keep her promise to help him care for the forest. Shanthar is at his abode in Arwáth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Finding Healing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

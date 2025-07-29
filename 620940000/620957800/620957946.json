@@ -2,382 +2,319 @@
   "id": 620957946,
   "txt": [
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'I think Willem must be hungry. See if you can get some suitable venison from the glen-hinds and glen-bucks in these woods. I am sure he would appreciate it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e26",
+      "id": 49286694,
       "en": "Bring venison to the lynx on the road through the Trollshaws",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Why the delay? Bring that venison to Willem Whisker! He must be hungry!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'I knew it! He loved the venison! Good work, [placeholder]!\\n\\n'I have been thinking it over, and I think we should allow him to tag along with us for as long as he wants. He is a good boy, I daresay, and it will be good to have another companion on this journey. No offence intended to you, of course! But you are not as fuzzy as Willem Whisker, are you?\\n\\n'This way, W.W.! You are welcome to journey with us for as long as you wish! We go now to the next stop on my map: the entrance to Rivendell, the hidden valley!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'The hidden valley of Rivendell is marked on my map. It looks as if it is among the heights of the Trollshaws, to the east.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'I have been looking at the map that started my grand adventure, and I know where I want to go next, [placeholder]! If I am reading this correctly, we should be just about here. Now, do you see this area here, among the trees to the east and a little north? The author of this map has made a little drawing of three figures here in this glade. Look at their large smiles!\\n\\n'I want to find this Glade of Smiling Figures, my friend. It should be to the east of our location, and a little north, but there may be some impassable rock-faces in our way. We may need to return to the road before we can strike north-east to the glade.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Bingo is in the Stone-trolls' Glade, in the Trollshaws.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a1",
+      "id": 111477409,
       "en": "Talk to Bingo at the Stone-trolls' Glade",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56889",
+      "id": 162883721,
       "en": "'What purpose brings your party to the hidden valley, [placeholder]? Are you on friendly terms with the one who follows you? He does seem to be well-behaved, for the moment, but I wonder if that will change when he gets hungry?'\\n\\nThe sentinel laughs, a musical sound.\\n\\n'The lynx? No, I do not speak of the lynx, [placeholder]. I speak of the hungry-looking hobbit there!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'If I am reading this map correctly, we should be just about here. Now, do you see this area here, among the trees to the east and a little north? The author of this map has made a little drawing of three figures here in this glade. Look at their large smiles!\\n\\n'I want to find this Glade of Smiling Figures, my friend. It should be to the east of our location, and a little north, but there may be some impassable rock-faces in our way. We may need to return to the road before we can strike north-east to the glade.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Bingo's journey has brought the two of you into the Trollshaws, and the wooded hillsides provide a new setting for the hobbit's adventure.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a2",
+      "id": 111477410,
       "en": "<rgb=#FF0000>Wave</rgb> at the lynx to get him to stop following Bingo",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Talk to Bingo on the road through the Trollshaws",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Look at those mighty stones! Trolls! We are fortunate indeed that they are mere statues, and not the real thing!'\\n\\nBingo's smile fades as he peers to the north-west between two of the figures, and he frowns deeply.\\n\\n'Oh no, [placeholder]. A helpless creature has been caught in a trap! Can you help the poor thing? Such cruelty! It pains me to see it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a4",
+      "id": 111477412,
       "en": "Collect venison in the Trollshaws ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a9a048",
+      "id": 162111560,
       "en": "Lynx",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'Well, look at that! I am glad they are made of stone, and not real trolls at all!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Talk to Bingo on the road through the Trollshaws",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a8",
+      "id": 111477416,
       "en": "Find the entrance to Rivendell, the hidden valley",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "Bingo is at the Stone-trolls' Glade, in the Trollshaws.\\n\\nYou have freed a lynx from a cruel animal trap at Bingo's request, and should speak now to the hobbit.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'Well, that was a good deed, my friend. The poor thing! I understand the need to catch animals for food, of course, but the construction of that trap seemed unnecessarily cruel to me. I am glad that lynx is free, and I hope no permanent damage was done to the creature!\\n\\n'Let us travel to the south-east, and we can decide where next to go when we have returned to the road.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50252",
+      "id": 111477330,
       "en": "Talk to the sentinel at the entrance to the hidden valley",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01182",
+      "id": 246419842,
       "en": "Bingo wants to return to the road south-east of the Stone-trolls' Glade in order to continue his journey.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "Talk to Bingo at the entrance to the hidden valley",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "'[placeholder], I do not want to worry you but... well, we are being followed! No, do not make any sudden movements!\\n\\n'It is that lynx... it has been following us for a short while now, and it is staring at us from across the road! Can you... do you think you can <rgb=#FF0000>wave at it</rgb> to shoo it away?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Bingo has asked you to <rgb=#FF0000>wave at the lynx</rgb> that has followed the two of you back to the road, in order to shoo it away.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01187",
+      "id": 246419847,
       "en": "Bingo is on the road south-east of the Stone-trolls' Glade, in the Trollshaws.\\n\\nYou attempted to wave away the lynx that is following Bingo, but the creature refused to leave.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'That did not work, [placeholder]! He is still staring at us! Hmm... do you think that Willem Whisker is hungry?'\\n\\nBingo turns a bright shade of red at your quizzical expression, and becomes suddenly sheepish.\\n\\n'What? He needed a name, didn't he? He looks like a Willem Whisker to me. Just look at that face! Anyway, I think he must be hungry. See if you can get some suitable venison from the glen-hinds or glen-bucks in these woods. I am sure Willem would appreciate it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Glen-hinds and glen-bucks can be found throughout the Trollshaws, and from them you should be able to get the venison that Bingo has requested.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "Find the Glade of Three Smiling Figures",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b6",
+      "id": 111477430,
       "en": "Talk to Bingo at the Stone-trolls' Glade",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56844",
+      "id": 162883652,
       "en": "'Oh no, [placeholder]. A helpless creature has been caught in a trap! Can you help the poor thing? Such cruelty! It pains me to see it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Free the lynx from the trap",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56845",
+      "id": 162883653,
       "en": "'I am glad that lynx is free, and I hope no permanent damage was done to the creature!\\n\\n'Let us travel to the south-east, and we can decide where next to go when we have returned to the road.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b9",
+      "id": 111477433,
       "en": "Talk to Bingo back on the road south-east of the Stone-trolls' Glade",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56847",
+      "id": 162883655,
       "en": "'That lynx has been following us for a short while now, and it is staring at us from across the road! Can you... do you think you can <rgb=#FF0000>wave at it</rgb> to shoo it away?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01191",
+      "id": 246419857,
       "en": "Willem Whisker is on the road south-east of the Stone-trolls' Glade.\\n\\nYou have collected some venison, and should bring it to the lynx to see if that appeases his hunger.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56848",
+      "id": 162883656,
       "en": "The lynx happily devours the venison, and then stares up at you enigmatically.\\n\\nHe does look a little like a Willem Whisker, now that you think about it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56849",
+      "id": 162883657,
       "en": "'I knew it! He loved the venison! Good work, [placeholder]!\\n\\n'I have been thinking it over, and I think we should allow him to tag along with us for as long as he wants. He is a good boy, I daresay, and it will be good to have another companion on this journey. No offence intended to you, of course! But you are not as fuzzy as Willem Whisker, are you? Well... not all the time, my Beorning friend! Ha ha ha!\\n\\n'This way, W.W.! You are welcome to journey with us for as long as you wish! We go now to the next stop on my map: the entrance to Rivendell, the hidden valley!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01194",
+      "id": 246419860,
       "en": "Bingo is on the road through the Trollshaws, south-east of the Stone-trolls' Glade.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01196",
+      "id": 246419862,
       "en": "The entrance to the hidden valley of Rivendell is marked on Bingo's map, in the eastern heights of the Trollshaws.\\n\\nBingo is ready to travel to Rivendell, and has suggested that you go to the entrance to that hidden valley.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1163",
+      "id": 177082723,
       "en": "Free of the trap, the lynx suddenly bounds away",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01198",
+      "id": 246419864,
       "en": "You have found the entrance to the hidden valley of Rivendell, and the sentinels eye your small party with suspicion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1166",
+      "id": 177082726,
       "en": "The lynx stares at you with large eyes, and does not move",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7641b38",
+      "id": 124001080,
       "en": "Trapped Lynx",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01144",
+      "id": 246419780,
       "en": "The Glade of Three Smiling Figures is north-east of where you and Bingo camped for the night. Bingo suggested that you might need to return to the road before striking north for the glade.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "'I hope they will let us into the valley! I greatly wish to see it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b1",
+      "id": 162883761,
       "en": "'According to my map this is the entrance to the hidden valley!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a2",
+      "id": 246419874,
       "en": "Bingo is outside the entrance to the hidden valley of Rivendell.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01149",
+      "id": 246419785,
       "en": "Bingo has seen a lynx caught in a cruel trap at the Stone-trolls' Glade, and has asked you to free the poor creature.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b3",
+      "id": 162883763,
       "en": "'Really? This Elf believes I am more of a danger to the peace of Rivendell than our new friend W.W.?'\\n\\nBingo's face is full of outrage, but he cannot maintain the mask for long, and soon he is his usual jovial self.\\n\\n'These are perceptive Elves, [placeholder]! Willem Whisker will cause no trouble for them, but if there are any dinners to be had within Rivendell I will menace them most effectively!'\\n\\n<rgb=#FF0000>Next week: 'A Hospitable Home' (Recommended Level: 39)</rgb>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b4",
+      "id": 162883764,
       "en": "'I trust that you will cause no trouble within Rivendell, my friend?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1171",
+      "id": 177082737,
       "en": "The Elf-sentinels eye your small group suspiciously",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1178",
+      "id": 177082744,
       "en": "Three large stone figures stand in the glade",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56870",
+      "id": 162883696,
       "en": "'What purpose brings your party to the hidden valley, [placeholder]? Are you on friendly terms with the one who follows you? He does seem to be well-behaved, for the moment, but I wonder if that will change when he gets hungry?'\\n\\nThe sentinel laughs, a musical sound.\\n\\n'The lynx? No, I do not speak of the lynx, [placeholder]. I speak of the other hobbit with you, the hungry-looking fellow! Ha ha ha!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1185",
+      "id": 177082757,
       "en": "Collected venison ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A New Friend",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

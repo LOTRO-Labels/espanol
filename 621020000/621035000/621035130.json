@@ -2,256 +2,214 @@
   "id": 621035130,
   "txt": [
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "Use the summoning horn at the cave entrance to summon Hórin to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a2",
+      "id": 246419874,
       "en": "You should talk to Hórin.\\n\\n<rgb=#FF0000>If Hórin is missing, and the Call Hórin skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ec0d21",
+      "id": 82578721,
       "en": "'We will never allow you to free the dragon! For Skarháld!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a3",
+      "id": 246419875,
       "en": "Defeat hobgoblins in Akûl-lagam with Hórin.\\n\\n<rgb=#FF0000>If Hórin is missing, and the Call Hórin skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa7",
+      "id": 126754727,
       "en": "Mission: Loyalty of the Frost-bound",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Hórin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b8",
+      "id": 162883768,
       "en": "'This door is no natural thing, [placeholder]. I have seen this before! Those hobgoblins are summoning an unearthly cold with their dark magic to block our path. We will have to defeat them to progress further!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Defeat hobgoblins ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a6",
+      "id": 246419878,
       "en": "A door of unnatural ice blocks your path.\\n\\nYou should talk to Hórin.\\n\\n<rgb=#FF0000>If Hórin is missing, and the Call Hórin skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1181",
+      "id": 177082753,
       "en": "Defeated hobgoblin frost-callers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e1",
+      "id": 239584481,
       "en": "'Keep digging! No rest until our Mistress is freed!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e2",
+      "id": 239584482,
       "en": "'My life for the Frost-horde!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "Find the hobgoblin leader",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e3",
+      "id": 239584483,
       "en": "'Why does the Warlord not just kill him? He plots against us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a9",
+      "id": 246419881,
       "en": "Hórin believes hobgoblin frost-callers are causing the ice to block your path.\\n\\nYou should find and defeat the hobgoblin frost-callers.\\n\\n<rgb=#FF0000>If Hórin is missing, and the Call Hórin skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Well done, [placeholder]! Let us return to Annâk-khurfu!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1184",
+      "id": 177082756,
       "en": "Defeated Thrugdar the Slaughterer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e4",
+      "id": 239584484,
       "en": "'Warlord Dushtalbúk allows his puppet to live to keep the Orcs in line.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e5",
+      "id": 239584485,
       "en": "'You see the way they look at us. The way they spurn the gifts of the Frostheart.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Talk to Hórin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e6",
+      "id": 239584486,
       "en": "'The Warlord is cunning. We are few, and they are many.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50289",
+      "id": 111477385,
       "en": "Defeat TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e7",
+      "id": 239584487,
       "en": "'The Orcs would rise up against us if the Son of Bolg did not command them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e8",
+      "id": 239584488,
       "en": "'When the Mistress is freed and the dwarves slaughtered, Gorgar will no longer be of use to us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "Defeated Taurogrim ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe47c4e9",
+      "id": 239584489,
       "en": "'Intruders! You will not stop us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b2",
+      "id": 246419890,
       "en": "With the ice door dispelled, you should now be able to progress deeper into Akûl-lagam.\\n\\nYou should find and defeat the hobgoblin leader, Thrugdar the Slaughterer.\\n\\n<rgb=#FF0000>If Hórin is missing, and the Call Hórin skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Defeat the Taurogrim in Grazadh-gropor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b5",
+      "id": 246419893,
       "en": "The hobgoblins have been defeated.\\n\\nYou should talk to Hórin.\\n\\n<rgb=#FF0000>If Hórin is missing, and the Call Hórin skill is not available, try using the /pet release command.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d18",
+      "id": 51875096,
       "en": "Deep in the Grey Mountains, the hobgoblins launch a plot to free their mistress….",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1190",
+      "id": 177082768,
       "en": "Defeated TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Defeat Taurogrim ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1195",
+      "id": 177082773,
       "en": "A door of ice blocks your path deeper into the cave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Use the summoning horn to call Hórin to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a6",
+      "id": 162883750,
       "en": "'This uncanny cold.... We were just in time, [placeholder]. I swear I can almost hear that cursed dragon on the other side of this wall.\\n\\n'If we're done, let's go. I have no desire to stand here freezing!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Defeat hobgoblin frost-callers ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a3",
+      "id": 111477411,
       "en": "Defeat Thrugdar the Slaughterer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a3",
+      "id": 177082787,
       "en": "Defeated hobgoblins ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Talk to Hórin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'This is the place. I must be honest, [placeholder]. After our failed assault on the Anvil, I am eager to be avenged upon the Frost-horde and their lackeys for the attack on Skarháld. And most of all, we must do everything we can to prevent Hrímil from being released. If she attacked our army during the battle, it would be catastrophic!'\\n\\nHe pauses as he is lost in his own thoughts. You can tell his experience in the Anvil still weighs heavily on him. He notices you staring at him and becomes flustered.\\n\\n'D- Do not think me a coward, [placeholder]! I am more than willing to face that dragon again! And one day, we will have to, to end her reign over these mountains for good. I just don't want that day to be today! Come on, let's get to work.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a8",
+      "id": 111477416,
       "en": "Pick up the Summoning Horn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Use the skill Call Hórin and talk to Hórin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

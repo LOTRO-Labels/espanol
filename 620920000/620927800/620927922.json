@@ -2,22 +2,19 @@
   "id": 620927922,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Improved Sneak",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "When using Surprise Strike or Cunning Attack from Sneak they are now guaranteed to be Critical Hits.\\n\\n<rgb=#DD2121>Note: This does not affect Feint Attack or Improved Feint Attack.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6554671",
+      "id": 106251889,
       "en": "Surprise Strike and Cunning Attack are guaranteed to land Critical Hits from Stealth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,454 +2,379 @@
   "id": 620905476,
   "txt": [
     {
-      "id": "0xe6e1ef1",
+      "id": 242097905,
       "en": "'You are very welcome, Corudan. I was not certain that Elves could eat the food of my people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef2",
+      "id": 242097906,
       "en": "'I did not ask for your opinion, Horn.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef3",
+      "id": 242097907,
       "en": "'When Théoden King sent you away, he did not send you far enough!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef4",
+      "id": 242097908,
       "en": "'In my own hall I will speak as I wish!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef5",
+      "id": 242097909,
       "en": "'To my home he brings a wild woman, a blood-foe of his own people!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x13a6811",
+      "id": 20604945,
       "en": "'Yes, my lord.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef6",
+      "id": 242097910,
       "en": "'She threatens me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I know the Reeve promised a meagre feast, but this seemed like a bounty to me. Eaworth is besieged by troubles, as are the other villages we have visited in the Eastemnet, but still its lord and his guests eat well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I think I could use some air, [placeholder]. Let us walk outside for a short while.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef7",
+      "id": 242097911,
       "en": "'The Elf is wiser than you, Horn. He knows when to speak, and when not to speak.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'So what did you make of my father, [placeholder]? That went about as well as I expected. No, it actually went better. Our last meeting, before I left for Stangard, was an icy one. My time away seems to have thawed him somewhat, if only slightly.\\n\\n'I hadn't thought to keep Prince Théodred's death from my sister Ingyth until it became clear my father had not told her, but I think it is best this way. She was very much in love with him, and his loss... well, it will not be an easy thing.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef8",
+      "id": 242097912,
       "en": "'Must each of my sons be so quick of temper?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'No, you are right, [placeholder]. I am being unfair. Eaworth has suffered greatly at the hands of Orcs, and it is to regain the glory of Rohan that its people fight!'\\n\\nHorn shakes his head to clear it.\\n\\n'Yes, my songs were not lies. Rohan was great, and will be again. It's just... I have become fond of Nona, and I wanted my family to accept her for the same reasons I have. And I wanted her to feel less out-of-place here. I did not think she would have as much trouble fitting in here in Eaworth, though perhaps I should have known better.\\n\\n'Neither of us belong in Rohan, it seems. She and I are both outcasts. It does not seem to bother her the way it bothers me. Perhaps she can help me come to accept it.\\n\\n'Thank you for the walk, [placeholder]. The fresh air has done me some good.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6e1ef9",
+      "id": 242097913,
       "en": "'They are tired from their journey, my daughter. They surely need rest.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085255",
+      "id": 218649173,
       "en": "'Yes, that is enough. We will speak of the Prince... later. No need for that talk now.'\\n\\nReeve Ingbert thumps the table with his fist.\\n\\n'There is another matter of which to speak, a very serious matter indeed.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Horn interrupts before you can speak to Ingyth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085256",
+      "id": 218649174,
       "en": "'We will speak later, [placeholder], but I thank you for holding your tongue. I have kept the sad tidings from the Fords of Isen from my daughter, until now. She is not yet ready to hear them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "Nona looks at you darkly.\\n\\n'Why did I come to this place, [placeholder]? My journey with you was to be one of vengeance and victory, and instead I encounter a complicated web of distrust and confusion!'\\n\\nNona lowers her voice and speaks to you in a harsh whisper.\\n\\n'That girl does not know her beloved is dead, and none here wish her to know! Is that because they fear the truth would kill her, that her grief would be too much for her to bear? She should take the sadness and turn it to anger, and wield a sword against the Orcs that slew her love! That is what I have done, in memory of Wadu, and what I would do to avenge my love... to avenge...'\\n\\nNona halts suddenly, out of breath.\\n\\n'But his people and mine are enemies, [placeholder]. It is wrong to... to feel this way. You heard that old man! He will never accept that Nona, daughter of Suvulch, could be anything but a foe. Has my fondness for Horn changed me? Has it made me weaker, more unsuspecting? Why can I no longer bring myself to hate the horse-lords in the same way they hate my people?\\n\\n'I do not want to die in ambush, [placeholder], as my brother did. But I fear I have been blinded. My heart has done it. I... need some time to think.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085258",
+      "id": 218649176,
       "en": "'I would like to apologize for my father's words, [placeholder]. He speaks harshly because the troubles of the Entwash Vale weigh heavily upon him, and he cares so much about his people. He wants to do what is right, but he worries that it is not enough.\\n\\n'If only the will of the King were not so... confused. It is hard to know what is best for Rohan. Ha! Will you listen to me? I am no shield-maiden. What would Prince Théodred say if he could hear me talk this way?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085259",
+      "id": 218649177,
       "en": "'Let us return to the Mead Hall, [placeholder]. Relaxing with you and Corudan and Nona in time of peace is more home-like now than anything Eaworth can provide to me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have attended a feast at Horn's home of Eaworth. The food was good, but your reception by Horn's father Ingbert was frosty.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6e3011",
+      "id": 225325073,
       "en": "'Do you desire battle? I will give it to you, old man!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6e3012",
+      "id": 225325074,
       "en": "'Who is your beloved?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6e3013",
+      "id": 225325075,
       "en": "'[placeholder] met with the Prince at the Fords of Isen, not long ago.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e1efa0",
+      "id": 115470240,
       "en": "'I think they are ready to retire to their beds, Ingyth. We need not speak of this now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e1efa1",
+      "id": 115470241,
       "en": "'You are my son, Horn, but you had a term of service to carry out in Stangard and you have not completed it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c50",
+      "id": 84765776,
       "en": "Walk with Horn throughout Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e1efa2",
+      "id": 115470242,
       "en": "'You are here against the will of Théoden King.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c51",
+      "id": 84765777,
       "en": "Talk to Horn outside the Mead Hall in Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e1efa3",
+      "id": 115470243,
       "en": "'My loyalty is to the King, at all times! I will not hear these treasons!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c52",
+      "id": 84765778,
       "en": "Talk to Horn outside the Mead Hall in Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e1efa4",
+      "id": 115470244,
       "en": "'Léowulf, the feast is over. See to the removal of the table and chairs.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Corudan at the table in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Listen to the conversation around the table in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Ingyth at the table in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2589ed1",
+      "id": 39362257,
       "en": "'Thank you for the hospitality, Reeve Ingbert. The food was delicious.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Reeve Ingbert at the table in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2589ed2",
+      "id": 39362258,
       "en": "'Oh dear.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Listen to the conversation around the table in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2589ed3",
+      "id": 39362259,
       "en": "'I think that may be enough for now, Horn. Respect your father's walls.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Talk to Reeve Ingbert in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Talk to Ingyth in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Talk to Nona in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Talk to Horn inside the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd852eb1",
+      "id": 226832049,
       "en": "'Father!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Corudan's seat is just to your right, at the table in the Mead Hall of Eaworth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd852eb2",
+      "id": 226832050,
       "en": "'No, I will not allow him to be rude to you, my brother!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The feast is over, but the conversation continues.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f231",
+      "id": 243593777,
       "en": "'Look at this place, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd852eb3",
+      "id": 226832051,
       "en": "'Oh no!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Ingyth is at the table just to the right of her father, Ingbert, in the Mead Hall of Eaworth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f232",
+      "id": 243593778,
       "en": "'Trust me when I tell you it was not always like this.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd852eb4",
+      "id": 226832052,
       "en": "'The four of you have travelled far. Did you hear any news of my beloved?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Reeve Ingbert is at the table in the Mead Hall of Eaworth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f233",
+      "id": 243593779,
       "en": "'Many of the guards have turned to drink for solace against the great number of raiding Orcs.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd852eb5",
+      "id": 226832053,
       "en": "'I am betrothed to Théodred, the Prince of Rohan. When he returns from his duties we will be married.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "The feast is over, but the conversation continues.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f234",
+      "id": 243593780,
       "en": "'There are not many children left in Eaworth, but those that remain are afraid.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd852eb6",
+      "id": 226832054,
       "en": "'Oh, what can you tell me of him? Did he look well?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Ingbert, Ingyth, and Nona have gotten up from the table and are each in the Mead Hall of Eaworth. You should speak with each of them.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f235",
+      "id": 243593781,
       "en": "'Everything has changed. When I was young, these buildings seemed to me to be enormous.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "Horn is in the Mead Hall of Eaworth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f236",
+      "id": 243593782,
       "en": "'Now they seem so small, and so ramshackle.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f11",
+      "id": 147726097,
       "en": "'They are not as different from us as we thought, Father. None of my companions are.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "Horn is outside the Mead Hall of Eaworth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe84f237",
+      "id": 243593783,
       "en": "'I sang for years of the glory of Rohan. Was... was any of it true?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f12",
+      "id": 147726098,
       "en": "'It is nothing, Ingyth. Do not trouble yourself.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "Horn is outside the Mead Hall, in Eaworth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f13",
+      "id": 147726099,
       "en": "'Nona, no!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f14",
+      "id": 147726100,
       "en": "'Father, listen to me. Nona is my boon companion. She is a mighty warrior, and...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f15",
+      "id": 147726101,
       "en": "'Prince Théodred will be back with you soon, Ingyth! Let us speak of other things!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f16",
+      "id": 147726102,
       "en": "'Father, I do not want to cause trouble for you or for the people of Eaworth.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f17",
+      "id": 147726103,
       "en": "'My song for the King may have been ill-conceived, but there was truth in it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce1f18",
+      "id": 147726104,
       "en": "'He has been influenced by Gríma Wormtongue! If only he had the strength to resist...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Homecoming",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

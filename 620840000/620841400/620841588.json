@@ -2,250 +2,209 @@
   "id": 620841588,
   "txt": [
     {
-      "id": "0xa799b8c",
+      "id": 175741836,
       "en": "Soldier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x865c9c4",
+      "id": 140888516,
       "en": "Under-leveled stats are generated if you play in a Skirmish that is set to a level below yours.  All stats are tracked, but under-leveled stats are tracked separately and will not count for tournaments.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcdda2d4",
+      "id": 215851732,
       "en": "Stats",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdfdfd4c",
+      "id": 234749260,
       "en": "Cancel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81fe984",
+      "id": 136309124,
       "en": "Your Skirmish Soldier time is depleted - Soldier dismissed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db1",
+      "id": 24743345,
       "en": "Soldier:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c9bbd5",
+      "id": 46775253,
       "en": "Skirmish #3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6161ef0",
+      "id": 102113008,
       "en": "You cannot summon your soldier during combat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x73aefe7",
+      "id": 121303015,
       "en": "This will set your Skirmish traits to rank 1 and refund all Marks or Skirmish Marks spent on them.  Do you wish to proceed?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9890b15",
+      "id": 159976213,
       "en": "Lifetime",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xca75e24",
+      "id": 212295204,
       "en": "Personal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30a88d5",
+      "id": 51022037,
       "en": "Marks:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x66de994",
+      "id": 107866516,
       "en": "Skill",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x293d9e8",
+      "id": 43244008,
       "en": "You were not awarded marks because your level was too high.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xac048f4",
+      "id": 180373748,
       "en": "Submit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdc62891",
+      "id": 231090321,
       "en": "You have entered an area restricted to Skirmish Soldiers - Soldier dismissed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e12ea5",
+      "id": 65089189,
       "en": "Skirmish Resistances:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5193c84",
+      "id": 85539972,
       "en": "Training",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf256284",
+      "id": 254108292,
       "en": "Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x687f9f4",
+      "id": 109574644,
       "en": "Show under-leveled Skirmish stats",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54234b0",
+      "id": 88224944,
       "en": "Click on the portrait to summon your soldier.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3294207",
+      "id": 53035527,
       "en": "You were not awarded marks because your level was too low.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7c060e0",
+      "id": 130048224,
       "en": "You cannot summon your soldier right now.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc79ebac",
+      "id": 209316780,
       "en": "Skirmish Soldier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4fe0d0e",
+      "id": 83758350,
       "en": "Rename",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd066c74",
+      "id": 218524788,
       "en": "You must complete the Skirmish tutorial. Visit one of the Skirmish Camps found throughout Middle-earth and speak with a Skirmish Captain to properly train. Skirmish Camps can be found in the following regions: Dunland, Ered Luin, Bree-land, the Shire, the Lone-lands, the North Downs, the Trollshaws, Evendim, Forochel, Angmar, Eregion, Moria, and Lothlórien.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x956cc95",
+      "id": 156683413,
       "en": "Marks:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93db90c",
+      "id": 155040012,
       "en": "Marks",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d057bc",
+      "id": 63985596,
       "en": "Skirmish Panel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8261ea0",
+      "id": 136715936,
       "en": "You must get more time to summon your soldier here.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfc9bbd5",
+      "id": 264879061,
       "en": "Skirmish #2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd66df74",
+      "id": 224845684,
       "en": "Equipped",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc9bc25",
+      "id": 13220901,
       "en": "Skirmish #1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e03fd4",
+      "id": 148914132,
       "en": "Attribute",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x96640b0",
+      "id": 157696176,
       "en": "Get more time.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x27d9f83",
+      "id": 41787267,
       "en": "Defenders surviving the skirmish have earned you bonus Marks.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60278c4",
+      "id": 100825284,
       "en": "You have not yet attempted this skirmish!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x836e9b0",
+      "id": 137816496,
       "en": "You cannot summon your soldier here.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfef22a5",
+      "id": 267330213,
       "en": "Skirmish Specific",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a84c70",
+      "id": 94915696,
       "en": "This value indicates the Mark acquisition modifier you will receive by running this skirmish with these settings.  Does not include daily quests.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd5dc04",
+      "id": 14015492,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

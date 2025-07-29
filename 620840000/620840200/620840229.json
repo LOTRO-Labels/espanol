@@ -2,82 +2,379 @@
   "id": 620840229,
   "txt": [
     {
-      "id": "0x5093882",
+      "id": 84490370,
       "en": "'Gondamon will be mine! To battle!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaceb125",
+      "id": 181317925,
       "en": "<rgb=#00ffff>Encounter Complete: Ghashnâkh has fallen to your mighty blow</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb582c20",
+      "id": 190327840,
       "en": "<rgb=#00ffff>Encounter Update: The southern flag of Gondamon is wrapped around Arfinn. It should be hung to fly at the south gate once more</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x345d9b1",
+      "id": 54909361,
       "en": "'We shall secure the enemy camp!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5825e3",
+      "id": 190326243,
       "en": "<rgb=#00ffff>Encounter Update: The horn of Thrastar sounds from the south camp. The leader of the southern assault is coming to reclaim the planted flag of Gondamon</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe69fa91",
+      "id": 241826449,
       "en": "'You fall back and regroup at the Keep. We'll push forward!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f12d58",
+      "id": 32583000,
       "en": "'Drake! Come to me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf3e98ae",
+      "id": 255760558,
       "en": "<rgb=#00ffff>Encounter Update: A deep voice roars from outside the South Gate. 'I will dance as Gondamon burns!'</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ad3ff1",
+      "id": 28131313,
       "en": "'Gondamon has been a free city so long as I have ever known.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ad3ff2",
+      "id": 28131314,
       "en": "'The Dourhand wish to take that from you. To take your homes, and slaughter your families!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ad3ff3",
+      "id": 28131315,
       "en": "'But I say not today. I say we stand. I say we fight!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23b5845",
+      "id": 37443653,
       "en": "<rgb=#FF0000>Enemies are on the march to the north!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
-      "en": "'This is all I get for reinforcements? I suppose you will have to do. We've defended this keep for as long as we could, but I fear the next push might be our last.\\n\\n'Head to the walls and let them come to you. Perhaps th",
-      "es": "",
-      "es (fem)": ""
+      "id": 218649169,
+      "en": "'This is all I get for reinforcements? I suppose you will have to do. We've defended this keep for as long as we could, but I fear the next push might be our last.\\n\\n'Head to the walls and let them come to you. Perhaps there is hope yet that Gondamon will still stand free at the end of this day.'",
+      "es": ""
+    },
+    {
+      "id": 218649170,
+      "en": "'Gondamon stands a free city, a damaged and beaten city, but a free one. We held out for as long as we had strength, I fear if you hadn't come when you did, the city would have fallen. The Longbeards owe you a great debt.'",
+      "es": ""
+    },
+    {
+      "id": 126751598,
+      "en": "<rgb=#00ffff>Encounter: A battle-horn sounds from the west</rgb>",
+      "es": ""
+    },
+    {
+      "id": 37930577,
+      "en": "'You must defend the Keep!'",
+      "es": ""
+    },
+    {
+      "id": 136263297,
+      "en": "<rgb=#00FF00>The first assault has been broken. There are a few short moments to rest before the assault continues</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263298,
+      "en": "<rgb=#00FF00>You have defended against the second assault. There are a few short moments to gather your breath before the next arrives</rgb>",
+      "es": ""
+    },
+    {
+      "id": 88656665,
+      "en": "'I shall sleep easier tonight knowing the threat has passed.'",
+      "es": ""
+    },
+    {
+      "id": 136263299,
+      "en": "<rgb=#00FF00>They have tried all three gates. The next assault will surely be the final, yet most brutal one</rgb>",
+      "es": ""
+    },
+    {
+      "id": 200198318,
+      "en": "<rgb=#00ffff>Encounter: A cackling laughter comes from beyond the North Gate. 'Gondamon's walls will soon be nothing but small pieces!'</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263300,
+      "en": "<rgb=#FF0000>Mathi has been defeated</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Gondamon is one of the strongest fortresses of the Longbeards in the Blue Mountains. The Dourhands and their goblin-allies seek to overthrow the stronghold and claim it for themselves.",
+      "es": ""
+    },
+    {
+      "id": 197197688,
+      "en": "Mergeth has gone to secure the Enemy's northern camp",
+      "es": ""
+    },
+    {
+      "id": 107377733,
+      "en": "West Gate",
+      "es": ""
+    },
+    {
+      "id": 201393863,
+      "en": "'Mathi, today is the day you and Gondamon fall to the Dourhands! Drake! Come to me!'",
+      "es": ""
+    },
+    {
+      "id": 37578773,
+      "en": "<rgb=#FF0000>Enemies are on the march to the south!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 245267305,
+      "en": "'I will write an epic ode so none shall forget your courage.'",
+      "es": ""
+    },
+    {
+      "id": 100109374,
+      "en": "<rgb=#00ffff>Encounter: A battle-horn sounds from the north</rgb>",
+      "es": ""
+    },
+    {
+      "id": 187385445,
+      "en": "<rgb=#FF0000>Enemies are on the march to the west!</rgb>",
+      "es": ""
+    },
+    {
+      "id": 99834990,
+      "en": "<rgb=#00ffff>Encounter: A battle-horn sounds from the south</rgb>",
+      "es": ""
+    },
+    {
+      "id": 210643641,
+      "en": "'Gondamon is saved!'",
+      "es": ""
+    },
+    {
+      "id": 63276196,
+      "en": "The Gondamon Guard has gone to secure the Enemy's northern camp",
+      "es": ""
+    },
+    {
+      "id": 23681521,
+      "en": "'Fall back! We shall carry the fight to them!'",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Report to Mathi, commander of Gondamon",
+      "es": ""
+    },
+    {
+      "id": 29793065,
+      "en": "<rgb=#FF0000>A battle-cry erupts from the eastern platforms as the Dourhand General enters the fray</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "Push back the first assault",
+      "es": ""
+    },
+    {
+      "id": 16392869,
+      "en": "<rgb=#FF0000>Enemies are on the move from all sides. The final assault has begun</rgb>",
+      "es": ""
+    },
+    {
+      "id": 192925971,
+      "en": "<rgb=#00ffff>Encounter Update: The horn of Agi Gatebreaker echoes through Gondamon's courtyard! The west gate flag shall not stand for long</rgb>",
+      "es": ""
+    },
+    {
+      "id": 88477797,
+      "en": "North Gate",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Push back the second assault",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "Push back the third assault",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Fend off the final assault",
+      "es": ""
+    },
+    {
+      "id": 156788949,
+      "en": "<rgb=#00ffff>Encounter Complete: Agi Gatebreaker falls to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075078,
+      "en": "Mathi must survive the assault",
+      "es": ""
+    },
+    {
+      "id": 226624581,
+      "en": "'The siege on Gondamon has been broken but the price was heavy. Mathi, the city's leader, was felled in the battle.'",
+      "es": ""
+    },
+    {
+      "id": 227582757,
+      "en": "<rgb=#00FF00>'The siege on Gondamon has been broken. The city and Mathi, their leader, are safe.'</rgb>",
+      "es": ""
+    },
+    {
+      "id": 30625313,
+      "en": "'You must protect Mathi.'",
+      "es": ""
+    },
+    {
+      "id": 131181876,
+      "en": "'Now to the walls! We defend Gondamon to our last breath!'",
+      "es": ""
+    },
+    {
+      "id": 24949609,
+      "en": "'The Dourhands are defeated!'",
+      "es": ""
+    },
+    {
+      "id": 24178158,
+      "en": "Dagfinn has gone to secure the Enemy's southern camp",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "Mathi has been leading the defence of Gondamon for the duration of the siege. It is crucial for you to report in to him and find out where you can help.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The first assault of the final attack has begun. The Enemy must not breach the walls.",
+      "es": ""
+    },
+    {
+      "id": 135883397,
+      "en": "<rgb=#00ffff>Encounter Complete: Thrastar falls to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "The second assault of the final attack has begun. The Enemy is attempting to force their way in through a different gate.",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "The third assault of the final attack has begun. They are attempting to come through the last gate.",
+      "es": ""
+    },
+    {
+      "id": 127378024,
+      "en": "Haflith has gone to secure the Enemy's western camp",
+      "es": ""
+    },
+    {
+      "id": 162944116,
+      "en": "Central Courtyard",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "The final assault has begun. Their numbers are waning, but their ferocity increasing. Withstand this storm, defeat their leader, and Gondamon will continue to stand free.",
+      "es": ""
+    },
+    {
+      "id": 4331075,
+      "en": "'The Dourhands will never rule Gondamon!'",
+      "es": ""
+    },
+    {
+      "id": 61247465,
+      "en": "Galfi has gone to secure the Enemy's southern camp",
+      "es": ""
+    },
+    {
+      "id": 80304773,
+      "en": "<rgb=#00ffff>Encounter Complete: Hergill falls to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 5028217,
+      "en": "'Today will be remembered as a great victory!'",
+      "es": ""
+    },
+    {
+      "id": 141890105,
+      "en": "'Dwarves and Elves stand strong once more together.'",
+      "es": ""
+    },
+    {
+      "id": 237560033,
+      "en": "'Fall back and defend the Keep!'",
+      "es": ""
+    },
+    {
+      "id": 192938192,
+      "en": "<rgb=#00ffff>Encounter Update: As Jóstein falls, the west flag of Gondamon drops from his lifeless hand. It should be hung at the west gate once more</rgb>",
+      "es": ""
+    },
+    {
+      "id": 240674592,
+      "en": "<rgb=#00ffff>Encounter Update: A flag of Gondamon drops from Ernir's outstretched hand. It should be hung at the north gate once more</rgb>",
+      "es": ""
+    },
+    {
+      "id": 23094334,
+      "en": "Ráthorn has gone to secure the Enemy's western camp",
+      "es": ""
+    },
+    {
+      "id": 231668773,
+      "en": "<rgb=#00ffff>Encounter Complete: Sigurmar has fallen to your mighty blow</rgb>",
+      "es": ""
+    },
+    {
+      "id": 259302297,
+      "en": "'Gondamon owes you a great debt. I shall not soon forget it.'",
+      "es": ""
+    },
+    {
+      "id": 4592485,
+      "en": "South Gate",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "The Siege of Gondamon",
+      "es": ""
+    },
+    {
+      "id": 240675043,
+      "en": "<rgb=#00ffff>Encounter: Hergill's horn sounds across the battlefield. The Dourhand will not allow the north flag to fly</rgb>",
+      "es": ""
+    },
+    {
+      "id": 265233348,
+      "en": "You have not collected the flag to place here.",
+      "es": ""
+    },
+    {
+      "id": 184502873,
+      "en": "'Victory!'",
+      "es": ""
     }
   ]
 }

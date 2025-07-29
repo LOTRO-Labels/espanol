@@ -2,40 +2,49 @@
   "id": 621077735,
   "txt": [
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "Finding the Way-finder",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e1e5",
+      "id": 251716069,
       "en": "Return to Nella",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b63",
+      "id": 148970339,
       "en": "You found Nella's way-stone!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568954",
+      "id": 190220628,
       "en": "'Did you - oh, you found it! Thank you, thank you, thank you! I need to get this back to its safe box right away. Oh, thank you!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568913",
+      "id": 190220563,
       "en": "'Excuse me, I couldn't help but hear that you're going to Hashadir. Oh, pardon me, where are my manners. I'm Nellagwen, but you can call me Nella, and I really need your help. The thing is, I went wandering down to Hashadir a few days ago without knowing it'd been infested with rats. I was horribly surprised when a group of them swarmed me, a terrifying wave of fur and fleas, and I lost my footing. In doing so, I also seem to have dropped the way-stone that I was using to navigate my way around.\\n\\n'That way-stone belonged to my great, great, great... well, a very long ago ancestor, and it's been passed down in my family for generations. I came here to ask for help getting it back, but as soon as the word \\qrats\\q was mentioned, everyone turned their backs on me.\\n\\n'Please, I beg you - if you're going to Hashadir, can you look for my way-stone? I need to return it to its safe box before mother finds out that it's missing....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
-      "en": "You should bring the way-stone�",
-      "es": "",
-      "es (fem)": ""
+      "id": 184621189,
+      "en": "You should bring the way-stone back to Nella.\\n\\nNella is in Dol Amroth outside of the Swan-knight's Keep.",
+      "es": ""
+    },
+    {
+      "id": 126687017,
+      "en": "Somewhere in the ruins of Hashadir lies a precious heirloom.",
+      "es": ""
+    },
+    {
+      "id": 173025698,
+      "en": "Search for the missing way-stone",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "Nella has asked you to you look for her missing way-stone.\\n\\nThe way-stone went missing in Hashadir.",
+      "es": ""
     }
   ]
 }

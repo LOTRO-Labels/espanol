@@ -2,112 +2,94 @@
   "id": 621042469,
   "txt": [
     {
-      "id": "0xa502955",
+      "id": 173025621,
       "en": "Collect the supplies next to Prince Ingór",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859553",
+      "id": 226858323,
       "en": "'I am here to honour my word.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859554",
+      "id": 226858324,
       "en": "'We must be the ones to retake our Mountain-home!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01159",
+      "id": 246419801,
       "en": "Maergrind, the Noble Gate of Máttugard, can be found in Gundabad.\\n\\nYou should deliver expedition supplies to those at Maergrind.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d0",
+      "id": 190220752,
       "en": "'Ah, [placeholder]! I myself have just arrived! There is much to build and much to forge, just as others forge a path forward through the Mountain-home!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d1",
+      "id": 190220753,
       "en": "'Thank you for the supplies. There seems to be much in Gundabad to explore. Adventure surely awaits those who seek it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b97",
+      "id": 148970391,
       "en": "Now you should deliver the supplies throughout Maergrind",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d2",
+      "id": 190220754,
       "en": "'Thank you, [placeholder]. Yes, I am here to honour my word. I will see the goal of the dwarves to retake Gundabad is accomplished. It is the least I can do, for the dwarves of Moria have taught me much.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b98",
+      "id": 148970392,
       "en": "Delivered expedition supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d3",
+      "id": 184621267,
       "en": "Maergrind, the Noble Gate of Máttugard, can be found in Gundabad.\\n\\nYou should collect the supplies next to Prince Ingór.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50212",
+      "id": 111477266,
       "en": "Deliver expedition supplies to those at Maergrind ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01104",
+      "id": 246419716,
       "en": "You delivered supplies for the expedition to those who needed them.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fab1",
+      "id": 149027505,
       "en": "The Expedition of the Mighty Court",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a9",
+      "id": 190220713,
       "en": "'Greetings, and thank you for the supplies. I am here to assist Grámi Hornhelm. Wherever he goes I will follow, for I still have much to learn of the forge from Grámi's skillful hands and his patient instruction.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Now then, let us progress the expedition further into Gundabad. We cannot just wait around... we must be the ones to retake the Mountain-home! Take these expedition supplies and distribute them throughout Maergrind. I will soon undertake an expedition myself to retake Zidir-nesad, the Steepset, on the far side of Máttugard. Perhaps I will see you there soon, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d165",
+      "id": 24695141,
       "en": "Prince Ingór wishes to advance the expedition further into Máttugard.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50216",
+      "id": 111477270,
       "en": "Completed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56815",
+      "id": 162883605,
       "en": "You have successfully delivered the expedition supplies for Prince Ingór and heard from those who wish to explore further into Máttugard. Now the path through Gundabad is up to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,46 +2,139 @@
   "id": 621078104,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Crew: The Sea-longing Lord",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd83e61",
+      "id": 232275553,
       "en": "'After you finish carrying that, will you come speak with me and with my mother?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to Sirgon inside his room of keepsakes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e58",
+      "id": 127884888,
       "en": "You dropped the trunk!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Faltharan in Sirgon's manor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Celebros in Sirgon's manor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
-      "en": "'You return from your tour of Gondor with the King, and so quickly? What brings you back to my manor with such haste, [placeholder]?'\\n\\nYou tell Sirgon of what befell young Thorongil of Pinnath Gelin, and of the mission to bring him safely back from Umbar. His eyes light up and he eagerly grasps your hand.\\n\\n'I will be delighted to join your crew, my friend! I confess to you that thoughts of the Sea have occupied my dreams, and even my waking thoughts have dwelt upon it! Ever since I spoke with King Elessar and stepped down as the Lord of Lebennin I have desired to sail once again! My son Faltharan will take up the charge of rebuilding the vessels of the Gondorian navy; he is already well-acquainted with what must be done.\\n\\n'I have a further confession: I have already packed my trunk, hoping beyond hope that a ship would have need of an old sailor for its crew. By the Valar, it has come to pass�",
-      "es": "",
-      "es (fem)": ""
+      "id": 228284034,
+      "en": "'You return from your tour of Gondor with the King, and so quickly? What brings you back to my manor with such haste, [placeholder]?'\\n\\nYou tell Sirgon of what befell young Thorongil of Pinnath Gelin, and of the mission to bring him safely back from Umbar. His eyes light up and he eagerly grasps your hand.\\n\\n'I will be delighted to join your crew, my friend! I confess to you that thoughts of the Sea have occupied my dreams, and even my waking thoughts have dwelt upon it! Ever since I spoke with King Elessar and stepped down as the Lord of Lebennin I have desired to sail once again! My son Faltharan will take up the charge of rebuilding the vessels of the Gondorian navy; he is already well-acquainted with what must be done.\\n\\n'I have a further confession: I have already packed my trunk, hoping beyond hope that a ship would have need of an old sailor for its crew. By the Valar, it has come to pass! Will you bring the trunk in here for me? It is in the southern dining room of my manor.'",
+      "es": ""
+    },
+    {
+      "id": 111477379,
+      "en": "Talk to Sirgon inside his room of keepsakes",
+      "es": ""
+    },
+    {
+      "id": 228284036,
+      "en": "'TBD - Blah!'",
+      "es": ""
+    },
+    {
+      "id": 228284038,
+      "en": "'Thank you, [placeholder]! Tell me about the ship we will be sailing to Umbar! Ah, it has been too long!'\\n\\nYou tell Sirgon what you know about the Wave-hunter, little as it is, and he nods eagerly.\\n\\n'Golasgil of Anfalas was a mariner of great skill and ability. I knew him well, and we sailed together more than once. I believe he was as I am: a man of the Sea, but one whose duties called him away from the waves, to his great regret. I remember him fondly. It is right that his prized vessel will bear us to Umbar on the King's mission.\\n\\n'My wife and son will want to speak to you. They think I am too old to be of use, but I tell you they are wrong.'",
+      "es": ""
+    },
+    {
+      "id": 228284040,
+      "en": "'I understand you will sail with my father to Umbar on a mission of some secrecy, [placeholder]? No, I do not ask for any of the details. I think I have expected him to depart ever since I agreed to take over his duties as Lord of Lebennin. At least this seems to be on the King's behalf; my mother told me privately that she feared my father might sneak aboard a merchant ship and vanish in the night, just to set sail again. I do not think he would go so far... but it is better this way, I think.\\n\\n'Do what you can to keep him safe, my friend. He is not the man he was in his youth, when he freely sailed the Bay of Belfalas at the Steward's command, and challenged Corsair ships among the waves.'",
+      "es": ""
+    },
+    {
+      "id": 162883728,
+      "en": "'My wife and son want to speak to you. They think I am too old to be of use, but I tell you they are wrong.'",
+      "es": ""
+    },
+    {
+      "id": 228284041,
+      "en": "'My husband believes he is still the same man he was when he commanded the fleets of Gondor, but it is not so. Time marches onward, and while his mind is as sharp as ever it was, my Sirgon has lived long since those days.'\\n\\nYou ask Celebros if she wishes for you to withdraw your request, and she shakes her head.\\n\\n'I do not ask this of you, for I know he can be of great help to you and to King Elessar; I do not say he should remain behind, for I believe it would do him an injury, [placeholder]. Aye, being left behind while others sail again on such an urgent mission would deal him a grave hurt, perhaps his last.\\n\\n'He is a sailor, my Sirgon, and he has always been a sailor. He must go with you. But do keep a watchful eye on him, [placeholder]. I do worry, even as I know he cannot stay.'",
+      "es": ""
+    },
+    {
+      "id": 162883730,
+      "en": "'It will be just like the old days, [placeholder], when I sailed the waves and risked life and limb against the harsh elements! Oh, you never feel so alive as when you stand on the deck of a ship; any mariner will tell you so!\\n\\n'I will meet you beside the Wave-hunter when you are ready to depart. I look forward to meeting the rest of your crew, my friend! Together we will rescue young Thorongil, and no Corsair shall prevent us... and live!'",
+      "es": ""
+    },
+    {
+      "id": 162883731,
+      "en": "'I will continue to perform my duties as Lord of Lebennin while my father sails with you on your voyage. Please return him safely at the end of your mission, [placeholder]!'",
+      "es": ""
+    },
+    {
+      "id": 51875089,
+      "en": "King Elessar suggested that you recruit Sirgon, former Lord of Lebennin, for the mission to Umbar.",
+      "es": ""
+    },
+    {
+      "id": 162883732,
+      "en": "'Please watch out for my husband on your voyage. I do worry, even as I know he cannot stay.'",
+      "es": ""
+    },
+    {
+      "id": 246419841,
+      "en": "Sirgon is inside his keepsake room in the northern part of his manor.",
+      "es": ""
+    },
+    {
+      "id": 162883733,
+      "en": "'I have already packed my trunk, hoping beyond hope that a ship would have need of an old sailor for its crew. By the Valar, it has come to pass! Will you bring the trunk in here for me? It is in the southern dining room of my manor.'",
+      "es": ""
+    },
+    {
+      "id": 177082809,
+      "en": "Sirgon is delighted you have brought him his trunk",
+      "es": ""
+    },
+    {
+      "id": 216727827,
+      "en": "Sirgon already packed his trunk, and he wants you to carry it to him from the southern dining room.",
+      "es": ""
+    },
+    {
+      "id": 216727829,
+      "en": "Sirgon is inside his keepsake room in the northern part of his manor.",
+      "es": ""
+    },
+    {
+      "id": 216727831,
+      "en": "Celebros and Faltharan are in Sirgon's manor, and will want to speak to you.",
+      "es": ""
+    },
+    {
+      "id": 257937009,
+      "en": "'When you are done carrying that, will you come speak with me and my son?'",
+      "es": ""
+    },
+    {
+      "id": 111477398,
+      "en": "Pick up Sirgon's trunk in the southern dining room",
+      "es": ""
+    },
+    {
+      "id": 69036775,
+      "en": "Carry Sirgon's trunk to him",
+      "es": ""
+    },
+    {
+      "id": 177082788,
+      "en": "Sirgon, the sea-longing lord, has joined your crew!",
+      "es": ""
     }
   ]
 }

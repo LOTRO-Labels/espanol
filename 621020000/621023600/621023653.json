@@ -2,142 +2,119 @@
   "id": 621023653,
   "txt": [
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "Cannoth has a plan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Reach the outcropping above and destroy the fell beast eggs before they hatch.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "TBD Speak to Cannoth further up the path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "Defeat Khatlob the Brood-mother.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Talk to Cannoth further up the path",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56893",
+      "id": 162883731,
       "en": "TBD Behind the gate and up the path appears to be the roost of Brood Mother Khatlob. The eggs are getting close to hatching, and if even a few of them were to hatch, it would spell doom for our forces.\\n\\nCould you go up to the nests up above, and throw them off the edge?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "TBD - The spawning grounds of the Brood Mother Khatlob are on the cliffs above. For some time, the creatures have been kept in check by the Orcs surrounding the area. We recently discovered that she has several eggs that are about to hatch, and if allowed to do so, they would wreak havoc on our forces.\\n\\nGuarding the path to the spawning grounds are the remaining caretakers of the area. These forces are led by Khúrthak the Rent. This monstrous creature holds the keys to the series of gates that will bar our way.\\n\\nPlease make your way to the spawning grounds and dispatch of Khúrthak the Rent. I will attempt to enter the Rookery while he is distracted.\\n\\nOne last thing: Khúrthak and the other Olags are prone to being thrown into a berserking rage. We have found a soothful vapour that calms these creatures while in a state of fury. I will give you a set of them, but there are more in the chest next to me. If one of these creatures enters this state, throw the soothful vapour at them and they will be calmed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Talk to Cannoth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Cannoth hands you several phials of soothful vapour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b8",
+      "id": 177082808,
       "en": "Cannoth yells 'The eggs are starting to hatch!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "<rgb=#FF0000>Fell beast eggs hatched ([placeholder]/4)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e113",
+      "id": 262725907,
       "en": "Defeated Khúrthak the Rent",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'The cliffs above are home to Khatlob, Brood-mother of the fell beasts. She and her spawn have been mostly contained by the Orcs, but a new clutch of eggs is about to hatch and I fear the newly-spawned beasts will not long remain at Gath Daeroval. We must put an end to Khatlob and her brood, or our people will never be safe, in Imlad Morgul or elsewhere.\\n\\n'Some of Khatlob's caretakers remain, led by an olog known simply as Khúrthak the Rent. He possesses the keys we will need to gain access to the spawning ground. While you face Khúrthak, I will attempt to enter the Rookery.\\n\\n'One last thing, friend. Khúrthak and his fellow ologs are possessed of a furious rage, and only a soothful vapour can calm their fury. I will give you a set of phials containing this vapour, but there are more in the chest next to me. If an olog enters that state, throw one of these phials at him and he will be calmed.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d160",
+      "id": 24695136,
       "en": "The Shadow-roost of Gath Daeroval is home to Khatlob, the Brood-mother of the winged beasts ridden by the Nazgûl. She and her vile egg-clutch must be destroyed or there will never be an end to the terror of the fell beasts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Past the gate and further up the path you will find Khatlob's roost. Hurry! The eggs are getting near to hatching! Find the nests and throw their contents off the edge to the rocks below!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5022",
+      "id": 225071138,
       "en": "Defeat Khúrthak the Rent",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "TBD Fell beast eggs destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Fell beast eggs destroyed ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "Defeated Khatlob the Brood-mother",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Talk to Cannoth further up the path.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "Defeat Khatlob the Brood-mother",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Gath Daeroval, the Shadow-roost -- Tier 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0111",
+      "id": 216727825,
       "en": "Defeat Khúrthak the Rent.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

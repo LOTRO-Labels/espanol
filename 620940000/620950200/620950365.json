@@ -2,142 +2,119 @@
   "id": 620950365,
   "txt": [
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Rosfin can be found beside the fireplace in Malthellam's home.\\n\\nYou have come to tell Malthellam and Rosfin of what you have learned of the Dead and Tarlang's Crown. You should speak to Rosfin while you wait for Malthellam.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe08ed8",
+      "id": 266374872,
       "en": "Wait for Malthellam",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Talk to Malthellam",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'I am sorry to have kept you and Lady Rosfin waiting, [placeholder]. I was trying to find some sort of explanation as to why the Dead have returned to the Hill in such force....\\n\\n'I shall soon ask you more of your travels in the south, but first, let me tell you more of the vale's history.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Malthellam and Rosfin are speaking in Malthellam's home.\\n\\nYou have informed them that the Dead continue to haunt the vale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Malthellam can be found beside the fireplace in his home.\\n\\nYou have come to tell Malthellam and Rosfin of what you have learned of the Dead and Tarlang's Crown. You should speak to Malthellam.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Malthellam is near his fireplace in his home.\\n\\nMalthellam and Rosfin spoke at length on the history of the vale, and Malthellam now desires to hear the rest of your tale.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd73086",
+      "id": 215429254,
       "en": "DNT -- will not be seen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Listen to Malthellam",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01187",
+      "id": 246419847,
       "en": "Malthellam and Rosfin are speaking in Malthellam's home.\\n\\nYou have told them of all that you experiencing in Alagrant and Sardol, and now Malthellam and Rosfin are discussing what is to be done.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Recount your <rgb=#FF00FF>story</rgb> to Malthellam and Rosfin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Listen to Malthellam and Rosfin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Malthellam can be found beside the fireplace in his home.\\n\\nYou have finished discussing matters with Rosfin and Malthellam and should speak to Malthellam once more before readying yourself to journey into the vale once more.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Malthellam",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'We have spoken enough on these matters, [placeholder]. The danger to the east has grown, and it must be dealt with soon, lest it spread south into Lamedon.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730891",
+      "id": 225642641,
       "en": "DNT -- will not be seen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Let us be done with these talks.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "After aiding the villages of Alagrant and Sardol, you have uncovered dangerous, new threats to Blackroot Vale that you must reveal to Malthellam and Rosfin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Talk to Rosfin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'Malthellam told me that you have much to tell us of happenings around Alagrant and Sardol... I hope what you have seen can offer us some hope, but your face seems to say otherwise.\\n\\n'Let us hear what you have to say then....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: The Cursed Vale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730881",
+      "id": 225642625,
       "en": "DNT -- will not be seen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

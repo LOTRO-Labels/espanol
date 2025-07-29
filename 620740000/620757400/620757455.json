@@ -2,88 +2,74 @@
   "id": 620757455,
   "txt": [
     {
-      "id": "0xe7964eb",
+      "id": 242836715,
       "en": "You must select a blank [placeholder] as the target for copying!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa7901e5",
+      "id": 175702501,
       "en": "You must wait a few seconds before you can perform another copy.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd20cf5",
+      "id": 13765877,
       "en": "You must wait a few seconds before you can save your changes again.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f946c4",
+      "id": 49891012,
       "en": "You cannot save your changes to this blank [placeholder], you would be in violation of the capacity limit.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x807dfd5",
+      "id": 134733781,
       "en": "[placeholder]: '[placeholder]'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65c19a5",
+      "id": 106699173,
       "en": "You cannot copy a [placeholder] that you are not the original author of!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc51753b",
+      "id": 206665019,
       "en": "Book",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5984745",
+      "id": 93865797,
       "en": "An Untitled [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xac60a05",
+      "id": 180750853,
       "en": "The [placeholder] '[placeholder]' can now be copied, right-click on a blank [placeholder] and select [placeholder] to complete the action.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x153f154",
+      "id": 22278484,
       "en": "You have successfully copied the contents of the [placeholder] '[placeholder]'!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2cdd692",
+      "id": 47044242,
       "en": "Letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x71489e4",
+      "id": 118786532,
       "en": "You cannot edit the contents of a [placeholder] that you are not the original author of!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5c54c4",
+      "id": 240932036,
       "en": "Parchment",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9166dc4",
+      "id": 152464836,
       "en": "You have successfully updated the contents of the [placeholder] '[placeholder]'!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

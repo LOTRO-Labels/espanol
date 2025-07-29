@@ -2,34 +2,119 @@
   "id": 621067119,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "Aldith takes the weapon and strikes a nearby training dummy with fierce attacks.\\n\\n'The weapon feels good in my hand. The balance is... acceptable. The weapon remains largely intact, despite some damage to the edge. Overall, well done.\\n\\n'I hope you continue to cultivate your skills. You have the makings of a master weaponsmith.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Bring the <rgb=#FF00FF00>bronze sword, dagger, axe, great sword, or throwing axe</rgb> to the Novice Weaponcrafter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "You have made a bronze weapon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c475",
+      "id": 205636725,
       "en": "'Good work, so far. Get your hands to work and forge a <rgb=#FF00FF00>bronze sword, dagger, axe, great sword, or throwing axe</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Weaponsmithy tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Weaponsmithy requires a forge.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852592",
-      "en": "'Yes I can teach you the basics of being a weaponsmith. I'll have you make a bronze weapon. It's a simpler material to work with in many ways.\\n\\n'I will try to not move too quickly for ",
-      "es": "",
-      "es (fem)": ""
+      "id": 8725906,
+      "en": "'Yes I can teach you the basics of being a weaponsmith. I'll have you make a bronze weapon. It's a simpler material to work with in many ways.\\n\\n'I will try to not move too quickly for you, but if I do, speak with me again to ask more pointed questions.\\n\\n'Take this <rgb=#FF00FF00>crate</rgb>. Everything you need to make a bronze weapon is inside.\\n\\n'Open it, ensure your <rgb=#FF00FF00>smithing hammer</rgb> is equipped, then make your way to the <rgb=#FF00FF00>forge</rgb>.\\n\\n'Let's begin!'\\n\\n<rgb=#FF00FF00>Weaponsmith vendors sell ingredients and recipes that are a vital part of any Weaponsmith's training and continued work.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263298,
+      "en": "You have made a bronze weapon",
+      "es": ""
+    },
+    {
+      "id": 205636726,
+      "en": "'First, ensure your <rgb=#FF00FF00>smithing hammer</rgb> is equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you, and make your way to the <rgb=#FF00FF00>forge</rgb>.'\\n\\n<rgb=#FF00FF00>Ingredients for Weaponsmiths are normally purchased from vendors or traded from players with the prospecting profession and, in some rare cases, the woodworking profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "The art of weaponsmithy reaches back to the First Age of Middle-earth. Those who expend a great deal of energy into this profession are sought after for their finest and even their more mundane works. Weaponsmithy is a difficult, but rewarding profession. As a new weaponsmith, it is best that you learn the basics of your craft.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipe and deliver the correct item outlined in this quest.\\n\\nYou will need to execute a bronze weapon recipe and deliver the weapon. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 262725906,
+      "en": "You have made a bronze weapon",
+      "es": ""
+    },
+    {
+      "id": 225071137,
+      "en": "Using the ingredients you have, forge a <rgb=#FF00FF00>bronze sword, dagger, axe, great sword, or throwing axe</rgb> at a <rgb=#FF00FF00>forge</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "You should speak with the Novice Weaponcrafter to learn more about weaponsmithy.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The Novice Weaponcrafter provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to create a bronze weapon. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Weaponsmiths are normally purchased from vendors or traded from players with the prospecting profession and, in some rare cases, the woodworking profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "Create a <rgb=#FF00FF00>bronze sword, dagger, axe, great sword, or throwing axe</rgb>, as instructed by the Novice Weaponcrafter.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Weaponsmithy tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Weaponsmithy requires a forge.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 262725912,
+      "en": "You have made a bronze weapon",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the bronze weapon!</rgb> It is time to show your handiwork to the Novice Weaponcrafter.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with the Novice Weaponcrafter near the forge in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 262725913,
+      "en": "You have made a bronze weapon",
+      "es": ""
+    },
+    {
+      "id": 63183940,
+      "en": "'You should speak at once with the weaponsmith trainer.'",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided ingredients",
+      "es": ""
+    },
+    {
+      "id": 218649175,
+      "en": "'If you wish to know more of weaponsmithing, speak with Aldith. You can find her with several of the other tradesfolk near the tall silo in the northern part of Lhan Garan.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Weaponcrafter to collect the bronze ingots",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a bronze weapon",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Introduction to Weaponsmithy",
+      "es": ""
     }
   ]
 }

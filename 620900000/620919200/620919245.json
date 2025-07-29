@@ -2,70 +2,59 @@
   "id": 620919245,
   "txt": [
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'Easterlings have been spotted in the Writhendowns! It is believed that they are from the Wold, sniffing around under the assumption that Wildermore is no longer defended by the free folk.\\n\\n'Do you wish to prove them wrong, great [placeholder]?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Defeat Easterlings in the Writhendowns ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Defeated an Easterling ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "Easterlings from the Wold have begun exploring Wildermore, believing that it is no longer defended.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Return to Dudoc in Forlaw",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa32",
+      "id": 149027378,
       "en": "Writhendowns: Easterlings' Interest",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'Are you ready to ride to the Writhendowns and drive off those Easterlings?'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Ah, you have returned! Hopefully you taught those Easterlings not to come snooping around Wildermore.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "<rgb=#FF0000>Completing Wildermore's Recovery will cancel this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "The Easterlings in the Writhendowns can be reached by speaking with Dudoc in Forlaw.\\n\\nYou should travel to the tundra of the Writhendowns and defeat Easterlings there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Dudoc is in Forlaw.\\n\\nYou should return to Dudoc.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

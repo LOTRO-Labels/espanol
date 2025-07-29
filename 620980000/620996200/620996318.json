@@ -2,352 +2,294 @@
   "id": 620996318,
   "txt": [
     {
-      "id": "0x2f00e20",
+      "id": 49286688,
       "en": "Show the message you recovered to Annoth near the Isenmouthe <rgb=#00FF00>(The message can be read from your inventory)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00ed6",
+      "id": 49286870,
       "en": "Bring the corrupted heirloom to Mithrandir, just inside the ruined Black Gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1194",
+      "id": 177082772,
       "en": "Many foes occupy the Isenmouthe. Did Ayorzén come this way?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'I know you two have followed my trail. Do you rejoice to pursue a man who has done nothing? There is no kindness in your hearts, no forgiveness. I am Ayorzén the Humble, nothing more. When I escaped Durthang, I thought to build my strength, find my allies, and rain destruction upon my jailors and the great multitude of my enemies. But it is not to be!\\n\\n'I went first to the Isenmouthe, but the guards would not let me pass. I then went to my old camp, home to my servants and my sworn men both, and found it hostile to me! They have given Ortakûl the command, and all my servants and all my sworn men look upon me as a coward, as an unwelcome stain upon the Khundolar! Conspirators and ingrates, all of them!\\n\\n'I sat down here by the road, once-mighty Ayorzén fallen so low as to have no place in all the world. I am not welcome in Gorgoroth. Even the Orcs spit upon me! And there is no place for me with my own kind, despite my long military service and impressive chain of titles and deeds. Ortakûl has seen to that! And Gondor? Do not make me laugh, vile pursuers! Gondor would not welcome one such as me, and I care not for that invading land anyway.\\n\\n'I have been waiting here for you to catch up and put an end to this miserable day. I surrender to you; do with me what you will, but if you levy death upon me now, you will shame yourself and all you claim to honour! I am Ayorzén, twice-imprisoned, first by one side and then by the other. What do you call yourself? [placeholder]? And he is Annoth? I have heard more impressive names; truly I have worn them myself!\\n\\n'Do you want this trinket? It is of no use to me. I stole it from the vault of Durthang, for I thought it might be useful. Yes, I wanted a valued artifact to barter with some self-important, greed-blinded fool.\\n\\n'You can have it, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1196",
+      "id": 177082774,
       "en": "Defeated enemies near the Isenmouthe ([placeholder]/5)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'You don't believe his sad story, do you? He was called Ayorzén the Wily for a reason, no matter what name he takes for himself now!'\\n\\nAnnoth clenches and unclenches his fists with frustration.\\n\\n'We cannot kill him, [placeholder]. He is a surrendered man, and the tale he weaves is one of despair whether I believe it is truthful or not! If we were to slay him now, we would be no better than Ugrukhôr, who betrayed the Thandrim! But we must keep a close eye on him and not forget that he is our enemy. That our other enemies have cast him aside does not absolve him of guilt for his crimes!\\n\\n'As for the trinket he gave to you, I think any study of it should be reserved for Mithrandir. I feel a great deal of evil emanating from it, and shouldn't the Wizard ensure it is not a devious trick of Ayorzén's before we accept it? It is a small curio, easily held in one hand, and its design is not of Mordor. I think it was fashioned elsewhere. It may be that its stay in the vault of Durthang has imbued it with the unpleasant aura that surrounds it. Bring it to the Wizard and see what he thinks, [placeholder].'\\n\\nAnnoth sighs, clearly disappointed with the result of pursuing Ayorzén.\\n\\n'I suppose we have to bring our captive out of Mordor. I do not like this, but we don't have much of a choice now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1198",
+      "id": 177082776,
       "en": "You find a crumpled paper covered in a crude scrawl",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'I don't know what good that trinket might do for you, but if you find it useful, remember it was a gift from Ayorzén the Generous.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'What is this talk of prisoners, [placeholder]? You have brought an Easterling out of Mordor?'\\n\\nYou tell Mithrandir about Ayorzén, and hand over the artifact he gave to you. The Wizard studies it closely.\\n\\n'This is not an heirloom of Mordor, but it is wreathed with corruption. I will see if there is aught to learn from it, but for now you should not trouble yourself with Ayorzén or his purloined gift. Both will be watched, and we will see what might be learned from either.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Annoth believes Ayorzén will try to pass through the Isenmouthe, the gate in Carach Angren that bars passage between Udûn and Dor Amarth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'I do not know why Ayorzén was being held captive in the dungeon of Durthang, but it doesn't change the fact that he was responsible for the deaths of many good people during the war, [placeholder]. I feel responsible for setting him free, so I need to track him down! I would appreciate your help with this.\\n\\n'I saw him disappear around the rocks to the north-east. He must be heading for the Isenmouthe, the gate in Carach Angren that bars passage from Udûn to Dor Amarth. He must be trying to bring the artifact he stole deeper into Mordor!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "Many foes hold the gate of Isenmouthe.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a2",
+      "id": 111477410,
       "en": "Defeat Easterlings at Rhûd Vorn, in Udûn ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Many foes hold the Isenmouthe.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'The Isenmouthe is held by many foes? Defeat some of them and they may tell you if Ayorzén went that way.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Defeat Easterlings at Rhûd Vorn, in Udûn (5/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "Annoth has come to the Isenmouthe in search of Ayorzén.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Find Annoth along the road south of Rhûd Vorn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'What is this? Did Ayorzén come this way?'\\n\\nYou show the message you recovered to Annoth, and he considers it for a moment.\\n\\n'This is very interesting, [placeholder]. Ugrukhôr must have commanded these Orcs to close the Isenmouthe, but the doors were ruined in the blast from Orodruin and the upheavals of Mordor; they could not shut them all the way. Fortuitous enough for us, mayhap, but even more so: it seems that they have turned Easterlings away and not permitted them to pass the gate without the permission of Ugrukhôr! Did they turn Ayorzén away? Is he still in Udûn?\\n\\n'Search Udûn for an Easterling camp. There is one, Rhûd Vorn, somewhere to the north. He may try to return to his people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50252",
+      "id": 111477330,
       "en": "Talk to Ayorzén the Wily by the side of the road in Udûn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56894",
+      "id": 162883732,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50255",
+      "id": 111477333,
       "en": "Talk to Annoth by the road south of the Easterling encampment in Udûn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Annoth was going to follow you to the Easterling camp. Walk down the slope south of the Easterling camp and tell him there was no sign of Ayorzén.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'DNT - Blah!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'It's him! We have found our quarry, [placeholder]! He is just sitting here by the road!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50259",
+      "id": 111477337,
       "en": "Defeat Easterlings at Rhûd Vorn, in Udûn (5/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Chapter 1.4: Ayorzén, Twice-Imprisoned",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Find the Isenmouthe, the gate between Udûn and Dor Amarth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "Defeat enemies near the Isenmouthe ([placeholder]/5)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Defeat enemies near the Isenmouthe (4/5)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730882",
+      "id": 225642626,
       "en": "'You don't have anything for me?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a1",
+      "id": 162883745,
       "en": "'Did the guards of the Isenmouthe turn Ayorzén away? Is he still in the vale? Search Udûn for Rhûd Vorn. He may try to return to his people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Annoth is south of the Easterling encampment in Udûn, where Ayorzén waited for you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1160",
+      "id": 177082720,
       "en": "There is no sign of Ayorzén. If he came here, he is gone now",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "Mithrandir is just inside the ruined Black Gate, in Cirith Gorgor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a8",
+      "id": 162883752,
       "en": "'Did the guards of the Isenmouthe turn Ayorzén away? Is he still in the vale? Search Udûn for Rhûd Vorn. He may try to return to his people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d169",
+      "id": 24695145,
       "en": "Ayorzén the Wily fled from Durthang, but not before he stole an artifact of some kind from the fortress vault.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01141",
+      "id": 246419777,
       "en": "You have found Ayorzén. He is sitting with his back against a rock by the side of the road, south of the Easterling encampment in Udûn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56853",
+      "id": 162883667,
       "en": "'It's him! We have found our quarry, [placeholder]! He is just sitting here by the road!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56857",
+      "id": 162883671,
       "en": "'I don't know what good that trinket might do for you, but if you find it useful remember it was a gift from Ayorzén the Generous.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "'I saw Ayorzén disappear around the rocks to the north-east. He must be heading for the Isenmouthe, the gate in Carach Angren that bars passage from Udûn to Dor Amarth. He must be trying to bring the artifact he stole deeper into Mordor!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56858",
+      "id": 162883672,
       "en": "'I suppose we have to bring our captive out of Mordor. I do not like this, but we don't have much of a choice now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1170",
+      "id": 177082736,
       "en": "Wait, is that...? Have you found Ayorzén?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'The Isenmouthe is held by many foes? Defeat some of them and they may tell you if Ayorzén went that way.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1174",
+      "id": 177082740,
       "en": "Ayorzén gives you the heirloom he stole from Durthang; it has an unpleasant aura about it",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "You should search the Easterling camp of Rhûd Vorn for any sign of Ayorzén.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b7",
+      "id": 246419895,
       "en": "Ayorzén may have gone to Rhûd Vorn, an Easterling camp in Udûn. You should defeat its warriors while you search for him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1183",
+      "id": 177082755,
       "en": "Defeated Easterlings at Rhûd Vorn ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "There is no sign of Ayorzén. If he came here, he is gone now",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

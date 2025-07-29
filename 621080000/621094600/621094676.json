@@ -2,94 +2,79 @@
   "id": 621094676,
   "txt": [
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Girhâzi has asked you to speak to Amâsu about the prisoner.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Amâsu has told you that she believes Khûldim Umûn knows the location of the Dubarâkh, a hidden library archiving the history and culture of the Ambarûli people. She has asked you to talk to the prisoner in the cell on the west side of the lodge and see what you can learn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "Talk to Amâsu",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Find where the prisoner is held",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'Ah yes, Khûldim Umûn.'\\n\\nAmâsu spits out his name like just saying it befouls her tongue.\\n\\n'That man has a corrupted heart and is... was, a steadfast follower of the One Who Sees All. I weep for his mother, who must live knowing that this heartless creature is what her child became. But I am nonetheless glad the Dumûri gave him mercy, as I believe he uncovered a secret during his time as overseer, and I would have him tell it to us.'\\n\\nThe old woman clears her throat and her demeanor shifts into that of a teacher.\\n\\n'Throughout the majority of Ambarûl's history, we have been ruled over by invaders from foreign lands. Our land is valuable for its fertility, and we are too few to be able to field an army large enough to defend ourselves. The Empire of Ordâkh is only the latest in a long history of tyrants.\\n\\n'One thing that the Ordâkhai did that the others did not was forbid the teaching of reading and writing to any Ambarûli. With knowledge comes power, and they wanted to deny us that. When we lost our literacy, we lost our history and our culture. The Old Way was forgotten and we have become a people who does not truly know who we are.\\n\\n'Not all literacy was lost, however. When this was first enacted, a woman swore an oath that she would teach another of a younger generation, in secret, so that all would not be forgotten. This oath has been passed on to me, and I have passed it to Girhâzi. What has also been passed on is the tale of the Dubarâkh, a hidden library where the books telling the stories of our people have been saved. Unfortunately, the location of this library has been lost to time.\\n\\n'I believe that during his time as overseer, Khûldim learned the location of the Dubarâkh. It is vital to the survival of our culture that it is found. This is the only lead we have. Please, speak to Khûldim and see what you can learn. He is held here in the lodge.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Amâsu has told you that she believes Khûldim Umûn knows the location of the Dubarâkh, a hidden library archiving the history and culture of the Ambarûli people. She has asked you to talk to the prisoner in the cell on the west side of the lodge and see what you can learn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "You have found the prisoner, Khûldim Umûn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Talk to Khûldim Umûn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Amâsu has told you that she believes Khûldim Umûn knows the location of the Dubarâkh, a hidden library archiving the history and culture of the Ambarûli people. You have talked to the prisoner and should now return to Girhâzi.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'What is this, a visitor? Introduce yourself, stranger. Who are you, and why are you here?'\\n\\nYou give him your name and tell him you came to question him. He leers at you for a moment and then begins to laugh.\\n\\n'You are a fool, [placeholder], sent on a fools' errand. Why should I tell anyone anything? My secrets are keeping me alive. If I tell you what I know, these people will lose the only reason they have to not execute me. All I have to do is keep my mouth shut and await rescue.'\\n\\nKhûldim leans closer and sneers at you.\\n\\n'You know, where I come from a man in my position would be properly tortured. Instead, you torture me with your poor company and mildly unpleasant food. You are all weak and pathetic.'\\n\\nYou inform him that nobody is coming to rescue him and take your leave.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Talk to Girhâzi",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56882",
+      "id": 162883714,
       "en": "'How dare he insult our food!'\\n\\nShe rubs her chin thoughtfully.\\n\\n'He expects to be tortured, does he? I have an idea.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Girhâzi has asked for your help in dealing with an Ordâkhai prisoner, the former overseer of Ambarûl, Khûldim Umûn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'[placeholder], it is good to see you. Tell me, how is Ningêna? I am happy that things are progressing at Sûru.\\n\\n'I must confess, I have a problem for which I hope to gain your assistance. We have a prisoner by the name of Khûldim. He was once the Umûn, the Lord here, sent by the Empire of Ordâkh to keep the Ambarûli under their evil thumb. He was responsible for much suffering.'\\n\\nGirhâzi clenches her teeth, visibly still angry about things this man has done.\\n\\n'The pashâg surrendered to us instead of fighting, and now we are stuck deciding what to do with him. Some want him executed for his crimes. Others think we should ransom him to the Ordâkhai, as surely he comes from a rich family.\\n\\n'Amâsu thinks he may have a use, though. She believes he may have information for which we have been looking, but so far, we have learned nothing from him. You should talk to Amâsu though, she can explain better than I.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Prisoner Problem",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

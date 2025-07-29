@@ -2,94 +2,124 @@
   "id": 621079683,
   "txt": [
     {
-      "id": "0xd859470",
+      "id": 226858096,
       "en": "'Much as I wish to be free of this dank place, we still have work to do.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11ae6",
+      "id": 148970214,
       "en": "Collected barrels of black powder ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11ae7",
+      "id": 148970215,
       "en": "The tunnel is blocked!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502835",
+      "id": 173025333,
       "en": "Blow up the north-western tunnel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11ae9",
+      "id": 148970217,
       "en": "Crashing rocks choke the tunnel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502837",
+      "id": 173025335,
       "en": "TBD - Talk to Ranger2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e074",
+      "id": 251715700,
       "en": "TBD - Blow up the northwestern tunnel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e079",
+      "id": 251715705,
       "en": "Speak to Igerna outside the cave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11af3",
+      "id": 148970227,
       "en": "TBD - The ceiling collapses and the tunnel is blocked",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "Bringing Down the Mountain",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688c6",
+      "id": 190220486,
       "en": "'I heard the explosions from here! May that make them think twice about coming to the lands of Gondor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "With a hefty supply of dangerously explosive barrels of black powder, you are ready to seal off some of the goblins' tunnels.\\n\\nYou should start with the south-western tunnel, in the cave in Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11af8",
+      "id": 148970232,
       "en": "Crashing rocks clog the tunnel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011828",
+      "id": 184621096,
       "en": "Igerna has asked you to gather barrels of the goblins' black powder.\\n\\nBarrels can be found in the camp outside, as well as inside, the cave at Krauzhaf, in Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
-      "en": "'Much as I wish to be free of this dank place, we still have work to do. From what I've overheard, this tribe of Ronkrúm goblins recently tunnelled to the surface, and if we don't send them back unde",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220630,
+      "en": "'Much as I wish to be free of this dank place, we still have work to do. From what I've overheard, this tribe of Ronkrúm goblins recently tunnelled to the surface, and if we don't send them back underground they shall continue to spill over into Pinnath Gelin.\\n\\n'These wretched louts are industrious, but lazy creatures, and they rely heavily on their black powder to blast open new tunnels in the mountainside. We can use this against them! Go and gather cases from around the cave and their camp outside. Then, delve deeper into the mountain until you find the places from whence they come. Between sealing these off and the punishment you shall be dealing out, they will be hesitant to continue their plans to surface.\\n\\n'My wound is troubling, but I think I can walk now. I shall meet you outside the cave when you are done.'",
+      "es": ""
+    },
+    {
+      "id": 126687017,
+      "en": "Left unchecked, the Ronkrúm goblin horde will continue to crawl out from the depths of the mountain, onto the rolling green hills of Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 184621474,
+      "en": "You have battled your way through Krauzhaf and blown up the three tunnels that the Ronkrúm goblins were using to crawl out of the mountain.\\n\\nIgerna is waiting to speak with you outside the Krauzhaf cave, in Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 173025313,
+      "en": "Blow up the south-western tunnel",
+      "es": ""
+    },
+    {
+      "id": 190220499,
+      "en": "TBD - 'I heard the explosions from here! That may make them think twice about coming to the lands of Gondor.'",
+      "es": ""
+    },
+    {
+      "id": 173025316,
+      "en": "TBD - Talk to Ranger2",
+      "es": ""
+    },
+    {
+      "id": 173025317,
+      "en": "Collect barrels of black powder ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 184621488,
+      "en": "The black powder did a fine job of blocking the south-western tunnel. You should move on to the western tunnel and blow that one up as well.\\n\\nThe western tunnel is in the Krauzhaf cave in Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 173025320,
+      "en": "Blow up the western tunnel",
+      "es": ""
+    },
+    {
+      "id": 184621489,
+      "en": "With both the western and south-western tunnels blocked, you have but one left.\\n\\nYou should blow up the north-western tunnel in the Krauzhaf cave in Pinnath Gelin.",
+      "es": ""
     }
   ]
 }

@@ -2,70 +2,74 @@
   "id": 621079597,
   "txt": [
     {
-      "id": "0x8e11ad3",
+      "id": 148970195,
       "en": "Collected driftwood",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1628",
+      "id": 126686760,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502812",
+      "id": 173025298,
       "en": "Collect a piece of driftwood",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011998",
+      "id": 184621464,
       "en": "You should help Merúd collect pebbles and a piece of driftwood.\\n\\nThese can be found along Melgobas' shore.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688e4",
+      "id": 190220516,
       "en": "'I did not think you would come back. Thank you. If my son were here, he would thank you too; I made sure he had good manners, after all.\\n\\n'The Corsairs took him away, but the sea claimed him in the end. I have nothing to bury but this crate of seashells from his childhood...'\\n\\nShe utters no more words. Instead, she picks up her shovel and continues digging.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568913",
+      "id": 190220563,
       "en": "The old woman barely pauses to acknowledge your presence. 'No, I do not require help,' she intones, as if she's repeated these words to others before.\\n\\nShe continues digging for a while longer before finally speaking up again.\\n\\n'Hmph. A stubborn one, aren't you? Let me work in peace. If you truly wish to help, then find me some pebbles and a piece of driftwood. There should be plenty along the beach here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11ad9",
+      "id": 148970201,
       "en": "Collected pebbles ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011984",
+      "id": 184621444,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011988",
+      "id": 184621448,
       "en": "You have collected enough pebbles and driftwood.\\n\\nYou should return to Merúd at Melgobas' shore.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e055",
+      "id": 251715669,
       "en": "Talk to Merúd",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1695",
-      "en": "An old woman works to dig a hole near the se�",
-      "es": "",
-      "es (fem)": ""
+      "id": 126686869,
+      "en": "An old woman works to dig a hole near the sea, refusing all help offered to her. Her purpose is unclear.",
+      "es": ""
+    },
+    {
+      "id": 236954438,
+      "en": "The Old Woman and the Sea",
+      "es": ""
+    },
+    {
+      "id": 148970193,
+      "en": "TBD",
+      "es": ""
+    },
+    {
+      "id": 173025296,
+      "en": "Collect pebbles ([placeholder]/[placeholder])",
+      "es": ""
     }
   ]
 }

@@ -2,1066 +2,889 @@
   "id": 620757479,
   "txt": [
     {
-      "id": "0xdfbca35",
+      "id": 234605109,
       "en": "Ranged Weapon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe86de8c",
+      "id": 243719820,
       "en": "Virtues",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x24fbbe4",
+      "id": 38779876,
       "en": "Activate Outfit VI",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x94fc384",
+      "id": 156222340,
       "en": "Reset",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f7212f",
+      "id": 133636399,
       "en": "Outfit II",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa822025",
+      "id": 176300069,
       "en": "A [placeholder] Trait cannot be placed in a [placeholder] pool.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e7fdf3",
+      "id": 31981043,
       "en": "Legs",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd4fa3f4",
+      "id": 223323124,
       "en": "[placeholder] trait trees have been updated, all points for all configurations have been refunded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c01d0c",
+      "id": 113253644,
       "en": "Class",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9065de7",
+      "id": 151412199,
       "en": "No skills can be used while changing Traits. Some of your skills have been deactivated.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56566c4",
+      "id": 90531524,
       "en": "Unlock a new Trait Spec",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe13a445",
+      "id": 236168261,
       "en": "Ultimate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1159c74",
+      "id": 18193524,
       "en": "Archer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9cf995",
+      "id": 228391317,
       "en": "Role",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x43da3b2",
+      "id": 71148466,
       "en": "Trait Spec IV",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde25224",
+      "id": 232935972,
       "en": "If you accept, all companions will be dismissed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb223f52",
+      "id": 186793810,
       "en": "Tribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3652dd4",
+      "id": 56962516,
       "en": "You have gained #1:[placeholder] Class trait #1:{points|point[1]}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48865c2",
+      "id": 76047810,
       "en": "Legendary",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x743cd58",
+      "id": 121883992,
       "en": "Trait Spec VI",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f724f8",
+      "id": 133637368,
       "en": "Outfit VI",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8473ba2",
+      "id": 138886050,
       "en": "Legendary",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c04a43",
+      "id": 163596867,
       "en": "Unsatisfied Prerequisites:{{keepspaces}}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e663a9",
+      "id": 31876009,
       "en": "Body",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe185dbc",
+      "id": 236477884,
       "en": "Class Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7200f45",
+      "id": 119541573,
       "en": "Outfit III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf4daf2",
+      "id": 183818994,
       "en": "Common",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc382425",
+      "id": 205005861,
       "en": "Main Hand",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd1fd12",
+      "id": 231865618,
       "en": "Race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b8e24c",
+      "id": 45670988,
       "en": "Virtue Experience Acceleration",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3cc9bfe",
+      "id": 63740926,
       "en": "Trait Spec VII",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfd06835",
+      "id": 265316405,
       "en": "Base Soldier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa33215d",
+      "id": 171123037,
       "en": "Please enter a custom name for the Active Outfit.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcff90c",
+      "id": 265287948,
       "en": "Herbalist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc0442f2",
+      "id": 201605874,
       "en": "Class",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf2a6d6f",
+      "id": 254438767,
       "en": "Speed up your virtue experience gain by using an accelerator from the LOTRO Store!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xac33308",
+      "id": 180564744,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23c32f4",
+      "id": 37499636,
       "en": "[placeholder] and [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c01854",
+      "id": 163584084,
       "en": "Activate Trait Spec VII",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b611a5",
+      "id": 146149797,
       "en": "Skin Appearance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5624a13",
+      "id": 90327571,
       "en": "[placeholder] must be equipped before [placeholder] can be.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb695c2",
+      "id": 246846914,
       "en": "You're too far from the Bard. Get closer to change your Traits.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2833710",
+      "id": 42153744,
       "en": "[placeholder] ([placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba30895",
+      "id": 195233941,
       "en": "Hair Style",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd60f32",
+      "id": 198577970,
       "en": "Virtues",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8f561d4",
+      "id": 150299092,
       "en": "You haven't earned that Trait yet.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3cfaff5",
+      "id": 63942645,
       "en": "Trait Spec III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3f39be",
+      "id": 171915710,
       "en": "To begin earning a Virtue, select its icon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56af140",
+      "id": 90894656,
       "en": "[placeholder] Slot: Closed until level [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf29c05",
+      "id": 15899653,
       "en": "Your friendly Bard, [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6cb00a3",
+      "id": 113967267,
       "en": "You cannot equip [placeholder] because you have [placeholder] equipped already.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xde41370",
+      "id": 233050992,
       "en": "Earned [placeholder] of [placeholder] possible Virtue ranks",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdc8f687",
+      "id": 231274119,
       "en": "Unlock Slot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe260e44",
+      "id": 237375044,
       "en": "You are now eligible to purchase a trait slot.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcdc89ec",
+      "id": 215779820,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdce9680",
+      "id": 231642752,
       "en": "  [placeholder]{{keepspaces}}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb54000c",
+      "id": 190054412,
       "en": "Trait Set Bonuses",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb7f2000",
+      "id": 192880640,
       "en": "[placeholder] Slot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x465fb4c",
+      "id": 73792332,
       "en": "Race Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8841dae",
+      "id": 142876078,
       "en": "[placeholder]\\n[placeholder]{{keepspaces}}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x91af304",
+      "id": 152761092,
       "en": "Total Cost:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8963274",
+      "id": 144061044,
       "en": "Archer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d1ba2c",
+      "id": 147962412,
       "en": "Tribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc208b2c",
+      "id": 203459372,
       "en": "Common",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb928784",
+      "id": 194152324,
       "en": "This will undo your changes. Are you sure you want to go back to your previous Trait arrangement?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5b0a4",
+      "id": 215330980,
       "en": "Activate Trait Spec VI",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd0e46cc",
+      "id": 219039436,
       "en": "Lvl 10",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79b93a4",
+      "id": 127636388,
       "en": "Activate Outfit IV",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b1bc2c",
+      "id": 28425260,
       "en": "POINTS",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50ddd55",
+      "id": 84794709,
       "en": "Man",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7379b2",
+      "id": 259226034,
       "en": "Outfit IV",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9cea25",
+      "id": 228387365,
       "en": "Race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x51efee2",
+      "id": 85917410,
       "en": "Class",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f2b5bc",
+      "id": 49460668,
       "en": "Class Bonuses",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b556a4",
+      "id": 62215844,
       "en": "Activate Outfit VII",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c678ac",
+      "id": 29784236,
       "en": "Herbalist",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf9b4adc",
+      "id": 261835484,
       "en": "Legendary",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf737fb5",
+      "id": 259227573,
       "en": "Outfit V",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee31487",
+      "id": 249762951,
       "en": "Tribe Blessing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4e694",
+      "id": 16049812,
       "en": "Activate Outfit III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb36596c",
+      "id": 188111212,
       "en": "Corruption",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x77d1a94",
+      "id": 125639316,
       "en": "Customize the name of the active Outfit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc8e6e3",
+      "id": 214492899,
       "en": "Equipped Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcfaccc6",
+      "id": 217763014,
       "en": "Dwarf",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7233b4e",
+      "id": 119749454,
       "en": "Outfit VII",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x917b4c3",
+      "id": 152548547,
       "en": "No Changes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x89fe954",
+      "id": 144697684,
       "en": "The total number of points remaining that you are able to spend on new traits.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a07cac",
+      "id": 94403756,
       "en": "Too many slotted:{{keepspaces}}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7058425",
+      "id": 117802021,
       "en": "Elf-maiden",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c60816",
+      "id": 29755414,
       "en": "Bannerguard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd02a545",
+      "id": 218277189,
       "en": "Warrior",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d531cc",
+      "id": 97857996,
       "en": "Sage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x388eb85",
+      "id": 59304837,
       "en": "Hobbit-lass",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5546ac",
+      "id": 240469676,
       "en": "Cancel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x743e115",
+      "id": 121889045,
       "en": "Trait Spec I",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6e58292",
+      "id": 115704466,
       "en": "Equipped Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7fb63a4",
+      "id": 133915556,
       "en": "Activate Outfit V",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a1d052",
+      "id": 111267922,
       "en": "TraitPanel Placeholder",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcfd7bfc",
+      "id": 217938940,
       "en": "Race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa28c554",
+      "id": 170444116,
       "en": "[placeholder] AP",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x47b384c",
+      "id": 75184204,
       "en": "Sage",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe446554",
+      "id": 239363412,
       "en": "[placeholder] [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9383782",
+      "id": 154679170,
       "en": "3",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x53bb115",
+      "id": 87798037,
       "en": "You've spent [placeholder] on rearranging your traits.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7a9fa5",
+      "id": 209362853,
       "en": "Warrior",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa2ce395",
+      "id": 170714005,
       "en": "[placeholder] cannot be unequipped because it is required by [placeholder].\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcb587b3",
+      "id": 213223347,
       "en": "All Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x17a5d54",
+      "id": 24796500,
       "en": "Bonus Remaining: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe89f222",
+      "id": 243921442,
       "en": "Appearance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e171ec",
+      "id": 31551980,
       "en": "Tail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x30ea000",
+      "id": 51290112,
       "en": "You receive this bonus because you have [placeholder] traits in [placeholder] line slotted. See the tooltip of traits in this set for full details.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9255657",
+      "id": 153441879,
       "en": "Unlock Spec",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x674416d",
+      "id": 108282221,
       "en": "Confirm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce940a4",
+      "id": 216613028,
       "en": "Activate Trait Spec II",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2ace005",
+      "id": 44883973,
       "en": "Off-hand",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c127f5",
+      "id": 29435893,
       "en": "Role",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x134eaac",
+      "id": 20245164,
       "en": "Tribe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50bebe4",
+      "id": 84667364,
       "en": "Activate Outfit I",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5bf744",
+      "id": 173799236,
       "en": "Activate Trait Spec V",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0e7dfc",
+      "id": 185499132,
       "en": "Class Trait Bonuses",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b0ed02",
+      "id": 129035522,
       "en": "You must talk to a Bard to change your Traits.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf682814",
+      "id": 258484244,
       "en": "Unlock a new Outfit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2134be4",
+      "id": 34819044,
       "en": "Activate Outfit II",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x141bcc5",
+      "id": 21085381,
       "en": "Saddle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaffa864",
+      "id": 184526948,
       "en": "Activate Trait Spec III",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b4505d",
+      "id": 78925917,
       "en": "Rohirrim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f750b5",
+      "id": 133648565,
       "en": "Outfit I",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7057a4",
+      "id": 225466276,
       "en": "Please enter a custom name for your Trait Spec.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x743ce8f",
+      "id": 121884303,
       "en": "Trait Spec II",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b23455",
+      "id": 95564885,
       "en": "Slot is currently unavailable.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e60d92",
+      "id": 31853970,
       "en": "Gear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5cfd0a5",
+      "id": 97505445,
       "en": "Do you want to accept this arrangement of Traits?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7432a6c",
+      "id": 121842284,
       "en": "Legendary Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe11e0a4",
+      "id": 236052644,
       "en": "Activate Trait Spec I",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93f973c",
+      "id": 155162428,
       "en": "Points Spent",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfc8b63b",
+      "id": 264812091,
       "en": "Protector",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x14fa234",
+      "id": 21996084,
       "en": "All your traits have been unslotted.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x46afe2c",
+      "id": 74120748,
       "en": "Lvl 25",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78863a9",
+      "id": 126378921,
       "en": "Warning: If you changed your Legendary traits any previously slotted skills granted by Legendary traits will be disabled.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x336861f",
+      "id": 53904927,
       "en": "[placeholder]/[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x43da5b5",
+      "id": 71148981,
       "en": "Trait Spec V",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbce762",
+      "id": 12380002,
       "en": "Virtues",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd784a4",
+      "id": 198673572,
       "en": "  [placeholder]{{keepspaces}}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x408f995",
+      "id": 67697045,
       "en": "Elf-sire",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e63d64",
+      "id": 31866212,
       "en": "Head",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd10a5bc",
+      "id": 219194812,
       "en": "Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeee326c",
+      "id": 250491500,
       "en": "Virtue Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa57bd90",
+      "id": 173522320,
       "en": "You will receive this bonus when you have [placeholder] traits in [placeholder] line slotted. See the tooltip of traits in this set for full details.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc974174",
+      "id": 211239284,
       "en": "The total number of spent points.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x547ea4",
+      "id": 5537444,
       "en": "Class Legendary Trait",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcf314a5",
+      "id": 217257125,
       "en": "A [placeholder] Trait cannot be equipped.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xae077d5",
+      "id": 182482901,
       "en": "Rename Active Outfit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x42d0a8c",
+      "id": 70060684,
       "en": "Earning",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x732e8d2",
+      "id": 120776914,
       "en": "Corruption",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c0814d",
+      "id": 163610957,
       "en": "Do you want to accept this arrangement of Traits?\\nIt'll cost you [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc108ac9",
+      "id": 202410697,
       "en": "[placeholder]/[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e639b5",
+      "id": 31865269,
       "en": "Hide",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7611e24",
+      "id": 123805220,
       "en": "Click and drag to move panel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb9640b4",
+      "id": 194396340,
       "en": "This will undo your changes. Are you sure you want to go back to your previous Trait arrangement?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x675b0b4",
+      "id": 108376244,
       "en": "[placeholder] Virtue XP needed for next rank",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf32592",
+      "id": 183707026,
       "en": "Race",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc214325",
+      "id": 203506469,
       "en": "Woman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3b4744",
+      "id": 171657028,
       "en": "Activate Trait Spec IV",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x736f5ec",
+      "id": 121042412,
       "en": "Points Available",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x197b8f4",
+      "id": 26720500,
       "en": "Traits",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfcf89b6",
+      "id": 265259446,
       "en": "Bannerguard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe33d705",
+      "id": 238278405,
       "en": "Rename Active Spec",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c1359b",
+      "id": 29439387,
       "en": "Protector",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb1fbd2",
+      "id": 196213714,
       "en": "Hair Colour",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25ec96c",
+      "id": 39766380,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaf5f893",
+      "id": 183892115,
       "en": "The following traits have been unslotted:{{keepspaces}}",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc011294",
+      "id": 201396884,
       "en": "Outfit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbb4cb13",
+      "id": 196397843,
       "en": "Bonus Level 1: This is an example of a pretty long-winded traitset bonus description: +whatever, etc.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf1ccf8c",
+      "id": 253546380,
       "en": "Appearance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e39b50",
+      "id": 65248080,
       "en": "The total number of points remaining that you are able to spend on new traits. You have [placeholder] points over the cap that cannot be spent at this time.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda47cf5",
+      "id": 228883701,
       "en": "Hobbit-lad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc3aa434",
+      "id": 205169716,
       "en": "0/0",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

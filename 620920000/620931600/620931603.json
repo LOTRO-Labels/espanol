@@ -2,340 +2,284 @@
   "id": 620931603,
   "txt": [
     {
-      "id": "0xa8e1136",
+      "id": 177082678,
       "en": "You have acquired the house!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01171",
+      "id": 246419825,
       "en": "You have found a note.\\n\\nYou should read the note.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e114",
+      "id": 251715860,
       "en": "Read the deed and bring the documents to Britred",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502955",
+      "id": 173025621,
       "en": "Tell Sigun that he has lost his claim on the house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01174",
+      "id": 246419828,
       "en": "You have found a note.\\n\\nYou should read the note.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1140",
+      "id": 177082688,
       "en": "You have found Signoth's last letter in the folds of the quilt",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01176",
+      "id": 246419830,
       "en": "You have found a note.\\n\\nYou should read the note.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502958",
+      "id": 173025624,
       "en": "Tell Sigmar that he has lost his claim on the house",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50247",
+      "id": 111477319,
       "en": "Examine the tapestry",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01178",
+      "id": 246419832,
       "en": "You have found a note.\\n\\nYou should read the note you found.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Signoth has evidently left a number of letters to his sons hidden in the house which may settle the matter of the confusing will.\\n\\n<rgb=#FF0000>NOTE: Edoras quests must be completed before the Evacuation of Edoras takes place.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d0",
+      "id": 184621264,
       "en": "The two brothers, Sigun and Sigmar, can be found outside their home in northern Edoras.\\n\\nYou should tell the two brothers that they have lost their claim on their father's house.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a1",
+      "id": 190220705,
       "en": "'What? This is not to be borne. I will not let you get away with stealing our house, [placeholder] -- it belongs to Sigmar and me!\\n\\n'We won't lose our father's estate -- right, Sigmar?\\n\\n'Just you wait. When we get back from Dunharrow, we'll see you out of here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50255",
+      "id": 111477333,
       "en": "Find the second clue mentioned in Signoth's letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a3",
+      "id": 190220707,
       "en": "'Well, well. What have we here?'\\n\\nBritred looks over the letters and documents you found.\\n\\n'It looks to me like you are the new owner of Signoth's estate. Good! Now, go lock it up, and tell those two fools to get moving.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1151",
+      "id": 177082705,
       "en": "This table may be what Signoth indicated in his letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1154",
+      "id": 177082708,
       "en": "You have found another letter tucked under the table setting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a7",
+      "id": 190220711,
       "en": "'Brother! This cannot be. Surely our father would not have wanted a stranger to our family to inherit his great estate.\\n\\n'We will find a loophole, Sigun. I will not rest until we do!\\n\\n'We will think on it as we travel to Dunharrow....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e99",
+      "id": 49286809,
       "en": "Bring the papers to Britred",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1157",
+      "id": 177082711,
       "en": "This bed may be what Signoth indicated in his letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56844",
+      "id": 162883652,
       "en": "You have found a letter in the drawer.\\n\\nIt is from Signoth, father of Sigun and Sigmar, and it may contain relevant information about the will, and the deed to the family house.\\n\\n<rgb=#FF0000>NOTE: Edoras quests must be completed before the Evacuation of Edoras takes place.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50263",
+      "id": 111477347,
       "en": "Read the note you found",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be4",
+      "id": 148970468,
       "en": "You have found a letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50265",
+      "id": 111477349,
       "en": "Read the note you found",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50267",
+      "id": 111477351,
       "en": "Read the note you found",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be7",
+      "id": 148970471,
       "en": "You have found the true deed to the house!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502922",
+      "id": 173025570,
       "en": "Completed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50269",
+      "id": 111477353,
       "en": "Read the note you found",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502923",
+      "id": 173025571,
       "en": "Search the desk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50211",
+      "id": 111477265,
       "en": "Open the lockbox to find the deed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502926",
+      "id": 173025574,
       "en": "Search the lockbox",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1168",
+      "id": 177082728,
       "en": "You have found another letter!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50215",
+      "id": 111477269,
       "en": "Read the deed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502928",
+      "id": 173025576,
       "en": "(Must be completed before the Evacuation of Edoras)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50270",
+      "id": 111477360,
       "en": "Find the third clue mentioned in Signoth's letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b96",
+      "id": 148970390,
       "en": "Sigun is so angry with you that he has broken his long silence with his brother at last",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50273",
+      "id": 111477363,
       "en": "Examine the table setting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b99",
+      "id": 148970393,
       "en": "Sigmar vows to work with his estranged brother to find a loophole",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50276",
+      "id": 111477366,
       "en": "Find the last clue mentioned in Signoth's letter",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a0",
+      "id": 184621216,
       "en": "You have reconciled the brothers by taking away that which they fought over.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50279",
+      "id": 111477369,
       "en": "Examine the bed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1176",
+      "id": 177082742,
       "en": "This tapestry matches Signoth's description",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a5",
+      "id": 184621221,
       "en": "You find a messy desk in Signoth's estate.\\n\\nYou should examine the contents of the desk.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01155",
+      "id": 246419797,
       "en": "The abandoned house in Edoras can be found north of Meduseld.\\n\\nYou should search the house for clues based on Signoth's letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01156",
+      "id": 246419798,
       "en": "The abandoned house in Edoras can be found north of Meduseld.\\n\\nYou should search the house for clues based on Signoth's letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01159",
+      "id": 246419801,
       "en": "The abandoned house in Edoras can be found north of Meduseld.\\n\\nYou should search the house for clues based on Signoth's letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01100",
+      "id": 246419712,
       "en": "The lockbox containing the true deed to the house can be found at the foot of the bed.\\n\\nYou should open the lockbox.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d1",
+      "id": 190220753,
       "en": "You have reconciled the brothers by taking away that which they fought over.\\n\\nPerhaps they will learn the lesson their father meant them to learn -- that old offences bring nothing but pain and loss, and that family is more important than anything.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01104",
+      "id": 246419716,
       "en": "You have found the true deed that decides the owner of the house.\\n\\nRead the deed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01107",
+      "id": 246419719,
       "en": "Britred can be found on the wall above the fountain in northern Edoras.\\n\\nYou should bring the deed to Britred.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56818",
+      "id": 162883608,
       "en": "'Ha! Would you look at that? It looks to me like you are now the proud owner of Signoth's estate, [placeholder].\\n\\n'Do go let Sigun and Sigmar know, and be sure to lock the door so they have nothing left to squabble over.\\n\\n'What an unexpected and amusing turn of events! Perhaps this will teach them a lesson.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01162",
+      "id": 246419810,
       "en": "The abandoned house in Edoras can be found north of Meduseld.\\n\\nYou should search the house for clues based on Signoth's letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01165",
+      "id": 246419813,
       "en": "The abandoned house in Edoras can be found north of Meduseld.\\n\\nYou should search the house for clues based on Signoth's letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Edoras: The Last Musings of a Father",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1132",
+      "id": 177082674,
       "en": "You have found Signoth's true will, and the deed to the house!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01168",
+      "id": 246419816,
       "en": "The abandoned house in Edoras can be found north of Meduseld.\\n\\nYou should search the house for clues based on Signoth's letter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

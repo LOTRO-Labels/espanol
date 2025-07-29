@@ -2,58 +2,129 @@
   "id": 621077971,
   "txt": [
     {
-      "id": "0xb568913",
+      "id": 190220563,
       "en": "'For the last few days, smoke has been rising from Makham Mijann, perhaps from a single camp-fire. I can't imagine anyone would be eager to hide out in an abandoned Corsair war-camp, unless they held some sort of ill intent.\\n\\n'Obviously, I cannot leave my post, but I see that you're quite familiar with adventuring. Will you investigate in my stead?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502834",
+      "id": 173025332,
       "en": "Talk to Halnith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e071",
+      "id": 251715697,
       "en": "Check on Kakhât",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a92",
+      "id": 148970130,
       "en": "The Corsair narrows his eyes at you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688c3",
+      "id": 190220483,
       "en": "'Had I known what was happening at that camp-fire... but I did not, and he was beyond help. To die nameless and forsaken in an unfamiliar place... I only hope your actions gave him some semblance of peace.'\\n\\nHalnith reaches down to gently pet the hound, who only responds with a tired thump of his tail.\\n\\n'I daresay he's found his new home.' A smile breaks across Halnith's face. 'Guarding the beacon doesn't sound like such a lonely task anymore.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0119a0",
+      "id": 184621472,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688c9",
+      "id": 190220489,
       "en": "Kakhât sniffs your hand. Before the hound leaves his master's side, he looks to him -- for further commands, perhaps. But the Corsair utters no more words.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "Makham Mijann may not be fully abandoned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0119a1",
-      "en": "Upon arriving at Nendath, Kakhât barked at you.\\n\\nYou should ch",
-      "es": "",
-      "es (fem)": ""
+      "id": 184621473,
+      "en": "Upon arriving at Nendath, Kakhât barked at you.\\n\\nYou should check on him.",
+      "es": ""
+    },
+    {
+      "id": 184621524,
+      "en": "You have found a dying Corsair hiding in a tent at Makham Mijann.\\n\\nYou should talk to him.",
+      "es": ""
+    },
+    {
+      "id": 184621527,
+      "en": "There is nothing you can do for the dying Corsair, but he has asked you to take his war-hound Kakhât with you.\\n\\nYou should approach Kakhât.",
+      "es": ""
+    },
+    {
+      "id": 173025314,
+      "en": "Use the whistle to summon Kakhât to your side",
+      "es": ""
+    },
+    {
+      "id": 190220453,
+      "en": "'Nothing you can do will hurt me, stranger. I'll be gone soon. Curse the warmongers that took me so far from home. May the seas take them all! May they --'\\n\\nWhatever the Corsair intends to say next devolves into a series of dry, rattling coughs.\\n\\n'Still listening to this dying man's last words? Then...' With a trembling hand, he reaches out to pet his war-hound. 'Take this whistle, and Kakhât will follow. He was never made for war. He doesn't deserve the same sad end that I do.\\n\\n'Leave me, Kakhât. Go.'",
+      "es": ""
+    },
+    {
+      "id": 173025315,
+      "en": "Return to Halnith at Nendath",
+      "es": ""
+    },
+    {
+      "id": 173025363,
+      "en": "Investigate the lit camp-fire at Makham Mijann",
+      "es": ""
+    },
+    {
+      "id": 173025317,
+      "en": "Use the whistle to summon Kakhât to your side",
+      "es": ""
+    },
+    {
+      "id": 184621440,
+      "en": "You should return to Halnith at Nendath with your new companion.\\n\\nNendath stands to the south of Makham Mijann.",
+      "es": ""
+    },
+    {
+      "id": 190220456,
+      "en": "TBD",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "Halnith has sighted smoke rising from a lit camp-fire in Makham Mijann. You should investigate.\\n\\nMakham Mijann is located to the north of Nendath.",
+      "es": ""
+    },
+    {
+      "id": 173025366,
+      "en": "Talk to the dying Corsair",
+      "es": ""
+    },
+    {
+      "id": 190220504,
+      "en": "Kakhât abruptly trots over to Halnith's side and lies down. Something tells you that even if you used the whistle to call him, he would simply refuse to listen.",
+      "es": ""
+    },
+    {
+      "id": 236954438,
+      "en": "What Was Left Behind",
+      "es": ""
+    },
+    {
+      "id": 184621490,
+      "en": "You should tell Halnith what you found at Makham Mijann.\\n\\nShe stands guard at Nendath.",
+      "es": ""
+    },
+    {
+      "id": 173025369,
+      "en": "Approach Kakhât",
+      "es": ""
+    },
+    {
+      "id": 148970212,
+      "en": "Kakhât softly barks at you",
+      "es": ""
     }
   ]
 }

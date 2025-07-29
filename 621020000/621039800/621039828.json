@@ -2,238 +2,199 @@
   "id": 621039828,
   "txt": [
     {
-      "id": "0xeb01171",
+      "id": 246419825,
       "en": "You should defend Marigold as she guides you through the forest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae9",
+      "id": 18197225,
       "en": "'Wait -- I see the tree-creatures, over there!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56857",
+      "id": 162883671,
       "en": "'Let's leave before another ghost shows up!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Root and Rot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01144",
+      "id": 246419780,
       "en": "Marigold is waiting for you to catch up before venturing further into the Old Forest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01175",
+      "id": 246419829,
       "en": "Marigold has found the tree-creatures.\\n\\nYou should talk to her and come up with a plan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15aae56",
+      "id": 22720086,
       "en": "'Come on, this is our chance!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15aae57",
+      "id": 22720087,
       "en": "'You won't ruin this forest. Not while we're here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15aae58",
+      "id": 22720088,
       "en": "'Hah, I doubt they ever fought anything as short as me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db1",
+      "id": 24743345,
       "en": ".",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01178",
+      "id": 246419832,
       "en": "Marigold has suggested eavesdropping on the tree-creatures.\\n\\nIf one of the creatures leaves, it may be possible to stop the remaining two together.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50256",
+      "id": 111477334,
       "en": "Talk to Marigold",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56866",
+      "id": 162883686,
       "en": "'It looks like they're talking about something important. We can't fight all three of them at once, but if just one leaves, I'm sure we can stop the remaining two.\\n\\n'For now, we ought to listen to their conversation. It might help us figure out what is going on.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50262",
+      "id": 111477346,
       "en": "Defend Marigold",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50267",
+      "id": 111477351,
       "en": "Talk to Marigold",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4ab91",
+      "id": 12888977,
       "en": "'Many shades have been drawn to the sword.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4ab92",
+      "id": 12888978,
       "en": "'Excellent. The Gaunt-lord will be satisfied.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50269",
+      "id": 111477353,
       "en": "Eavesdrop on the tree-creatures",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56813",
+      "id": 162883603,
       "en": "'Well, this day keeps getting stranger and stranger! If ghosts are being drawn to the forest because of a sword, we need to find it. The Bounders are already worried about the forest animals; we don't need to add Barrow-downs ghosts to that list!\\n\\n'At the very least, I know someone who might be able to help us. I'll take you straight to him!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1f5",
+      "id": 24695285,
       "en": "In search of the strange tree-creatures she saw, Marigold has taken you deep into the Old Forest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4ab93",
+      "id": 12888979,
       "en": "'Once he gets what he wants, this forest will be ours.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01100",
+      "id": 246419712,
       "en": "Marigold has challenged the tree-creatures.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4ab94",
+      "id": 12888980,
       "en": "'Do not disappoint me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc4ab95",
+      "id": 12888981,
       "en": "'Yes, Gulmúk.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01102",
+      "id": 246419714,
       "en": "The tree-creatures have been defeated.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50211",
+      "id": 111477265,
       "en": "Defend Marigold",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50214",
+      "id": 111477268,
       "en": "Talk to Marigold",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae1",
+      "id": 18197217,
       "en": "'Keep an eye out!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae2",
+      "id": 18197218,
       "en": "'Hold on...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae3",
+      "id": 18197219,
       "en": "'Wolves!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae4",
+      "id": 18197220,
       "en": "'They're scared out of their wits. With those tree-creatures mucking about, I can't say I blame them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae5",
+      "id": 18197221,
       "en": "'Once this is all over, I hope the forest calms down.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae6",
+      "id": 18197222,
       "en": "'Watch out!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15aae50",
+      "id": 22720080,
       "en": "'I'm counting on you to have my back, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae7",
+      "id": 18197223,
       "en": "'Was that a ghost? It looked like it came from the barrows!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1178",
+      "id": 177082744,
       "en": "<rgb=#FF0000>Marigold has been defeated!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56855",
+      "id": 162883669,
       "en": "'I didn't think we'd be so lucky, getting here without being attacked by forest animals!\\n\\n'The place where I saw those tree-creatures isn't far from here. Don't worry -- I know the Old Forest like the back of my hand.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x115aae8",
+      "id": 18197224,
       "en": "'More ghosts... this doesn't bode well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

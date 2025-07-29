@@ -2,70 +2,59 @@
   "id": 621072339,
   "txt": [
     {
-      "id": "0xa8e1180",
+      "id": 177082752,
       "en": "Collected water samples ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b9",
+      "id": 111477433,
       "en": "Collect water samples ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b1",
+      "id": 246419889,
       "en": "You should bring the water samples you collected to Rhúnelleth.\\n\\nRhúnelleth is located at Bail Avarc, outside of Carn Dûm.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'I am curious about the waters that flow through Sant Lhoer, Carn Dûm's Poison Gardens. They are less potent than those of the rest of the city, thankfully, but they seem also to possess other attributes, both corrupting and empowering to the plants and creatures near to them.\\n\\n'Take these phials and bring me samples from the flowing streams, that I might study the effect Helchgam's defeat has had. Take care that you do not let the waters touch your skin! Who knows what poisons yet lurk in those depths?'\\n\\n\\n<rgb=#FF0000>NOTE: To advance this quest, you must use the Instance Finder (Ctrl+J) to enter Sant Lhoer, the Poison Gardens.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a4",
+      "id": 162883748,
       "en": "'Ah, you return! Come, let me see what the phials contain.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Sant Lhoer: Helchgam's Flow",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d14",
+      "id": 51875092,
       "en": "Within the Poison Gardens of Carn Dûm grow numerous plants, twisted and corrupted by the foetid waters of the rivers that flow through the area.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "Rhúnelleth has asked you to collect water samples from the Poison Garden and the Glass House.\\n\\nThe Poison Garden and the Glass House are in Carn Dûm.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e26",
+      "id": 49286694,
       "en": "Deliver the water samples to Rhúnelleth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7308b5",
+      "id": 225642677,
       "en": "'Though their powers seem to have lessened since Helchgam’s defeat, the waters of the Poison Garden still run foul and continue to spread their corruptions.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a7",
+      "id": 162883751,
       "en": "'Sant Lhoer is a treacherous place, [placeholder]. Do not remain there longer than you must!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

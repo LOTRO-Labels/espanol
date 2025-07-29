@@ -2,76 +2,64 @@
   "id": 620901075,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "If Góda's reasoning seems greater to you than Ingmar's, you should speak with Ingbert on her behalf",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "<rgb=#FF0000>Support Góda failed</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Reeve Ingbert, still undecided about what course of action he should take regarding the Orcs in the Entwash Vale, has put his faith in your advice.\\n\\n<rgb=#FF0000>You should accept both Support Góda and Support Ingmar to learn their positions, but you may only complete one of them. The other will fail. Which quest you complete will determine who you will support throughout the story arc.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'My mother, [placeholder], is a strong woman and wise. She has long been my chief counsellor and has never led me astray. In the matter of the Orcs, she counsels that we refrain from attacking them directly, for Théoden King has forbidden it.\\n\\n'My loyalty and duty to the King dictates that I comply, yet I am uneasy. Eaworth itself has been raided on numerous occasions, and large numbers of Orcs amass not far from here in clear preparation to lay siege upon us. Why, then, should we refrain from attacking them first, as Ingmar would do?\\n\\n'Alas, I know not the answer. Speak with my mother and learn the heart of her arguments. Let me know if you decide that hers is the wisest course.'\\n\\n<rgb=#FF0000>You should accept both Support Góda and Support Ingmar to learn their positions, but you may only complete one of them. The other will fail. Which quest you complete will determine who you will support throughout the story arc.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Lady Góda stands near Reeve Ingbert in the Mead Hall of Eaworth.\\n\\nIngbert has asked you to speak with his mother, Lady Góda, and learn the heart of her arguments.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I understand that Tóla sent you to speak with me, to help you convince my son to refuse Ingmar's plan. Indeed, as you have heard, I have been doing just that.\\n\\n'The argument is moot, for Théoden King's law must rule our decisions. This land is ours only by his command, and we owe our allegiance to him through unbreakable oaths.\\n\\n'Understand, I do not debate Ingmar's position. If we were permitted, I would be the first to say \\qStrike at the heart of the Enemy!\\q But we ARE restricted. That is why I propose that we strengthen our defences here in Eaworth. Defending a bastion such as this would reduce our losses well beyond what we would see assaulting the Orcs.\\n\\n'My grandson questions my reasoning, citing the safety of the outlier farms, but many of those farms have already been abandoned, and many more refugees arrive in Eaworth every day. I believe his lust for glory has blinded his sensibilities.\\n\\n'The greater wisdom says that we should defend Eaworth with all our might. Word has already been sent to Thornhope, our city in the north...I expect further aid from Thane Wulfrad at any moment. Will you defend my position with Ingbert? Consider it well.'\\n\\n<rgb=#FF0000>You should accept both Support Góda and Support Ingmar to learn their positions, but you may only complete one of them. Which quest you complete will determine who you will support throughout the story arc.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Reeve Ingbert stands near Góda in the Mead Hall of Eaworth.\\n\\nYou should consider Góda's argument. If her reasoning seems preferable to Ingmar's, you should speak with Reeve Ingbert on her behalf.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "You take a moment to convey your support of Góda's position to Reeve Ingbert.\\n\\n'I understand my son's desire to ride into battle...in my youth, I was much the same. Few beyond Rohan comprehend what it is to earn glory in the heat of battle.\\n\\n'However, my mother's advice, as you say, seems the greater. My mind is decided: we shall follow Lady Góda's advice.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Góda in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Ingbert in the Mead Hall of Eaworth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>If you complete Support Ingmar, this quest will fail</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Support Góda",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

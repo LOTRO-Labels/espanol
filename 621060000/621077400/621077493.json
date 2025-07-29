@@ -2,40 +2,99 @@
   "id": 621077493,
   "txt": [
     {
-      "id": "0xe1fa349",
+      "id": 236954441,
       "en": "Vengeance is a Bitter Brew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568926",
+      "id": 190220582,
       "en": "'Stripping those pins was not an easy task, and the file needed to grind down that metal isn't one that just anyone would have. You should go talk to Londring, the blacksmith. Ask him if anyone has come by recently, asking to borrow tools or to use a workbench. He's a king's man and I trust him, so you may as well.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568927",
+      "id": 190220583,
       "en": "'Ah, yes. I know exactly of whom you speak. He came by here earlier, asking to use the workbench. He had a sack full of pins on which he wanted to grind the threads down. \\n\\n'We got into quite the heated argument when I tried to suggest he purchase nails instead of trying to make them from perfectly good screws. He spat at my feet and told me he was off to see someone about a horse and that after today he'd never have to look at my ugly face again. Very rude. Many think I'm quite fair, you know. Hmph.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568955",
+      "id": 190220629,
       "en": "'Yârlag, eh? I do not know the name, but from what you said, it sounds like he was a Corsair who either stayed behind or was left behind when his crewmates fled.\\n\\n'Glad am I that you put an end to his meddling, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b60",
+      "id": 148970336,
       "en": "Yârlag has been defeated!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011827",
-      "en": "Mellien also had a rude encounter with Yârlag, who ran off towards",
-      "es": "",
-      "es (fem)": ""
+      "id": 184621095,
+      "en": "Mellien also had a rude encounter with Yârlag, who ran off towards Harper's Court.\\n\\nYou should look for Yârlag in Dol Amroth's Harper's Court.",
+      "es": ""
+    },
+    {
+      "id": 126687017,
+      "en": "An investigation revealed that someone has been sabotaging Dol Amroth's ships, and their identity must be uncovered!",
+      "es": ""
+    },
+    {
+      "id": 148970338,
+      "en": "There is a mug of spilled ale in the north-west corner of the Harper's Court",
+      "es": ""
+    },
+    {
+      "id": 184621189,
+      "en": "Londring had a rude encounter with Yârlag, who seems to have gone in search of a horse. You should check the stables near Harper's Court to see if anyone there met with the brute.\\n\\nHarper's Court is in Dol Amroth.",
+      "es": ""
+    },
+    {
+      "id": 184621144,
+      "en": "While searching for Yârlag, you discovered a spilled mug of ale. You should investigate the mug.\\n\\nThe mug is in Harper's Court, in Dol Amroth.",
+      "es": ""
+    },
+    {
+      "id": 173025697,
+      "en": "Search for Yârlag",
+      "es": ""
+    },
+    {
+      "id": 190220546,
+      "en": "'Yes, I know who you're looking for. I did not catch his name, as his breath reeked so much of ale that I refused to entertain anything past refusing to lend or sell him a horse until he dried up. Cursed me out something fierce, he did.\\n\\n'He stomped off towards Harper's Court, probably to find more ale.'",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "TBD - Strong Pins and Well-woven Ropes",
+      "es": ""
+    },
+    {
+      "id": 173025702,
+      "en": "Talk to Londring",
+      "es": ""
+    },
+    {
+      "id": 173025704,
+      "en": "Return to Annúngil",
+      "es": ""
+    },
+    {
+      "id": 173025753,
+      "en": "Examine the spilled ale",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "The wharf master has asked you to speak with Londring to see if anyone has come by to borrow tools or use the workbench.\\n\\nLondring is in the Artisans' Quarter, in Dol Amroth.",
+      "es": ""
+    },
+    {
+      "id": 173025779,
+      "en": "Talk to someone at the stables",
+      "es": ""
+    },
+    {
+      "id": 184621091,
+      "en": "While searching Harper's Court, you found and defeated Yârlag. You should let the wharf master know that he will no longer be sabotaging the Rosigil or any other ships.\\n\\nThe wharf master is on the docks in Dol Amroth's bay.",
+      "es": ""
     }
   ]
 }

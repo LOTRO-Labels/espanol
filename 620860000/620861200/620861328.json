@@ -2,94 +2,79 @@
   "id": 620861328,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected swamp-gas ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Collected a raw rotten egg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Collected slime from a slimy slug ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Jónar, a sinister dwarf in Thorin's Hall, has sent you on a scavenger hunt to collect ingredients for his special brew.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I am a master brewer. Did you know that? I rarely have time these days, with all the Ale Association management I must do. Recruitment is of course the top priority and undermining the Inn League... not brewing or tasting ales.\\n\\n'But I have a mind to brew something today. I wish to make a drink -- a special brew. I would like it delivered to my good friends in the Shire. I would like it to spoil their festival. I would like to ruin their day. I would like it to make them ill.\\n\\n'My special brew is a secret, and I will let you in on its recipe by having you collect the ingredients for me. Be a good recruit, [placeholder], and help me with my plan.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Jónar's ingredients can be collected in the following places: swamp-gas can be found in the Rushock Bog. Raw egg can be found at Sandson's farm. Slimy slug-slime can be found along the river's edge near Celondim.\\n\\nYou should collect swamp-gas, raw egg, and slug-slime for Jónar's special brew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Bawk!'\\n\\nBillina does not like your sinister look. In her alarm, she lays a disgusting rotten egg. That was easy!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Jónar is in the cellar of Thorin's Hall.\\n\\nYou should bring Jónar all of the disgusting ingredients you collected during your adventure.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'I don't see those ingredients I asked for. Do you think I have them? If I had them, would I ask you for them? Tell me. No, do tell me. No? Exactly. Now kindly go do as I asked.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Give me those.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect swamp-gas from Rushock Bog ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Collect a raw rotten egg from Sandson's Farm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Collect slime from slimy slugs near Celondim ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Bring the disgusting ingredients to Jónar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Jónar's Special Brew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

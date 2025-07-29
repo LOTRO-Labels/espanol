@@ -2,64 +2,164 @@
   "id": 621079770,
   "txt": [
     {
-      "id": "0xeb011a0",
+      "id": 246419872,
       "en": "Hadorion wishes to speak to you in private, follow him into his hearth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Hmmm. This shard of glass is intriguing.\\n\\nIt is...familiar to me. Or rather, I've heard of this before.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to the distressed man",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'Hmmm. This shard of glass is intriguing.\\n\\n'It is... familiar to me, or rather, I've heard of this before.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Search the abandoned waggon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "Follow Hadorion into the cabin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'What happened here you ask? I'd like to know myself.\\n\\n'Our men fallen in war, our shores given to the want of Corsairs, land, bridge, and dwelling ravaged by hatred and time. I'm used to all of that, but the sudden end of a man in the middle of the road so close to home, with no sight of Corsair, ship, or pillaging? A dark foreboding indeed... more so than what has wrought these lands for as long as I can remember.\\n\\n'Perhaps you can find what I could not?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "The substance is foreign to Barad Faen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Talk to TBD_Ranger",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
-      "en": "'You found the victim's clothes stained in a green ichor? That seems to line up with what I found as well.\\n\\n'It has a fell odour to it also. You should investigate amongst the townsfolk and see if anyone has seen this substance�",
-      "es": "",
-      "es (fem)": ""
+      "id": 228284040,
+      "en": "'You found the victim's clothes stained in a green ichor? That seems to line up with what I found as well.\\n\\n'It has a fell odour to it also. You should investigate amongst the townsfolk and see if anyone has seen this substance before.'",
+      "es": ""
+    },
+    {
+      "id": 162883729,
+      "en": "'A foul smelling green ichor? We have none of that here in Barad Faen.\\n\\n'Most of our draughts are for mending and treating injuries. I cannot say such a substance comes from here.'",
+      "es": ""
+    },
+    {
+      "id": 111477385,
+      "en": "Talk to Hadorion in Barad Faen",
+      "es": ""
+    },
+    {
+      "id": 177082807,
+      "en": "Look for someone who is anxious and puzzled",
+      "es": ""
+    },
+    {
+      "id": 246419840,
+      "en": "Hadorion has asked you to question the townsfolk of Barad Faen for more information on the mysterious ichor.",
+      "es": ""
+    },
+    {
+      "id": 51875090,
+      "en": "A body is found in the middle of the road through Barad Faen. Hadorion is investigating, and needs your help to catch the perpetrator.",
+      "es": ""
+    },
+    {
+      "id": 162883733,
+      "en": "'Do I have anything suspicious to report? Why, of course!\\n\\n'All manner of foul play is afoot! Corsairs are harrying the shores. Animals are pestering our foragers!\\n\\n'Well, there is one person I do not recognize here, and they seem very anxious.\\n\\n'I couldn't tell you where to find them, but if they look out of place and disturbed, chances are you have found your quarry.'",
+      "es": ""
+    },
+    {
+      "id": 216727828,
+      "en": "Hadorion has asked you to search the body and see if you can find what he could not.",
+      "es": ""
+    },
+    {
+      "id": 246419844,
+      "en": "The concerned merchant has told you the substance is foreign. You should question more townsfolk to see if they have noticed anything suspicious come through.",
+      "es": ""
+    },
+    {
+      "id": 162883737,
+      "en": "'What is it?!'\\n\\nThe man is startled by your presence.\\n\\n'I've done nothing wrong! I was just passing through!\\n\\n'On my way to Lond Cirion, I was. My waggon was hijacked just up the road before arriving here.\\n\\n'A foul smelling substance? Of course! The person who hijacked my waggon reeked of it.\\n\\n'I ended up here a day later to find my waggon abandoned on the town's western exit. Surely you will find more of that wretched substance.'",
+      "es": ""
+    },
+    {
+      "id": 216727831,
+      "en": "You found traces of a green ichor on the victim's clothes. You should report to Hadorion.\\n\\nHadorion can be found in Barad Faen.",
+      "es": ""
+    },
+    {
+      "id": 111477394,
+      "en": "Talk to the careful merchant",
+      "es": ""
+    },
+    {
+      "id": 246419848,
+      "en": "The woman has told you of someone new to town that seems distressed. You should search for them.",
+      "es": ""
+    },
+    {
+      "id": 111477398,
+      "en": "Talk to the anxious woman",
+      "es": ""
+    },
+    {
+      "id": 225071141,
+      "en": "Search the corpse",
+      "es": ""
+    },
+    {
+      "id": 246419858,
+      "en": "The man has told you that his waggon was hijacked before arriving in Barad Faen and abandoned along the western exit of Barad Faen.",
+      "es": ""
+    },
+    {
+      "id": 246419861,
+      "en": "You found a shard of glass stained with the foul smelling ichor. You should return to Hadorion.\\n\\nHadorion can be found in Barad Faen.",
+      "es": ""
+    },
+    {
+      "id": 225071145,
+      "en": "Talk to Hadorion",
+      "es": ""
+    },
+    {
+      "id": 177082785,
+      "en": "Look for his abandoned waggon",
+      "es": ""
+    },
+    {
+      "id": 177082788,
+      "en": "You found a shard of glass stained with ichor",
+      "es": ""
+    },
+    {
+      "id": 162883761,
+      "en": "'There is more to discuss.'",
+      "es": ""
+    },
+    {
+      "id": 126754721,
+      "en": "A Vile Trail",
+      "es": ""
+    },
+    {
+      "id": 262725910,
+      "en": "The clothes are stained with a green ichor, the stench is foul",
+      "es": ""
     }
   ]
 }

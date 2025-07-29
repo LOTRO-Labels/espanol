@@ -2,52 +2,89 @@
   "id": 620958466,
   "txt": [
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'My brother and I come from across the river. We're preparing to hunt a simply grand beast. Have you heard of the Mûmakil? They are giant, tusked creatures from lands south of here.'\\n\\nYou ask Derufin about Anborn.\\n\\n'You can try talking to Anborn but I don't know how far you'll get. He admires our skill with the bow, but it ends there. You may have better luck with Thurindol. That Thurindol is a pleasant fellow, wouldn't you agree, Duilin?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Speak with Derufin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Speak with Duilin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Derufin and Duilin can be found in Bâr Húrin.\\n\\nYou should speak with Derufin and Duilin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "Anborn and Thurindol can be found inside the keep at Bâr Húrin.\\n\\nYou should speak with Anborn and Thurindol.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56891",
+      "id": 162883729,
       "en": "'Greetings, adventurer. Have you come to hunt wild game in Emyn Arnen?'\\n\\nYou ask Duilin about Anborn.\\n\\n'If you're looking for Anborn, he's at the keep. He seems awfully busy though. He doesn't even have the time to hunt with us! Isn't that right, Derufin?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Speak with Anborn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
-      "en": "'Stranger, you are bold to come and ask me where my leader is. You should not even be in these lands. But you speak Gladhir's name, so I will allow you here for now. It will take more",
-      "es": "",
-      "es (fem)": ""
+      "id": 162883733,
+      "en": "'Stranger, you are bold to come and ask me where my leader is. You should not even be in these lands. But you speak Gladhir's name, so I will allow you here for now. It will take more than that to earn my trust, however.'",
+      "es": ""
+    },
+    {
+      "id": 111477400,
+      "en": "Speak with Thurindol",
+      "es": ""
+    },
+    {
+      "id": 162883735,
+      "en": "'Duilin and Derufin? Anborn allows those two to stay, I think, because they amuse our fellow Rangers with their cheerful antics. There is little to lighten our hearts in these days. They cheer us, but they are of little use. I hope that you may prove otherwise, for we are in need of some extra hands in Bâr Húrin, presently.'",
+      "es": ""
+    },
+    {
+      "id": 262725912,
+      "en": "Gladhir urges you to seek out Derufin and Duilin in Bâr Húrin",
+      "es": ""
+    },
+    {
+      "id": 228284033,
+      "en": "'Return to Gladhir and tell him of the Haradrim scaling the cliffs. I shall continue to monitor the situation and thwart their efforts until others arrive. Take care.'",
+      "es": ""
+    },
+    {
+      "id": 51875093,
+      "en": "Mírthel asks you to speak with Gladhir about the Haradrim plans in Southern Ithilien.",
+      "es": ""
+    },
+    {
+      "id": 225071143,
+      "en": "Speak with Gladhir",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "To Bâr Húrin",
+      "es": ""
+    },
+    {
+      "id": 228284038,
+      "en": "'This is indeed dire. I do not wish to make you tarry longer than need requires if you do indeed have important news for Lord Faramir. I will muster nearby Rangers to put an end to the Haradrim plans to scale the cliffs. Pressing further into South Ithilien will be difficult. You should make your way to Bâr Húrin, the main stronghold of the Rangers south of Osgiliath. \\n \\n'You will not be welcomed there as warmly as you might wish or deserve, I am afraid. Anborn, leader of Bâr Húrin, is distrustful of outsiders, perhaps to a fault. I do not think he will turn you away, however. He did not turn away two others, like you, who came recently to Ithilien. If you take a little time to earn his trust, I feel sure he will assist you. \\n \\nHave hope, for I know you will find Faramir. May our paths cross again, [placeholder].'",
+      "es": ""
+    },
+    {
+      "id": 216727826,
+      "en": "Gladhir can be found on the bridge to Bâr Húrin in Southern Ithilien.\\n\\nYou should speak with Gladhir.",
+      "es": ""
     }
   ]
 }

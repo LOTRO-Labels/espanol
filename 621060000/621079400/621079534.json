@@ -2,46 +2,149 @@
   "id": 621079534,
   "txt": [
     {
-      "id": "0x2f00e23",
+      "id": 49286691,
       "en": "Collect dust from the Ruthless Dead at Fennas Dur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "The defaced carving can be found on a tree to the south-west of Alagrant, in the Blackroot Vale.\\n\\nYou have spotted the carving on a nearby tree outside Alagrant, but it has been defaced. You should examine it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b5",
+      "id": 162883765,
       "en": "'[placeholder]! Have you found Egnir?'\\n\\nYou inform Uidor that Egnir passed through Alagrant to deface an old carving on one of its tree, but then left to meet with a man named Ludhír.\\n\\n'Ludhír? What business could Egnir have with him? Ludhír patrols the northern road that leads to Fennas Dûr—to the Paths of the Dead. After the King pardoned the better-hearted of their kind, we thought the Dead would not trouble us any longer. How wrong we were! Ludhír's even had to shorten his patrols of late, since the Ruthless Dead now dare to drift further from the darkness of the Haunted Mountain. Why would Egnir want to go there? I have not known him and Ludhír to be particularly close, friendly as they are to each other.\\n\\n'I do not like this at all, my friend. Seek out Ludhír, and see if Egnir is still with him!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e26",
+      "id": 49286694,
       "en": "Deliver the glimmering dust to Egnir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Egnir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b6",
+      "id": 111477430,
       "en": "Talk to Uidor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
+    },
+    {
+      "id": 177082757,
+      "en": "Collected glimmering dust from the Ruthless Dead at Fennas Dûr ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 111477431,
+      "en": "Find Egnir near Fennas Dûr",
+      "es": ""
+    },
+    {
+      "id": 111477385,
+      "en": "Examine the defaced carving",
+      "es": ""
+    },
+    {
+      "id": 246419890,
+      "en": "Glimmering dust can be collected from the Ruthless Dead near Fennas Dûr, in the Blackroot Vale.\\n\\nEgnir has asked you to collect glimmering dust from the Ruthless Dead.",
+      "es": ""
+    },
+    {
+      "id": 162883735,
+      "en": "'Hail! Take care, traveller, for the road ahead is treacherous. Turn back or...\\n\\n'Oh, wait a moment, I remember you. You were the one who came through the Paths of the Dead! [placeholder], was it? What can I do for you?'\\n\\nYou ask Ludhír if he has seen a man named Egnir. Ludhír's face sinks and he sighs.\\n\\n'Yes, I have seen Egnir, but... he is unwell. He's gone up the road toward Fennas Dûr, and he's been loosing arrows at the Ruthless Dead for hours. I do not know what has gotten into him, but he must carry some terrible burden on his heart. I have heard him call out to them, taunt them, scream at them until his voice was hoarse, and still he continued... as if he laboured in service of some unknowable quest.\\n\\n'The Dead will tire of him sooner or later, and I would not see him throw away his life now after he survived the War. He would not listen to me when I told him he ought to return to Morlad, but perhaps he'll listen to you. If nothing else, at least convince him to leave this place!'",
+      "es": ""
+    },
+    {
+      "id": 216727829,
+      "en": "Uidor can be found in Morlad, in the Blackroot Vale.\\n\\nSarnir informed you that Egnir intended to meet with Ludhír, another bowman of the Blackroot Vale. You should return to Uidor and learn where Ludhír might be found.",
+      "es": ""
+    },
+    {
+      "id": 51875097,
+      "en": "After learning that the wayward bowman, Egnir, passed through Alagrant, your search continues across the Blackroot Vale.",
+      "es": ""
+    },
+    {
+      "id": 177082768,
+      "en": "Although the carving has been defaced by deep slashes, it still clearly reads: 'E+D'",
+      "es": ""
+    },
+    {
+      "id": 246419849,
+      "en": "Ludhír can be found along the road to the north of Morlad that leads to Fennas Dûr, in the Blackroot Vale.\\n\\nUidor informed you that Ludhír patrols the road leading to Fennas Dûr and the Paths of the Dead. You should seek out Ludhír and see if Egnir is with him.",
+      "es": ""
+    },
+    {
+      "id": 111477400,
+      "en": "Talk to Ludhír",
+      "es": ""
+    },
+    {
+      "id": 162883744,
+      "en": "'What do you want?'\\n\\nEgnir does not turn to face you, and his gaze remains fixed on the Ruthless Dead along the road ahead. You tell Egnir that you were sent by Uidor to ask him to return to Morlad, and you mention that Uidor seemed worried about him.\\n\\n'Uidor is a wise man, but grief does not make a good bedfellow of wisdom. That is the very reason why I left. When my grief turned to anger, I found my own hand destroying something dear to me... something irreplaceable. I stopped myself before it was too late, but even so, I could not shake the anger in my heart. In my journey back from the War, I learned that not all of the Dead heeded the summons of King Elessar and that those wretched spirits still haunted the Vale. And so, I turned my anger upon them, hoping beyond hope that I would find some reprieve from my grief.\\n\\n'Alas, I have not. I have vanquished dozens of these Ruthless Dead, but always they return and I feel no better for it. And now my anger has all but burned out....\\n\\n'It is curious, though. Each time I 'slay' one of them, they leave behind a pile of glimmering dust. Is it their essence? It always seems to fade away to naught after a time, and then, there they are again—reborn into restless death.\\n\\n'Have you ever seen such a thing? If you would gather some of it, I can show you.'",
+      "es": ""
+    },
+    {
+      "id": 149027348,
+      "en": "The Dead and the Living",
+      "es": ""
+    },
+    {
+      "id": 177082777,
+      "en": "With a bitter gaze fixed upon the Ruthless Dead, Egnir barely acknowledges your approach",
+      "es": ""
+    },
+    {
+      "id": 246419858,
+      "en": "Egnir can be found near Fennas Dûr, in the Blackroot Vale.\\n\\nLudhír informed you that Egnir has gone to Fennas Dûr to confront the Ruthless Dead. You should find Egnir and ask him to return to Morlad.",
+      "es": ""
+    },
+    {
+      "id": 162883751,
+      "en": "'Do you see?'\\n\\nEgnir takes the dust from you and casts it into the wind. It appears to vanish before it ever touches the ground.\\n\\n'It seems that no matter how much of this dust I collect, they still remain. How can you take so much of someone and expect anything to be left? How queer to think that I might envy such a fate!'\\n\\nEgnir chuckles weakly.\\n\\n'I try and I try to make sense of this world, but how can I do that? Look at these turncoats and murderers! They persist evermore, flitting through the world of the Living, and we are made to think they suffer some terrible curse. But when good men—a good man—perishes, no matter how valiant his deeds or how pure his love, he is simply dead and there is nothing that can be done for it. O, if only Derufin had broken an oath!'\\n\\nYou notice Egnir has begun to weep, and his once-stern countenance has broken. You comfort him as best you can. He begins to sob, and after a time, he steadies himself and turns to face you.\\n\\n'I... mourn the life I had wished to live, my friend. Derufin had not even told Lord Duinhir of us before—before the War took him. And so, who now am I to the Lord? One of half a thousand bowmen, but perhaps the only one who truly knows his loss. And maybe that is enough.\\n\\n'You need not ask again, [placeholder]. I'll return to Morlad.'",
+      "es": ""
+    },
+    {
+      "id": 246419861,
+      "en": "Egnir can be found near Fennas Dûr, in the Blackroot Vale.\\n\\nYou have found Egnir, but he seems almost entirely focused on the Ruthless Dead and there is an anger behind his eyes. You should talk to Egnir.",
+      "es": ""
+    },
+    {
+      "id": 162883753,
+      "en": "Egnir appears lost in thought.\\n\\nPerhaps it is best if you finish collecting the glimmering dust he mentioned.",
+      "es": ""
+    },
+    {
+      "id": 111477409,
+      "en": "Talk to Egnir",
+      "es": ""
+    },
+    {
+      "id": 111477412,
+      "en": "Collect glimmering dust from the Ruthless Dead at Fennas Dûr ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 246419864,
+      "en": "Egnir can be found near Fennas Dûr, in the Blackroot Vale.\\n\\nYou have collected a great deal of glimmering dust from the Ruthless Dead. You should deliver it to Egnir.",
+      "es": ""
+    },
+    {
+      "id": 162883664,
+      "en": "Egnir appears lost in thought.",
+      "es": ""
+    },
+    {
+      "id": 162883762,
+      "en": "'Ah, [placeholder], I finally recalled the name of that man Egnir meant to meet: Ludhír.\\n\\n'I believe he's one of the Lord's archers, but I couldn't say where to find him. Who sent you here again? Uidor, was it? You ought to ask him, then. I know him to be one of the Lord's finest captains in Morlad, so he would surely know better than I!\\n\\n'I do hope you can find Egnir, my friend. It seems his sorrows have taken hold of him, and I know all too well how difficult that embrace can be to break.'",
+      "es": ""
     }
   ]
 }

@@ -2,118 +2,99 @@
   "id": 620803741,
   "txt": [
     {
-      "id": "0x5c661",
+      "id": 378465,
       "en": "'Ugh! That's horrible! What a foul taste!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5c662",
+      "id": 378466,
       "en": "'It seems I saved the worst for last...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have collected Forsaken Ale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Collected a Forsaken Ale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Time expired!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have received an order to fill a delivery to a member of the Inn League who has been stranded away from the festival this season.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I have here a list of requests to assist Inn League members in need, stranded away from home without the support of their beer-loving brethren. It seems they miss their favourite drinks, or in some cases they've never even tasted them!\\n\\n'Now, Alrek managed to find himself at Thrasi's Lodge quite unexpectedly after drinking quite a few of Barliman's Best in a row...far more than was necessary for the challenge, I daresay.\\n\\n'Now he has only one drink left to complete his challenge, and that is the Forsaken Ale, from none other than The Forsaken Inn itself. I don't recommend that particular drink to anyone, but so it goes!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Forsaken Ale can be purchased at The Forsaken Inn in the Lone-lands.\\n\\nYou should travel to The Forsaken Inn to purchase Forsaken Ale for Alrek, who waits at Thrasi's Lodge for some assistance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Ah, good day to you! At least I believe it is day...things are a bit blurry right now. There is only one you, right?\\n\\n'Have you had the misfortune to embark upon the Inn League's Challenge yet? I did and have travelled long and far. Along the way, I have tasted many a fine spirit, but...I think I have tasted one too many! And the worst of it is that I was just one drink short of completing the Challenge! The last drink I need to sample is called \\qForsaken Ale,\\q and it can only be found far to the east at an inn called \\qThe Forsaken Inn.\\q The brewer is Anlaf, the inn's proprietor.\\n\\n'It is much to ask of you, but could you bring me one of these Forsaken Ales? I would go myself, but...I am in no condition to ride right now!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Alrek is at Thrasi's Lodge in Ered Luin, far to the west of the Lone-lands.\\n\\nAlrek has asked you to collect a Forsaken Ale for him from Anlaf the Forlorn at The Forsaken Inn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'You'll find Alrek's order of ale at The Forsaken Inn.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You have done it? You made it all the way to The Forsaken Inn and back? My thanks! Now I can complete the Challenge!\\n\\n'Let's see how this last brew tastes....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'The last ale I need to finish the Challenge is \\qForsaken Ale.\\q It can only be found at The Forsaken Inn far to the east. Please bring me one...I would go there myself, but I am in no condition to ride right now!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'The last ale I need to finish the Challenge is \\qForsaken Ale.\\q It can only be found at The Forsaken Inn far to the east. Please bring me one...I would go there myself, but I am in no condition to ride right now!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect Forsaken Ale from the Forsaken Inn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring the Forsaken Ale to Alrek",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Collect a Forsaken Ale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Return with the Forsaken Ale before time expires!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "One Drink Too Many",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

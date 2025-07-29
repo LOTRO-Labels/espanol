@@ -2,118 +2,99 @@
   "id": 620966384,
   "txt": [
     {
-      "id": "0xeb01150",
+      "id": 246419792,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56846",
+      "id": 162883654,
       "en": "'It is worse than I feared... the Enemy's forces have overrun the field! Orcs, evil Men, trolls... they number in the thousands to be certain!\\n\\n'Yet... despair not, my friend. The odds may be against us, but not so long ago at all, we faced down our foes side by side in Rohan! \\n\\n'We shall stand together once more and find victory!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1b1",
+      "id": 24695217,
       "en": "If the Riders Three hope to rejoin their allies on the Pelennor Fields, they shall need to pass swiftly through the heart of the Enemy's forces in Taur Drúadan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56849",
+      "id": 162883657,
       "en": "'The time has come for us to depart the War-stead, [placeholder]. Many of our kinsmen have already ridden south through the valley, and we must reach them by the time we arrive at the Pelennor Fields.\\n\\n'Our route is dangerous, but we are without choice. We shall ride through their blockades and through the heart of their forces in Taur Drúadan!\\n\\n'But, if we are to succeed in such a bold manoeuvre, we shall have need of your skill.\\n\\n'Scale the beacon-hill Amon Dîn and light the beacon anew! The blaze will distract our foes and teach them well that Rohan does not surrender!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01153",
+      "id": 246419795,
       "en": "The Riders Three can be found at the Field of Onslaught.\\n\\nYou have cleared a passage to the Pelennor Fields for the Riders Three and should now journey to their side.\\n\\n<rgb=#FF0000>Note: You must complete Book 5, Chapter 8 of Volume IV to advance this objective.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01155",
+      "id": 246419797,
       "en": "Burnoth can be found somewhere on the Pelennor Fields.\\n\\nYou have arrived at the Pelennor Fields and should now seek out the Riders Three.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01158",
+      "id": 246419800,
       "en": "A suitable torch can be found on the beacon at Amon Dîn.\\n\\nYou have reached the summit of Amon Dîn and should now light the beacon to distract the Enemy's forces below.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01143",
+      "id": 246419779,
       "en": "Hutha can be found within the War-stead of the King's Men.\\n\\nBurnoth has asked you to speak with Hutha about his plan for crossing through the Enemy's blockade beneath Amon Dîn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf0",
+      "id": 149027568,
       "en": "The Way of the Enemy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56852",
+      "id": 162883666,
       "en": "'There is little time to speak, [placeholder]. Ulf, Hutha, and I shall soon set out into Taur Drúadan and ride southward towards the Pelennor Fields.\\n\\n'Hutha has mapped a swift, but deadly route to the fields, but our ride cannot succeed without your assistance.\\n\\n'Aid Hutha, and then meet us on the battlefield before Minas Tirith. It is there that we shall finally unmask our foe, for better or worse.\\n\\n'I regret that our paths must part for a time, but I shall count on having you at my side on the Fields!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50255",
+      "id": 111477333,
       "en": "Talk to Hutha in Taur Drúadan",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01146",
+      "id": 246419782,
       "en": "Amon Dîn can be found far to the south-east of the War-stead of the King's Men.\\n\\nHutha has asked you to travel to the summit of Amon Dîn and light the extinguished beacon.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56854",
+      "id": 162883668,
       "en": "DNT",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50241",
+      "id": 111477313,
       "en": "Light the beacon of Amon Dîn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Travel to the summit of Amon Dîn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1162",
+      "id": 177082722,
       "en": "As the pyre takes flame, your foes turn their attention to the newly-lit beacon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1179",
+      "id": 177082745,
       "en": "You have arrived at the summit of Amon Dîn and should now light the beacon!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50244",
+      "id": 111477316,
       "en": "Meet the Riders Three at the Field of Onslaught",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50247",
+      "id": 111477319,
       "en": "Talk to Burnoth at the Field of Onslaught",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

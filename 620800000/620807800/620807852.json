@@ -2,64 +2,54 @@
   "id": 620807852,
   "txt": [
     {
-      "id": "0x6e18c43",
+      "id": 115444803,
       "en": "Removed Relic: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd5fbf3",
+      "id": 215350259,
       "en": "Unslotted Relic: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8155f27",
+      "id": 135618343,
       "en": "If you slot this item for advancement it will bind to you.  Are you sure you want to slot the item?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5683ce3",
+      "id": 90717411,
       "en": "Your Relic Forging Has Been a Critical Success!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc126140",
+      "id": 202531136,
       "en": "Item: [placeholder] has just reached level [placeholder].  The item received [placeholder] Legendary Points (Total:[placeholder]).",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3813473",
+      "id": 58799219,
       "en": "Your Legendary Item \\q[placeholder]\\q had more legacies than were allowed on this item.  The excess legacies have been removed and all legendary points have been refunded.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3af9cb5",
+      "id": 61840565,
       "en": "Your Relic Forging Has Succeeded!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xad42783",
+      "id": 181675907,
       "en": "Added Relic: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x554d855",
+      "id": 89446485,
       "en": "Item: [placeholder] requires reforging before it can advance any further.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc6ec4d",
+      "id": 214363213,
       "en": "Your Legendary Item \\q[placeholder]\\q had some damaged legacies and they had to be removed.  All legendary points have been refunded and all relics have been unslotted.  An equivalent item has been placed in your backpack.  Experience from the item has also been given to you as [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

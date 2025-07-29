@@ -2,202 +2,169 @@
   "id": 621095782,
   "txt": [
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "Investigate the corpse found at the hideout in Ningûdu, near Ashâgir, for the missing supplies.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Disappearing Goods",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a4",
+      "id": 246419876,
       "en": "Recover the stolen supplies at the hideout in Ningûdu, near Ashâgir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b8",
+      "id": 162883768,
       "en": "'Ah! You return in one piece. Have you found anything?'\\n\\nYou give Bâzadur the supplies and describe the body of the thief you found. \\n\\nBâzadur's expression turns to a frown.\\n\\n'The man you describe, it matches the description of Surdukas. It must have been him then who took our supplies. He wished to flee this place and this must have been his attempt to do so. He might have succeeded if the kergrim had not gotten to him first.\\n\\n'I will tell the others. Even though he stole from us, I am sorry for his fate. He was a friend. I thank you for all you have done for us this day.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Ah, hello there. I see that you have found your way up to Ashâgir, [placeholder]. I am Bâzadur, the leader of this small group.\\n\\n'This is fortunate timing for your arrival. If you are willing, there is a problem here that needs an outsider's help.\\n\\n'We have but few resources left here so we must make everything last. Unfortunately, some of our supplies have gone missing, and no one will say a word.\\n\\n'Would you investigate this matter for me in secret until we know more? I suggest you start by checking the supplies themselves for any clues as to who the thief might be. You can find the supplies nearby in the camp.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Look for clues near the supply cart",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "Investigate the corpse",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "Found the hideout near Ningûdu",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a7",
+      "id": 246419879,
       "en": "Return the recovered supplies to Bâzadur in the hideout in the Ashâgir camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "Recover stolen supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Look for clues at the nearby shelters",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "Returned to Bâzadur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50289",
+      "id": 111477385,
       "en": "Look for clues at the nearby rubble",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'Did you find out anything while investigating the supplies?'\\n\\nYou tell Bâzadur what you found.\\n\\n'I see. Not much to learn from that, as expected. They could not have vanished!\\n\\n'Might I trouble you to check around for any other clues you might find in the camp? There must be something.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Returned to Bâzadur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Bâzadur needs your help discovering the cause of the supplies going missing from their camp in Ashâgir, and wants you to investigate.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Return to Bâzadur and inform him of what you found while searching the supplies.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Bâzadur has asked for your help investigating the stolen supplies in Ashâgir. He has suggested inspecting the supplies themselves first to see if you can find out anything.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'You have returned. Did you find any new information about the missing supplies?'\\n\\nYou tell Bâzadur about your discoveries around the camp.\\n\\n'Is that so? It seems our thief may have made away with our supplies, and it could have been anyone here. The burned notes lead me to believe they intend to sell our supplies for their own gain.\\n\\n'With the lift broken it would not be an easy task to take the supplies far from here. I know of a hideaway, down near Ningûdu at the bottom of these cliffs, near the water to the north-east. The area is overrun with foul kergrim, though this spot I speak of would be a perfect place to hide.\\n\\n'I ask that you go and investigate the hideout and see if you can learn anything more. If we cannot recover these supplies we may need to abandon this place.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0116",
+      "id": 216727830,
       "en": "Bâzadur suggests you investigate a hideout they know of down near Ningûdu, as there may be more clues to the whereabouts of the supplies there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Return to Bâzadur with the information you have gathered from your investigation in Ashâgir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "Return to Bâzadur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e39",
+      "id": 49286713,
       "en": "Returned the recovered supplies to Bâzadur",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1190",
+      "id": 177082768,
       "en": "Found pieces of burned notes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Bâzadur has asked you to look for additional clues around the hideout in Ashâgir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Return to Bâzadur in Ashâgir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1193",
+      "id": 177082771,
       "en": "Identified the thief",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1196",
+      "id": 177082774,
       "en": "Recovered stolen supplies ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Investigate the supplies in Ashâgir ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Search for a hideout near Ningûdu",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "Found signs of crates that were removed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e115",
+      "id": 262725909,
       "en": "Investigated the supplies in Ashâgir ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a8",
+      "id": 177082792,
       "en": "Found scraps of cloth used to cover the supplies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

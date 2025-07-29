@@ -2,118 +2,99 @@
   "id": 621039871,
   "txt": [
     {
-      "id": "0x9b568a2",
+      "id": 162883746,
       "en": "'I would take a moment more of your time before you depart, [placeholder].\\n\\n'Though our mission to thwart the schemes of Amarthiel and Mordrambor must be our main focus, I sorrow that the shade of my ancestor lingers, burdened by great remorse. There must be something we can do to ease his spirit.\\n\\n'Please, speak with Lord Elrond on my behalf. If anyone among the living knows what can be done, it will be him.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a6",
+      "id": 111477414,
       "en": "Talk to Elrond",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a7",
+      "id": 111477415,
       "en": "Find Lothrandir in Forochel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a5",
+      "id": 162883749,
       "en": "'Back so soon, [placeholder]?'\\n\\nYou explain that Aragorn wishes to find some way to put the shade of Arvedui to rest, and sent you to Elrond for his help.\\n\\n'We are in agreement. I knew King Arvedui in life. He deserves a better fate than to linger in the frozen wastes, tormented by his past. Relieving him of his burden will be no easy task, however.'\\n\\nElrond furrows his brow, deep in thought.\\n\\n'Truthfully, I do not know how best to help him. In my experience, shades of Men often linger in the world because of something unfinished: an oath unfulfilled, an oath broken. Perhaps if you spend time with Arvedui, you will learn why he lingers, and find a way to relieve his burden. To that end, I have a request that might lead to salvation for the fallen king and also thwart the Enemy.'\\n\\nElrond motions to the book on the table, and opens it to a page marked with a piece of tasseled cloth. You see that it contains a list of many dated entries, logging something. The seven-pointed star of Arnor illustrates one of the pages.\\n\\n'As you have seen, Angmar has committed many forces to Forochel, conscripting the local Gauredain into their ranks, sending more soldiers than necessary for the purpose we believed they possessed. They are searching for something, and I have finally found a clue as to what that might be. \\n\\n'This record recovered from Annúminas details significant troop movements from the years 500 to 600 of the Third Age. There, on that page, it states that a large contingent of soldiers and Prince Elendur himself moved an \\qitem of great importance\\q from Ost Forod into the North. It does not declare what this item is, or where precisely it came to rest. I have a suspicion as to what it might be, and if I am correct, it is surely what the Angmarim seek in the frozen wilds of Forochel.\\n\\n'First, I would ask you to seek the Ranger known as Lothrandir. I believe he is still among the Lossoth, and should you encounter the Angmarim in force, I fear you will have need of his sword-arm. Together, bring this information to Arvedui. As the King of Arthedain, he may know where this secret treasure was hidden by the Arnorians all those years ago.\\n\\n'If fate is kind, you will find the treasure before the Angmarim can seize it for their dark masters. If it is kinder still, you will also find a way to put Arvedui's spirit to rest. I wish you luck, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1b5",
+      "id": 24695221,
       "en": "Aragorn is concerned that his ancestor Arvedui lingers still in Middle-earth, haunting the wreck of the Thoroval.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b3",
+      "id": 246419891,
       "en": "Elrond can be found in his library in the Last Homely House.\\n\\nYou should talk to Elrond.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a9",
+      "id": 162883753,
       "en": "'Hello, [placeholder]. What has brought you back to Forochel? Is everything well in Rivendell?'\\n\\nYou explain Elrond's request to find the missing Arnorian treasure before the Angmarim, and to try to put Arvedui's shade to rest.\\n\\n'You bring tidings of high adventure, and it would be a great honour to assist you in finding a lost treasure of the Dúnedain, and to meet King Arvedui himself! We must not tarry here, then, if we are to find it before the Angmarim. Let us travel to the shipwreck of the Thoroval at once!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50250",
+      "id": 111477328,
       "en": "Complete TBD Instance",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01141",
+      "id": 246419777,
       "en": "Lothrandir is with the shade of Arvedui at the shipwreck of the Thoroval.\\n\\nYou should talk to Lothrandir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50252",
+      "id": 111477330,
       "en": "Talk to Lothrandir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8fb9ab4",
+      "id": 150706868,
       "en": "'DNT - Billboard!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b8",
+      "id": 246419896,
       "en": "Lothrandir can be found outside the village of Sûri-kylä in Forochel.\\n\\nYou should find Lothrandir and explain Elrond's request.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56853",
+      "id": 162883667,
       "en": "'Lord Elrond's intuition was correct. King Arvedui was a valuable source of information, but the Angmarim are aware we seek Agoroth as well. How far do they lead us in this race?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50256",
+      "id": 111477334,
       "en": "Complete 'Instance: Dúnedain Past and Present'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf4",
+      "id": 149027572,
       "en": "The One Who Lingers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01148",
+      "id": 246419784,
       "en": "Lothrandir is prepared to travel to the shipwreck of the Thoroval to meet Arvedui.\\n\\nSpeak with Lothrandir at Sûri-kylä to enter 'Instance: Dúnedain Past and Present'.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "DNT ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56859",
+      "id": 162883673,
       "en": "'We will depart for the Thoroval when you are ready.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "DNT - Forochel 3man Intro",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

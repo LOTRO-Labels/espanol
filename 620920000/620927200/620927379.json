@@ -2,106 +2,89 @@
   "id": 620927379,
   "txt": [
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "[placeholder] Supplies extinguished",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "[placeholder] Enemy barricades disabled",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "[placeholder] Traps armed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "[placeholder] Supplies secured by labourers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The enemy has managed to sneak through holes in the culvert and into the deep behind the wall.  Gimli plans to rally a group for Rohirrim to aid him in removing any of the enemy that have managed to flank the defenders on the wall.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e112",
+      "id": 262725906,
       "en": "The tower winch has been destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db1",
+      "id": 24743345,
       "en": "'Any who can fight will do well to follow me. Together we will clear the deep of these Orcs!' ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5021",
+      "id": 225071137,
       "en": "Do not allow labourers to be defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Aid Gimli in removing enemy threats that have managed to flank the defenders on the wall, while others work to rescue supplies from besieged structures within the deep.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db2",
+      "id": 24743346,
       "en": "'We are with you, master dwarf.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "A labourer has been defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db3",
+      "id": 24743347,
       "en": "'Baruk Khazâd! There are enemies behind the wall!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Aid Gimli and his allies in completing their patrol ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "[placeholder] Labourers defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Flanking Foe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d17",
+      "id": 51875095,
       "en": "Gimli has rallied a group of inexperienced soldiers to help in defeating the Orcs who have crept through the culvert in an attempt to flank the wall's defenders. As Gimli advances to secure the Deep, the enemy catapults are causing destruction to the fortifications and stores beyond the wall. Brave labourers have attempted to salvage any supplies within the structures before they are lost in the ongoing siege.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Partial</rgb> Merit Rating.\\n\\n<rgb=#00FF00>Moderate Merit Gain</rgb>\\n* Labourer recovers supplies from store-house\\n\\n<rgb=#FF0000>Moderate Merit Loss</rgb>\\n* Rohirrim Labourer becomes defeated\\n* Rohirrim Cadet becomes defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "[placeholder] Cadets defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

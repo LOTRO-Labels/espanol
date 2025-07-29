@@ -2,142 +2,119 @@
   "id": 621020056,
   "txt": [
     {
-      "id": "0xa5028f7",
+      "id": 173025527,
       "en": "Get into position next to the village gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568810",
+      "id": 190220304,
       "en": "'There are a few goblins milling around out here, but this cannot be all of them. There must be more, and I would bet a crate of honeycakes they must be in that cave behind the village.\\n\\n'Here is what we should do. You go closer, and when you are ready, give the signal. I will shout and roar and draw them from their hiding holes. You then sneak inside the cave, and find out what is really going on here.\\n\\n'That sounds like a plan to me. Does it sound good to you?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028e1",
+      "id": 173025505,
       "en": "<rgb=#FF00FF>Wave</rgb> at Langhár when in position",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011998",
+      "id": 184621464,
       "en": "Langhár is ready to explain her plan to enter the goblin hideout.\\n\\nYou should talk to Langhár.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028e4",
+      "id": 173025508,
       "en": "Enter the cave behind the village",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028e5",
+      "id": 173025509,
       "en": "Investigate the cave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688e6",
+      "id": 190220518,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568800",
+      "id": 190220288,
       "en": "'Hah! A great battle, but these tiny things are no match for a Beorning! Now, tell me what you have learned!'\\n\\nYou tell Langhár of the large number of goblins inside, the takeover of Goblin-town by hobgoblins from Gundabad, and the exile of the Great Goblin.\\n\\n'That has given me much to think about, [placeholder]. Let us move away from the goblins before more come to investigate, and we will find somewhere to think this through.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028e7",
+      "id": 173025511,
       "en": "Eavesdrop upon the Great Goblin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a22",
+      "id": 148970018,
       "en": "This spot is close enough to signal Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568801",
+      "id": 190220289,
       "en": "'Come, let's move.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502819",
+      "id": 173025305,
       "en": "Talk to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028e9",
+      "id": 173025513,
       "en": "Return to Langhár",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a26",
+      "id": 148970022,
       "en": "You have found the Great Goblin and his host",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011972",
+      "id": 184621426,
       "en": "Langhár has drawn the attention of the goblins in Waldfast.\\n\\nYou should sneak behind them and find the cave she mentioned.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a28",
+      "id": 148970024,
       "en": "You should return to Langhár with this information",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011974",
+      "id": 184621428,
       "en": "You should investigate the cave to find evidence of why the goblins are here and how many they number.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011975",
+      "id": 184621429,
       "en": "You have found the Great Goblin and a large number of goblins loyal to him.\\n\\nYou should listen to him speak to his followers to see what you can learn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1665",
+      "id": 126686821,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011976",
+      "id": 184621430,
       "en": "You have learned much about the Great Goblin's situation.\\n\\nYou should return to Langhár and tell her this new information.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1667",
+      "id": 126686823,
       "en": "A horde of goblins has departed Goblin-town, wreaking chaos in their path. We have followed, and come to their new hiding place. Now, we have them cornered. It is time we found out exactly what is going on here.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011963",
+      "id": 184621411,
       "en": "Langhár has asked you to get closer to the cave entrance before she alerts the goblins.\\n\\nYou should get into position, and then <rgb=#FF00FF>wave</rgb> at Langhár to give the signal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1fa3e8",
+      "id": 236954600,
       "en": "Instance: The Great Goblin in Exile",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,76 +2,64 @@
   "id": 620965626,
   "txt": [
     {
-      "id": "0x178d1b1",
+      "id": 24695217,
       "en": "Narvellon has been tasked with keeping Ost Rimmon alight at night but has left his supplies at the various beacons in the region.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01143",
+      "id": 246419779,
       "en": "Narvellon the Beacon-keeper has asked you to gather flint and paraffin from the beacons of the Beacon Hills.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf0",
+      "id": 149027568,
       "en": "Courage and Light",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56852",
+      "id": 162883666,
       "en": "'If only I had looked after the lights of Ost Rimmon as I did the beacons upon their hills! Glánhar wants our lights left burning at night now but we shall go dark as a winking eye, as I left the supplies at the beacons.\\n\\n'If you should venture out, [placeholder], will you visit the beacons and gather the flint and paraffin I left? There's no one else to do it, I'm afraid!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50254",
+      "id": 111477332,
       "en": "Collect paraffin ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1175",
+      "id": 177082741,
       "en": "Collected paraffin ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50256",
+      "id": 111477334,
       "en": "Collect flint ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01148",
+      "id": 246419784,
       "en": "You should return to Narvellon in Ost Rimmon with the lighting supplies that you gathered from the beacons.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1177",
+      "id": 177082743,
       "en": "Collected flint ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50242",
+      "id": 111477314,
       "en": "Return to Narvellon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56841",
+      "id": 162883649,
       "en": "'Why, that will do quite well for keeping the lamps alight. Let us hope that Glánhar's notion is a correct one, and all this light will keep the enemy at bay!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56843",
+      "id": 162883651,
       "en": "'Explore the beacons Halifirien, Calenhad, Min-Rimmon, and Erelas along the Beacon Hills and you'll find some flint and paraffin at every one of them. Why, there might even be some at Nardol and Amon Dîn, in Taur Drúadan.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

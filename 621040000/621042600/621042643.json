@@ -2,136 +2,329 @@
   "id": 621042643,
   "txt": [
     {
-      "id": "0xa502951",
+      "id": 173025617,
       "en": "Polish the Dourhand axes ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf1021",
+      "id": 12521505,
       "en": "'Ugh.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf1022",
+      "id": 12521506,
       "en": "'I surrender.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbf1023",
+      "id": 12521507,
       "en": "'I give up.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502955",
+      "id": 173025621,
       "en": "Talk to the Dourhands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502957",
+      "id": 173025623,
       "en": "Fetch ales for the Dourhands ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e173",
+      "id": 251715955,
       "en": "Bring the food to the Dourhands",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "A group of visiting Dourhands has become very disruptive.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502902",
+      "id": 173025538,
       "en": "Talk to Prince Ingór",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689f1",
+      "id": 190220785,
       "en": "'It would be too easy to cut down each one of these sad excuses for a dwarf. If you were not a trusted ally, [placeholder], there would be blood on this floor today. Remember that, Dourhands.\\n\\n'Now go! Leave Vérnozal and never come back! If I see you again, I will not hesitate to raise my sword. Heed my word as Prince Ingór, of the Zhélruka.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4abe60",
+      "id": 4898400,
       "en": "'Enough of this!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a1",
+      "id": 88473761,
       "en": "'Ha, ha!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4abe61",
+      "id": 4898401,
       "en": "'I should slay you all right here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a2",
+      "id": 88473762,
       "en": "'Good!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d0",
+      "id": 184621264,
       "en": "Polish the Dourhand axes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4abe62",
+      "id": 4898402,
       "en": "'Leave my sight and never return!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x54600a3",
+      "id": 88473763,
       "en": "'What fun!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d3",
+      "id": 184621267,
       "en": "Talk to the Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859573",
+      "id": 226858355,
       "en": "'It would be too easy to cut down each one of these sad excuses for a dwarf.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118d6",
+      "id": 184621270,
       "en": "Fetch ales for the Dourhands.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859574",
+      "id": 226858356,
       "en": "'Did these Dourhands come to test my resolve?!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689a4",
-      "en": "'Hmm, these are much sharper, yes! We feel a little more welcome.\\n\\n'Now, what of some drink? We have been travelling for so long, w",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220708,
+      "en": "'Hmm, these are much sharper, yes! We feel a little more welcome.\\n\\n'Now, what of some drink? We have been travelling for so long, we are all parched! Our throats are dry as the Brown Lands! Bring us some ales, will you?'",
+      "es": ""
+    },
+    {
+      "id": 184621273,
+      "en": "Bring ales to the Dourhand guests.",
+      "es": ""
+    },
+    {
+      "id": 184621184,
+      "en": "Talk to Prince Ingór.",
+      "es": ""
+    },
+    {
+      "id": 239016481,
+      "en": "'What gives you the right to be offered hospitality, to come into our home, and treat us all with disrespect?!'",
+      "es": ""
+    },
+    {
+      "id": 239016482,
+      "en": "'At the very least, why do you have to be so loud?!'",
+      "es": ""
+    },
+    {
+      "id": 239016483,
+      "en": "'Bite your tongue, Dourhand!'",
+      "es": ""
+    },
+    {
+      "id": 84872577,
+      "en": "'A moment, Dourhands!'",
+      "es": ""
+    },
+    {
+      "id": 239016484,
+      "en": "'Enough! How dare you speak ill of Prince Ingór! Prepare for a fight!'",
+      "es": ""
+    },
+    {
+      "id": 162883748,
+      "en": "'Did these Dourhands come to test my resolve?! I have not the time for such fools when the fate of my peoples still hangs upon my decisions each day.'",
+      "es": ""
+    },
+    {
+      "id": 239016485,
+      "en": "'Ugh!'",
+      "es": ""
+    },
+    {
+      "id": 148970468,
+      "en": "Dance with the Dourhands ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 239016486,
+      "en": "'Do not step down to their level my Prince! I beg of you. I am fine and will recover.'",
+      "es": ""
+    },
+    {
+      "id": 173025571,
+      "en": "Dance with the Dourhands ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 148970386,
+      "en": "Polished the Dourhand axes ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 173025575,
+      "en": "Talk to the Dourhands",
+      "es": ""
+    },
+    {
+      "id": 83947969,
+      "en": "'Last I checked, no one owns Gundabad!'",
+      "es": ""
+    },
+    {
+      "id": 173025577,
+      "en": "Fetch the Dourhands some food ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 83947970,
+      "en": "'Now what?! Does our helpful servant [placeholder] not approve?!'",
+      "es": ""
+    },
+    {
+      "id": 148970480,
+      "en": "Fetched the Dourhands some food ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 111477272,
+      "en": "Talk to the Dourhand guests",
+      "es": ""
+    },
+    {
+      "id": 149027352,
+      "en": "Mission: The Zhélruka Clan, Chapter 8",
+      "es": ""
+    },
+    {
+      "id": 148970392,
+      "en": "Fetched ales for the Dourhands ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 190220738,
+      "en": "'Bah, you call this food?!'\\n\\nThe Dourhand looks about and speaks very loudly.\\n\\n'The Zhélruka seem to know nothing about cooking a proper meal! I've eaten better food at a goblin's camp!'",
+      "es": ""
+    },
+    {
+      "id": 148970486,
+      "en": "The Dourhands look ready for a brawl!",
+      "es": ""
+    },
+    {
+      "id": 184621218,
+      "en": "Dance with the Dourhands.",
+      "es": ""
+    },
+    {
+      "id": 148970489,
+      "en": "Prince Ingór is tempted to kill the Dourhands!",
+      "es": ""
+    },
+    {
+      "id": 184621221,
+      "en": "Talk to the Dourhands.",
+      "es": ""
+    },
+    {
+      "id": 173025589,
+      "en": "Witness the events transpire",
+      "es": ""
+    },
+    {
+      "id": 83951809,
+      "en": "'Oh now what is this?!'",
+      "es": ""
+    },
+    {
+      "id": 83951810,
+      "en": "'I've already prepared, fool.'",
+      "es": ""
+    },
+    {
+      "id": 184621224,
+      "en": "Fetch the Dourhands some food.",
+      "es": ""
+    },
+    {
+      "id": 173025592,
+      "en": "Fight the angry Dourhands!",
+      "es": ""
+    },
+    {
+      "id": 83951811,
+      "en": "'You forgot to specify whether the fight would be fair! Ha, ha, ha! Now off with you!'",
+      "es": ""
+    },
+    {
+      "id": 83951812,
+      "en": "'So be it. Axes at the ready!'",
+      "es": ""
+    },
+    {
+      "id": 190220752,
+      "en": "'Ah, these ales quench our thirst indeed! Now then, it is so quiet in here. Where is the liveliness? Come, dance with us as we drink some more!'",
+      "es": ""
+    },
+    {
+      "id": 83951553,
+      "en": "'He looks angry! Better not be at us. Ha, ha, ha!'",
+      "es": ""
+    },
+    {
+      "id": 184621233,
+      "en": "Bring the food to the Dourhands.",
+      "es": ""
+    },
+    {
+      "id": 190220758,
+      "en": "'All this drinking and dancing has made us hungry! Bring us some food or I will start complaining loudly about how unwelcoming you are to great dwarf explorers!'",
+      "es": ""
+    },
+    {
+      "id": 83951554,
+      "en": "'Or what? Will I be scolded by your sorry Prince?! I'm very worried. Ha, ha, ha!'",
+      "es": ""
+    },
+    {
+      "id": 246419719,
+      "en": "Talk to the Dourhand guests.",
+      "es": ""
+    },
+    {
+      "id": 184621236,
+      "en": "Witness the events transpire.",
+      "es": ""
+    },
+    {
+      "id": 162883609,
+      "en": "'Ah, what a nice hall you and the Zhélruka have! We heard about the rules here. You have to greet us as kin and make us feel most welcome! I say then, give us a proper welcoming!\\n\\n'We've been travelling for so long. Look at our axes! They are as dull as an unfavourable [placeholder]. Give our axes a polish, will you?'",
+      "es": ""
+    },
+    {
+      "id": 184621239,
+      "en": "Fight the angry Dourhands!",
+      "es": ""
+    },
+    {
+      "id": 251715937,
+      "en": "Bring ales to the Dourhand guests",
+      "es": ""
     }
   ]
 }

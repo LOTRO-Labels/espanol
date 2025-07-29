@@ -2,52 +2,79 @@
   "id": 621079147,
   "txt": [
     {
-      "id": "0xa502857",
+      "id": 173025367,
       "en": "Give treats to the self-satisfied cat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568926",
+      "id": 190220582,
       "en": "'When my fellow townsfolk and I returned to Lothgobel, the place was lousy with rodents who had grown fat off our food stores. We brought in several cats to help control the problem, and they have done a marvelous job. I made these dried fish treats to thank them but uh, they do not appear to like me very much. Perhaps you could give them out on my behalf? I want them to know how grateful we all are for their contributions to our community.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502858",
+      "id": 173025368,
       "en": "Talk to Old Grathir ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "Tell Old Grathir that you have given out the treats as he asked.\\n\\nOld Grathir can be found near the southern entrance of Lothgobel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a1",
+      "id": 190220449,
       "en": "'Thank you! Oh how I wish those cats liked me....\\n\\n'Their fur looks so soft and fluffy....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568959",
+      "id": 190220633,
       "en": "The cat purrs at your approach and even gets up to rub against your leg. The treats are a welcome surprise and it devours all but one. The last one, it seems, is for you, should you wish to sample one.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a2",
+      "id": 190220450,
       "en": "The cat does not growl as you approach, but it does not seem thrilled for you to disturb its busy day of doing nothing.\\n\\nThe treats do little to improve your standing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5688a4",
-      "en": "The cat does not acknowledge your existence, no",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220452,
+      "en": "The cat does not acknowledge your existence, nor does it acknowledge the presence of the treats you leave for it.\\n\\nIts lack of external desire suggests an inner peace that some might find enviable.\\n\\nBy not acknowledging you, this cat offers wisdom.\\n\\nDo with that what you will.",
+      "es": ""
+    },
+    {
+      "id": 190220454,
+      "en": "It is true that all the cats of Lothgobel have helped control the rodent population, but this cat has accomplished the most. It left trophies of its conquests in the shoes of the townsfolk as proof of its prowess, something that was most certainly appreciated by all.\\n\\nThe cat accepts the treats as its due payment.",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "Cat Treats",
+      "es": ""
+    },
+    {
+      "id": 173025360,
+      "en": "Give treats to the friendly cat",
+      "es": ""
+    },
+    {
+      "id": 126687191,
+      "en": "A local of Lothgobel wants your help distributing treats to cats.",
+      "es": ""
+    },
+    {
+      "id": 173025363,
+      "en": "Give treats to the irate cat",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "Old Grathir has asked you to give treats to the cats around Lothgobel.",
+      "es": ""
+    },
+    {
+      "id": 173025365,
+      "en": "Give treats to the disinterested cat",
+      "es": ""
     }
   ]
 }

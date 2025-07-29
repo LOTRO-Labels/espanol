@@ -2,274 +2,229 @@
   "id": 620918629,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "A Strange Trail",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x52f00e3",
+      "id": 86966499,
       "en": "Find the Orc-corpses to the north",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe150d5",
+      "id": 266424533,
       "en": "Summon Cyneberg to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'And another. Whoever did this is strong, [placeholder]. I hope we can count them a friend....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Cyneberg has given you a whistle to summon her.\\n\\nYou should summon Cyneberg to your side.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d1",
+      "id": 16439761,
       "en": "You gently tell Cyneberg that it would be best to leave, and head back to Forlaw.\\n\\n'You are right. How will we tell Gárwig that there is no hope for Wildermore, [placeholder]?\\n\\n'I do not want to face him after I behaved so foolishly. I was so full of hope! That is done now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The best path can be found south-west of Grimnesberg's crest. Cyneberg can be summoned using the whistle should you become separated.\\n\\nYou should head south-west with Cyneberg to begin your return to Forlaw, and speak with her when she is ready.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d2",
+      "id": 16439762,
       "en": "'Did you kill these Orcs, [placeholder]? You did well -- I did not see them when I came here.'\\n\\nYou tell Cyneberg that it was not you who killed the three Orcs at your feet.\\n\\nCyneberg looks confused, but says nothing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Another pile of Orcs can be found north-west of the first in the eastern High Knolls.\\n\\nYou should investigate the Orcs with Cyneberg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d3",
+      "id": 16439763,
       "en": "'This is terribly strange. Who could be doing this? We have no heroes left in Wildermore.\\n\\n'Are there two of you, [placeholder]?\\n\\n'I think there are more up ahead. Let us follow them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Another pile of Orcs can be found north of the first in the eastern High Knolls.\\n\\nYou should investigate the Orcs with Cyneberg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d4",
+      "id": 16439764,
       "en": "'This was deftly done. It... it reminds me of Thrymm. But it was not he.'\\n\\nCyneberg's voice cracks as she speaks.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Another pile of Orcs can be found north of the first in the eastern High Knolls.\\n\\nYou should investigate the Orcs with Cyneberg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'Who did this, [placeholder]? It is a mystery.'\\n\\nYou cannot help but wonder if Thrymm has returned from the dead, but you keep your thoughts to yourself.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d5",
+      "id": 16439765,
       "en": "'[placeholder]...? Cyneberg! What are you doing here?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "Whoever killed the Orcs is hiding somewhere in the far north-eastern High Knolls.\\n\\nYou should search for whoever killed the Orcs",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad9d6",
+      "id": 16439766,
       "en": "'I cannot believe it! Thrymm! Is it really you?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "Cyneberg is at your side.\\n\\nYou should speak with Cyneberg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0111",
+      "id": 216727825,
       "en": "Another pile of Orcs can be found north of the first in the eastern High Knolls.\\n\\nYou should investigate the Orcs with Cyneberg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae1",
+      "id": 195295969,
       "en": "You have called Cyneberg to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae2",
+      "id": 195295970,
       "en": "Cyneberg did not kill these Orcs, and neither did you...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Summon Cyneberg to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae3",
+      "id": 195295971,
       "en": "You should talk to Cyneberg here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "You should speak with Cyneberg at an ideal resting spot",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "Cyneberg kneels at a pile of slain Orcs in the northern High Knolls.\\n\\nYou should speak with Cyneberg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae4",
+      "id": 195295972,
       "en": "Another cluster of dead Orcs can be found to the north",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Investigate the Orc-corpses to the north-west",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae5",
+      "id": 195295973,
       "en": "You should talk to Cyneberg here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Investigate the Orc-corpses to the north",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae6",
+      "id": 195295974,
       "en": "Cyneberg is reminded of Thrymm by this handiwork...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Find the Orc-corpses to the north",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb4bbe71",
+      "id": 189513329,
       "en": "This is not a good place to stop and talk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Find whoever killed the Orcs",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb4bbe72",
+      "id": 189513330,
       "en": "This is not a good place to stop and talk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae7",
+      "id": 195295975,
       "en": "You should talk to Cyneberg here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75b4bb5",
+      "id": 123423669,
       "en": "This is not a good place to stop and talk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Talk to Cyneberg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb4bbe73",
+      "id": 189513331,
       "en": "This is not a good place to stop and talk",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae8",
+      "id": 195295976,
       "en": "Many more Orcs have been recently killed here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xba3fae9",
+      "id": 195295977,
       "en": "You have found Thrymm! He is alive...battered and bruised, but alive.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe1ef94",
+      "id": 199356308,
       "en": "This is not a good place to talk to Cyneberg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You and Cyneberg have decided that it's time to leave Grimnesberg and head back to Forlaw in defeat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Talk to Cyneberg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3cba3f5",
+      "id": 63677429,
       "en": "You have called Cyneberg to your side",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e115",
+      "id": 262725909,
       "en": "Many more Orcs have been recently killed here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

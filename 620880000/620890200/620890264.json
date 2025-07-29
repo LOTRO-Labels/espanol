@@ -2,310 +2,259 @@
   "id": 620890264,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Mushroom stew, please! One large bowl, thank you...and make it fresh!'\\n\\nThe hobbit stares at you expectantly, looking as if he might attempt to eat anything in sight if you keep him waiting too long.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Thank goodness! I will give this to your customer straight away. It smells lovely!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Ah! There's that recipe.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "Collected the recipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "Ah! There is the beef for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "Added beef to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "You spot the salt, which is the next ingredient for the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3686",
+      "id": 136263302,
       "en": "Added the salt to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3687",
+      "id": 136263303,
       "en": "You spot the water, which is the next ingredient for the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "A patron has asked for some fresh mushroom stew that is customarily served at the Farmers Faire.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the event it is associated with ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3688",
+      "id": 136263304,
       "en": "Added the water to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3689",
+      "id": 136263305,
       "en": "You spot the carrots, which are the next ingredients for the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c50",
+      "id": 84765776,
       "en": "Add the carrots to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c51",
+      "id": 84765777,
       "en": "Find the next ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c52",
+      "id": 84765778,
       "en": "Add the bacon to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c53",
+      "id": 84765779,
       "en": "Find the next ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c54",
+      "id": 84765780,
       "en": "Add mushrooms to the stew ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c55",
+      "id": 84765781,
       "en": "Use the stew-pot to cook the Savoury Mushroom Stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50d6c56",
+      "id": 84765782,
       "en": "Bring the Savoury Mushroom Stew to Daisy Sandyman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Search for the recipe for Savoury Mushroom Stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Collect the recipe for Savoury Mushroom Stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Read the recipe to find the first ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Add beef to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Find the next ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Add the salt to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Find the next ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "Add the water to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c9",
+      "id": 22075081,
       "en": "Find the next ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The recipe for Savoury Mushroom Stew can be found near the oven of Bywater during the Farmers Faire.\\n\\nYou should collect the recipe for Savoury Mushroom Stew and see what it says.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c0",
+      "id": 32729280,
       "en": "Added the carrots to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The recipe for Savoury Mushroom Stew can be found near the oven of Bywater during the Farmers Faire.\\n\\nYou should collect the recipe for Savoury Mushroom Stew and see what it says.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c1",
+      "id": 32729281,
       "en": "You spotted bacon, which is next on the list",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "The recipe for Savoury Mushroom Stew can be found somewhere in the Bywater Farmers Market.\\n\\nYou should read the recipe for Savoury Mushroom Stew and collect the ingredients.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c2",
+      "id": 32729282,
       "en": "Added bacon to the stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "The beef is in Bywater in the Shire, near the Farmers Faire market.\\n\\nYou should collect the beef and add it to the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c3",
+      "id": 32729283,
       "en": "You spot mushrooms! That's the main ingredient.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "The next ingredient for the stew is somewhere in the Farmers Market area of Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c4",
+      "id": 32729284,
       "en": "Added mushrooms to the stew ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced6",
+      "id": 94621398,
       "en": "The salt is near the oven at the Farmers Faire in Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f368c5",
+      "id": 32729285,
       "en": "Made a delicious stew!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced7",
+      "id": 94621399,
       "en": "The next ingredient for the stew is somewhere in the Farmers Market area of Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced8",
+      "id": 94621400,
       "en": "The water is near the well at the Farmers Faire in Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced9",
+      "id": 94621401,
       "en": "The next ingredient for the stew is somewhere in the Farmers Market area of Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced10",
+      "id": 171765008,
       "en": "The carrots are near one of the vendor stalls in Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced11",
+      "id": 171765009,
       "en": "The next ingredient for the stew is somewhere in the Farmers Market area of Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced12",
+      "id": 171765010,
       "en": "The bacon is on a shelf in the meat stall in Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced13",
+      "id": 171765011,
       "en": "The next ingredient for the stew is somewhere in the Farmers Market area of Bywater.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced14",
+      "id": 171765012,
       "en": "Mushrooms can be found by the mushroom tent in Bywater during the Farmers Faire.\\n\\nYou should search for the next ingredient for the stew.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Fresh Savoury Mushroom Stew",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced15",
+      "id": 171765013,
       "en": "The stew-pot can be found near the stove in Bywater during the Farmers Faire.\\n\\nYou should use the stew-pot to cook the Savoury Mushroom Stew for your hungry customer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ced16",
+      "id": 171765014,
       "en": "Daisy Sandyman is at the vendor stall at the Farmers Faire in Bywater.\\n\\nYou should bring the stew you made to Daisy Sandyman.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

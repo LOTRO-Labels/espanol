@@ -2,292 +2,244 @@
   "id": 621044168,
   "txt": [
     {
-      "id": "0xb011ad3",
+      "id": 184621779,
       "en": "The dwarf-tomb contains Angmarim possessed of evil intent.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad4",
+      "id": 184621780,
       "en": "Kyrstig needs your help.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad5",
+      "id": 184621781,
       "en": "It is time to confront Loknashra!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad6",
+      "id": 184621782,
       "en": "You should defeat the dwarf-wights in the tomb.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568828",
+      "id": 190220328,
       "en": "'Our first real mission without Ausma! Finally, a chance to show our mettle! When you're ready, we'll split up and hit all of these tombs at once, clearing out the Angmarim we find inside. This will only work if we clear them at the same time, or else some of the cultists might get away and warn the others. Once each of our tombs is cleared, we are to return to camp straight away! Everyone ready?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad7",
+      "id": 184621783,
       "en": "You should leave the dwarf-tomb.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd84577",
+      "id": 232277367,
       "en": "'Drat! They got away!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad8",
+      "id": 184621784,
       "en": "Kyrstig has pointed out the first tomb on the left in Akhaldarâg as yours.\\n\\nYou should enter the tomb.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028a0",
+      "id": 173025440,
       "en": "Enter the dwarf-tomb",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028a1",
+      "id": 173025441,
       "en": "Clear the tomb of Angmarim",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028a2",
+      "id": 173025442,
       "en": "Talk to Kyrstig",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028a4",
+      "id": 173025444,
       "en": "Confront Loknashra",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028a5",
+      "id": 173025445,
       "en": "Defeat the Dwarf-wights",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028a6",
+      "id": 173025446,
       "en": "Exit the tomb",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d16a7",
+      "id": 126686887,
       "en": "Scout-master Ausma has charged you and her three apprentices with dismantling the Angmarim forces in the Pit of Stonejaws.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd505841",
+      "id": 223369281,
       "en": "'You make it sound so easy, Harbinger.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd85c77",
+      "id": 232283255,
       "en": "'You won't get away with this!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502b21",
+      "id": 173026081,
       "en": "<rgb=#FF0000>The Scout Trio must survive!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e4b737",
+      "id": 132429623,
       "en": "'Good luck everyone! Go Scout Trio! And [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd84b77",
+      "id": 232278903,
       "en": "'Klúso? Molkha? Aren't you supposed to be at camp with Ausma?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1fa234",
+      "id": 236954164,
       "en": "TBD Stonejaws Quest Instance 2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe1fa236",
+      "id": 236954166,
       "en": "Instance: The Apprentices Attack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e4be37",
+      "id": 132431415,
       "en": "'[placeholder]! I need your help!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b91211",
+      "id": 28906001,
       "en": "'Dwarf-scum. I hear you have been looking for me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568853",
+      "id": 190220371,
       "en": "'I need your help over here! I found Loknashra! I can't defeat her by myself, but perhaps the two of us have a chance! Follow me!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e94fc1",
+      "id": 149508033,
       "en": "'That's why we're here. Ausma is gone!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd84977",
+      "id": 232278391,
       "en": "'Gone? Where could she have gone on her own?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd5f5841",
+      "id": 224352321,
       "en": "'The magic of the Frost-horde allows me to command the ice and the cold, but spirits of another sort are very different.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568859",
+      "id": 190220377,
       "en": "'I have a bad feeling about this. We should get back to camp, and quickly!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1bc1211",
+      "id": 29102609,
       "en": "'We have important matters to attend to, Harbinger.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e4b437",
+      "id": 132428855,
       "en": "'You take this one, [placeholder]. Remember to meet me back at camp once the job is done.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e4bc37",
+      "id": 132430903,
       "en": "'Loknashra is here! We must move, now!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1bf1211",
+      "id": 29299217,
       "en": "'Come and stop me, then!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a61211",
+      "id": 27660817,
       "en": "'Or don't, and become my thralls like your ancestors! Haha!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa5028d9",
+      "id": 173025497,
       "en": "Talk to Kyrstig",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x90ed6f",
+      "id": 9497967,
       "en": "'Kyrstig! [placeholder]! Are you here?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9dc6f5d",
+      "id": 165441373,
       "en": "'Different, perhaps, but the concept is the same. You must be unyielding, and bend it to your will.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9dc7f5d",
+      "id": 165445469,
       "en": "'The spirits are attracted to power. Prove your own, and they will obey.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa1293bd",
+      "id": 168989629,
       "en": "'Open a bridge for them, and bid them enter the corpses. It is as simple as that.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ba1211",
+      "id": 28971537,
       "en": "'If I must be unyielding to destroy my enemies, so be it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11999",
+      "id": 148969881,
       "en": "The tomb has been cleared!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa12a3bd",
+      "id": 168993725,
       "en": "'Close your eyes. Feel the presence of the spirits. They are here, awaiting your orders.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa038f5d",
+      "id": 168005469,
       "en": "'Ah, we have guests.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa12b3bd",
+      "id": 168997821,
       "en": "'You are on the cusp of success, my dear pupil.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9dcbf5d",
+      "id": 165461853,
       "en": "'Excellent work.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad0",
+      "id": 184621776,
       "en": "Kyrstig waits to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9dcdf5d",
+      "id": 165470045,
       "en": "'Indeed. I think your new charges will be enough to take care of these two.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011ad1",
+      "id": 184621777,
       "en": "The dwarf-tomb with which you are charged is at TBD.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

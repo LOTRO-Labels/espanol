@@ -2,142 +2,119 @@
   "id": 620949169,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'Please hurry, [placeholder], and fetch the healer! She can be found on the other end of the village. Hurry!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Gather dishes from the hutch",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "The hutch is in the corner.\\n\\nYou should gather dishes from the hutch, and set the table.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "You should set the table for Limril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Set the table for six ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "Limril is in her home in Dínadab in northern Lamedon.\\n\\nYou should offer to help Limril with dinner while she waits for Fuirion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "The table is in Gladion and Limril's home.\\n\\nYou should gather dishes from the hutch, and set the table.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01185",
+      "id": 246419845,
       "en": "Limril is in her home in Dínadab in northern Lamedon.\\n\\nYou should see what else Limril needs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Talk to Limril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'Thank you for the help, [placeholder]. But where are Gladion and Fuirion? Really, now they are dreadfully late.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Find out what the commotion is all about",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "The peace is broken by the sound of the door banging open",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56881",
+      "id": 162883713,
       "en": "'He stumbled to our doorstep from across the farm, limping. Help us! Someone help my brother!\\n\\n'Fuirion, what is wrong? Where are you hurt?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Examine Fuirion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "While waiting for Fuirion to arrive, Limril has asked you to help with dinner.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "You should help by setting the table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a5",
+      "id": 177082789,
       "en": "Fuirion's blood begins to form a pool on the floor, and it is clear that he has sustained a deep slash-wound in his belly",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Offer to help Limril with dinner while she waits for Fuirion to arrive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01190",
+      "id": 246419856,
       "en": "Gladion kneels at the door with his brother in his arms.\\n\\nYou should ask Gladion what happened to his brother Fuirion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'You wish to help with dinner? That is very kind of you, [placeholder]! I do not wish to be an ungracious host, for you earned a rest after today.'\\n\\nYou insist that you are up to the task, and ask what can be done to help.\\n\\n'If you insist, I will not refuse a generous offer. The hutch in the corner -- would you set the table, if you please?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01193",
+      "id": 246419859,
       "en": "Fuirion is at Gladion's doorstep.\\n\\nYou should examine Fuirion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: A Hard-earned Meal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "Limril is in her home in <VILLAGE TBD> in northern Lamedon.\\n\\nYou should offer to help Limril with dinner while she waits for Fuirion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

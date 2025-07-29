@@ -2,64 +2,54 @@
   "id": 620953417,
   "txt": [
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Are you here to help us? Please tell me you are here to help!'\\n\\nYou assure Clothar that you will do what you can, and ask what plagues him.\\n\\n'A bear, a great monstrous thing! We try not to get too close to the forest if we can help it, but sometimes there's no other choice and Adso needs us to go under the eaves for some reason or another. Well, yesterday afternoon I was just within the trees when I saw the huge shape of a bear lumbering toward me! It was big, even bigger than you, and the very sight filled me with dread!\\n\\n'If you think you can do something about this demon in bear-shape, for that it certainly must be, let me know and I will show you where I saw the beast!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Talk to Clothar Sandheaver and he will show you where he saw the great bear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'All right, come with me. I will show you where I saw the great beast of a bear. But if we see it again, you need to protect me. Do you agree? Because otherwise I will stay right here, thank you very much!'\\n\\n<rgb=#FF0000>This is a solo quest and cannot be completed with a fellowship.</rgb>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Talk to Clothar Sandheaver at Adso's Camp",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Clothar Sandheaver is at Adso's Camp. You have helped him track down the great bear that frightened him, and helped the bear to find comfort as well.\\n\\nClothar now knows you are of Beorn's line, and is having a difficult time adjusting to that knowledge.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Clothar Sandheaver says the folk at Adso's camp have been terrified by a large bear rampaging through the Old Forest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "#-1:[placeholder]'I have heard tales of skin-changers, but I never thought I'd meet one! I think I expected them to feel scarier, or more wild, but you seem like a pleasant enough #-1:{lass[f]|fellow}. I just thought you were really tall.\\n\\n'You showed some real compassion for that bear. I do not think most adventurers would have done that: talking to it instead of killing it, I mean. Sometimes talking is harder, but I'd say the effort is worthwhile if it saves the life of an innocent.\\n\\n'Well, skin-changer. You opened my eyes! I think that is enough self-discovery for one day. Now I could do with a slice of blueberry pie and a nap!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Speech of Animals",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Clothar Sandheaver is at Adso's Camp, and wants you to investigate the great bear that frightened him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

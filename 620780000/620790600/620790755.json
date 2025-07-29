@@ -2,70 +2,59 @@
   "id": 620790755,
   "txt": [
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Return the five items to Foxglove Tunnelly",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Oh hello there, you look like a helpful sort. Perhaps you could help me with a small problem I've had! I've been enjoying the festival so much that I seem to have misplaced some of the things I came with.\\n\\n'Could you find them for me? They are about to start the dance competition, and I must run. Here is a list of my missing items!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You found them! I knew you would! I told you that you looked like a helpful person! Thank you so much.\\n\\n'I will gladly repay you with a coin for the festival. Enjoy the summer games!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Have you found any of my missing things, [placeholder]? I am at a loss!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Did you find my missing things yet? I really really need them! Please look at the list I gave you to remind yourself of what they are.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Too Much Festival",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Foxglove Tunnelly has misplaced some items while celebrating the Lithe Festival.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Find all items ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Foxglove Tunnelly has given you a list of her missing items to remind you exactly what they are. Foxglove can be found near the Party Tree in the Shire.\\n\\nFoxglove Tunnelly would like you to find her missing items. She knows she left them somewhere in the Shire, but she doesn't know where.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Found item ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Having found all of her items, return to Foxglove Tunnelly at the Party Tree in the Shire.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

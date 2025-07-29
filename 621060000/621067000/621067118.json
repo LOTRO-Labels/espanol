@@ -2,28 +2,104 @@
   "id": 621067118,
   "txt": [
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Bring the <rgb=#FF00FF00>scroll of minor scholar lore</rgb> to the novice scholar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c471",
+      "id": 205636721,
       "en": "'It should not be that difficult to craft the scroll of minor scholar lore. Equip your <rgb=#FF00FF00>scholar's tools</rgb> and study the items that I provided you, then scribe the insight that you gain to make the scroll.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Scholarship tab in the craft UI and find the proper recipe.\\n\\nScholarship requires no facilities in early tiers, but will require a study for more advanced recipes.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc41c472",
+      "id": 205636722,
       "en": "'First, ensure your <rgb=#FF00FF00>scholar's tools</rgb> are equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you, and begin your studies.'\\n\\n<rgb=#FF00FF00>Ingredients for Scholars are normally purchased from vendors, found near ruins, inside chests, or sometimes upon sentient enemies. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852591",
-      "en": "'If you’re looking for the master smith they’re over- Oh, you’re here to speak with me? Oh! That’s exciting. I’m not exactly one of the m",
-      "es": "",
-      "es (fem)": ""
+      "id": 8725905,
+      "en": "'If you’re looking for the master smith they’re over- Oh, you’re here to speak with me? Oh! That’s exciting. I’m not exactly one of the most popular profession chiefs. Well, I am pleased to meet you and looking forward to helping you get started.\\n\\n'Here, take this <rgb=#FF00FF00>crate</rgb> full of materials. I’ll walk you through how to use what’s inside.'\\n\\n<rgb=#FF00FF00>Scholar vendors sell ingredients and recipes that are a vital part of any Scholar's training and continued work.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263297,
+      "en": "You have made a scroll of minor scholar lore",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Scholars study the ancient and not-so-ancient past to divine the secrets that were kept there. They can craft many wondrous treasures by learning of the past that can result in potions, oils, and scrolls which can enhance you and your fellows.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipes and deliver the correct items outlined in this quest.\\n\\nYou will need to execute the minor scholar lore recipe and deliver the minor scholar lore scroll. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 8725888,
+      "en": "'When you're done scribing your scroll of minor scholar lore, bring it to me for inspection.'",
+      "es": ""
+    },
+    {
+      "id": 8725913,
+      "en": "'Let me see what you have done.'\\n\\nShe looks over the scroll.\\n\\n'Nicely done. I can find no fault with the information that you have scribed on this page.\\n\\n'This is the first step towards what I hope will be a lifelong dedication of yours.'",
+      "es": ""
+    },
+    {
+      "id": 218649169,
+      "en": "'Some may argue that we need more farmers and smiths than we do scholars, but you and I are not so shortsighted. Speak to Meleri, our chief scholar. They will help you with the fundamentals of the craft.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "You should speak with Meleri to learn more about scholarship.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "The novice scholar provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute the scroll of minor scholar lore recipe. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Scholars are normally purchased from vendors found near ruins, inside chests, or sometimes upon sentient enemies. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "Meleri, the novice scholar, provided you with the ingredients necessary to create a scroll of minor scholar lore.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Scholarship tab in the craft UI and find the proper recipe.\\n\\nScholarship requires no facilities in early tiers, but will require a study for more advanced recipes.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the scroll of minor scholar lore!</rgb> It is time to show your handiwork to your mentor, Meleri.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with Meleri in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 63183940,
+      "en": "'Speak with Meleri, the scholar trainer.'",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided with ingredients",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the novice scholar to collect the aged scrap of text and early Third Age relic",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a scroll of minor scholar lore",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Introduction to Scholarship",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Using the ingredients you received, craft a <rgb=#FF00FF00>scroll of minor scholar lore</rgb> through the <rgb=#FF00FF00>crafting panel</rgb>",
+      "es": ""
     }
   ]
 }

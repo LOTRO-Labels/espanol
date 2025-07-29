@@ -2,268 +2,224 @@
   "id": 620829434,
   "txt": [
     {
-      "id": "0x28ae8fe",
+      "id": 42658046,
       "en": "Avoidance Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e91b78",
+      "id": 82385784,
       "en": "Stealth Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6954c24",
+      "id": 110447652,
       "en": "Skill Recovery Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d646a5",
+      "id": 148260517,
       "en": "Range Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xedd1489",
+      "id": 249369737,
       "en": "Inventory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc5a2607",
+      "id": 207234567,
       "en": "Crafting Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd030043",
+      "id": 218300483,
       "en": "Max Target Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8a6d212",
+      "id": 145150482,
       "en": "Armour Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x946fe74",
+      "id": 155647604,
       "en": "Pip Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbfe20f3",
+      "id": 201203955,
       "en": "Vendor Discount",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78be4b3",
+      "id": 126608563,
       "en": "Miscellaneous Bonuses",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd4bac04",
+      "id": 223063044,
       "en": "Threat Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d57d74",
+      "id": 148209012,
       "en": "To-Hit Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8d92fb2",
+      "id": 148451250,
       "en": "Power",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe15cc44",
+      "id": 236309572,
       "en": "Pulse Count Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a0ff85",
+      "id": 94437253,
       "en": "Application Chance Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x201487e",
+      "id": 33638526,
       "en": "Attack Duration Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x425ac95",
+      "id": 69577877,
       "en": "Effect Override",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x278d884",
+      "id": 41474180,
       "en": "Pet Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d3c0c",
+      "id": 126696460,
       "en": "Will",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81855e4",
+      "id": 135812580,
       "en": "Vital Cost Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34bc313",
+      "id": 55296787,
       "en": "Virtue Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa441055",
+      "id": 172232789,
       "en": "Damage Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe289413",
+      "id": 237540371,
       "en": "Fellowship Manoeuvre Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2d733c",
+      "id": 221082428,
       "en": "Critical Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe2a1a5",
+      "id": 199401893,
       "en": "Morale",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x11af763",
+      "id": 18544483,
       "en": "Hobby Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5e28be",
+      "id": 241051838,
       "en": "Heal Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xea55062",
+      "id": 245715042,
       "en": "Item Wear Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78a2c85",
+      "id": 126495877,
       "en": "Fate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78a1245",
+      "id": 126489157,
       "en": "Hope Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc20e6c3",
+      "id": 203482819,
       "en": "Induction Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4278ab9",
+      "id": 69700281,
       "en": "AI Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7272c55",
+      "id": 120007765,
       "en": "Resistance Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86dda99",
+      "id": 141417113,
       "en": "Immunities",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2edb1b4",
+      "id": 49131956,
       "en": "Speed Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8534cde",
+      "id": 139676894,
       "en": "Mitigation Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa9dc102",
+      "id": 178110722,
       "en": "Absorption Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8bdbf84",
+      "id": 146653060,
       "en": "Might",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x99e6819",
+      "id": 161376281,
       "en": "Agility",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4928d55",
+      "id": 76713301,
       "en": "Effect Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x481bd89",
+      "id": 75611529,
       "en": "Vitality",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e7539e",
+      "id": 31937438,
       "en": "Regeneration Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4648ebe",
+      "id": 73699006,
       "en": "Effect Duration Bonus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

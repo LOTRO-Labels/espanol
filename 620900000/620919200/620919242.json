@@ -2,70 +2,59 @@
   "id": 620919242,
   "txt": [
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'If you plan to hunt any Wargs, make sure to collect their tails, for they make excellent trophies. Tails from larger Wargs are of course preferable.\\n\\n'Good luck to you, [placeholder]!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Collect Warg-tails ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Collected a Warg-tail ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "Warg-packs have moved onto the lake's edge of the Whitshaws, killing the moose that roam there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Return to Dudoc in Forlaw",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa32",
+      "id": 149027378,
       "en": "Whitshaws: Tails as Trophies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'Are you ready to ride to the Whitshaws? The Warg-packs await your vengeance!'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56890",
+      "id": 162883728,
       "en": "'Ah! Thank you for these trophies. They will fetch a handsome price.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "<rgb=#FF0000>Completing Wildermore's Recovery will cancel this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "The Warg-infested area of the Whitshaws can be reached by speaking with Dudoc in Forlaw.\\n\\nYou should travel to the plains of the Whitshaws and defeat Warg-packs there, collecting the tails of larger Wargs as you go.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "Dudoc is in Forlaw.\\n\\nYou should return to Dudoc.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

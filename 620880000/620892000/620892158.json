@@ -2,16 +2,14 @@
   "id": 620892158,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance Finder",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8376782",
+      "id": 137848706,
       "en": "You have reached level 10 and may now use the Instance Finder. Instance Finder will work in the background, looking for an available fellowship with instance or skirmish for you to join.\\n\\nThere are 3 tabs in the Instance Finder that perform different functions:\\n\\n<rgb=#00FF00>Simple</rgb> - Selects a random instance and helps fill your fellowship. Grants bonus rewards. <rgb=#FFFF00>Shift+F</rgb> to open the Simple tab.\\n<rgb=#00FF00>Advanced</rgb> - Lets you pick specific instances and helps fill your fellowship. Grants bonus rewards based on how many instances you pick.\\n<rgb=#00FF00>Specific</rgb> - Lets you launch an instance instantly with your current fellows. No bonus rewards granted. <rgb=#FFFF00>Control+J</rgb> to open the Specific tab.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

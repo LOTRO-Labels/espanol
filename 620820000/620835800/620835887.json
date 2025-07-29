@@ -2,70 +2,59 @@
   "id": 620835887,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'The Orcs of Moria are numerous, [placeholder], and have become bolder than ever in recent days. Some of them have even managed to pass the border of the Wood, though none of them will ever come again out of Lothlórien.\\n\\n'The sharp eyes of the Galadhrim are quick to discern passage of the Orc-hosts, and any Orc so found cannot expect to live for long. But there are so many of the vile creatures that the arrows of the Galadhrim will be in short supply before much longer.\\n\\n'Look for Orc corpses along the border of the Golden Wood, east of here, and recover arrows from their bodies. Do not get too near the border, for the Galadhrim may shoot you from hiding if they do not know you! Stray not too near to the border if you value your life.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Very good, [placeholder]. The Elf-arrow that kills more than one Orc is a lucky arrow indeed.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Orcs that stray too near the borders of Lórien are slain by arrows from hidden Elves who guard this land. Travel east to the border of the Golden Wood and recover arrows from the Orc corpses so they may be used again. Be wary of getting too near the border, or you may be shot by the hidden Galadhrim!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You have not recovered enough arrows from the Orcs.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Lucky the Arrow that Kills Twice",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Celegúien has asked you to recover arrows of the Galadhrim archers that have already been used to slay Orcs on the outskirts of the Golden Wood.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Recovered arrows from Orc corpses ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Recover arrows from Orc corpses near the border of Lórien ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Orc corpses are strewn along the north and south borders of Lórien, east of Echad Andestel.\\n\\nCelegúien has asked you to find the bodies of Orcs slain by arrows along the outskirts of Lórien, and warned you against getting too close to the border. She wants you to recover the arrows so that they may be used again against the Orcs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring Elf-arrows to Celegúien",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Celegúien is in Echad Andestel, the camp along the banks of Nimrodel, west of the border of Lórien.\\n\\nYou have recovered arrows from the slain Orcs along the border of Lórien, and should bring them now to Celegúien.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

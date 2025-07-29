@@ -2,160 +2,134 @@
   "id": 620832369,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Are you ready to go, [placeholder]? Let us remove ourselves from the storm.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You have done well, [placeholder]: not only to fulfill my instructions, but also in dispatching the Orcs!\\n\\n'Look at this! Though each of these runes was struck directly by a bolt of lightning from the heavens, the only marking upon the stones remains the rune I carved on each of them before giving them to you: the rune for \\qthunder-bolt.\\q\\n\\n'Can you need any further proof than this that there is power in the way we describe the natural world? Let us return to the Inn, [placeholder], and we can further discuss what this means as we descend.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: An Eye in the Storm",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'You have not brought me the rune-stones?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Placed rune-stones on flat stones upon Weathertop's summit ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Place the three rune-stones I have given you upon the flat stones on the summit of Weathertop. Once you have placed all three, you must wait for them each to be struck by lightning.\\n\\n'Why do you doubt that this is possible, [placeholder]? Do you deny that runes have some connexion with the natural world?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You should collect the rune-stones now that they have all been struck with lightning",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "The stone still smokes from the impact of the lightning, but the rune remains the only marking",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Techeryn is standing on the path that winds up to the summit of Weathertop.\\n\\nTecheryn is waiting to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Three flat stones can be found on the summit of Weathertop.\\n\\nTecheryn has asked you to place three rune-stones on flat stones on the summit of Weathertop, and to wait for each of them to be struck by lightning.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Techeryn has assured you that lightning will strike all three of the rune-stones you have placed on the summit of Weathertop, and you are not to return to her until it does.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Lightning has struck each of the three rune-stones you placed on the summit, and you should now collect them all again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "Techeryn has come to the summit of Weathertop, and is waiting to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xafea351",
+      "id": 184460113,
       "en": "'Look for suitable stones on the summit, but beware of prowling Orcs!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xafea352",
+      "id": 184460114,
       "en": "'[placeholder], over here!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Techeryn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Place rune-stones on flat stones upon Weathertop's summit ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Wait for lightning to strike all three of the rune-stones",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Collect rune-stones ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Bring rune-stones to Techeryn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have come with Techeryn to Weathertop, where a tremendous storm swirls around the summit, to unravel some of the mystery surrounding runes and their connexion to the natural world.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf3ac9f1",
+      "id": 255511025,
       "en": "You hear harsh voices above the storm: Orcs have come to the summit!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf3ac9f2",
+      "id": 255511026,
       "en": "Lightning strikes the south-west rune-stone!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf3ac9f3",
+      "id": 255511027,
       "en": "Lightning strikes the north-east rune-stone!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf3ac9f4",
+      "id": 255511028,
       "en": "Lightning strikes the south-east rune-stone!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I have given you three stones, [placeholder], upon which I have inscribed a rune. I want you to climb to the summit of the hill and place them on three flat stones at the very top. You must then wait, Rune-keeper, for lightning to strike each of the rune-stones.\\n\\n'Why the dismayed expession, [placeholder]? You doubt this will happen? I am confident that it will.\\n\\n'Be wary, for I have seen evidence of Orcs prowling in these parts of late.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

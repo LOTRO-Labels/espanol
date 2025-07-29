@@ -2,136 +2,114 @@
   "id": 621079475,
   "txt": [
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "The carving can be found on a tree to the south-west of Alagrant, in the Blackroot Vale.\\n\\nSarnir spied Egnir making a carving into a tree outside Alagrant. You should find the carving and examine it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d19",
+      "id": 51875097,
       "en": "One of Lord Duinhir's most skilled bowmen, Egnir, has unexpectedly taken leave of his duties in Morlad.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0115",
+      "id": 216727829,
       "en": "Egnir can likely be found in Alagrant, in the Blackroot Vale.\\n\\nUidor has asked you to find Egnir, one of Lord Duinhir's most skilled bowmen, after he took an unexpected leave of his duties in Morlad.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01198",
+      "id": 246419864,
       "en": "Sarnir can be found in Alagrant, in the Blackroot Vale.\\n\\nYou have found a carving reading 'E+D', but it is unclear why Egnir defaced it. You should return to Sarnir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50295",
+      "id": 111477397,
       "en": "Find Egnir in Alagrant",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b6",
+      "id": 177082806,
       "en": "You see no sign of Egnir among the hunters of Alagrant...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Sarnir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Talk to Calennen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01189",
+      "id": 246419849,
       "en": "Calennen can be found in Alagrant, in the Blackroot Vale.\\n\\nHaving found no sign of Egnir, you should talk to the hunters of Alagrant and learn if he passed through the hamlet on some errand. You should talk to Calennen.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "'It has been some time, [placeholder]! I mean no insult, but I did not expect you to return to the Vale.\\n\\n'What business brings you to Alagrant?'\\n\\nYou ask Sarnir if he spoke to a man named Egnir and if he knows where Egnir meant to go after leaving Alagrant. You inform him that Egnir is remiss in his duties and must return to Morlad.\\n\\n'Ah, yes, Egnir was here for a brief time. He told me he had a matter to attend to in the woods just outside Alagrant, but he would not say more of it. I must confess, my curiosity got the better of me, so I followed him at a great distance. I spied him carving something into one of the trees just to the west of Alagrant, but I dared not interrupt him and I made my way back to Alagrant before his work was finished.\\n\\n'I did speak to Egnir when he returned, and he said that he was going to meet someone, but I cannot remember the name of the man he mentioned. It started with an 'L', but... what was it?\\n\\n'I haven't been back to see his handiwork in the woods, so why don't you find out what he was carving? In the meantime, I'll try to remember that man's name.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'What can I help you with, [placeholder]?'\\n\\nYou ask Calennen if a man named Egnir came to Alagrant.\\n\\n'Egnir, you say? Yes, a man by that name did pass through the other day, but he left not long after he arrived. I must admit, I didn't take the time to speak with him. He had a grim look about him, and it seemed to me that he would not welcome a conversation.\\n\\n'Even so, Sarnir tried to talk with him. It seemed a bit one-sided, but I did hear Egnir answer him on a few occasions. Why don't you ask Sarnir if he knows where Egnir has gone?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a1",
+      "id": 246419873,
       "en": "The defaced carving can be found on a tree to the south-west of Alagrant, in the Blackroot Vale.\\n\\nYou have spotted the carving on a nearby tree outside Alagrant, but it has been defaced. You should examine it.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Find the carving on a tree outside Alagrant",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a4",
+      "id": 177082788,
       "en": "You spot what appears to be a defaced carving on a nearby tree",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Sarnir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "'Might I trouble you with a more private matter, [placeholder]?\\n\\n'One of my bowmen, Egnir, has taken an unexpected leave of his duties here in Morlad. It is not like him, at least not as he was before he set off for the War with Lord Duinhir, but now... and it pains me to say it: I can scarcely recognize him. Before he left, few could contest that he was one of Lord Duinhir's most skilled bowmen—only equaled by the Lord himself and his two sons, Duilin and Derufin. When Egnir returned, I saw in his eyes a sorrow not unlike that of Lord Duinhir and Lady Rosfin, but I do not know why it has taken hold of him. I have asked him, but he will not answer... and now he has gone so far as to leave Morlad.\\n\\n'Do not misunderstand, my friend. I would not see him punished, but I worry for him... and I worry that he may not return to us at all.\\n\\n'From what I've heard, Egnir was last seen travelling southward toward Alagrant. Will you seek him out and ask him to come home to Morlad?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1190",
+      "id": 177082768,
       "en": "Although the carving has been defaced by deep slashes, it still clearly reads: 'E+D'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "The Wayward Bowman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50289",
+      "id": 111477385,
       "en": "Examine the defaced carving",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'Well, were you able to find it?'\\n\\nYou tell Sarnir that you found a carving on a nearby tree, but its appearance has been marred by several, deep slashes hewn into the tree's bark. However, despite being defaced by Egnir, you tell Sarnir that it still clearly read: 'E+D'.\\n\\n'Defaced? Perhaps I was mistaken. Maybe it was carved some time ago then, by another's hand or even Egnir's own. As you describe it, it seems to me a sort of lovers' mark, but I say some sorrow must lay heavy upon Egnir's heart. For what other reason would he travel so far from Morlad to try to rid himself of it?\\n\\n'I suppose the 'E' is meant to refer to Egnir, but 'D' could refer to countless people in the Vale. One thing is for certain, and that is that it does not refer to Dírion over there—I don't believe he and Egnir have ever exchanged a single word!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Sarnir can be found in Alagrant, in the Blackroot Vale.\\n\\nCalennen recalls that Egnir visited Alagrant, but left after a short time. He thinks Sarnir might know more about Egnir's whereabouts. You should talk to Sarnir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

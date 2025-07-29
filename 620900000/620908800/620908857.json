@@ -2,286 +2,239 @@
   "id": 620908857,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I know not what dark machinations that man has laid for my people, but his presence here fills me with dread.\\n\\n'I am certain this is not the last we shall see of him, but Snowbourn shall stand prepared against any terrors that come for us. In this, I shall not falter.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Come, let us allow my father his rest. Are you ready to depart this place?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: The Father of the Sutcrofts",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "A chill fills the air as a Man in the garb of Mordor approaches...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "As the last Orc falls to the ground, a moment of peace returns to Dagred's grave",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Fastred is standing just outside his father's gravesite with Framferth.\\n\\nFastred wishes to speak to you about his people and his father's legacy.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Fastred is walking through his father's gravesite.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Crúmgam stands at the eastern side of Dagred's Grave.\\n\\nThe darkening of the sky has heralded the arrival of a fierce Man of Mordor, Crúmgam. You and Fastred should confront this Man.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Fastred is standing outside Dagred's Grave.\\n\\nHaving defeated the Orcs brought to his father's grave by Crúmgam, you should return to Snowbourn with Fastred.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d01",
+      "id": 50154753,
       "en": "'You will hear my words - '",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Fastred",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d02",
+      "id": 50154754,
       "en": "'Such arrogance... Fastred, you would do well to heed my warning, lest you find your ruin even more quickly.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Walk with Fastred",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d03",
+      "id": 50154755,
       "en": "'My warning is this... you shall flee these lands, and never return.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Confront Crúmgam",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d04",
+      "id": 50154756,
       "en": "'I shall bring your lands...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Fastred",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d05",
+      "id": 50154757,
       "en": "'I shall bring your people...'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "<rgb=#FF0000>Fastred must not be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d06",
+      "id": 50154758,
       "en": "'I shall bring your FAMILY... to ruin!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd4d07",
+      "id": 50154759,
       "en": "'It shall... and when it does, dread will consume you and my Lord shall reign over the charred remains of your land!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5401",
+      "id": 55464961,
       "en": "'This is my father's place of rest, [placeholder]. Let me take a moment.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5402",
+      "id": 55464962,
       "en": "'Father... I shall avenge you, in this you can trust. No Orc will escape my spear, my blade, or my wrath.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdf59a9f",
+      "id": 234199711,
       "en": "'Stay your tongue, wretch.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5403",
+      "id": 55464963,
       "en": "'The Sutcrofts are a lush land, [placeholder], but they are also a place of great loss to my people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5404",
+      "id": 55464964,
       "en": "'My father, Dagred, was slain mere months ago on these fields, and it is for this reason alone I stand before you as Reeve of these lands.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5405",
+      "id": 55464965,
       "en": "'In years past, Éomund, father of Éomer, also met his end here... near the path to the East Wall.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5406",
+      "id": 55464966,
       "en": "'Regardless of my quarrels with Éomer, Éomund's legacy remains in the Sutcrofts. My father told me much of him in my youth....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5407",
+      "id": 55464967,
       "en": "'My father named me after Fastred, a great Prince of Rohan. I can only hope my legacy endures as his does....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b52c71",
+      "id": 129313905,
       "en": "'I am certain that is not the last of them, but perhaps that filth will allow me to finish airing my thoughts this time.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Fastred wants to speak to you of his father, Dagred, the past Reeve of the Sutcrofts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34e5408",
+      "id": 55464968,
       "en": "'I... hold, what is this chill that rips at my heart? Something horrible has found us here.... Show yourself!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b52c72",
+      "id": 129313906,
       "en": "'As I was saying, Éomer wishes me to cede control of the Sutcrofts and retreat across the Entwash with my people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x234e861",
+      "id": 37021793,
       "en": "'We have lost so much, and yet, Éomer asks of me to forfeit all and abandon these lands.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b52c73",
+      "id": 129313907,
       "en": "'That will not happen. My father, Dagred, would have never stood for such a foolhardy plan.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x234e862",
+      "id": 37021794,
       "en": "'Does he think me weak? No... only a fool would make such a claim!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b52c74",
+      "id": 129313908,
       "en": "'If war is to come to my land, I shall die an honourable death at the hands of my foes before I show those wretches any quarter!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x234e863",
+      "id": 37021795,
       "en": "'To suffer as we have already and then surrender to our foes... that is a show of weakness I will not endure!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x234e864",
+      "id": 37021796,
       "en": "'Do you smell that, [placeholder]? Orc-filth comes for us... Ready your arms!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x643f861",
+      "id": 105117793,
       "en": "'We enter a deciding time, [placeholder]. The order has fallen to abandon my lands.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x643f862",
+      "id": 105117794,
       "en": "'However, you know as well as I that Rohan cannot abide such a charge. The Orcs will not stop even if we do... there is no appeasing their master.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6fbe301",
+      "id": 117170945,
       "en": "'The voice of Mordor will not be heard in my lands!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6fbe302",
+      "id": 117170946,
       "en": "'Speak, before my patience runs thin!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6fbe303",
+      "id": 117170947,
       "en": "'You frighten me not, invader. I shall not be moved, so what then?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6fbe304",
+      "id": 117170948,
       "en": "'You will never wrest the Sutcrofts from my people.... Our strength shall never falter!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x336a30f",
+      "id": 53912335,
       "en": "'Such hopeful thoughts do not suit you, Fastred, son of Dagred....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I come here often for peace, [placeholder]... though I seldom find it.\\n\\n'The Orcs of these lands are relentless, yet... they find a far more dangerous foe in me than I them.\\n\\n'You have much still to learn of my people and the troubles that come to the Sutcrofts. Come, walk with me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

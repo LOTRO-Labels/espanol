@@ -2,40 +2,34 @@
   "id": 620789310,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "Test quest event timers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "after talking to me, a timer will start.  when the timer expires talk to me again",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Event Timer Test",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Simple quest to test quest event timers",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Talk to the quest barrel again",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Wait 5 minutes for the timer to end",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

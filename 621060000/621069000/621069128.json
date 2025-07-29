@@ -2,364 +2,304 @@
   "id": 621069128,
   "txt": [
     {
-      "id": "0x6a50293",
+      "id": 111477395,
       "en": "Defend against the final assault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1191",
+      "id": 177082769,
       "en": "<rgb=#FF0000>Faeldor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1193",
+      "id": 177082771,
       "en": "<rgb=#FF0000>Faeldor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1197",
+      "id": 177082775,
       "en": "<rgb=#FF0000>The Mírdan warriors at the north gate have been defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'We have stood fast in the face of the Enemy, but this respite will not last.\\n\\n'Sauron's forces have encircled Caras Gelebren, and try as they might, the armies of Gil-galad and Elrond have not yet been able to pierce them and come to our aid.\\n\\n'I weep for all those we have lost, and I pray that their sacrifices were not in vain.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Faeldor can be found at the northern gates of Caras Gelebren.\\n\\nYou have successfully defended against the third assault on Caras Gelebren, but the forces of the Enemy vastly outnumber you. You should talk to Faeldor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1199",
+      "id": 177082777,
       "en": "<rgb=#FF0000>Faeldor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'It is as we feared—the Enemy walks among his servants at last. I am told that he still guises himself in the form of Antheron, but the evil in his heart struggles to conceal itself upon his visage.\\n\\n'Sauron has ceased his attack for but a moment, but it will not be long before his forces are upon us again.\\n\\n'Defend against the forces of the Enemy and keep them from breaching the inner gates of Caras Gelebren. Fall back if you must, for we cannot bear the loss of any more of our warriors. In the meantime, I shall prepare our final defences within the walls.\\n\\n'If the time should come that the Enemy himself breaches the city, we shall make our stand there—upon the very steps of the House of the Mírdain!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'You must go! Flee by secret ways, lead the others north, and do not look back!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "<rgb=#FF0000>Do not allow the Mírdan warriors at the north gate to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a1",
+      "id": 111477409,
       "en": "<rgb=#FF0000>Do not allow the Mírdan warriors at the south gate to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56889",
+      "id": 162883721,
       "en": "'You know of Caras Gelebren? We can help improve your rewards? Let us chat.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'We have held them at the gates thus far, but I do not think it will last. The Enemy knows we have no escape—he toys with us!\\n\\n'Yet a cornered foe is not one with which to be trifled. It will be as Lord Celebrimbor said. We will make our stand together before the House of the Mírdain and cast the Enemy from Eregion!\\n\\n'You must tell Lord Celebrimbor that we cannot hold the gates for much longer. Do not worry for me! I'll follow as soon as I am able, and we will stand together before the end!\\n\\n'Go!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Celebrimbor can be found at the House of the Mírdain at the easternmost reaches of Caras Gelebren.\\n\\nFaeldor has asked you to tell Celebrimbor that the forces of the Enemy will soon breach the inner gates of Caras Gelebren. You should talk to Celebrimbor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Alas for Caras Gelebren! Alas for the Mírdain! Alas that it should come to this!\\n\\n'I do not doubt Faeldor's words: the gates will not hold. We must defend the House from the forces of the Enemy. Sauron must not find that which he seeks!\\n\\n'As soon as the other warriors have fallen back, we'll stand to—'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "The Enemy has breached the southern gates of Caras Gelebren.\\n\\nYou must hold fast against the fourth assault and aid Celebrimbor in the defence of the House of the Mírdain.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a4",
+      "id": 111477412,
       "en": "<rgb=#FF0000>Do not allow Celebrimbor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a6",
+      "id": 111477414,
       "en": "<rgb=#FF0000>Do not allow Celebrimbor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Talk to Faeldor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a8",
+      "id": 111477416,
       "en": "<rgb=#FF0000>Do not allow Celebrimbor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Talk to Celebrimbor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01182",
+      "id": 246419842,
       "en": "The Enemy has overrun the gates of Caras Gelebren.\\n\\nYou must hold fast against the final assault and aid Celebrimbor in the defence of the House of the Mírdain.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "<rgb=#00FF00>You have defended against the first assault upon Caras Gelebren</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "<rgb=#00FF00>You have defended against the second assault upon Caras Gelebren</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a8",
+      "id": 177082792,
       "en": "<rgb=#FF0000>A horn blares as the Enemy renews the assault on Caras Gelebren!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "<rgb=#00FF00>You have defended against the third assault upon Caras Gelebren</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "<rgb=#00FF00>The Enemy's champion has been defeated!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "<rgb=#FF0000>Do not allow Faeldor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "<rgb=#FF0000>Celebrimbor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3686",
+      "id": 136263302,
       "en": "<rgb=#FF0000>The fires within The Prancing Pony have consumed it.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "<rgb=#FF0000>Do not allow Faeldor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Caras Gelebren, the Silver Bastion, was once the capital of Tham Mírdain and the jewel of Eregion. Alas, it was brought to ruin long ago when Sauron, seeking to lay claim to the Rings of Power, gathered his vast armies and destroyed all of Eregion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "<rgb=#00FF00>You have defended against the fourth assault upon Caras Gelebren</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b6",
+      "id": 111477430,
       "en": "<rgb=#FF0000>Do not allow the Mírdan warriors at the north gate to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "<rgb=#FF0000>Do not allow Faeldor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "<rgb=#00FF00>You have defended against the final assault upon Caras Gelebren</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01194",
+      "id": 246419860,
       "en": "The forces of the Enemy have overrun the city, and though you have triumphed over one of the Enemy's champion, Caras Gelebren is doomed.\\n\\nYou should stand with Celebrimbor against the Enemy.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01197",
+      "id": 246419863,
       "en": "The Enemy's champion has been defeated, but the day is not yet won.\\n\\nYou should talk to Celebrimbor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Listen to Celebrimbor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Celebrimbor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Defend against the first assault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Defend against the second assault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Defend against the third assault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Defeat the Enemy's champion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "<rgb=#FF0000>Do not allow Celebrimbor to be defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c8",
+      "id": 22075080,
       "en": "The Prancing Pony must survive the battle",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Celebrimbor is leading the defence of Caras Gelebren against the armies of the Enemy.\\n\\nYou should talk to Celebrimbor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "After destroying the lower city, the Enemy has renewed the assault on Caras Gelebren.\\n\\nYou must defend against the first assault and allow Celebrimbor to prepare the final defences of the House of the Mírdain.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "The first assault has been broken, but the forces of the Enemy continue to advance upon Caras Gelebren.\\n\\nYou must hold fast against the second assault.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "The second assault has been broken, but the forces of the Enemy continue to advance upon Caras Gelebren.\\n\\nYou must hold fast against the third assault.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced5",
+      "id": 94621397,
       "en": "You have broken the final assault upon Caras Gelebren, but the Enemy has sent one of his champions to ensure the doom of Caras Gelebren.\\n\\nYou must defeat the Enemy's champion.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Defend Caras Gelebren from the Enemy",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Celebrimbor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1182",
+      "id": 177082754,
       "en": "<rgb=#FF0000>The Mírdan warriors at the south gate have been defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1183",
+      "id": 177082755,
       "en": "<rgb=#FF0000>The Mírdan warriors at the north gate have been defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1185",
+      "id": 177082757,
       "en": "<rgb=#FF0000>Celebrimbor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1187",
+      "id": 177082759,
       "en": "<rgb=#FF0000>Celebrimbor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1189",
+      "id": 177082761,
       "en": "<rgb=#FF0000>Celebrimbor has fallen!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Doom of Caras Gelebren",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Defend against the fourth assault",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

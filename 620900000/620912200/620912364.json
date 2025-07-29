@@ -2,64 +2,54 @@
   "id": 620912364,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Ah, a friendly face in this dark wood. My Lord Thranduil sent myself and several other scouts into this part of the wood to investigate the increased stirring of the Great Spiders.\\n\\n'We found this place overrun, but were unable to locate their queen. We decided to separate in order to cover more territory, but it proved too dangerous. I barely escaped, and I fear my companions have been captured.\\n\\n'Please, search the cocoons along the twisting paths and see if you can find them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Spiders and Flies",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Many of Thranduil's scouts sent into Southern Mirkwood have gone missing, likely captured by the spiders.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Found all captured Elves in cocoons ([placeholder]/13)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f2f756",
+      "id": 32700246,
       "en": "'At last, I am free! I must return to Thranduil's Hall!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Limgarag",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Talk to Limgarag at the entrance to the Scuttledells.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Find all captured Elves in cocoons ([placeholder]/13)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Find and release all the Elves captured in cocoons.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

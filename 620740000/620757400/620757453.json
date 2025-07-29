@@ -2,148 +2,124 @@
   "id": 620757453,
   "txt": [
     {
-      "id": "0x6495065",
+      "id": 105468005,
       "en": "Team 2",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7495065",
+      "id": 122245221,
       "en": "Team 1",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b67825",
+      "id": 28735525,
       "en": "You may enter a maximum of three solo instances per day.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe78437e",
+      "id": 242762622,
       "en": "You are unable to join the instance.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f94ce4",
+      "id": 33115364,
       "en": "You cannot enter this instance while in a raid.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe8d1365",
+      "id": 244126565,
       "en": "You do not meet the requirements.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x62d979e",
+      "id": 103651230,
       "en": "Are you sure you want to leave this instance?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1aa6fd7",
+      "id": 27946967,
       "en": "Leave Now",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdd28124",
+      "id": 231899428,
       "en": "You are in a queue and will be teleported in a moment.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x277ee15",
+      "id": 41414165,
       "en": "You may not enter this encounter more than once an hour.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x496a040",
+      "id": 76980288,
       "en": "You cannot enter this instance while in a group.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7e2a7eb",
+      "id": 132294635,
       "en": "Exceeded allowed number of skirmishes per week.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc93b95e",
+      "id": 211007838,
       "en": "Are you sure you want to end this cinematic?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7b18cb5",
+      "id": 129076405,
       "en": "You may enter up to [placeholder] instances per [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7eb093c",
+      "id": 132843836,
       "en": "Do you want to travel to your fellowship?\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x53830d5",
+      "id": 87568597,
       "en": "You have been selected to join [placeholder] for [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5fa6b87",
+      "id": 100297607,
       "en": "Your private encounter will shutdown in #1:[placeholder] #1:{minute[1]|minutes}.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf90c2c4",
+      "id": 261145284,
       "en": "Your fellowship has started Private Encounter [placeholder]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a61dc3",
+      "id": 27663811,
       "en": "You have too many players in your group for this instance. Max players [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4295f44",
+      "id": 69820228,
       "en": "You cannot enter while your party is locked in combat.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf88600",
+      "id": 16287232,
       "en": "[placeholder]\\nYou may enter another instance in [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc0b705",
+      "id": 197179141,
       "en": "You may not enter this encounter more than once a day.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9752f82",
+      "id": 158674818,
       "en": "You will be removed from the encounter in [placeholder] seconds.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb862cd5",
+      "id": 193342677,
       "en": "Unfellowed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

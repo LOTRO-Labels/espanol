@@ -2,22 +2,89 @@
   "id": 621079439,
   "txt": [
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "Alagrant can be found to the south of Morlad, Tingobel can be found to the east of Morlad, Sardol can be found far to the south-west of Morlad near Tarlang's Crown, and Lancrath can be found far to the south-east of Morlad near Tarlang's Neck, in the Blackroot Vale.\\n\\nMalthellam has asked you to deliver word of King Elessar's gratitude to the people of the Blackroot Vale. You should travel to the hamlets of Alagrant, Tingobel, Sardol, and Lancrath.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
-      "en": "'Welcome back to Alagrant, [placeholder]. To what do I owe this visit?'\\n\\nYou inform Calennen that you have come on behalf of King Elessar to deliver a message to the people of Alagrant. Calennen calls over the other inhabitants of Alagrant and steps back to allow you to speak. You offer your sincere gratitude to the people of Alagrant, and a few among them appear heartened by your words while others appear entirely uninterested. You apologize on behalf of King Elessar for the severe edicts during the War, including the brief suspension of their hunts by order of Malthellam, and a few people in the crowd grumble in affirmation. As your speech concludes, the remaining crowd disperses.\\n\\n'I appreciate your word",
-      "es": "",
-      "es (fem)": ""
+      "id": 228284041,
+      "en": "'Welcome back to Alagrant, [placeholder]. To what do I owe this visit?'\\n\\nYou inform Calennen that you have come on behalf of King Elessar to deliver a message to the people of Alagrant. Calennen calls over the other inhabitants of Alagrant and steps back to allow you to speak. You offer your sincere gratitude to the people of Alagrant, and a few among them appear heartened by your words while others appear entirely uninterested. You apologize on behalf of King Elessar for the severe edicts during the War, including the brief suspension of their hunts by order of Malthellam, and a few people in the crowd grumble in affirmation. As your speech concludes, the remaining crowd disperses.\\n\\n'I appreciate your words, my friend, and I think many in the Vale would find them a comfort. However, whether the King visits us or not is not of terrible concern to many of us here in Alagrant. Although we are all thankful that that terrible War is ended, it is no secret that we were sheltered from the worst of its horrors. We are simple hunters, after all. If King Elessar wishes to offer his gratitude to us, though, I would not refuse it. Perhaps he can visit Alagrant himself when next he wishes to see the Blackroot Vale!'",
+      "es": ""
+    },
+    {
+      "id": 216727829,
+      "en": "Malthellam can be found outside his home in Morlad, in the Blackroot Vale.",
+      "es": ""
+    },
+    {
+      "id": 111477392,
+      "en": "Deliver word of King Elessar's gratitude to the people of Alagrant",
+      "es": ""
+    },
+    {
+      "id": 111477394,
+      "en": "Deliver word of King Elessar's gratitude to the people of Tingobel",
+      "es": ""
+    },
+    {
+      "id": 162883729,
+      "en": "'Hail! What business do you have in Tingobel? Has the Lord sent you to check on our progress?'\\n\\nYou inform Drabnir that you have come on behalf of King Elessar to deliver a message to the people of Tingobel. Drabnir summons the other inhabitants of Tingobel over to you and gestures for you to speak. You offer your sincere gratitude to the people of Tingobel, and they appear somewhat heartened by your words. You make certain to mention that the hardships that Tingobel, in particular, endured during the War of the Ring have not been forgotten to Gondor and that King Elessar mourns those who were slain by the Orcs of the White Mountains. After you finish speaking, the crowd murmurs in assent and disperses.\\n\\n'I know, for my part, that many here will appreciate the King's words. You see, I lived in Tingobel before the War, and it was a great pain upon my heart to learn what became of it while I served with Lord Duinhir in the defence of Minas Tirith. I know firsthand what battles we fought and what sacrifices we made during the War, and I know well the role that King Elessar played in securing this newfound peace for Gondor. I was there, [placeholder], but many of these folk were not. It is important that they know that Gondor remembers them and that the King works in their best interests.\\n\\n'I thank you for your visit on the King's behalf, [placeholder]. There is much work to be done still in Tingobel, but we shall see it to its end!'",
+      "es": ""
+    },
+    {
+      "id": 111477396,
+      "en": "Deliver word of King Elessar's gratitude to the people of Sardol",
+      "es": ""
+    },
+    {
+      "id": 162883731,
+      "en": "'Oh, hello! I haven't seen you in quite some time, [placeholder]. I'll have to tell Sarnir that you're back! What brings you to Sardol?'\\n\\nYou inform Mellien that you have come on behalf of King Elessar to deliver a message to the people of Sardol. Mellien gathers the other inhabitants of Sardol, introduces you as an emissary of the King, and gestures for you to speak. You offer your sincere gratitude to the people of Sardol, and they appear to be heartened by your words. You apologize on behalf of King Elessar for the severe edicts during the War, including the brief suspension of their hunts by order of Malthellam, and for the failure to make safe the road through Tarlang's Crown. At the mention of Tarlang's Crown, a few hushed voices whisper to each other in the crowd. As you finish your remarks, the inhabitants of Sardol offer you their thanks.\\n\\n'I had no idea you'd become an emissary of King Elessar, my friend. What an honour! It is good to know that the King has not forgotten us, and that he was thoughtful enough to send someone who was a great help to us during the War. Like many others in the Vale, we lost some of our young men in the War, for they were among Lord Duinhir's company when he marched to Minas Tirith. Your words have soothed some of our hurts, but only time can heal what remains. But I would not lay such things at your feet or at those of the King—it is the enemies of Gondor who slew our bowmen, and the King has made certain that many of them have been repaid.\\n\\n'I must warn you, though. There are still some unsavoury folk lurking along the road through Tarlang's Crown, but it is not like it was... not like when that so-called Heir of Castamir, Azruthor, first set his encampment upon it. It is good to see you again, [placeholder], and you are always welcome among us.'",
+      "es": ""
+    },
+    {
+      "id": 111477398,
+      "en": "Deliver word of King Elessar's gratitude to the people of Lancrath",
+      "es": ""
+    },
+    {
+      "id": 162883733,
+      "en": "'Ah, [placeholder]. What an unexpected return! What business brings you to Lancrath?'\\n\\nYou inform Osbenn that you have come on behalf of King Elessar to deliver a message to the people of Lancrath. Osbenn calls for the other inhabitants of Lancrath and they gather about you as you begin to speak. You offer your sincere gratitude to the people of Lancrath, and while some appear to be heartened by your words, a few others seem dismissive of your presence in the Blackroot Vale. You apologize on behalf of King Elessar for the hardships that Lancrath endured during the War, including accepting the refugees of Tingobel after it was sacked by the Orcs of the White Mountains. At the mention of Tingobel, a few in the crowd grumble in protest. After you finish your remarks, the crowd disperses.\\n\\n'I am afraid gratitude alone is little comfort to those who have lost their sons in the War. Not to mention, you have forgotten another matter entirely—that of the Sleepless Dead. When the King summoned them, they followed him past Lancrath. Do you have any idea how scared our children were? How heavy that dread laid upon the hearts of our elders? No? Short of banishing the last of the Dead, there is little else that troubles us here now that the War is ended. If that authority is King Elessar's alone, then I ask why he has not used it for the good of his people! Forgiveness or no, what further use could those Dead Men have to Gondor? They endanger us by their very presence, so I must believe that King Elessar deems our lives a worthy cost.'\\n\\nOsbenn pauses.\\n\\n'Forgive me, [placeholder]. I apologize for my harsh manner, but you must understand that not all is well simply because Gondor has won the War. As always, you are welcome in Lancrath, but King Elessar has much still to prove to us!'",
+      "es": ""
+    },
+    {
+      "id": 162883712,
+      "en": "'At last you return, [placeholder].\\n\\n'What had the folk of Alagrant, Tingobel, Sardol, and Lancrath to say of King Elessar's gratitude? I hope they were a more welcoming sort than you encountered here in Morlad!'\\n\\nYou tell Malthellam that the inhabitants of the Blackroot Vale were largely accepting of King Elessar's gratitude, but that the people of Lancrath, in particular, have taken issue with the choices of King Elessar.\\n\\n'I see. I commend you for taking on such a task, my friend. It is a difficult thing to stand before people and speak on behalf of another, knowing that words alone will not satisfy them. Always there are questions you cannot answer, fears you wish you could comfort, and promises that you cannot make—knowing you may not fulfil them. As Steward of the Vale, I am no stranger to being put in such a position, but for one to speak with the voice of the King carries even greater expectations. I do not envy you!\\n\\n'It shall be some time before Lord Duinhir is able to return to his duties, [placeholder]. In the meantime, I shall try my best to serve in his stead.'",
+      "es": ""
+    },
+    {
+      "id": 24695161,
+      "en": "After learning that King Elessar will not visit the Blackroot Vale, many of its people believe they have been cast aside and forgotten, left only to mourn those they lost in the War of the Ring.",
+      "es": ""
+    },
+    {
+      "id": 228284034,
+      "en": "'Much has changed since last you visited the Vale, my friend. The War exacted a heavy toll upon us, and many of our bowmen did not return from their journey to Minas Tirith.\\n\\n'Morlad has borne the greatest loss in the Vale, with many of its sons being slain in the War, and in especial, the Lord's sons: Duilin and Derufin. They were beloved among the people of Morlad, and it is a great sorrow that neither of them will be heir to the Lordship of the Vale. Between the news that King Elessar would not come to the Vale and of the baseless rumours that Lord Duinhir slew an emissary of the Haradrim in Minas Tirith, the people of Morlad believe that the Blackroot Vale has come to be known as a place of disrepute—a place of low-born criminals not worthy of the King's attention. Such a thing cannot be true, of course!\\n\\n'After all, King Elessar was swift to pardon the Lord when the true culprit was identified, but alas, voices carried through Minas Tirith and out into Gondor. That is another matter, though.\\n\\n'If you have come on behalf of King Elessar, then let us continue your work. It is true that you are an emissary of King Elessar, but more importantly, you are held in high regard among many people in the Vale. Your presence could do much to ease their misgivings in the aftermath of the War, [placeholder].\\n\\n'I would ask that you travel to the hamlets of Alagrant, Sardol, and Lancrath to deliver word of King Elessar's gratitude to their people. Oh, and Tingobel. It has been rebuilt since last you were in the Vale, and its people would be pleased to see you again.\\n\\n'May you find good fortune in this errand, [placeholder]. Let us hope that peace is closer than it seems!'",
+      "es": ""
+    },
+    {
+      "id": 126754721,
+      "en": "The Vale Left Behind",
+      "es": ""
+    },
+    {
+      "id": 225071142,
+      "en": "Talk to Malthellam in Morlad",
+      "es": ""
+    },
+    {
+      "id": 51875096,
+      "en": "TBD",
+      "es": ""
     }
   ]
 }

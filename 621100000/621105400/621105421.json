@@ -2,124 +2,104 @@
   "id": 621105421,
   "txt": [
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'Ah, yes I could use the help, much as it shames me to say it. These legs have borne strides enough for three men. I have been blessed to work this land for many years, but now the years feel much heavier on my bones than they once did. I am glad for the aid.\\n\\n'You can start by gathering fruit from the orchard. Beware of the zizani - every year they grow fiercer and seemingly larger. Anything you can do to reduce their number would be greatly appreciated. After that there is some grain that is ready for harvesting in the northern field.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e00",
+      "id": 49286656,
       "en": "Give the harvested oranges to Zilêndu, the Ambarûli farmer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Harvest oranges ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "Harvested oranges ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Defeat zizani ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "Give the harvested grain and oranges to Zilêndu, the Ambarûli farmer.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "Harvest oranges and defeat zizani at Burukíri.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "Defeated zizani ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01187",
+      "id": 246419847,
       "en": "Harvest grain in the northern field near the orchard in Ambarûl.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Harvest grain in the northern field for Zilêndu ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56896",
+      "id": 162883734,
       "en": "'You move with an enviable speed, that much is sure. I will add these to what my farm-hands gathered, and we will distribute them to Iridír on the next waggon. Thank you for your aid. This harvest would have taken us days without it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Speak with Mizâdi in Iridír",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "Grain harvested ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Mizâdi has asked you to assist the local Ambarûli in procuring supplies to feed the soldiers gathered in Iridír.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'I am heartened. A queen without an army is just a deluded fool, smitten with false confidence and capricious lies. But this responsibility cuts both ways. I must provide for those under my care. I am grateful to you, for making that responsibility a bit lighter for me this day.\\n\\n'I know these food-stocks will aid us in our fight against this Bârshud.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "Speak with Zilêndu at Burukíri",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01191",
+      "id": 246419857,
       "en": "Speak with Mizâdi in Iridír.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Feeding the War Effort",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'A hungry army is half-defeated before they take the battlefield. There is plenty of food in the hills of Ambarûl, but with most of the able-bodied taking up arms to defend her, there are few hands left to pick and harvest the fruits of the soil.\\n\\n'Would you go to the local orchard and help the farmers there gather grain and fruit to feed our army? Every bit helps to keep morale high and minds sharp, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "Speak with Zilêndu, a farmer in Ambarûl. Zilêndu can be found at Burukíri, an orchard north of Iridír.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

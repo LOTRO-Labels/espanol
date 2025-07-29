@@ -2,70 +2,144 @@
   "id": 621077329,
   "txt": [
     {
-      "id": "0xeb011a0",
+      "id": 246419872,
       "en": "Overcome with emotion, Limril has become upset and Gladion is concerned for her.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: A Quiet Meal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'I am so embarrassed, [placeholder]. I asked you to set the table for six... because when last you were here, we were expecting Fuirion...'\\n\\nShe falls silent. After a moment she sighs unhappily and wrings her hands.\\n\\n'But he will never join us for a meal again, will he? It will take some time to become used to that idea, if such a thing is even possible. I do not know if it is, but... we will try.\\n\\n'I will talk to Gladion. For now, let us try to enjoy our meal.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Greet Gladion as he comes home.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Talk to Gladion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5683",
+      "id": 228284035,
       "en": "'I am glad you would share a meal with us once again, [placeholder]. I know you will insist on helping, so I will not try to dissuade you.\\n\\n'You recall where we keep the dishes? The hutch in the corner -- would you set the table for six, if you please?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Talk to Limril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b1",
+      "id": 177082801,
       "en": "You should set the table for Limril",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5687",
+      "id": 228284039,
       "en": "'Let us try and enjoy a quiet meal. I cannot pretend it will be easy... but we must do what we can to keep living, to keep surviving, no matter the family and the friends we have lost.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Wait for the meal to begin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50289",
-      "en": "T",
-      "es": "",
-      "es (fem)": ""
+      "id": 111477385,
+      "en": "Talk to Limril",
+      "es": ""
+    },
+    {
+      "id": 51875089,
+      "en": "Limril has asked you to help with dinner.",
+      "es": ""
+    },
+    {
+      "id": 177082809,
+      "en": "The peace is broken by the sound of the door opening",
+      "es": ""
+    },
+    {
+      "id": 162883734,
+      "en": "'Thank you for the help, [placeholder]. Gladion should be home any moment now.'",
+      "es": ""
+    },
+    {
+      "id": 111477392,
+      "en": "Gather dishes from the hutch",
+      "es": ""
+    },
+    {
+      "id": 246419844,
+      "en": "Limril is in her home in Dínadab in northern Lamedon.\\n\\nYou should offer to help Limril with dinner while she waits for Gladion.",
+      "es": ""
+    },
+    {
+      "id": 246419845,
+      "en": "Limril is in her home in Dínadab in northern Lamedon.\\n\\nYou should see what else Limril needs.",
+      "es": ""
+    },
+    {
+      "id": 111477394,
+      "en": "Set the table for six ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 216727832,
+      "en": "The hutch is in the corner.\\n\\nGather dishes from the hutch, and set the table.",
+      "es": ""
+    },
+    {
+      "id": 216727833,
+      "en": "The table is in Gladion and Limril's home.\\n\\nGather dishes from the hutch, and set the table.",
+      "es": ""
+    },
+    {
+      "id": 111477399,
+      "en": "Talk to Limril",
+      "es": ""
+    },
+    {
+      "id": 225071140,
+      "en": "Offer to help Limril with dinner",
+      "es": ""
+    },
+    {
+      "id": 246419856,
+      "en": "You have helped prepare for dinner, and should now wait for the meal to begin.",
+      "es": ""
+    },
+    {
+      "id": 246419859,
+      "en": "Overcome with emotion, Limril has become upset and Gladion is concerned for her.",
+      "es": ""
+    },
+    {
+      "id": 162883713,
+      "en": "'Good evening everyone.\\n\\n'[placeholder], I'm glad you can join us tonight.'",
+      "es": ""
+    },
+    {
+      "id": 177082789,
+      "en": "Fuirion's blood begins to form a pool on the floor, and it is clear that he has sustained a deep slash-wound in his belly",
+      "es": ""
+    },
+    {
+      "id": 162883762,
+      "en": "'Will you please speak with Limril for me, and learn what has so upset her?'",
+      "es": ""
+    },
+    {
+      "id": 262725910,
+      "en": "Help Limril by setting the table",
+      "es": ""
     }
   ]
 }

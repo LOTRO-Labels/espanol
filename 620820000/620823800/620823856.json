@@ -2,100 +2,84 @@
   "id": 620823856,
   "txt": [
     {
-      "id": "0x8507461",
+      "id": 139490401,
       "en": "'Stay alert! Orc-spies could be anywhere.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4022f51",
+      "id": 67252049,
       "en": "'An Orc-spy! Don't let him get away!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Sporr has fallen, and the spy has escaped",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4022f52",
+      "id": 67252050,
       "en": "'A job well done! Tell Sigdan what a help you were!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have accompanied Sporr on his patrol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Sigdan has asked you to help his cousin Sporr scout some of the approaches to the Chamber of the Cross-roads for any Orc activity.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Do you think we will be ready by the time the Orcs attack us? I do not know if we will... if the Orcs knew how vulnerable we are now, they would not delay. They would attack us within the very hour!\\n\\n'My cousin Sporr has taken it upon himself to scout the approaches to the Chamber of the Cross-roads; if the Orcs have any plans to attack soon, he will see the signs and can warn us in time.\\n\\n'Please go help him with his patrol. I am anxious for Sporr to have some assistance, should any unsavoury foe meander across his path.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Sporr is waiting outside the Chamber of the Cross-roads.\\n\\nSigdan's cousin Sporr is to scout the approaches to the Chamber of the Cross-roads, looking for any Orcs that might be preparing to attack.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You did well, and I am pleased that you were there with Sporr when he ran into trouble! My cousin is valiant and brave, but some challenges are simply too much for a single dwarf.\\n\\n'Thank you, my friend. Perhaps we will be ready in time after all.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Sigdan is in the Chamber of the Cross-roads at the southern entrance to Durin's Way, north of the Great Delving.\\n\\nYou have accompanied Sporr on his patrol, scouting for Orcs on the approaches to the Chamber of the Cross-roads, and should report now to Sigdan.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'My cousin Sporr has taken it upon himself to scout the approaches to this chamber for Orcs. Help him with his patrol, [placeholder], and I will be in your debt.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You did well, [placeholder], and I am pleased that you were there with Sporr when he ran into trouble! My cousin is valiant and brave, but some challenges are simply too much for a single dwarf. Two dwarves, however, can handle anything! Ha ha!\\n\\n'Thank you, my friend. Perhaps we will be ready in time after all.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085254",
+      "id": 218649172,
       "en": "'If you are keen of eye and strong of arm, I would welcome your company on my patrol, [placeholder]. Let us scout for any sneaking Orcs that might think to gain some advantage by spying on the approaches to the Chamber of the Cross-roads.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Sporr",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Accompany Sporr on his patrol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Chapter 1: Scouting the Approaches",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

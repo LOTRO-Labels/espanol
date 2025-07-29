@@ -2,70 +2,59 @@
   "id": 620859646,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'While I feel some remorse for hunting the beasts from which the Uch-lûth draw their herds, our quest is urgent, and we must have provisions to complete it. Therefore, I must ask you to go forth once more and hunt the dun oxen of the Windfells.\\n\\n'Again, do not harm the domesticated herds of the Uch-lûth. I should hope to avoid angering the Uch-lûth as much as possible.'\\n\\n<rgb=#FF0000>If you accept this quest, you will not be able to take the quest A Matter of Doubt.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Thank you, [placeholder]. This meat will go far in provisioning the Grey Company.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'There are plenty of oxen in the Windfells, [placeholder]... the few we hunt should not harm the livelihood of the Uch-lûth.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'The meat you have provided us thus far will not be enough, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Feeding the Company -- Repeatable",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Rangers of the Grey Company are running short of provisions and seek ways to supplement their remaining supplies.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected ox-meat ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect ox-meat ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Dun oxen can be found throughout the Windfells.\\n\\nAndreg has asked you to once more hunt the dun oxen of the Windfells, but warned you not to harm the herds of the Uch-lûth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring ox-meat to Andreg at Echad Saeradan",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Andreg is at Echad Saeradan in the Windfells of Enedwaith.\\n\\nYou should bring the ox-meat you collected to Andreg.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

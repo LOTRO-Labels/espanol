@@ -2,1030 +2,859 @@
   "id": 620757418,
   "txt": [
     {
-      "id": "0xd926b31",
+      "id": 227699505,
       "en": "Opens the Social panel to the Instance Grouping tab, filtering optional parameters.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe1b2b1",
+      "id": 266449585,
       "en": "usage:  /ignore add <name>     : Adds a player to your ignore list.\\n        /ignore remove <name>  : Removes a player from your ignore list.\\n        /ignore list         : Displays the players you currently have ignored.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd926b32",
+      "id": 227699506,
       "en": "usage: /lfi \\[ min level | max level \\] | \\[ filter \\]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfe1b2b2",
+      "id": 266449586,
       "en": "       manages and displays your ignore list.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x228db05",
+      "id": 36231941,
       "en": "usage: /music [ true | false | on | off ]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38b0455",
+      "id": 59442261,
       "en": "usage: /bug\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36d27e1",
+      "id": 57485281,
       "en": "usage: /accountinfo\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36d27e2",
+      "id": 57485282,
       "en": "Display your current account status information.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x51e1521",
+      "id": 85857569,
       "en": "usage: /petattack (on current selection)\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x51e1522",
+      "id": 85857570,
       "en": "\\tCommands all of your currently active pets to attack your\\n\\tcurrently specified target\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x37d1d81",
+      "id": 58531201,
       "en": "usage: /raidshout <text to shout>\\n  1)Must be in a Raid Group\\n  2)Must be the leader of the Raid\\n  3)Must supply a text string.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x37d1d82",
+      "id": 58531202,
       "en": "This command will shout out a set of text from the raid leader to the rest of the group.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd0b6c1",
+      "id": 198227649,
       "en": "usage: /broadcast <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd0b6c2",
+      "id": 198227650,
       "en": "Sends a message to the broadcast channel in your area.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd680c91",
+      "id": 224922769,
       "en": "usage: /follow \\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd680c92",
+      "id": 224922770,
       "en": " ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f3b0e1",
+      "id": 133411041,
       "en": "usage /resetui",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f3b0e2",
+      "id": 133411042,
       "en": "This command is used to force all standard UI elements to be displayed again if they had been disabled by a plugin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4df8dc1",
+      "id": 81759681,
       "en": "Opens the Social panel to the Who tab, filtering optional parameters.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4df8dc2",
+      "id": 81759682,
       "en": "usage: /who \\[ min level | max level \\] | \\[ filter \\]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e1",
+      "id": 145990881,
       "en": "usage: /userchat <channel-name> <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8b3a4e2",
+      "id": 145990882,
       "en": "Sends a message to the specified user chat channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd95821",
+      "id": 215570465,
       "en": "usage: /leavechannel <channel-name>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81b96f1",
+      "id": 136025841,
       "en": "usage: /trade <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd95822",
+      "id": 215570466,
       "en": "This will leave the specified user chat-channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81b96f2",
+      "id": 136025842,
       "en": "Sends a message to the trade channel in your current area.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce78b1",
+      "id": 147749041,
       "en": "usage:  /retell message\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd72b8d1",
+      "id": 225622225,
       "en": "usage: /inscribe <text>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8ce78b2",
+      "id": 147749042,
       "en": "       sends text of message to the last player you /tell'd\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd72b8d2",
+      "id": 225622226,
       "en": "       inscribe the selected item with the given text.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e4b401",
+      "id": 65319937,
       "en": "usage: /uninscribe <text>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce0ae11",
+      "id": 216051217,
       "en": "usage: /petlist\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e4b402",
+      "id": 65319938,
       "en": "       uninscribe the selected item.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce0ae12",
+      "id": 216051218,
       "en": "\\tLists all of your currently outstanding pets.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5eb1e71",
+      "id": 99294833,
       "en": "usage: /inspect <target>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5eb1e72",
+      "id": 99294834,
       "en": "       Inspect the selected player.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c511",
+      "id": 115985,
       "en": "usage /plugins \\[load\\] <plugin name> | \\[unload\\] <script state> | \\[list\\] | \\[refresh\\] | \\[manager\\]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3868a1",
+      "id": 171468961,
       "en": "usage: /cpet < rename <name> | tricklist | <trickname> >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c512",
+      "id": 115986,
       "en": "\\n\\n/plugins load <plugin name>\\nï¿½ï¿½ï¿½ï¿½Attempts to load the plugin.\\n\\n/plugins unload\\nï¿½ï¿½ï¿½ï¿½Unloads all the loaded plugins and resets the ui.\\n\\n/plugins list\\nï¿½ï¿½ï¿½ï¿½Lists the set of available plugins and the list of loaded plugins.\\n\\n/plugins refresh\\nï¿½ï¿½ï¿½ï¿½Refreshes the list of available plugins from disk.\\n\\n/plugins manager\\nï¿½ï¿½ï¿½ï¿½Opens the plugin manager.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8cc12b5",
+      "id": 147591861,
       "en": "usage: /stuck\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3868a2",
+      "id": 171468962,
       "en": "/cpet rename <name> - renames the cosmetic pet you currently have summoned to the specified name\\n/cpet tricklist - Lists the available tricks for your cosmetic pet\\n/cpet <trickname> - Commands the cosmetic pet you currently have summoned to perform the specified trick\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x742ce51",
+      "id": 121818705,
       "en": "usage: /emotelist\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x742ce52",
+      "id": 121818706,
       "en": "displays a list of emotes you can perform.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb5991",
+      "id": 216750481,
       "en": "usage: /adopt\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59d8c71",
+      "id": 94211185,
       "en": "usage /exit\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb5992",
+      "id": 216750482,
       "en": "This command will send an adoption request to your current target.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x59d8c72",
+      "id": 94211186,
       "en": "This command is used to immediately exit from the game.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d2ea51",
+      "id": 114485841,
       "en": "usage: /chatlog < on | off | capture >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d2ea52",
+      "id": 114485842,
       "en": "Turns on/off logging chat to a file, or captures text already sent to a file\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ebcfd1",
+      "id": 65785809,
       "en": "usage: /kinship < disband | recruit | accept | decline | quit | expel | promote | demote | motd | successor | resign >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7d6b13",
+      "id": 226323219,
       "en": "Marks yourself as a role player.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3ebcfd2",
+      "id": 65785810,
       "en": "(disband) - Disband your kinship.\\n(recruit <name>) - Recruit the target into your kinship.\\n(accept) - Accept your current kinship recruitment request.\\n(decline) - Decline your current kinship recruitment request.\\n(quit) - Voluntarily leave your kinship.\\n(expel <name>) - Expel the kinship member from your kinship.\\n(promote <name>) - Promote the kinship member to the next higher rank.\\n(demote <name>) - Demote the kinship member to the next lower rank.\\n(motd <motd>) - Set the message of the day for your kinship.\\n(successor <name>) - Make the kinship member the member who will succeed you as leader when you resign.\\n(resign) - Step down as leader. (This will automatically promote your successor to leader.)\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa847841",
+      "id": 176453697,
       "en": "Performs an emote.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa847842",
+      "id": 176453698,
       "en": "",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4da6f03",
+      "id": 81424131,
       "en": "Lists your ABC music files with an optional filter. Wildcards '*' and '?' are supported.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7327a1",
+      "id": 259205025,
       "en": "usage /ui \\[layout \\[<save|load> \\[<filename>\\]\\]\\]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa035d11",
+      "id": 167992593,
       "en": "usage: /tr <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf7327a2",
+      "id": 259205026,
       "en": "This command can be used to save or load a UI layout.\\n\\nTo save a ui layout use:\\n  /ui layout save <filename>\\n\\nTo load a ui layout use:\\n  /ui layout load <filename>\\n\\nIn the file name you can use %r to substitute in the current resolution and %c to substitute in the character's name.\\n\\nIf no filename is specified, a default filename of the form Default_%r is used.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa035d12",
+      "id": 167992594,
       "en": "       Sends a message to all members of your tribe\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb9ed651",
+      "id": 194958929,
       "en": "usage: /localtime\\nalternative: /time\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d30b11",
+      "id": 97717009,
       "en": "usage: /yield\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb9ed652",
+      "id": 194958930,
       "en": "       Returns the local time on your PC.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d30b12",
+      "id": 97717010,
       "en": "When in a sparring match, this will make you forfeit the match.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7907911",
+      "id": 126908689,
       "en": "usage: /queueposition\\nalternative: /qp\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7907912",
+      "id": 126908690,
       "en": "   Display your current position in the encounter queue (if any).\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8356a41",
+      "id": 137718337,
       "en": "usage: /ko <msg> - send <msg> to all officers of your kinship\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf2a03b1",
+      "id": 254411697,
       "en": "usage: /k <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8356a42",
+      "id": 137718338,
       "en": "usage: /o <msg> - send <msg> to all officers of your kinship\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7a0ef05",
+      "id": 127987461,
       "en": "usage: /rp <on|off>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf2a03b2",
+      "id": 254411698,
       "en": "       Sends a message to all members of your kinship\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xffa5441",
+      "id": 268063809,
       "en": "Usage: /automove\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xffa5442",
+      "id": 268063810,
       "en": "Toggles whether or not you stand your ground in combat.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7aa941",
+      "id": 209365313,
       "en": "usage: /lff <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7bda711",
+      "id": 129869585,
       "en": "usage: /changename <new name>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7aa942",
+      "id": 209365314,
       "en": "Sends a message to the global LFF channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7bda712",
+      "id": 129869586,
       "en": "Allows you to change your character's name. This command can only be used if you have a rename credit available.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8b0875",
+      "id": 260769909,
       "en": "usage: /afk <message>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc36d0f5",
+      "id": 204919029,
       "en": "usage: /play <song file> \\[index #\\] \\[sync\\]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb6af55",
+      "id": 246853461,
       "en": "usage: /arda\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda46c31",
+      "id": 228879409,
       "en": "usage: /pet < attack | follow | stay | assist < on | off > | guard | passive | skill1 | skill2 | skill3 | skill4 | status | release | releaseall | rename <name>>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8857e01",
+      "id": 142966273,
       "en": "usage: /world <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda46c32",
+      "id": 228879410,
       "en": "\\tattack - commands all of your active pets to attack your current selection\\n\\tfollow - commands all of your pets to follow you, breaking attack if necessary\\n\\tstay - commands all of your pets to stay where they are\\n\\tguard on - puts your pets in guard mode where they will defend themselves or you from attacks\\n\\tguard off - turns off guard mode for your pets\\n\\tskill1, skill2, skill3 <on|off>- commands your pets to execute the corresponding skills (attack, skill, etc.)\\n\\trelease - releases the target pet from your service\\n\\treleaseall -releases all of your pets from your service\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8857e02",
+      "id": 142966274,
       "en": "Sends a message to the world chat channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c42721",
+      "id": 63186721,
       "en": "usage: /emote <text>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c42722",
+      "id": 63186722,
       "en": "       causes you to emote the specified text\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68ba4c3",
+      "id": 109814979,
       "en": "After 60 seconds, returns you to the closest rally point.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec78d01",
+      "id": 247958785,
       "en": "usage: /RPC <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e0b341",
+      "id": 81834817,
       "en": "usage: /spar with a valid player target selected.\\nusage: /duel with a valid player target selected.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec78d02",
+      "id": 247958786,
       "en": "Sends a message to the RP channel in your current area.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4e0b342",
+      "id": 81834818,
       "en": "These commands will invite a valid player target that is selected to a sparring match.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x83fd5a3",
+      "id": 138401187,
       "en": "Opens bug entry.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2de853",
+      "id": 221112403,
       "en": "Puts you into music mode so you can play an equipped instrument.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5d52f95",
+      "id": 97857429,
       "en": "usage: /anon <on|off>\\nalternative: /anonymous <on|off>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x72c2131",
+      "id": 120332593,
       "en": "usage: /played\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x72c2132",
+      "id": 120332594,
       "en": "       displays how long this character has been in the world\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf96aaf1",
+      "id": 261532401,
       "en": "usage: /userchat# <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf96aaf2",
+      "id": 261532402,
       "en": "Sends a message to specified '#' user chat channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf1660a5",
+      "id": 253124773,
       "en": "usage: /tutorial <enable|disable|reset>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f603e3",
+      "id": 133563363,
       "en": "Enables, Disables or resets tutorial hints.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd2d15f9",
+      "id": 221058553,
       "en": "This command will only work in a fellowship or raid.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ec7e1",
+      "id": 171886561,
       "en": "usage: /help <cmd_name>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd0a4a3",
+      "id": 215000227,
       "en": "No available tricks for this pet.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa3ec7e2",
+      "id": 171886562,
       "en": "       gives help on the named command\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3108c71",
+      "id": 51416177,
       "en": "usage: /finvite < player >\\nalternative: /invite < player > \\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa487ba1",
+      "id": 172522401,
       "en": "usage: /raid < create | disband | invite | dismiss | promote | demote | locks | swap | leave>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56aca01",
+      "id": 90884609,
       "en": "usage: /to <msg> - send <msg> to all officers of your tribe\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3108c72",
+      "id": 51416178,
       "en": "   Invite the given player into your fellowship.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa487ba2",
+      "id": 172522402,
       "en": "(create <name>) - Create a raid with yourself as the leader.\\n(disband) - Disband your raid.\\n(invite <name>) - Recruit the target into your raid.\\n(dismiss <name>) - Expel the member from the raid.)\\n(promote <name>) - Promote the member to raid assistant.\\n(demote <name>) - Demote the raid assistant.\\n(swap <name1> <name2>) - Swaps the two members' positions in the raid.\\n(leave) - Leave your raid.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x56aca02",
+      "id": 90884610,
       "en": "usage: /o <msg> - send <msg> to all officers of your tribe\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55af0c1",
+      "id": 89845953,
       "en": "usage: /listchannels\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55af0c2",
+      "id": 89845954,
       "en": "This will list the user chat-channels you're currently enrolled in.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d34e91",
+      "id": 114511505,
       "en": "usage: /servertime\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9a3541",
+      "id": 228209985,
       "en": "usage: /roll <range> (default 100) \\n/random <range> (default 100)\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d34e92",
+      "id": 114511506,
       "en": "      Returns the server's local time.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9a3542",
+      "id": 228209986,
       "en": "This command will perform a roll from 1 to the <range> and display that to all members in the group.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2c008e3",
+      "id": 46139619,
       "en": "Plays the song contained in the given file. You must be in /music mode for this to work. If you supply a number for 'index #', the corresponding song in the file (defined with the X: field) will be played. The optional 'sync' parameter makes your character wait for someone in your group to use /playstart.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x365b911",
+      "id": 56998161,
       "en": "Opens the Social panel to the Quest Grouping tab, filtering optional parameters.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x365b912",
+      "id": 56998162,
       "en": "usage: /lfq \\[ min level | max level \\] | \\[ filter \\]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1e2d2e3",
+      "id": 31642339,
       "en": "Available tricks for this pet:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x734c871",
+      "id": 120899697,
       "en": "usage:  /useselection\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda43521",
+      "id": 228865313,
       "en": "usage: /loc\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x734c872",
+      "id": 120899698,
       "en": "       tries to use the selection\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8b7e41",
+      "id": 227245633,
       "en": "usage:  /friend add <name>    : Adds a player to your friends list.\\n        /friend remove <name> : Removes a player from your friends list.\\n        /friend list        : Displays the status of everyone in your friends list.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda43522",
+      "id": 228865314,
       "en": "       reports your current location\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd8b7e42",
+      "id": 227245634,
       "en": "       manages and queries your friends list.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79048d1",
+      "id": 126896337,
       "en": "usage: /damagetext < all < true | false > | other < true | false > | range < new range > | list >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79048d2",
+      "id": 126896338,
       "en": "/damagetext all < true | false >\\n            : sets whether or not you see damage text.\\n/damagetext other < true | false > \\n            : sets whether or not you see damage text for other people\\n/damagetext range < range >\\n             : sets the range at which you see other people's damage text\\n/damagetext list : Prints all of your damage text information.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8469d31",
+      "id": 138845489,
       "en": "usage: /trade <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8469d32",
+      "id": 138845490,
       "en": "Sends a message to the global trade channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4ac621",
+      "id": 172672545,
       "en": "usage:  /tell <target name> <message>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7aa081",
+      "id": 209363073,
       "en": "usage: /OOC <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x382b5c1",
+      "id": 58897857,
       "en": "usage: /alias < ;<new alias string> <replacement string > | add ;<new alias string> <replacement string> | remove  ;<unwanted alias string> | list | clear | clearlist | shortcut ;<alias string> <shortcut location>>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4ac622",
+      "id": 172672546,
       "en": "       sends text of message to named target player\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7aa082",
+      "id": 209363074,
       "en": "Sends a message to the OOC channel in your current area.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x382b5c2",
+      "id": 58897858,
       "en": "/alias ;<new alias string> <replacement string>\\n            : Adds a new alias to the table\\n/alias add ;<new alias string> <replacement string>\\n            : Adds a new alias to the table.\\n/alias remove ;<unwanted alias string>\\n            : Removes an unwanted alias from the table.\\n/alias shortcut ;<alias string> <shortcut location>\\n            : Adds a shortcut to an existing alias to your shortcut bar.\\n/alias list : Prints all of your alias information.\\n/alias clear : Clears your alias table.\\n/alias clearlist : Same as clear.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e80f13",
+      "id": 149425939,
       "en": "Activates the Arda encyclopedia.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb805ef1",
+      "id": 192962289,
       "en": "usage: /reclaim - Used to re-create pre-order/promotional items.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb805ef2",
+      "id": 192962290,
       "en": "This command is used to re-create some pre-order/promotional items that you are eligible for in your inventory.  Not all pre-order/promotional items can be reclaimed.  You must have enough space in your inventory to hold all eligible items.  You can only use this command successfully once per week.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfb49c73",
+      "id": 263494771,
       "en": "Initiates synchronized group music playing.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48c3e61",
+      "id": 76299873,
       "en": "usage:  /reply message\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49f21d1",
+      "id": 77537745,
       "en": "usage: /shout <text>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48c3e62",
+      "id": 76299874,
       "en": "       sends text of message to the last player who sent you a /tell\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x49f21d2",
+      "id": 77537746,
       "en": "       your message will be sent to many people around you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x743e381",
+      "id": 121889665,
       "en": "usage: /readycheck\\n  1)Must be in a Fellowship or Raid.\\n  2)Must be the leader of the Fellowship or Raid.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x743e382",
+      "id": 121889666,
       "en": "This command will present each group member with a dialog asking them if they are ready to go.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbcf31d1",
+      "id": 198128081,
       "en": "usage: /tribe < disband | recruit | accept | decline | quit | expel | promote | demote | motd | successor | resign >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec78eb1",
+      "id": 247959217,
       "en": "usage: /encounter <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5f9925",
+      "id": 190814501,
       "en": "usage: /playstart\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbcf31d2",
+      "id": 198128082,
       "en": "(disband) - Disband your tribe.\\n(recruit <name>) - Recruit the target into your tribe.\\n(accept) - Accept your current tribe recruitment request.\\n(decline) - Decline your current tribe recruitment request.\\n(quit) - Voluntarily leave your tribe.\\n(expel <name>) - Expel the tribe member from your tribe.\\n(promote <name>) - Promote the tribe member to the next higher rank.\\n(demote <name>) - Demote the tribe member to the next lower rank.\\n(motd <motd>) - Set the message of the day for your tribe.\\n(successor <name>) - Make the tribe member the member who will succeed you as leader when you resign.\\n(resign) - Step down as leader. (This will automatically promote your successor to leader.)\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xec78eb2",
+      "id": 247959218,
       "en": "Sends a message to your current private encoutner channel.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a0fe81",
+      "id": 161545857,
       "en": "usage: /regional <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9a0fe82",
+      "id": 161545858,
       "en": "Sends a message to the regional channel in your current area.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb013e1",
+      "id": 11539425,
       "en": "usage: /autotarget < on | off >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb013e2",
+      "id": 11539426,
       "en": "Selects your attacker when attacked, provided you have no current target.  Also selects your nearest enemy if your current target is no longer available.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9543471",
+      "id": 156513393,
       "en": "usage: /finditems <item name >\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9543472",
+      "id": 156513394,
       "en": "   Highlights all items matching a particular pattern, or clears the highlighting if no pattern is specified\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6700d01",
+      "id": 108006657,
       "en": "usage: /filterlist\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6700d02",
+      "id": 108006658,
       "en": "Displays a list of valid filter types.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda49881",
+      "id": 228890753,
       "en": "usage: /say <text>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda49882",
+      "id": 228890754,
       "en": "       your message will be sent to nearby players\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3332a01",
+      "id": 53684737,
       "en": "usage: /helpchannel <msg>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3332a02",
+      "id": 53684738,
       "en": "Sends a message to the help channel in your current area.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa7284c1",
+      "id": 175277249,
       "en": "usage: /joinchannel <channel-name> [password]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa7284c2",
+      "id": 175277250,
       "en": "This will join the specified user chat-channel (creating it, if necessary) with an optional password.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdb0ae95",
+      "id": 229682837,
       "en": "usage: /playlist \\[<filter>\\]\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x45a3713",
+      "id": 73021203,
       "en": "Marks yourself as anonymous.  Other players will not be able to see most information about you.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x240e581",
+      "id": 37807489,
       "en": "usage: /shortcut <shortcut location> <text string> \\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x240e582",
+      "id": 37807490,
       "en": "/shortcut <shortcut location> <text string>\\n            : Adds a shortcut to a text string into your shortcut bar.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaffd563",
+      "id": 184538467,
       "en": "Marks yourself as AFK.  You will automatically respond to /tells with the message you supplied.\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe48771",
+      "id": 14976881,
       "en": "usage: /propose",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe48772",
+      "id": 14976882,
       "en": "This command will send a marriage request to your current target.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

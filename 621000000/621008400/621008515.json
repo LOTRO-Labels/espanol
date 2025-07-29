@@ -2,160 +2,134 @@
   "id": 621008515,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: The Weeping Warrior",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689d0",
+      "id": 190220752,
       "en": "'What do you want of me, [placeholder]? Have you come to mock me again, or to shame me before my mother and brother?\\n\\n'Look around you. Beyond Dale's walls, our kingdom hangs by a thread. We say the Easterlings are our vanquished foes, and yet they roam freely through the Dale-lands. We say many things that are wrong. My friend has shown me much, and my eyes are opened now. He has shown me how much I could accomplish if I were king instead of Bard.\\n\\n'I see that mocking look in your eye. You think me a child. You disbelieve me. Come with me then and you'll meet him for yourself. Then he can explain it. Oh, he does so, so much better than I do!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a4",
+      "id": 184621220,
       "en": "Follow Bryn and meet his friend.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118a5",
+      "id": 184621221,
       "en": "Listen to Bryn's exchange with Akshir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502921",
+      "id": 173025569,
       "en": "Talk to Bryn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502922",
+      "id": 173025570,
       "en": "Follow Bryn to meet his friend",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502926",
+      "id": 173025574,
       "en": "Listen to Bryn's exchange with Akshir",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502928",
+      "id": 173025576,
       "en": "<rgb=#FF0000>Beckon</rgb> Bryn to you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b0",
+      "id": 184621232,
       "en": "Beckon Bryn to you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b1",
+      "id": 184621233,
       "en": "Listen to the Weeping Warrior.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b4",
+      "id": 184621236,
       "en": "Talk to Bryn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be3",
+      "id": 148970467,
       "en": "Before you stands Akshir, the Jangovar leader",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502932",
+      "id": 173025586,
       "en": "Listen to the Weeping Warrior",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859570",
+      "id": 226858352,
       "en": "Who, who was that?!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb0118b7",
+      "id": 184621239,
       "en": "Try to speak with Bryn.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859571",
+      "id": 226858353,
       "en": "Though I can barely face my family right now, I know that we should return",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be7",
+      "id": 148970471,
       "en": "Bryn is shocked by what he has just seen and heard",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11be9",
+      "id": 148970473,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa502936",
+      "id": 173025590,
       "en": "Talk to Bryn",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859549",
+      "id": 226858313,
       "en": "What do you want",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56873",
+      "id": 162883699,
       "en": "'Though I can barely face my family right now, I know that we should return and tell them of rust-man and of what evil deceits he is capable.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bf3",
+      "id": 148970483,
       "en": "The Weeping Warrior escapes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb5689c5",
+      "id": 190220741,
       "en": "'Who was that - that deathly creature? What had Akshir to do with him? And why did it sound as if he were taking orders from him? Tell me, [placeholder]! Akshir would take orders from nobody - he is wise and...\\n\\n'Oh! What a fool I have been. And to think he had near convinced me to kill my own brother. Did you see? He gave me the knife to do it with. Bah! I can barely look at the awful thing. What sorcery did Akshir cast upon me? What shall I do? Flee in exile and never return?'\\n\\nYou speak gently to Bryn, and convince him to return home, be brave and honest, and confess the truth.\\n\\n'That is the thing that most terrifies me, [placeholder], and so it must be the brave and right one.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11bf8",
+      "id": 148970488,
       "en": "The Weeping Warrior looks coldly at you",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1a8",
+      "id": 24695208,
       "en": "Erna is worried about her son Bryn who has become more and more distant and aggravated.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,82 +2,134 @@
   "id": 621079533,
   "txt": [
     {
-      "id": "0xd859470",
+      "id": 226858096,
       "en": "'It's been overrun by goblins! Can you believe it? This used to be a quiet place to live.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859471",
+      "id": 226858097,
       "en": "'Ahaha! You did it! I saw my girls running for the hills. ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11ae9",
+      "id": 148970217,
       "en": "After a very judgemental side eye, she trots away",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e073",
+      "id": 251715699,
       "en": "Slap Elester's rump",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e076",
+      "id": 251715702,
       "en": "Slap Glúsi's rump",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11af1",
+      "id": 148970225,
       "en": "With a stomp of her hooves, she charges off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e079",
+      "id": 251715705,
       "en": "Slap Griga's rump",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11af5",
+      "id": 148970229,
       "en": "She ponders biting you, but then hustles away",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "Raising a Rumpus",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "You have successfully driven off the cows of Ritherstad. You should let Varbris know his beloved girls are safe from goblins for the moment.\\n\\nVarbris is at Ritherstad.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11af8",
+      "id": 148970232,
       "en": "She swishes her tail irritably at you, but runs off",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011828",
+      "id": 184621096,
       "en": "Varbris has asked you to slap the rumps of his cows and shoo them away from the farm so that they might not fall prey to the goblins.\\n\\nYou should slap cow rumps at Ritherstad, in northern Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
-      "en": "'Igerna came through here a few days ago and hasn't returned. She headed off to Ritherstad, even though I tried to warn her that it's been overrun by goblins! Can you believe it? This used to be a quiet place to live.\\n\\n'I can see in your eyes that you're determined to follow after her. Like Igerna, you seem capable, ",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220630,
+      "en": "'Igerna came through here a few days ago and hasn't returned. She headed off to Ritherstad, even though I tried to warn her that it's been overrun by goblins! Can you believe it? This used to be a quiet place to live.\\n\\n'I can see in your eyes that you're determined to follow after her. Like Igerna, you seem capable, but, well, I thought she was also and she has yet to return. Good luck, then! Keep your eyes open for Varbris. That fool also refuses to fall back to some place safe and is probably lurking around his farm getting into trouble with the goblins.'",
+      "es": ""
+    },
+    {
+      "id": 126687017,
+      "en": "The threat of goblins would be enough to make most folk seek safety until the dangerous creatures could be beaten back into their mountain holes. That is not the case for all residents of Pinnath Gelin, however.",
+      "es": ""
+    },
+    {
+      "id": 184621477,
+      "en": "Nordach has sent you on to Ritherstad in search of Varbris.\\n\\nRitherstad is in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 184621479,
+      "en": "You have slapped one cow rump, but there are yet more rumps that need slapping.\\n\\nYou should slap more cow rumps at Ritherstad, in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 190220455,
+      "en": "'Ahaha! You did it! I saw my girls running for the hills. They'll be safer out there for now, and I will remove myself to Ost Arndír to ask for more help. You have my thanks.'",
+      "es": ""
+    },
+    {
+      "id": 173025318,
+      "en": "Talk to Varbris",
+      "es": ""
+    },
+    {
+      "id": 184621488,
+      "en": "You have slapped two cow rumps, but there are yet more rumps that need slapping.\\n\\nYou should slap more cow rumps at Ritherstad, in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 190220457,
+      "en": "'Who are you? Have you come to help? Ah, Igerna? Yes, she came through here. She's since moved on to try to find the source of the goblins, leaving me here to defend my farm on my own! Well, truth be told, she directed me to flee to Ost Arndír, but I shan't let my home be overrun!\\n\\n'What do you say? Will you help me deal a blow to these scum?'\\n\\nWhen you agree, Varbris' shoulders slump with relief.\\n\\n'You have no idea how relieved I am to hear that! Now here's my plan: these goblins are here for my cows! I love these daft girls dearly, but they are far too unworried about our new guests. Go into the fields and give 'em a right good smack right on the rump! They'll run off a ways to safety.'",
+      "es": ""
+    },
+    {
+      "id": 173025368,
+      "en": "Return to Varbris",
+      "es": ""
+    },
+    {
+      "id": 251715684,
+      "en": "Slap Brúlen's rump",
+      "es": ""
+    },
+    {
+      "id": 184621492,
+      "en": "You have slapped enough cow rumps to consider it a new profession of yours, but one rump yet remains unslapped!\\n\\nYou should slap one more cow rump at Ritherstad, in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 184621495,
+      "en": "Your hand stings and you have stepped in something squishy and yet - there remain still more rumps that need slapping!\\n\\nYou should slap more cow rumps at Ritherstad, in northern Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 251715688,
+      "en": "Slap Alo's rump",
+      "es": ""
+    },
+    {
+      "id": 148970211,
+      "en": "Brúlen huffs in surprise and gallops off",
+      "es": ""
     }
   ]
 }

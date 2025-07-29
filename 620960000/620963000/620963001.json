@@ -2,76 +2,64 @@
   "id": 620963001,
   "txt": [
     {
-      "id": "0x3178d19",
+      "id": 51875097,
       "en": "A little thief has just stolen a priceless bracelet from a noblewoman!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1196",
+      "id": 177082774,
       "en": "The child is very sorry for what he did and gives you the bracelet",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01199",
+      "id": 246419865,
       "en": "The child is in his hiding place.\\n\\nYou should scold the child for stealing.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "The noblewoman can be found near Pipers' Bend on the Fourth Circle of Minas Tirith.\\n\\nYou should return the bracelet to the noblewoman.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Return the bracelet to the noblewoman",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'Oh, thank you very much! I was afraid I would never see this bracelet again. It was my mother's, and her mother's before.\\n\\n'I shall continue on my way to the Houses of Healing where I am currently training. If you have not already visited the Sixth Circle, there are some beautiful gardens to be admired. I do recommend a peaceful rest for the mind now and again, even in these dreadful times.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Follow the child",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "<rgb=#FF0000>Scold</rgb> the child",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'You, kind [placeholder]! Some errand-boy ran into me in the tunnels just now and it seems my bracelet has suddenly gone missing! I chased him towards Pipers' Bend but can't find the thieving child! The bracelet is a family heirloom and I must have it back!'\\n\\nYou spot the child thief and assure the woman that you will retrieve her bracelet and give the child a stern talking to.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "To Catch a Thief",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0112",
+      "id": 216727826,
       "en": "The child has run off somewhere.\\n\\nFollow the child to get the bracelet for the noblewoman.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1194",
+      "id": 177082772,
       "en": "Looks like this child has been taking various valuables and stashing them here",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

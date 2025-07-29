@@ -2,88 +2,74 @@
   "id": 620830368,
   "txt": [
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Narmeleth is ready to begin her journey to Angmar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f54af5",
+      "id": 32852725,
       "en": "travel_exit (info)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f4a253",
+      "id": 32809555,
       "en": "travel_exit (desc)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'We can now make the journey to Gath Forthnír in Angmar, where my father hid for so long, watching for my return. From Gath Forthnír, we will be able to form our plan of attack.\\n\\n'You will have to go ahead and carry word to Golodir. I doubt that he will be eager to allow my admittance to Gath Forthnír, yet he is a good man. Speak to Golodir and ask him to let me enter, and I will follow if he allows it.'\\n\\n<rgb=#FF0000>You will automatically travel to Gath Forthnír in Angmar when you accept this quest.</rgb>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Gath Forthnír is in the north of Angmar, north-east of Imlad Balchorth.\\n\\nNarmeleth is ready to travel to Gath Forthnír and speak with Golodir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Amarthiel? In Gath Forthnír? I forbid it! Should we also make rooms for Mordrambor and Mordirith? I will not have my enemies within the walls of the stronghold whose very doors have been defended by those whose blood she has spilled.\\n\\n'Nay, perhaps I spoke too rashly.  I am sorry, [placeholder]. I remember the long years in which Laerdan sought to free his daughter from the evil that consumed her, even to his own doom. As a last favour to my dear friend, I will harbour Narmeleth in Gath Forthnír.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Delossad is in the southern Trollshaws, south-west of Rivendell.\\n\\nYou should talk to Narmeleth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Gath Forthnír is in the north of Angmar, north-east of Imlad Balchorth.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Golodir has treated me with more pity than I had expected. Thank you for your kind words, for you have truly been a champion in my time of need.'\\n\\n<rgb=#FFFF00>Completing this quest will teleport you to Angmar.</rgb>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'Whatever aid I can lend to you, I will, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'Whatever aid I can lend to you, I will, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Golodir at Gath Forthnír",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Narmeleth at Delossad",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Book 15, Chapter 9: A Champion's Return",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

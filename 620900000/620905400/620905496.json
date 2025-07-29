@@ -2,70 +2,59 @@
   "id": 620905496,
   "txt": [
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>Completing Aiding the Eastemnet will cancel this quest</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'I have reports that the Limlight is beginning to have a distinctive odour. We have seen this before. The mechanisms within the Dwergfant have become damaged or impeded. They must be cleared before the river is truly fouled.\\n\\n'Head to the Dwergfant, discover what is broken with the mechanisms, and get them up and running again.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'The water is already clearing up along the river. No doubt we shall have to return, but for today, the work is done.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Shall we set off to the Dwergfant?'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Dwergfant: A Rock and a Hard Place",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "If the mechanisms within the Dwergfant do not work, the Limlight will be ruined.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Repaired mechanisms in the Dwergfant ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Repair mechanisms in the Dwergfant ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The impaired mechanisms can be found within the Dwergfant.\\n\\nAldbéort has asked you to venture to the Dwergfant and repair the mechanisms within.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Aldbéort",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Aldbéort is awaiting you at Cliving.\\n\\nAldbéort will be pleased to hear that the Dwergfant is fully functional again.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

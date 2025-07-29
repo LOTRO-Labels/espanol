@@ -2,46 +2,104 @@
   "id": 621079467,
   "txt": [
     {
-      "id": "0xa502858",
+      "id": 173025368,
       "en": "Speak to Lúmar",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011828",
+      "id": 184621096,
       "en": "Lúmar has asked you to search through the shredded pack that you found for any information that might tie it to Igerna.\\n\\nYou can search through the pack on the table next to Lúmar, in Ost Arndir.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
+      "id": 190220630,
       "en": "'The pack you brought looks familiar to the one Igerna uses. Will you search through it to see if you can find anything of import? You can use the table here to do so.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "In a newly blasted cave, you found a pack, shredded and rumpled, on the floor. Could it belong to the missing scout? Its contents may shed some much needed light upon her whereabouts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "Lúmar is waiting to speak with you about what was written on the note you found.\\n\\nLúmar is in Ost Arndír.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859440",
+      "id": 226858048,
       "en": "'The pack you brought looks familiar to the one Igerna uses.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859441",
-      "en": "'Lúmar,\\n\\nI was right, there are goblins in Pinnath Gelin! They've been hounding me for hours, but I managed to slip their grasp thus far. I overheard one mentioning a farm with lots of four legged, spotted, dinners walking around. I can only imagine this is referring to Varbris's poor cows. I must go first to Winbury and see what fate has befallen Nordach. I will leave this message with - wait, something draws near�",
-      "es": "",
-      "es (fem)": ""
+      "id": 226858049,
+      "en": "'Lúmar,\\n\\nI was right, there are goblins in Pinnath Gelin! They've been hounding me for hours, but I managed to slip their grasp thus far. I overheard one mentioning a farm with lots of four legged, spotted, dinners walking around. I can only imagine this is referring to Varbris's poor cows. I must go first to Winbury and see what fate has befallen Nordach. I will leave this message with - wait, something draws near'",
+      "es": ""
+    },
+    {
+      "id": 184621472,
+      "en": "You should search through the pack for clues.\\n\\nThe pack is on the table next to Lúmar, in Ost Arndír.",
+      "es": ""
+    },
+    {
+      "id": 190220455,
+      "en": "'I fear Igerna has been captured or assaulted, given the state of this bag. What did you find?'",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "The Shredded Pack",
+      "es": ""
+    },
+    {
+      "id": 190220502,
+      "en": "Lúmar,\\n\\nI was right, there are goblins in Pinnath Gelin! They've been hounding me for hours, but I managed to slip their grasp thus far. I overheard one mentioning a farm with lots of four legged, spotted, dinners walking around. I can only imagine this is referring to Varbris's poor cows. I must go first to Winbury and see what fate has befallen Nordach. I will leave this message with - wait, something draws near\\n\\n---\\n\\nThe message abruptly cuts off.",
+      "es": ""
+    },
+    {
+      "id": 148970210,
+      "en": "You found a mostly clean shirt",
+      "es": ""
+    },
+    {
+      "id": 184621475,
+      "en": "You should continue searching through the pack for clues.\\n\\nThe pack is on the table next to Lúmar, in Ost Arndír.",
+      "es": ""
+    },
+    {
+      "id": 173025313,
+      "en": "Search the pack",
+      "es": ""
+    },
+    {
+      "id": 148970213,
+      "en": "You found a crumpled note!",
+      "es": ""
+    },
+    {
+      "id": 173025316,
+      "en": "Continue searching the pack",
+      "es": ""
+    },
+    {
+      "id": 184621480,
+      "en": "While searching through Igerna's pack, you found a hastily scrawled note addressed to Lúmar. You should read the note.\\n\\nThe note is on the table next to Lúmar, in Ost Arndír.",
+      "es": ""
+    },
+    {
+      "id": 251715609,
+      "en": "Place the pack on the table",
+      "es": ""
+    },
+    {
+      "id": 148970217,
+      "en": "You should search the pack",
+      "es": ""
+    },
+    {
+      "id": 173025319,
+      "en": "Read the hastily scrawled note",
+      "es": ""
     }
   ]
 }

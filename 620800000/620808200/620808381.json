@@ -2,106 +2,89 @@
   "id": 620808381,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "The door to Laerdan's room appears to be locked, and a note has been pinned nearby",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have read Laerdan's note",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Laerdan is preparing to make the journey to Eregion, but he needs your aid to finish his preparations.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Greetings, [placeholder]! You have been of great help to me in the past, and now I have need of your aid once more. As you know, we will soon depart for Eregion, but there is much to be done before I leave.\\n\\n'First, I would ask you to visit Filegnaneth in the Hall of Fire here at Rivendell and request provisions of her. Then, I would have you journey to the isle of Tinnudír in Evendim and ask Nat Collop to send my trusted steed Arel back to me. Lastly, I would ask you to venture to Gath Forthnír and ask Golodir to return my breastplate to me -- it has long been missing.\\n\\n'When you have accomplished these tasks, return to me, and we will depart.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Filegnaneth is found in the Hall of Fire at Rivendell. Nat Collop is found in Tinnudír in Evendim, far to the west and north of the Trollshaws. Golodir is found in Gath Forthnír in Angmar, far to the north of the Trollshaws.\\n\\nLaerdan asked you to perform several tasks on his behalf.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'[placeholder], I must apologize, but I did not think you would understand. Your tasks were little more than a diversion.\\n\\n'I have departed already from Rivendell and have taken with me the shards of Narchuil. I must return them to Narmeleth, or her mind will never be made whole.\\n\\n'The love of my daughter, alas, must supersede all else. May the light of the stars shine upon your path.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Laerdan is at the Last Homely House in Rivendell.\\n\\nYou should return at once to Laerdan with news of your successes, but also of the resulting delays.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Elrond is in his library in the Last Homely House at Rivendell.\\n\\nYou should tell Elrond of Laerdan's note at once.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'You are not done yet? You must make haste!\\n\\n'Filegnaneth is here in Rivendell, in the Fire Hall of Elrond's House, Nat Collop can be found at the stable at Tinnudír in Evendim, and Golodir remains at Gath Forthnír in Angmar.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Laerdan has taken the shards of Narchuil to Amarthiel? This is dread news, my friend. This development forces our hand....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Text indicating that the player should tell Elrond of these developments.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Talk to Filegnaneth in Rivendell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Nat Collop at Tinnudír",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Talk to Golodir at Gath Forthnír",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Laerdan in Rivendell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Book 14, Chapter 1: The Long Road South",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Elrond in Rivendell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

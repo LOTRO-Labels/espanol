@@ -2,22 +2,104 @@
   "id": 621067216,
   "txt": [
     {
-      "id": "0x3c41c48",
+      "id": 63183944,
       "en": "'Good work, so far. Get your hands back to work and refine that <rgb=#FF00FF00>copper ingot</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Prospecting tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Prospecting requires a forge.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Bring the <rgb=#FF00FF00>copper ingot</rgb> to the supplier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x852590",
-      "en": "'So you'd like to learn about prospecting? It can be a lucrative profession if you're willing to put in the effort.\\n\\n'I'll walk you through the basics. If at any point you get confused, speak to me and I'll explain things again.\\n\\n'I almost forgot the most important thing for every new prospector -- ingredients. Everything you need is inside this <rgb=#FF00FF00>crate</rgb>.\\n\\n'Open it up, ensure your <rgb=#FF00FF00>prospector's pickaxe</rgb> is equipped, then make your way to the <rgb=#FF00FF00>forge</rgb>.'\\n\\n<rgb=#FF00FF00>Suppliers provide the secondary ingredients necessary for Prospectors to refine the materials that they collect. As this is a �",
-      "es": "",
-      "es (fem)": ""
+      "id": 8725904,
+      "en": "'So you'd like to learn about prospecting? It can be a lucrative profession if you're willing to put in the effort.\\n\\n'I'll walk you through the basics. If at any point you get confused, speak to me and I'll explain things again.\\n\\n'I almost forgot the most important thing for every new prospector -- ingredients. Everything you need is inside this <rgb=#FF00FF00>crate</rgb>.\\n\\n'Open it up, ensure your <rgb=#FF00FF00>prospector's pickaxe</rgb> is equipped, then make your way to the <rgb=#FF00FF00>forge</rgb>.'\\n\\n<rgb=#FF00FF00>Suppliers provide the secondary ingredients necessary for Prospectors to refine the materials that they collect. As this is a collection profession there are no additional recipes to purchase as all are learned as you advance.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263297,
+      "en": "You have made a copper ingot",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Prospectors mine ore-nodes to discover the raw materials hidden within. They are also adept at working the ore into ingots. Ore-nodes not only provide ore, but will often contain gems or other objects that are used by other professions. This collection profession is much-needed in Middle-earth.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipe and deliver the correct item outlined in this quest.\\n\\nYou will need to execute the smelt copper recipe and deliver a copper ingot. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 8725909,
+      "en": "'Let me see what you have done.'\\n\\nShe examines the item closely.\\n\\n'The copper ingot appears to have been refined without a hint of impurity.\\n\\n'Well done. Weaponsmiths and armoursmiths would be happy to forge something from work as good as this. You have the makings of a fine prospector.'",
+      "es": ""
+    },
+    {
+      "id": 8725910,
+      "en": "'Do you have the copper ingot I requested? Please make one then bring it to me for inspection.'",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "You should speak with the chief supplier to learn more about prospecting.",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "<rgb=#FF00FF00>Ingredients for prospectors are found in ore-nodes in the wild, sometimes in chests, and purchased from suppliers. You can also find ingredients in the Auction Hall.</rgb>\\n\\nThe supplier provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to execute the prospector recipe. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "The Chief Supplier provided you with the ingredients necessary to create a <rgb=#FF00FF00>copper ingot</rgb>.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Prospecting tab in the craft UI and find the proper recipe.\\n\\nRemember: in order to execute a recipe you must be near the proper facility. Prospecting requires a forge.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not sell the copper ingot!</rgb> It is time to show your handiwork to your mentor, the chief supplier.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with the chief supplier in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 63183940,
+      "en": "'You should speak with the chief supplier at once.'",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided with ingredients",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the supplier to collect the two chunks of copper ore",
+      "es": ""
+    },
+    {
+      "id": 218649175,
+      "en": "'If you wish to know more of prospecting, speak with the chief supplier here in Lhan Garan.'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a copper ingot",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Introduction to Prospecting",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Using the ingredients you received, craft a <rgb=#FF00FF00>copper ingot</rgb> at a <rgb=#FF00FF00>forge</rgb>",
+      "es": ""
+    },
+    {
+      "id": 63183943,
+      "en": "'First, ensure your <rgb=#FF00FF00>prospector's pickaxe</rgb> is equipped, then open the <rgb=#FF00FF00>crate</rgb> of ingredients that I gave you and make your way to the <rgb=#FF00FF00>forge</rgb>.'\\n\\n<rgb=#FF00FF00>Ingredients for prospectors are found in chests, gathered from ore-nodes, and purchased from suppliers. You can also find ingredients in the Auction Hall.</rgb>",
+      "es": ""
     }
   ]
 }

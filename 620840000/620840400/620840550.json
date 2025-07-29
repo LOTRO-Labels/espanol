@@ -2,22 +2,59 @@
   "id": 620840550,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Raddir has plotted a course through Mirkwood that avoids some of its more overt dangers, but this first leg may be treacherous. The path he has chosen winds through the foetid marshlands of the Drownholt. He names it Râd Cened and tells me it should be free of Orcs.\\n\\n'But Raddir spoke of other hazards, the like of which we may not expect: spongy earth that clings to the foot, thickets of briars that will catch clothing and armour and break your concentration, great pools of stagnant water that can slow your progress to a crawl. You and the other members of the Hidden Guard will need to be cautious of these and other dangers. Few travel through the Drownholt, unless they have very good reason to do so. Keeping beneath the Enemy's notice until Mazog is at his doorstep is one such reason.\\n\\n'Speak with me again, and I will show you to the rest of the company for this leg of the journey.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'I do not know what we can do, [placeholder]. Only Raddir knows upon what paths he planned to bring us to Dol Guldur with our captive, and without him, the secret ways are veiled to us. I fear our errand stands on the very brink of failure before it has begun.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
-      "en": "'I cannot believe that Raddir is dead! �",
-      "es": "",
-      "es (fem)": ""
+      "id": 63183937,
+      "en": "'I cannot believe that Raddir is dead! How can this have come to pass? And what now becomes of the mission of the Hidden Guard?'",
+      "es": ""
+    },
+    {
+      "id": 218649171,
+      "en": "'No Blah!'",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Chapter 3: Midnight in the Drownholt",
+      "es": ""
+    },
+    {
+      "id": 63183938,
+      "en": "'The Hidden Guard departs for Raddir's course through the Drownholt at midnight, [placeholder]. I hope you are prepared to join them.'\\n\\n<rgb=#FF0000>This is a solo quest and cannot be completed with a fellowship.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "The mission of the Hidden Guard begins as they take Mazog on the first leg of the journey through Mirkwood mapped by Raddir.",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Talk to Alfirimbes and travel with the Hidden Guard",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "Alfirimbes is at the Elf-camp of Echad Sirion in the Mirk-eaves.\\n\\nThe Hidden Guard is ready to begin the first leg of the journey to bring Mazog to Dol Guldur, by way of the Drownholt. Alfirimbes will bring you to them.",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "Talk to Cúcheron on the front porch of the Haunted Inn",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "Cúcheron is on the front porch of the Haunted Inn, mourning the loss of Raddir.\\n\\nRaddir may be gone, but the mission of the Hidden Guard must continue. Cúcheron will tell you what should be done as the Elves try to regroup from the loss of one of their own.",
+      "es": ""
     }
   ]
 }

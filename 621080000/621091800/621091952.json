@@ -2,376 +2,314 @@
   "id": 621091952,
   "txt": [
     {
-      "id": "0xa8e1135",
+      "id": 177082677,
       "en": "You have failed to protect Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db1",
+      "id": 24743345,
       "en": "'This cursed place has a darkness that sticks to you like rancid oil, tainted and foul.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50244",
+      "id": 111477316,
       "en": "Talk to Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db2",
+      "id": 24743346,
       "en": "'Come [placeholder], we should conduct our business here quickly.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1140",
+      "id": 177082688,
       "en": "The way up the stairs is now open",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db3",
+      "id": 24743347,
       "en": "'Look there! The way is open!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed52",
+      "id": 235466066,
       "en": "Walk with Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01177",
+      "id": 246419831,
       "en": "You have followed Belondor into an upstairs area. You should talk to Belondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db4",
+      "id": 24743348,
       "en": "'I've seen Azagath and Nakási climb this stair.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed53",
+      "id": 235466067,
       "en": "Walk with Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a0",
+      "id": 111477408,
       "en": "Talk to Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1142",
+      "id": 177082690,
       "en": "You have found a map",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50247",
+      "id": 111477319,
       "en": "Talk to Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db5",
+      "id": 24743349,
       "en": "'Be careful [placeholder], there are enemies ahead.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db6",
+      "id": 24743350,
       "en": "'We must find out why they came here, of all places. Surely it will help us find them.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Belondor has asked you to accompany him as he returns to Mâkhda Khorbo in search of clues that may explain why Azagath and Nakási went there, as well as where they are going.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a2",
+      "id": 111477410,
       "en": "Ascend the Iron Stairwell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db7",
+      "id": 24743351,
       "en": "'Do I see something at the end of this hall?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1798db8",
+      "id": 24743352,
       "en": "'What's this, then?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed57",
+      "id": 235466071,
       "en": "Follow Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a6",
+      "id": 111477414,
       "en": "Defeat Ghâbekhid ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a9",
+      "id": 111477417,
       "en": "Continue searching the area",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "TBD Search the room",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50257",
+      "id": 111477335,
       "en": "Examine the map",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56843",
+      "id": 162883651,
       "en": "'I cannot read the script on this map, but I recognize it all the same. This is a map showing the Shield Isles and Cape of Umbar. The eastern half of the map has been taken. Surely if they are travelling overland, their journey is to the east.\\n\\n'Maps themselves are not rare. Something must have been marked on that side of the map that they are trying to find. Considering the previous owners of the map, this indeed bodes ill.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56846",
+      "id": 162883654,
       "en": "Belondor places his hand on the ground where his crew fell, silent tears falling onto the stone floor.\\n\\n'I blamed myself, [placeholder], for being a fool. They trusted me with their lives and I failed them. I still hold myself responsible for my poor decisions, but I am not the one who killed them, and my hatred should be directed at Azagath and not myself.\\n\\n'I knew him for many years. I thought him to be my friend. Men of a common purpose and a similar mind. What evil lurks inside him, I wonder, to give him the power to rip souls from bodies and command spirits like his puppets? And how did I not see it before?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50261",
+      "id": 111477345,
       "en": "Examine the item",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50265",
+      "id": 111477349,
       "en": "Talk to Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1161",
+      "id": 177082721,
       "en": "The large map is torn, half of it missing",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50268",
+      "id": 111477352,
       "en": "Examine the map",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50210",
+      "id": 111477264,
       "en": "Belondor must survive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01142",
+      "id": 246419778,
       "en": "You and Belondor have spotted something at the end of this hallway. You should investigate what it is.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50212",
+      "id": 111477266,
       "en": "Belondor must survive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50214",
+      "id": 111477268,
       "en": "Belondor must survive",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01145",
+      "id": 246419781,
       "en": "At the end of a hallway in Mâkhda Khorbo you and Belondor have found a tapestry on the wall that is a map. You should examine the map.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b5",
+      "id": 162883765,
       "en": "TBD Well, we did that.  Let's leave.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a6",
+      "id": 246419878,
       "en": "You have arrived at the Iron Stairway in Mâkhda Khorbo, where you and Belondor faced each other as enemies, and where his crew was slain by Azagath's dark magic.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1171",
+      "id": 177082737,
       "en": "You spot something at the end of this hall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50276",
+      "id": 111477366,
       "en": "Talk to Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a8",
+      "id": 246419880,
       "en": "You have arrived at the Iron Stairwell in Mâkhda Khorbo, where you and Belondor faced each other as enemies, and where his crew was slain by Azagath's dark magic. You should talk to Belondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'When last we were in this room together, we faced each other as enemies. How is it that it feels like an eternity ago, but also like it was just yesterday? I have been trying to push all of this from my mind, [placeholder]. It seemed like the only way I would be able to go on.\\n\\n'But I see now that closing off my heart does them an injustice. They were family to me, [placeholder], and I miss them with all of my heart. But is that not the danger any time you choose to love? I don't think I care much for the alternative.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1174",
+      "id": 177082740,
       "en": "TBD You spot a map",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50279",
+      "id": 111477369,
       "en": "Follow Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01152",
+      "id": 246419794,
       "en": "You have searched Mâkhda Khorbo and found the remains of a map, torn in half. You should talk to Belondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01155",
+      "id": 246419797,
       "en": "You have arrived at the Iron Stairway in Mâkhda Khorbo, where you and Belondor faced each other as enemies, and where his crew was slain by Azagath's dark magic. You should talk to Belondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56866",
+      "id": 162883686,
       "en": "'Prepare yourself for a fight [placeholder]. There are enemies ahead. They will not stay our search.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b1",
+      "id": 246419889,
       "en": "TBD Obj Description",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56869",
+      "id": 162883689,
       "en": "This large map is an old and tattered tapestry. The right half of it has been cut and torn from what remains; and recently, by the looks of it. The lettering on it is written in a language with which you are unfamiliar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01159",
+      "id": 246419801,
       "en": "Within Mâkhda Khorbo, Belondor has noticed that the gate previously blocking access to the stairs is now open. You should go up the stairs.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b4",
+      "id": 246419892,
       "en": "As you enter this upstairs area, you discover that it is infested with bats. You should defeat bats.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1183",
+      "id": 177082755,
       "en": "This area is infested with bats",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b8",
+      "id": 246419896,
       "en": "You are in an area of Mâkhda Khorbo that Belondor says he saw Azagath and Nakási enter. You should search the area for signs of why they may have come here.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56870",
+      "id": 162883696,
       "en": "'I think we have found what we came for. Let us leave this hateful place.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1187",
+      "id": 177082759,
       "en": "Defeated Ghâbekhid ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01164",
+      "id": 246419812,
       "en": "You have arrived at the Iron Stairway in Mâkhda Khorbo, where you and Belondor faced each other as enemies, and where his crew was slain by Azagath's dark magic. You should talk to Belondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56875",
+      "id": 162883701,
       "en": "Belondor stops for a moment and looks around. He mutters something to himself, and you can see on his face that something just occurred to him.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1131",
+      "id": 177082673,
       "en": "You have failed to protect Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Instance: Searching the Depths",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed43",
+      "id": 235466051,
       "en": "Follow Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe08ed44",
+      "id": 235466052,
       "en": "Follow Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1133",
+      "id": 177082675,
       "en": "You have failed to protect Belondor",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01168",
+      "id": 246419816,
       "en": "Belondor has spotted something in Mâkhda Khorbo. You should follow Belondor.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,136 +2,114 @@
   "id": 621024743,
   "txt": [
     {
-      "id": "0xeb011b0",
+      "id": 246419888,
       "en": "The crafting recipes you must create can be bartered for from the Improved Recipes vendor.\\n\\nCraft guild-pattern leather armour padding.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730889",
+      "id": 225642633,
       "en": "Still stitching?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d159",
+      "id": 24695129,
       "en": "The leader of the Tailor's Guild has asked you to put together some leather armour padding as an example to the apprentices.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7308a2",
+      "id": 225642658,
       "en": "'Still stitching?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa36",
+      "id": 149027382,
       "en": "Back to Basics - Padding",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50297",
+      "id": 111477399,
       "en": "Execute the recipe for guild-pattern leather armour padding",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'The apprentices we're getting these days leave much to be desired. I was thinking that seeing a piece made by a real master would give them something to strive for. Let's start with the basics. How about some padding for leather armour? Use the new guild recipe from the Improved Recipes Vendor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Hambrennil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56880",
+      "id": 162883712,
       "en": "What a fine example for the apprentices.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd7308a6",
+      "id": 225642662,
       "en": "'Still stitching?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Talk to the Tailor's Guild Leader in Minas Morgul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "Well done! Each loaf looks identical to the last.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd730891",
+      "id": 225642641,
       "en": "Still stitching?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "What a fine example for the apprentices.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Talk to Hambrennil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b1",
+      "id": 162883761,
       "en": "'What a fine example for the apprentices.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a5",
+      "id": 177082789,
       "en": "Executed the recipe for guild-pattern leather armour padding",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'The apprentices we're getting these days leave much to be desired. I was thinking that seeing a piece made by a real master would give them something to strive for. Let's start with the basics. How about some padding for leather armour? Use the new guild recipe from the Improved Recipes Vendor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "Turn in guild-pattern leather armour padding ([placeholder]/[placeholder]) to Hambrennil",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b5",
+      "id": 162883765,
       "en": "'What a fine example for the apprentices.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "Talk to the Tailor's Guild Leader in Minas Morgul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "Turn in guild-pattern leather armour padding ([placeholder]/[placeholder]) to the Tailor's Guild Leader in Minas Morgul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

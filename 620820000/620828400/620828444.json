@@ -2,64 +2,54 @@
   "id": 620828444,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Greetings, [placeholder], and welcome to Gwingris.\\n\\n'As you can see, our outpost is running low on supplies. I am afraid that the next shipment from Rivendell is long overdue, and that without those supplies, we will have a difficult time holding out against the forces of the Enemy.\\n\\n'Prior deliveries have met with trouble in the valley to the east of here in the form of worms.  If you could take the time to thin their numbers in the valley, our efforts to resupply will proceed more smoothly in the future.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Well done, [placeholder]. I think that should thin their numbers enough for our supplies to make it through unharmed for the near future.\\n\\n'There is still more that can be done, however.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Deliveries made in the past from Rivendell often speak of worms that dwell in the valley far to the east of here. Begin your hunt there.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Path From Rivendell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Vile worms threaten the routes from Rivendell to the Elf-waypost at Gwingris.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Defeated worms ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Defeat worms ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Worms can be found in the valleys east of Gwingris.\\n\\nDaegennan has asked you to help clear the routes between Rivendell and Gwingris of worms.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Daegennan at Gwingris",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Daegennan is at Gwingris, west of the worm-valleys.\\n\\nYou should return to Daegennan in Gwingris.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

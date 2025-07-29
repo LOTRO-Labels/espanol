@@ -2,100 +2,84 @@
   "id": 620905600,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "The ground here looks to have little ore",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "The ground here looks to have some ore",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "The ground here looks to be rich with ore",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The iron being mined at Ghâmpronk can be used to make needed weapons and armour.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "Dug Iron at Ghâmpronk ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Every day, new warriors take up the fight to defend our lands. In order to fight, they each need their own weapons and armour; otherwise, the battle is short and unsatisfying in its results.\\n\\n'The goblins have primed a mine for us across the river, at Ghâmpronk. Bring this pick, head to the mine, and gather what iron you can scavenge.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Iron can be mined at Ghâmpronk.\\n\\nWaldeg asked you to venture across the river to Ghâmpronk and mine iron.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'This iron will allow us to outfit many new warriors.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Waldeg is at Snowbourn.\\n\\nWaldeg will be pleased to begin making weapons and armour with the iron from Ghâmpronk.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Let me know when you are ready to get your hands dirty at Ghâmpronk.'\\n\\n<rgb=#FF0000>This is an instanced public questing area.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Use your pick-axe to dig for Iron at Ghâmpronk ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Talk to Waldeg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>Completing Aiding the Eastemnet will cancel this quest</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Speak to Waldeg",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Ghâmpronk: Digging For Iron",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Completing Aiding the Eastemnet will cancel this quest",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

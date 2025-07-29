@@ -2,88 +2,284 @@
   "id": 620879431,
   "txt": [
     {
-      "id": "0x55540c1",
+      "id": 89473217,
       "en": "<rgb=#00ffff>Encounter Complete: Tharb has fallen to your mighty blow.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55540c2",
+      "id": 89473218,
       "en": "<rgb=#00ffff>Encounter Complete: Zímarp has fallen to your mighty blow.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55540c3",
+      "id": 89473219,
       "en": "<rgb=#00ffff>Encounter Complete: Krampum falls to your mighty blow.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55540c4",
+      "id": 89473220,
       "en": "<rgb=#00ffff>Encounter Complete: Pugh has been defeated.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55540c5",
+      "id": 89473221,
       "en": "<rgb=#00ffff>Encounter Complete: Fríb, the boggart, falls to your mighty blow.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x55540c6",
+      "id": 89473222,
       "en": "<rgb=#00ffff>Encounter Complete: Kaushar has been defeated, crushing his attempt to retake the hill.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2b0d41",
+      "id": 204148033,
       "en": "<rgb=#00ffff>Encounter: Tharb has arrived to re-take the eastern gates.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2b0d42",
+      "id": 204148034,
       "en": "<rgb=#00ffff>Encounter: Zímarp has arrived to re-take the western gates.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2b0d43",
+      "id": 204148035,
       "en": "<rgb=#00ffff>Encounter: Krampum has arrived to re-take the western flank.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2b0d44",
+      "id": 204148036,
       "en": "<rgb=#00ffff>Encounter: Pugh has arrived on the eastern flank to reinforce the courtyard.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65a7021",
+      "id": 106590241,
       "en": "A goblin scout is trying to escape with word of Esteldín's location.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2b0d45",
+      "id": 204148037,
       "en": "<rgb=#00ffff>Encounter: An angry shout is heard in the courtyard below.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc2b0d46",
+      "id": 204148038,
       "en": "<rgb=#00ffff>Encounter: The sound of a mighty roar is heard from the courtyard below.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
-      "en": "'The Rangers of Esteldín will remember you�",
-      "es": "",
-      "es (fem)": ""
+      "id": 218649169,
+      "en": "'The Rangers of Esteldín will remember your service, [placeholder]. Without your aid, Esteldín would surely have fallen.'",
+      "es": ""
+    },
+    {
+      "id": 136263297,
+      "en": "<rgb=#00FF00>Secured the main gate</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263298,
+      "en": "<rgb=#00FF00>Secured the western gate</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263299,
+      "en": "<rgb=#00FF00>Secured the eastern gate</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263300,
+      "en": "<rgb=#00FF00>Secured the central gate</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263301,
+      "en": "<rgb=#00FF00>Secured the entrance of Graug's encampment</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263302,
+      "en": "<rgb=#00FF00>You have secured the area after destroying the Catapults. Now you can seek out and defeat Graug and his goblin-scouts.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263303,
+      "en": "Destroyed catapults ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Late in the night, a party of goblin-scouts discovered the location of the Ranger-refuge known as Esteldín. The goblins have fled to Dol Dínen, where you must dispatch them before they can bring reinforcements.",
+      "es": ""
+    },
+    {
+      "id": 136263304,
+      "en": "<rgb=#00FF00>Defeated Graug and secured the knowledge of Esteldín's location</rgb>",
+      "es": ""
+    },
+    {
+      "id": 136263305,
+      "en": "You allowed a goblin-scout to escape with the knowledge of the location of Estledín",
+      "es": ""
+    },
+    {
+      "id": 31119329,
+      "en": "'Rain fire down upon these feeble weaklings.'",
+      "es": ""
+    },
+    {
+      "id": 63204993,
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The central gate is secure. It is safe to press on</rgb>",
+      "es": ""
+    },
+    {
+      "id": 169700881,
+      "en": "'The Rangers of the North will fall to the Iron Crown! Come forward flames... burn any of those who would attempt to escape.'",
+      "es": ""
+    },
+    {
+      "id": 63204994,
+      "en": "<rgb=#00FF00>The counterattack has been defeated. The entrance to Graug's tent is secure. It is safe to press on</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Secure the main gate",
+      "es": ""
+    },
+    {
+      "id": 128923489,
+      "en": "With both outside gates secured, fewer reinforcements will be able to counter the daring attack on Dol Dinen.",
+      "es": ""
+    },
+    {
+      "id": 8453713,
+      "en": "<rgb=#FF0000>A counterattack has been launched against the central gate</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "Secure the western gate",
+      "es": ""
+    },
+    {
+      "id": 8453714,
+      "en": "<rgb=#FF0000>A counterattack has been launched against the entrance of Graug's tent</rgb>",
+      "es": ""
+    },
+    {
+      "id": 106092321,
+      "en": "A goblin scout was narrowly intercepted by the Rangers that followed behind you. With the battle raging, no other Goblins can escape or all will be lost.",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Secure the eastern gate",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "Secure the central gate",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Secure the entrance of Graug's encampment",
+      "es": ""
+    },
+    {
+      "id": 22075078,
+      "en": "Secure the area.",
+      "es": ""
+    },
+    {
+      "id": 22075079,
+      "en": "Destroy catapults ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 22075080,
+      "en": "Defeat Graug and secure the knowledge of Esteldín's location",
+      "es": ""
+    },
+    {
+      "id": 22075081,
+      "en": "<rgb=#FF0000>Do not allow a goblin-scout to escape.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621393,
+      "en": "Breach and secure the main gate of Dol Dínen.",
+      "es": ""
+    },
+    {
+      "id": 171407745,
+      "en": "Following a shrill cry from the ridge, stones begin to rain down on the courtyard.",
+      "es": ""
+    },
+    {
+      "id": 228820577,
+      "en": "Main Gate",
+      "es": ""
+    },
+    {
+      "id": 94621394,
+      "en": "Breach either the western or eastern gate of Dol Dínen.",
+      "es": ""
+    },
+    {
+      "id": 228820578,
+      "en": "Western Gate",
+      "es": ""
+    },
+    {
+      "id": 94621395,
+      "en": "With a path cleared through one of the gates, the central gate now bars your way from reaching the goblin-scouts.  ",
+      "es": ""
+    },
+    {
+      "id": 228820579,
+      "en": "Eastern Gate",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "Secure the entrance of the Graug's encampment at the top of the hill looking down upon the central gate.",
+      "es": ""
+    },
+    {
+      "id": 228820580,
+      "en": "Central Gate",
+      "es": ""
+    },
+    {
+      "id": 228820581,
+      "en": "Entrance to Graug's Encampment",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "Seek out and destroy the catapults that lie outside Graug's tent. This will allow the Rangers below to secure the camp below. ",
+      "es": ""
+    },
+    {
+      "id": 228820582,
+      "en": "Catapults",
+      "es": ""
+    },
+    {
+      "id": 94621398,
+      "en": "The courtyard has fallen. Now all that remains is to defeat Graug and destroy any remnants of the information that he has gathered.",
+      "es": ""
+    },
+    {
+      "id": 228820583,
+      "en": "Graug's Encampment",
+      "es": ""
+    },
+    {
+      "id": 228870261,
+      "en": "Attack at Dawn",
+      "es": ""
     }
   ]
 }

@@ -2,88 +2,74 @@
   "id": 621064425,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have failed to deliver the satchel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You were spotted by one of the Chief's Bounders",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "Postman Hartclover of Tighfield has asked you to deliver a satchel to Gamwich.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e113",
+      "id": 262725907,
       "en": "You were spotted by one of Lotho's Bounders",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Postman Hartclover can be found in Tighfield, in Yondershire.\\n\\nDeliver the satchel to Postman Mapledore in Gamwich as quickly as possible. Let no nosey hobbits or those surly Bounders interfere with your duty!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5022",
+      "id": 225071138,
       "en": "<rgb=#FF0000>Avoid Lotho's Bounders</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "You were spotted by a nosey hobbit",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5681",
+      "id": 228284033,
       "en": "'As I said, I have many deliveries from Gamwich to manage today, and though it will only make more work for me, I do need someone to run the route to Gamwich on behalf of the Quick Post.\\n\\n'If you would be willing to ease my workload, I need a satchel of mail to be delivered to Gamwich. If you follow the road west out of Tighfield and continue north at the fork, you'll find your way to Gamwich. You'll find Postman Mapledore at the Quick Post in Gamwich. It's not far into the village, and the Postman keeps a stable near the Quick Post, so that ought to catch your eye!\\n\\n'And keep a look-out for nosey hobbits! You're best off avoiding them if you can—they make our routes take three times as long as they ought to!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "<rgb=#FF0000>Avoid nosey hobbits</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect the satchel from Postman Hartclover's table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Carry the satchel to Postman Mapledore in Gamwich",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "<rgb=#FF0000>Avoid the Chief's Bounders</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'The satchel for Gamwich is over there on the table. Let no nosey hobbits or those rumoured Bounders out of Hithershire interfere with your duty!\\n\\n'Oh, and don't let the satchel get wet!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Route: Tighfield to Gamwich",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

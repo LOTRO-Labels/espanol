@@ -2,88 +2,79 @@
   "id": 621077689,
   "txt": [
     {
-      "id": "0x9b56848",
+      "id": 162883656,
       "en": "'We will need to fell many of the trees around the camp, but it wouldn't do to strip the forest bare.'\\n\\nHe hands you a map of the Ringló Vale with a small section of the nearby woods marked off.\\n\\n'Explore this area and mark down the locations of any young trees you find. We'll leave them be until they're old enough.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1152",
+      "id": 177082706,
       "en": "This tree is too young to fell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56860",
+      "id": 162883680,
       "en": "'Thank you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Oristor needs help identifying which trees around the lumber camp are old enough for felling, and which are too young.\\n\\nExamine some trees around the lumber camp.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1153",
+      "id": 177082707,
       "en": "This tree is too young to fell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1154",
+      "id": 177082708,
       "en": "This lively tree is too young to fell",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011b2",
+      "id": 246419890,
       "en": "You have finished your survey of the trees, and should report back to Oristor with your findings.\\n\\nOristor can be found at the lumber camp near Ethring.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1156",
+      "id": 177082710,
       "en": "This young tree thinks it knows better than its elders. Ah, youth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1157",
+      "id": 177082711,
       "en": "This tree is but a babe, and has so much of the world to see.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1158",
+      "id": 177082712,
       "en": "This tree doesn't care whether you mark it as safe to fell or not. You mark it anyway.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d1a5",
+      "id": 24695205,
       "en": "The workers at Ethring's lumber camp need to identify which trees are too young to harvest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50270",
+      "id": 111477360,
       "en": "Mark trees ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56859",
+      "id": 162883673,
       "en": "TBD",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Not All at Once",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
+    },
+    {
+      "id": 111477319,
+      "en": "Talk to Oristor",
+      "es": ""
     }
   ]
 }

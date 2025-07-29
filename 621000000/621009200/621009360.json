@@ -2,94 +2,79 @@
   "id": 621009360,
   "txt": [
     {
-      "id": "0x6a50261",
+      "id": 111477345,
       "en": "<rgb=#FF0000>Completing 'Restoring the Three Kingdoms' will cancel this quest</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01197",
+      "id": 246419863,
       "en": "Saplings can be found just south of Felegoth.\\n\\nYou should gather saplings that are to be planted around the forest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50279",
+      "id": 111477369,
       "en": "Clear dead trees ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1153",
+      "id": 177082707,
       "en": "Collected saplings ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1155",
+      "id": 177082709,
       "en": "Planted sapling ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1140",
+      "id": 177082688,
       "en": "Cleared dead trees ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01159",
+      "id": 246419801,
       "en": "You should return to Radagast, who can be found at the tree nursery just outside of Felegoth.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01143",
+      "id": 246419779,
       "en": "Fertile soil and dead trees can both be found throughout Eryn Lasgalen.\\n\\nYou should clear away the dead trees and plant the saplings in fertile soil around the forest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e1fa24",
+      "id": 149027364,
       "en": "Life in Eryn Lasgalen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00ef6",
+      "id": 49286902,
       "en": "Plant saplings in fertile soil ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50271",
+      "id": 111477361,
       "en": "Talk to Radagast",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Have you a moment to aid me once more, my friend? My saplings have grown strong and the time has come to plant them in the fertile soil of Eryn Lasgalen. \\n\\n'Where many have fallen, new life shall soon spring. Such is nature's way.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d165",
+      "id": 24695141,
       "en": "Hoping to heal Eryn Lasgalen, Radagast has been cultivating saplings.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50272",
+      "id": 111477362,
       "en": "Collect saplings ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56870",
+      "id": 162883696,
       "en": "'Good, good! I knew I could count on you. The Greenleaves will return in time... of this I am certain!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

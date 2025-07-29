@@ -2,226 +2,189 @@
   "id": 620922806,
   "txt": [
     {
-      "id": "0xfa8e117",
+      "id": 262725911,
       "en": "This is a good place to look",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56885",
+      "id": 162883717,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b4",
+      "id": 162883764,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56886",
+      "id": 162883718,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b5",
+      "id": 162883765,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Helm's Gate: Keen Eye of an Archer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56887",
+      "id": 162883719,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b6",
+      "id": 162883766,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "<rgb=#FF0000>(This quest must be finished before Théoden's company departs)</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56888",
+      "id": 162883720,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b7",
+      "id": 162883767,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "<rgb=#FF0000>Look</rgb> northward",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56889",
+      "id": 162883721,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b8",
+      "id": 162883768,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b9",
+      "id": 162883769,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'I am glad to see you again, [placeholder], even at this dark hour. Have you seen what marches forth across the plains? This will be a fell night indeed. Will Rohan fall?'\\n\\nLegolas looks out northward, his keen eyes searching long the plains of the Westfold. You should look for yourself.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5689",
+      "id": 228284041,
       "en": "'Alas for the fair men and women of Rohan! Saruman's wrath approaches swiftly. You saw it too.\\n\\n'It seems that Erkenbrand has left many archers to man the wall. I wonder how soon their arrows will be spent.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "Counted a cluster of arrow-barrels: ([placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "Legolas has seen the approach of the great host of Isengard, and wishes for you to look to the defences of the men stationed at the gate to Helm's Deep.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Barrels of arrows can be found lining the wall at Helm's Gate.\\n\\nYou should count the barrels to see if the archers at Helm's Dike have enough arrows to defend Helm's Deep.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Legolas stands at Helm's Dike, his gaze cast northward.\\n\\nYou should <rgb=#FF0000>look</rgb> to the north to get a look at the troubled plains.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50290",
+      "id": 111477392,
       "en": "Speak with Legolas about what you saw",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'Erkenbrand has left these men well-stocked, but it will not be enough. Perhaps the first line of enemy soldiers will fall, but more will take their place, and they will crash upon the Hornburg like the sea on a castle of sand.\\n\\n'Alas for Rohan!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Count barrels of arrows stored at Helm's Gate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Legolas stands at Helm's Gate.\\n\\nYou should return and speak with Legolas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0118",
+      "id": 216727832,
       "en": "Legolas stands with the King's host at Helm's Gate.\\n\\nYou should return and speak with Legolas.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Return to Legolas",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe1ef96",
+      "id": 199356310,
       "en": "This is not a good place to look",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5024",
+      "id": 225071140,
       "en": "<rgb=#FF0000>Look</rgb> northward from a vantage point atop the cliff wall",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a2",
+      "id": 177082786,
       "en": "You see a creeping darkness, and smoke of the burning waste left by the marching enemy. The destruction is vast indeed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b0",
+      "id": 162883760,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b1",
+      "id": 162883761,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e115",
+      "id": 262725909,
       "en": "You see a creeping darkness, and smoke of the burning waste left by the marching enemy. The destruction is vast indeed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56883",
+      "id": 162883715,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b2",
+      "id": 162883762,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56884",
+      "id": 162883716,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b3",
+      "id": 162883763,
       "en": "'Yes?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

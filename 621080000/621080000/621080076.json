@@ -2,40 +2,59 @@
   "id": 621080076,
   "txt": [
     {
-      "id": "0x8e1faf3",
+      "id": 149027571,
       "en": "The Buried Treasure of Elbery",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf00e1e5",
+      "id": 251716069,
       "en": "Return to Húrwen",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859450",
+      "id": 226858064,
       "en": "'You actually did it! I had a good feeling about you - glad am I that I trusted my gut! ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568954",
+      "id": 190220628,
       "en": "'You actually did it! I saw you taking on those wretches too. I had a good feeling about you - glad am I that I trusted my gut! Give them here then, and I shall be sure to keep them away from my dear addled Father.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "You have recovered multiple sacks of coins from Elbery Farm.\\n\\nYou should bring the sacks of coin to Húrwen, who is waiting on the road west of Elbery, in Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
-      "en": "'Are you going down to my farm, Elbery? I am Húrwen, and yes, it is mine, but alas it's completely overrun with goblins. I came back to see if they'd moved on, but the wretched things are still there. I wonder if you could help me. When word came that goblins were sighted in the area, my father... well, you see, he's got a troubled mind and I'm afraid he took all the money in our coffers and buried it about the property in an effort to \\qkeep it safe.\\q\\n\\n'I know I'm taking a big risk here, asking a stranger to recover it for me, but you're my only hope of getting back my coin before the goblins start wondering what's under the freshly d",
-      "es": "",
-      "es (fem)": ""
+      "id": 190220630,
+      "en": "'Are you going down to my farm, Elbery? I am Húrwen, and yes, it is mine, but alas it's completely overrun with goblins. I came back to see if they'd moved on, but the wretched things are still there. I wonder if you could help me. When word came that goblins were sighted in the area, my father... well, you see, he's got a troubled mind and I'm afraid he took all the money in our coffers and buried it about the property in an effort to \\qkeep it safe.\\q\\n\\n'I know I'm taking a big risk here, asking a stranger to recover it for me, but you're my only hope of getting back my coin before the goblins start wondering what's under the freshly dug earth.\\n\\n'Please, bring me back any coin you find, and I'll give you a share of it in return.'",
+      "es": ""
+    },
+    {
+      "id": 126687017,
+      "en": "From a hill overlooking a large farm, a woman waits for help recovering her stolen coin.",
+      "es": ""
+    },
+    {
+      "id": 148970136,
+      "en": "Recovered buried coins ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 226858025,
+      "en": "'Are you going down to my farm? Yes, it is mine, but alas it's completely overrun with goblins.'",
+      "es": ""
+    },
+    {
+      "id": 173025367,
+      "en": "Recover buried coins ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "Húrwen has asked you to search for sacks of coin that her father secreted about her farm.\\n\\nElbery Farm is located in north-western Pinnath Gelin.",
+      "es": ""
     }
   ]
 }

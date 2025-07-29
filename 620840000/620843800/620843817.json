@@ -2,70 +2,59 @@
   "id": 620843817,
   "txt": [
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'This is not acceptable, [placeholder]...the Orcs of Moria have defiled the bodies of our gallant defenders who have fallen and taken away trophies. Those stolen belongings must be recovered!\\n\\n'Go to Mokûrz Gundul, one of the Orc-camps in Fanuidhol, and recover any of the stolen items that you can find. They belong to the families left behind.\\n\\n'Mokûrz Gundul lies to the north of here. Anything you bring back will be appreciated.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Thank you, [placeholder]. Most of these items remain unspoiled and may be returned to the families of their rightful owners.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'The Galadhrim will be grateful for any stolen belongings you can return to us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Were you not able to recover the stolen belongings from Mokûrz Gundul, [placeholder]?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Looting Mokûrz Gundul",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Orcs of Moria have begun mustering in Fanuidhol in preparation to assault Lothlórien.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Collected crates of stolen belongings at Mokûrz Gundul ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Collect crates of stolen belongings at Mokûrz Gundul ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Mokûrz Gundul lies to the north-west from Talan Fanuidhol.\\n\\nFaelleron has asked you to enter Mokûrz Gundul and collect any stolen belongings you find there.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Bring the stolen belongings to Faelleron at Talan Fanuidhol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Faelleron is at Talan Fanuidhol, south of Mokûrz Gundul.\\n\\nYou should return to Faelleron with the stolen belongings you recovered.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

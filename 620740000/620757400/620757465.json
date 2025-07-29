@@ -2,1126 +2,939 @@
   "id": 620757465,
   "txt": [
     {
-      "id": "0x9bbf57e",
+      "id": 163313022,
       "en": "WARNING: You will start your new profession with Journeyman (Tier 2) recipes, but will lose all recipes and experience for your prior profession ([placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x86fe5d3",
+      "id": 141551059,
       "en": "Success!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcd2db37",
+      "id": 215145271,
       "en": "Waiting for cooldown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaaa9ce5",
+      "id": 178953445,
       "en": "Critical failure!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcdc69a9",
+      "id": 215771561,
       "en": "Only One Use",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x58f0df0",
+      "id": 93261296,
       "en": "You are proficient at this level",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f7d8b9",
+      "id": 33020089,
       "en": "[placeholder]: [placeholder], [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x755bf04",
+      "id": 123059972,
       "en": "The item must be in your backpack and not equipped before you can modify it!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6ee18f0",
+      "id": 116267248,
       "en": "Reset the cooldown on this recipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x36545b2",
+      "id": 56968626,
       "en": "Attempt aborted due to system error!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbd3fd57",
+      "id": 198442327,
       "en": "[placeholder] skill level of [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbbf58c3",
+      "id": 197089475,
       "en": "WARNING: You will start your new professions with Journeyman (Tier 2) recipes, but will lose all recipes and experience for your prior professions ([placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x65a7319",
+      "id": 106591001,
       "en": "You are not close enough to [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4718a25",
+      "id": 74549797,
       "en": "Crafting",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b49530",
+      "id": 162829616,
       "en": "This recipe has a cooldown period between uses.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4d0ffb5",
+      "id": 80805813,
       "en": "You have already added that Supplement to the list of optional components!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75ea420",
+      "id": 123642912,
       "en": "You are proficient at this tier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5de2c33",
+      "id": 98446387,
       "en": "Get More",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x439401e",
+      "id": 70860830,
       "en": "Click here to clear your current crafting component selection.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xca39424",
+      "id": 212046884,
       "en": "[placeholder] [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x274d145",
+      "id": 41210181,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6aecd54",
+      "id": 112119124,
       "en": "Train More",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4534e34",
+      "id": 72568372,
       "en": "Required Components:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29b9a4c",
+      "id": 43752012,
       "en": "Make All",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc1522d4",
+      "id": 202711764,
       "en": "This attempt will cost up to [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34872e4",
+      "id": 55079652,
       "en": "You do not meet the requirements to attempt to repair that item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7887e13",
+      "id": 126385683,
       "en": "(",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x25f9b7",
+      "id": 2488759,
       "en": "You feel that success would bring you closer to the light.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3d7cb85",
+      "id": 64473989,
       "en": "Use",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf48a96e",
+      "id": 256420206,
       "en": "Create",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7ca397e",
+      "id": 130693502,
       "en": "WARNING: You will lose all recipes, craft guild reputation, and crafting experience for any profession not shared in the new vocation. Are you sure?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f919a4",
+      "id": 33102244,
       "en": "[placeholder] and [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa57322",
+      "id": 10842914,
       "en": "Master",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfbe7095",
+      "id": 264138901,
       "en": "There is already a Supplement of the same type in the list of optional components!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf4ea0b4",
+      "id": 256811188,
       "en": "[placeholder], [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x229ec39",
+      "id": 36301881,
       "en": "Item to be modified:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf54e1d4",
+      "id": 257221076,
       "en": "You have already added the maximum number of Supplements allowed!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9531f29",
+      "id": 156442409,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc19e0c7",
+      "id": 203022535,
       "en": "[placeholder] ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4400b57",
+      "id": 71306071,
       "en": "You feel that success would take you further into darkness.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x957fc67",
+      "id": 156761191,
       "en": "The target item level is too low for the Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x260733",
+      "id": 2492211,
       "en": "Costs for this attempt:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x27ae970",
+      "id": 41609584,
       "en": "This will show the next output",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x896f69e",
+      "id": 144111262,
       "en": "Cooldown: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64c67cb",
+      "id": 105670603,
       "en": "Use [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeaa4585",
+      "id": 246039941,
       "en": "Failure!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c3f4f4",
+      "id": 163837172,
       "en": "The Supplement you have specified is not of a type that can be applied to the result item of the selected recipe!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x813047",
+      "id": 8466503,
       "en": "Click here and drag to move this panel.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xed39fc",
+      "id": 15546876,
       "en": "Make",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9c1d214",
+      "id": 163697172,
       "en": "You do not meet the requirements to use that Supplement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe3cda32",
+      "id": 238869042,
       "en": "Item to be repaired:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe297670",
+      "id": 237598320,
       "en": "Select this option to use the optional ingredient to increase your chances of getting a critical success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee50a87",
+      "id": 249891463,
       "en": "Your level in the crafting skill required to use that Supplement is too low!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x76c10c4",
+      "id": 124522692,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf868f13",
+      "id": 260476691,
       "en": "Progress:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b25265",
+      "id": 162681445,
       "en": "[placeholder]([placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x52c17c9",
+      "id": 86775753,
       "en": "This recipe can only be used once - it is removed from your list after use.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x92f604",
+      "id": 9631236,
       "en": "Attempt interrupted!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x60016a7",
+      "id": 100669095,
       "en": "<rgb=#FF6600>WARNING: Items crafted with ingredient packs will be bound to your account upon creation!</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x28e28b9",
+      "id": 42870969,
       "en": "Profession slot item [placeholder] was not found in inventory.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9cb9b85",
+      "id": 164338565,
       "en": "The item you specified is not a Restorative, it cannot be used as a repair component!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4ba0a4",
+      "id": 4956324,
       "en": "You cannot use that Supplement with the given Recipe at this time!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb412f50",
+      "id": 188821328,
       "en": "Search for recipes",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9364de4",
+      "id": 154553828,
       "en": "Successfully used: [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x323b747",
+      "id": 52672327,
       "en": "The target item level is too low to be repaired using the Restorative!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdacb6b4",
+      "id": 229422772,
       "en": "Supplements (optional):",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15ff7c4",
+      "id": 23066564,
       "en": "Skills:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x918caf4",
+      "id": 152619764,
       "en": "That item is not damaged, it does not require repairs!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x15180ec",
+      "id": 22118636,
       "en": "You do not know the crafting skill required to apply that Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe25fdee",
+      "id": 237370862,
       "en": "WARNING: If you replace a crafting profession you will lose all recipes, craft guild reputation, and crafting experience for this profession. Are you sure?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x64d0c0c",
+      "id": 105712652,
       "en": "You do not know the crafting skill required to repair that item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x936daf0",
+      "id": 154589936,
       "en": "You have earned [placeholder]/[placeholder] out of (x) craft XP towards proficiency for this tier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x607c7a7",
+      "id": 101173159,
       "en": "Your level in the crafting skill required to apply that Reinforcement is too low!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbbbd8f5",
+      "id": 196860149,
       "en": "The target item has already been modified using that type of Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3e3ee73",
+      "id": 65269363,
       "en": "+[placeholder]%",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x74951f4",
+      "id": 122245620,
       "en": "Multiple output recipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5211ed4",
+      "id": 86056660,
       "en": "Proficient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x466b5ee",
+      "id": 73840110,
       "en": "WARNING: You will lose all recipes and crafting experience for the following profession ([placeholder]).",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x26d4464",
+      "id": 40715364,
       "en": "Inscribe item here:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe5f1a4",
+      "id": 15069604,
       "en": "Recipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5ba435",
+      "id": 257664053,
       "en": "Chance of success:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe02a24",
+      "id": 14690852,
       "en": "The item you specified is not a Supplement, it cannot be used with the selected recipe!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc5ce860",
+      "id": 207415392,
       "en": "You are proficient at this tier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57905c9",
+      "id": 91817417,
       "en": "This recipe has a cooldown",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb8f522e",
+      "id": 193942062,
       "en": "Disable item inscription",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ee8dbe",
+      "id": 32411070,
       "en": "Repair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1a74bc0",
+      "id": 27741120,
       "en": "You have [placeholder] out of [placeholder] experience towards mastery",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1f1208d",
+      "id": 32579725,
       "en": "That Reinforcement cannot be used to modify the target item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb1ab937",
+      "id": 186300727,
       "en": "[placeholder] ([placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7067819",
+      "id": 117864473,
       "en": "Proficiency allows you to use recipes to craft items and equipment.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x771a672",
+      "id": 124888690,
       "en": "Repair",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7c56b6c",
+      "id": 130378604,
       "en": "Optional:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf1d02ae",
+      "id": 253559470,
       "en": "Train",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xef95f74",
+      "id": 251223924,
       "en": "You do not have enough [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbc70d04",
+      "id": 197594372,
       "en": "The item must be in your backpack and not equipped before you can repair it!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe7cc7f4",
+      "id": 243058676,
       "en": "The Restorative cannot be used to repair the target item, it is not of the correct category!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe86f6cf",
+      "id": 243726031,
       "en": "[placeholder]/[placeholder] [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8de6a14",
+      "id": 148793876,
       "en": "Mastery Options",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb2039e3",
+      "id": 186661347,
       "en": "...",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4a26bfc",
+      "id": 77753340,
       "en": "Click here to sort the recipe list by required skill level, highest to lowest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81dd13c",
+      "id": 136171836,
       "en": "Ingredients:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b36ad3",
+      "id": 28535507,
       "en": "You can not train additional professions at this time.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb2989ae",
+      "id": 187271598,
       "en": "Crafting: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50fab53",
+      "id": 84912979,
       "en": "That item does not have any reinforcement points available!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa72f764",
+      "id": 175306596,
       "en": "Multi output recipe",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b35f30",
+      "id": 162750256,
       "en": "This recipe can produce a variety of items - use the select output buttons to choose the item you wish to make.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x12d0934",
+      "id": 19728692,
       "en": "Choose the item you wish to produce with this recipe.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x820c094",
+      "id": 136364180,
       "en": "Select Output",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcc5ea3c",
+      "id": 214297148,
       "en": "You do not know the crafting skill required to use that Supplement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8775ac3",
+      "id": 142039747,
       "en": "[placeholder]:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5bf8824",
+      "id": 96438308,
       "en": "Reset",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x50f570c",
+      "id": 84891404,
       "en": "Cancel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb05e8b7",
+      "id": 184936631,
       "en": "In order to advance to the next tier, you need to purchase access to the profession at the store.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x821d32c",
+      "id": 136434476,
       "en": "Critical Chance:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7bb1e17",
+      "id": 129703447,
       "en": "You are not at an appropriate facility to be able to apply that Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe92ae5",
+      "id": 199830245,
       "en": "A system error has prevented the operation you just attempted from completing!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1ab9624",
+      "id": 28022308,
       "en": "Crafting skill used:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x34a6e9e",
+      "id": 55209630,
       "en": "Click here to clear your current target item selection.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1b50244",
+      "id": 28639812,
       "en": "You do not meet the requirements to use that Restorative!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8168815",
+      "id": 135694357,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x29cca5e",
+      "id": 43829854,
       "en": "Train",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2446854",
+      "id": 38037588,
       "en": "Reinforcement to use:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbcfb987",
+      "id": 198162823,
       "en": "You are not at an appropriate facility to be able to repair that item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7558cc5",
+      "id": 123047109,
       "en": "Are you sure?",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x75e9a24",
+      "id": 123640356,
       "en": "You do not currently have a craft profession. Seek out a Master or Mistress of Apprentices to begin your studies. Monster players are not allowed craft professions.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7001c4c",
+      "id": 117447756,
       "en": "Cancel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb9a23c",
+      "id": 12165692,
       "en": "<rgb=#40F800>[placeholder] Craft XP Earned: [placeholder]</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x23aade8",
+      "id": 37400040,
       "en": "The target item level is too high to be repaired using the Restorative!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc7c57f2",
+      "id": 209475570,
       "en": "Clear",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3577735",
+      "id": 56063797,
       "en": "[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x68e3b74",
+      "id": 109984628,
       "en": "[placeholder] Craft XP Earned: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf13c684",
+      "id": 252954244,
       "en": "You do not meet the requirements to use that Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbbdaacc",
+      "id": 196979404,
       "en": "You are missing required craft tool: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7272cfc",
+      "id": 120007932,
       "en": "Tool Required: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2b8ab94",
+      "id": 45656980,
       "en": "Up to [placeholder] points of [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x158ccb5",
+      "id": 22596789,
       "en": "Choose one craft profession to replace:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xaa60d15",
+      "id": 178654485,
       "en": "None",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa4cb654",
+      "id": 172799572,
       "en": "You have not currently trained all of your available professions. Speak to a Master or Mistress of Apprentices to continue your studies.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xce1fc04",
+      "id": 216136708,
       "en": "You must choose an item first!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2221134",
+      "id": 35787060,
       "en": "Time Remaining: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1d86da9",
+      "id": 30961065,
       "en": "Modify",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc453864",
+      "id": 205863012,
       "en": "[placeholder]/[placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe4971be",
+      "id": 239694270,
       "en": "WARNING: You will lose all recipes and crafting experience for the profession ([placeholder]).",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x827d504",
+      "id": 136828164,
       "en": "You will also lose craft guild reputation and guild status for the [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xbe0bed0",
+      "id": 199278288,
       "en": "You are master at this level",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xc3a798d",
+      "id": 205158797,
       "en": "Earn mastery for this tier to create superior crafted items and to use optional ingredients, increasing your chance for critical success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x32db007",
+      "id": 53325831,
       "en": "You are not at an appropriate facility to be able to use that Supplement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb22161e",
+      "id": 186783262,
       "en": "Train",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe36dfa5",
+      "id": 238477221,
       "en": "[placeholder]%",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xab270c3",
+      "id": 179466435,
       "en": "[placeholder]/[placeholder] towards Proficiency",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x93916c9",
+      "id": 154736329,
       "en": "Facility Required: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x145aaa4",
+      "id": 21342884,
       "en": "Search:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfbc8567",
+      "id": 264013159,
       "en": "Your level in the crafting skill required to repair that item is too low!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4b1c820",
+      "id": 78759968,
       "en": "This recipe can only be used once - it is removed from your list after use.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe0170c9",
+      "id": 234975433,
       "en": "[placeholder]: [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x557ad5",
+      "id": 5602005,
       "en": "Create",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2aad3b4",
+      "id": 44749748,
       "en": "The Reinforcement cannot be applied to the target item, it is not of the correct category!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6d688a4",
+      "id": 114722980,
       "en": "[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x19842f5",
+      "id": 26755829,
       "en": "Click here to sort the recipe list alphabetically by name.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb3a520",
+      "id": 11773216,
       "en": "Select the amount of items you would like to create.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x88e9793",
+      "id": 143562643,
       "en": "The target item does not have enough reinforcement points left to support the Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb481439",
+      "id": 189273145,
       "en": "Quantity",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xee4939c",
+      "id": 249861020,
       "en": "Cancel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x38e5010",
+      "id": 59658256,
       "en": "You have [placeholder] out of [placeholder] experience towards proficiency",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1c72fd4",
+      "id": 29831124,
       "en": "Critical Success Produces:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x831087e",
+      "id": 137431166,
       "en": "Modify",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x57e7f48",
+      "id": 92176200,
       "en": "The target item level is too high for the Reinforcement!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x690cb64",
+      "id": 110152548,
       "en": "That item is broken beyond repair!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6d0144",
+      "id": 191693124,
       "en": "No profession slots have been granted.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf5fa2b4",
+      "id": 257925812,
       "en": "You can only use reinforcements that you currently possess to modify items!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x48fed8d",
+      "id": 76541325,
       "en": "That Restorative cannot be used to repair the target item!\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6991e2",
+      "id": 225022434,
       "en": "ID_ProfessionTrainer",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdc3d469",
+      "id": 230937705,
       "en": "Mastery allows you to create superior crafted items and to use optional ingredients, increasing your chance for critical success.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xdf2cd34",
+      "id": 234016052,
       "en": "Hide the entire Crafting Panel when creating item(s)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa0b74a4",
+      "id": 168522916,
       "en": "[placeholder] and [placeholder]",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe6bdbb5",
+      "id": 241949621,
       "en": "Restorative to use:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5ce38b4",
+      "id": 97401012,
       "en": "Requires fewer than [placeholder] professions.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c1893",
+      "id": 7084179,
       "en": "You have earned  [placeholder]/[placeholder] craft XP towards mastery for this tier",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xcdf20f4",
+      "id": 215949556,
       "en": "Sort by:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4971cb3",
+      "id": 77012147,
       "en": "WARNING: You will lose all recipes and crafting experience for the following professions ([placeholder]).",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6866cd4",
+      "id": 109472980,
       "en": "Recipes:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5239c64",
+      "id": 86219876,
       "en": "If this option is checked, then you will never be prompted to inscribe an item",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x743ce00",
+      "id": 121884160,
       "en": "Selecting this option allows you to use ingredient packs purchased from the LOTRO Store.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa584339",
+      "id": 173556537,
       "en": "Required Facility:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf6fb635",
+      "id": 258979381,
       "en": "Name",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4bc67be",
+      "id": 79456190,
       "en": "Click this button to begin the crafting attempt.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xe7bb8bc",
+      "id": 242989244,
       "en": "Skill Level",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

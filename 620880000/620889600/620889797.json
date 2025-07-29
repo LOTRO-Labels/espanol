@@ -2,160 +2,134 @@
   "id": 620889797,
   "txt": [
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'Marvelously done, [placeholder]! Marvelously done indeed. Your wonderful performance is deserving of a worthy gift.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'Not at all what I was expecting [placeholder], I suspect that you may not be concentrating on the task at hand. Try once more if you have the determination!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "The Mightiest Blow (Basic)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "Now you should slot your club as a skill -- the fight will begin soon",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'Now that you wield the mighty dwarf-club, you should enter the fight-arena and show others your strength! Stop at nothing, [placeholder]; do not let them deter you from your charge!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You did not enter the fight area in time",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "The fight has begun! You may begin swinging",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The fight-arena is the lowered floorspace in the centre of the arena, marked by green banners. The dwarf-club is in your inventory.\\n\\nGísli Strongclub has given you an excellent weapon to use during the contest. You should enter the fight-arena below while wielding your mighty dwarf-club.\\n\\n<rgb=#FF0000>WARNING: If you leave the fight-arena after entering, your club will not be usable outside of the fight-arena's bounds.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "Knocked a competitor out of the way ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The fight-arena's bounds are in the centre of the ale-hall at Thorin's Hall, marked by green banners.\\n\\nYou should wait for the fight to begin.\\n\\n<rgb=#FF0000>WARNING: If you leave the fight-arena and the contest begins, you will fail the quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3685",
+      "id": 136263301,
       "en": "This round has ended; you were unable to best your fellows in time",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Show everyone that you are a mighty competitor, give the other participants a good whack and send them reeling! \\n\\nSome competitors may stop moving to take the glorious beer, knock them away while you can! ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3686",
+      "id": 136263302,
       "en": "You ran out of time",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced4",
+      "id": 94621396,
       "en": "Gísli Strongclub is in the arena at Thorin's Hall.\\n\\nYou should speak with Gísli Strongclub to boast of your excellence in the glorious beer event.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3687",
+      "id": 136263303,
       "en": "You have dropped your mighty dwarf-club in the shock of shame and defeat",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3688",
+      "id": 136263304,
       "en": "This round has ended; you were unable to best your fellows in time",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3689",
+      "id": 136263305,
       "en": "You ran out of time",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Enter the fight-arena before the fight begins. Do not leave the bounds",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Slot the dwarf-club in your skills and wait for the fight to begin",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Give fellow players a whack for good measure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Talk to Gísli Strongclub before the time expires",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Give greedy fellow players a whack for good measure ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c6",
+      "id": 22075078,
       "en": "Do not leave the fight-arena",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c7",
+      "id": 22075079,
       "en": "Talk to Gísli Strongclub before the time expires",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have been challenged to enter the glorious beer contest in Thorin's Hall, where the mighty compete for prizes and glory.\\n\\n<rgb=#FF0000> NOTE: This quest will be removed from your quest log when the current festival ends. </rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Greetings! Are you here to participate in the glorious beer games?\\n\\n'Take this mighty dwarf-club and prepare to swing it at your fellow competitors. \\n\\n'There are different aspirations and requirements for contestants, feel free to talk to me to learn about each one.'\\n\\n<rgb=#FF0000>NOTE: The mighty dwarf-club will appear in your inventory. You may quickslot it to participate more effectively in the fight. This item cannot be used outside of the arena's bounds.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

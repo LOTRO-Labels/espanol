@@ -2,358 +2,299 @@
   "id": 621093393,
   "txt": [
     {
-      "id": "0x6a50294",
+      "id": 111477396,
       "en": "Collect mushroom ingredients from the mushroom crate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1191",
+      "id": 177082769,
       "en": "You collected the mushroom ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50296",
+      "id": 111477398,
       "en": "Collect fish for the meal from the barrel of fish",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1193",
+      "id": 177082771,
       "en": "You collected the spice ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "Deliver the Hearty Meal to a Thorin's Hall meal table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1195",
+      "id": 177082773,
       "en": "A sneaky hobbit swiped the dish",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "Create a Thorin's Hall Hearty Meal then deliver it to a meal table to help all the workers perform at their peak.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7f094a1",
+      "id": 133207201,
       "en": "'I am going to enjoy this. Thanks for wandering so nearby.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0114",
+      "id": 216727828,
       "en": "You made a Thorin's Hall Hearty Meal. Complete the meal in the oven and deliver it to a meal table.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5682",
+      "id": 228284034,
       "en": "'Swift and sturdy legs! That is what we need down here in the depths.\\n\\n'No doubt you noticed that the air this deep is stifling. Makes moving like walking through a running river. We have an answer for this problem. A Thorin's Hall Hearty Meal!\\n\\n'Collect up the mushrooms, fish, and spice. Then craft the meal and deliver it to the table for meals.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d11",
+      "id": 51875089,
       "en": "A meal providing exceptional leg strength and swiftness is a necessity in times like these. Try your hand at delivering this meal.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5025",
+      "id": 225071141,
       "en": "Eat the meal or deliver it to a meal table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5026",
+      "id": 225071142,
       "en": "<rgb=#ff0000>Hard Tack at Thorin's Hall ends</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "Collect the ingredients needed to craft the Thorin's Hall Brew from the nearby fish barrel, mushrooms crate, and spice rack.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5028",
+      "id": 225071144,
       "en": "<rgb=#ff0000>Avoid sneaky hobbits</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x41d6af6",
+      "id": 69036790,
       "en": "Deliver the platter of food to the meal table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a7",
+      "id": 177082791,
       "en": "You delivered the platter of food to the meal table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a9",
+      "id": 177082793,
       "en": "You collected the fish ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b0",
+      "id": 111477424,
       "en": "Collect the mushroom ingredient from the mushroom crate",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b2",
+      "id": 111477426,
       "en": "Collect the spice craft ingredient from the spice rack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b4",
+      "id": 111477428,
       "en": "<rgb=#ff0000>Avoid sneaky hobbits</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "You collected spice from the spice rack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b5",
+      "id": 177082805,
       "en": "You collected the mushroom ingredient",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01192",
+      "id": 246419858,
       "en": "Place the Thorin's Hall Hearty Meal onto a meal table.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "Fish ingredient collected",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e117",
+      "id": 262725911,
       "en": "Hard Tack at Thorin's Hall has ended",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e119",
+      "id": 262725913,
       "en": "A sneaky hobbit swiped the dish",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095782",
+      "id": 252270466,
       "en": "'Oh my goodness, this looks tasty.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095783",
+      "id": 252270467,
       "en": "'Let me help you. It smells delicious.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095784",
+      "id": 252270468,
       "en": "'I am pleased you stumbled by. I will enjoy this.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095785",
+      "id": 252270469,
       "en": "'For me? You shouldn't have.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095786",
+      "id": 252270470,
       "en": "'This looks and smells delectable.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095787",
+      "id": 252270471,
       "en": "'I am happy to taste-test this for you.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095788",
+      "id": 252270472,
       "en": "'You are so thoughtful in bringing this to me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e04",
+      "id": 49286660,
       "en": "Place the hearty meal onto a meal table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf095789",
+      "id": 252270473,
       "en": "'I smelled this clear across the hall.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x143ff61",
+      "id": 21233505,
       "en": "'This is really for me? Oh this is a wonderful surprise.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9578b0",
+      "id": 9795760,
       "en": "'Such a wonderful looking bit of food.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x143ff62",
+      "id": 21233506,
       "en": "'It smells full of spice and taste. What a treat!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9578b1",
+      "id": 9795761,
       "en": "'It is time for a second breakfast... somewhere.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x143ff63",
+      "id": 21233507,
       "en": "'This smells so aromatic and delicious. I cannot wait.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x143ff64",
+      "id": 21233508,
       "en": "'I cannot recall such a wonderful smell from dwarf-food. I shall enjoy this.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x143ff65",
+      "id": 21233509,
       "en": "'Thank you for this wonderful gift. I will devour it presently.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4176011",
+      "id": 68640785,
       "en": "'As delicious as I expected.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4176012",
+      "id": 68640786,
       "en": "'Were you the cook? If so, that was delectable.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4176013",
+      "id": 68640787,
       "en": "'An excellent offering. Do you have any more?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4176014",
+      "id": 68640788,
       "en": "'I could eat one hundred of those.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "Place the Hearty Meal onto a meal table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x4176015",
+      "id": 68640789,
       "en": "'Hurry back! My tummy is grumbling already.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7800a41",
+      "id": 125831745,
       "en": "'That was... spicy. Excuse me, please.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Complete the meal in the oven then deliver it to the table",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7800a42",
+      "id": 125831746,
       "en": "'So much flavor. Uh oh. Excuse me.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7800a43",
+      "id": 125831747,
       "en": "'Something about that was... Oh dear. Good-bye.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x79f5e59",
+      "id": 127884889,
       "en": "You lost the platter of food",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7800a44",
+      "id": 125831748,
       "en": "'I do not mean to be rude, but I must go.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Collect the fish ingredient from the fish barrel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x7800a45",
+      "id": 125831749,
       "en": "'Delicious. But... umm... a bit... oh dear... sorry....'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Hard Tack Event: Special Meal",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50292",
+      "id": 111477394,
       "en": "Collect craft ingredients from the spice rack",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

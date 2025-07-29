@@ -2,64 +2,54 @@
   "id": 621073114,
   "txt": [
     {
-      "id": "0xeb011b1",
+      "id": 246419889,
       "en": "Raith can be found at Bail Avarc.\\n\\nYou have collected several scrolls of forgotten history from the repositories at Gwathrenost. You should deliver them to Raith.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502a5",
+      "id": 111477413,
       "en": "Collect scrolls of forgotten history in Gwathrenost ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'Have you a moment, [placeholder]?\\n\\n'The Iron Crown keeps many repositories within the walls of Gwathrenost, and it is rumoured they contain scrolls that tell of the true history of Angmar. What such knowledge might mean for our people I cannot say for certain, but we shall have time enough to reckon with it after the Iron Crown is driven out of our lands.\\n\\n'If you intend to brave the Witch-king's citadel, would you search for some of these scrolls?'\\n\\n\\n<rgb=#FF0000>NOTE: To advance this quest, you must use the Instance Finder (Ctrl+J) to enter Gwathrenost, the Witch-king's Citadel.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Gwathrenost: Reclaiming History",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01195",
+      "id": 246419861,
       "en": "Iron Crown repositories containing scrolls of forgotten history can be found at Gwathrenost.\\n\\nRaith has asked you to search the Iron Crown's repositories at Gwathrenost for scrolls of forgotten history, as the oppression of the Witch-king of Angmar and the Iron Crown has done much to obscure the true history of Angmar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "Collected scrolls of forgotten history in Gwathrenost ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e27",
+      "id": 49286695,
       "en": "Deliver the scrolls of forgotten history to Raith at Bail Avarc",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56850",
+      "id": 162883664,
       "en": "'If you do not know the way, Cána and our warriors can guide you to Gwathrenost.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x178d144",
+      "id": 24695108,
       "en": "Once the seat of the Witch-king of Angmar, the dread citadel of Gwathrenost casts a long shadow upon the city of Carn Dûm. All but abandoned after the Steward of Angmar was deposed, the remnants of the Iron Crown have crept forth from the shadows, seeking to master a lost artifact of the Witch-king and reclaim dominion of Angmar.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568a9",
+      "id": 162883753,
       "en": "'What have you found?'\\n\\nYou hand the scrolls to Raith and he hurriedly reads over them.\\n\\n'It seems every day I learn more about the history of our people, my friend. Who can say what other lost knowledge might still remain hidden in Gwathrenost? That is a question for another day, I think.\\n\\n'I thank you for your aid, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

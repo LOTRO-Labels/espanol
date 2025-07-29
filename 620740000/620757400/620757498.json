@@ -2,100 +2,84 @@
   "id": 620757498,
   "txt": [
     {
-      "id": "0xef88857",
+      "id": 251168855,
       "en": "[placeholder]: You have #1:[placeholder] #1:{completion[1] | completions} remaining.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5b920c5",
+      "id": 96018629,
       "en": "All chest locks have expired.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x447a3d5",
+      "id": 71803861,
       "en": "Lockable Raids:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9613f5",
+      "id": 227939317,
       "en": "Raid Chest Lock Info:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x449206c",
+      "id": 71901292,
       "en": "You must supply and interval override greater than or equal to 2 minutes.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf18ff89",
+      "id": 253296521,
       "en": "[placeholder]d - [placeholder]h - [placeholder]m",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x88ecab9",
+      "id": 143575737,
       "en": "[placeholder] - Flag [placeholder] - Resets in [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xca3a4a4",
+      "id": 212051108,
       "en": "Successfully removed all raid lock info.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2fd0972",
+      "id": 50137458,
       "en": "Cannot clear raid lock info while in a private encounter.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x94487b4",
+      "id": 155486132,
       "en": "Successfully updated the PES raid update interval.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3b2a208",
+      "id": 62038536,
       "en": "[placeholder] does not match the fellowship's raid flags.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x72ca414",
+      "id": 120366100,
       "en": "[placeholder] resets in: [placeholder]d - [placeholder]h - [placeholder]m.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x438f369",
+      "id": 70841193,
       "en": "[placeholder] - Resets [placeholder].",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x99db0e5",
+      "id": 161329381,
       "en": "The lock for [placeholder] has expired.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6c61c57",
+      "id": 113646679,
       "en": "[placeholder]: You have #1:[placeholder] favoured #1:{completion[1] | completions} remaining.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8fd9c05",
+      "id": 150838277,
       "en": "Raid Lock Info:",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

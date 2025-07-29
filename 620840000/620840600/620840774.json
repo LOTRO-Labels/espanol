@@ -2,100 +2,84 @@
   "id": 620840774,
   "txt": [
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have explored the south-east ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have explored the southern ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You have found an unusual set of footprints in the mud",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "The Wild Ruins mark the remains of an ancient Silvan settlement, founded not long after Lothlórien itself. While the Malledhrim have retaken the large structure at the centre of the ruins, they have had neither the time nor the resources to spare to explore the remaining ruins on its outskirts.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You notice something unusual nearby....",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'Welcome to Ost Galadh, [placeholder]. Once long ago it was an outpost of our kind, when this forest was still called Greenwood the Great -- but that time is long past, and the power of Dol Guldur is great here now.\\n\\n'While our forces have taken and secured this courtyard as a base to strike at Dol Guldur, we have neither the time nor forces to explore and secure the surrounding tangle of ruins and forest. In this, I am hoping that you can aid us.\\n\\n'If you can take the time to quickly scout the more extensive ruins immediately to our south and report back on what you find there, it would be most helpful. What we can see from here suggests that it is mostly inhabited by wild beasts -- but even they must be assumed to be servants of the Enemy in a place like this, so foray with care.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Wild Ruins lie to the south of Ost Galadh.\\n\\nFuirgam has asked you to keep an eye out for enemies out of Dol Guldur or anything else out of the ordinary in the Wild Ruins.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'So, the ruins are overrun with cruel and evil beasts, but little sign of goblins or Orcs? Good.\\n\\n'These solitary footprints you mention, though...those are of considerable interest to me. When Lord Celeborn dispatched me across the Anduin, he bade me keep watch for a strange creature he named 'Gollum'. More than once he was nearly captured on the outskirts of Lothlórien, but he slipped away each time. Celeborn suspected he may have crossed the river to avoid capture, and it appears he was right.\\n\\n'My sentinels claimed to have spotted a strange creature in the wild a few days ago -- they thought it a goblin, but were unable to capture it before it fled into the twisting ways of the Scuttledells. Your discovery tells me that our mysterious interloper was likely this Gollum creature. Would that we had laid hands upon him then!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "Fuirgam is at Ost Galadh, north of the Wild Ruins.\\n\\nYou should report back to Fuirgam with the results of your exploration. In particular, he may be interested in the odd footprints you discovered during your trek.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'There are a few among the Malledhrim -- Agorin among them, I believe -- who once called Ost Galadh home. How it must confound them now to return at last and stand within these ancient walls, remembering times of song and laughter long ago swallowed by darkness.\\n\\n'I do not envy them this bittersweet return.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Scout the south-east ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c2",
+      "id": 22075074,
       "en": "Scout the southern ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c3",
+      "id": 22075075,
       "en": "Examine the strange footprints",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c4",
+      "id": 22075076,
       "en": "Explore the south-west ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Wild Ruins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c5",
+      "id": 22075077,
       "en": "Talk to Fuirgam at Ost Galadh",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

@@ -2,64 +2,149 @@
   "id": 621067206,
   "txt": [
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Introduction to Farming",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3681",
+      "id": 136263297,
       "en": "You have planted a yellow onion field",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3682",
+      "id": 136263298,
       "en": "You have collected a <rgb=#FF00FF00>fair yellow onion crop</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085257",
+      "id": 218649175,
       "en": "'If you wish to learn more about farming, find Bruno Ervinen by the fields. He is a guest from one of the nearby hobbit villages, and is more familiar with these soils than we are. I am sure he would be happy to teach you.\\n\\n'Good day, [placeholder].'\\n\\n<rgb=#FF0000>WARNING: You must make sure to have room in your inventory for this quest.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3683",
+      "id": 136263299,
       "en": "You have activated Track Crops",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "You should speak with the Novice Farmhand to learn more about farming and set yourself on a path to good eating.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c43",
+      "id": 63183939,
       "en": "'You should speak with the Novice Farmhand.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x81f3684",
+      "id": 136263300,
       "en": "You have picked a yellow onion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The Novice Farmhand provided you with a <rgb=#FF00FF00>crate</rgb> full of ingredients that you can use to grow the yellow onion. Open the <rgb=#FF00FF00>crate</rgb> to get the ingredients.\\n\\n<rgb=#FF00FF00>Ingredients for Farmers are normally purchased from vendors or discovered while farming. You can also find ingredients on the Auction Hall.</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced3",
-      "en": "The Novice Farmhand provided you with the ingredients necessary to create a crop�",
-      "es": "",
-      "es (fem)": ""
+      "id": 94621395,
+      "en": "The Novice Farmhand provided you with the ingredients necessary to create a crop of yellow onions. First, however, you must plant your <rgb=#FF00FF00>yellow onion field</rgb>.\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Farming tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Farming requires a farmland.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 94621396,
+      "en": "The Novice Farmhand provided you with the ingredients necessary to grow yellow onions. You must now harvest your <rgb=#FF00FF00>yellow onion field</rgb> and obtain a <rgb=#FF00FF00>fair yellow onion crop</rgb>. To find the field, activate the <rgb=#FF00FF00>Track Crops</rgb> skill.",
+      "es": ""
+    },
+    {
+      "id": 94621397,
+      "en": "You have harvested your field, and you are now ready to pick the <rgb=#FF00FF00>yellow onion</rgb>, as instructed by the Novice Farmhand. Make your way to a nearby <rgb=#FF00FF00>workbench</rgb> to pick through your crops.",
+      "es": ""
+    },
+    {
+      "id": 94621398,
+      "en": "The recipe is complete. <rgb=#FF00FF00>Do not cook or sell the yellow onion!</rgb> It is time to show your handiwork to your mentor, the Novice Farmhand.",
+      "es": ""
+    },
+    {
+      "id": 205636721,
+      "en": "'Planting the crop should be simple. Go to the <rgb=#FF00FF00>farmland</rgb> and plant the seeds.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Farming tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Farming requires a farmland.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 205636722,
+      "en": "'It looks like the crops grew up nicely. Only one more step remaining: pick through the crops at a <rgb=#FF00FF00>workbench</rgb> and find me a <rgb=#FF00FF00>yellow onion</rgb>.'\\n\\n<rgb=#FF00FF00>To open your crafting panel, you can use the 'T' key or click on the crafting button (it looks like a hammer and anvil) in the lower left part of your UI.\\n\\nSelect the Farming tab in the craft UI and find the proper recipe.\\n\\nRemember: In order to execute a recipe, you must be near the proper facility. Farming requires a farmland.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075073,
+      "en": "Speak with the Novice Farmhand near the farmland in the crafting area",
+      "es": ""
+    },
+    {
+      "id": 205636723,
+      "en": "'Just open up that <rgb=#FF00FF00>crate</rgb> full of ingredients that I gave you, and you can start growing a crop of the yellow onions by the <rgb=#FF00FF00>farmland</rgb>. Make sure to equip your <rgb=#FF00FF00>farming tools!</rgb>'\\n\\n<rgb=#FF00FF00>Ingredients for Farmers are normally purchased from vendors or traded from players with the farming profession. You can also find ingredients on the Auction Hall.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075074,
+      "en": "You have been provided with ingredients",
+      "es": ""
+    },
+    {
+      "id": 22075075,
+      "en": "Open the <rgb=#FF00FF00>crate</rgb> given to you by the Novice Farmhand to collect the apprentice crop seed, bucket of water, and handful of fertilizer",
+      "es": ""
+    },
+    {
+      "id": 22075076,
+      "en": "You now have all the ingredients to make a yellow onion",
+      "es": ""
+    },
+    {
+      "id": 22075077,
+      "en": "Using the ingredients you received, plant a <rgb=#FF00FF00>yellow onion field</rgb> on <rgb=#FF00FF00>farmland</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075078,
+      "en": "Collect the <rgb=#FF00FF00>fair yellow onion crop</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075079,
+      "en": "Activate the <rgb=#FF00FF00>Track Crops</rgb> skill",
+      "es": ""
+    },
+    {
+      "id": 22075080,
+      "en": "Using the ingredients you have, pick a <rgb=#FF00FF00>yellow onion</rgb> at the <rgb=#FF00FF00>workbench</rgb>",
+      "es": ""
+    },
+    {
+      "id": 8725905,
+      "en": "'Hullo! So you'd like to learn to become a farmer? That's wonderful! Few things in life are as satisfying as nurturing a little seed into a fully grown vegetable, and then eating said vegetable! I've been working the land here in Swanfleet since my tween years, so you're in good hands.\\n\\n'If I go too fast, or you need help at any point, you can ask me questions about farming, and I will do my best to provide you with clear direction. The first and most important step is having the proper ingredients.\\n\\n'I set aside a few for new farmers, like yourself. Open this <rgb=#FF00FF00>crate</rgb> and you can start growing a crop of the yellow onions by the <rgb=#FF00FF00>farmland</rgb>. Make sure to equip your <rgb=#FF00FF00>farming tools!</rgb>'\\n\\n<rgb=#FF00FF00>Farmer vendors, farmhands, sell ingredients and recipes that are a vital part of any Farmer's training and continued work.</rgb>",
+      "es": ""
+    },
+    {
+      "id": 22075081,
+      "en": "Bring the <rgb=#FF00FF00>yellow onion</rgb> to the Novice Farmhand",
+      "es": ""
+    },
+    {
+      "id": 8725906,
+      "en": "'Let me see what you grew.'\\n\\nHe sniffs at the onion, peels back the outermost layer, and takes a large bite.\\n\\n'This is so delicious it brings tears to my eyes! Ha ha! This joke wasn't worth how unpleasant I feel right now.\\n\\n'Nonetheless, I think that you have done very, very well, [placeholder]. I approve and declare you a novice farmer.'",
+      "es": ""
+    },
+    {
+      "id": 8725907,
+      "en": "'Oh no, did you eat your yellow onion? Well, I need to inspect one, so you had better grow me another.'",
+      "es": ""
+    },
+    {
+      "id": 54354734,
+      "en": "Farming creates some finished goods, but much of their output takes the form of crops, flowers, and other ingredients that Cooks and Scholars need to ply their own crafts.\\n\\n<rgb=#FF00FF00>Be careful! You will need to complete the correct recipes and deliver the correct items outlined in this quest.\\n\\nYou will need to execute the yellow onion field and yellow onion recipes and deliver the yellow onion. Failing to do so will force you to obtain new raw materials or to restart the quest after a 24-hour delay.</rgb>",
+      "es": ""
     }
   ]
 }

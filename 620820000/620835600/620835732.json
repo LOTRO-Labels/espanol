@@ -2,70 +2,59 @@
   "id": 620835732,
   "txt": [
     {
-      "id": "0x5a3ced3",
+      "id": 94621395,
       "en": "Corunothiel is at Lossathrod, the encampment in Buzun-ghâr.\\n\\nYou have emerged from Rushdurinul victorious over Mazog, but have learned the unfortunate news that Bori and the other captives have been sent to Dol Guldur with Gorothúl. Corunothiel is waiting to speak with you.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085251",
+      "id": 218649169,
       "en": "'How many fates must have entwined for the Iron Garrison to break open the entrance to Buzun-ghâr just when we need it, [placeholder]? If the \\qsecret road\\q was built, you will find the entrance to it deep within Buzun-ghâr! It must be a portent to have happened this day, of all days!'\\n\\nBróin suddenly finds himself unable to meet your eyes.\\n\\n'I wish I could come with you to walk the \\qsecret road\\q and rescue Bori, [placeholder], but there is still so much to do, and... well, I am needed here. We will fight together on the next adventure -- I swear it.\\n\\n'Return to Buzun-ghâr, located south-west of here, in the south-eastern corner of Tharâkh Bazân, and speak with Orvar Bellhammer. He will accompany you along Zurr-thurkh, if it exists, though he should be your only companion, in the interest of secrecy.'\\n\\n<rgb=#FF0000>This is a Solo quest, and cannot be completed with a Fellowship.</rgb>\\n",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085252",
+      "id": 218649170,
       "en": "'You say there is a way behind the walls of Zabadgathol, into Rushdurinul, where Mazog has set his throne? I don't know, [placeholder] -- it seems unlikely to me.'\\n\\nWith an eyebrow raised, Orvar listens to your explanation of Bróin's idea that it might be possible to rescue Bori.\\n\\n'This is all well and good, but why isn't Bróin coming with you on this errand, [placeholder]? If you ask me, he's still not over his experience in the watery den of the Watcher. It seems to me that Lord Brogur has been trying to give his son trivial tasks to coax him from this brooding, but it has yet to work. Bróin will not be himself until he is able to conquer whatever fear clutches him.\\n\\n'No matter. If you descend once again into the depths of Buzun-ghâr, where you stood against Grawulun the Caerog, and can find the entrance to this Zurr-thurkh. I will join you on the other side.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c41",
+      "id": 63183937,
       "en": "'If you can find the entrance to Zurr-thurkh in the depths of Buzun-ghâr, near where you fought Grawulun the Caerog, I will meet you on the other side. Then we will see if we can rescue Bori from the clutches of Mazog!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd085253",
+      "id": 218649171,
       "en": "'You see the good that can be done when Elves and dwarves work together, [placeholder]; Mazog was right to fear the alliance and hope that it should never come to pass!\\n\\n'The dwarf Bróin came to Lossathrod, winded from a long run, and asked that we accompany him in his pursuit of you. He claimed to have made an error by leaving you to attempt the rescue of his kinsman with Orvar alone, and his regret of that decision spurred him onward. You are fortunate that he regained his courage when he did, [placeholder], you and Orvar both!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Chapter 8: The Secret Road",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3c41c42",
+      "id": 63183938,
       "en": "'I am needed here, [placeholder]... there is so much to be done. I swear I will accompany you on the next adventure.\\n\\n'Return to Orvar in Buzun-ghâr, in the south-eastern corner of Tharâkh Bazân, south-west of here along Durin's Way, and ask him to accompany you on the \\qsecret road.\\q You may yet rescue my cousin Bori from the clutches of Mazog!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x33d632e",
+      "id": 54354734,
       "en": "You have located the plans for a secret escape tunnel out of Durin's throne room. If it was ever constructed, it might be used to enter Zabadgathol in secret to rescue Bori.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Find the entrance to Zurr-thurkh and use it to get behind the walls of Zabadgathol",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "Orvar Bellhammer is in Buzun-ghâr, located south-west of the Peaceful Path, in the very south-eastern corner of Tharâkh Bazân, along Durin's Way.\\n\\nBróin has asked you to speak with the dwarf Orvar about accompanying you on the secret road into Rushdurinul.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced2",
+      "id": 94621394,
       "en": "The entrance to Zurr-thurkh, the secret road, can be found in the depths of Buzun-ghâr, where you fought Grawulun the Caerog.\\n\\nOrvar has agreed to meet you inside Zurr-thurkh, if you can find the entrance, in order to mount a rescue of Bori from the clutches of Mazog.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

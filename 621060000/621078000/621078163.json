@@ -2,64 +2,134 @@
   "id": 621078163,
   "txt": [
     {
-      "id": "0x9b56857",
+      "id": 162883671,
       "en": "'Talk to Calendorion about replacing the flowers. He is at one of the piers, looking out towards the Bay of Belfalas.\\n\\n'I apologize, I can say no more; his story is not mine to tell.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Undying Memory",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01144",
+      "id": 246419780,
       "en": "You should ask the Avorrim around Edhellond what kind of flowers to put in the now-empty vase.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56859",
+      "id": 162883673,
       "en": "'My apologies, I have no answer for you. Calendorion would have a better idea of which flowers to pick for the vase.\\n\\n'You may find him at one of the piers in Edhellond, watching the bay.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b568b8",
+      "id": 162883768,
       "en": "'I... I am sorry you had to clean up my mess, traveller. I arranged those flowers for one who perished here during the war, but I cannot bring myself to return to that spot. The grief is still too much to bear. I had not wanted to admit this to my fellow Avorrim -- it felt trifling, almost. But perhaps it would be prudent for me to ask for aid.\\n\\n'If you wish to replace the flowers, there is one type you may find near the piers here that has soft, pink petals. It was Lhinnedhel's favourite kind. Indeed, I believe it is a beautiful flower.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50253",
+      "id": 111477331,
       "en": "Talk to Calendorion",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50256",
+      "id": 111477334,
       "en": "Talk to Cellineth",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50258",
+      "id": 111477336,
       "en": "Talk to Breniriel",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1186",
+      "id": 177082758,
       "en": "Flowers picked ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01151",
-      "en": "You should tell Ca�",
-      "es": "",
-      "es (fem)": ""
+      "id": 246419793,
+      "en": "You should tell Calendorion that he need not worry about the vase's flowers for now.\\n\\nHe can be found at one of the piers in Edhellond, facing the Bay of Belfalas.",
+      "es": ""
+    },
+    {
+      "id": 51875091,
+      "en": "In Edhellond, you discovered a vase filled with dead flowers.",
+      "es": ""
+    },
+    {
+      "id": 246419895,
+      "en": "You have picked enough flowers to fill the vase.\\n\\nYou should return to the tower in Edhellond to place them into the vase.",
+      "es": ""
+    },
+    {
+      "id": 162883746,
+      "en": "TBD",
+      "es": ""
+    },
+    {
+      "id": 162883747,
+      "en": "TBD",
+      "es": ""
+    },
+    {
+      "id": 162883748,
+      "en": "TBD",
+      "es": ""
+    },
+    {
+      "id": 111477312,
+      "en": "Talk to Lathlorn",
+      "es": ""
+    },
+    {
+      "id": 111477409,
+      "en": "Talk to Calendorion",
+      "es": ""
+    },
+    {
+      "id": 177082736,
+      "en": "The vase is filled with beautiful flowers once more",
+      "es": ""
+    },
+    {
+      "id": 246419863,
+      "en": "You have been advised to talk to an Elf named Calendorion.\\n\\nYou can find him at one of the piers in Edhellond, facing the Bay of Belfalas.",
+      "es": ""
+    },
+    {
+      "id": 246419864,
+      "en": "Calendorion has asked you to pick a certain type of flower to put in the vase.\\n\\nYou can find these beautiful flowers near the piers in Edhellond.",
+      "es": ""
+    },
+    {
+      "id": 111477413,
+      "en": "Pick beautiful flowers ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 162883666,
+      "en": "'This means more to me than you will ever know -- and I am sure Lhinnedhel would have said the same, had he witnessed this.\\n\\n'May kindness follow wherever you may go, traveller. And thank you.'",
+      "es": ""
+    },
+    {
+      "id": 111477417,
+      "en": "Place flowers in the empty vase",
+      "es": ""
+    },
+    {
+      "id": 162883714,
+      "en": "The flowers in this vase have been dead for a while. As you discard the dead flowers, it occurs to you that you could replace them with fresher ones.\\n\\nPerhaps one of the Avorrim could suggest which flowers to use.",
+      "es": ""
+    },
+    {
+      "id": 246419777,
+      "en": "TBD",
+      "es": ""
+    },
+    {
+      "id": 162883669,
+      "en": "'Ah... I am sorry, I cannot help you. You ought to discuss the matter of the vase with Calendorion; it concerns him, after all.\\n\\n'I last saw him at one of the piers, gazing out towards the bay.'",
+      "es": ""
     }
   ]
 }

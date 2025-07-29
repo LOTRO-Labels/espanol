@@ -2,52 +2,69 @@
   "id": 621079842,
   "txt": [
     {
-      "id": "0xb568954",
+      "id": 190220628,
       "en": "'Well look at you. You survived! And with a sack of ore for me to examine? Ahh, may your beard grow thick and lush. Give it here then!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb568956",
+      "id": 190220630,
       "en": "'Stop! Do not go that way, lest you fancy fighting the very trees themselves. I am Alêtifa, and I am come north, following hints that a previously unknown ore was to be found in the rocks about the waterfall at the top of this stream.\\n\\n'Little did I know, wood-trolls infest these parts. I haven't been able to get any closer, but you look like someone who might be able to. I shall reward you if you clear out some of those overgrown weeds and bring me back what ore you might find.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78d1729",
+      "id": 126687017,
       "en": "Among the rocks that line the banks of a crashing waterfall, a strange ore has been discovered. Getting to it, however, will take some skill.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb011885",
+      "id": 184621189,
       "en": "You should let Alêtifa know that you have cleared some of the wood-trolls out of the area and bring her the ore you gathered.\\n\\nAlêtifa is waiting by the banks of the Hathollant, in north-western Pinnath Gelin.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11b63",
+      "id": 148970339,
       "en": "Collected flood-iron ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859427",
+      "id": 226858023,
       "en": "'Stop! Do not go that way, lest you fancy fighting the very trees themselves.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x8e11a96",
+      "id": 148970134,
       "en": "Defeated wood-trolls ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd859428",
-      "en": "'Well look at you. You survived! Ahh�",
-      "es": "",
-      "es (fem)": ""
+      "id": 226858024,
+      "en": "'Well look at you. You survived! Ahh, may your beard grow thick and lush.'",
+      "es": ""
+    },
+    {
+      "id": 149027571,
+      "en": "Flood-iron for Alêtifa",
+      "es": ""
+    },
+    {
+      "id": 173025703,
+      "en": "Collect flood-iron ([placeholder]/[placeholder])",
+      "es": ""
+    },
+    {
+      "id": 251716069,
+      "en": "Return to Alêtifa",
+      "es": ""
+    },
+    {
+      "id": 184621205,
+      "en": "Alêtifa has charged you with gathering ore and thinning the number of wood-trolls blocking the way to the nearby waterfall.\\n\\nWood-trolls and ore can be found in north-western Pinnath Gelin.",
+      "es": ""
+    },
+    {
+      "id": 173025365,
+      "en": "Defeat wood-trolls ([placeholder]/[placeholder])",
+      "es": ""
     }
   ]
 }

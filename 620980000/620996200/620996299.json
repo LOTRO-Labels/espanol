@@ -2,520 +2,434 @@
   "id": 620996299,
   "txt": [
     {
-      "id": "0x3f8d4a9",
+      "id": 66639017,
       "en": "'The Dark Lord did not come to your lands until he had conquered mine.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x840031",
+      "id": 8650801,
       "en": "'Does no man understand our need for haste?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x840032",
+      "id": 8650802,
       "en": "'I would advise against it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x840033",
+      "id": 8650803,
       "en": "'I am in a dark mood already, and do not have time for small-mindedness!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x840034",
+      "id": 8650804,
       "en": "'Can this be true?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50299",
+      "id": 111477401,
       "en": "Talk to Rathnor by the waggons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0113",
+      "id": 216727827,
       "en": "The waggons have stopped for the night, and the folk that travel with you prepare to rest.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5684",
+      "id": 228284036,
       "en": "'Good, the soldiers have started a fire. We will take some food and some rest, and when the sun comes up once more we will continue on to the city. This is a pleasant enough place to wait out the evening... much nicer than the lands we have left behind us! It will be good to have a reprieve from the choking fumes of Mordor and the wastes that border that foul land.\\n\\n'But do not be lulled into complacency by the pleasing scenery! Keep an eye on that Easterling. He has caused no trouble thus far, but I do not want him to take advantage of our kindness. His sort are deceptive and untrustworthy, and we must not forget it!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0117",
+      "id": 216727831,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5685",
+      "id": 228284037,
       "en": "'These waggons travel more slowly than they did on the way to the Black Gate! Does Rathnor spare his horses the exertion of a reasonable pace? He does them no favours. Shadowfax is made the better by haste, and revels in the lands passing by at speed!\\n\\n'Bah. These horses could do with some feed, and the evening will be rest enough, but I am impatient to reach Minas Tirith. The scrolls and tomes of the White City will be of use to me, but I need you there if we are to cover them sufficiently.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d12",
+      "id": 51875090,
       "en": "Rathnor has stopped the waggons on the road to Minas Tirith, and will wait for the onset of morning before he drives them the rest of the way to the White City.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5686",
+      "id": 228284038,
       "en": "'I don't care what he says for himself. I don't trust him. That Easterling would stick us with a blade without a second thought; how many good men of Gondor have already died at his hands, or at the hands of his fellows?\\n\\n'I will not sleep tonight. I will keep one eye open, and make sure this Ayorzén does not try anything. You should do the same!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xceb0119",
+      "id": 216727833,
       "en": "The men have called for you to <rgb=#00FF00>sit</rgb> by the fire with them.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd9b5688",
+      "id": 228284040,
       "en": "'Do these men think I have no ears? I hear what they whisper behind their hands. It bothers me not. I can say the same of them, and much worse! They do not have even a portion of Ayorzén's courage, or his fine features.\\n\\n'They are right to worry. If I wanted them dead, they would not see this sun come up in the morning. Lucky they are to have seen the end of the war. Do they know it is done? I do not fight for Sauron any longer.\\n\\n'Did I say they were cowards, and ugly of face? Dim-witted they are also, to think the war still needs fighting. Join them at their camp-fire, if you wish. I am content to stay right here, and need neither the warmth of their fire nor their company.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01180",
+      "id": 246419840,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01181",
+      "id": 246419841,
       "en": "Tensions run high by the side of the road where the waggons to Minas Tirith have stopped for the night, and you should try and defuse the situation, if you can.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56892",
+      "id": 162883730,
       "en": "'I will not apologize to these cowards, [placeholder]. They are children, playing at war while the sun is in the sky, and called in for bed at sundown.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01183",
+      "id": 246419843,
       "en": "DNT - Blah!",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01184",
+      "id": 246419844,
       "en": "Linadar is by the camp-fire near where the waggons have stopped for the night.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56895",
+      "id": 162883733,
       "en": "'I will not repent of my words, [placeholder], but... I will confess to you that I paid no heed to events beyond the borders of Gondor. That Sauron first conquered the lands to the East was known to me, but I did not consider what that must have meant to the people who lived there. I believed the Easterlings worshipped him as their Dark Lord, and no doubt many of them did, but the words of Ayorzén have planted seeds of doubt in my mind.\\n\\n'I do not like him, and I still do not trust him. But perhaps his people... bah! I do not know, [placeholder]. Would we have succumbed to the domination of Sauron, as did the Easterlings? I did not believe so, but perhaps it is a more difficult question to answer than I thought it was.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a60",
+      "id": 260917856,
       "en": "'Your Wizard knows of her.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01186",
+      "id": 246419846,
       "en": "Mithrandir is near the fire where the waggons have stopped for the night.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a61",
+      "id": 260917857,
       "en": "'You Men of Gondor do not know the horrors that befell my people.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56897",
+      "id": 162883735,
       "en": "'We cannot believe everything that Ayorzén says, [placeholder], but I detect in his words some elements of truth. That his people pass down legends of the creatures that stalked their lands cannot be questioned, and I know the inspiration for the one he calls \\qSweet Lara.\\q\\n\\n'She was called Lhaereth the Stained, a creature of fell reputation. Once she made her home in Mordor, and it seems Agarnaith has not forgotten her, for the touch of her corruption remains. Many were the hurts she perpetrated upon the lands of the Easterlings, and her foul touch was felt even in Gondor.\\n\\n'But that is not a tale to be told in the dark, even by fireside. Lhaereth is gone with her master, though her presence can still be felt in Mordor today.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a62",
+      "id": 260917858,
       "en": "'Yes, we fought for Sauron. Others of us died by His hand!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9b56898",
+      "id": 162883736,
       "en": "'You may as well get some rest while we are stopped, [placeholder]. I hope Rathnor wakes with the sun and we can be off again as soon as possible!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a63",
+      "id": 260917859,
       "en": "'We did not have a choice.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a64",
+      "id": 260917860,
       "en": "'I care not.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x78e1fa1",
+      "id": 126754721,
       "en": "Instance: The Song of Sweet Lara",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a65",
+      "id": 260917861,
       "en": "'But if ever you come face to face with Sweet Lara, you may understand.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a66",
+      "id": 260917862,
       "en": "\\qNow the crying's stopped, all quiet again...\\q",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a67",
+      "id": 260917863,
       "en": "\\qSweet Lara walking in the moonlight.\\q",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad6821",
+      "id": 263022625,
       "en": "'I will warm my bones by the fire, and have a bite of bread.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad6822",
+      "id": 263022626,
       "en": "'Sit and warm yourself by the fire, [placeholder].'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad6823",
+      "id": 263022627,
       "en": "'It was not up to me, lads.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfad6824",
+      "id": 263022628,
       "en": "'Blame [placeholder], or Mithrandir, if you want to take the risk!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a70",
+      "id": 260917872,
       "en": "'Stronger?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a71",
+      "id": 260917873,
       "en": "'Strong like the walls of your White City?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a72",
+      "id": 260917874,
       "en": "'This one has seen Agarnaith. Ask him what he saw.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a73",
+      "id": 260917875,
       "en": "'When next you speak of strength, consider this truth.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a74",
+      "id": 260917876,
       "en": "'She who made Agarnaith as it is... she came first to my lands.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb01199",
+      "id": 246419865,
       "en": "Ayorzén is looking at the sunset not far from where the waggons have stopped for the night.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a75",
+      "id": 260917877,
       "en": "'Her poisons devastated whole cities. They are empty now.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a76",
+      "id": 260917878,
       "en": "'No one walks the empty streets, for fear of her memory.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a77",
+      "id": 260917879,
       "en": "'We tried not to say her name, but the children remember.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a78",
+      "id": 260917880,
       "en": "\\qSweet Lara,\\q they sing, \\qwalking in the moonlight...\\q",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xf8d4a79",
+      "id": 260917881,
       "en": "\\qHeard a baby crying, flew away at once...\\q",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de61",
+      "id": 119070305,
       "en": "'Aye, indeed.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a0",
+      "id": 246419872,
       "en": "Tensions run high by the side of the road where the waggons to Minas Tirith have stopped for the night.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de62",
+      "id": 119070306,
       "en": "'But we bring some of its refuse with us.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de63",
+      "id": 119070307,
       "en": "'Linadar, tell me something.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de64",
+      "id": 119070308,
       "en": "'How fared you in Agarnaith? I think to go there when next I return to Mordor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xeb011a3",
+      "id": 246419875,
       "en": "A brief respite on the way to Minas Tirith will be welcomed by all.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de65",
+      "id": 119070309,
       "en": "'Calling us craven, are you?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de66",
+      "id": 119070310,
       "en": "'Your master is dead, Easterling! Sauron is gone!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de67",
+      "id": 119070311,
       "en": "'You are a liar.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de68",
+      "id": 119070312,
       "en": "'If your people had been stronger, he might not have had the chance!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x2f00e03",
+      "id": 49286659,
       "en": "<rgb=#00FF00>Sit</rgb> by the camp-fire near the waggons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x718de69",
+      "id": 119070313,
       "en": "'Well, Linadar?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xb6771c1",
+      "id": 191328705,
       "en": " ",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "Talk to Mithrandir south-east of the waggons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x9702d95",
+      "id": 158346645,
       "en": "Belaith",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50281",
+      "id": 111477377,
       "en": "Talk to Linadar west of the waggons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50282",
+      "id": 111477378,
       "en": "Talk to Ayorzén south-west of the waggons",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50284",
+      "id": 111477380,
       "en": "Listen to the conversation by the camp-fire and remain alert",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "Listen to the conversation by the camp-fire and remain alert",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea1",
+      "id": 16912033,
       "en": "'Come, lads. But keep an eye out.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50286",
+      "id": 111477382,
       "en": "Talk to Ayorzén by the camp-fire before the situation worsens",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea2",
+      "id": 16912034,
       "en": "'I am glad to be leaving Mordor behind us!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18de630",
+      "id": 26076720,
       "en": "'I do not believe that.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Talk to Linadar by the camp-fire",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea3",
+      "id": 16912035,
       "en": "'You are right, Belaith. That is a pity!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x18de631",
+      "id": 26076721,
       "en": "'Hmmph. Sauron is gone. I fear no lesser phantoms.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50288",
+      "id": 111477384,
       "en": "Talk to Mithrandir south-east of the camp-fire",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea4",
+      "id": 16912036,
       "en": "'I... I think you should steer clear of it, Belaith.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea5",
+      "id": 16912037,
       "en": "'I found no treasure there. It is perilous, and... and empty.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea6",
+      "id": 16912038,
       "en": "'You have something to say, Easterling?'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a1",
+      "id": 66639009,
       "en": "'The sun is my companion, and he shines on my home as he does here.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x1020ea7",
+      "id": 16912039,
       "en": "'It was horrible. I... do not want to speak of it.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a2",
+      "id": 66639010,
       "en": "'Ha!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a3",
+      "id": 66639011,
       "en": "'Ayorzén does not speak to cowards.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a4",
+      "id": 66639012,
       "en": "'I do not need to say it. You say it of yourselves!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a5",
+      "id": 66639013,
       "en": "'They know nothing of Sauron! They know nothing!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a6",
+      "id": 66639014,
       "en": "'He was no master of mine!'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a7",
+      "id": 66639015,
       "en": "'You do not know how it was.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3f8d4a8",
+      "id": 66639016,
       "en": "'He did not begin with Gondor.'",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }

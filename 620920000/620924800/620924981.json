@@ -2,208 +2,174 @@
   "id": 620924981,
   "txt": [
     {
-      "id": "0xfa8e118",
+      "id": 262725912,
       "en": "You have allowed the wall to become badly shelled by catapults",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xda44875",
+      "id": 228870261,
       "en": "Prepare to Fall Back",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50280",
+      "id": 111477376,
       "en": "[placeholder] Constructed Range Target Finder Destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b1",
+      "id": 111477425,
       "en": "Complete your work before the retreat begins",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50283",
+      "id": 111477379,
       "en": "[placeholder] Engineers Defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x5a3ced1",
+      "id": 94621393,
       "en": "The Rohirrim siege engineers are working to place traps and target finders to help in the retreat back to the Hornburg. The engineers will place banners where they plan to construct an item, but will be vulnerable to attack while they work, and will not complete their work if their banners are destroyed.",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b0",
+      "id": 177082800,
       "en": "You have destroyed the enemy catapult",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b3",
+      "id": 111477427,
       "en": "Do not allow the Rohirrim engineers to be defeated ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50285",
+      "id": 111477381,
       "en": "[placeholder] Placement Banner Destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b2",
+      "id": 177082802,
       "en": "The retreat has begun before the last trap has been constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b5",
+      "id": 111477429,
       "en": "[placeholder] Barricades Constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b3",
+      "id": 177082803,
       "en": "A barricade has been constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50287",
+      "id": 111477383,
       "en": "Do not allow the Rohirrim engineers to be defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b6",
+      "id": 111477430,
       "en": "[placeholder] Jaw Trap Constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b4",
+      "id": 177082804,
       "en": "A jaw trap has been constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b7",
+      "id": 111477431,
       "en": "[placeholder] Spike Trap Constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a502b8",
+      "id": 111477432,
       "en": "[placeholder] Range Finder Target Constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b6",
+      "id": 177082806,
       "en": "A spike trap has been constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b7",
+      "id": 177082807,
       "en": "A range finder target has been constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11b9",
+      "id": 177082809,
       "en": "<rgb=#FF0000>A barricade has been destroyed</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x3178d15",
+      "id": 51875093,
       "en": "The Rohirrim are quickly losing ground behind the wall and must fall back to the interior of the Hornburg. The siege engineers have come forth to lay out some traps and important siege equipment to stall the enemy, while the soldiers make their defensive retreat.\\n\\nMerit Rating\\n\\nThis quest starts with <rgb=#FFFF00>Partial</rgb> Merit Rating.\\n\\n<rgb=#00FF00>Major Merit Gain:</rgb>\\n* Rohirrim constructs a barricade\\n* Rohirrim constructs a range finder\\n\\n<rgb=#00FF00>Moderate Merit Gain:</rgb>\\n* Rohirrim constructs a spike trap\\n\\n<rgb=#00FF00>Minor Merit Gain:</rgb>\\n* Rohirrim constructs a jaw trap\\n\\n<rgb=#FF0000>Major Merit Loss:</rgb>\\n* Barricade destroyed\\n* Range finder destroyed\\n* Rohirrim engineer defeated\\n\\n<rgb=#FF0000>Moderate Merit Loss:</rgb>\\n* Placement banner destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x150d6c1",
+      "id": 22075073,
       "en": "Destroy Orc targeting banners ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50291",
+      "id": 111477393,
       "en": "Defend the Rohirrim engineers as they work on constructs ([placeholder]/6)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1190",
+      "id": 177082768,
       "en": "A Rohirrim engineer has been defeated ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1192",
+      "id": 177082770,
       "en": "The retreat has begun before the last trap has been constructed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e1194",
+      "id": 177082772,
       "en": "A Rohirrim engineer has been defeated ([placeholder]/4)",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0x6a50298",
+      "id": 111477400,
       "en": "[placeholder] Constructed Barricades Destroyed",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5027",
+      "id": 225071143,
       "en": "Do not allow the Rohirrim engineers to be defeated",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xd6a5029",
+      "id": 225071145,
       "en": "Destroy the enemy catapult",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a1",
+      "id": 177082785,
       "en": "<rgb=#FF0000>A target finder has been destroyed</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a4",
+      "id": 177082788,
       "en": "<rgb=#FF0000>A Rohirrim engineer has been defeated</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e114",
+      "id": 262725908,
       "en": "<rgb=#FF0000>The wall has been hit by the enemy catapult</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xa8e11a6",
+      "id": 177082790,
       "en": "<rgb=#FF0000>A placement banner has been destroyed</rgb>",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     },
     {
-      "id": "0xfa8e116",
+      "id": 262725910,
       "en": "Targeting banner destroyed ([placeholder]/[placeholder])",
-      "es": "",
-      "es (fem)": ""
+      "es": ""
     }
   ]
 }
